@@ -1,0 +1,96 @@
+{
+  "lemma": "pflügen",
+  "wortart": "Verb",
+  "silben": "pflü-gen",
+  "begriffserklaerung": "Pflügen bedeutet, die Erde mit einem Pflug umzugraben, damit Pflanzen gut wachsen können.",
+  "beispielsatz": "Der Bauer pflügt im Herbst das Feld, damit er im Frühling Getreide säen kann.",
+  "rechtschreibstrategie": "Denk an das Wort „Pflug\" – daraus wird „pflügen\". Das ü bleibt gleich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "pflüg",
+    "Pflug"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "pflügen",
+    "praesens": {
+      "ich": "pflüge",
+      "du": "pflügst",
+      "er_sie_es": "pflügt",
+      "wir": "pflügen",
+      "ihr": "pflügt",
+      "sie": "pflügen"
+    },
+    "perfekt": {
+      "ich": "habe gepflügt",
+      "du": "hast gepflügt",
+      "er_sie_es": "hat gepflügt",
+      "wir": "haben gepflügt",
+      "ihr": "habt gepflügt",
+      "sie": "haben gepflügt"
+    },
+    "praeteritum": {
+      "ich": "pflügte",
+      "du": "pflügtest",
+      "er_sie_es": "pflügte",
+      "wir": "pflügten",
+      "ihr": "pflügtet",
+      "sie": "pflügten"
+    }
+  },
+  "fehlschreibungen": [
+    "pflügen",
+    "pflühen",
+    "pfligen",
+    "pfluegen",
+    "phlügen",
+    "pflüjgen"
+  ],
+  "bild_datei": "pflügen.webp",
+  "audio_datei": "pflügen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to plow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "labourer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürмек (tarla sürmek)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَحْرُثُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflüger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ernten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Acker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ackern"
+    }
+  ]
+}

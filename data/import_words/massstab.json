@@ -1,0 +1,86 @@
+{
+  "lemma": "Maßstab",
+  "wortart": "Nomen",
+  "silben": "Maß-stab",
+  "begriffserklaerung": "Ein Maßstab ist ein Werkzeug oder eine Zahl, die zeigt, wie groß etwas im Vergleich zu etwas anderem ist. Zum Beispiel zeigt ein Maßstab auf einer Landkarte, wie weit es in Wirklichkeit von einem Ort zum anderen ist.",
+  "beispielsatz": "Laut dem Maßstab der Karte entspricht ein Zentimeter genau zehn Kilometern in der Wirklichkeit.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Maß\" und „Stab\". Das „Maß\" wird mit ß geschrieben – das musst du dir merken! Der zweite Teil „Stab\" klingt wie er sich schreibt.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Maß",
+    "Stab"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Maßstab",
+    "plural": "die Maßstäbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Maßstab",
+        "genitiv": "des Maßstabes",
+        "dativ": "dem Maßstab",
+        "akkusativ": "den Maßstab"
+      },
+      "plural": {
+        "nominativ": "die Maßstäbe",
+        "genitiv": "der Maßstäbe",
+        "dativ": "den Maßstäben",
+        "akkusativ": "die Maßstäbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Masstsab",
+    "Masstab",
+    "Maßstap",
+    "Maßtab",
+    "Maßschtab",
+    "Maaßstab"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "échelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقياس الرسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stab"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Skala"
+    }
+  ],
+  "bild_datei": "Maßstab.webp",
+  "audio_datei": "Maßstab.mp3"
+}

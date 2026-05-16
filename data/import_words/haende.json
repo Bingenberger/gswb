@@ -1,0 +1,86 @@
+{
+  "lemma": "Hände",
+  "wortart": "Nomen",
+  "silben": "Hän-de",
+  "begriffserklaerung": "Hände sind die beiden Körperteile am Ende deiner Arme. Mit ihnen kannst du greifen, schreiben, winken und vieles mehr.",
+  "beispielsatz": "Lea wäscht sich die Hände, bevor sie isst.",
+  "rechtschreibstrategie": "Hände kommt von „Hand\". Wenn du „Hand\" verlängerst, hörst du das „d\" deutlich: Hand → Hände. Außerdem zeigt der Umlaut ä, dass das Wort zur Familie von „Hand\" gehört.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hand"
+  ],
+  "bild_datei": "Hände.webp",
+  "audio_datei": "Hände.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hand",
+    "plural": "die Hände",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hand",
+        "genitiv": "der Hand",
+        "dativ": "der Hand",
+        "akkusativ": "die Hand"
+      },
+      "plural": {
+        "nominativ": "die Hände",
+        "genitiv": "der Hände",
+        "dativ": "den Händen",
+        "akkusativ": "die Hände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hands"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mains"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eller"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أيدي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handschuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Finger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Daumen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hende",
+    "Hände",
+    "Haende",
+    "Hännte",
+    "Häntte"
+  ]
+}

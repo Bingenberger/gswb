@@ -1,0 +1,90 @@
+{
+  "lemma": "Form",
+  "wortart": "Nomen",
+  "silben": "Form",
+  "begriffserklaerung": "Eine Form zeigt, wie etwas aussieht – zum Beispiel rund, eckig oder dreieckig. Das Wort kann auch eine Backform oder eine Schablone meinen.",
+  "beispielsatz": "Der Ball hat eine runde Form.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Form\". Du hörst am Ende ein „m\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "form"
+  ],
+  "bild_datei": "Form.webp",
+  "audio_datei": "Form.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Form",
+    "plural": "die Formen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Form",
+        "genitiv": "der Form",
+        "dativ": "der Form",
+        "akkusativ": "die Form"
+      },
+      "plural": {
+        "nominativ": "die Formen",
+        "genitiv": "der Formen",
+        "dativ": "den Formen",
+        "akkusativ": "die Formen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shape / form"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şekil / form"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شكل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "formen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "förmlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Formular"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gestalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Viereck"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fohrm",
+    "Fohm",
+    "Formt",
+    "Vorm",
+    "Foarm"
+  ]
+}

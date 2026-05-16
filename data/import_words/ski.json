@@ -1,0 +1,82 @@
+{
+  "lemma": "Ski",
+  "wortart": "Nomen",
+  "silben": "Ski",
+  "begriffserklaerung": "Ein Ski ist ein langer, schmaler Gleitstreifen aus Holz oder Kunststoff. Man befestigt ihn am Schuh und fährt damit auf Schnee.",
+  "beispielsatz": "Im Winter fährt Jonas mit seinen Skiern den Berg hinunter.",
+  "rechtschreibstrategie": "„Ski\" kommt aus dem Norwegischen und schreibt sich mit „Sk\" am Anfang – das klingt wie „Sch\", wird aber mit „Sk\" geschrieben. Merke: Ski fährt mit „Sk\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Ski"
+  ],
+  "bild_datei": "Ski.webp",
+  "audio_datei": "Ski.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ski"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ski"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kayak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تزلج (زلاجة)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Skifahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Skifahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Snowboard"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlitten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ski",
+    "plural": "die Skier",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ski",
+        "genitiv": "des Skis",
+        "dativ": "dem Ski",
+        "akkusativ": "den Ski"
+      },
+      "plural": {
+        "nominativ": "die Skier",
+        "genitiv": "der Skier",
+        "dativ": "den Skiern",
+        "akkusativ": "die Skier"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schi",
+    "Schki",
+    "Sky",
+    "Skii",
+    "Skie"
+  ]
+}

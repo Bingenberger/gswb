@@ -1,0 +1,84 @@
+{
+  "lemma": "Flusskrebs",
+  "wortart": "Nomen",
+  "silben": "Fluss-krebs",
+  "begriffserklaerung": "Ein Flusskrebs ist ein kleines Tier mit einer harten Schale, das in Flüssen und Bächen lebt. Er hat zehn Beine und zwei große Scheren.",
+  "beispielsatz": "Unter dem Stein im Bach haben wir einen Flusskrebs entdeckt!",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Fluss\" und „Krebs\". Bei „Fluss\" schreibst du nach dem kurzen „u\" ein Doppel-s. Sprich das Wort in Silben: Fluss-krebs.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fluss",
+    "Krebs"
+  ],
+  "bild_datei": "Flusskrebs.webp",
+  "audio_datei": "Flusskrebs.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flusskrebs",
+    "plural": "die Flusskrebse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flusskrebs",
+        "genitiv": "des Flusskrebses",
+        "dativ": "dem Flusskrebs",
+        "akkusativ": "den Flusskrebs"
+      },
+      "plural": {
+        "nominativ": "die Flusskrebse",
+        "genitiv": "der Flusskrebse",
+        "dativ": "den Flusskrebsen",
+        "akkusativ": "die Flusskrebse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crayfish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écrevisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tatlısu ıstakozu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرطان النهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Krebs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bachforelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Muschel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fluskrebs",
+    "Flusskrebs",
+    "Flußkrebs",
+    "Flusskrebß",
+    "Flusskreps"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Untergrund",
+  "wortart": "Nomen",
+  "silben": "Un-ter-grund",
+  "begriffserklaerung": "Der Untergrund ist der Bereich unter der Erdoberfläche oder unter dem Boden, den man nicht direkt sehen kann. Man spricht zum Beispiel vom Untergrund, wenn es um Tunnel, Wurzeln oder Gestein unter der Erde geht.",
+  "beispielsatz": "Die U-Bahn fährt tief im Untergrund durch die Stadt.",
+  "rechtschreibstrategie": "„Untergrund\" ist ein zusammengesetztes Wort aus „unter\" und „Grund\". Wenn du dir unsicher bist, zerlege es in seine zwei Teile: un-ter + Grund!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Grund",
+    "unter"
+  ],
+  "bild_datei": "Untergrund.webp",
+  "audio_datei": "Untergrund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "underground / subsoil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sous-sol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yeraltı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الأرض تحت السطح / الباطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "unterirdisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tunnel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "U-Bahn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Untererde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Untergrund",
+    "plural": "die Untergründe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Untergrund",
+        "genitiv": "des Untergrunds / des Untergrundes",
+        "dativ": "dem Untergrund",
+        "akkusativ": "den Untergrund"
+      },
+      "plural": {
+        "nominativ": "die Untergründe",
+        "genitiv": "der Untergründe",
+        "dativ": "den Untergründen",
+        "akkusativ": "die Untergründe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Untergrunt",
+    "Unttergrund",
+    "Untergrund",
+    "Untrgrund",
+    "Untergruhnd"
+  ]
+}

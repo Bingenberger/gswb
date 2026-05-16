@@ -1,0 +1,84 @@
+{
+  "lemma": "Nagetiere",
+  "wortart": "Nomen",
+  "silben": "Na-ge-tie-re",
+  "begriffserklaerung": "Nagetiere sind Tiere, die sehr starke Vorderzähne haben und damit an Dingen nagen, also knabbern. Dazu gehören zum Beispiel Mäuse, Ratten, Eichhörnchen und Meerschweinchen.",
+  "beispielsatz": "Hamster, Mäuse und Eichhörnchen gehören alle zu den Nagetieren.",
+  "rechtschreibstrategie": "Das Wort „Nagetiere\" ist aus zwei Teilen zusammengesetzt: „nagen\" und „Tiere\". Wenn du an diese beiden Bausteine denkst, kannst du das Wort leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "nagen",
+    "Tier"
+  ],
+  "bild_datei": "Nagetiere.webp",
+  "audio_datei": "Nagetiere.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rodents"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rongeurs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kemirgenler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القوارض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säugetiere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Nagetier",
+    "plural": "Nagetiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nagetier",
+        "genitiv": "des Nagetiers",
+        "dativ": "dem Nagetier",
+        "akkusativ": "das Nagetier"
+      },
+      "plural": {
+        "nominativ": "die Nagetiere",
+        "genitiv": "der Nagetiere",
+        "dativ": "den Nagetieren",
+        "akkusativ": "die Nagetiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nagehtiere",
+    "Naghtiere",
+    "Nagetiere",
+    "Naketiere",
+    "Nagetirre",
+    "Naagetiere"
+  ]
+}

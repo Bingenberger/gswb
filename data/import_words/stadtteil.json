@@ -1,0 +1,88 @@
+{
+  "lemma": "Stadtteil",
+  "wortart": "Nomen",
+  "silben": "Stadt-teil",
+  "begriffserklaerung": "Ein Stadtteil ist ein bestimmter Bereich oder ein Abschnitt einer Stadt. Jede Stadt hat mehrere Stadtteile, die oft eigene Namen haben.",
+  "beispielsatz": "Meine Oma wohnt in einem ruhigen Stadtteil am Rand der Stadt.",
+  "rechtschreibstrategie": "Das Wort „Stadtteil\" besteht aus zwei Teilen: „Stadt\" und „Teil\". Wenn du es in seine Bausteine zerlegst, schreibst du es ganz leicht richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stadt",
+    "Teil"
+  ],
+  "bild_datei": "Stadtteil.webp",
+  "audio_datei": "Stadtteil.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stadtteil",
+    "plural": "die Stadtteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stadtteil",
+        "genitiv": "des Stadtteils",
+        "dativ": "dem Stadtteil",
+        "akkusativ": "den Stadtteil"
+      },
+      "plural": {
+        "nominativ": "die Stadtteile",
+        "genitiv": "der Stadtteile",
+        "dativ": "den Stadtteilen",
+        "akkusativ": "die Stadtteile"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "district"
+    },
+    {
+      "language_code": "fr",
+      "translation": "quartier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "semt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حي المدينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Viertel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbarschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stattteil",
+    "Stadttail",
+    "Stadtteil",
+    "Stadteil",
+    "Shtadtteil",
+    "Stadttaeil"
+  ]
+}

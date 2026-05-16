@@ -1,0 +1,83 @@
+{
+  "lemma": "Damm",
+  "wortart": "Nomen",
+  "silben": "Damm",
+  "begriffserklaerung": "Ein Damm ist ein langer, erhöhter Wall aus Erde oder Steinen. Er hält Wasser zurück oder trennt zwei Gebiete voneinander.",
+  "beispielsatz": "Der Damm am Fluss hält das Hochwasser vom Dorf fern.",
+  "rechtschreibstrategie": "Das Wort „Damm\" hat nach dem kurzen „a\" zwei „m\" – das doppelte m zeigt den kurzen Vokal an.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Damm"
+  ],
+  "bild_datei": "Damm.webp",
+  "audio_datei": "Damm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dam"
+    },
+    {
+      "language_code": "fr",
+      "translation": "digue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baraj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dämmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Staudamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Damm",
+    "plural": "die Dämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Damm",
+        "genitiv": "des Dammes",
+        "dativ": "dem Damm",
+        "akkusativ": "den Damm"
+      },
+      "plural": {
+        "nominativ": "die Dämme",
+        "genitiv": "der Dämme",
+        "dativ": "den Dämmen",
+        "akkusativ": "die Dämme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dam",
+    "Daam",
+    "Dahm",
+    "Dahmm",
+    "Dамm"
+  ]
+}

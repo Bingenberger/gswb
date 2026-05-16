@@ -1,0 +1,87 @@
+{
+  "lemma": "Empfänger",
+  "wortart": "Nomen",
+  "silben": "Emp-fän-ger",
+  "begriffserklaerung": "Ein Empfänger ist eine Person, die etwas bekommt – zum Beispiel einen Brief, ein Paket oder eine Nachricht.",
+  "beispielsatz": "Der Empfänger des Briefes freute sich sehr über die Geburtstagskarte.",
+  "rechtschreibstrategie": "Denk an das Wort „empfangen\" – der Empfänger ist jemand, der etwas empfängt. Das „ä\" erkennst du, weil du es von „empfangen\" ableiten kannst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "empfang"
+  ],
+  "bild_datei": "Empfänger.webp",
+  "audio_datei": "Empfänger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recipient"
+    },
+    {
+      "language_code": "fr",
+      "translation": "destinataire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُستَلِم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "empfangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Empfang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Empfängerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Absender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Adressat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Empfänger",
+    "plural": "die Empfänger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Empfänger",
+        "genitiv": "des Empfängers",
+        "dativ": "dem Empfänger",
+        "akkusativ": "den Empfänger"
+      },
+      "plural": {
+        "nominativ": "die Empfänger",
+        "genitiv": "der Empfänger",
+        "dativ": "den Empfängern",
+        "akkusativ": "die Empfänger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Empfenger",
+    "Empfänger",
+    "Emphänger",
+    "Emfänger",
+    "Empfaenger",
+    "Empfänjer"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Winterstarre",
+  "wortart": "Nomen",
+  "silben": "Win-ter-star-re",
+  "begriffserklaerung": "Die Winterstarre ist ein tiefer Schlaf, in den manche Tiere im Winter fallen. Ihr Körper wird dabei ganz langsam und kalt, und sie bewegen sich kaum noch.",
+  "beispielsatz": "Der Frosch liegt die ganze kalte Jahreszeit in Winterstarre unter einem Stein.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Winter\" und „Starre\". Sprich beide Teile einzeln: WIN-TER + STAR-RE. Das „rr\" in „Starre\" schreibst du doppelt, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Winter",
+    "starr"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Winterstarre",
+    "plural": "die Winterstarren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Winterstarre",
+        "genitiv": "der Winterstarre",
+        "dativ": "der Winterstarre",
+        "akkusativ": "die Winterstarre"
+      },
+      "plural": {
+        "nominativ": "die Winterstarren",
+        "genitiv": "der Winterstarren",
+        "dativ": "den Winterstarren",
+        "akkusativ": "die Winterstarren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Winterstare",
+    "Wintestarre",
+    "Wintershtarre",
+    "Wintarstarre",
+    "Winterstarr"
+  ],
+  "bild_datei": "Winterstarre.webp",
+  "audio_datei": "Winterstarre.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winter torpor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "torpeur hivernale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kış uykusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبات الشتاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "starr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winterschlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kälteschlaf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kältestarre"
+    }
+  ]
+}

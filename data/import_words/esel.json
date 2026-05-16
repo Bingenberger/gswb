@@ -1,0 +1,82 @@
+{
+  "lemma": "Esel",
+  "wortart": "Nomen",
+  "silben": "E-sel",
+  "begriffserklaerung": "Ein Esel ist ein Tier mit langen Ohren und einem grauen Fell. Esel sind sehr stark und geduldig. Sie werden manchmal als Lasttiere eingesetzt.",
+  "beispielsatz": "Der Esel trägt schwere Säcke über den Bergpfad.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: E-sel. Du hörst zwei Silben. Denk daran: nur ein „s\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Esel"
+  ],
+  "bild_datei": "Esel.webp",
+  "audio_datei": "Esel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "donkey"
+    },
+    {
+      "language_code": "fr",
+      "translation": "âne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eşek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eselei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eselsbrücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grautier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Esel",
+    "plural": "die Esel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Esel",
+        "genitiv": "des Esels",
+        "dativ": "dem Esel",
+        "akkusativ": "den Esel"
+      },
+      "plural": {
+        "nominativ": "die Esel",
+        "genitiv": "der Esel",
+        "dativ": "den Eseln",
+        "akkusativ": "die Esel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eßel",
+    "Essel",
+    "Äsel",
+    "Esell",
+    "Ehsel"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Kätzchen",
+  "wortart": "Nomen",
+  "silben": "Kätz-chen",
+  "begriffserklaerung": "Ein Kätzchen ist eine kleine oder junge Katze. Das Wort klingt niedlich und wird oft für Babys oder kleine Katzen verwendet.",
+  "beispielsatz": "Das Kätzchen schläft zusammengerollt auf dem Sofa.",
+  "rechtschreibstrategie": "In „Kätzchen\" steckt das Wort „Katze\". Das „tz\" kommt nach dem kurzen „a\" – und das „chen\" ist eine Verkleinerungssilbe.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Katze"
+  ],
+  "bild_datei": "Kätzchen.webp",
+  "audio_datei": "Kätzchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kätzchen",
+    "plural": "die Kätzchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kätzchen",
+        "genitiv": "des Kätzchens",
+        "dativ": "dem Kätzchen",
+        "akkusativ": "das Kätzchen"
+      },
+      "plural": {
+        "nominativ": "die Kätzchen",
+        "genitiv": "der Kätzchen",
+        "dativ": "den Kätzchen",
+        "akkusativ": "die Kätzchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kitten"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yavru kedi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hündchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mieze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kätzchen",
+    "Ketzchen",
+    "Käzchen",
+    "Kätzschen",
+    "Kätzgen"
+  ]
+}

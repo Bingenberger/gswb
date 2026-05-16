@@ -1,0 +1,87 @@
+{
+  "lemma": "Länge",
+  "wortart": "Nomen",
+  "silben": "Län-ge",
+  "begriffserklaerung": "Die Länge sagt uns, wie lang etwas ist – also wie weit es von einem Ende zum anderen reicht.",
+  "beispielsatz": "Die Länge des Tisches beträgt zwei Meter.",
+  "rechtschreibstrategie": "Denk an das Wort „lang\" – aus „lang\" wird „Länge\". Das Umlaut-Ä kommt vom A in „lang\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lang"
+  ],
+  "bild_datei": "Länge.webp",
+  "audio_datei": "Länge.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Länge",
+    "plural": "die Längen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Länge",
+        "genitiv": "der Länge",
+        "dativ": "der Länge",
+        "akkusativ": "die Länge"
+      },
+      "plural": {
+        "nominativ": "die Längen",
+        "genitiv": "der Längen",
+        "dativ": "den Längen",
+        "akkusativ": "die Längen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "length"
+    },
+    {
+      "language_code": "fr",
+      "translation": "longueur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzunluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الطول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "länger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausdehnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Breite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maß"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lenge",
+    "Länje",
+    "Laenge",
+    "Länge",
+    "Längge",
+    "Lenke"
+  ]
+}

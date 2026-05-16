@@ -1,0 +1,83 @@
+{
+  "lemma": "Fenster",
+  "wortart": "Nomen",
+  "silben": "Fens-ter",
+  "begriffserklaerung": "Ein Fenster ist eine Öffnung in einer Wand, die mit Glas gefüllt ist. Durch das Fenster kommt Licht herein, und man kann nach draußen schauen.",
+  "beispielsatz": "Ich schaue durch das Fenster und sehe, dass es draußen schneit.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Fens – ter. Achte auf das „n\" vor dem „s\" – man hört es leise, aber es gehört dazu!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fenster"
+  ],
+  "bild_datei": "Fenster.webp",
+  "audio_datei": "Fenster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "window"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fenêtre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pencere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نافذة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fensterbrett"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fensterscheibe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tür"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fenster",
+    "plural": "die Fenster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fenster",
+        "genitiv": "des Fensters",
+        "dativ": "dem Fenster",
+        "akkusativ": "das Fenster"
+      },
+      "plural": {
+        "nominativ": "die Fenster",
+        "genitiv": "der Fenster",
+        "dativ": "den Fenstern",
+        "akkusativ": "die Fenster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fenster",
+    "Fenszer",
+    "Fensder",
+    "Fänster",
+    "Fenstar",
+    "Vfenster"
+  ]
+}

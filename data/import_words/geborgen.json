@@ -1,0 +1,90 @@
+{
+  "lemma": "geborgen",
+  "wortart": "Verb",
+  "silben": "ge-bor-gen",
+  "begriffserklaerung": "Geborgen sein bedeutet, dass man sich sicher und beschützt fühlt – zum Beispiel bei jemandem, dem man vertraut.",
+  "beispielsatz": "In Mamas Armen fühle ich mich immer geborgen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ge-bor-gen. Das „g\" am Ende hörst du, wenn du es verlängerst: geborgene. So weißt du, dass kein „k\" am Ende steht.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bergen"
+  ],
+  "bild_datei": "geborgen.webp",
+  "audio_datei": "geborgen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sheltered / safe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "en sécurité / protégé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güvende / korunmuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بأمان / محمي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bergen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geborgenheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sicher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "geschützt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sicher"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bergen",
+    "praesens": {
+      "ich": "berge",
+      "du": "birgst",
+      "er_sie_es": "birgt",
+      "wir": "bergen",
+      "ihr": "bergt",
+      "sie": "bergen"
+    },
+    "perfekt": {
+      "ich": "habe geborgen",
+      "du": "hast geborgen",
+      "er_sie_es": "hat geborgen",
+      "wir": "haben geborgen",
+      "ihr": "habt geborgen",
+      "sie": "haben geborgen"
+    },
+    "praeteritum": {
+      "ich": "barg",
+      "du": "bargst",
+      "er_sie_es": "barg",
+      "wir": "bargen",
+      "ihr": "bargt",
+      "sie": "bargen"
+    }
+  },
+  "fehlschreibungen": [
+    "geborken",
+    "geborgem",
+    "geborjen",
+    "geborren",
+    "geborqen"
+  ]
+}

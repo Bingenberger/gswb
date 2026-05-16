@@ -1,0 +1,82 @@
+{
+  "lemma": "Metall",
+  "wortart": "Nomen",
+  "silben": "Me-tall",
+  "begriffserklaerung": "Ein Metall ist ein fester Stoff, der glänzt und Wärme sowie Strom leiten kann. Eisen, Gold und Aluminium sind bekannte Metalle.",
+  "beispielsatz": "Die Schere ist aus Metall und deshalb sehr stabil.",
+  "rechtschreibstrategie": "Am Ende hörst du „tall\" – schreib es mit Doppel-l: Me-tall!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Metall"
+  ],
+  "bild_datei": "Metall.webp",
+  "audio_datei": "Metall.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Metall",
+    "plural": "die Metalle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Metall",
+        "genitiv": "des Metalls",
+        "dativ": "dem Metall",
+        "akkusativ": "das Metall"
+      },
+      "plural": {
+        "nominativ": "die Metalle",
+        "genitiv": "der Metalle",
+        "dativ": "den Metallen",
+        "akkusativ": "die Metalle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "metal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "métal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "metal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معدن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "metallisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Metallarbeiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gold"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stahl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mettal",
+    "Mettall",
+    "Metaal",
+    "metal",
+    "Meetall"
+  ]
+}

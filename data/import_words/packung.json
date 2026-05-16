@@ -1,0 +1,87 @@
+{
+  "lemma": "Packung",
+  "wortart": "Nomen",
+  "silben": "Pa-ckung",
+  "begriffserklaerung": "Eine Packung ist eine Hülle oder ein Behälter, in dem etwas verpackt ist – zum Beispiel Kekse, Nudeln oder Medikamente.",
+  "beispielsatz": "Mama kauft eine Packung Nudeln im Supermarkt.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird. Denk daran: „Pa-ckung\" hat ein „ck\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "pack"
+  ],
+  "bild_datei": "Packung.webp",
+  "audio_datei": "Packung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "package / packet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paquet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "paket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عبوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "packen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Päckchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tüte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karton"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Packung",
+    "plural": "die Packungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Packung",
+        "genitiv": "der Packung",
+        "dativ": "der Packung",
+        "akkusativ": "die Packung"
+      },
+      "plural": {
+        "nominativ": "die Packungen",
+        "genitiv": "der Packungen",
+        "dativ": "den Packungen",
+        "akkusativ": "die Packungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pakung",
+    "Packunk",
+    "Pakkung",
+    "Packuung",
+    "Packng"
+  ]
+}

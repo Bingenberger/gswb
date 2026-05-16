@@ -1,0 +1,87 @@
+{
+  "lemma": "Leere",
+  "wortart": "Nomen",
+  "silben": "Lee-re",
+  "begriffserklaerung": "Die Leere bedeutet, dass in einem Raum oder Behälter nichts drin ist. Es ist das Gefühl oder der Zustand, wenn etwas völlig leer ist.",
+  "beispielsatz": "Nach dem Umzug herrschte in unserem alten Zimmer eine große Leere.",
+  "rechtschreibstrategie": "Das Wort „Leere\" hat ein langes „ee\" in der Mitte – sprich es laut: „Lee-re\". Denk an das Wort „leer\", dann erkennst du das doppelte e!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "leer"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leere",
+    "plural": "die Leeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leere",
+        "genitiv": "der Leere",
+        "dativ": "der Leere",
+        "akkusativ": "die Leere"
+      },
+      "plural": {
+        "nominativ": "die Leeren",
+        "genitiv": "der Leeren",
+        "dativ": "den Leeren",
+        "akkusativ": "die Leeren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lere",
+    "Lähre",
+    "Lehre",
+    "Leerre",
+    "Leere"
+  ],
+  "bild_datei": "Leere.webp",
+  "audio_datei": "Leere.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emptiness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boşluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فراغ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leeren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entleeren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hohlraum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raum"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Seifenspender",
+  "wortart": "Nomen",
+  "silben": "Sei-fen-spen-der",
+  "begriffserklaerung": "Ein Seifenspender ist ein Behälter, aus dem man flüssige Seife drücken kann, um sich die Hände zu waschen.",
+  "beispielsatz": "Am Waschbecken hängt ein Seifenspender, damit wir uns die Hände sauber waschen können.",
+  "rechtschreibstrategie": "Das Wort „Seifenspender\" ist aus drei Teilen zusammengebaut: „Seife\" + „n\" + „Spender\". Sprich alle Teile einzeln, dann kannst du das Wort richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seifenspender",
+    "plural": "die Seifenspender",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seifenspender",
+        "genitiv": "des Seifenspenders",
+        "dativ": "dem Seifenspender",
+        "akkusativ": "den Seifenspender"
+      },
+      "plural": {
+        "nominativ": "die Seifenspender",
+        "genitiv": "der Seifenspender",
+        "dativ": "den Seifenspendern",
+        "akkusativ": "die Seifenspender"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Seife",
+    "spenden"
+  ],
+  "bild_datei": "Seifenspender.webp",
+  "audio_datei": "Seifenspender.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "soap dispenser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distributeur de savon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıvı sabunluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موزع الصابون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seifenspenner",
+    "Seifenspända",
+    "Seifenspenter",
+    "Seifenspenderr",
+    "Seifensbender"
+  ]
+}

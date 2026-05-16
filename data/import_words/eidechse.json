@@ -1,0 +1,72 @@
+{
+  "lemma": "Eidechse",
+  "wortart": "Nomen",
+  "silben": "Ei-dech-se",
+  "begriffserklaerung": "Eine Eidechse ist ein kleines Tier mit vier Beinen, schuppiger Haut und einem langen Schwanz. Sie lebt gern an warmen, sonnigen Plätzen und kann ihren Schwanz abwerfen, wenn sie in Gefahr ist.",
+  "beispielsatz": "Die Eidechse sonnt sich auf dem warmen Stein.",
+  "rechtschreibstrategie": "Das Wort „Eidechse\" ist ein Merkwort – schreib es einfach so, wie du es dir gemerkt hast: E-i-d-e-c-h-s-e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eidechse",
+    "plural": "die Eidechsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eidechse",
+        "genitiv": "der Eidechse",
+        "dativ": "der Eidechse",
+        "akkusativ": "die Eidechse"
+      },
+      "plural": {
+        "nominativ": "die Eidechsen",
+        "genitiv": "der Eidechsen",
+        "dativ": "den Eidechsen",
+        "akkusativ": "die Eidechsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eidexe",
+    "Eidecse",
+    "Eidächse",
+    "Eiedechse",
+    "Eidechße"
+  ],
+  "bild_datei": "Eidechse.webp",
+  "audio_datei": "Eidechse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lizard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lézard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kertenkele"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سحلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gecko"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chamäleon"
+    }
+  ]
+}

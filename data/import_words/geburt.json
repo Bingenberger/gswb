@@ -1,0 +1,83 @@
+{
+  "lemma": "Geburt",
+  "wortart": "Nomen",
+  "silben": "Ge-burt",
+  "begriffserklaerung": "Eine Geburt ist der Moment, in dem ein Baby auf die Welt kommt.",
+  "beispielsatz": "Alle freuen sich über die Geburt des kleinen Bruders.",
+  "rechtschreibstrategie": "Denke an das Verlängern: „die Geburten\" – so hörst du das „t\" am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gebär",
+    "gebur"
+  ],
+  "bild_datei": "Geburt.webp",
+  "audio_datei": "Geburt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "birth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "naissance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ولادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebären"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ankunft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geburt",
+    "plural": "die Geburten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geburt",
+        "genitiv": "der Geburt",
+        "dativ": "der Geburt",
+        "akkusativ": "die Geburt"
+      },
+      "plural": {
+        "nominativ": "die Geburten",
+        "genitiv": "der Geburten",
+        "dativ": "den Geburten",
+        "akkusativ": "die Geburten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebuhrt",
+    "Geburth",
+    "Geburd",
+    "Gebuhrd",
+    "Geburdt"
+  ]
+}

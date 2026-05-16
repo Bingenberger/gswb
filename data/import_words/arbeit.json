@@ -1,0 +1,94 @@
+{
+  "lemma": "Arbeit",
+  "wortart": "Nomen",
+  "silben": "Ar-beit",
+  "begriffserklaerung": "Eine Arbeit ist etwas, das man tut, um etwas zu schaffen oder Geld zu verdienen. Auch Aufgaben in der Schule nennt man Arbeit.",
+  "beispielsatz": "Meine Mutter geht jeden Morgen zur Arbeit.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ar-beit. Achte auf das „ei\" am Ende – das schreibt man mit „e\" und „i\", nicht mit „ai\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "arbeit"
+  ],
+  "bild_datei": "Arbeit.webp",
+  "audio_datei": "Arbeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "arbeiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeiter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "arbeitsam"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tätigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleiß"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Arbeit",
+    "plural": "die Arbeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Arbeit",
+        "genitiv": "der Arbeit",
+        "dativ": "der Arbeit",
+        "akkusativ": "die Arbeit"
+      },
+      "plural": {
+        "nominativ": "die Arbeiten",
+        "genitiv": "der Arbeiten",
+        "dativ": "den Arbeiten",
+        "akkusativ": "die Arbeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arbait",
+    "Arbeid",
+    "Arrbeit",
+    "Arbeidt",
+    "Arbiet"
+  ]
+}

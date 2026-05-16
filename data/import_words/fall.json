@@ -1,0 +1,87 @@
+{
+  "lemma": "Fall",
+  "wortart": "Nomen",
+  "silben": "Fall",
+  "begriffserklaerung": "Ein Fall ist, wenn jemand oder etwas nach unten fällt. Man sagt auch „Fall\", wenn man über einen besonderen Vorfall oder eine Situation spricht.",
+  "beispielsatz": "Beim Sturz vom Fahrrad hat sich Lena beim Fall das Knie aufgeschürft.",
+  "rechtschreibstrategie": "Das Wort „Fall\" hat ein doppeltes l am Ende. Das erkennst du, wenn du es verlängerst: der Fall → die Fälle. Da hörst du das kurze „a\" und weißt, dass ein Doppel-l folgt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fall"
+  ],
+  "bild_datei": "Fall.webp",
+  "audio_datei": "Fall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fall",
+    "plural": "die Fälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fall",
+        "genitiv": "des Falles",
+        "dativ": "dem Fall",
+        "akkusativ": "den Fall"
+      },
+      "plural": {
+        "nominativ": "die Fälle",
+        "genitiv": "der Fälle",
+        "dativ": "den Fällen",
+        "akkusativ": "die Fälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fall / case"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chute / cas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşüş / durum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سقوط / حالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einfall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sturz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fal",
+    "Fahl",
+    "fall",
+    "Faall",
+    "Phall"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Sauerkraut",
+  "wortart": "Nomen",
+  "silben": "Sau-er-kraut",
+  "begriffserklaerung": "Sauerkraut ist fein geschnittener Weißkohl, der in Salzwasser eingelegt wird, bis er säuerlich schmeckt. Es ist ein typisches deutsches Gericht und sehr gesund.",
+  "beispielsatz": "Zum Mittagessen gibt es Würstchen mit Sauerkraut.",
+  "rechtschreibstrategie": "Sauerkraut ist ein zusammengesetztes Wort aus „sauer\" und „Kraut\". Sprich beide Teile deutlich: SAUER + KRAUT. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sauer",
+    "Kraut"
+  ],
+  "bild_datei": "Sauerkraut.webp",
+  "audio_datei": "Sauerkraut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sauerkraut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "choucroute"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lahana turşusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخلل الملفوف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eingemachtes"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beilage"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sauerkraut",
+    "plural": "die Sauerkraute",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sauerkraut",
+        "genitiv": "des Sauerkrauts",
+        "dativ": "dem Sauerkraut",
+        "akkusativ": "das Sauerkraut"
+      },
+      "plural": {
+        "nominativ": "die Sauerkräuter",
+        "genitiv": "der Sauerkräuter",
+        "dativ": "den Sauerkräutern",
+        "akkusativ": "die Sauerkräuter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sauerkraud",
+    "Soierkraut",
+    "Sauercraut",
+    "Sawerkraut",
+    "Sauerkraudt",
+    "Sauerkrautt"
+  ]
+}

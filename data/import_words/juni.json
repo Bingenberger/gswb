@@ -1,0 +1,72 @@
+{
+  "lemma": "Juni",
+  "wortart": "Nomen",
+  "silben": "Ju-ni",
+  "begriffserklaerung": "Der Juni ist der sechste Monat im Jahr. Er hat 30 Tage und liegt mitten im Sommer.",
+  "beispielsatz": "Im Juni beginnen die Sommerferien.",
+  "rechtschreibstrategie": "Schreibe „Juni\" immer mit großem „J\", weil es ein Nomen ist. Sprich beide Silben deutlich: Ju-ni.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Juni",
+    "plural": "die Junis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Juni",
+        "genitiv": "des Junis",
+        "dativ": "dem Juni",
+        "akkusativ": "den Juni"
+      },
+      "plural": {
+        "nominativ": "die Junis",
+        "genitiv": "der Junis",
+        "dativ": "den Junis",
+        "akkusativ": "die Junis"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Juli"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "June"
+    },
+    {
+      "language_code": "fr",
+      "translation": "juin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Haziran"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يونيو"
+    }
+  ],
+  "fehlschreibungen": [
+    "Juhni",
+    "Juни",
+    "Junni",
+    "Junie",
+    "juni"
+  ],
+  "bild_datei": "Juni.webp",
+  "audio_datei": "Juni.mp3"
+}

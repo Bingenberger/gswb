@@ -1,0 +1,88 @@
+{
+  "lemma": "Notfall",
+  "wortart": "Nomen",
+  "silben": "Not-fall",
+  "begriffserklaerung": "Ein Notfall ist eine plötzliche, gefährliche Situation, in der man schnell Hilfe braucht.",
+  "beispielsatz": "Im Notfall rufst du sofort die Nummer 112 an.",
+  "rechtschreibstrategie": "„Notfall\" ist aus zwei Wörtern zusammengesetzt: „Not\" und „Fall\". Beide Teile kannst du einzeln hören und schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "fall"
+  ],
+  "bild_datei": "Notfall.webp",
+  "audio_datei": "Notfall.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency"
+    },
+    {
+      "language_code": "fr",
+      "translation": "urgence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil durum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حالة طوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Not"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ernstfall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Notfall",
+    "plural": "die Notfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Notfall",
+        "genitiv": "des Notfalls",
+        "dativ": "dem Notfall",
+        "akkusativ": "den Notfall"
+      },
+      "plural": {
+        "nominativ": "die Notfälle",
+        "genitiv": "der Notfälle",
+        "dativ": "den Notfällen",
+        "akkusativ": "die Notfälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nootfall",
+    "Nothfall",
+    "Notfal",
+    "Nottfall",
+    "Nohtfall"
+  ]
+}

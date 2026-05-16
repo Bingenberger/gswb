@@ -1,0 +1,81 @@
+{
+  "lemma": "Fahne",
+  "wortart": "Nomen",
+  "silben": "Fah-ne",
+  "begriffserklaerung": "Eine Fahne ist ein buntes Tuch, das an einer Stange befestigt ist. Fahnen zeigen oft, zu welchem Land oder Verein jemand gehört.",
+  "beispielsatz": "Die deutsche Fahne ist schwarz, rot und gold.",
+  "rechtschreibstrategie": "In „Fahne\" hörst du ein langes „a\". Das lange „a\" wird hier mit „ah\" geschrieben – merk dir: Fah-ne!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Fahn"
+  ],
+  "bild_datei": "Fahne.webp",
+  "audio_datei": "Fahne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "drapeau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bayrak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beflaggen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahnenmast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flagge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wappen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flagge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fahne",
+    "plural": "die Fahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fahne",
+        "genitiv": "der Fahne",
+        "dativ": "der Fahne",
+        "akkusativ": "die Fahne"
+      },
+      "plural": {
+        "nominativ": "die Fahnen",
+        "genitiv": "der Fahnen",
+        "dativ": "den Fahnen",
+        "akkusativ": "die Fahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fane",
+    "Vahne",
+    "Fahna",
+    "Fahn"
+  ]
+}

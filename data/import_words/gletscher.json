@@ -1,0 +1,79 @@
+{
+  "lemma": "Gletscher",
+  "wortart": "Nomen",
+  "silben": "Glет-scher",
+  "begriffserklaerung": "Ein Gletscher ist eine sehr große, dicke Masse aus Eis und Schnee, die langsam einen Berg hinuntergleitet. Gletscher entstehen in hohen Bergen oder in der Nähe der Pole, wo es sehr kalt ist.",
+  "beispielsatz": "Im Urlaub in den Alpen haben wir einen riesigen Gletscher aus der Nähe gesehen.",
+  "rechtschreibstrategie": "Denk an das Wort „gleiten\" – ein Gletscher gleitet langsam den Berg hinunter. Deshalb beginnt Gletscher mit „Gl\". Sprich das Wort laut: Glet-scher. Das „sch\" am Ende hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "gleit"
+  ],
+  "bild_datei": "Gletscher.webp",
+  "audio_datei": "Gletscher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glacier"
+    },
+    {
+      "language_code": "fr",
+      "translation": "glacier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buzul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهر جليدي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gleiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisberg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebirge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gletscher",
+    "plural": "die Gletscher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gletscher",
+        "genitiv": "des Gletschers",
+        "dativ": "dem Gletscher",
+        "akkusativ": "den Gletscher"
+      },
+      "plural": {
+        "nominativ": "die Gletscher",
+        "genitiv": "der Gletscher",
+        "dativ": "den Gletschern",
+        "akkusativ": "die Gletscher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Glätscher",
+    "Gletsher",
+    "Gletsjer",
+    "Gletschar",
+    "Kletzscher",
+    "Glezcher"
+  ]
+}

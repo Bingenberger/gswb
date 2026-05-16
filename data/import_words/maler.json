@@ -1,0 +1,85 @@
+{
+  "lemma": "Maler",
+  "wortart": "Nomen",
+  "silben": "Ma-ler",
+  "begriffserklaerung": "Ein Maler ist ein Mensch, der Bilder malt oder Wände und Häuser mit Farbe anstreicht.",
+  "beispielsatz": "Der Maler taucht seinen Pinsel in die rote Farbe und malt ein schönes Bild.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ma-ler. Du hörst zwei Silben. Nach dem langen „a\" schreibst du nur ein „l\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mal"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Maler",
+    "plural": "die Maler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Maler",
+        "genitiv": "des Malers",
+        "dativ": "dem Maler",
+        "akkusativ": "den Maler"
+      },
+      "plural": {
+        "nominativ": "die Maler",
+        "genitiv": "der Maler",
+        "dativ": "den Malern",
+        "akkusativ": "die Maler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mahler",
+    "Maller",
+    "Mahller",
+    "Maaler"
+  ],
+  "bild_datei": "Maler.webp",
+  "audio_datei": "Maler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "painter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peintre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ressam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "malen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Malerei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Künstler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Farbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    }
+  ]
+}

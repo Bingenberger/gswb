@@ -1,0 +1,83 @@
+{
+  "lemma": "Kostüm",
+  "wortart": "Nomen",
+  "silben": "Kos-tüm",
+  "begriffserklaerung": "Ein Kostüm ist ein besonderes Verkleidungsoutfit, das man zu Festen wie Karneval oder beim Theaterspielen anzieht.",
+  "beispielsatz": "Zu Karneval trägt Lena ein buntes Kostüm als Meerjungfrau.",
+  "rechtschreibstrategie": "Das Wort „Kostüm\" schreibt man mit ü und am Ende mit m – sprich es laut: Kos-TÜÜM. Merke dir das ü!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Kostüm"
+  ],
+  "bild_datei": "Kostüm.webp",
+  "audio_datei": "Kostüm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "costume"
+    },
+    {
+      "language_code": "fr",
+      "translation": "costume"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kostüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زي تنكري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kostümieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kostümierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkleidung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karneval"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verkleidung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kostüm",
+    "plural": "die Kostüme",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kostüm",
+        "genitiv": "des Kostüms",
+        "dativ": "dem Kostüm",
+        "akkusativ": "das Kostüm"
+      },
+      "plural": {
+        "nominativ": "die Kostüme",
+        "genitiv": "der Kostüme",
+        "dativ": "den Kostümen",
+        "akkusativ": "die Kostüme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kostühn",
+    "Kostiem",
+    "Costüm",
+    "Kostümm",
+    "Kostum",
+    "Kustüm"
+  ]
+}

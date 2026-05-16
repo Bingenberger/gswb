@@ -1,0 +1,82 @@
+{
+  "lemma": "Daten",
+  "wortart": "Nomen",
+  "silben": "Da-ten",
+  "begriffserklaerung": "Daten sind viele einzelne Informationen, die man sammeln, speichern und am Computer verarbeiten kann.",
+  "beispielsatz": "Der Computer speichert viele Daten, zum Beispiel Fotos und Texte.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Da-ten. Das „t\" in der Mitte gehört zur zweiten Silbe. Denk daran: kein Doppel-t, weil das „a\" lang gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Dat"
+  ],
+  "bild_datei": "Daten.webp",
+  "audio_datei": "Daten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "data"
+    },
+    {
+      "language_code": "fr",
+      "translation": "données"
+    },
+    {
+      "language_code": "tr",
+      "translation": "veriler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيانات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Datum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Datenbank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Information"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Informationen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Datum",
+    "plural": "Daten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Datum",
+        "genitiv": "des Datums",
+        "dativ": "dem Datum",
+        "akkusativ": "das Datum"
+      },
+      "plural": {
+        "nominativ": "die Daten",
+        "genitiv": "der Daten",
+        "dativ": "den Daten",
+        "akkusativ": "die Daten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Datten",
+    "Dahten",
+    "daten",
+    "Dathen",
+    "Dattan"
+  ]
+}

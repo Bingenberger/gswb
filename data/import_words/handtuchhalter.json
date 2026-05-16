@@ -1,0 +1,85 @@
+{
+  "lemma": "Handtuchhalter",
+  "wortart": "Nomen",
+  "silben": "Hand-tuch-hal-ter",
+  "begriffserklaerung": "Ein Handtuchhalter ist eine Stange oder ein Haken an der Wand, an dem man Handtücher aufhängen kann – zum Beispiel im Badezimmer.",
+  "beispielsatz": "Mama hängt das nasse Handtuch an den Handtuchhalter neben dem Waschbecken.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Hand\" + „Tuch\" + „Halter\". Sprich alle Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Tuch",
+    "halt"
+  ],
+  "bild_datei": "Handtuchhalter.webp",
+  "audio_datei": "Handtuchhalter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "towel rack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte-serviettes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havluluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حامل المنشفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badezimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handtuchhalter",
+    "plural": "die Handtuchhalter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handtuchhalter",
+        "genitiv": "des Handtuchhalters",
+        "dativ": "dem Handtuchhalter",
+        "akkusativ": "den Handtuchhalter"
+      },
+      "plural": {
+        "nominativ": "die Handtuchhalter",
+        "genitiv": "der Handtuchhalter",
+        "dativ": "den Handtuchhaltern",
+        "akkusativ": "die Handtuchhalter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handtuchhalder",
+    "Handtuchalter",
+    "Handtuchhhalter",
+    "Hantuchhalter",
+    "Handtuchhaltta",
+    "Handtuchhalterr"
+  ]
+}

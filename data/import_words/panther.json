@@ -1,0 +1,72 @@
+{
+  "lemma": "Panther",
+  "wortart": "Nomen",
+  "silben": "Pan-ther",
+  "begriffserklaerung": "Ein Panther ist eine große, wilde Raubkatze. Er hat meist schwarzes oder gelb-geflecktes Fell und lebt in Afrika und Asien.",
+  "beispielsatz": "Der schwarze Panther schleicht leise durch den Dschungel.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Pan-ther. Das „th\" sprichst du wie ein einfaches „t\" – aber es wird „th\" geschrieben. Merke dir: „th\" steckt im Wort Panther!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Panther.webp",
+  "audio_datei": "Panther.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "panther"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panthère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "panter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نمر أسود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leopard"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Panther",
+    "plural": "die Panther",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Panther",
+        "genitiv": "des Panthers",
+        "dativ": "dem Panther",
+        "akkusativ": "den Panther"
+      },
+      "plural": {
+        "nominativ": "die Panther",
+        "genitiv": "der Panther",
+        "dativ": "den Panthern",
+        "akkusativ": "die Panther"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Panter",
+    "Panthär",
+    "Phanter",
+    "Panthher",
+    "Banther"
+  ]
+}

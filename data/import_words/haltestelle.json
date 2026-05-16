@@ -1,0 +1,88 @@
+{
+  "lemma": "Haltestelle",
+  "wortart": "Nomen",
+  "silben": "Hal-te-stel-le",
+  "begriffserklaerung": "Eine Haltestelle ist ein bestimmter Platz, an dem Busse oder Straßenbahnen stoppen, damit Fahrgäste ein- und aussteigen können.",
+  "beispielsatz": "Wir warten an der Haltestelle auf den Bus.",
+  "rechtschreibstrategie": "Das Wort „Haltestelle\" ist aus zwei Wörtern zusammengebaut: „halten\" und „Stelle\". Wenn du beides kennst, kannst du das ganze Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "halt",
+    "stell"
+  ],
+  "bild_datei": "Haltestelle.webp",
+  "audio_datei": "Haltestelle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bus stop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arrêt de bus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة توقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bushaltestelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Haltestelle",
+    "plural": "die Haltestellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Haltestelle",
+        "genitiv": "der Haltestelle",
+        "dativ": "der Haltestelle",
+        "akkusativ": "die Haltestelle"
+      },
+      "plural": {
+        "nominativ": "die Haltestellen",
+        "genitiv": "der Haltestellen",
+        "dativ": "den Haltestellen",
+        "akkusativ": "die Haltestellen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haltästelle",
+    "Halltestelle",
+    "Haltestele",
+    "Halteställe",
+    "Haltesstelle",
+    "Haltestell"
+  ]
+}

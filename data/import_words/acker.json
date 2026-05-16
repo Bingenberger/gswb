@@ -1,0 +1,82 @@
+{
+  "lemma": "Acker",
+  "wortart": "Nomen",
+  "silben": "A-cker",
+  "begriffserklaerung": "Ein Acker ist ein großes Stück Land, das Bauern umpflügen und bepflanzen, um Getreide, Gemüse oder andere Pflanzen anzubauen.",
+  "beispielsatz": "Der Bauer pflügt den Acker, damit er im Frühling Weizen säen kann.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" kommt „ck\" – das ist das Kürzezeichen! Schreib also „Acker\" mit „ck\", nicht mit nur einem „k\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Acker"
+  ],
+  "bild_datei": "Acker.webp",
+  "audio_datei": "Acker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "field"
+    },
+    {
+      "language_code": "fr",
+      "translation": "champ"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ackerbau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ackern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feld"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Acker",
+    "plural": "die Äcker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Acker",
+        "genitiv": "des Ackers",
+        "dativ": "dem Acker",
+        "akkusativ": "den Acker"
+      },
+      "plural": {
+        "nominativ": "die Äcker",
+        "genitiv": "der Äcker",
+        "dativ": "den Äckern",
+        "akkusativ": "die Äcker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aker",
+    "Akker",
+    "Ackar",
+    "Accker",
+    "Ackher"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Kette",
+  "wortart": "Nomen",
+  "silben": "Ket-te",
+  "begriffserklaerung": "Eine Kette besteht aus vielen Ringen oder Gliedern, die miteinander verbunden sind. Man trägt sie als Schmuck um den Hals oder benutzt sie zum Befestigen von Dingen.",
+  "beispielsatz": "Meine Oma hat mir eine goldene Kette zum Geburtstag geschenkt.",
+  "rechtschreibstrategie": "Das Wort „Kette\" hat ein kurzes „e\". Weil der Vokal kurz ist, folgen zwei „t\" hintereinander – das nennt man Kürzezeichen: Ket-te.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kette"
+  ],
+  "bild_datei": "Kette.webp",
+  "audio_datei": "Kette.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaîne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zincir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلسلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anketten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kettenglied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Halsschmuck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kette",
+    "plural": "die Ketten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kette",
+        "genitiv": "der Kette",
+        "dativ": "der Kette",
+        "akkusativ": "die Kette"
+      },
+      "plural": {
+        "nominativ": "die Ketten",
+        "genitiv": "der Ketten",
+        "dativ": "den Ketten",
+        "akkusativ": "die Ketten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kete",
+    "Kette",
+    "Kätte",
+    "Kedte"
+  ]
+}

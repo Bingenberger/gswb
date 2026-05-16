@@ -1,0 +1,84 @@
+{
+  "lemma": "Windrad",
+  "wortart": "Nomen",
+  "silben": "Wind-rad",
+  "begriffserklaerung": "Ein Windrad ist eine große Maschine mit langen Flügeln, die sich durch den Wind drehen. So wird aus Windkraft Strom erzeugt.",
+  "beispielsatz": "Auf dem Hügel drehen sich viele Windräder im Wind.",
+  "rechtschreibstrategie": "„Windrad\" ist aus zwei Wörtern zusammengesetzt: „Wind\" und „Rad\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wind",
+    "Rad"
+  ],
+  "bild_datei": "Windrad.webp",
+  "audio_datei": "Windrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wind turbine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éolienne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rüzgar türbini"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاحونة هواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windkraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windmühle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Windrad",
+    "plural": "die Windräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Windrad",
+        "genitiv": "des Windrades",
+        "dativ": "dem Windrad",
+        "akkusativ": "das Windrad"
+      },
+      "plural": {
+        "nominativ": "die Windräder",
+        "genitiv": "der Windräder",
+        "dativ": "den Windrädern",
+        "akkusativ": "die Windräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Windrat",
+    "Windratt",
+    "Wintrad",
+    "Windraad",
+    "Windrahd"
+  ]
+}

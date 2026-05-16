@@ -1,0 +1,85 @@
+{
+  "lemma": "Feststoff",
+  "wortart": "Nomen",
+  "silben": "Fest-stoff",
+  "begriffserklaerung": "Ein Feststoff ist ein Material, das eine feste Form hat und nicht fließt. Steine, Holz und Eis sind zum Beispiel Feststoffe.",
+  "beispielsatz": "Stein ist ein Feststoff, weil er seine Form behält.",
+  "rechtschreibstrategie": "Das Wort „Feststoff\" besteht aus zwei Teilen: „fest\" und „Stoff\". Schreibe beide Teile einfach zusammen. Das doppelte „s\" in der Mitte kommt daher, dass „fest\" mit „s\" endet und „Stoff\" mit „St\" beginnt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fest",
+    "Stoff"
+  ],
+  "bild_datei": "Feststoff.webp",
+  "audio_datei": "Feststoff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "solid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "solide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katı madde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة صلبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fest"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flüssigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aggregatzustand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feststoff",
+    "plural": "die Feststoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feststoff",
+        "genitiv": "des Feststoffs",
+        "dativ": "dem Feststoff",
+        "akkusativ": "den Feststoff"
+      },
+      "plural": {
+        "nominativ": "die Feststoffe",
+        "genitiv": "der Feststoffe",
+        "dativ": "den Feststoffen",
+        "akkusativ": "die Feststoffe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feststof",
+    "Festsstoff",
+    "Fesdstoff",
+    "Feststoffe",
+    "Festoff",
+    "Feststoph"
+  ]
+}

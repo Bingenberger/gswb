@@ -1,0 +1,84 @@
+{
+  "lemma": "Einnahme",
+  "wortart": "Nomen",
+  "silben": "Ein-nah-me",
+  "begriffserklaerung": "Eine Einnahme ist Geld, das jemand bekommt – zum Beispiel als Lohn oder als Taschengeld. Das Wort kann auch bedeuten, dass man eine Medizin schluckt.",
+  "beispielsatz": "Die Einnahme des Ladens war heute sehr hoch, weil viele Kunden eingekauft haben.",
+  "rechtschreibstrategie": "Das Wort „Einnahme\" hat zwei n in der Mitte, weil es aus „ein\" und „nahme\" zusammengesetzt ist. Sprich beide Teile laut: EIN + NAHME – dann hörst du die zwei n!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "nehmen",
+    "Nahme"
+  ],
+  "bild_datei": "Einnahme.webp",
+  "audio_datei": "Einnahme.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einnahme",
+    "plural": "die Einnahmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einnahme",
+        "genitiv": "der Einnahme",
+        "dativ": "der Einnahme",
+        "akkusativ": "die Einnahme"
+      },
+      "plural": {
+        "nominativ": "die Einnahmen",
+        "genitiv": "der Einnahmen",
+        "dativ": "den Einnahmen",
+        "akkusativ": "die Einnahmen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "income / revenue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "recette / revenu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gelir / kazanç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دخل / إيراد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verdienst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verdienst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Einname",
+    "Einnname",
+    "Einnahm",
+    "Einnachme",
+    "Einnamme"
+  ]
+}

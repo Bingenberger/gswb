@@ -1,0 +1,97 @@
+{
+  "lemma": "abstimmen",
+  "wortart": "Verb",
+  "silben": "ab-stim-men",
+  "begriffserklaerung": "Wenn eine Gruppe abstimmt, zeigt jeder durch Handzeichen oder Ankreuzen, was er möchte. So wird gemeinsam entschieden.",
+  "beispielsatz": "Die Klasse stimmt ab, welches Spiel sie in der Pause spielen möchte.",
+  "rechtschreibstrategie": "Schreibe das Wort in Teile: „ab\" + „stimm\" + „en\". Das „mm\" hörst du beim Mitsprechen: ab-STIMM-en. Nach kurzem Vokal schreibt man zwei „m\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stimme",
+    "stimm"
+  ],
+  "bild_datei": "abstimmen.webp",
+  "audio_datei": "abstimmen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "abstimmen",
+    "praesens": {
+      "ich": "stimme ab",
+      "du": "stimmst ab",
+      "er_sie_es": "stimmt ab",
+      "wir": "stimmen ab",
+      "ihr": "stimmt ab",
+      "sie": "stimmen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgestimmt",
+      "du": "hast abgestimmt",
+      "er_sie_es": "hat abgestimmt",
+      "wir": "haben abgestimmt",
+      "ihr": "habt abgestimmt",
+      "sie": "haben abgestimmt"
+    },
+    "praeteritum": {
+      "ich": "stimmte ab",
+      "du": "stimmtest ab",
+      "er_sie_es": "stimmte ab",
+      "wir": "stimmten ab",
+      "ihr": "stimmtet ab",
+      "sie": "stimmten ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to vote"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oy vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُصوِّت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "entscheiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahl"
+    }
+  ],
+  "fehlschreibungen": [
+    "apstimmen",
+    "abstimen",
+    "abshtimmen",
+    "abstimmen",
+    "absstimmen",
+    "abstimem"
+  ]
+}

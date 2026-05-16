@@ -1,0 +1,83 @@
+{
+  "lemma": "Tastatur",
+  "wortart": "Nomen",
+  "silben": "Tas-ta-tur",
+  "begriffserklaerung": "Eine Tastatur ist ein Gerät mit vielen Tasten, mit dem du Buchstaben, Zahlen und Zeichen in einen Computer oder ein Tablet eingeben kannst.",
+  "beispielsatz": "Lena tippt ihren Namen auf der Tastatur des Computers.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Tas – ta – tur. Achte auf das „t\" in der Mitte – es klingt fast wie „d\", wird aber mit „t\" geschrieben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tastatur",
+    "plural": "die Tastaturen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tastatur",
+        "genitiv": "der Tastatur",
+        "dativ": "der Tastatur",
+        "akkusativ": "die Tastatur"
+      },
+      "plural": {
+        "nominativ": "die Tastaturen",
+        "genitiv": "der Tastaturen",
+        "dativ": "den Tastaturen",
+        "akkusativ": "die Tastaturen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Taste"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taste"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tastadur",
+    "Tastatur",
+    "Tastatuur",
+    "Tastathur",
+    "Tastadtur",
+    "Tasteatur"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "keyboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clavier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "klavye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوحة المفاتيح"
+    }
+  ],
+  "bild_datei": "Tastatur.webp",
+  "audio_datei": "Tastatur.mp3"
+}

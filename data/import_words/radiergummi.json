@@ -1,0 +1,83 @@
+{
+  "lemma": "Radiergummi",
+  "wortart": "Nomen",
+  "silben": "Ra-dier-gum-mi",
+  "begriffserklaerung": "Ein Radiergummi ist ein kleines, weiches Stück, mit dem du Bleistift-Schrift wieder wegmachen kannst.",
+  "beispielsatz": "Ich benutze den Radiergummi, um meinen Fehler im Heft auszuradieren.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „radier\" (vom Verb radieren) und „Gummi\". Sprich beide Teile laut mit: Ra-dier-gum-mi. Das „ie\" in „radier\" klingt lang – merke es dir!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "radier"
+  ],
+  "bild_datei": "Radiergummi.webp",
+  "audio_datei": "Radiergummi.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Radiergummi",
+    "plural": "die Radiergummis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Radiergummi",
+        "genitiv": "des Radiergummis",
+        "dativ": "dem Radiergummi",
+        "akkusativ": "den Radiergummi"
+      },
+      "plural": {
+        "nominativ": "die Radiergummis",
+        "genitiv": "der Radiergummis",
+        "dativ": "den Radiergummis",
+        "akkusativ": "die Radiergummis"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "eraser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gomme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممحاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "radieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radierer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bleistift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spitzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Radiirgummi",
+    "Radhiergummi",
+    "Radiergumi",
+    "Ratiergumy",
+    "Radiergummy"
+  ]
+}

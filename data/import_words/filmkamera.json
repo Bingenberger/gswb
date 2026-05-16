@@ -1,0 +1,83 @@
+{
+  "lemma": "Filmkamera",
+  "wortart": "Nomen",
+  "silben": "Film-ka-me-ra",
+  "begriffserklaerung": "Eine Filmkamera ist ein Gerät, mit dem man bewegte Bilder aufnehmen kann, also Filme dreht.",
+  "beispielsatz": "Mit der Filmkamera haben wir unser Schulfest aufgenommen.",
+  "rechtschreibstrategie": "Das Wort „Filmkamera\" besteht aus zwei Teilen: „Film\" und „Kamera\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Film",
+    "Kamera"
+  ],
+  "bild_datei": "Filmkamera.webp",
+  "audio_datei": "Filmkamera.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "film camera"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caméra"
+    },
+    {
+      "language_code": "tr",
+      "translation": "film kamerası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاميرا فيديو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fotokamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikrofon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stativ"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Filmkamera",
+    "plural": "die Filmkameras",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Filmkamera",
+        "genitiv": "der Filmkamera",
+        "dativ": "der Filmkamera",
+        "akkusativ": "die Filmkamera"
+      },
+      "plural": {
+        "nominativ": "die Filmkameras",
+        "genitiv": "der Filmkameras",
+        "dativ": "den Filmkameras",
+        "akkusativ": "die Filmkameras"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Filmcamera",
+    "Filmkamara",
+    "Filmkamerra",
+    "Filmkamra",
+    "Filmkkamera"
+  ]
+}

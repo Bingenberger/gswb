@@ -1,0 +1,81 @@
+{
+  "lemma": "Gelenk",
+  "wortart": "Nomen",
+  "silben": "Ge-lenk",
+  "begriffserklaerung": "Ein Gelenk ist eine bewegliche Verbindung zwischen zwei Knochen im Körper, zum Beispiel am Knie oder am Ellenbogen.",
+  "beispielsatz": "Beim Fußball hat sich Finn das Gelenk am Knöchel leicht verdreht.",
+  "rechtschreibstrategie": "Schreibe „Gelenk\" mit „ck\" am Ende? Nein! Sprich das Wort genau: Ge-lenk – du hörst ein einzelnes „k\" am Ende. Verlängere das Wort: „die Gelenke\" – jetzt siehst du das „k\" deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lenk"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gelenk",
+    "plural": "die Gelenke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gelenk",
+        "genitiv": "des Gelenks",
+        "dativ": "dem Gelenk",
+        "akkusativ": "das Gelenk"
+      },
+      "plural": {
+        "nominativ": "die Gelenke",
+        "genitiv": "der Gelenke",
+        "dativ": "den Gelenken",
+        "akkusativ": "die Gelenke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gelenck",
+    "Gelengt",
+    "Geleng",
+    "Geläng"
+  ],
+  "bild_datei": "Gelenk.webp",
+  "audio_datei": "Gelenk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "joint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "articulation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eklem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lenken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gelenkig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Muskel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Block",
+  "wortart": "Nomen",
+  "silben": "Block",
+  "begriffserklaerung": "Ein Block ist ein dicker Stapel Papier, der zusammengeheftet ist. Man kann darauf schreiben oder malen. Ein Block kann auch ein großer, fester Klotz aus Holz, Stein oder anderen Materialien sein.",
+  "beispielsatz": "Lena schreibt ihre Hausaufgaben auf ihren neuen Block.",
+  "rechtschreibstrategie": "Das Wort „Block\" endet auf -ck, weil der Vokal „o\" kurz gesprochen wird. Nach einem kurzen Vokal schreibt man immer ck statt kk!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "block"
+  ],
+  "bild_datei": "Block.webp",
+  "audio_datei": "Block.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "block / notepad"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bloc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "blok / not defteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتلة / دفتر ملاحظات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blockieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blockade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notizblock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Block",
+    "plural": "die Blöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Block",
+        "genitiv": "des Blocks",
+        "dativ": "dem Block",
+        "akkusativ": "den Block"
+      },
+      "plural": {
+        "nominativ": "die Blöcke",
+        "genitiv": "der Blöcke",
+        "dativ": "den Blöcken",
+        "akkusativ": "die Blöcke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blok",
+    "Bloock",
+    "Blokk",
+    "Blocck",
+    "Blöck"
+  ]
+}

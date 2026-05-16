@@ -1,0 +1,102 @@
+{
+  "lemma": "werten",
+  "wortart": "Verb",
+  "silben": "wer-ten",
+  "begriffserklaerung": "Etwas werten bedeutet, zu entscheiden, wie gut oder schlecht etwas ist – zum Beispiel bei einem Wettbewerb oder einer Prüfung.",
+  "beispielsatz": "Die Schiedsrichterin wertet den Sprung mit zehn Punkten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: wer-ten. Du hörst zwei Silben. Das erste „e\" in „wer\" ist lang, darum schreibt man nur ein „r\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wert"
+  ],
+  "bild_datei": "werten.webp",
+  "audio_datei": "werten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "werten",
+    "praesens": {
+      "ich": "werte",
+      "du": "wertest",
+      "er_sie_es": "wertet",
+      "wir": "werten",
+      "ihr": "wertet",
+      "sie": "werten"
+    },
+    "perfekt": {
+      "ich": "habe gewertet",
+      "du": "hast gewertet",
+      "er_sie_es": "hat gewertet",
+      "wir": "haben gewertet",
+      "ihr": "habt gewertet",
+      "sie": "haben gewertet"
+    },
+    "praeteritum": {
+      "ich": "wertete",
+      "du": "wertetest",
+      "er_sie_es": "wertete",
+      "wir": "werteten",
+      "ihr": "wertetet",
+      "sie": "werteten"
+    }
+  },
+  "fehlschreibungen": [
+    "wärten",
+    "wehrten",
+    "wertten",
+    "werdten",
+    "värten"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rate / to judge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "évaluer / noter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değerlendirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُقيِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bewertung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wertvoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bewerten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beurteilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiedsrichter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Punktestand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettbewerb"
+    }
+  ]
+}

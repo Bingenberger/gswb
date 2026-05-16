@@ -1,0 +1,100 @@
+{
+  "lemma": "abbremsen",
+  "wortart": "Verb",
+  "silben": "ab-brem-sen",
+  "begriffserklaerung": "Etwas abbremsen bedeutet, es langsamer werden zu lassen oder es zum Stehen zu bringen.",
+  "beispielsatz": "Der Fahrer bremst das Auto rechtzeitig vor der roten Ampel ab.",
+  "rechtschreibstrategie": "Das Wort besteht aus „ab\" und „bremsen\". Sprich beide Teile deutlich: ab-brem-sen. Das doppelte „b\" in der Mitte kommt daher, weil „ab\" auf „b\" endet und „bremsen\" mit „b\" beginnt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bremsen",
+    "Bremse"
+  ],
+  "bild_datei": "abbremsen.webp",
+  "audio_datei": "abbremsen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to brake / to slow down"
+    },
+    {
+      "language_code": "fr",
+      "translation": "freiner / ralentir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fren yapmak / yavaşlatmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُكبّل / يُبطئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bremsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bremse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verlangsamen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anhalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stoppen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beschleunigen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "abbremsen",
+    "praesens": {
+      "ich": "bremse ab",
+      "du": "bremst ab",
+      "er_sie_es": "bremst ab",
+      "wir": "bremsen ab",
+      "ihr": "bremst ab",
+      "sie": "bremsen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgebremst",
+      "du": "hast abgebremst",
+      "er_sie_es": "hat abgebremst",
+      "wir": "haben abgebremst",
+      "ihr": "habt abgebremst",
+      "sie": "haben abgebremst"
+    },
+    "praeteritum": {
+      "ich": "bremste ab",
+      "du": "bremStest ab",
+      "er_sie_es": "bremste ab",
+      "wir": "bremsten ab",
+      "ihr": "bremStet ab",
+      "sie": "bremsten ab"
+    }
+  },
+  "fehlschreibungen": [
+    "abbremßen",
+    "abremsen",
+    "Abbremsen",
+    "abbrämsen",
+    "abbremzsen"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Kopf",
+  "wortart": "Nomen",
+  "silben": "Kopf",
+  "begriffserklaerung": "Der Kopf ist der oberste Teil des Körpers. In ihm sitzt das Gehirn. Am Kopf befinden sich Augen, Ohren, Nase und Mund.",
+  "beispielsatz": "Mia trägt eine Mütze auf dem Kopf.",
+  "rechtschreibstrategie": "Schreibe „Kopf\" mit einem p und einem f am Ende. Wenn du das Wort verlängerst, hörst du: „Köp-fe\" – so erkennst du das p.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kopf"
+  ],
+  "bild_datei": "Kopf.webp",
+  "audio_datei": "Kopf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "head"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tête"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kafa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رأس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopfschmerz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "köpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kopflos"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haupt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Kopf",
+    "plural": "Köpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kopf",
+        "genitiv": "des Kopfes",
+        "dativ": "dem Kopf",
+        "akkusativ": "den Kopf"
+      },
+      "plural": {
+        "nominativ": "die Köpfe",
+        "genitiv": "der Köpfe",
+        "dativ": "den Köpfen",
+        "akkusativ": "die Köpfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kobf",
+    "Kopph",
+    "Kopff",
+    "Kopf",
+    "Koph",
+    "Goph"
+  ]
+}

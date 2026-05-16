@@ -1,0 +1,100 @@
+{
+  "lemma": "entschuldigen",
+  "wortart": "Verb",
+  "silben": "ent-schul-di-gen",
+  "begriffserklaerung": "Wenn du jemanden um Verzeihung bittest, weil du etwas Falsches getan hast, dann entschuldigst du dich.",
+  "beispielsatz": "Leon entschuldigt sich bei seiner Freundin, weil er sie versehentlich angerempelt hat.",
+  "rechtschreibstrategie": "Das Wort steckt in „Schuld\" – wer sich entschuldigt, trägt keine Schuld mehr. Schreib das „sch\" als ein Laut!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schuld"
+  ],
+  "bild_datei": "entschuldigen.webp",
+  "audio_datei": "entschuldigen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "entschuldigen",
+    "praesens": {
+      "ich": "entschuldige",
+      "du": "entschuldigst",
+      "er_sie_es": "entschuldigt",
+      "wir": "entschuldigen",
+      "ihr": "entschuldigt",
+      "sie": "entschuldigen"
+    },
+    "perfekt": {
+      "ich": "habe entschuldigt",
+      "du": "hast entschuldigt",
+      "er_sie_es": "hat entschuldigt",
+      "wir": "haben entschuldigt",
+      "ihr": "habt entschuldigt",
+      "sie": "haben entschuldigt"
+    },
+    "praeteritum": {
+      "ich": "entschuldigte",
+      "du": "entschuldigtest",
+      "er_sie_es": "entschuldigte",
+      "wir": "entschuldigten",
+      "ihr": "entschuldigtet",
+      "sie": "entschuldigten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to apologize"
+    },
+    {
+      "language_code": "fr",
+      "translation": "s'excuser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "özür dilemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يعتذر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Entschuldigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich entschuldigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "um Verzeihung bitten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verzeihen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "danken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bitten"
+    }
+  ],
+  "fehlschreibungen": [
+    "entshuldigen",
+    "entschuldigten",
+    "entschuldiegn",
+    "entschultigen",
+    "entshuldigten",
+    "entschulddigen",
+    "entschhuldigen"
+  ]
+}

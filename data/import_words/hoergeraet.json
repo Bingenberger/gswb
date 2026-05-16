@@ -1,0 +1,84 @@
+{
+  "lemma": "Hörgerät",
+  "wortart": "Nomen",
+  "silben": "Hör-ge-rät",
+  "begriffserklaerung": "Ein Hörgerät ist ein kleines Gerät, das Menschen hilft, besser zu hören. Es wird meist hinter oder in das Ohr gesteckt.",
+  "beispielsatz": "Oma trägt ein Hörgerät, damit sie uns gut verstehen kann.",
+  "rechtschreibstrategie": "„Hörgerät\" ist aus zwei Wörtern zusammengesetzt: „hören\" + „Gerät\". Schreib einfach beide Wörter zusammen – dann passt die Schreibung!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "hör",
+    "gerät"
+  ],
+  "bild_datei": "Hörgerät.webp",
+  "audio_datei": "Hörgerät.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hörgerät",
+    "plural": "die Hörgeräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hörgerät",
+        "genitiv": "des Hörgeräts",
+        "dativ": "dem Hörgerät",
+        "akkusativ": "das Hörgerät"
+      },
+      "plural": {
+        "nominativ": "die Hörgeräte",
+        "genitiv": "der Hörgeräte",
+        "dativ": "den Hörgeräten",
+        "akkusativ": "die Hörgeräte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hearing aid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareil auditif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işitme cihazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سماعة الأذن الطبية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehör"
+    }
+  ],
+  "fehlschreibungen": [
+    "Höhrgerät",
+    "Hörgeräht",
+    "Hörgerät",
+    "Hörgereet",
+    "Hörgeräd"
+  ]
+}

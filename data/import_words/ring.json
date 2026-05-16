@@ -1,0 +1,82 @@
+{
+  "lemma": "Ring",
+  "wortart": "Nomen",
+  "silben": "Ring",
+  "begriffserklaerung": "Ein Ring ist ein runder Gegenstand ohne Anfang und ohne Ende. Ringe werden oft als Schmuck am Finger getragen.",
+  "beispielsatz": "Die Mama trägt einen goldenen Ring am Finger.",
+  "rechtschreibstrategie": "Das Wort „Ring\" endet auf -ng. Das n und das g werden zusammen gesprochen – merke dir: nach einem kurzen Vokal folgt oft ng!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "ring"
+  ],
+  "bild_datei": "Ring.webp",
+  "audio_datei": "Ring.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ring",
+    "plural": "die Ringe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ring",
+        "genitiv": "des Ringes",
+        "dativ": "dem Ring",
+        "akkusativ": "den Ring"
+      },
+      "plural": {
+        "nominativ": "die Ringe",
+        "genitiv": "der Ringe",
+        "dativ": "den Ringen",
+        "akkusativ": "die Ringe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ring"
+    },
+    {
+      "language_code": "fr",
+      "translation": "anneau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خاتم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ringen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ringkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kette"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reif"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rihng",
+    "Rinng",
+    "Rink",
+    "Rhng",
+    "Ryng"
+  ]
+}

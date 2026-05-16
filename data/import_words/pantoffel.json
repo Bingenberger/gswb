@@ -1,0 +1,78 @@
+{
+  "lemma": "Pantoffel",
+  "wortart": "Nomen",
+  "silben": "Pan-tof-fel",
+  "begriffserklaerung": "Ein Pantoffel ist ein weicher, bequemer Hausschuh, den man drinnen trägt.",
+  "beispielsatz": "Nach der Schule zieht Lena ihre Pantoffeln an und macht es sich auf dem Sofa gemütlich.",
+  "rechtschreibstrategie": "Das Wort Pantoffel hat ein Doppel-f und ein Doppel-l am Ende – sprich es laut mit: Pan-tof-fel!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Pantoffel"
+  ],
+  "bild_datei": "Pantoffel.webp",
+  "audio_datei": "Pantoffel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pantoffel",
+    "plural": "die Pantoffeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pantoffel",
+        "genitiv": "des Pantoffels",
+        "dativ": "dem Pantoffel",
+        "akkusativ": "den Pantoffel"
+      },
+      "plural": {
+        "nominativ": "die Pantoffeln",
+        "genitiv": "der Pantoffeln",
+        "dativ": "den Pantoffeln",
+        "akkusativ": "die Pantoffeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slipper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pantoufle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "terlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نعل منزلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pantoffelheld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hausschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hausschuh"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pantofle",
+    "Pantofel",
+    "Pantoffell",
+    "Panthoffel",
+    "Pantoffle"
+  ]
+}

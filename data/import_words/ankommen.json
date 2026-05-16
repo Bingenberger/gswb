@@ -1,0 +1,95 @@
+{
+  "lemma": "ankommen",
+  "wortart": "Verb",
+  "silben": "an-kom-men",
+  "begriffserklaerung": "Wenn du irgendwo ankommst, bist du an einem Ort angekommen, zu dem du unterwegs warst.",
+  "beispielsatz": "Der Zug kommt um 10 Uhr am Bahnhof an.",
+  "rechtschreibstrategie": "In „ankommen\" steckt das Wort „kommen\" – und das schreibt man mit Doppel-m, weil der Vokal o kurz gesprochen wird: kom-men.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kommen"
+  ],
+  "bild_datei": "ankommen.webp",
+  "audio_datei": "ankommen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "ankommen",
+    "praesens": {
+      "ich": "komme an",
+      "du": "kommst an",
+      "er_sie_es": "kommt an",
+      "wir": "kommen an",
+      "ihr": "kommt an",
+      "sie": "kommen an"
+    },
+    "perfekt": {
+      "ich": "bin angekommen",
+      "du": "bist angekommen",
+      "er_sie_es": "ist angekommen",
+      "wir": "sind angekommen",
+      "ihr": "seid angekommen",
+      "sie": "sind angekommen"
+    },
+    "praeteritum": {
+      "ich": "kam an",
+      "du": "kamst an",
+      "er_sie_es": "kam an",
+      "wir": "kamen an",
+      "ihr": "kamt an",
+      "sie": "kamen an"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to arrive"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arriver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "varmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kommen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ankunft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "eintreffen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "abfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    }
+  ],
+  "fehlschreibungen": [
+    "ankhommen",
+    "ankomen",
+    "ankomman",
+    "Ankommen",
+    "ankoomen"
+  ]
+}

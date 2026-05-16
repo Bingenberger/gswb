@@ -1,0 +1,83 @@
+{
+  "lemma": "Schwester",
+  "wortart": "Nomen",
+  "silben": "Schwes-ter",
+  "begriffserklaerung": "Eine Schwester ist ein Mädchen oder eine Frau, die dieselben Eltern hat wie du.",
+  "beispielsatz": "Meine Schwester liest mir jeden Abend eine Gutenachtgeschichte vor.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Schwes-ter. Achte auf das „sch\" am Anfang und das „w\" danach – man schreibt „Schw\", obwohl man fast nur „Schw\" hört!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schwester"
+  ],
+  "bild_datei": "Schwester.webp",
+  "audio_datei": "Schwester.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sister"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sœur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kız kardeş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أخت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschwister"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwesternschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bruder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schwester",
+    "plural": "die Schwestern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schwester",
+        "genitiv": "der Schwester",
+        "dativ": "der Schwester",
+        "akkusativ": "die Schwester"
+      },
+      "plural": {
+        "nominativ": "die Schwestern",
+        "genitiv": "der Schwestern",
+        "dativ": "den Schwestern",
+        "akkusativ": "die Schwestern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schvester",
+    "Swester",
+    "Schwesder",
+    "Schwästер",
+    "Schuester",
+    "Schwestter"
+  ]
+}

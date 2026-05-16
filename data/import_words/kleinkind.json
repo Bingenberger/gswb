@@ -1,0 +1,88 @@
+{
+  "lemma": "Kleinkind",
+  "wortart": "Nomen",
+  "silben": "Klein-kind",
+  "begriffserklaerung": "Ein Kleinkind ist ein sehr junges Kind, das ungefähr zwischen einem und drei Jahren alt ist und gerade laufen und sprechen lernt.",
+  "beispielsatz": "Das Kleinkind macht seine ersten Schritte und strahlt dabei übers ganze Gesicht.",
+  "rechtschreibstrategie": "„Kleinkind\" ist ein zusammengesetztes Wort aus „klein\" und „Kind\". Schreib beide Teile einfach hintereinander: klein + Kind = Kleinkind.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "klein",
+    "Kind"
+  ],
+  "bild_datei": "Kleinkind.webp",
+  "audio_datei": "Kleinkind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toddler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit enfant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük çocuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طفل صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säugling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulkind"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kleinkind",
+    "plural": "die Kleinkinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kleinkind",
+        "genitiv": "des Kleinkindes",
+        "dativ": "dem Kleinkind",
+        "akkusativ": "das Kleinkind"
+      },
+      "plural": {
+        "nominativ": "die Kleinkinder",
+        "genitiv": "der Kleinkinder",
+        "dativ": "den Kleinkindern",
+        "akkusativ": "die Kleinkinder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kleinkint",
+    "Kleinkiend",
+    "Klainkind",
+    "Kleinkinndt",
+    "Kleinkinnd"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Seepferdchen",
+  "wortart": "Nomen",
+  "silben": "See-pferd-chen",
+  "begriffserklaerung": "Ein Seepferdchen ist ein kleines Meertier, das aufrecht im Wasser schwimmt und wie ein winziges Pferd aussieht.",
+  "beispielsatz": "Das Seepferdchen hält sich mit seinem Schwanz an einer Alge fest.",
+  "rechtschreibstrategie": "Das Wort „Seepferdchen\" ist aus drei Bausteinen zusammengesetzt: „See\" + „Pferd\" + „chen\". Schreib einfach alle drei Teile hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Pferd"
+  ],
+  "bild_datei": "Seepferdchen.webp",
+  "audio_datei": "Seepferdchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Seepferdchen",
+    "plural": "die Seepferdchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Seepferdchen",
+        "genitiv": "des Seepferdchens",
+        "dativ": "dem Seepferdchen",
+        "akkusativ": "das Seepferdchen"
+      },
+      "plural": {
+        "nominativ": "die Seepferdchen",
+        "genitiv": "der Seepferdchen",
+        "dativ": "den Seepferdchen",
+        "akkusativ": "die Seepferdchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seahorse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hippocampe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denizatı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرس البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koralle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meerestier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seepfertchen",
+    "Seepfärdchen",
+    "Seepferdten",
+    "Seepferchen",
+    "Seepferdhen",
+    "Seepferthen"
+  ]
+}

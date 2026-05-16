@@ -1,0 +1,85 @@
+{
+  "lemma": "Rührei",
+  "wortart": "Nomen",
+  "silben": "Rühr-ei",
+  "begriffserklaerung": "Ein Rührei ist ein gebratenes Gericht aus Eiern, die beim Braten in der Pfanne umgerührt werden.",
+  "beispielsatz": "Zum Frühstück macht Mama ein leckeres Rührei mit Butter in der Pfanne.",
+  "rechtschreibstrategie": "Das Wort „Rührei\" besteht aus zwei Teilen: „rühr-\" (vom Verb „rühren\") und „Ei\". Denk daran: Das ü hat einen Umlaut, und „Ei\" schreibt man mit großem E, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "rühr",
+    "Ei"
+  ],
+  "bild_datei": "Rührei.webp",
+  "audio_datei": "Rührei.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rührei",
+    "plural": "die Rühreier",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rührei",
+        "genitiv": "des Rühreis",
+        "dativ": "dem Rührei",
+        "akkusativ": "das Rührei"
+      },
+      "plural": {
+        "nominativ": "die Rühreier",
+        "genitiv": "der Rühreier",
+        "dativ": "den Rühreiern",
+        "akkusativ": "die Rühreier"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scrambled eggs"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œufs brouillés"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çırpılmış yumurta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيض مخفوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rühren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiegelei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Omelett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rürei",
+    "Rührey",
+    "Rühr-Ei",
+    "Rürrei",
+    "Rühreei",
+    "Rühhrei"
+  ]
+}

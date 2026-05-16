@@ -1,0 +1,98 @@
+{
+  "lemma": "berichten",
+  "wortart": "Verb",
+  "silben": "be-rich-ten",
+  "begriffserklaerung": "Wenn du jemandem erzählst, was passiert ist, berichtest du. Du gibst Informationen weiter, zum Beispiel über ein Erlebnis oder ein Ereignis.",
+  "beispielsatz": "Lisa berichtet ihrer Klasse von ihrem Ausflug in den Zoo.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: be-rich-ten. Das „ch\" hörst du deutlich – schreib es auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bericht"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "berichten",
+    "praesens": {
+      "ich": "ich berichte",
+      "du": "du berichtest",
+      "er_sie_es": "er/sie/es berichtet",
+      "wir": "wir berichten",
+      "ihr": "ihr berichtet",
+      "sie": "sie berichten"
+    },
+    "perfekt": {
+      "ich": "ich habe berichtet",
+      "du": "du hast berichtet",
+      "er_sie_es": "er/sie/es hat berichtet",
+      "wir": "wir haben berichtet",
+      "ihr": "ihr habt berichtet",
+      "sie": "sie haben berichtet"
+    },
+    "praeteritum": {
+      "ich": "ich berichtete",
+      "du": "du berichtetest",
+      "er_sie_es": "er/sie/es berichtete",
+      "wir": "wir berichteten",
+      "ihr": "ihr berichtetet",
+      "sie": "sie berichteten"
+    }
+  },
+  "fehlschreibungen": [
+    "berichden",
+    "berihten",
+    "bericten",
+    "berichtten",
+    "berichten"
+  ],
+  "bild_datei": "berichten.webp",
+  "audio_datei": "berichten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to report"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rapporter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bildirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُخبر / يُقرِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bericht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berichterstatter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erzählen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "mitteilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "informieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beschreiben"
+    }
+  ]
+}

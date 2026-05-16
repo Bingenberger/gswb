@@ -1,0 +1,94 @@
+{
+  "lemma": "Schall",
+  "wortart": "Nomen",
+  "silben": "Schall",
+  "begriffserklaerung": "Schall ist das, was du hörst, wenn etwas einen Ton macht – zum Beispiel Musik, eine Stimme oder ein Knall. Schall breitet sich als unsichtbare Welle durch die Luft aus.",
+  "beispielsatz": "Der Schall der Kirchenglocke war noch weit entfernt zu hören.",
+  "rechtschreibstrategie": "Das Wort „Schall\" hat ein doppeltes l am Ende – weil der Vokal „a\" kurz gesprochen wird, folgen zwei l. Merk dir: kurzes „a\" → doppeltes „ll\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schall"
+  ],
+  "bild_datei": "Schall.webp",
+  "audio_datei": "Schall.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sound"
+    },
+    {
+      "language_code": "fr",
+      "translation": "son"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schallwelle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schallgeschwindigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ton"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Echo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schall",
+    "plural": "die Schälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schall",
+        "genitiv": "des Schall(e)s",
+        "dativ": "dem Schall",
+        "akkusativ": "den Schall"
+      },
+      "plural": {
+        "nominativ": "die Schälle",
+        "genitiv": "der Schälle",
+        "dativ": "den Schällen",
+        "akkusativ": "die Schälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schal",
+    "Schahl",
+    "Schhall",
+    "Schale",
+    "Shall"
+  ]
+}

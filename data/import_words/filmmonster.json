@@ -1,0 +1,85 @@
+{
+  "lemma": "Filmmonster",
+  "wortart": "Nomen",
+  "silben": "Film-mons-ter",
+  "begriffserklaerung": "Ein Filmmonster ist ein gruseliges oder riesiges Wesen aus einem Film. Es sieht oft beängstigend aus und macht den Zuschauern Angst – aber es ist nicht echt!",
+  "beispielsatz": "Das Filmmonster in unserem Lieblingsfilm hat grüne Haut und riesige Zähne.",
+  "rechtschreibstrategie": "„Filmmonster\" ist aus zwei Wörtern zusammengesetzt: „Film\" und „Monster\". Schreibe beide Teile einfach hintereinander – kein Bindestrich nötig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Film",
+    "Monster"
+  ],
+  "bild_datei": "Filmmonster.webp",
+  "audio_datei": "Filmmonster.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Filmmonster",
+    "plural": "die Filmmonster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Filmmonster",
+        "genitiv": "des Filmmonsters",
+        "dativ": "dem Filmmonster",
+        "akkusativ": "das Filmmonster"
+      },
+      "plural": {
+        "nominativ": "die Filmmonster",
+        "genitiv": "der Filmmonster",
+        "dativ": "den Filmmonstern",
+        "akkusativ": "die Filmmonster"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "movie monster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monstre de film"
+    },
+    {
+      "language_code": "tr",
+      "translation": "film canavarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحش الفيلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Monster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Horrorfilm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ungeheuer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Filmungeheuer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Filmmonsta",
+    "Filmonster",
+    "Filmmонster",
+    "Fillmonster",
+    "Filmmonser",
+    "Filmonstер"
+  ]
+}

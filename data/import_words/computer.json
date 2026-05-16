@@ -1,0 +1,86 @@
+{
+  "lemma": "Computer",
+  "wortart": "Nomen",
+  "silben": "Com-pu-ter",
+  "begriffserklaerung": "Ein Computer ist eine elektrische Maschine, die Aufgaben rechnet, Texte schreibt, Bilder zeigt und vieles mehr. Man kann damit arbeiten, lernen und spielen.",
+  "beispielsatz": "Auf dem Computer schreibe ich einen Brief an meine Oma.",
+  "rechtschreibstrategie": "Das Wort „Computer\" kommt aus dem Englischen. Schreib es genau so, wie du es sprichst: Com-pu-ter – mit einem p in der Mitte und er am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Computer"
+  ],
+  "bild_datei": "Computer.webp",
+  "audio_datei": "Computer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "computer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordinateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilgisayar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاسوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Computerspiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Computerprogramm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rechner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Computer",
+    "plural": "die Computer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Computer",
+        "genitiv": "des Computers",
+        "dativ": "dem Computer",
+        "akkusativ": "den Computer"
+      },
+      "plural": {
+        "nominativ": "die Computer",
+        "genitiv": "der Computer",
+        "dativ": "den Computern",
+        "akkusativ": "die Computer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Komputer",
+    "Conputer",
+    "Computor",
+    "Compu ter",
+    "Compoter"
+  ]
+}

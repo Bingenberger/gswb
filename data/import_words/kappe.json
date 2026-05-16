@@ -1,0 +1,81 @@
+{
+  "lemma": "Kappe",
+  "wortart": "Nomen",
+  "silben": "Kap-pe",
+  "begriffserklaerung": "Eine Kappe ist eine Kopfbedeckung ohne Krempe, die man zum Schutz oder zur Mode trägt.",
+  "beispielsatz": "Im Winter zieht Lena eine warme Kappe über die Ohren.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" verdoppelt sich das „p\" – schreib ein Doppel-p: Kap-pe!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kappe",
+    "plural": "die Kappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kappe",
+        "genitiv": "der Kappe",
+        "dativ": "der Kappe",
+        "akkusativ": "die Kappe"
+      },
+      "plural": {
+        "nominativ": "die Kappen",
+        "genitiv": "der Kappen",
+        "dativ": "den Kappen",
+        "akkusativ": "die Kappen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kapp"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kapp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleidung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kape",
+    "Kappe",
+    "Cape",
+    "Gape"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bonnet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبعة"
+    }
+  ],
+  "bild_datei": "Kappe.webp",
+  "audio_datei": "Kappe.mp3"
+}

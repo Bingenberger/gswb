@@ -1,0 +1,83 @@
+{
+  "lemma": "Nachbarschaft",
+  "wortart": "Nomen",
+  "silben": "Nach-bar-schaft",
+  "begriffserklaerung": "Die Nachbarschaft sind alle Menschen, die in der Nähe voneinander wohnen – zum Beispiel im gleichen Haus oder in der gleichen Straße.",
+  "beispielsatz": "In unserer Nachbarschaft helfen sich alle gegenseitig.",
+  "rechtschreibstrategie": "Denk an das Wort „Nachbar\" – davon kommt „Nachbarschaft\". Sprich alle drei Bausteine laut: Nach-bar-schaft.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Nachbar"
+  ],
+  "bild_datei": "Nachbarschaft.webp",
+  "audio_datei": "Nachbarschaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "neighbourhood"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voisinage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "komşuluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachbar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nachbarlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Umgebung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachbarschaft",
+    "plural": "die Nachbarschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachbarschaft",
+        "genitiv": "der Nachbarschaft",
+        "dativ": "der Nachbarschaft",
+        "akkusativ": "die Nachbarschaft"
+      },
+      "plural": {
+        "nominativ": "die Nachbarschaften",
+        "genitiv": "der Nachbarschaften",
+        "dativ": "den Nachbarschaften",
+        "akkusativ": "die Nachbarschaften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachbarschafft",
+    "Nachbaschaft",
+    "Nachbaarschaft",
+    "Nachbarschft",
+    "Naachbarschaft",
+    "Nachbarshaft"
+  ]
+}

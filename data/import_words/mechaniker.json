@@ -1,0 +1,83 @@
+{
+  "lemma": "Mechaniker",
+  "wortart": "Nomen",
+  "silben": "Me-cha-ni-ker",
+  "begriffserklaerung": "Ein Mechaniker ist jemand, der Maschinen, Autos oder Fahrräder repariert und in Ordnung hält.",
+  "beispielsatz": "Der Mechaniker repariert unser Auto in der Werkstatt.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Me-cha-ni-ker. Das „ch\" klingt wie in „Bach\" – denk daran, dass es kein „k\" allein ist!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mechanik"
+  ],
+  "bild_datei": "Mechaniker.webp",
+  "audio_datei": "Mechaniker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mechanic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mécanicien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tamirci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميكانيكي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mechanik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mechanisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mechaniker",
+    "plural": "die Mechaniker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mechaniker",
+        "genitiv": "des Mechanikers",
+        "dativ": "dem Mechaniker",
+        "akkusativ": "den Mechaniker"
+      },
+      "plural": {
+        "nominativ": "die Mechaniker",
+        "genitiv": "der Mechaniker",
+        "dativ": "den Mechanikern",
+        "akkusativ": "die Mechaniker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mechaniker",
+    "Mekaniker",
+    "Mechaniiker",
+    "Mechanikker",
+    "Mechniker",
+    "Mehanikker"
+  ]
+}

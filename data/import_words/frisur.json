@@ -1,0 +1,82 @@
+{
+  "lemma": "Frisur",
+  "wortart": "Nomen",
+  "silben": "Fri-sur",
+  "begriffserklaerung": "Eine Frisur ist die Art, wie die Haare eines Menschen geformt, geschnitten oder gesteckt sind.",
+  "beispielsatz": "Heute hat Lena eine neue Frisur mit zwei langen Zöpfen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Fri-sur. Am Ende hörst du ein weiches „r\" – schreib es einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "frisier"
+  ],
+  "bild_datei": "Frisur.webp",
+  "audio_datei": "Frisur.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frisur",
+    "plural": "die Frisuren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frisur",
+        "genitiv": "der Frisur",
+        "dativ": "der Frisur",
+        "akkusativ": "die Frisur"
+      },
+      "plural": {
+        "nominativ": "die Frisuren",
+        "genitiv": "der Frisuren",
+        "dativ": "den Frisuren",
+        "akkusativ": "die Frisuren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hairstyle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coiffure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç stili"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسريحة الشعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frisieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Friseur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zopf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haarpracht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Frizur",
+    "Frisuur",
+    "Friesur",
+    "Frizuur",
+    "Frissur"
+  ]
+}

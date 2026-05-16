@@ -1,0 +1,82 @@
+{
+  "lemma": "Mais",
+  "wortart": "Nomen",
+  "silben": "Mais",
+  "begriffserklaerung": "Mais ist eine Getreidepflanze mit großen gelben Körnern, die in Kolben wachsen. Man kann Mais kochen, poppen oder zu Mehl verarbeiten.",
+  "beispielsatz": "Wir haben heute Abend einen leckeren Maiskolben gegessen.",
+  "rechtschreibstrategie": "Mais klingt genau so, wie man es schreibt – sprich es laut: „M – ai – s\". Das „ai\" schreibst du einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mais"
+  ],
+  "bild_datei": "Mais.webp",
+  "audio_datei": "Mais.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "corn / maize"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maïs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mısır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maiskolben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maismehl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Popcorn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mais",
+    "plural": "die Maise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mais",
+        "genitiv": "des Maises",
+        "dativ": "dem Mais",
+        "akkusativ": "den Mais"
+      },
+      "plural": {
+        "nominativ": "die Maise",
+        "genitiv": "der Maise",
+        "dativ": "den Maisen",
+        "akkusativ": "die Maise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maise",
+    "Mays",
+    "Maiss",
+    "Maiß",
+    "Mals"
+  ]
+}

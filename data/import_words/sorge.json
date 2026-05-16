@@ -1,0 +1,94 @@
+{
+  "lemma": "Sorge",
+  "wortart": "Nomen",
+  "silben": "Sor-ge",
+  "begriffserklaerung": "Eine Sorge ist ein unangenehmes Gefühl, das man hat, wenn man sich um jemanden oder etwas ängstigt oder wenn man nicht weiß, ob alles gut wird.",
+  "beispielsatz": "Mama macht sich Sorgen, weil ich heute so lange nicht nach Hause gekommen bin.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Sor-ge\". Du hörst zwei Silben. Das r in der ersten Silbe und das g in der zweiten Silbe schreibst du genauso, wie du sie sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sorg"
+  ],
+  "bild_datei": "Sorge.webp",
+  "audio_datei": "Sorge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "worry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souci"
+    },
+    {
+      "language_code": "tr",
+      "translation": "endişe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sorgen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sorglos"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sorgfältig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kummer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Angst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Furcht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sorge",
+    "plural": "die Sorgen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sorge",
+        "genitiv": "der Sorge",
+        "dativ": "der Sorge",
+        "akkusativ": "die Sorge"
+      },
+      "plural": {
+        "nominativ": "die Sorgen",
+        "genitiv": "der Sorgen",
+        "dativ": "den Sorgen",
+        "akkusativ": "die Sorgen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zorge",
+    "Ssorge",
+    "Sorje",
+    "Sorg",
+    "Sorgge"
+  ]
+}

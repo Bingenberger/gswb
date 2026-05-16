@@ -1,0 +1,79 @@
+{
+  "lemma": "Kleister",
+  "wortart": "Nomen",
+  "silben": "Kleis-ter",
+  "begriffserklaerung": "Kleister ist ein dicker, klebriger Brei, den man zum Kleben benutzt, zum Beispiel beim Basteln oder beim Tapezieren.",
+  "beispielsatz": "Wir streichen Kleister auf das Papier und kleben dann bunte Schnipsel drauf.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Kleis-ter. Nach dem „ei\" kommt ein „s\" – merk dir: Kleister klingt wie „Eis\" mit „Kl\" davor!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kleistern"
+  ],
+  "bild_datei": "Kleister.webp",
+  "audio_datei": "Kleister.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "paste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nişasta tutkalı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غراء النشا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kleistern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tapete"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kleber"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kleister",
+    "plural": "die Kleister",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kleister",
+        "genitiv": "des Kleisters",
+        "dativ": "dem Kleister",
+        "akkusativ": "den Kleister"
+      },
+      "plural": {
+        "nominativ": "die Kleister",
+        "genitiv": "der Kleister",
+        "dativ": "den Kleistern",
+        "akkusativ": "die Kleister"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kleisster",
+    "Kleister",
+    "Kleistar",
+    "Kloister",
+    "Kleisder",
+    "Kleißter"
+  ]
+}

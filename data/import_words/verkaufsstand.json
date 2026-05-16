@@ -1,0 +1,85 @@
+{
+  "lemma": "Verkaufsstand",
+  "wortart": "Nomen",
+  "silben": "Ver-kaufs-stand",
+  "begriffserklaerung": "Ein Verkaufsstand ist ein kleiner Tisch oder eine kleine Bude, an dem Menschen Dinge verkaufen, zum Beispiel auf einem Markt.",
+  "beispielsatz": "Am Verkaufsstand auf dem Weihnachtsmarkt kaufte Lena eine heiße Tasse Kakao.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „ver-\", „Kauf\" und „Stand\". Sprich alle Teile laut mit: Ver – kaufs – stand!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "stand"
+  ],
+  "bild_datei": "Verkaufsstand.webp",
+  "audio_datei": "Verkaufsstand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "market stall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "stand de vente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satış tezgahı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كشك البيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Händler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Marktstand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkaufsstand",
+    "plural": "die Verkaufsstände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkaufsstand",
+        "genitiv": "des Verkaufsstandes",
+        "dativ": "dem Verkaufsstand",
+        "akkusativ": "den Verkaufsstand"
+      },
+      "plural": {
+        "nominativ": "die Verkaufsstände",
+        "genitiv": "der Verkaufsstände",
+        "dativ": "den Verkaufsständen",
+        "akkusativ": "die Verkaufsstände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Verkaufstand",
+    "Vercaufstand",
+    "Verkaufsstand",
+    "Ferkauststand",
+    "Verkaufsshtand",
+    "Verkaufstant"
+  ]
+}

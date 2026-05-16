@@ -1,0 +1,89 @@
+{
+  "lemma": "Königreich",
+  "wortart": "Nomen",
+  "silben": "Kö-nig-reich",
+  "begriffserklaerung": "Ein Königreich ist ein Land, das von einem König oder einer Königin regiert wird.",
+  "beispielsatz": "In dem Märchen lebte ein mutiger Ritter im Königreich des freundlichen Königs.",
+  "rechtschreibstrategie": "Das Wort „Königreich\" besteht aus zwei Teilen: „König\" und „Reich\". Sprich beide Teile einzeln, dann kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "König",
+    "Reich"
+  ],
+  "bild_datei": "Königreich.webp",
+  "audio_datei": "Königreich.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Königreich",
+    "plural": "die Königreiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Königreich",
+        "genitiv": "des Königreichs",
+        "dativ": "dem Königreich",
+        "akkusativ": "das Königreich"
+      },
+      "plural": {
+        "nominativ": "die Königreiche",
+        "genitiv": "der Königreiche",
+        "dativ": "den Königreichen",
+        "akkusativ": "die Königreiche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kingdom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "royaume"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krallık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مملكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "König"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reich"
+    }
+  ],
+  "fehlschreibungen": [
+    "Königreich",
+    "Königreych",
+    "Könikreich",
+    "Könichreich",
+    "Königs­reich",
+    "Koenigreich"
+  ]
+}

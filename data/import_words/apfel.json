@@ -1,0 +1,86 @@
+{
+  "lemma": "Apfel",
+  "wortart": "Nomen",
+  "silben": "Ap-fel",
+  "begriffserklaerung": "Ein Apfel ist eine runde Frucht, die an einem Apfelbaum wächst. Er kann rot, grün oder gelb sein und schmeckt süß oder säuerlich.",
+  "beispielsatz": "Ich esse jeden Tag einen knackigen Apfel als Pausensnack.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ap-fel. Du hörst ein kurzes „a\" am Anfang – deshalb kommt danach ein doppeltes „p\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Apfel"
+  ],
+  "bild_datei": "Apfel.webp",
+  "audio_datei": "Apfel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apple"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pomme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تفاحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfelbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfelsaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfelmus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Birne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Apfel",
+    "plural": "die Äpfel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Apfel",
+        "genitiv": "des Apfels",
+        "dativ": "dem Apfel",
+        "akkusativ": "den Apfel"
+      },
+      "plural": {
+        "nominativ": "die Äpfel",
+        "genitiv": "der Äpfel",
+        "dativ": "den Äpfeln",
+        "akkusativ": "die Äpfel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Apffel",
+    "Appfel",
+    "Apfell",
+    "Abfel",
+    "Apvell"
+  ]
+}

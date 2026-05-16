@@ -1,0 +1,86 @@
+{
+  "lemma": "Elektrogerät",
+  "wortart": "Nomen",
+  "silben": "E-lek-tro-ge-rät",
+  "begriffserklaerung": "Ein Elektrogerät ist ein Gerät, das Strom braucht, um zu funktionieren – zum Beispiel ein Kühlschrank, ein Fernseher oder eine Waschmaschine.",
+  "beispielsatz": "Die Waschmaschine ist ein wichtiges Elektrogerät in unserem Haushalt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Elektro\" und „Gerät\". Sprich beide Bausteine deutlich: ELEK-TRO + GE-RÄT. Das ä in „Gerät\" erkennst du, wenn du es verlängerst: Gerät → Geräte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "Gerät"
+  ],
+  "bild_datei": "Elektrogerät.webp",
+  "audio_datei": "Elektrogerät.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electrical appliance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareil électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli alet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز كهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gerät"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "elektrisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haushalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haushaltsgerät"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Elektrogerät",
+    "plural": "die Elektrogeräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Elektrogerät",
+        "genitiv": "des Elektrogeräts",
+        "dativ": "dem Elektrogerät",
+        "akkusativ": "das Elektrogerät"
+      },
+      "plural": {
+        "nominativ": "die Elektrogeräte",
+        "genitiv": "der Elektrogeräte",
+        "dativ": "den Elektrogeräten",
+        "akkusativ": "die Elektrogeräte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elektrogerät",
+    "Elektogerät",
+    "Elektrrogerät",
+    "Elektrogeräht",
+    "Elektogerätt",
+    "Elektroge rät",
+    "Elektrohgerät"
+  ]
+}

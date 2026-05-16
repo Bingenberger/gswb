@@ -1,0 +1,82 @@
+{
+  "lemma": "Nebel",
+  "wortart": "Nomen",
+  "silben": "Ne-bel",
+  "begriffserklaerung": "Nebel ist eine dichte Wolke aus winzigen Wassertröpfchen, die dicht über dem Boden hängt und die Sicht trübt.",
+  "beispielsatz": "Heute Morgen ist draußen so dichter Nebel, dass man kaum die Straße sehen kann.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ne-bel. Du hörst zwei Silben. Schreibe es genau so, wie du es sprichst – mit e-b-e-l.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nebel"
+  ],
+  "bild_datei": "Nebel.webp",
+  "audio_datei": "Nebel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fog"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brouillard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضباب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "neblig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nebelhorn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dunst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nebel",
+    "plural": "die Nebel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nebel",
+        "genitiv": "des Nebels",
+        "dativ": "dem Nebel",
+        "akkusativ": "den Nebel"
+      },
+      "plural": {
+        "nominativ": "die Nebel",
+        "genitiv": "der Nebel",
+        "dativ": "den Nebeln",
+        "akkusativ": "die Nebel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nöbel",
+    "Nebbel",
+    "Nebbell",
+    "Nehbel",
+    "Näbel"
+  ]
+}

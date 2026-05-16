@@ -1,0 +1,89 @@
+{
+  "lemma": "Flugzeug",
+  "wortart": "Nomen",
+  "silben": "Flug-zeug",
+  "begriffserklaerung": "Ein Flugzeug ist ein Fahrzeug mit Flügeln und einem Motor, das durch die Luft fliegt und Menschen oder Waren von einem Ort zum anderen bringt.",
+  "beispielsatz": "Das Flugzeug fliegt hoch oben durch die Wolken.",
+  "rechtschreibstrategie": "„Flugzeug\" besteht aus zwei Teilen: „Flug\" und „Zeug\". Sprich beide Teile deutlich: FLUG – ZEUG. Das g am Ende von „Flug\" hörst du, wenn du „Flüge\" sagst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "flieg",
+    "flug",
+    "zeug"
+  ],
+  "bild_datei": "Flugzeug.webp",
+  "audio_datei": "Flugzeug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "airplane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hubschrauber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flughafen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flieger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Flugzeug",
+    "plural": "die Flugzeuge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Flugzeug",
+        "genitiv": "des Flugzeugs",
+        "dativ": "dem Flugzeug",
+        "akkusativ": "das Flugzeug"
+      },
+      "plural": {
+        "nominativ": "die Flugzeuge",
+        "genitiv": "der Flugzeuge",
+        "dativ": "den Flugzeugen",
+        "akkusativ": "die Flugzeuge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flukzeug",
+    "Flugszeug",
+    "Flugzeuck",
+    "Flugzäug",
+    "Flugzeug"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Stiel",
+  "wortart": "Nomen",
+  "silben": "Stiel",
+  "begriffserklaerung": "Ein Stiel ist der lange, dünne Teil, den man anfasst – zum Beispiel bei einem Hammer, einem Pinsel oder einem Lutscher.",
+  "beispielsatz": "Der Stiel des Pinsels ist ganz bunt bemalt.",
+  "rechtschreibstrategie": "Schreibe „ie\" in Stiel – sprich es langsam: Stiel. Du hörst ein langes „i\", das mit „ie\" geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Stiel"
+  ],
+  "bild_datei": "Stiel.webp",
+  "audio_datei": "Stiel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handle / stem"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manche / tige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sap / tutacak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقبض / ساق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stielen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pinselstiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Griff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stängel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Griff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stiel",
+    "plural": "die Stiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stiel",
+        "genitiv": "des Stiels",
+        "dativ": "dem Stiel",
+        "akkusativ": "den Stiel"
+      },
+      "plural": {
+        "nominativ": "die Stiele",
+        "genitiv": "der Stiele",
+        "dativ": "den Stielen",
+        "akkusativ": "die Stiele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stiehl",
+    "Stil",
+    "Stiel",
+    "Shtiel",
+    "Sthiel",
+    "Stihel"
+  ]
+}

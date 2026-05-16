@@ -1,0 +1,94 @@
+{
+  "lemma": "schweigen",
+  "wortart": "Verb",
+  "silben": "schwei-gen",
+  "begriffserklaerung": "Wenn du schweigst, sagst du nichts und bleibst still.",
+  "beispielsatz": "Alle Kinder schwiegen, als die Lehrerin hereinkam.",
+  "rechtschreibstrategie": "Schreibe „schwei-gen\" mit „ei\" – sprich es laut: schwei-gen. Du hörst ein langes „ei\", kein „ai\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schweig"
+  ],
+  "bild_datei": "schweigen.webp",
+  "audio_datei": "schweigen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schweigen",
+    "praesens": {
+      "ich": "schweige",
+      "du": "schweigst",
+      "er_sie_es": "schweigt",
+      "wir": "schweigen",
+      "ihr": "schweigt",
+      "sie": "schweigen"
+    },
+    "perfekt": {
+      "ich": "habe geschwiegen",
+      "du": "hast geschwiegen",
+      "er_sie_es": "hat geschwiegen",
+      "wir": "haben geschwiegen",
+      "ihr": "habt geschwiegen",
+      "sie": "haben geschwiegen"
+    },
+    "praeteritum": {
+      "ich": "schwieg",
+      "du": "schwiegst",
+      "er_sie_es": "schwieg",
+      "wir": "schwiegen",
+      "ihr": "schwiegt",
+      "sie": "schwiegen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be silent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se taire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "susmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصمت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schweigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schweigsam"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "still sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "flüstern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zuhören"
+    }
+  ],
+  "fehlschreibungen": [
+    "schwaigen",
+    "schweijen",
+    "schwigen",
+    "schwaygen",
+    "schweign"
+  ]
+}

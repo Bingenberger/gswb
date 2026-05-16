@@ -1,0 +1,82 @@
+{
+  "lemma": "Obst",
+  "wortart": "Nomen",
+  "silben": "Obst",
+  "begriffserklaerung": "Obst sind süße oder saure Früchte, die an Bäumen oder Sträuchern wachsen und die man essen kann, zum Beispiel Äpfel, Birnen oder Erdbeeren.",
+  "beispielsatz": "Zum Frühstück esse ich jeden Tag frisches Obst.",
+  "rechtschreibstrategie": "Das Wort „Obst\" endet auf -st. Sprich es laut: du hörst das b nicht deutlich – aber es steckt drin! Denke an „obstreich\" – da hörst du das b wieder. Schreibe es immer mit b: O-b-s-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Obst"
+  ],
+  "bild_datei": "Obst.webp",
+  "audio_datei": "Obst.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Obst",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Obst",
+        "genitiv": "des Obstes",
+        "dativ": "dem Obst",
+        "akkusativ": "das Obst"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fruit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fruit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meyve"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فاكهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Obstgarten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Obstsaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Früchte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Opst",
+    "Obsd",
+    "Obzt",
+    "Ops",
+    "Opsd"
+  ]
+}

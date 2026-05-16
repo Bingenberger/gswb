@@ -1,0 +1,98 @@
+{
+  "lemma": "schalten",
+  "wortart": "Verb",
+  "silben": "schal-ten",
+  "begriffserklaerung": "Schalten bedeutet, etwas ein- oder auszuschalten, zum Beispiel ein Licht oder ein Gerät. Man kann auch beim Autofahren einen Gang schalten.",
+  "beispielsatz": "Papa schaltet abends das Licht im Wohnzimmer aus.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: schal-ten. Nach dem kurzen „a\" hörst du deutlich das „l\" und dann „ten\". Schreibe, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schalt"
+  ],
+  "bild_datei": "schalten.webp",
+  "audio_datei": "schalten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schalten",
+    "praesens": {
+      "ich": "schalte",
+      "du": "schaltest",
+      "er_sie_es": "schaltet",
+      "wir": "schalten",
+      "ihr": "schaltet",
+      "sie": "schalten"
+    },
+    "perfekt": {
+      "ich": "habe geschaltet",
+      "du": "hast geschaltet",
+      "er_sie_es": "hat geschaltet",
+      "wir": "haben geschaltet",
+      "ihr": "habt geschaltet",
+      "sie": "haben geschaltet"
+    },
+    "praeteritum": {
+      "ich": "schaltete",
+      "du": "schaltetest",
+      "er_sie_es": "schaltete",
+      "wir": "schalteten",
+      "ihr": "schaltetet",
+      "sie": "schalteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to switch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "commuter / basculer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açmak / kapatmak / vites değiştirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُبدِّل / يُشغِّل / يُطفئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schalter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schaltung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "umschalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ausschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "steuern"
+    }
+  ],
+  "fehlschreibungen": [
+    "shalten",
+    "schaltten",
+    "schalden",
+    "schallten",
+    "scalten"
+  ]
+}

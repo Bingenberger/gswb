@@ -1,0 +1,88 @@
+{
+  "lemma": "Lehrbuch",
+  "wortart": "Nomen",
+  "silben": "Lehr-buch",
+  "begriffserklaerung": "Ein Lehrbuch ist ein Buch, das dir in der Schule oder beim Lernen hilft. Es erklärt Wissen zu einem bestimmten Thema, zum Beispiel Mathematik oder Deutsch.",
+  "beispielsatz": "Mein Lehrbuch für Mathematik liegt auf dem Schreibtisch.",
+  "rechtschreibstrategie": "„Lehrbuch\" besteht aus zwei Bausteinen: „Lehr\" (von lehren) und „Buch\". Sprich beide Teile deutlich: LEHR – BUCH.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lehr",
+    "buch"
+  ],
+  "bild_datei": "Lehrbuch.webp",
+  "audio_datei": "Lehrbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "textbook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manuel scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب مدرسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schultasche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulbuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lehrbuch",
+    "plural": "die Lehrbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lehrbuch",
+        "genitiv": "des Lehrbuchs",
+        "dativ": "dem Lehrbuch",
+        "akkusativ": "das Lehrbuch"
+      },
+      "plural": {
+        "nominativ": "die Lehrbücher",
+        "genitiv": "der Lehrbücher",
+        "dativ": "den Lehrbüchern",
+        "akkusativ": "die Lehrbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lerbuch",
+    "Lährbuch",
+    "Lehrbuchs",
+    "Leerbuch",
+    "Lehbuch",
+    "Lerrbuch"
+  ]
+}

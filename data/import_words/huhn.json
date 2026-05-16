@@ -1,0 +1,91 @@
+{
+  "lemma": "Huhn",
+  "wortart": "Nomen",
+  "silben": "Huhn",
+  "begriffserklaerung": "Ein Huhn ist ein Vogel, der auf dem Bauernhof lebt. Hühner legen Eier und gackern laut.",
+  "beispielsatz": "Das Huhn scharrt im Garten nach Würmern.",
+  "rechtschreibstrategie": "Das Huhn hat ein Dehnungs-h nach dem „u\": H-u-h-n. Sprich es laut: „Huuhn\" – das lange „u\" zeigt dir, dass da ein „h\" steckt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Huhn",
+    "Hühn"
+  ],
+  "bild_datei": "Huhn.webp",
+  "audio_datei": "Huhn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chicken"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دجاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hühnchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hühnerei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hühnerstall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hühnchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Huhn",
+    "plural": "die Hühner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Huhn",
+        "genitiv": "des Huhnes",
+        "dativ": "dem Huhn",
+        "akkusativ": "das Huhn"
+      },
+      "plural": {
+        "nominativ": "die Hühner",
+        "genitiv": "der Hühner",
+        "dativ": "den Hühnern",
+        "akkusativ": "die Hühner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hun",
+    "Hunn",
+    "Hune",
+    "Huhnn",
+    "Huhn's"
+  ]
+}

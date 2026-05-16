@@ -1,0 +1,100 @@
+{
+  "lemma": "festhalten",
+  "wortart": "Verb",
+  "silben": "fest-hal-ten",
+  "begriffserklaerung": "Wenn du etwas oder jemanden festhältst, packst du es oder sie/ihn gut und lässt nicht los.",
+  "beispielsatz": "Halte dich am Geländer fest, damit du nicht fällst!",
+  "rechtschreibstrategie": "„Festhalten\" ist aus zwei Teilen zusammengesetzt: „fest\" und „halten\". Sprich beide Bausteine laut mit: fest – hal – ten.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "halt",
+    "fest"
+  ],
+  "bild_datei": "festhalten.webp",
+  "audio_datei": "festhalten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "festhalten",
+    "praesens": {
+      "ich": "halte fest",
+      "du": "hältst fest",
+      "er_sie_es": "hält fest",
+      "wir": "halten fest",
+      "ihr": "haltet fest",
+      "sie": "halten fest"
+    },
+    "perfekt": {
+      "ich": "habe festgehalten",
+      "du": "hast festgehalten",
+      "er_sie_es": "hat festgehalten",
+      "wir": "haben festgehalten",
+      "ihr": "habt festgehalten",
+      "sie": "haben festgehalten"
+    },
+    "praeteritum": {
+      "ich": "hielt fest",
+      "du": "hieltest fest",
+      "er_sie_es": "hielt fest",
+      "wir": "hielten fest",
+      "ihr": "hieltet fest",
+      "sie": "hielten fest"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hold on (to), to grip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tenir, s'accrocher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tutmak, sıkıca tutmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُمسك، يتشبث بـ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "festpacken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "loslassen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "packen"
+    }
+  ],
+  "fehlschreibungen": [
+    "fesdhalten",
+    "festhalden",
+    "fest halten",
+    "festhaltten",
+    "fästhalten",
+    "veshalten"
+  ]
+}

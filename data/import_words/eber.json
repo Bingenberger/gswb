@@ -1,0 +1,72 @@
+{
+  "lemma": "Eber",
+  "wortart": "Nomen",
+  "silben": "E-ber",
+  "begriffserklaerung": "Ein Eber ist ein männliches Wildschwein oder ein männliches Hausschwein.",
+  "beispielsatz": "Im Wald trafen wir einen Eber mit langen Hauern.",
+  "rechtschreibstrategie": "Sprich das Wort laut: E-ber. Das „E\" am Anfang ist lang, deshalb kommt danach nur ein „b\" – kein Doppel-b.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eber",
+    "plural": "die Eber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eber",
+        "genitiv": "des Ebers",
+        "dativ": "dem Eber",
+        "akkusativ": "den Eber"
+      },
+      "plural": {
+        "nominativ": "die Eber",
+        "genitiv": "der Eber",
+        "dativ": "den Ebern",
+        "akkusativ": "die Eber"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildschwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frischling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Äber",
+    "Ebbe",
+    "Ebbr",
+    "Ebber",
+    "Ebers"
+  ],
+  "bild_datei": "Eber.webp",
+  "audio_datei": "Eber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verrat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erkek domuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزير بري ذكر"
+    }
+  ]
+}

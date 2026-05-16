@@ -1,0 +1,88 @@
+{
+  "lemma": "Stadtplan",
+  "wortart": "Nomen",
+  "silben": "Stadt-plan",
+  "begriffserklaerung": "Ein Stadtplan ist eine Zeichnung oder Karte, die zeigt, wie eine Stadt aussieht. Man kann darauf Straßen, Plätze und wichtige Gebäude sehen und so den Weg finden.",
+  "beispielsatz": "Mit dem Stadtplan in der Hand fanden wir schnell den Weg zum Museum.",
+  "rechtschreibstrategie": "„Stadtplan\" besteht aus zwei Wörtern: „Stadt\" und „Plan\". Sprich beide Teile laut: STADT-PLAN. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stadt",
+    "Plan"
+  ],
+  "bild_datei": "Stadtplan.webp",
+  "audio_datei": "Stadtplan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "city map"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plan de ville"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şehir haritası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خريطة المدينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stadtkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wegweiser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stadtplan",
+    "plural": "die Stadtpläne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stadtplan",
+        "genitiv": "des Stadtplans",
+        "dativ": "dem Stadtplan",
+        "akkusativ": "den Stadtplan"
+      },
+      "plural": {
+        "nominativ": "die Stadtpläne",
+        "genitiv": "der Stadtpläne",
+        "dativ": "den Stadtplänen",
+        "akkusativ": "die Stadtpläne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Statplan",
+    "Stadtpland",
+    "Stadplan",
+    "Stadtpan",
+    "Shtadtplan",
+    "Stadtplann"
+  ]
+}

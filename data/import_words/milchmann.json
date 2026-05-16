@@ -1,0 +1,82 @@
+{
+  "lemma": "Milchmann",
+  "wortart": "Nomen",
+  "silben": "Milch-mann",
+  "begriffserklaerung": "Ein Milchmann ist jemand, der früher frische Milch und andere Milchprodukte direkt zu den Menschen nach Hause gebracht hat.",
+  "beispielsatz": "Früher kam der Milchmann jeden Morgen und stellte frische Milchflaschen vor die Haustür.",
+  "rechtschreibstrategie": "„Milchmann\" ist ein zusammengesetztes Wort aus „Milch\" und „Mann\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Milch",
+    "Mann"
+  ],
+  "bild_datei": "Milchmann.webp",
+  "audio_datei": "Milchmann.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "milkman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laitier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sütçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بائع الحليب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Milch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäcker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefträger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Molkerei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Milchmann",
+    "plural": "die Männer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Milchmann",
+        "genitiv": "des Milchmanns",
+        "dativ": "dem Milchmann",
+        "akkusativ": "den Milchmann"
+      },
+      "plural": {
+        "nominativ": "die Männer",
+        "genitiv": "der Männer",
+        "dativ": "den Männern",
+        "akkusativ": "die Männer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Milchman",
+    "Milchmahn",
+    "Millchmann",
+    "Milchmann"
+  ]
+}

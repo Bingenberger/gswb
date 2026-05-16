@@ -1,0 +1,90 @@
+{
+  "lemma": "Sucher",
+  "wortart": "Nomen",
+  "silben": "Su-cher",
+  "begriffserklaerung": "Ein Sucher ist jemand, der etwas sucht oder finden möchte. Das Wort kann auch ein Teil einer Kamera sein, durch den man schaut, bevor man ein Foto macht.",
+  "beispielsatz": "Der mutige Sucher durchforstete den ganzen Wald, um den versteckten Schatz zu finden.",
+  "rechtschreibstrategie": "Denk an das Verb „suchen\" – der Sucher ist jemand, der sucht. Sprich das Wort deutlich in Silben: Su-cher.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "bild_datei": "Sucher.webp",
+  "audio_datei": "Sucher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sucher",
+    "plural": "die Sucher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sucher",
+        "genitiv": "des Suchers",
+        "dativ": "dem Sucher",
+        "akkusativ": "den Sucher"
+      },
+      "plural": {
+        "nominativ": "die Sucher",
+        "genitiv": "der Sucher",
+        "dativ": "den Suchern",
+        "akkusativ": "die Sucher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "searcher / seeker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chercheur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arayan / araştırmacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باحث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gesucht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spürer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteurer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entdecker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forscher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zucher",
+    "Suchher",
+    "Suucher",
+    "Suchar",
+    "Sucker"
+  ]
+}

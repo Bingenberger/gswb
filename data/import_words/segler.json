@@ -1,0 +1,87 @@
+{
+  "lemma": "Segler",
+  "wortart": "Nomen",
+  "silben": "Seg-ler",
+  "begriffserklaerung": "Ein Segler ist eine Person, die mit einem Segelboot fährt und den Wind nutzt, um sich auf dem Wasser fortzubewegen. Segler kann auch ein Segelboot oder ein Segelschiff selbst sein.",
+  "beispielsatz": "Der Segler steuert sein Boot geschickt über den See.",
+  "rechtschreibstrategie": "Denk an das Wort „segeln\" – daraus wird „Segler\". Das g hörst du deutlich, wenn du „se-geln\" sagst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "segeln",
+    "Segel"
+  ],
+  "bild_datei": "Segler.webp",
+  "audio_datei": "Segler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Segler",
+    "plural": "die Segler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Segler",
+        "genitiv": "des Seglers",
+        "dativ": "dem Segler",
+        "akkusativ": "den Segler"
+      },
+      "plural": {
+        "nominativ": "die Segler",
+        "genitiv": "der Segler",
+        "dativ": "den Seglern",
+        "akkusativ": "die Segler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sailor / sailing boat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voilier / marin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yelkenci / yelkenli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بحار / قارب شراعي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "segeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Segel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Segelboot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Segelboot"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sägler",
+    "Seeger",
+    "Seegeler",
+    "Seglr",
+    "Segeler"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Klasse",
+  "wortart": "Nomen",
+  "silben": "Klas-se",
+  "begriffserklaerung": "Eine Klasse ist eine Gruppe von Kindern, die zusammen in der Schule lernen. Das Wort kann auch den Raum meinen, in dem der Unterricht stattfindet.",
+  "beispielsatz": "In meiner Klasse sind zwanzig Kinder.",
+  "rechtschreibstrategie": "Das Wort „Klasse\" hat ein kurzes „a\", deshalb wird das „s\" verdoppelt: ss.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klasse",
+    "plural": "die Klassen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klasse",
+        "genitiv": "der Klasse",
+        "dativ": "der Klasse",
+        "akkusativ": "die Klasse"
+      },
+      "plural": {
+        "nominativ": "die Klassen",
+        "genitiv": "der Klassen",
+        "dativ": "den Klassen",
+        "akkusativ": "die Klassen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Klasse"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klassenraum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klassenkamerad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klassisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulklasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Clase",
+    "Klase",
+    "Klaße",
+    "Klasse",
+    "Classse"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "class"
+    },
+    {
+      "language_code": "fr",
+      "translation": "classe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فصل"
+    }
+  ],
+  "bild_datei": "Klasse.webp",
+  "audio_datei": "Klasse.mp3"
+}

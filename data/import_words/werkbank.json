@@ -1,0 +1,83 @@
+{
+  "lemma": "Werkbank",
+  "wortart": "Nomen",
+  "silben": "Werk-bank",
+  "begriffserklaerung": "Eine Werkbank ist ein stabiler, fester Tisch, an dem man mit Werkzeug arbeitet – zum Beispiel sägt, hämmert oder hobelt.",
+  "beispielsatz": "Papa befestigt das Holzbrett fest in der Schraubzwinge an der Werkbank.",
+  "rechtschreibstrategie": "„Werkbank\" ist aus zwei Wörtern zusammengebaut: „Werk\" und „Bank\". Sprich beide Teile deutlich: WERK – BANK. So schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Werk",
+    "Bank"
+  ],
+  "bild_datei": "Werkbank.webp",
+  "audio_datei": "Werkbank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "workbench"
+    },
+    {
+      "language_code": "fr",
+      "translation": "établi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tezgâh"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منضدة العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Werkbank",
+    "plural": "die Werkbänke",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Werkbank",
+        "genitiv": "der Werkbank",
+        "dativ": "der Werkbank",
+        "akkusativ": "die Werkbank"
+      },
+      "plural": {
+        "nominativ": "die Werkbänke",
+        "genitiv": "der Werkbänke",
+        "dativ": "den Werkbänken",
+        "akkusativ": "die Werkbänke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wärkbank",
+    "Werkbang",
+    "Werkbannk",
+    "Wercbank",
+    "Werkbamk"
+  ]
+}

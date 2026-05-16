@@ -1,0 +1,87 @@
+{
+  "lemma": "Wegweiser",
+  "wortart": "Nomen",
+  "silben": "Weg-wei-ser",
+  "begriffserklaerung": "Ein Wegweiser ist ein Schild oder Pfahl mit einem Pfeil, der zeigt, in welche Richtung man gehen oder fahren muss, um ans Ziel zu kommen.",
+  "beispielsatz": "Der Wegweiser am Waldrand zeigt, dass das Dorf noch zwei Kilometer entfernt ist.",
+  "rechtschreibstrategie": "„Wegweiser\" ist ein zusammengesetztes Wort aus „Weg\" und „Weiser\". Sprich beide Teile laut: WEG + WEI-SER. So schreibst du beide Teile richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Weg",
+    "weisen"
+  ],
+  "bild_datei": "Wegweiser.webp",
+  "audio_datei": "Wegweiser.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wegweiser",
+    "plural": "die Wegweiser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wegweiser",
+        "genitiv": "des Wegweisers",
+        "dativ": "dem Wegweiser",
+        "akkusativ": "den Wegweiser"
+      },
+      "plural": {
+        "nominativ": "die Wegweiser",
+        "genitiv": "der Wegweiser",
+        "dativ": "den Wegweisern",
+        "akkusativ": "die Wegweiser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "signpost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau indicateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yön tabelası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة الاتجاه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weisen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wegweißer",
+    "Weckweiser",
+    "Wegweyser",
+    "Wegweiszer",
+    "Wägweiser"
+  ]
+}

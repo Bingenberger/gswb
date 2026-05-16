@@ -1,0 +1,89 @@
+{
+  "lemma": "Ware",
+  "wortart": "Nomen",
+  "silben": "Wa-re",
+  "begriffserklaerung": "Eine Ware ist etwas, das man kaufen oder verkaufen kann, zum Beispiel im Laden oder im Supermarkt.",
+  "beispielsatz": "Im Supermarkt gibt es viele verschiedene Waren zu kaufen.",
+  "rechtschreibstrategie": "Denk an das lange „a\" in „Wa-re\" – du sprichst es lang aus, also schreibst du nur ein „r\" danach.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ware",
+    "plural": "die Waren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ware",
+        "genitiv": "der Ware",
+        "dativ": "der Ware",
+        "akkusativ": "die Ware"
+      },
+      "plural": {
+        "nominativ": "die Waren",
+        "genitiv": "der Waren",
+        "dativ": "den Waren",
+        "akkusativ": "die Waren"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Ware"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Warenhaus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Warenlager"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Produkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Artikel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goods / product"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marchandise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mal / ürün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بضاعة"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wahre",
+    "Warre",
+    "Vare",
+    "Waare"
+  ],
+  "bild_datei": "Ware.webp",
+  "audio_datei": "Ware.mp3"
+}

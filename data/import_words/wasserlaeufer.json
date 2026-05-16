@@ -1,0 +1,84 @@
+{
+  "lemma": "Wasserläufer",
+  "wortart": "Nomen",
+  "silben": "Was-ser-läu-fer",
+  "begriffserklaerung": "Ein Wasserläufer ist ein kleines Insekt, das auf der Oberfläche von Teichen und Bächen läuft, ohne einzusinken.",
+  "beispielsatz": "Der Wasserläufer gleitet leicht über den Teich, als würde er zaubern.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Wasser\" und „Läufer\". Schreib beide Teile hintereinander – ohne Leerzeichen, aber mit dem großen W am Anfang!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "laufen"
+  ],
+  "bild_datei": "Wasserläufer.webp",
+  "audio_datei": "Wasserläufer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wasserläufer",
+    "plural": "die Wasserläufer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wasserläufer",
+        "genitiv": "des Wasserläufers",
+        "dativ": "dem Wasserläufer",
+        "akkusativ": "den Wasserläufer"
+      },
+      "plural": {
+        "nominativ": "die Wasserläufer",
+        "genitiv": "der Wasserläufer",
+        "dativ": "den Wasserläufern",
+        "akkusativ": "die Wasserläufer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water strider"
+    },
+    {
+      "language_code": "fr",
+      "translation": "araignée d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su örümceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حشرة ماشية الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wasserleuffer",
+    "Wasserleufer",
+    "Wasserläuffer",
+    "Wasserlaufer",
+    "Wasserläufer"
+  ]
+}

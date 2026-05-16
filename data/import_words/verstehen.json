@@ -1,0 +1,99 @@
+{
+  "lemma": "verstehen",
+  "wortart": "Verb",
+  "silben": "ver-ste-hen",
+  "begriffserklaerung": "Wenn du verstehst, weißt du, was etwas bedeutet oder was jemand meint.",
+  "beispielsatz": "Ich verstehe die Aufgabe jetzt – der Lehrer hat sie gut erklärt.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ver-ste-hen. Am Ende hörst du das Dehnungs-h vor dem -en.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "steh",
+    "versteh"
+  ],
+  "bild_datei": "verstehen.webp",
+  "audio_datei": "verstehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verstehen",
+    "praesens": {
+      "ich": "verstehe",
+      "du": "verstehst",
+      "er_sie_es": "versteht",
+      "wir": "verstehen",
+      "ihr": "versteht",
+      "sie": "verstehen"
+    },
+    "perfekt": {
+      "ich": "habe verstanden",
+      "du": "hast verstanden",
+      "er_sie_es": "hat verstanden",
+      "wir": "haben verstanden",
+      "ihr": "habt verstanden",
+      "sie": "haben verstanden"
+    },
+    "praeteritum": {
+      "ich": "verstand",
+      "du": "verstandst",
+      "er_sie_es": "verstand",
+      "wir": "verstanden",
+      "ihr": "verstandet",
+      "sie": "verstanden"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to understand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "comprendre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَفْهَمُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verständnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "begreifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kapieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    }
+  ],
+  "fehlschreibungen": [
+    "ferstehen",
+    "verstehen",
+    "versthen",
+    "verstehn",
+    "versthehen"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Blatt",
+  "wortart": "Nomen",
+  "silben": "Blatt",
+  "begriffserklaerung": "Ein Blatt ist ein flacher, grüner Teil einer Pflanze oder eines Baumes. Ein Blatt kann auch ein einzelnes Papierblatt sein.",
+  "beispielsatz": "Das bunte Blatt fällt langsam vom Baum.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" hörst du ein doppeltes „tt\" – das zeigt dir, dass der Vokal kurz ist: Bl-a-tt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Blatt"
+  ],
+  "bild_datei": "Blatt.webp",
+  "audio_datei": "Blatt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leaf / sheet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feuille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaprak / sayfa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blätter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blättern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blätterteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Blatt",
+    "plural": "die Blätter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Blatt",
+        "genitiv": "des Blattes",
+        "dativ": "dem Blatt",
+        "akkusativ": "das Blatt"
+      },
+      "plural": {
+        "nominativ": "die Blätter",
+        "genitiv": "der Blätter",
+        "dativ": "den Blättern",
+        "akkusativ": "die Blätter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blat",
+    "Blad",
+    "Bladt",
+    "Blatt",
+    "Blaht"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Information",
+  "wortart": "Nomen",
+  "silben": "In-for-ma-ti-on",
+  "begriffserklaerung": "Eine Information ist etwas, das du jemandem mitteilst oder das du erfährst. Sie erklärt dir etwas über die Welt, zum Beispiel eine Nachricht, eine Auskunft oder ein Hinweis.",
+  "beispielsatz": "Die Lehrerin gibt uns eine wichtige Information über den Ausflug.",
+  "rechtschreibstrategie": "Das Wort „Information\" kommt aus dem Lateinischen und wird so geschrieben, wie es klingt. Achte auf das „ti\", das wie „zi\" klingt – das ist ein Merkwort!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "inform"
+  ],
+  "bild_datei": "Information.webp",
+  "audio_datei": "Information.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Information",
+    "plural": "die Informationen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Information",
+        "genitiv": "der Information",
+        "dativ": "der Information",
+        "akkusativ": "die Information"
+      },
+      "plural": {
+        "nominativ": "die Informationen",
+        "genitiv": "der Informationen",
+        "dativ": "den Informationen",
+        "akkusativ": "die Informationen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "information"
+    },
+    {
+      "language_code": "fr",
+      "translation": "information"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معلومة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "informieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Informatik"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auskunft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erklärung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Informazion",
+    "Informatsion",
+    "Informacion",
+    "Imformation",
+    "Informaion"
+  ]
+}

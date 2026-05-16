@@ -1,0 +1,83 @@
+{
+  "lemma": "Wiese",
+  "wortart": "Nomen",
+  "silben": "Wie-se",
+  "begriffserklaerung": "Eine Wiese ist eine große, flache Fläche im Freien, die mit Gras und Blumen bewachsen ist.",
+  "beispielsatz": "Auf der grünen Wiese spielen die Kinder Fußball.",
+  "rechtschreibstrategie": "Das „ie\" in „Wiese\" sprichst du lang – merk dir: Wenn das „i\" lang klingt und ein „e\" folgt, schreibst du „ie\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wiese",
+    "plural": "die Wiesen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wiese",
+        "genitiv": "der Wiese",
+        "dativ": "der Wiese",
+        "akkusativ": "die Wiese"
+      },
+      "plural": {
+        "nominativ": "die Wiesen",
+        "genitiv": "der Wiesen",
+        "dativ": "den Wiesen",
+        "akkusativ": "die Wiesen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Wiese"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wiesenblume"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wiesenrand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grünfläche"
+    }
+  ],
+  "bild_datei": "Wiese.webp",
+  "audio_datei": "Wiese.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "meadow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prairie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çayır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرج"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wiesse",
+    "Wieße",
+    "Vise",
+    "Wiese",
+    "Wise",
+    "Wiehse"
+  ]
+}

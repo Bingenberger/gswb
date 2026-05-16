@@ -1,0 +1,86 @@
+{
+  "lemma": "Test",
+  "wortart": "Nomen",
+  "silben": "Test",
+  "begriffserklaerung": "Ein Test ist eine Aufgabe oder ein Fragenbogen, mit dem man herausfindet, was jemand kann oder weiß.",
+  "beispielsatz": "Morgen schreiben wir in der Schule einen Test über Mathe.",
+  "rechtschreibstrategie": "„Test\" hat nur eine Silbe. Nach dem kurzen „e\" hörst du zwei Konsonanten: „s\" und „t\". Schreib einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Test",
+    "plural": "die Tests",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Test",
+        "genitiv": "des Tests",
+        "dativ": "dem Test",
+        "akkusativ": "den Test"
+      },
+      "plural": {
+        "nominativ": "die Tests",
+        "genitiv": "der Tests",
+        "dativ": "den Tests",
+        "akkusativ": "die Tests"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "test"
+  ],
+  "bild_datei": "Test.webp",
+  "audio_datei": "Test.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "test"
+    },
+    {
+      "language_code": "fr",
+      "translation": "test"
+    },
+    {
+      "language_code": "tr",
+      "translation": "test / sınav"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اختبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "testen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tester"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Prüfung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "fehlschreibungen": [
+    "Teast",
+    "Tehst",
+    "Tesd",
+    "Tesst",
+    "Dest"
+  ]
+}

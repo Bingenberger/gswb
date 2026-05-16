@@ -1,0 +1,90 @@
+{
+  "lemma": "Neigung",
+  "wortart": "Nomen",
+  "silben": "Nei-gung",
+  "begriffserklaerung": "Eine Neigung ist, wenn etwas schräg steht oder sich nach unten neigt – zum Beispiel ein Hügel oder eine schiefe Ebene. Neigung kann auch bedeuten, dass man etwas besonders gerne mag oder gut kann.",
+  "beispielsatz": "Der Weg hat eine steile Neigung, deshalb ist das Radfahren bergauf sehr anstrengend.",
+  "rechtschreibstrategie": "Denke an das Verb „neigen\": Nei-gen → Nei-gung. Das „ei\" hörst du deutlich, und die Endung „-ung\" kennst du von vielen anderen Wörtern wie Meinung oder Hoffnung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "neig"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Neigung",
+    "plural": "die Neigungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Neigung",
+        "genitiv": "der Neigung",
+        "dativ": "der Neigung",
+        "akkusativ": "die Neigung"
+      },
+      "plural": {
+        "nominativ": "die Neigungen",
+        "genitiv": "der Neigungen",
+        "dativ": "den Neigungen",
+        "akkusativ": "die Neigungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Neignung",
+    "Naigung",
+    "Neikung",
+    "Neiigung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "inclination / slope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "inclinaison / penchant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğim / eğilim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "neigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geneigt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorliebe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefälle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Richtung"
+    }
+  ],
+  "bild_datei": "Neigung.webp",
+  "audio_datei": "Neigung.mp3"
+}

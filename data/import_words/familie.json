@@ -1,0 +1,83 @@
+{
+  "lemma": "Familie",
+  "wortart": "Nomen",
+  "silben": "Fa-mi-lie",
+  "begriffserklaerung": "Eine Familie sind Menschen, die zusammengehören und füreinander da sind – zum Beispiel Eltern und ihre Kinder.",
+  "beispielsatz": "Am Sonntag frühstückt meine Familie gemeinsam.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Fa-mi-lie. Am Ende hörst du ein langes „ie\" – das schreibt man mit i-e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "familiär",
+    "Familienname"
+  ],
+  "bild_datei": "Familie.webp",
+  "audio_datei": "Familie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "family"
+    },
+    {
+      "language_code": "fr",
+      "translation": "famille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aile"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عائلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "familiär"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Familienname"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sippe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Familie",
+    "plural": "die Familien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Familie",
+        "genitiv": "der Familie",
+        "dativ": "der Familie",
+        "akkusativ": "die Familie"
+      },
+      "plural": {
+        "nominativ": "die Familien",
+        "genitiv": "der Familien",
+        "dativ": "den Familien",
+        "akkusativ": "die Familien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Famielie",
+    "Fammilie",
+    "Famili",
+    "Familje",
+    "Familly"
+  ]
+}

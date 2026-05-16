@@ -1,0 +1,86 @@
+{
+  "lemma": "Spüle",
+  "wortart": "Nomen",
+  "silben": "Spü-le",
+  "begriffserklaerung": "Eine Spüle ist ein Becken in der Küche, in dem man Geschirr, Töpfe und Gläser abwäscht. Sie hat einen Wasserhahn und einen Abfluss.",
+  "beispielsatz": "Mama stellt die schmutzigen Teller in die Spüle und wäscht sie ab.",
+  "rechtschreibstrategie": "Denk an das Verb „spülen\" – die Spüle ist der Ort, wo man spült. Das ü bleibt gleich: spül-en → Spü-le.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spül"
+  ],
+  "bild_datei": "Spüle.webp",
+  "audio_datei": "Spüle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sink"
+    },
+    {
+      "language_code": "fr",
+      "translation": "évier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lavabo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض المطبخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spülen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spülbecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserhahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschirr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spüle",
+    "plural": "die Spülen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spüle",
+        "genitiv": "der Spüle",
+        "dativ": "der Spüle",
+        "akkusativ": "die Spüle"
+      },
+      "plural": {
+        "nominativ": "die Spülen",
+        "genitiv": "der Spülen",
+        "dativ": "den Spülen",
+        "akkusativ": "die Spülen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spühle",
+    "Spiele",
+    "Spühl",
+    "Spülle",
+    "Spile"
+  ]
+}

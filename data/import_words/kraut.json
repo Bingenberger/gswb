@@ -1,0 +1,86 @@
+{
+  "lemma": "Kraut",
+  "wortart": "Nomen",
+  "silben": "Kraut",
+  "begriffserklaerung": "Ein Kraut ist eine Pflanze mit weichen Blättern und Stängeln. Kräuter wachsen im Garten oder in der Natur und werden beim Kochen oder als Heilmittel verwendet.",
+  "beispielsatz": "Mama schneidet frisches Kraut aus dem Garten für die Suppe.",
+  "rechtschreibstrategie": "Das Wort „Kraut\" endet auf -aut. Wenn du es verlängerst, sagst du „Kräu-ter\" – so hörst du den Vokal genau.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kraut"
+  ],
+  "bild_datei": "Kraut.webp",
+  "audio_datei": "Kraut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "herb / cabbage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "herbe / chou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ot / lahana"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عشب / كرنب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kräuter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krautig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewürz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pflanze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kraut",
+    "plural": "die Kräuter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kraut",
+        "genitiv": "des Krautes",
+        "dativ": "dem Kraut",
+        "akkusativ": "das Kraut"
+      },
+      "plural": {
+        "nominativ": "die Kräuter",
+        "genitiv": "der Kräuter",
+        "dativ": "den Kräutern",
+        "akkusativ": "die Kräuter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krautt",
+    "Krauth",
+    "Kraud",
+    "Krauts",
+    "Kraout"
+  ]
+}

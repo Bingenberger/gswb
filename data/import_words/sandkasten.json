@@ -1,0 +1,85 @@
+{
+  "lemma": "Sandkasten",
+  "wortart": "Nomen",
+  "silben": "Sand-kas-ten",
+  "begriffserklaerung": "Ein Sandkasten ist eine Holz- oder Steinbox, die mit Sand gefüllt ist. Kinder spielen darin und bauen zum Beispiel Burgen oder Förmchen.",
+  "beispielsatz": "Lena baut im Sandkasten eine riesige Burg aus Sand.",
+  "rechtschreibstrategie": "Das Wort „Sandkasten\" besteht aus zwei Teilen: „Sand\" und „Kasten\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sand",
+    "Kasten"
+  ],
+  "bild_datei": "Sandkasten.webp",
+  "audio_datei": "Sandkasten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sandpit / sandbox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bac à sable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kum havuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق الرمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rutsche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sandkasten",
+    "plural": "die Sandkästen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sandkasten",
+        "genitiv": "des Sandkastens",
+        "dativ": "dem Sandkasten",
+        "akkusativ": "den Sandkasten"
+      },
+      "plural": {
+        "nominativ": "die Sandkästen",
+        "genitiv": "der Sandkästen",
+        "dativ": "den Sandkästen",
+        "akkusativ": "die Sandkästen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sandkassten",
+    "Zandkasten",
+    "Sandkasten",
+    "Sandkastenn",
+    "Sandkästen (als Singular)",
+    "Sankasten",
+    "Sanndkasten"
+  ]
+}

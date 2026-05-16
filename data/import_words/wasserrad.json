@@ -1,0 +1,85 @@
+{
+  "lemma": "Wasserrad",
+  "wortart": "Nomen",
+  "silben": "Was-ser-rad",
+  "begriffserklaerung": "Ein Wasserrad ist ein großes Rad, das sich durch fließendes Wasser dreht. Früher wurde es benutzt, um Mühlen anzutreiben oder Wasser zu schöpfen.",
+  "beispielsatz": "Das alte Wasserrad dreht sich langsam im Fluss.",
+  "rechtschreibstrategie": "Das Wort „Wasserrad\" ist zusammengesetzt aus „Wasser\" und „Rad\". „Wasser\" schreibt man mit Doppel-S, weil das „a\" kurz klingt. Bau die zwei Teile zusammen: Was-ser + Rad = Wasserrad!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Rad"
+  ],
+  "bild_datei": "Wasserrad.webp",
+  "audio_datei": "Wasserrad.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wasserrad",
+    "plural": "die Wasserräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wasserrad",
+        "genitiv": "des Wasserrades",
+        "dativ": "dem Wasserrad",
+        "akkusativ": "das Wasserrad"
+      },
+      "plural": {
+        "nominativ": "die Wasserräder",
+        "genitiv": "der Wasserräder",
+        "dativ": "den Wasserrädern",
+        "akkusativ": "die Wasserräder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water wheel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roue à eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su çarkı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجلة مائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mühle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserkraft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Waserrad",
+    "Wasserrat",
+    "Wässerrad",
+    "Waserad",
+    "Wasserrrad"
+  ]
+}

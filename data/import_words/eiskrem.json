@@ -1,0 +1,82 @@
+{
+  "lemma": "Eiskrem",
+  "wortart": "Nomen",
+  "silben": "Eis-krem",
+  "begriffserklaerung": "Eiskrem ist ein süßes, kaltes Dessert, das aus Milch, Zucker und verschiedenen Aromen hergestellt wird und das man besonders im Sommer gerne isst.",
+  "beispielsatz": "Im Sommer essen wir am liebsten eine leckere Eiskrem in der Sonne.",
+  "rechtschreibstrategie": "Das Wort „Eiskrem\" besteht aus zwei Bausteinen: „Eis\" und „krem\". Sprich beide Teile laut mit – dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Eis"
+  ],
+  "bild_datei": "Eiskrem.webp",
+  "audio_datei": "Eiskrem.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eiskrem",
+    "plural": "die Eiskrems",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eiskrem",
+        "genitiv": "der Eiskrem",
+        "dativ": "der Eiskrem",
+        "akkusativ": "die Eiskrem"
+      },
+      "plural": {
+        "nominativ": "die Eiskrems",
+        "genitiv": "der Eiskrems",
+        "dativ": "den Eiskrems",
+        "akkusativ": "die Eiskrems"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ice cream"
+    },
+    {
+      "language_code": "fr",
+      "translation": "glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dondurma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آيس كريم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Speiseeis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dessert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schokolade"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eiscrem",
+    "Eiscream",
+    "Eiskream",
+    "Eißkrem",
+    "Eiskrehm"
+  ]
+}

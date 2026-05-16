@@ -1,0 +1,77 @@
+{
+  "lemma": "Kanne",
+  "wortart": "Nomen",
+  "silben": "Kan-ne",
+  "begriffserklaerung": "Eine Kanne ist ein Behälter mit einem Griff und einer Tülle. Man benutzt sie, um Flüssigkeiten wie Wasser, Tee oder Milch einzugießen.",
+  "beispielsatz": "Mama gießt den Tee aus der Kanne in meine Tasse.",
+  "rechtschreibstrategie": "In „Kanne\" hörst du das „n\" ganz kurz und deutlich – deshalb schreibt man zwei „n\": Kan-ne.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kanne"
+  ],
+  "bild_datei": "Kanne.webp",
+  "audio_datei": "Kanne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jug / pot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cruche / pot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürahi / kova"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إبريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kännchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Krug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kanne",
+    "plural": "die Kannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kanne",
+        "genitiv": "der Kanne",
+        "dativ": "der Kanne",
+        "akkusativ": "die Kanne"
+      },
+      "plural": {
+        "nominativ": "die Kannen",
+        "genitiv": "der Kannen",
+        "dativ": "den Kannen",
+        "akkusativ": "die Kannen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kane",
+    "Canne",
+    "Cane",
+    "Kahne"
+  ]
+}

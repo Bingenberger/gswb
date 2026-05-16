@@ -1,0 +1,78 @@
+{
+  "lemma": "Paket",
+  "wortart": "Nomen",
+  "silben": "Pa-ket",
+  "begriffserklaerung": "Ein Paket ist ein eingepacktes Bündel oder eine Schachtel, die man verschicken oder verschenken kann.",
+  "beispielsatz": "Die Oma schickt mir ein Paket mit Plätzchen und Überraschungen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pa-KET. Am Ende hörst du ein weiches „t\" – schreib es einfach so, wie du es sprichst: Pa-k-e-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Paket"
+  ],
+  "bild_datei": "Paket.webp",
+  "audio_datei": "Paket.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "package / parcel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paquet / colis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "paket / koli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طَرْد / حُزْمَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Päckchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Päckchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Paket",
+    "plural": "die Pakete",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Paket",
+        "genitiv": "des Pakets",
+        "dativ": "dem Paket",
+        "akkusativ": "das Paket"
+      },
+      "plural": {
+        "nominativ": "die Pakete",
+        "genitiv": "der Pakete",
+        "dativ": "den Paketen",
+        "akkusativ": "die Pakete"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Packet",
+    "Packket",
+    "Pakett",
+    "Pakket",
+    "Paget"
+  ]
+}

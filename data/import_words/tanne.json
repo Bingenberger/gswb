@@ -1,0 +1,82 @@
+{
+  "lemma": "Tanne",
+  "wortart": "Nomen",
+  "silben": "Tan-ne",
+  "begriffserklaerung": "Eine Tanne ist ein immergrüner Baum mit Nadeln und Zapfen. Sie wächst oft im Wald und wird zu Weihnachten gerne als Weihnachtsbaum geschmückt.",
+  "beispielsatz": "Im Winter steht eine große Tanne mit Lichtern geschmückt in unserem Wohnzimmer.",
+  "rechtschreibstrategie": "Das Wort „Tanne\" hat zwei n in der Mitte, weil der Vokal a kurz gesprochen wird: Tan-ne.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Tann"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tanne",
+    "plural": "die Tannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tanne",
+        "genitiv": "der Tanne",
+        "dativ": "der Tanne",
+        "akkusativ": "die Tanne"
+      },
+      "plural": {
+        "nominativ": "die Tannen",
+        "genitiv": "der Tannen",
+        "dativ": "den Tannen",
+        "akkusativ": "die Tannen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tane",
+    "Tann",
+    "Thanne",
+    "Thane",
+    "Tanне"
+  ],
+  "bild_datei": "Tanne.webp",
+  "audio_datei": "Tanne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fir tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sapin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köknar ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة التنوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tannenbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tannennadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kiefer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tannenbaum"
+    }
+  ]
+}

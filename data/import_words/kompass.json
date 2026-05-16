@@ -1,0 +1,72 @@
+{
+  "lemma": "Kompass",
+  "wortart": "Nomen",
+  "silben": "Kom-pass",
+  "begriffserklaerung": "Ein Kompass ist ein Gerät, das immer nach Norden zeigt. So kannst du herausfinden, in welche Richtung du gehst.",
+  "beispielsatz": "Mit dem Kompass fanden wir den richtigen Weg durch den Wald.",
+  "rechtschreibstrategie": "Achte auf das Doppel-s am Ende: Kom-pass. Nach dem kurzen „a\" schreibt man „ss\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Kompass",
+    "plural": "Kompasse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kompass",
+        "genitiv": "des Kompasses",
+        "dativ": "dem Kompass",
+        "akkusativ": "den Kompass"
+      },
+      "plural": {
+        "nominativ": "die Kompasse",
+        "genitiv": "der Kompasse",
+        "dativ": "den Kompassen",
+        "akkusativ": "die Kompasse"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Norden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kompas",
+    "Compass",
+    "Kombass",
+    "Kompaß",
+    "Konpass"
+  ],
+  "bild_datei": "Kompass.webp",
+  "audio_datei": "Kompass.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "compass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boussole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pusula"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بوصلة"
+    }
+  ]
+}

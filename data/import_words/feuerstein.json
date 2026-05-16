@@ -1,0 +1,84 @@
+{
+  "lemma": "Feuerstein",
+  "wortart": "Nomen",
+  "silben": "Feu-er-stein",
+  "begriffserklaerung": "Ein Feuerstein ist ein sehr harter Stein, mit dem man früher Funken erzeugen konnte, um Feuer zu machen.",
+  "beispielsatz": "In der Steinzeit schlug der Mensch zwei Feuersteine aneinander, um Feuer zu machen.",
+  "rechtschreibstrategie": "„Feuerstein\" ist ein zusammengesetztes Wort aus „Feuer\" und „Stein\". Sprich beide Teile deutlich: FEU-ER-STEIN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Stein"
+  ],
+  "bild_datei": "Feuerstein.webp",
+  "audio_datei": "Feuerstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "silex"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çakmaktaşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر الصوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Funken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steinzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lagerfeuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feuerstein",
+    "plural": "die Feuersteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feuerstein",
+        "genitiv": "des Feuersteins",
+        "dativ": "dem Feuerstein",
+        "akkusativ": "den Feuerstein"
+      },
+      "plural": {
+        "nominativ": "die Feuersteine",
+        "genitiv": "der Feuersteine",
+        "dativ": "den Feuersteinen",
+        "akkusativ": "die Feuersteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuershtein",
+    "Feuershtain",
+    "Feuerstain",
+    "Feuastein",
+    "Feuersten",
+    "Feuerstien"
+  ]
+}

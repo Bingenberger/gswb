@@ -1,0 +1,83 @@
+{
+  "lemma": "Zugvogel",
+  "wortart": "Nomen",
+  "silben": "Zug-vo-gel",
+  "begriffserklaerung": "Ein Zugvogel ist ein Vogel, der im Herbst in wärmere Länder fliegt und im Frühling wieder zurückkommt.",
+  "beispielsatz": "Der Storch ist ein Zugvogel und fliegt jeden Herbst nach Afrika.",
+  "rechtschreibstrategie": "„Zugvogel\" ist ein zusammengesetztes Wort aus „Zug\" und „Vogel\". Sprich beide Teile einzeln: ZUG + VOGEL. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zug",
+    "Vogel"
+  ],
+  "bild_datei": "Zugvogel.webp",
+  "audio_datei": "Zugvogel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "migratory bird"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oiseau migrateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göçmen kuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر مهاجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Storch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwalbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogelzug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zugvogel",
+    "plural": "die Zugvögel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zugvogel",
+        "genitiv": "des Zugvogels",
+        "dativ": "dem Zugvogel",
+        "akkusativ": "den Zugvogel"
+      },
+      "plural": {
+        "nominativ": "die Zugvögel",
+        "genitiv": "der Zugvögel",
+        "dativ": "den Zugvögeln",
+        "akkusativ": "die Zugvögel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zugfogel",
+    "Tzugvogel",
+    "Sugvogel",
+    "Zugvogell",
+    "Zuckfogel"
+  ]
+}

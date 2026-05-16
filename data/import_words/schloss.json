@@ -1,0 +1,83 @@
+{
+  "lemma": "Schloss",
+  "wortart": "Nomen",
+  "silben": "Schloss",
+  "begriffserklaerung": "Ein Schloss ist entweder ein großes, prächtiges Gebäude, in dem früher Könige und Fürsten wohnten, oder ein Gerät zum Absperren einer Tür mit einem Schlüssel.",
+  "beispielsatz": "Das alte Schloss auf dem Hügel leuchtet im Mondlicht.",
+  "rechtschreibstrategie": "Das Wort „Schloss\" hat einen kurzen „o\"-Laut, deshalb schreibt man am Ende ein Doppel-s: ss.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schließ",
+    "schloss"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schloss",
+    "plural": "die Schlösser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schloss",
+        "genitiv": "des Schlosses",
+        "dativ": "dem Schloss",
+        "akkusativ": "das Schloss"
+      },
+      "plural": {
+        "nominativ": "die Schlösser",
+        "genitiv": "der Schlösser",
+        "dativ": "den Schlössern",
+        "akkusativ": "die Schlösser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlos",
+    "Schlloß",
+    "Schloß",
+    "Scloss",
+    "Shloss"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "castle / lock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "château / serrure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şato / kilit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلعة / قفل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Burg"
+    }
+  ],
+  "bild_datei": "Schloss.webp",
+  "audio_datei": "Schloss.mp3"
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Trauer",
+  "wortart": "Nomen",
+  "silben": "Trau-er",
+  "begriffserklaerung": "Trauer ist das traurige Gefühl, das man hat, wenn man jemanden vermisst oder wenn etwas Schlimmes passiert ist – zum Beispiel wenn ein Mensch oder ein Tier gestorben ist.",
+  "beispielsatz": "Nach dem Tod ihres Hundes war Lena voller Trauer und weinte sehr.",
+  "rechtschreibstrategie": "Schreibe „Trauer\" mit „au\" in der Mitte – sprich das Wort laut: „Trau-er\". Du hörst das „au\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "trauer"
+  ],
+  "bild_datei": "Trauer.webp",
+  "audio_datei": "Trauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grief / sadness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tristesse / deuil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yas / üzüntü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حزن / عزاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trauern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "traurig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weinen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kummer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Trauer",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Trauer",
+        "genitiv": "der Trauer",
+        "dativ": "der Trauer",
+        "akkusativ": "die Trauer"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trauher",
+    "Trauер",
+    "Trower",
+    "Trouer",
+    "Trauehr",
+    "Trawer"
+  ]
+}

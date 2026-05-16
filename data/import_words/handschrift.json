@@ -1,0 +1,83 @@
+{
+  "lemma": "Handschrift",
+  "wortart": "Nomen",
+  "silben": "Hand-schrift",
+  "begriffserklaerung": "Die Handschrift ist die Art, wie jemand mit der Hand schreibt. Jeder Mensch hat seine eigene, besondere Handschrift.",
+  "beispielsatz": "Die Lehrerin lobt meine schöne Handschrift im Heft.",
+  "rechtschreibstrategie": "Das Wort „Handschrift\" ist zusammengesetzt aus „Hand\" und „Schrift\". Sprich beide Teile laut: HAND + SCHRIFT. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "schreib"
+  ],
+  "bild_datei": "Handschrift.webp",
+  "audio_datei": "Handschrift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handwriting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écriture manuelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el yazısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خط اليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibweise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Handschrift",
+    "plural": "die Handschriften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Handschrift",
+        "genitiv": "der Handschrift",
+        "dativ": "der Handschrift",
+        "akkusativ": "die Handschrift"
+      },
+      "plural": {
+        "nominativ": "die Handschriften",
+        "genitiv": "der Handschriften",
+        "dativ": "den Handschriften",
+        "akkusativ": "die Handschriften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handschrifft",
+    "Handschrid",
+    "Hantschrift",
+    "Handschift",
+    "Handschrif"
+  ]
+}

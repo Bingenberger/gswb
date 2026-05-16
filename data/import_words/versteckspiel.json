@@ -1,0 +1,84 @@
+{
+  "lemma": "Versteckspiel",
+  "wortart": "Nomen",
+  "silben": "Ver-steck-spiel",
+  "begriffserklaerung": "Ein Spiel, bei dem sich eine Person versteckt und eine andere sie sucht.",
+  "beispielsatz": "Im Park spielen wir Versteckspiel, und ich verstecke mich hinter einem großen Baum.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Versteck\" und „Spiel\". Das „ck\" nach dem kurzen „e\" zeigt, dass der Vokal kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "versteck",
+    "spiel"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Versteckspiel",
+    "plural": "die Versteckspiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Versteckspiel",
+        "genitiv": "des Versteckspiels",
+        "dativ": "dem Versteckspiel",
+        "akkusativ": "das Versteckspiel"
+      },
+      "plural": {
+        "nominativ": "die Versteckspiele",
+        "genitiv": "der Versteckspiele",
+        "dativ": "den Versteckspielen",
+        "akkusativ": "die Versteckspiele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Verstekspiel",
+    "Verstäckspiel",
+    "Versteckspil",
+    "Fersteckspiel",
+    "Verstecksspiel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hide-and-seek"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cache-cache"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saklambaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة الاختباء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versteck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fangspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenspiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verstecken"
+    }
+  ],
+  "bild_datei": "Versteckspiel.webp",
+  "audio_datei": "Versteckspiel.mp3"
+}

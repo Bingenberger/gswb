@@ -1,0 +1,83 @@
+{
+  "lemma": "Band",
+  "wortart": "Nomen",
+  "silben": "Band",
+  "begriffserklaerung": "Ein Band ist ein langer, schmaler Streifen aus Stoff, Papier oder einem anderen Material. Man benutzt es zum Binden, Schmücken oder Befestigen.",
+  "beispielsatz": "Lisa bindet ein rotes Band um das Geschenk.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Band\". Am Ende hörst du ein „d\", aber schreib es mit „d\" – wenn du es verlängerst, hörst du: „Bän-der\". Das zeigt dir das „d\" am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bind",
+    "Band"
+  ],
+  "bild_datei": "Band.webp",
+  "audio_datei": "Band.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ribbon / band"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ruban"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şerit / kurdele"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شريط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bündel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streifen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Band",
+    "plural": "die Bänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Band",
+        "genitiv": "des Bandes",
+        "dativ": "dem Band",
+        "akkusativ": "das Band"
+      },
+      "plural": {
+        "nominativ": "die Bänder",
+        "genitiv": "der Bänder",
+        "dativ": "den Bändern",
+        "akkusativ": "die Bänder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bant",
+    "Bannt",
+    "Bandt",
+    "Bande",
+    "Bänd"
+  ]
+}

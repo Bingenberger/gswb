@@ -1,0 +1,78 @@
+{
+  "lemma": "Plätzchen",
+  "wortart": "Nomen",
+  "silben": "Plätz-chen",
+  "begriffserklaerung": "Ein Plätzchen ist ein kleines, flaches Gebäckstück, das meist süß ist und oft zu Weihnachten gebacken wird.",
+  "beispielsatz": "Zu Weihnachten backen wir zusammen bunte Plätzchen mit Zuckerguss.",
+  "rechtschreibstrategie": "Höre das „tz\" nach dem kurzen „ä\" – nach einem kurzen Vokal schreibt man immer tz. Und das „chen\" am Ende macht das Wort klein und niedlich!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Platz"
+  ],
+  "bild_datei": "Plätzchen.webp",
+  "audio_datei": "Plätzchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cookie / biscuit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit gâteau / biscuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurabiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بسكويت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Keks"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachtsgebäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keks"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Plätzchen",
+    "plural": "die Plätzchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Plätzchen",
+        "genitiv": "des Plätzchens",
+        "dativ": "dem Plätzchen",
+        "akkusativ": "das Plätzchen"
+      },
+      "plural": {
+        "nominativ": "die Plätzchen",
+        "genitiv": "der Plätzchen",
+        "dativ": "den Plätzchen",
+        "akkusativ": "die Plätzchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pletzchen",
+    "Plätzchen",
+    "Pläzchen",
+    "Plätschen",
+    "Plättchen"
+  ]
+}

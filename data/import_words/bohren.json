@@ -1,0 +1,89 @@
+{
+  "lemma": "bohren",
+  "wortart": "Verb",
+  "silben": "boh-ren",
+  "begriffserklaerung": "Bohren bedeutet, mit einem spitzen Werkzeug ein rundes Loch in etwas zu machen.",
+  "beispielsatz": "Papa bohrt ein Loch in die Wand, um ein Bild aufzuhängen.",
+  "rechtschreibstrategie": "Denk an das lange „o\" in „bohren\" – es wird mit einem Dehnungs-h geschrieben: b-o-h-r-e-n.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "bohr"
+  ],
+  "bild_datei": "bohren.webp",
+  "audio_datei": "bohren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "bohren",
+    "praesens": {
+      "ich": "bohre",
+      "du": "bohrst",
+      "er_sie_es": "bohrt",
+      "wir": "bohren",
+      "ihr": "bohrt",
+      "sie": "bohren"
+    },
+    "perfekt": {
+      "ich": "habe gebohrt",
+      "du": "hast gebohrt",
+      "er_sie_es": "hat gebohrt",
+      "wir": "haben gebohrt",
+      "ihr": "habt gebohrt",
+      "sie": "haben gebohrt"
+    },
+    "praeteritum": {
+      "ich": "bohrte",
+      "du": "bohrtest",
+      "er_sie_es": "bohrte",
+      "wir": "bohrten",
+      "ihr": "bohrtet",
+      "sie": "bohrten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to drill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "percer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "delmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحفر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bohrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bohrung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schrauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sägen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lochen"
+    }
+  ],
+  "fehlschreibungen": [
+    "boren",
+    "boheren",
+    "bohern",
+    "borhen"
+  ]
+}

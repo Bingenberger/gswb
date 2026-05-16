@@ -1,0 +1,75 @@
+{
+  "lemma": "EVA-Prinzip",
+  "wortart": "Nomen",
+  "silben": "E-VA-Prin-zip",
+  "begriffserklaerung": "Das EVA-Prinzip erklärt, wie ein Computer arbeitet: Zuerst kommen Daten hinein (Eingabe), dann verarbeitet der Computer sie (Verarbeitung), und am Ende gibt er das Ergebnis aus (Ausgabe). EVA steht für Eingabe, Verarbeitung und Ausgabe.",
+  "beispielsatz": "In der Informatikstunde haben wir gelernt, dass jeder Computer nach dem EVA-Prinzip funktioniert.",
+  "rechtschreibstrategie": "EVA ist eine Abkürzung – jeder Buchstabe steht für ein Wort: E wie Eingabe, V wie Verarbeitung, A wie Ausgabe. Groß schreiben, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Prinzip"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das EVA-Prinzip",
+    "plural": "die EVA-Prinzipien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das EVA-Prinzip",
+        "genitiv": "des EVA-Prinzips",
+        "dativ": "dem EVA-Prinzip",
+        "akkusativ": "das EVA-Prinzip"
+      },
+      "plural": {
+        "nominativ": "die EVA-Prinzipien",
+        "genitiv": "der EVA-Prinzipien",
+        "dativ": "den EVA-Prinzipien",
+        "akkusativ": "die EVA-Prinzipien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eva-Prinzip",
+    "EVA-Prinzib",
+    "EVA Prinzip",
+    "Evaprinzip",
+    "EVA-Prinzipp"
+  ],
+  "bild_datei": "EVA-Prinzip.webp",
+  "audio_datei": "EVA-Prinzip.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "IPO principle (Input, Processing, Output)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "principe EVA (Entrée, traitement, Sortie)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "EVA ilkesi (Giriş, İşleme, Çıkış)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مبدأ EVA (الإدخال، المعالجة، الإخراج)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eingabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausgabe"
+    }
+  ]
+}

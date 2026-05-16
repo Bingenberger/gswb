@@ -1,0 +1,88 @@
+{
+  "lemma": "Tischler",
+  "wortart": "Nomen",
+  "silben": "Tisch-ler",
+  "begriffserklaerung": "Ein Tischler ist ein Handwerker, der aus Holz Möbel, Türen und andere Dinge baut und repariert.",
+  "beispielsatz": "Der Tischler baut einen schönen Holzstuhl für unser Wohnzimmer.",
+  "rechtschreibstrategie": "Denk an das kleine Wort „Tisch\" darin – ein Tischler baut Tische! Schreib: Tisch-ler.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tisch"
+  ],
+  "bild_datei": "Tischler.webp",
+  "audio_datei": "Tischler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carpenter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "menuisier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "marangoz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tischlerei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreiner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmermann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tischler",
+    "plural": "die Tischler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tischler",
+        "genitiv": "des Tischlers",
+        "dativ": "dem Tischler",
+        "akkusativ": "den Tischler"
+      },
+      "plural": {
+        "nominativ": "die Tischler",
+        "genitiv": "der Tischler",
+        "dativ": "den Tischlern",
+        "akkusativ": "die Tischler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dischler",
+    "Tishler",
+    "Tischlер",
+    "Tischller",
+    "Tischlar",
+    "Tißler"
+  ]
+}

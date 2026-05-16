@@ -1,0 +1,82 @@
+{
+  "lemma": "Kamm",
+  "wortart": "Nomen",
+  "silben": "Kamm",
+  "begriffserklaerung": "Ein Kamm ist ein kleines Werkzeug mit vielen Zähnen, mit dem man sich die Haare ordnet und kämmt.",
+  "beispielsatz": "Morgens zieht Lena den Kamm durch ihre langen Haare.",
+  "rechtschreibstrategie": "Das Wort „Kamm\" hat am Ende zwei m, weil der Vokal a kurz gesprochen wird. Hör genau hin: Ka-mm!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kämm"
+  ],
+  "bild_datei": "Kamm.webp",
+  "audio_datei": "Kamm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "comb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peigne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kämmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kämmchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haare"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haarkamm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kamm",
+    "plural": "die Kämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kamm",
+        "genitiv": "des Kammes",
+        "dativ": "dem Kamm",
+        "akkusativ": "den Kamm"
+      },
+      "plural": {
+        "nominativ": "die Kämme",
+        "genitiv": "der Kämme",
+        "dativ": "den Kämmen",
+        "akkusativ": "die Kämme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kam",
+    "Kaam",
+    "Kahm",
+    "Kahmm",
+    "Camm"
+  ]
+}

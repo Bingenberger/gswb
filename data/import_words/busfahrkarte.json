@@ -1,0 +1,84 @@
+{
+  "lemma": "Busfahrkarte",
+  "wortart": "Nomen",
+  "silben": "Bus-fahr-kar-te",
+  "begriffserklaerung": "Eine Busfahrkarte ist ein kleiner Zettel oder ein Ticket, das du kaufen musst, um mit dem Bus fahren zu dürfen.",
+  "beispielsatz": "Mama kauft am Automaten eine Busfahrkarte, damit wir in die Stadt fahren können.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Bus\" + „fahr\" + „Karte\". Sprich alle Teile laut mit: Bus-fahr-kar-te. Dann vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "Karte"
+  ],
+  "bild_datei": "Busfahrkarte.webp",
+  "audio_datei": "Busfahrkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bus ticket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ticket de bus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otobüs bileti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تذكرة الحافلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Busticket"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Busfahrkarte",
+    "plural": "die Busfahrkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Busfahrkarte",
+        "genitiv": "der Busfahrkarte",
+        "dativ": "der Busfahrkarte",
+        "akkusativ": "die Busfahrkarte"
+      },
+      "plural": {
+        "nominativ": "die Busfahrkarten",
+        "genitiv": "der Busfahrkarten",
+        "dativ": "den Busfahrkarten",
+        "akkusativ": "die Busfahrkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Busfahrkarte",
+    "Busfarkarte",
+    "Bussfahrkarte",
+    "Busfahrkarrte",
+    "Busfahrkard",
+    "Busvahrkarte"
+  ]
+}

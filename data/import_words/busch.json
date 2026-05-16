@@ -1,0 +1,83 @@
+{
+  "lemma": "Busch",
+  "wortart": "Nomen",
+  "silben": "Busch",
+  "begriffserklaerung": "Ein Busch ist eine kleine Pflanze mit vielen Ästen und Zweigen, die direkt aus dem Boden wächst. Er ist kleiner als ein Baum.",
+  "beispielsatz": "Hinter dem Busch versteckte sich ein kleiner Hase.",
+  "rechtschreibstrategie": "Das Wort „Busch\" hat einen kurzen Vokal „u\" – aber der Kurzvokal wird hier durch „sch\" abgedeckt, nicht durch einen Doppelkonsonanten. Denk dran: Nach dem kurzen „u\" kommt „sch\" – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Busch"
+  ],
+  "bild_datei": "Busch.webp",
+  "audio_datei": "Busch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "buisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebüsch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Busch",
+    "plural": "die Büsche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Busch",
+        "genitiv": "des Busches",
+        "dativ": "dem Busch",
+        "akkusativ": "den Busch"
+      },
+      "plural": {
+        "nominativ": "die Büsche",
+        "genitiv": "der Büsche",
+        "dativ": "den Büschen",
+        "akkusativ": "die Büsche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bush",
+    "Buhs",
+    "Busch",
+    "Buch",
+    "Buusch",
+    "Bušch"
+  ]
+}

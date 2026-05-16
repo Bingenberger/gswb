@@ -1,0 +1,84 @@
+{
+  "lemma": "Baustein",
+  "wortart": "Nomen",
+  "silben": "Bau-stein",
+  "begriffserklaerung": "Ein Baustein ist ein einzelnes Teil, aus dem man etwas zusammenbauen kann – zum Beispiel aus Holz, Stein oder Plastik.",
+  "beispielsatz": "Tim stapelt die Bausteine zu einem hohen Turm.",
+  "rechtschreibstrategie": "Das Wort „Baustein\" besteht aus zwei Teilen: „Bau\" und „Stein\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bau",
+    "Stein"
+  ],
+  "bild_datei": "Baustein.webp",
+  "audio_datei": "Baustein.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Baustein",
+    "plural": "die Bausteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Baustein",
+        "genitiv": "des Bausteins",
+        "dativ": "dem Baustein",
+        "akkusativ": "den Baustein"
+      },
+      "plural": {
+        "nominativ": "die Bausteine",
+        "genitiv": "der Bausteine",
+        "dativ": "den Bausteinen",
+        "akkusativ": "die Bausteine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building block"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brique / bloc de construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapı taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكعب بناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klotz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Baushtein",
+    "Bausstein",
+    "Baustein",
+    "Baushtain",
+    "Baustain",
+    "Bawstein"
+  ]
+}

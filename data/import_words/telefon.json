@@ -1,0 +1,86 @@
+{
+  "lemma": "Telefon",
+  "wortart": "Nomen",
+  "silben": "Te-le-fon",
+  "begriffserklaerung": "Ein Telefon ist ein Gerät, mit dem man mit anderen Menschen sprechen kann, auch wenn sie weit weg sind.",
+  "beispielsatz": "Mama ruft Oma mit dem Telefon an.",
+  "rechtschreibstrategie": "Das Wort „Telefon\" schreibt man mit einem „ph\" – nein, hier mit „f\"! Denk daran: Te-le-fon – sprich es in drei Silben und schreib jede Silbe, wie du sie hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Telefon",
+    "plural": "die Telefone",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Telefon",
+        "genitiv": "des Telefons",
+        "dativ": "dem Telefon",
+        "akkusativ": "das Telefon"
+      },
+      "plural": {
+        "nominativ": "die Telefone",
+        "genitiv": "der Telefone",
+        "dativ": "den Telefonen",
+        "akkusativ": "die Telefone"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Telefon"
+  ],
+  "fehlschreibungen": [
+    "Telefohn",
+    "Telephon",
+    "Teleefon",
+    "Tellfon",
+    "Tellfohn"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "telefonieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Telefonat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handy"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klingel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "telephone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "téléphone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "telefon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هاتف"
+    }
+  ],
+  "bild_datei": "Telefon.webp",
+  "audio_datei": "Telefon.mp3"
+}

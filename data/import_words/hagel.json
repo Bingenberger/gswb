@@ -1,0 +1,81 @@
+{
+  "lemma": "Hagel",
+  "wortart": "Nomen",
+  "silben": "Ha-gel",
+  "begriffserklaerung": "Hagel sind kleine, harte Eiskugeln, die bei einem Gewitter vom Himmel fallen.",
+  "beispielsatz": "Beim Gewitter prasselte der Hagel laut auf das Dach.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ha-gel. Beide Silben kannst du gut mitsprechen. Denk daran: Am Ende steht ein weiches „g\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hagel"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hagel",
+    "plural": "die Hagel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hagel",
+        "genitiv": "des Hagels",
+        "dativ": "dem Hagel",
+        "akkusativ": "den Hagel"
+      },
+      "plural": {
+        "nominativ": "die Hagel",
+        "genitiv": "der Hagel",
+        "dativ": "den Hageln",
+        "akkusativ": "die Hagel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haagel",
+    "Hagell",
+    "Hagal",
+    "Haggel"
+  ],
+  "bild_datei": "Hagel.webp",
+  "audio_datei": "Hagel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hail"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grêle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَرَد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hageln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hagelkorn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    }
+  ]
+}

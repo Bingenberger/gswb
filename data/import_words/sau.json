@@ -1,0 +1,79 @@
+{
+  "lemma": "Sau",
+  "wortart": "Nomen",
+  "silben": "Sau",
+  "begriffserklaerung": "Eine Sau ist ein weibliches Schwein, das Ferkel zur Welt bringen kann. Säue leben auf dem Bauernhof oder im Wald.",
+  "beispielsatz": "Die Sau liegt mit ihren Ferkeln im Stroh.",
+  "rechtschreibstrategie": "Das Wort „Sau\" hat nur eine Silbe. Sprich es laut aus: Du hörst das lange „au\" – das schreibst du genau so: S-a-u.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Sau",
+    "Schwein"
+  ],
+  "bild_datei": "Sau.webp",
+  "audio_datei": "Sau.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "truie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişi domuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ferkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sau",
+    "plural": "die Säue",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sau",
+        "genitiv": "der Sau",
+        "dativ": "der Sau",
+        "akkusativ": "die Sau"
+      },
+      "plural": {
+        "nominativ": "die Säue",
+        "genitiv": "der Säue",
+        "dativ": "den Säuen",
+        "akkusativ": "die Säue"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sow",
+    "Zau",
+    "Sauh",
+    "Saw",
+    "Ssau"
+  ]
+}

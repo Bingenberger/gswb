@@ -1,0 +1,72 @@
+{
+  "lemma": "LED",
+  "wortart": "Nomen",
+  "silben": "LED",
+  "begriffserklaerung": "Eine LED ist ein winzig kleines Lämpchen, das leuchtet, wenn Strom hindurchfließt. LEDs brauchen sehr wenig Strom und halten lange.",
+  "beispielsatz": "Die LED an meiner Taschenlampe leuchtet hellblau.",
+  "rechtschreibstrategie": "LED ist eine Abkürzung und wird immer in Großbuchstaben geschrieben: L – E – D.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "LED.webp",
+  "audio_datei": "LED.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "LED (light-emitting diode)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "LED (diode électroluminescente)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "LED (ışık yayan diyot)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ليد (صمام ثنائي باعث للضوء)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glühbirne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die LED",
+    "plural": "die LEDs",
+    "deklination": {
+      "singular": {
+        "nominativ": "die LED",
+        "genitiv": "der LED",
+        "dativ": "der LED",
+        "akkusativ": "die LED"
+      },
+      "plural": {
+        "nominativ": "die LEDs",
+        "genitiv": "der LEDs",
+        "dativ": "den LEDs",
+        "akkusativ": "die LEDs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Led",
+    "Lee-D",
+    "L.E.D.",
+    "Lehd"
+  ]
+}

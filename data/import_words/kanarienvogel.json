@@ -1,0 +1,81 @@
+{
+  "lemma": "Kanarienvogel",
+  "wortart": "Nomen",
+  "silben": "Ka-na-ri-en-vo-gel",
+  "begriffserklaerung": "Ein Kanarienvogel ist ein kleiner, gelber Singvogel, der oft als Haustier gehalten wird und sehr schön singen kann.",
+  "beispielsatz": "Unser Kanarienvogel singt jeden Morgen ein fröhliches Lied.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Kanarien\" und „Vogel\". Sprich beide Teile beim Schreiben laut mit: Ka-na-ri-en-vo-gel.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Vogel",
+    "Kanarie"
+  ],
+  "bild_datei": "Kanarienvogel.webp",
+  "audio_datei": "Kanarienvogel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "canary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canari"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanarya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر الكناري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wellensittich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Singvogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kanarienvogel",
+    "plural": "die Kanarienvögel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kanarienvogel",
+        "genitiv": "des Kanarienvogels",
+        "dativ": "dem Kanarienvogel",
+        "akkusativ": "den Kanarienvogel"
+      },
+      "plural": {
+        "nominativ": "die Kanarienvögel",
+        "genitiv": "der Kanarienvögel",
+        "dativ": "den Kanarienvögeln",
+        "akkusativ": "die Kanarienvögel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kanarienvogel",
+    "Kanarivogel",
+    "Kanaarienvogel",
+    "Kanarienvoggel",
+    "Canarievogel",
+    "Kanarien Vogel",
+    "Kanarienfogel"
+  ]
+}

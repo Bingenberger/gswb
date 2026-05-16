@@ -1,0 +1,84 @@
+{
+  "lemma": "Sturz",
+  "wortart": "Nomen",
+  "silben": "Sturz",
+  "begriffserklaerung": "Ein Sturz ist, wenn jemand oder etwas plötzlich umfällt oder herunterfällt.",
+  "beispielsatz": "Beim Rennen auf dem Schulhof hatte Lena einen Sturz und schürfte sich das Knie auf.",
+  "rechtschreibstrategie": "Das Wort „Sturz\" endet auf -rz. Wenn du es verlängerst, sagst du „Stürze\" – so hörst du den Zischlaut am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sturz",
+    "stürz"
+  ],
+  "bild_datei": "Sturz.webp",
+  "audio_datei": "Sturz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chute"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سقوط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stürzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstürzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sturz",
+    "plural": "die Stürze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sturz",
+        "genitiv": "des Sturzes",
+        "dativ": "dem Sturz",
+        "akkusativ": "den Sturz"
+      },
+      "plural": {
+        "nominativ": "die Stürze",
+        "genitiv": "der Stürze",
+        "dativ": "den Stürzen",
+        "akkusativ": "die Stürze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sturtz",
+    "Schturz",
+    "Sturs",
+    "Sturz",
+    "Sturzz",
+    "Sturts"
+  ]
+}

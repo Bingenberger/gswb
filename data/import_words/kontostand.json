@@ -1,0 +1,89 @@
+{
+  "lemma": "Kontostand",
+  "wortart": "Nomen",
+  "silben": "Kon-to-stand",
+  "begriffserklaerung": "Der Kontostand zeigt dir, wie viel Geld gerade auf deinem Konto ist.",
+  "beispielsatz": "Mama schaut auf dem Handy nach, wie hoch der Kontostand ist.",
+  "rechtschreibstrategie": "„Kontostand\" ist ein zusammengesetztes Wort aus „Konto\" und „Stand\". Schreibe beide Teile einfach hintereinander – ohne Bindestrich und ohne zusätzliche Buchstaben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Konto",
+    "Stand"
+  ],
+  "bild_datei": "Kontostand.webp",
+  "audio_datei": "Kontostand.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kontostand",
+    "plural": "die Kontostände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kontostand",
+        "genitiv": "des Kontostandes",
+        "dativ": "dem Kontostand",
+        "akkusativ": "den Kontostand"
+      },
+      "plural": {
+        "nominativ": "die Kontostände",
+        "genitiv": "der Kontostände",
+        "dativ": "den Kontoständen",
+        "akkusativ": "die Kontostände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "account balance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "solde du compte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesap bakiyesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رصيد الحساب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Konto"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Guthabensstand"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kontosztand",
+    "Kontostand",
+    "Konto-Stand",
+    "Kontestand",
+    "Kontosstend",
+    "Kontoshtand"
+  ]
+}

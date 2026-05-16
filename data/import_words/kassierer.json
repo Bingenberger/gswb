@@ -1,0 +1,88 @@
+{
+  "lemma": "Kassierer",
+  "wortart": "Nomen",
+  "silben": "Kas-sie-rer",
+  "begriffserklaerung": "Ein Kassierer ist eine Person, die an einer Kasse arbeitet und das Geld einnimmt, wenn man etwas kauft – zum Beispiel im Supermarkt.",
+  "beispielsatz": "Der Kassierer gibt mir das Wechselgeld zurück.",
+  "rechtschreibstrategie": "Das Wort „Kassierer\" schreibt man mit zwei „s\" in der Mitte – sprich es deutlich: Kas-sie-rer. Das doppelte S kommt nach dem kurzen „a\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kasse",
+    "kassier"
+  ],
+  "bild_datei": "Kassierer.webp",
+  "audio_datei": "Kassierer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kassierer",
+    "plural": "die Kassierer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kassierer",
+        "genitiv": "des Kassierers",
+        "dativ": "dem Kassierer",
+        "akkusativ": "den Kassierer"
+      },
+      "plural": {
+        "nominativ": "die Kassierer",
+        "genitiv": "der Kassierer",
+        "dativ": "den Kassierern",
+        "akkusativ": "die Kassierer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cashier"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caissier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasiyer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمين الصندوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kassieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kassiererin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verkäufer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kasierer",
+    "Kassirer",
+    "Kassierer",
+    "Kasieren",
+    "Kassierrer",
+    "Casierer"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "erleben",
+  "wortart": "Verb",
+  "silben": "er-le-ben",
+  "begriffserklaerung": "Etwas erleben bedeutet, dass du dabei bist und etwas Besonderes mitmachst oder spürst.",
+  "beispielsatz": "Im Urlaub haben wir viele tolle Abenteuer erlebt.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: er – le – ben. Das „e\" in der Mitte ist lang, deshalb steht nur ein „b\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "leben",
+    "Erlebnis"
+  ],
+  "bild_datei": "erleben.webp",
+  "audio_datei": "erleben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to experience"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vivre / expérimenter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşamak / deneyimlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يختبر / يعيش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erlebnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "mitmachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fühlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "entdecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "abenteuer"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "erleben",
+    "praesens": {
+      "ich": "erlebe",
+      "du": "erlebst",
+      "er_sie_es": "erlebt",
+      "wir": "erleben",
+      "ihr": "erlebt",
+      "sie": "erleben"
+    },
+    "perfekt": {
+      "ich": "habe erlebt",
+      "du": "hast erlebt",
+      "er_sie_es": "hat erlebt",
+      "wir": "haben erlebt",
+      "ihr": "habt erlebt",
+      "sie": "haben erlebt"
+    },
+    "praeteritum": {
+      "ich": "erlebte",
+      "du": "erlebtest",
+      "er_sie_es": "erlebte",
+      "wir": "erlebten",
+      "ihr": "erlebtet",
+      "sie": "erlebten"
+    }
+  },
+  "fehlschreibungen": [
+    "erlöben",
+    "erleeben",
+    "erlebn",
+    "erleppen",
+    "erlebt"
+  ]
+}

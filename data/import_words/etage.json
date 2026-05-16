@@ -1,0 +1,72 @@
+{
+  "lemma": "Etage",
+  "wortart": "Nomen",
+  "silben": "E-ta-ge",
+  "beispielsatz": "Unsere Wohnung liegt in der dritten Etage.",
+  "begriffserklaerung": "Eine Etage ist eine Ebene in einem Gebäude, also ein Stockwerk über dem Erdgeschoss.",
+  "rechtschreibstrategie": "Bei „Etage\" sprichst du am Ende ein weiches „sch\" wie im Wort „Garage\". Das Wort kommt aus dem Französischen – deshalb klingt es etwas anders, als man es schreiben würde. Merke es dir einfach!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Etage.webp",
+  "audio_datei": "Etage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "floor / storey"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طابق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stockwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Etage",
+    "plural": "die Etagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Etage",
+        "genitiv": "der Etage",
+        "dativ": "der Etage",
+        "akkusativ": "die Etage"
+      },
+      "plural": {
+        "nominativ": "die Etagen",
+        "genitiv": "der Etagen",
+        "dativ": "den Etagen",
+        "akkusativ": "die Etagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ettage",
+    "Etaje",
+    "Etaage",
+    "Etagge",
+    "Ätage"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Abgas",
+  "wortart": "Nomen",
+  "silben": "Ab-gas",
+  "begriffserklaerung": "Ein Abgas ist der schädliche Rauch oder Dampf, der zum Beispiel aus dem Auspuff eines Autos kommt, wenn der Motor läuft.",
+  "beispielsatz": "Aus dem Auspuff des Autos strömt schädliches Abgas in die Luft.",
+  "rechtschreibstrategie": "„Abgas\" ist ein zusammengesetztes Wort aus „ab\" und „Gas\". Sprich beide Teile einzeln: AB – GAS. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Gas"
+  ],
+  "bild_datei": "Abgas.webp",
+  "audio_datei": "Abgas.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abgas",
+    "plural": "die Abgase",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abgas",
+        "genitiv": "des Abgases",
+        "dativ": "dem Abgas",
+        "akkusativ": "das Abgas"
+      },
+      "plural": {
+        "nominativ": "die Abgase",
+        "genitiv": "der Abgase",
+        "dativ": "den Abgasen",
+        "akkusativ": "die Abgase"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exhaust gas"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gaz d'échappement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "egzoz gazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غاز العادم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luftverschmutzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auspuff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abgass",
+    "Abgaß",
+    "Abgaz",
+    "abgas",
+    "Apgas"
+  ]
+}

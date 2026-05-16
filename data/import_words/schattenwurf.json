@@ -1,0 +1,84 @@
+{
+  "lemma": "Schattenwurf",
+  "wortart": "Nomen",
+  "silben": "Schat-ten-wurf",
+  "begriffserklaerung": "Ein Schattenwurf ist der dunkle Fleck, den ein Gegenstand oder eine Person auf den Boden oder eine Wand wirft, wenn Licht auf sie fällt.",
+  "beispielsatz": "In der Mittagssonne war der Schattenwurf des Baumes besonders kurz.",
+  "rechtschreibstrategie": "Das Wort „Schattenwurf\" ist aus zwei Wörtern zusammengesetzt: „Schatten\" und „Wurf\". Das „tt\" in „Schatten\" erkennst du, weil du das Wort verlängerst: „Schatten\" – der Vokal „a\" klingt kurz, also folgen zwei „t\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schatten",
+    "Wurf"
+  ],
+  "bild_datei": "Schattenwurf.webp",
+  "audio_datei": "Schattenwurf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schattenwurf",
+    "plural": "die Schattenwürfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schattenwurf",
+        "genitiv": "des Schattenwurfs",
+        "dativ": "dem Schattenwurf",
+        "akkusativ": "den Schattenwurf"
+      },
+      "plural": {
+        "nominativ": "die Schattenwürfe",
+        "genitiv": "der Schattenwürfe",
+        "dativ": "den Schattenwürfen",
+        "akkusativ": "die Schattenwürfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shadow cast"
+    },
+    {
+      "language_code": "fr",
+      "translation": "projection d'ombre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gölge düşmesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إلقاء الظل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schatten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schattenfall"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schatenwurf",
+    "Schattemwurf",
+    "Schadenwurf",
+    "Schattenwurff",
+    "Schatenwurff"
+  ]
+}

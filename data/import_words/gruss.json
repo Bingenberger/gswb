@@ -1,0 +1,86 @@
+{
+  "lemma": "Gruß",
+  "wortart": "Nomen",
+  "silben": "Gruß",
+  "begriffserklaerung": "Ein Gruß ist ein freundliches Zeichen, mit dem man jemandem zeigt, dass man ihn bemerkt und mag – zum Beispiel durch ein Winken, ein Lächeln oder ein „Hallo\".",
+  "beispielsatz": "Lisa schickt ihrer Oma einen lieben Gruß zum Geburtstag.",
+  "rechtschreibstrategie": "Das Wort „Gruß\" endet auf ß, weil der Vokal „u\" lang gesprochen wird. Nach einem langen Vokal schreibt man immer ß – nicht ss!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "grüß"
+  ],
+  "bild_datei": "Gruß.webp",
+  "audio_datei": "Gruß.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "greeting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salutation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "selam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تحية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grüßen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Begrüßung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Willkommen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abschied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höflichkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gruß",
+    "plural": "die Grüße",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gruß",
+        "genitiv": "des Grußes",
+        "dativ": "dem Gruß",
+        "akkusativ": "den Gruß"
+      },
+      "plural": {
+        "nominativ": "die Grüße",
+        "genitiv": "der Grüße",
+        "dativ": "den Grüßen",
+        "akkusativ": "die Grüße"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gruss",
+    "Gruhs",
+    "Grusz",
+    "Gruse",
+    "Grüß"
+  ]
+}

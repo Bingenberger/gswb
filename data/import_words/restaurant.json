@@ -1,0 +1,73 @@
+{
+  "lemma": "Restaurant",
+  "wortart": "Nomen",
+  "silben": "Res-tau-rant",
+  "begriffserklaerung": "Ein Restaurant ist ein Lokal, in dem man Speisen und Getränke bestellt und am Tisch isst.",
+  "beispielsatz": "Am Samstag geht unsere Familie in ein Restaurant und wir essen Pizza.",
+  "rechtschreibstrategie": "„Restaurant\" kommt aus dem Französischen – merke dir: Res-tau-rant. Das „au\" sprichst du wie „o\", und am Ende hörst du das „t\" nicht. Schreib es einfach so, wie du es dir gemerkt hast!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Restaurant.webp",
+  "audio_datei": "Restaurant.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "restaurant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "restaurant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "restoran"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطعم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speisekarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kellner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lokal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Restaurant",
+    "plural": "die Restaurants",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Restaurant",
+        "genitiv": "des Restaurants",
+        "dativ": "dem Restaurant",
+        "akkusativ": "das Restaurant"
+      },
+      "plural": {
+        "nominativ": "die Restaurants",
+        "genitiv": "der Restaurants",
+        "dativ": "den Restaurants",
+        "akkusativ": "die Restaurants"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Restorant",
+    "Restorrant",
+    "Restaurang",
+    "Resaurant",
+    "Restourant",
+    "Restarant"
+  ]
+}

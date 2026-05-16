@@ -1,0 +1,98 @@
+{
+  "lemma": "trauen",
+  "wortart": "Verb",
+  "silben": "trau-en",
+  "begriffserklaerung": "Wenn du jemandem traust, glaubst du, dass er ehrlich und gut ist. Du kannst dich auch selbst etwas trauen – dann hast du Mut, etwas zu tun.",
+  "beispielsatz": "Ich traue mich, die große Rutsche hinunterzurutschen!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: trau-en. Das „au\" schreibst du mit a und u. Am Ende kommt ein weiches „en\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "trau"
+  ],
+  "bild_datei": "trauen.webp",
+  "audio_datei": "trauen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to trust / to dare"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire confiance / oser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güvenmek / cesaret etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يثق / يجرؤ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vertrauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Traum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vertrauen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "mutig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "glauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "trauen",
+    "praesens": {
+      "ich": "traue",
+      "du": "traust",
+      "er_sie_es": "traut",
+      "wir": "trauen",
+      "ihr": "traut",
+      "sie": "trauen"
+    },
+    "perfekt": {
+      "ich": "habe getraut",
+      "du": "hast getraut",
+      "er_sie_es": "hat getraut",
+      "wir": "haben getraut",
+      "ihr": "habt getraut",
+      "sie": "haben getraut"
+    },
+    "praeteritum": {
+      "ich": "traute",
+      "du": "trautest",
+      "er_sie_es": "traute",
+      "wir": "trauten",
+      "ihr": "trautet",
+      "sie": "trauten"
+    }
+  },
+  "fehlschreibungen": [
+    "drauen",
+    "trauhen",
+    "trauwen",
+    "trauun",
+    "traueen"
+  ]
+}

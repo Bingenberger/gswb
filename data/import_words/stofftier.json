@@ -1,0 +1,89 @@
+{
+  "lemma": "Stofftier",
+  "wortart": "Nomen",
+  "silben": "Stoff-tier",
+  "begriffserklaerung": "Ein Stofftier ist ein weiches Spielzeug in Form eines Tieres, das aus Stoff genäht und mit Füllmaterial gefüllt ist.",
+  "beispielsatz": "Zum Einschlafen kuschelt Lena immer mit ihrem Stofftier.",
+  "rechtschreibstrategie": "Das Wort „Stofftier\" besteht aus zwei Teilen: „Stoff\" und „Tier\". Bei „Stoff\" hörst du ein kurzes „o\", deshalb steht dort ein Doppel-f. Sprich beide Teile laut: Stoff – Tier!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stoff",
+    "Tier"
+  ],
+  "bild_datei": "Stofftier.webp",
+  "audio_datei": "Stofftier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stofftier",
+    "plural": "die Stofftiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stofftier",
+        "genitiv": "des Stofftiers",
+        "dativ": "dem Stofftier",
+        "akkusativ": "das Stofftier"
+      },
+      "plural": {
+        "nominativ": "die Stofftiere",
+        "genitiv": "der Stofftiere",
+        "dativ": "den Stofftieren",
+        "akkusativ": "die Stofftiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stuffed animal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peluche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "peluş oyuncak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان محشو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kuscheltier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Puppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teddybär"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stoftier",
+    "Stofftiere",
+    "Stooftier",
+    "Stofttier",
+    "Stofftir",
+    "Stofier"
+  ]
+}

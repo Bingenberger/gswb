@@ -1,0 +1,82 @@
+{
+  "lemma": "Haus",
+  "wortart": "Nomen",
+  "silben": "Haus",
+  "begriffserklaerung": "Ein Haus ist ein Gebäude, in dem Menschen wohnen oder arbeiten.",
+  "beispielsatz": "Unser Haus hat einen großen Garten.",
+  "rechtschreibstrategie": "Verlängere das Wort: „Haus\" → „Häuser\". Das „s\" am Ende hörst du dann deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Haus",
+    "plural": "die Häuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Haus",
+        "genitiv": "des Hauses",
+        "dativ": "dem Haus",
+        "akkusativ": "das Haus"
+      },
+      "plural": {
+        "nominativ": "die Häuser",
+        "genitiv": "der Häuser",
+        "dativ": "den Häusern",
+        "akkusativ": "die Häuser"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Haus"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "häuslich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haushalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebäude"
+    }
+  ],
+  "bild_datei": "Haus.webp",
+  "audio_datei": "Haus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "house"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيت"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hauß",
+    "Hause",
+    "Haus",
+    "Hauss",
+    "Haws"
+  ]
+}

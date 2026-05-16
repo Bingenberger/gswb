@@ -1,0 +1,93 @@
+{
+  "lemma": "Verschmutzung",
+  "wortart": "Nomen",
+  "silben": "Ver-schmut-zung",
+  "begriffserklaerung": "Eine Verschmutzung entsteht, wenn etwas sauber ist und dann dreckig wird – zum Beispiel wenn Müll in die Natur geworfen wird oder Abgase die Luft verschmutzen.",
+  "beispielsatz": "Die Verschmutzung des Flusses macht viele Tiere krank.",
+  "rechtschreibstrategie": "Das Wort „Verschmutzung\" hat ein „tz\" in der Mitte, weil davor ein kurzer Vokal (u) gesprochen wird. Außerdem hilft das verwandte Wort „schmutzig\", die Schreibung zu erklären.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schmutz"
+  ],
+  "bild_datei": "Verschmutzung.webp",
+  "audio_datei": "Verschmutzung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verschmutzung",
+    "plural": "die Verschmutzungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verschmutzung",
+        "genitiv": "der Verschmutzung",
+        "dativ": "der Verschmutzung",
+        "akkusativ": "die Verschmutzung"
+      },
+      "plural": {
+        "nominativ": "die Verschmutzungen",
+        "genitiv": "der Verschmutzungen",
+        "dativ": "den Verschmutzungen",
+        "akkusativ": "die Verschmutzungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pollution / contamination"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pollution"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kirlilik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تلوث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmutz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschmutzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmutzig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dreck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abgas"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verschmutzug",
+    "Verschmutzunk",
+    "Verschmutzung",
+    "Verschmutzuung",
+    "Verschmutzng",
+    "Verschmutzuing"
+  ]
+}

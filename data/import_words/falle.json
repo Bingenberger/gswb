@@ -1,0 +1,82 @@
+{
+  "lemma": "Falle",
+  "wortart": "Nomen",
+  "silben": "Fal-le",
+  "begriffserklaerung": "Eine Falle ist eine Vorrichtung, mit der man Tiere oder Menschen fangen kann, ohne dass sie es merken.",
+  "beispielsatz": "Der Fuchs tappte in die Falle, die der Jäger aufgestellt hatte.",
+  "rechtschreibstrategie": "Das Wort „Falle\" hat ein doppeltes „l\", weil der Vokal „a\" kurz gesprochen wird. Hör genau hin: Faaalle? Nein – Falle! Kurzes „a\" → doppeltes „l\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fall"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Falle",
+    "plural": "die Fallen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Falle",
+        "genitiv": "der Falle",
+        "dativ": "der Falle",
+        "akkusativ": "die Falle"
+      },
+      "plural": {
+        "nominativ": "die Fallen",
+        "genitiv": "der Fallen",
+        "dativ": "den Fallen",
+        "akkusativ": "die Fallen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fale",
+    "Falle",
+    "Phalle",
+    "Fahl",
+    "Fahlle"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piège"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuzak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fallgrube"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jäger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlinge"
+    }
+  ],
+  "bild_datei": "Falle.webp",
+  "audio_datei": "Falle.mp3"
+}

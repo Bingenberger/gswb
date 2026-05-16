@@ -1,0 +1,90 @@
+{
+  "lemma": "Holz",
+  "wortart": "Nomen",
+  "silben": "Holz",
+  "begriffserklaerung": "Holz ist das harte Material, das aus dem Stamm und den Ästen von Bäumen gewonnen wird. Man kann damit bauen, heizen oder basteln.",
+  "beispielsatz": "Der Tischler sägt das Holz in gleich große Stücke.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Holz\". Das „o\" klingt kurz, aber hier gibt es keinen Doppelkonsonanten – merk dir einfach, dass am Ende ein „z\" steht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Holz"
+  ],
+  "bild_datei": "Holz.webp",
+  "audio_datei": "Holz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wood"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahşap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hölzern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holzfäller"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holzkohle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Holzwerk"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Holz",
+    "plural": "die Hölzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Holz",
+        "genitiv": "des Holzes",
+        "dativ": "dem Holz",
+        "akkusativ": "das Holz"
+      },
+      "plural": {
+        "nominativ": "die Hölzer",
+        "genitiv": "der Hölzer",
+        "dativ": "den Hölzern",
+        "akkusativ": "die Hölzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hols",
+    "Holtz",
+    "Holts",
+    "Hoolz",
+    "Holzz"
+  ]
+}

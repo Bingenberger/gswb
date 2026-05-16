@@ -1,0 +1,93 @@
+{
+  "lemma": "Schild",
+  "wortart": "Nomen",
+  "silben": "Schild",
+  "begriffserklaerung": "Ein Schild ist ein Gegenstand mit einer Aufschrift oder einem Bild. Es gibt Informationen, Warnungen oder Hinweise weiter – zum Beispiel an Straßen, Gebäuden oder in Geschäften.",
+  "beispielsatz": "Am Eingang des Parks hängt ein Schild mit der Aufschrift „Bitte nicht auf dem Rasen laufen!\"",
+  "rechtschreibstrategie": "Das Wort „Schild\" endet auf „-ld\". Wenn man es verlängert, hört man das „d\" deutlich: die Schil-der. So weiß man, dass am Ende ein „d\" und kein „t\" steht.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schild"
+  ],
+  "bild_datei": "Schild.webp",
+  "audio_datei": "Schild.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sign"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tabela"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschildern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beschilderung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schilderwald"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinweisschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wegweiser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schild",
+    "plural": "die Schilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schild",
+        "genitiv": "des Schildes",
+        "dativ": "dem Schild",
+        "akkusativ": "das Schild"
+      },
+      "plural": {
+        "nominativ": "die Schilder",
+        "genitiv": "der Schilder",
+        "dativ": "den Schildern",
+        "akkusativ": "die Schilder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schilt",
+    "Schilld",
+    "Schiltt",
+    "Schielt"
+  ]
+}

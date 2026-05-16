@@ -1,0 +1,90 @@
+{
+  "lemma": "Buch",
+  "wortart": "Nomen",
+  "silben": "Buch",
+  "begriffserklaerung": "Ein Buch ist ein Gegenstand mit vielen Seiten, auf denen Texte oder Bilder gedruckt sind. Man kann Bücher lesen, um Geschichten zu erleben oder etwas zu lernen.",
+  "beispielsatz": "Ich lese jeden Abend ein spannendes Buch vor dem Schlafen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Buch\". Der Vokal klingt lang, deshalb schreibt man kein Doppel-Konsonant. Denk daran: Bücher – da hörst du das lange „ü\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Buch"
+  ],
+  "bild_datei": "Buch.webp",
+  "audio_datei": "Buch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "book"
+    },
+    {
+      "language_code": "fr",
+      "translation": "livre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kitap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كِتَاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "buchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bücherei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bücherregal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lesen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Buch",
+    "plural": "die Bücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Buch",
+        "genitiv": "des Buches",
+        "dativ": "dem Buch",
+        "akkusativ": "das Buch"
+      },
+      "plural": {
+        "nominativ": "die Bücher",
+        "genitiv": "der Bücher",
+        "dativ": "den Büchern",
+        "akkusativ": "die Bücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Buch",
+    "Buuch",
+    "Buhch",
+    "Boch",
+    "Bück"
+  ]
+}

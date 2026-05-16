@@ -1,0 +1,86 @@
+{
+  "lemma": "Problem",
+  "wortart": "Nomen",
+  "silben": "Pro-blem",
+  "begriffserklaerung": "Ein Problem ist etwas Schwieriges, das man lösen oder bewältigen muss.",
+  "beispielsatz": "Die Matheaufgabe war ein schwieriges Problem, aber Lena hat es gelöst.",
+  "rechtschreibstrategie": "Denk an das englische Wort „problem\" – auf Deutsch schreibt man „Problem\" mit einem „b\" in der Mitte und großem Anfangsbuchstaben, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Problem",
+    "plural": "die Probleme",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Problem",
+        "genitiv": "des Problems",
+        "dativ": "dem Problem",
+        "akkusativ": "das Problem"
+      },
+      "plural": {
+        "nominativ": "die Probleme",
+        "genitiv": "der Probleme",
+        "dativ": "den Problemen",
+        "akkusativ": "die Probleme"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Problem"
+  ],
+  "fehlschreibungen": [
+    "Probläm",
+    "Probelem",
+    "Probelm",
+    "Prohblem",
+    "Probleem"
+  ],
+  "bild_datei": "Problem.webp",
+  "audio_datei": "Problem.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "problem"
+    },
+    {
+      "language_code": "fr",
+      "translation": "problème"
+    },
+    {
+      "language_code": "tr",
+      "translation": "problem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشكلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "problematisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Problemlösung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwierigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herausforderung"
+    }
+  ]
+}

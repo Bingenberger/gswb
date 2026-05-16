@@ -1,0 +1,90 @@
+{
+  "lemma": "mähen",
+  "wortart": "Verb",
+  "silben": "mä-hen",
+  "begriffserklaerung": "Gras oder Getreide mit einem Gerät wie einer Sense oder einem Rasenmäher abschneiden.",
+  "beispielsatz": "Papa mäht jeden Samstag den Rasen im Garten.",
+  "rechtschreibstrategie": "Das „h\" in „mähen\" ist ein Dehnungs-h. Es macht das „ä\" lang. Denk daran: mä-hen – das „h\" gehört zum langen Vokal!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "mäh"
+  ],
+  "bild_datei": "mähen.webp",
+  "audio_datei": "mähen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "mähen",
+    "praesens": {
+      "ich": "mähe",
+      "du": "mähst",
+      "er_sie_es": "mäht",
+      "wir": "mähen",
+      "ihr": "mäht",
+      "sie": "mähen"
+    },
+    "perfekt": {
+      "ich": "habe gemäht",
+      "du": "hast gemäht",
+      "er_sie_es": "hat gemäht",
+      "wir": "haben gemäht",
+      "ihr": "habt gemäht",
+      "sie": "haben gemäht"
+    },
+    "praeteritum": {
+      "ich": "mähte",
+      "du": "mähtest",
+      "er_sie_es": "mähte",
+      "wir": "mähten",
+      "ihr": "mähtet",
+      "sie": "mähten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to mow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tondre / faucher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "biçmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَحْصُد / يَجُزّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mähmaschine"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rasenmäher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ernten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abschneiden"
+    }
+  ],
+  "fehlschreibungen": [
+    "mehen",
+    "mäen",
+    "määhen",
+    "mähen",
+    "mähhen"
+  ]
+}

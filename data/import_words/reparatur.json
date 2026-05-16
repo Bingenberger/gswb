@@ -1,0 +1,86 @@
+{
+  "lemma": "Reparatur",
+  "wortart": "Nomen",
+  "silben": "Re-pa-ra-tur",
+  "begriffserklaerung": "Eine Reparatur ist, wenn man etwas Kaputtes wieder in Ordnung bringt, zum Beispiel ein Fahrrad oder ein Spielzeug.",
+  "beispielsatz": "Das Fahrrad ist kaputt und braucht eine Reparatur.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Re-pa-ra-tur. Achte auf das -tur am Ende – da steckt kein „d\", auch wenn es sich fast so anhört!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "reparier"
+  ],
+  "bild_datei": "Reparatur.webp",
+  "audio_datei": "Reparatur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "repair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réparation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tamir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إصلاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reparieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reparaturwerkstatt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Instandsetzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reparatur",
+    "plural": "die Reparaturen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reparatur",
+        "genitiv": "der Reparatur",
+        "dativ": "der Reparatur",
+        "akkusativ": "die Reparatur"
+      },
+      "plural": {
+        "nominativ": "die Reparaturen",
+        "genitiv": "der Reparaturen",
+        "dativ": "den Reparaturen",
+        "akkusativ": "die Reparaturen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reparadur",
+    "Repparatur",
+    "Reparatuur",
+    "Reperatur",
+    "Reparattur"
+  ]
+}

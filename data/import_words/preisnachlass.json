@@ -1,0 +1,94 @@
+{
+  "lemma": "Preisnachlass",
+  "wortart": "Nomen",
+  "silben": "Preis-nach-lass",
+  "begriffserklaerung": "Ein Preisnachlass bedeutet, dass etwas weniger kostet als normal. Man zahlt also weniger Geld für eine Ware oder eine Dienstleistung.",
+  "beispielsatz": "Im Supermarkt gab es heute einen Preisnachlass auf Äpfel, deshalb haben wir gleich zwei Tüten gekauft.",
+  "rechtschreibstrategie": "Das Wort „Preisnachlass\" ist ein zusammengesetztes Wort aus „Preis\" + „nach\" + „lass\". Denke beim Schreiben an alle drei Bausteine! Das „ss\" am Ende kommt, weil der Vokal davor kurz ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Preis",
+    "lassen"
+  ],
+  "bild_datei": "Preisnachlass.webp",
+  "audio_datei": "Preisnachlass.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Preisnachlass",
+    "plural": "die Preisnachlässe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Preisnachlass",
+        "genitiv": "des Preisnachlasses",
+        "dativ": "dem Preisnachlass",
+        "akkusativ": "den Preisnachlass"
+      },
+      "plural": {
+        "nominativ": "die Preisnachlässe",
+        "genitiv": "der Preisnachlässe",
+        "dativ": "den Preisnachlässen",
+        "akkusativ": "die Preisnachlässe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "discount"
+    },
+    {
+      "language_code": "fr",
+      "translation": "remise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "indirim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خصم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lassen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rabatt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ermäßigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angebot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonderpreis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Preisnachlas",
+    "Preisnachlас",
+    "Preisnachlaß",
+    "Preißnachlass",
+    "Preisnachlass",
+    "Preiznachlass",
+    "Preisnachlasss"
+  ]
+}

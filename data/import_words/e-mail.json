@@ -1,0 +1,71 @@
+{
+  "lemma": "E-Mail",
+  "wortart": "Nomen",
+  "silben": "E-Mail",
+  "begriffserklaerung": "Eine E-Mail ist eine Nachricht, die du über das Internet an jemanden schickst – so wie ein Brief, aber viel schneller.",
+  "beispielsatz": "Meine Oma schickt mir manchmal eine E-Mail mit lustigen Bildern.",
+  "rechtschreibstrategie": "Das Wort „E-Mail\" kommt aus dem Englischen. Denk daran: großes E, dann ein Bindestrich, dann „Mail\" – alles zusammen mit Bindestrich!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "E-Mail.webp",
+  "audio_datei": "E-Mail.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "email"
+    },
+    {
+      "language_code": "fr",
+      "translation": "e-mail / courriel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "e-posta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بريد إلكتروني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "elektronische Post"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die E-Mail",
+    "plural": "die E-Mails",
+    "deklination": {
+      "singular": {
+        "nominativ": "die E-Mail",
+        "genitiv": "der E-Mail",
+        "dativ": "der E-Mail",
+        "akkusativ": "die E-Mail"
+      },
+      "plural": {
+        "nominativ": "die E-Mails",
+        "genitiv": "der E-Mails",
+        "dativ": "den E-Mails",
+        "akkusativ": "die E-Mails"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Email",
+    "e-mail",
+    "E Mail",
+    "Imail"
+  ]
+}

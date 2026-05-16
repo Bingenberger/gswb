@@ -1,0 +1,82 @@
+{
+  "lemma": "Wildnis",
+  "wortart": "Nomen",
+  "silben": "Wild-nis",
+  "begriffserklaerung": "Die Wildnis ist ein großes Stück Natur, in dem keine Menschen wohnen und das nicht von Menschen verändert wurde. Dort leben Tiere und Pflanzen frei und ungestört.",
+  "beispielsatz": "Im Urlaub sahen wir in der Wildnis Löwen, Elefanten und viele bunte Vögel.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Wild-nis. Der erste Teil klingt wie „wild\" – das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wild"
+  ],
+  "bild_datei": "Wildnis.webp",
+  "audio_datei": "Wildnis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wilderness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nature sauvage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vahşi doğa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wildtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dschungel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einöde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wildnis",
+    "plural": "die Wildnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wildnis",
+        "genitiv": "der Wildnis",
+        "dativ": "der Wildnis",
+        "akkusativ": "die Wildnis"
+      },
+      "plural": {
+        "nominativ": "die Wildnisse",
+        "genitiv": "der Wildnisse",
+        "dativ": "den Wildnissen",
+        "akkusativ": "die Wildnisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wildness",
+    "Wieldnis",
+    "Wildniss",
+    "Vildnis",
+    "Wildniß"
+  ]
+}

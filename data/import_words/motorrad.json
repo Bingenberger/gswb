@@ -1,0 +1,84 @@
+{
+  "lemma": "Motorrad",
+  "wortart": "Nomen",
+  "silben": "Mo-tor-rad",
+  "begriffserklaerung": "Ein Motorrad ist ein Fahrzeug mit zwei Rädern und einem Motor. Man sitzt oben drauf und fährt damit auf der Straße.",
+  "beispielsatz": "Mein Onkel trägt immer einen Helm, wenn er mit seinem Motorrad fährt.",
+  "rechtschreibstrategie": "Das Wort „Motorrad\" besteht aus zwei Teilen: „Motor\" und „Rad\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rad",
+    "Motor"
+  ],
+  "bild_datei": "Motorrad.webp",
+  "audio_datei": "Motorrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "motorcycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moto"
+    },
+    {
+      "language_code": "tr",
+      "translation": "motosiklet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة نارية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Motorrad",
+    "plural": "die Motorräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Motorrad",
+        "genitiv": "des Motorrads",
+        "dativ": "dem Motorrad",
+        "akkusativ": "das Motorrad"
+      },
+      "plural": {
+        "nominativ": "die Motorräder",
+        "genitiv": "der Motorräder",
+        "dativ": "den Motorrädern",
+        "akkusativ": "die Motorräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Motorat",
+    "Mottorrad",
+    "Motorrat",
+    "Mottorad",
+    "Motorrad"
+  ]
+}

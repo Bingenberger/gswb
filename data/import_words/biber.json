@@ -1,0 +1,81 @@
+{
+  "lemma": "Biber",
+  "wortart": "Nomen",
+  "silben": "Bi-ber",
+  "begriffserklaerung": "Ein Biber ist ein großes Nagetier mit einem flachen Schwanz, das am Wasser lebt. Es fällt Bäume mit seinen starken Zähnen und baut daraus Dämme im Fluss.",
+  "beispielsatz": "Der Biber hat aus Ästen und Schlamm einen Damm im Bach gebaut.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Bi-ber. Nach dem kurzen „i\" kommt nur ein „b\" – das merkst du dir einfach so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Biber"
+  ],
+  "bild_datei": "Biber.webp",
+  "audio_datei": "Biber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beaver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "castor"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kunduz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قندس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biberbau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biberdamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Otter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Biber",
+    "plural": "die Biber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Biber",
+        "genitiv": "des Bibers",
+        "dativ": "dem Biber",
+        "akkusativ": "den Biber"
+      },
+      "plural": {
+        "nominativ": "die Biber",
+        "genitiv": "der Biber",
+        "dativ": "den Bibern",
+        "akkusativ": "die Biber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bieber",
+    "Bibber",
+    "Bipper",
+    "Bibar"
+  ]
+}

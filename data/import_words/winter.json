@@ -1,0 +1,82 @@
+{
+  "lemma": "Winter",
+  "wortart": "Nomen",
+  "silben": "Win-ter",
+  "beispielsatz": "Im Winter liegt oft Schnee auf den Straßen und Dächern.",
+  "begriffserklaerung": "Der Winter ist die kälteste Jahreszeit. Es wird früh dunkel, und manchmal schneit es.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Win – ter. Du hörst beide Silben deutlich. Das „W\" am Anfang schreibst du groß, weil Winter ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "winter"
+  ],
+  "bild_datei": "Winter.webp",
+  "audio_datei": "Winter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hiver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شتاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "winterlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Winterzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahreszeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Winter",
+    "plural": "die Winter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Winter",
+        "genitiv": "des Winters",
+        "dativ": "dem Winter",
+        "akkusativ": "den Winter"
+      },
+      "plural": {
+        "nominativ": "die Winter",
+        "genitiv": "der Winter",
+        "dativ": "den Wintern",
+        "akkusativ": "die Winter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Winder",
+    "Vinter",
+    "Winther",
+    "Wintter",
+    "Wünter"
+  ]
+}

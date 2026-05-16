@@ -1,0 +1,83 @@
+{
+  "lemma": "Säge",
+  "wortart": "Nomen",
+  "silben": "Sä-ge",
+  "begriffserklaerung": "Eine Säge ist ein Werkzeug mit vielen kleinen Zähnen. Mit ihr kann man Holz oder andere Materialien durchschneiden.",
+  "beispielsatz": "Papa nimmt die Säge aus dem Werkzeugkasten und sägt ein Brett entzwei.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Sä-ge. Das ä klingt hell – denk an das verwandte Wort „sägen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "säg"
+  ],
+  "bild_datei": "Säge.webp",
+  "audio_datei": "Säge.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Säge",
+    "plural": "die Sägen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Säge",
+        "genitiv": "der Säge",
+        "dativ": "der Säge",
+        "akkusativ": "die Säge"
+      },
+      "plural": {
+        "nominativ": "die Sägen",
+        "genitiv": "der Sägen",
+        "dativ": "den Sägen",
+        "akkusativ": "die Sägen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "saw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "testere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منشار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sägen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sägewerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handsäge"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sege",
+    "Sähe",
+    "Säge",
+    "Saege",
+    "Sähge",
+    "Säje"
+  ]
+}

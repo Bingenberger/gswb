@@ -1,0 +1,87 @@
+{
+  "lemma": "Kopfsalat",
+  "wortart": "Nomen",
+  "silben": "Kopf-sa-lat",
+  "begriffserklaerung": "Der Kopfsalat ist ein rundes Gemüse mit vielen grünen Blättern. Man isst ihn meistens als Salat mit Dressing.",
+  "beispielsatz": "Mama schneidet den Kopfsalat in kleine Stücke für unser Abendessen.",
+  "rechtschreibstrategie": "Kopfsalat ist ein Baustein-Wort aus zwei Teilen: „Kopf\" und „Salat\". Sprich beide Teile laut: KOPF – SA – LAT. Das „p\" und das „f\" in „Kopf\" kannst du mithören!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kopf",
+    "Salat"
+  ],
+  "bild_datei": "Kopfsalat.webp",
+  "audio_datei": "Kopfsalat.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kopfsalat",
+    "plural": "die Kopfsalate",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kopfsalat",
+        "genitiv": "des Kopfsalats",
+        "dativ": "dem Kopfsalat",
+        "akkusativ": "den Kopfsalat"
+      },
+      "plural": {
+        "nominativ": "die Kopfsalate",
+        "genitiv": "der Kopfsalate",
+        "dativ": "den Kopfsalaten",
+        "akkusativ": "die Kopfsalate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lettuce"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laitue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "marul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feldsalat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gurke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Salat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kopfsallat",
+    "Kopfsalatt",
+    "Kopfsalad",
+    "Kobfsalat",
+    "Kopfsallatt"
+  ]
+}

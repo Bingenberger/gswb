@@ -1,0 +1,84 @@
+{
+  "lemma": "Kaugummi",
+  "wortart": "Nomen",
+  "silben": "Kau-gum-mi",
+  "begriffserklaerung": "Ein Kaugummi ist ein weiches, klebriges Stück, das man lange kauen kann. Man schluckt es meistens nicht, sondern spuckt es danach aus.",
+  "beispielsatz": "Lena kaut einen Kaugummi mit Pfefferminzgeschmack.",
+  "rechtschreibstrategie": "Das Wort Kaugummi besteht aus zwei Teilen: „kau\" (kauen) und „Gummi\". Das „mm\" in „Gummi\" schreibst du doppelt, weil der Vokal davor kurz gesprochen wird. Sprich es laut: Kau-gum-mi!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kauen",
+    "Gummi"
+  ],
+  "bild_datei": "Kaugummi.webp",
+  "audio_datei": "Kaugummi.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kaugummi",
+    "plural": "die Kaugummis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kaugummi",
+        "genitiv": "des Kaugummis",
+        "dativ": "dem Kaugummi",
+        "akkusativ": "den Kaugummi"
+      },
+      "plural": {
+        "nominativ": "die Kaugummis",
+        "genitiv": "der Kaugummis",
+        "dativ": "den Kaugummis",
+        "akkusativ": "die Kaugummis"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chewing gum"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chewing-gum"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sakız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gummi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bonbon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süßigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gummi"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kaugumi",
+    "Kaugumy",
+    "Kaugumie",
+    "Caugummi",
+    "Kaugummie"
+  ]
+}

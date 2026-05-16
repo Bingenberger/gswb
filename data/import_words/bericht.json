@@ -1,0 +1,90 @@
+{
+  "lemma": "Bericht",
+  "wortart": "Nomen",
+  "silben": "Be-richt",
+  "begriffserklaerung": "Ein Bericht ist ein Text oder eine Erzählung, in der jemand genau beschreibt, was passiert ist oder was er erlebt hat.",
+  "beispielsatz": "Lena schreibt einen Bericht über den Ausflug in den Zoo.",
+  "rechtschreibstrategie": "Das Wort endet auf -cht. Sprich es laut aus: Be-RICHT – du hörst das „ch\" und das „t\" am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "berichten"
+  ],
+  "bild_datei": "Bericht.webp",
+  "audio_datei": "Bericht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "report"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rapport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rapor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقرير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "berichten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berichterstatter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meldung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mitteilung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachrichten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufsatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bericht",
+    "plural": "die Berichte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bericht",
+        "genitiv": "des Berichts",
+        "dativ": "dem Bericht",
+        "akkusativ": "den Bericht"
+      },
+      "plural": {
+        "nominativ": "die Berichte",
+        "genitiv": "der Berichte",
+        "dativ": "den Berichten",
+        "akkusativ": "die Berichte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Berricht",
+    "Berichd",
+    "Berihct",
+    "Berich",
+    "Bercht"
+  ]
+}

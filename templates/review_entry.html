@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block title %}JSON prüfen | {{ entry.payload.lemma or entry.filename }}{% endblock %}
+
+{% block content %}
+<section class="review-layout">
+    <aside class="review-sidebar card">
+        <p class="eyebrow">Prüfliste</p>
+        <p><strong>{{ entry.entries|length }}</strong> Dateien</p>
+        <ul class="review-file-list">
+            {% for item in entry.entries %}
+            <li class="{% if item.slug == entry.slug %}is-current{% endif %}">
+                <a href="{{ url_for('main.review_entry', slug=item.slug) }}">{{ item.lemma }}</a>
+                <span>
+                    {% if item.needs_regeneration %}Neu{% elif item.approved %}OK{% else %}Offen{% endif %}
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+    </aside>
+
+    <section class="review-main">
+        <section class="card review-header">
+            <div>
+                <p class="eyebrow">JSON-Prüfung</p>
+                <h1>{{ entry.payload.lemma or entry.filename }}</h1>
+                <p class="muted">{{ entry.filename }}</p>
+            </div>
+            <div class="review-status-group">
+                <span class="review-badge {% if entry.review.approved %}is-approved{% else %}is-pending{% endif %}">
+                    {% if entry.review.approved %}Bestätigt{% else %}Offen{% endif %}
+                </span>
+                <span class="review-badge {% if entry.review.needs_regeneration %}is-regenerate{% else %}is-neutral{% endif %}">
+                    {% if entry.review.needs_regeneration %}Neu erzeugen{% else %}Kein Neu-Flag{% endif %}
+                </span>
+            </div>
+        </section>
+
+        <section class="card review-actions">
+            <form method="post" action="{{ url_for('main.review_approve', slug=entry.slug) }}">
+                <input type="hidden" name="next_slug" value="{{ entry.next_slug or entry.slug }}">
+                <button class="primary-button" type="submit" data-shortcut-label="B">Bestätigen</button>
+            </form>
+            <form method="post" action="{{ url_for('main.review_toggle_regeneration', slug=entry.slug) }}">
+                <button class="secondary-button review-secondary" type="submit" data-shortcut-label="R">
+                    {% if entry.review.needs_regeneration %}Neu-Flag entfernen{% else %}Neu von KI erzeugen{% endif %}
+                </button>
+            </form>
+            {% if entry.prev_slug %}
+            <a class="review-nav-link" href="{{ url_for('main.review_entry', slug=entry.prev_slug) }}">Vorherige</a>
+            {% endif %}
+            {% if entry.next_slug %}
+            <a class="review-nav-link" href="{{ url_for('main.review_entry', slug=entry.next_slug) }}">Nächste</a>
+            {% endif %}
+            <button class="review-nav-link" type="button" data-open-editor data-shortcut-label="E">Bearbeiten</button>
+        </section>
+
+        <section class="card review-dataset">
+            <p class="eyebrow">Datensatz</p>
+            <dl class="review-grid">
+                <div><dt>Wortart</dt><dd>{{ entry.payload.wortart }}</dd></div>
+                <div><dt>Silben</dt><dd>{{ entry.payload.silben }}</dd></div>
+                <div><dt>Beispielsatz</dt><dd>{{ entry.payload.beispielsatz }}</dd></div>
+                <div><dt>Erklärung</dt><dd>{{ entry.payload.begriffserklaerung }}</dd></div>
+                <div><dt>Strategie</dt><dd>{{ entry.payload.rechtschreibstrategie }}</dd></div>
+                <div><dt>Kategorien</dt><dd>{{ entry.payload.rechtschreibkategorien|join(', ') }}</dd></div>
+            </dl>
+
+            <div class="review-block">
+                <h2>Beziehungen</h2>
+                <pre>{{ entry.relations_json }}</pre>
+            </div>
+            <div class="review-block">
+                <h2>Grammatische Formen</h2>
+                <pre>{{ entry.grammar_json }}</pre>
+            </div>
+        </section>
+
+        <section class="card review-editor" data-review-editor hidden>
+            <p class="eyebrow">Bearbeiten</p>
+            {% if editor_error %}
+            <p class="review-error">{{ editor_error }}</p>
+            {% endif %}
+            <form method="post" action="{{ url_for('main.review_save', slug=entry.slug) }}">
+                <textarea name="raw_json" class="review-textarea" spellcheck="false">{{ editor_text or entry.raw_json }}</textarea>
+                <div class="review-actions">
+                    <button class="primary-button" type="submit" data-shortcut-label="S">Speichern</button>
+                    <button class="review-nav-link" type="button" data-close-editor>Schließen</button>
+                </div>
+            </form>
+        </section>
+    </section>
+</section>
+{% endblock %}

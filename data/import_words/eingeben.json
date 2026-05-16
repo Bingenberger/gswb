@@ -1,0 +1,97 @@
+{
+  "lemma": "eingeben",
+  "wortart": "Verb",
+  "silben": "ein-ge-ben",
+  "begriffserklaerung": "Etwas eingeben bedeutet, Buchstaben, Zahlen oder Wörter in ein Gerät wie einen Computer oder ein Tablet zu tippen.",
+  "beispielsatz": "Tim gibt seinen Namen in das Suchfeld ein.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus „ein\" und „geben\" zusammen. Denk daran: „geben\" schreibt man mit einem einfachen „b\" – sprich es laut mit: ge-ben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "geben",
+    "Eingabe"
+  ],
+  "bild_datei": "eingeben.webp",
+  "audio_datei": "eingeben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to enter / to input"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saisir / entrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "girmek / yazmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُدخل / يكتب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eingabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "eintippen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tippen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "eingeben",
+    "praesens": {
+      "ich": "gebe ein",
+      "du": "gibst ein",
+      "er_sie_es": "gibt ein",
+      "wir": "geben ein",
+      "ihr": "gebt ein",
+      "sie": "geben ein"
+    },
+    "perfekt": {
+      "ich": "habe eingegeben",
+      "du": "hast eingegeben",
+      "er_sie_es": "hat eingegeben",
+      "wir": "haben eingegeben",
+      "ihr": "habt eingegeben",
+      "sie": "haben eingegeben"
+    },
+    "praeteritum": {
+      "ich": "gab ein",
+      "du": "gabst ein",
+      "er_sie_es": "gab ein",
+      "wir": "gaben ein",
+      "ihr": "gabt ein",
+      "sie": "gaben ein"
+    }
+  },
+  "fehlschreibungen": [
+    "eingeben",
+    "eingebn",
+    "eingäben",
+    "eingegeben",
+    "eингeben",
+    "eingeeben",
+    "eingepben"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lemma": "Teddy",
+  "wortart": "Nomen",
+  "silben": "Ted-dy",
+  "begriffserklaerung": "Ein Teddy ist ein weiches Kuscheltier in Form eines Bären. Kinder nehmen ihn gern zum Schlafen mit ins Bett.",
+  "beispielsatz": "Abends kuschelt Lena mit ihrem Teddy, bevor sie einschläft.",
+  "rechtschreibstrategie": "Das Wort „Teddy\" hat am Ende ein doppeltes d-y. Sprich es laut: Ted-dy. Das kurze „e\" zeigt dir, dass du „dd\" schreibst!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Teddy.webp",
+  "audio_datei": "Teddy.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teddy bear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nounours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncak ayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُبُّ بَلُّوش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuscheltier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teddybär"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teddy",
+    "plural": "die Teddys",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teddy",
+        "genitiv": "des Teddys",
+        "dativ": "dem Teddy",
+        "akkusativ": "den Teddy"
+      },
+      "plural": {
+        "nominativ": "die Teddys",
+        "genitiv": "der Teddys",
+        "dativ": "den Teddys",
+        "akkusativ": "die Teddys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tedy",
+    "Tedi",
+    "Teddey",
+    "Teddi"
+  ]
+}

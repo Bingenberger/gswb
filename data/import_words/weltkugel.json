@@ -1,0 +1,88 @@
+{
+  "lemma": "Weltkugel",
+  "wortart": "Nomen",
+  "silben": "Welt-ku-gel",
+  "begriffserklaerung": "Die Weltkugel ist ein runder Ball, der die Erde darstellt. Man kann auf ihr alle Länder, Meere und Kontinente sehen.",
+  "beispielsatz": "Im Klassenzimmer steht eine bunte Weltkugel, auf der wir alle Länder der Erde finden können.",
+  "rechtschreibstrategie": "Das Wort „Weltkugel\" ist aus zwei Wörtern zusammengesetzt: „Welt\" und „Kugel\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Welt",
+    "Kugel"
+  ],
+  "bild_datei": "Weltkugel.webp",
+  "audio_datei": "Weltkugel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Weltkugel",
+    "plural": "die Weltkugeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Weltkugel",
+        "genitiv": "der Weltkugel",
+        "dativ": "der Weltkugel",
+        "akkusativ": "die Weltkugel"
+      },
+      "plural": {
+        "nominativ": "die Weltkugeln",
+        "genitiv": "der Weltkugeln",
+        "dativ": "den Weltkugeln",
+        "akkusativ": "die Weltkugeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "globe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "globe terrestre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dünya küresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة الأرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Welt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kugel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Globus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kontinent"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weltkugell",
+    "Weltkugal",
+    "Weltkuggel",
+    "Welkugel",
+    "Weltkhugel",
+    "Weltkuegel"
+  ]
+}

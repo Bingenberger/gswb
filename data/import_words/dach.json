@@ -1,0 +1,82 @@
+{
+  "lemma": "Dach",
+  "wortart": "Nomen",
+  "silben": "Dach",
+  "begriffserklaerung": "Das Dach ist der oberste Teil eines Hauses oder Gebäudes. Es schützt die Menschen drinnen vor Regen, Wind und Schnee.",
+  "beispielsatz": "Auf dem Dach unseres Hauses sitzen oft Tauben.",
+  "rechtschreibstrategie": "Das Wort „Dach\" hat nach dem kurzen „a\" ein „ch\". Wenn du es verlängerst, hörst du: „Dä-cher\" – so merkst du dir das „ch\" am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Dach"
+  ],
+  "bild_datei": "Dach.webp",
+  "audio_datei": "Dach.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "roof"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çatı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dachboden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dachziegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Dach",
+    "plural": "die Dächer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Dach",
+        "genitiv": "des Daches",
+        "dativ": "dem Dach",
+        "akkusativ": "das Dach"
+      },
+      "plural": {
+        "nominativ": "die Dächer",
+        "genitiv": "der Dächer",
+        "dativ": "den Dächern",
+        "akkusativ": "die Dächer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dach",
+    "Tach",
+    "Dakh",
+    "Daach",
+    "Dak"
+  ]
+}

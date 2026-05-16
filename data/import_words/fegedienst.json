@@ -1,0 +1,85 @@
+{
+  "lemma": "Fegedienst",
+  "wortart": "Nomen",
+  "silben": "Fe-ge-dienst",
+  "begriffserklaerung": "Ein Fegedienst ist ein Dienst in der Schule oder Klasse, bei dem Kinder an der Reihe sind, den Boden zu fegen und den Raum sauber zu machen.",
+  "beispielsatz": "Heute hat Lena Fegedienst und kehrt nach dem Unterricht das Klassenzimmer.",
+  "rechtschreibstrategie": "Das Wort „Fegedienst\" ist zusammengesetzt aus „fegen\" und „Dienst\". Sprich beide Teile einzeln: „Fe-ge\" + „Dienst\". Achte auf das lange „ie\" in „Dienst\" – das sprichst du lang aus!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "fegen",
+    "Dienst"
+  ],
+  "bild_datei": "Fegedienst.webp",
+  "audio_datei": "Fegedienst.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fegedienst",
+    "plural": "die Fegedienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fegedienst",
+        "genitiv": "des Fegedienst(e)s",
+        "dativ": "dem Fegedienst",
+        "akkusativ": "den Fegedienst"
+      },
+      "plural": {
+        "nominativ": "die Fegedienste",
+        "genitiv": "der Fegedienste",
+        "dativ": "den Fegediensten",
+        "akkusativ": "die Fegedienste"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sweeping duty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "service de balayage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süpürme görevi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خدمة الكنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Putzdienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassendienst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kehrdienst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fägedienst",
+    "Fegediensd",
+    "Fegedinst",
+    "Fegedienst",
+    "Fegehdienst",
+    "Fege-Dienst"
+  ]
+}

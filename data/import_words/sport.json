@@ -1,0 +1,82 @@
+{
+  "lemma": "Sport",
+  "wortart": "Nomen",
+  "silben": "Sport",
+  "begriffserklaerung": "Sport bedeutet, dass du dich bewegst und körperlich aktiv bist – zum Beispiel beim Laufen, Schwimmen oder Fußballspielen.",
+  "beispielsatz": "Nach der Schule mache ich Sport und spiele mit meinen Freunden Fußball.",
+  "rechtschreibstrategie": "„Sport\" hat nur eine Silbe. Sprich es laut: du hörst am Ende ein „t\". Merke dir: S-p-o-r-t – alle Buchstaben werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sport",
+    "plural": "die Sportarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sport",
+        "genitiv": "des Sports",
+        "dativ": "dem Sport",
+        "akkusativ": "den Sport"
+      },
+      "plural": {
+        "nominativ": "die Sportarten",
+        "genitiv": "der Sportarten",
+        "dativ": "den Sportarten",
+        "akkusativ": "die Sportarten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "sport"
+  ],
+  "bild_datei": "Sport.webp",
+  "audio_datei": "Sport.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رياضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sportlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sportler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Training"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leibesübung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spohrt",
+    "Sbort",
+    "Spord",
+    "Sporrt",
+    "Shport"
+  ]
+}

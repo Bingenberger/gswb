@@ -1,0 +1,71 @@
+{
+  "lemma": "Hebamme",
+  "wortart": "Nomen",
+  "silben": "Heb-am-me",
+  "begriffserklaerung": "Eine Hebamme ist eine Frau, die anderen Frauen hilft, ihr Baby zur Welt zu bringen. Sie kümmert sich um Mutter und Kind vor und nach der Geburt.",
+  "beispielsatz": "Die Hebamme war bei der Geburt dabei und hat geholfen, das Baby auf die Welt zu bringen.",
+  "rechtschreibstrategie": "Das Wort „Hebamme\" hat am Ende ein doppeltes m – das hörst du, wenn du es laut sprichst: Heb-am-me!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Hebamme.webp",
+  "audio_datei": "Hebamme.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hebamme",
+    "plural": "die Hebammen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hebamme",
+        "genitiv": "der Hebamme",
+        "dativ": "der Hebamme",
+        "akkusativ": "die Hebamme"
+      },
+      "plural": {
+        "nominativ": "die Hebammen",
+        "genitiv": "der Hebammen",
+        "dativ": "den Hebammen",
+        "akkusativ": "die Hebammen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "midwife"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sage-femme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ebe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قابلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hebame",
+    "Heebamme",
+    "Hepamme",
+    "Hebamme"
+  ]
+}

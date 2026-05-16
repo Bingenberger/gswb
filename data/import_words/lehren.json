@@ -1,0 +1,103 @@
+{
+  "lemma": "lehren",
+  "wortart": "Verb",
+  "silben": "leh-ren",
+  "begriffserklaerung": "Jemandem etwas beibringen, damit er es lernt und versteht.",
+  "beispielsatz": "Die Lehrerin lehrt die Kinder, wie man richtig schreibt.",
+  "rechtschreibstrategie": "Das Wort „lehren\" hat ein Dehnungs-h nach dem „e\": l-e-h-r-e-n. Das h macht das „e\" lang, auch wenn man es nicht hört!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "lehren.webp",
+  "audio_datei": "lehren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "lehren",
+    "praesens": {
+      "ich": "lehre",
+      "du": "lehrst",
+      "er_sie_es": "lehrt",
+      "wir": "lehren",
+      "ihr": "lehrt",
+      "sie": "lehren"
+    },
+    "perfekt": {
+      "ich": "habe gelehrt",
+      "du": "hast gelehrt",
+      "er_sie_es": "hat gelehrt",
+      "wir": "haben gelehrt",
+      "ihr": "habt gelehrt",
+      "sie": "haben gelehrt"
+    },
+    "praeteritum": {
+      "ich": "lehrte",
+      "du": "lehrtest",
+      "er_sie_es": "lehrte",
+      "wir": "lehrten",
+      "ihr": "lehrtet",
+      "sie": "lehrten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to teach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enseigner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğretmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُعلِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehre"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beibringen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "unterrichten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    }
+  ],
+  "fehlschreibungen": [
+    "leren",
+    "leeren",
+    "lähren",
+    "lerhen",
+    "lehrren",
+    "lehern"
+  ]
+}

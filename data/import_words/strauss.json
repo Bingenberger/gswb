@@ -1,0 +1,74 @@
+{
+  "lemma": "Strauß",
+  "wortart": "Nomen",
+  "silben": "Strauß",
+  "begriffserklaerung": "Ein Strauß ist entweder ein sehr großer Vogel, der nicht fliegen kann und sehr schnell laufen kann, oder ein Bündel aus Blumen, das man zusammenbindet und verschenkt.",
+  "beispielsatz": "Mama hat zum Geburtstag einen bunten Strauß Blumen bekommen.",
+  "rechtschreibstrategie": "Am Ende hörst du ein scharfes „s\" – das schreibst du als ß, weil der Vokal davor kurz gesprochen wird. Merke: Strauß – mit ß am Ende!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Strauß"
+  ],
+  "bild_datei": "Strauß.webp",
+  "audio_datei": "Strauß.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ostrich / bouquet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "autruche / bouquet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "devekuşu / buket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نعامة / باقة زهور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blumenstrauß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bukett"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strauß",
+    "plural": "die Sträuße",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strauß",
+        "genitiv": "des Straußes",
+        "dativ": "dem Strauß",
+        "akkusativ": "den Strauß"
+      },
+      "plural": {
+        "nominativ": "die Sträuße",
+        "genitiv": "der Sträuße",
+        "dativ": "den Sträußen",
+        "akkusativ": "die Sträuße"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Strauss",
+    "Straus",
+    "Stauß",
+    "Strauβ",
+    "Stross"
+  ]
+}

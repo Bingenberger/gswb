@@ -1,0 +1,82 @@
+{
+  "lemma": "Wirt",
+  "wortart": "Nomen",
+  "silben": "Wirt",
+  "begriffserklaerung": "Ein Wirt ist jemand, der ein Gasthaus oder eine Gaststätte betreibt und dort Gästen Essen und Trinken anbietet.",
+  "beispielsatz": "Der Wirt bringt uns die Speisekarte und fragt, was wir trinken möchten.",
+  "rechtschreibstrategie": "Verlängere das Wort: Wirt → Wir-te. Am Ende hörst du jetzt das „t\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wirt"
+  ],
+  "bild_datei": "Wirt.webp",
+  "audio_datei": "Wirt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "innkeeper / host"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aubergiste / hôte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hancı / ev sahibi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صاحب الفندق / المضيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirtin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirtschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gasthof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kellner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gastwirt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wirt",
+    "plural": "die Wirte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wirt",
+        "genitiv": "des Wirtes",
+        "dativ": "dem Wirt",
+        "akkusativ": "den Wirt"
+      },
+      "plural": {
+        "nominativ": "die Wirte",
+        "genitiv": "der Wirte",
+        "dativ": "den Wirten",
+        "akkusativ": "die Wirte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wird",
+    "Virt",
+    "Wirdt",
+    "Wierd",
+    "Wierth"
+  ]
+}

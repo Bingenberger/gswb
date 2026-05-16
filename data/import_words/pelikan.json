@@ -1,0 +1,72 @@
+{
+  "lemma": "Pelikan",
+  "wortart": "Nomen",
+  "silben": "Pe-li-kan",
+  "begriffserklaerung": "Ein Pelikan ist ein großer Vogel mit einem langen Schnabel und einem großen Kehlsack, in dem er Fische fängt.",
+  "beispielsatz": "Der Pelikan taucht seinen langen Schnabel ins Wasser und fängt einen Fisch.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Pe – li – kan. Achte darauf, dass am Ende „kan\" mit k geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pelikan.webp",
+  "audio_datei": "Pelikan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pelican"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pélican"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pelikan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بجع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnabel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pelikan",
+    "plural": "die Pelikane",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pelikan",
+        "genitiv": "des Pelikans",
+        "dativ": "dem Pelikan",
+        "akkusativ": "den Pelikan"
+      },
+      "plural": {
+        "nominativ": "die Pelikane",
+        "genitiv": "der Pelikane",
+        "dativ": "den Pelikanen",
+        "akkusativ": "die Pelikane"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pellikan",
+    "Pelican",
+    "Pelligen",
+    "Pelikahn",
+    "Pelikan"
+  ]
+}

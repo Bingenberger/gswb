@@ -1,0 +1,73 @@
+{
+  "lemma": "Krabbe",
+  "wortart": "Nomen",
+  "silben": "Krab-be",
+  "begriffserklaerung": "Eine Krabbe ist ein kleines Meerestier mit einem harten Panzer, acht Beinen und zwei Scheren. Sie lebt im Meer oder am Strand.",
+  "beispielsatz": "Am Strand haben wir eine kleine Krabbe unter einem Stein entdeckt.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" verdoppelst du das „b\": Krab-be. Sprich die Silben laut, dann hörst du das doppelte „b\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Krabbe"
+  ],
+  "bild_datei": "Krabbe.webp",
+  "audio_datei": "Krabbe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Krabbe",
+    "plural": "die Krabben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Krabbe",
+        "genitiv": "der Krabbe",
+        "dativ": "der Krabbe",
+        "akkusativ": "die Krabbe"
+      },
+      "plural": {
+        "nominativ": "die Krabben",
+        "genitiv": "der Krabben",
+        "dativ": "den Krabben",
+        "akkusativ": "die Krabben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crab"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crabe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yengeç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرطان البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hummer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garnele"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Krabe",
+    "Crabe",
+    "Krappe",
+    "Kraabe"
+  ]
+}

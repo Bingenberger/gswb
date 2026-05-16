@@ -1,0 +1,84 @@
+{
+  "lemma": "Hofhund",
+  "wortart": "Nomen",
+  "silben": "Hof-hund",
+  "begriffserklaerung": "Ein Hofhund ist ein Hund, der auf einem Bauernhof oder einem großen Grundstück lebt und dieses bewacht.",
+  "beispielsatz": "Der Hofhund bellt laut, wenn jemand das Tor öffnet.",
+  "rechtschreibstrategie": "„Hofhund\" ist aus zwei Wörtern zusammengesetzt: „Hof\" und „Hund\". Schreibe beide Teile einfach zusammen – und vergiss das große H am Anfang nicht!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hof",
+    "Hund"
+  ],
+  "bild_datei": "Hofhund.webp",
+  "audio_datei": "Hofhund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farm dog"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chien de ferme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftlik köpeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كلب المزرعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hof"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wachhund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wachhund"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hofhund",
+    "plural": "die Hofhunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hofhund",
+        "genitiv": "des Hofhundes",
+        "dativ": "dem Hofhund",
+        "akkusativ": "den Hofhund"
+      },
+      "plural": {
+        "nominativ": "die Hofhunde",
+        "genitiv": "der Hofhunde",
+        "dativ": "den Hofhunden",
+        "akkusativ": "die Hofhunde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hofhunt",
+    "Hoffhund",
+    "Hofhundt",
+    "Hoofhund",
+    "Hofhunde"
+  ]
+}

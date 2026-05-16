@@ -1,0 +1,79 @@
+{
+  "lemma": "Urkunde",
+  "wortart": "Nomen",
+  "silben": "Ur-kun-de",
+  "begriffserklaerung": "Eine Urkunde ist ein wichtiges Papier, das etwas Besonderes bestätigt – zum Beispiel einen Sieg, eine Leistung oder ein Recht.",
+  "beispielsatz": "Lena hat beim Sportfest eine Urkunde für den ersten Platz bekommen.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ur-kun-de. Achte auf das „k\" in der Mitte – es klingt hart, aber es steht nur ein „k\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Urkunde"
+  ],
+  "bild_datei": "Urkunde.webp",
+  "audio_datei": "Urkunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "certificate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "certificat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وثيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "urkundlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeugnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zertifikat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bescheinigung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Urkunde",
+    "plural": "die Urkunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Urkunde",
+        "genitiv": "der Urkunde",
+        "dativ": "der Urkunde",
+        "akkusativ": "die Urkunde"
+      },
+      "plural": {
+        "nominativ": "die Urkunden",
+        "genitiv": "der Urkunden",
+        "dativ": "den Urkunden",
+        "akkusativ": "die Urkunden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Urkuhde",
+    "Urkunde",
+    "Uhrkunde",
+    "Urkunnde",
+    "Urkonde",
+    "Urkhunde"
+  ]
+}

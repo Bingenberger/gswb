@@ -1,0 +1,90 @@
+{
+  "lemma": "Zeit",
+  "wortart": "Nomen",
+  "silben": "Zeit",
+  "begriffserklaerung": "Die Zeit sagt uns, wann etwas passiert – zum Beispiel morgens, mittags oder abends. Wir messen Zeit in Sekunden, Minuten, Stunden, Tagen und Jahren.",
+  "beispielsatz": "Wie viel Zeit bleibt noch bis zur Pause?",
+  "rechtschreibstrategie": "Das Wort „Zeit\" schreibt man mit „ei\" – sprich es laut: Z-ei-t. Denk an „ein Ei steckt in der Zeit\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Zeit"
+  ],
+  "bild_datei": "Zeit.webp",
+  "audio_datei": "Zeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "time"
+    },
+    {
+      "language_code": "fr",
+      "translation": "temps"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zaman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeitig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeitlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeitpunkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minute"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeitspanne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zeit",
+    "plural": "die Zeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zeit",
+        "genitiv": "der Zeit",
+        "dativ": "der Zeit",
+        "akkusativ": "die Zeit"
+      },
+      "plural": {
+        "nominativ": "die Zeiten",
+        "genitiv": "der Zeiten",
+        "dativ": "den Zeiten",
+        "akkusativ": "die Zeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeid",
+    "Zeitt",
+    "Zait",
+    "Ceit",
+    "Tseit"
+  ]
+}

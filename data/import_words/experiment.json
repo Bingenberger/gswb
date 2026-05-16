@@ -1,0 +1,87 @@
+{
+  "lemma": "Experiment",
+  "wortart": "Nomen",
+  "silben": "Ex-pe-ri-ment",
+  "begriffserklaerung": "Ein Experiment ist ein Versuch, bei dem man etwas ausprobiert, um herauszufinden, wie etwas funktioniert oder was passiert.",
+  "beispielsatz": "Im Unterricht machen wir ein spannendes Experiment mit Wasser und Farbe.",
+  "rechtschreibstrategie": "Sprich das Wort in vier Silben: Ex – pe – ri – ment. Schreibe es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Experiment"
+  ],
+  "bild_datei": "Experiment.webp",
+  "audio_datei": "Experiment.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "experiment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expérience"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deney"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تجربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "experimentieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "experimentell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forscher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Versuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Experiment",
+    "plural": "die Experimente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Experiment",
+        "genitiv": "des Experiments",
+        "dativ": "dem Experiment",
+        "akkusativ": "das Experiment"
+      },
+      "plural": {
+        "nominativ": "die Experimente",
+        "genitiv": "der Experimente",
+        "dativ": "den Experimenten",
+        "akkusativ": "die Experimente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Experimänt",
+    "Experimend",
+    "Expiriment",
+    "Experriment",
+    "Eksperiment",
+    "Experimant"
+  ]
+}

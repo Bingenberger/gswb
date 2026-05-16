@@ -1,0 +1,85 @@
+{
+  "lemma": "Raubvogel",
+  "wortart": "Nomen",
+  "silben": "Raub-vo-gel",
+  "begriffserklaerung": "Ein Raubvogel ist ein Vogel, der andere Tiere jagt und frisst. Er hat einen starken, gebogenen Schnabel und scharfe Krallen. Bekannte Raubvögel sind zum Beispiel Adler, Falke und Eule.",
+  "beispielsatz": "Der Raubvogel kreist hoch oben am Himmel und sucht nach Beute.",
+  "rechtschreibstrategie": "„Raubvogel\" ist ein zusammengesetztes Wort aus „Raub\" und „Vogel\". Schreibe beide Teile einfach zusammen – ohne Leerzeichen und ohne Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Raub",
+    "Vogel"
+  ],
+  "bild_datei": "Raubvogel.webp",
+  "audio_datei": "Raubvogel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Raubvogel",
+    "plural": "die Raubvögel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Raubvogel",
+        "genitiv": "des Raubvogels",
+        "dativ": "dem Raubvogel",
+        "akkusativ": "den Raubvogel"
+      },
+      "plural": {
+        "nominativ": "die Raubvögel",
+        "genitiv": "der Raubvögel",
+        "dativ": "den Raubvögeln",
+        "akkusativ": "die Raubvögel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bird of prey"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rapace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yırtıcı kuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر جارح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raub"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Falke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eule"
+    }
+  ],
+  "fehlschreibungen": [
+    "Raubfogel",
+    "Raubvogell",
+    "Raubvogel",
+    "Raufvogel",
+    "Raubvoegel",
+    "Raubvogal"
+  ]
+}

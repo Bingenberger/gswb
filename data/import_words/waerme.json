@@ -1,0 +1,87 @@
+{
+  "lemma": "Wärme",
+  "wortart": "Nomen",
+  "silben": "Wär-me",
+  "begriffserklaerung": "Wärme ist das angenehme Gefühl, das entsteht, wenn etwas heiß oder warm ist, zum Beispiel die Sonne oder ein Kaminfeuer.",
+  "beispielsatz": "Die Wärme der Sonne tut mir heute richtig gut.",
+  "rechtschreibstrategie": "Denk an das Wort „warm\" – wenn du es verlängerst, hörst du das „ä\" deutlich: warm → Wärme.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "warm"
+  ],
+  "bild_datei": "Wärme.webp",
+  "audio_datei": "Wärme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "warmth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıcaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دفء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "warm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wärmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hitze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wärme",
+    "plural": "(keine übliche Pluralform)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wärme",
+        "genitiv": "der Wärme",
+        "dativ": "der Wärme",
+        "akkusativ": "die Wärme"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wearme",
+    "Wärm",
+    "Wärmt",
+    "Wärhe",
+    "Waerme",
+    "Wärne"
+  ]
+}

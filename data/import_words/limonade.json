@@ -1,0 +1,79 @@
+{
+  "lemma": "Limonade",
+  "wortart": "Nomen",
+  "silben": "Li-mo-na-de",
+  "begriffserklaerung": "Eine Limonade ist ein süßes, fruchtiges Getränk mit Kohlensäure. Es gibt sie in vielen leckeren Geschmacksrichtungen, zum Beispiel Zitrone, Orange oder Erdbeere.",
+  "beispielsatz": "Im Sommer trinke ich am liebsten eisgekühlte Limonade.",
+  "rechtschreibstrategie": "Das Wort „Limonade\" klingt fast genauso, wie es geschrieben wird – sprich es laut in Silben: Li-mo-na-de. Denk daran: Am Ende steht ein -e!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Limonade"
+  ],
+  "bild_datei": "Limonade.webp",
+  "audio_datei": "Limonade.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Limonade",
+    "plural": "die Limonaden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Limonade",
+        "genitiv": "der Limonade",
+        "dativ": "der Limonade",
+        "akkusativ": "die Limonade"
+      },
+      "plural": {
+        "nominativ": "die Limonaden",
+        "genitiv": "der Limonaden",
+        "dativ": "den Limonaden",
+        "akkusativ": "die Limonaden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lemonade / soft drink"
+    },
+    {
+      "language_code": "fr",
+      "translation": "limonade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "limonata"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصير ليمون / مشروب غازي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zitrone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sprudel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Limonnade",
+    "Limonada",
+    "Limonate",
+    "Limonade",
+    "Limohnade",
+    "Lymonade"
+  ]
+}

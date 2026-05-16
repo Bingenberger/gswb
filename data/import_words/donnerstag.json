@@ -1,0 +1,86 @@
+{
+  "lemma": "Donnerstag",
+  "wortart": "Nomen",
+  "silben": "Don-ners-tag",
+  "begriffserklaerung": "Der Donnerstag ist der vierte Tag der Woche. Er kommt nach dem Mittwoch und vor dem Freitag.",
+  "beispielsatz": "Am Donnerstag haben wir Sportunterricht in der Schule.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Don-ners-tag. Achte auf das doppelte „n\" in der Mitte – man hört den kurzen Vokal davor!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Donner",
+    "Tag"
+  ],
+  "bild_datei": "Donnerstag.webp",
+  "audio_datei": "Donnerstag.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Donnerstag",
+    "plural": "die Donnerstage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Donnerstag",
+        "genitiv": "des Donnerstags",
+        "dativ": "dem Donnerstag",
+        "akkusativ": "den Donnerstag"
+      },
+      "plural": {
+        "nominativ": "die Donnerstage",
+        "genitiv": "der Donnerstage",
+        "dativ": "den Donnerstagen",
+        "akkusativ": "die Donnerstage"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Thursday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeudi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Perşembe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الخميس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Donner"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Montag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freitag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Donnerstag",
+    "Dornerstag",
+    "Donerstag",
+    "Donnerstahg",
+    "Donnertag",
+    "Donnersdag"
+  ]
+}

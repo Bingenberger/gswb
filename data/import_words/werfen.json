@@ -1,0 +1,94 @@
+{
+  "lemma": "werfen",
+  "wortart": "Verb",
+  "silben": "wer-fen",
+  "begriffserklaerung": "Etwas werfen bedeutet, einen Gegenstand mit Schwung durch die Luft zu schicken.",
+  "beispielsatz": "Tim wirft den Ball hoch in die Luft.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „wer-fen\". Das „e\" in „wer\" ist kurz, aber hier steht nur ein „r\" – merke dir einfach die Schreibung!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "werf"
+  ],
+  "bild_datei": "werfen.webp",
+  "audio_datei": "werfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to throw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lancer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرمي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werfer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schmeißen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fangen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zielen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "werfen",
+    "praesens": {
+      "ich": "werfe",
+      "du": "wirfst",
+      "er_sie_es": "wirft",
+      "wir": "werfen",
+      "ihr": "werft",
+      "sie": "werfen"
+    },
+    "perfekt": {
+      "ich": "habe geworfen",
+      "du": "hast geworfen",
+      "er_sie_es": "hat geworfen",
+      "wir": "haben geworfen",
+      "ihr": "habt geworfen",
+      "sie": "haben geworfen"
+    },
+    "praeteritum": {
+      "ich": "warf",
+      "du": "warfst",
+      "er_sie_es": "warf",
+      "wir": "warfen",
+      "ihr": "warft",
+      "sie": "warfen"
+    }
+  },
+  "fehlschreibungen": [
+    "werffen",
+    "werften",
+    "wärfen",
+    "werfem",
+    "werfen"
+  ]
+}

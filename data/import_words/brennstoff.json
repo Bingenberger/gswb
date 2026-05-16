@@ -1,0 +1,84 @@
+{
+  "lemma": "Brennstoff",
+  "wortart": "Nomen",
+  "silben": "Brenn-stoff",
+  "begriffserklaerung": "Ein Brennstoff ist ein Material, das man verbrennen kann, um Wärme oder Energie zu erzeugen. Zum Beispiel Holz, Kohle oder Benzin.",
+  "beispielsatz": "Holz ist ein natürlicher Brennstoff, den man im Kamin verbrennen kann.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „brenn\" (von brennen) und „Stoff\". Achte auf das doppelte „n\" in „brenn\" und das doppelte „f\" in „Stoff\" – beide Teile haben Doppelbuchstaben!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "brenn",
+    "Stoff"
+  ],
+  "bild_datei": "Brennstoff.webp",
+  "audio_datei": "Brennstoff.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brennstoff",
+    "plural": "die Brennstoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brennstoff",
+        "genitiv": "des Brennstoffs",
+        "dativ": "dem Brennstoff",
+        "akkusativ": "den Brennstoff"
+      },
+      "plural": {
+        "nominativ": "die Brennstoffe",
+        "genitiv": "der Brennstoffe",
+        "dativ": "den Brennstoffen",
+        "akkusativ": "die Brennstoffe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fuel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "combustible"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yakıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treibstoff"
+    }
+  ],
+  "fehlschreibungen": [
+    "Brenstoff",
+    "Brennshtoff",
+    "Brennstof",
+    "Brennstoffe (Singular)",
+    "Brentstoff"
+  ]
+}

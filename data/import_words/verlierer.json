@@ -1,0 +1,83 @@
+{
+  "lemma": "Verlierer",
+  "wortart": "Nomen",
+  "silben": "Ver-lie-rer",
+  "begriffserklaerung": "Ein Verlierer ist jemand, der bei einem Spiel, einem Wettkampf oder einem Streit nicht gewonnen hat.",
+  "beispielsatz": "Nach dem Fußballspiel gratulierte der Verlierer dem Sieger fair und freundlich.",
+  "rechtschreibstrategie": "Denk an das Verb „verlieren\": Ver-lie-rer. Das „ie\" in der Mitte hörst du deutlich – schreib es mit „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "verlier"
+  ],
+  "bild_datei": "Verlierer.webp",
+  "audio_datei": "Verlierer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verlierer",
+    "plural": "die Verlierer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verlierer",
+        "genitiv": "des Verlierers",
+        "dativ": "dem Verlierer",
+        "akkusativ": "den Verlierer"
+      },
+      "plural": {
+        "nominativ": "die Verlierer",
+        "genitiv": "der Verlierer",
+        "dativ": "den Verlierern",
+        "akkusativ": "die Verlierer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "loser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perdant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaybeden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الخاسر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verlieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verliererin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sieger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterlegener"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferlierer",
+    "Verlierer",
+    "Verlirer",
+    "Verliehrer",
+    "Verliherer",
+    "Verlieerer"
+  ]
+}

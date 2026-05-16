@@ -1,0 +1,97 @@
+{
+  "lemma": "anmalen",
+  "wortart": "Verb",
+  "silben": "an-ma-len",
+  "begriffserklaerung": "Etwas mit Farbe oder Stiften bunt machen, zum Beispiel ein Bild ausmalen.",
+  "beispielsatz": "Lisa malt das Pferd in ihrem Malbuch bunt an.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: an – ma – len. Der Wortstamm ist „mal\", wie in „Maler\" oder „Malerei\". Das hilft dir, das Wort richtig zu schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "mal"
+  ],
+  "bild_datei": "anmalen.webp",
+  "audio_datei": "anmalen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "anmalen",
+    "praesens": {
+      "ich": "male an",
+      "du": "malst an",
+      "er_sie_es": "malt an",
+      "wir": "malen an",
+      "ihr": "malt an",
+      "sie": "malen an"
+    },
+    "perfekt": {
+      "ich": "habe angemalt",
+      "du": "hast angemalt",
+      "er_sie_es": "hat angemalt",
+      "wir": "haben angemalt",
+      "ihr": "habt angemalt",
+      "sie": "haben angemalt"
+    },
+    "praeteritum": {
+      "ich": "malte an",
+      "du": "maltest an",
+      "er_sie_es": "malte an",
+      "wir": "malten an",
+      "ihr": "maltet an",
+      "sie": "malten an"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to color / to paint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colorier / peindre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boyamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يلوّن / يرسم بالألوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "malen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausmalen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bemalen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zeichnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "basteln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "färben"
+    }
+  ],
+  "fehlschreibungen": [
+    "anmallen",
+    "anmahlen",
+    "annmalen",
+    "anmaalen"
+  ]
+}

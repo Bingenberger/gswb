@@ -1,0 +1,84 @@
+{
+  "lemma": "Nachmittag",
+  "wortart": "Nomen",
+  "silben": "Nach-mit-tag",
+  "begriffserklaerung": "Der Nachmittag ist der Teil des Tages, der nach dem Mittag kommt – also ungefähr von 12 Uhr bis zum Abend.",
+  "beispielsatz": "Am Nachmittag gehe ich mit meiner Freundin auf den Spielplatz.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „nach\" + „mit\" + „tag\". Sprich alle Teile laut mit: Nach-mit-tag!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Mittag",
+    "Tag"
+  ],
+  "bild_datei": "Nachmittag.webp",
+  "audio_datei": "Nachmittag.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nachmittag",
+    "plural": "die Nachmittage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nachmittag",
+        "genitiv": "des Nachmittags",
+        "dativ": "dem Nachmittag",
+        "akkusativ": "den Nachmittag"
+      },
+      "plural": {
+        "nominativ": "die Nachmittage",
+        "genitiv": "der Nachmittage",
+        "dativ": "den Nachmittagen",
+        "akkusativ": "die Nachmittage"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "afternoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "après-midi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğleden sonra"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بعد الظهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mittag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nachmitag",
+    "Nachmidag",
+    "Nachmittach",
+    "Nachtmittag",
+    "Nachmittag"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Nudeln",
+  "wortart": "Nomen",
+  "silben": "Nu-deln",
+  "begriffserklaerung": "Nudeln sind ein Lebensmittel aus Mehl und Wasser, das man kocht und essen kann. Es gibt sie in vielen verschiedenen Formen, zum Beispiel lang, kurz oder als Spiralen.",
+  "beispielsatz": "Heute gibt es Nudeln mit Tomatensoße zum Mittagessen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Nu-deln. Nach dem kurzen „u\" kommt nur ein „d\" – kein Doppelkonsonant. Denk daran: Nu-deln, nicht „Nuddeln\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nudel"
+  ],
+  "bild_datei": "Nudeln.webp",
+  "audio_datei": "Nudeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pasta / noodles"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâtes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makarna"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكرونة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nudel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nudelsuppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pasta"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soße"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nudel",
+    "plural": "die Nudeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nudel",
+        "genitiv": "der Nudel",
+        "dativ": "der Nudel",
+        "akkusativ": "die Nudel"
+      },
+      "plural": {
+        "nominativ": "die Nudeln",
+        "genitiv": "der Nudeln",
+        "dativ": "den Nudeln",
+        "akkusativ": "die Nudeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nuddeln",
+    "Nudlen",
+    "Noudeln",
+    "Nudeln"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "würfeln",
+  "wortart": "Verb",
+  "silben": "wür-feln",
+  "begriffserklaerung": "Würfeln bedeutet, einen Würfel zu werfen und zu schauen, welche Zahl oben liegt. Das macht man zum Beispiel bei Brettspielen.",
+  "beispielsatz": "Wer als Nächstes dran ist, darf jetzt würfeln!",
+  "rechtschreibstrategie": "Denk an das Nomen „der Würfel\" – davon kommt „würfeln\". Das ü und das el hörst du deutlich, wenn du das Wort langsam sprichst: wür-feln.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Würfel"
+  ],
+  "bild_datei": "würfeln.webp",
+  "audio_datei": "würfeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to roll the dice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lancer les dés"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zar atmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرمي النرد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Würfel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "auswürfeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "spielen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brettspiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "losen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "würfeln",
+    "praesens": {
+      "ich": "würfle",
+      "du": "würfelst",
+      "er_sie_es": "würfelt",
+      "wir": "würfeln",
+      "ihr": "würfelt",
+      "sie": "würfeln"
+    },
+    "perfekt": {
+      "ich": "habe gewürfelt",
+      "du": "hast gewürfelt",
+      "er_sie_es": "hat gewürfelt",
+      "wir": "haben gewürfelt",
+      "ihr": "habt gewürfelt",
+      "sie": "haben gewürfelt"
+    },
+    "praeteritum": {
+      "ich": "würfelte",
+      "du": "würfeltest",
+      "er_sie_es": "würfelte",
+      "wir": "würfelten",
+      "ihr": "würfeltet",
+      "sie": "würfelten"
+    }
+  },
+  "fehlschreibungen": [
+    "würffeln",
+    "wurfeln",
+    "würfelln",
+    "würflen",
+    "wüfeln",
+    "würveln"
+  ]
+}

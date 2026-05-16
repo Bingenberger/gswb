@@ -1,0 +1,88 @@
+{
+  "lemma": "Könige",
+  "wortart": "Nomen",
+  "silben": "Kö-ni-ge",
+  "begriffserklaerung": "Ein König ist ein Mann, der über ein Land oder ein Volk herrscht. Könige haben oft eine Krone auf dem Kopf und wohnen in einem Schloss.",
+  "beispielsatz": "In dem Märchen kämpften drei tapfere Könige gemeinsam gegen den bösen Drachen.",
+  "rechtschreibstrategie": "Das Wort „Könige\" kommt von „König\". Das Ö klingt lang, deshalb schreibt man kein Dehnungs-h. Beim Verlängern von „König\" zu „Könige\" sieht man das ig am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "König"
+  ],
+  "bild_datei": "Könige.webp",
+  "audio_datei": "Könige.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kings"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krallar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملوك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "König"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Königin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Königreich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krone"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herrscher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der König",
+    "plural": "die Könige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der König",
+        "genitiv": "des Königs",
+        "dativ": "dem König",
+        "akkusativ": "den König"
+      },
+      "plural": {
+        "nominativ": "die Könige",
+        "genitiv": "der Könige",
+        "dativ": "den Königen",
+        "akkusativ": "die Könige"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Könige",
+    "Koenige",
+    "Könnige",
+    "Könniige",
+    "Köhnige",
+    "Köniige"
+  ]
+}

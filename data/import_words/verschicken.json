@@ -1,0 +1,101 @@
+{
+  "lemma": "verschicken",
+  "wortart": "Verb",
+  "silben": "ver-schi-cken",
+  "begriffserklaerung": "Etwas verschicken bedeutet, es an jemanden zu senden – zum Beispiel einen Brief oder ein Paket.",
+  "beispielsatz": "Mia möchte ihrer Oma eine Geburtstagskarte verschicken.",
+  "rechtschreibstrategie": "Das Wort hat ein kurzes i, deshalb kommt danach ein Doppel-k (ck): ver-schi-cken. Sprich es laut mit: ver – schi – cken!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schick",
+    "schicken"
+  ],
+  "bild_datei": "verschicken.webp",
+  "audio_datei": "verschicken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to send"
+    },
+    {
+      "language_code": "fr",
+      "translation": "envoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göndermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرسِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schickung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "senden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abschicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verschicken",
+    "praesens": {
+      "ich": "verschicke",
+      "du": "verschickst",
+      "er_sie_es": "verschickt",
+      "wir": "verschicken",
+      "ihr": "verschickt",
+      "sie": "verschicken"
+    },
+    "perfekt": {
+      "ich": "habe verschickt",
+      "du": "hast verschickt",
+      "er_sie_es": "hat verschickt",
+      "wir": "haben verschickt",
+      "ihr": "habt verschickt",
+      "sie": "haben verschickt"
+    },
+    "praeteritum": {
+      "ich": "verschickte",
+      "du": "verschicktest",
+      "er_sie_es": "verschickte",
+      "wir": "verschickten",
+      "ihr": "verschicktet",
+      "sie": "verschickten"
+    }
+  },
+  "fehlschreibungen": [
+    "verschiken",
+    "verschicen",
+    "vershicken",
+    "verschikken",
+    "ferschicken",
+    "verschücken"
+  ]
+}

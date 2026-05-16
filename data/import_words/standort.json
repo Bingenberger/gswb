@@ -1,0 +1,91 @@
+{
+  "lemma": "Standort",
+  "wortart": "Nomen",
+  "silben": "Stand-ort",
+  "begriffserklaerung": "Ein Standort ist der genaue Platz, an dem sich jemand oder etwas befindet.",
+  "beispielsatz": "Der Standort der Schule ist direkt neben dem Park.",
+  "rechtschreibstrategie": "„Standort\" ist ein zusammengesetztes Wort aus „Stand\" und „Ort\". Schreibe beide Teile einfach hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "stand",
+    "ort"
+  ],
+  "bild_datei": "Standort.webp",
+  "audio_datei": "Standort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "location"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emplacement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Position"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adresse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Standort",
+    "plural": "die Standorte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Standort",
+        "genitiv": "des Standortes",
+        "dativ": "dem Standort",
+        "akkusativ": "den Standort"
+      },
+      "plural": {
+        "nominativ": "die Standorte",
+        "genitiv": "der Standorte",
+        "dativ": "den Standorten",
+        "akkusativ": "die Standorte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Standord",
+    "Ständort",
+    "Stantort",
+    "Standordt",
+    "Standortt"
+  ]
+}

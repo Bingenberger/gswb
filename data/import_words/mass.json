@@ -1,0 +1,84 @@
+{
+  "lemma": "Maß",
+  "wortart": "Nomen",
+  "silben": "Maß",
+  "begriffserklaerung": "Ein Maß sagt uns, wie groß, wie schwer oder wie viel von etwas da ist. Zum Beispiel sagt uns das Maß, wie lang ein Tisch ist oder wie viel Wasser in eine Flasche passt.",
+  "beispielsatz": "Die Lehrerin nimmt ein Lineal, um das genaue Maß des Tisches zu bestimmen.",
+  "rechtschreibstrategie": "Das Wort „Maß\" endet auf ß – das merkst du dir, weil der Vokal „a\" lang gesprochen wird. Nach einem langen Vokal schreibt man ß statt ss!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "mess",
+    "maß"
+  ],
+  "bild_datei": "Maß.webp",
+  "audio_datei": "Maß.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "measure / measurement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mesure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقياس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Messung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Länge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Größe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Maß",
+    "plural": "die Maße",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Maß",
+        "genitiv": "des Maßes",
+        "dativ": "dem Maß",
+        "akkusativ": "das Maß"
+      },
+      "plural": {
+        "nominativ": "die Maße",
+        "genitiv": "der Maße",
+        "dativ": "den Maßen",
+        "akkusativ": "die Maße"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mass",
+    "Maas",
+    "Maß",
+    "Maße",
+    "Mahs",
+    "Maasz"
+  ]
+}

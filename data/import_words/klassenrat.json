@@ -1,0 +1,84 @@
+{
+  "lemma": "Klassenrat",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-rat",
+  "begriffserklaerung": "Der Klassenrat ist eine Versammlung, bei der alle Kinder einer Klasse gemeinsam über wichtige Dinge in der Schule sprechen und entscheiden.",
+  "beispielsatz": "Im Klassenrat darf jedes Kind seine Meinung sagen.",
+  "rechtschreibstrategie": "„Klassenrat\" ist ein zusammengesetztes Wort aus „Klasse\" und „Rat\". Sprich beide Teile einzeln: KLAS-SEN-RAT. Das Doppel-S kommt vom Wortteil „Klasse\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "Rat"
+  ],
+  "bild_datei": "Klassenrat.webp",
+  "audio_datei": "Klassenrat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "class council"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conseil de classe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf meclisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجلس الفصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulversammlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassensprecher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenversammlung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klassenrat",
+    "plural": "die Klassenräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klassenrat",
+        "genitiv": "des Klassenrats",
+        "dativ": "dem Klassenrat",
+        "akkusativ": "den Klassenrat"
+      },
+      "plural": {
+        "nominativ": "die Klassenräte",
+        "genitiv": "der Klassenräte",
+        "dativ": "den Klassenräten",
+        "akkusativ": "die Klassenräte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klasenrat",
+    "Klassennrat",
+    "Klassenratt",
+    "Klasenratt",
+    "Klasserat"
+  ]
+}

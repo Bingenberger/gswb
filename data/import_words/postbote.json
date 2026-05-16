@@ -1,0 +1,87 @@
+{
+  "lemma": "Postbote",
+  "wortart": "Nomen",
+  "silben": "Post-bo-te",
+  "begriffserklaerung": "Ein Postbote ist jemand, der Briefe und Pakete zu den Menschen nach Hause bringt.",
+  "beispielsatz": "Der Postbote klingelt an der Tür und bringt uns ein Paket.",
+  "rechtschreibstrategie": "Das Wort „Postbote\" ist aus zwei Teilen zusammengesetzt: „Post\" und „Bote\". Sprich beide Teile nacheinander, dann schreibst du das Wort richtig.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Post",
+    "Bote"
+  ],
+  "bild_datei": "Postbote.webp",
+  "audio_datei": "Postbote.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Postbote",
+    "plural": "die Postboten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Postbote",
+        "genitiv": "des Postboten",
+        "dativ": "dem Postboten",
+        "akkusativ": "den Postboten"
+      },
+      "plural": {
+        "nominativ": "die Postboten",
+        "genitiv": "der Postboten",
+        "dativ": "den Postboten",
+        "akkusativ": "die Postboten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "postman / mail carrier"
+    },
+    {
+      "language_code": "fr",
+      "translation": "facteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "postacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعي البريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bote"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Briefträger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefkasten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Postbothe",
+    "Postbotte",
+    "Postboote",
+    "Postbohte",
+    "Postpote"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "Gebot",
+  "wortart": "Nomen",
+  "silben": "Ge-bot",
+  "begriffserklaerung": "Ein Gebot ist eine wichtige Regel oder ein Auftrag, den man befolgen soll.",
+  "beispielsatz": "„Du sollst nicht lügen\" ist eines der zehn Gebote.",
+  "rechtschreibstrategie": "Verlängere das Wort: Ge-bo-te – dann hörst du das „t\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebot",
+    "plural": "die Gebote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebot",
+        "genitiv": "des Gebotes / des Gebots",
+        "dativ": "dem Gebot / dem Gebote",
+        "akkusativ": "das Gebot"
+      },
+      "plural": {
+        "nominativ": "die Gebote",
+        "genitiv": "der Gebote",
+        "dativ": "den Geboten",
+        "akkusativ": "die Gebote"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "bieten",
+    "Gebot"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bieten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verbot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Angebot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorschrift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verbot"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gebott",
+    "Gepot",
+    "Gebod",
+    "Gepoht",
+    "Geboth"
+  ],
+  "bild_datei": "Gebot.webp",
+  "audio_datei": "Gebot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "commandment / rule"
+    },
+    {
+      "language_code": "fr",
+      "translation": "commandement / règle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "emir / kural"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وصية / أمر"
+    }
+  ]
+}

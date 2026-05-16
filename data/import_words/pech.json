@@ -1,0 +1,82 @@
+{
+  "lemma": "Pech",
+  "wortart": "Nomen",
+  "silben": "Pech",
+  "begriffserklaerung": "Pech bedeutet, dass etwas Schlechtes oder Unglückliches passiert. Man sagt „Pech gehabt!\", wenn etwas nicht klappt. Pech ist auch ein schwarzes, klebriges Material, das früher zum Abdichten benutzt wurde.",
+  "beispielsatz": "Oh nein, ich habe mein Pausenbrot vergessen – so ein Pech!",
+  "rechtschreibstrategie": "„Pech\" hat nur eine Silbe. Nach dem kurzen „e\" kommt „ch\" – das schreibst du einfach mit.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pech"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pech",
+    "plural": "die Peche",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pech",
+        "genitiv": "des Pechs",
+        "dativ": "dem Pech",
+        "akkusativ": "das Pech"
+      },
+      "plural": {
+        "nominativ": "die Peche",
+        "genitiv": "der Peche",
+        "dativ": "den Pechen",
+        "akkusativ": "die Peche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Päch",
+    "Peck",
+    "Pesh",
+    "Pach",
+    "Pehch"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bad luck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "malchance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şansızlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حظ سيئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pechschwarz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pechvogel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unglück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Missgeschick"
+    }
+  ],
+  "bild_datei": "Pech.webp",
+  "audio_datei": "Pech.mp3"
+}

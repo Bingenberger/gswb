@@ -1,0 +1,94 @@
+{
+  "lemma": "kaufen",
+  "wortart": "Verb",
+  "silben": "kau-fen",
+  "begriffserklaerung": "Kaufen bedeutet, dass du etwas mit Geld bezahlst und es dann dir gehört.",
+  "beispielsatz": "Ich kaufe mir im Supermarkt einen Apfel.",
+  "rechtschreibstrategie": "Denk an „kau-fen\": Das „au\" sprichst du lang, wie beim Kauen. Sprich das Wort laut in Silben: kau – fen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf"
+  ],
+  "bild_datei": "kaufen.webp",
+  "audio_datei": "kaufen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to buy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "acheter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satın almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يشتري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käufer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erwerben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bezahlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verkaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "kaufen",
+    "praesens": {
+      "ich": "kaufe",
+      "du": "kaufst",
+      "er_sie_es": "kauft",
+      "wir": "kaufen",
+      "ihr": "kauft",
+      "sie": "kaufen"
+    },
+    "perfekt": {
+      "ich": "habe gekauft",
+      "du": "hast gekauft",
+      "er_sie_es": "hat gekauft",
+      "wir": "haben gekauft",
+      "ihr": "habt gekauft",
+      "sie": "haben gekauft"
+    },
+    "praeteritum": {
+      "ich": "kaufte",
+      "du": "kauftest",
+      "er_sie_es": "kaufte",
+      "wir": "kauften",
+      "ihr": "kauftet",
+      "sie": "kauften"
+    }
+  },
+  "fehlschreibungen": [
+    "caufen",
+    "kauffen",
+    "kauven",
+    "koufen",
+    "käufen"
+  ]
+}

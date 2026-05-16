@@ -1,0 +1,83 @@
+{
+  "lemma": "Kindergarten",
+  "wortart": "Nomen",
+  "silben": "Kin-der-gar-ten",
+  "begriffserklaerung": "Der Kindergarten ist ein Ort, an dem Kinder vor der Schule spielen, basteln und lernen. Dort werden sie von Erzieherinnen und Erziehern betreut.",
+  "beispielsatz": "Jeden Morgen freue ich mich, wenn ich in den Kindergarten gehe und meine Freunde sehe.",
+  "rechtschreibstrategie": "Das Wort „Kindergarten\" setzt sich aus zwei Wörtern zusammen: „Kinder\" und „Garten\". Sprich es in Silben: Kin-der-gar-ten. Denk immer an das große K am Anfang, denn es ist ein Nomen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kind",
+    "Garten"
+  ],
+  "bild_datei": "Kindergarten.webp",
+  "audio_datei": "Kindergarten.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kindergarten",
+    "plural": "die Kindergärten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kindergarten",
+        "genitiv": "des Kindergartens",
+        "dativ": "dem Kindergarten",
+        "akkusativ": "den Kindergarten"
+      },
+      "plural": {
+        "nominativ": "die Kindergärten",
+        "genitiv": "der Kindergärten",
+        "dativ": "den Kindergärten",
+        "akkusativ": "die Kindergärten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kindergarten"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jardin d'enfants"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anaokulu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "روضة الأطفال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erzieherin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kita"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kindegarten",
+    "Kindargarten",
+    "Kindergarden",
+    "Kinnergarten",
+    "Kindergaten"
+  ]
+}

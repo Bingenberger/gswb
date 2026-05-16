@@ -1,0 +1,77 @@
+{
+  "lemma": "Tennis",
+  "wortart": "Nomen",
+  "silben": "Ten-nis",
+  "begriffserklaerung": "Tennis ist ein Ballspiel, bei dem zwei oder vier Personen einen Ball mit einem Schläger über ein Netz schlagen. Man spielt Tennis auf einem besonderen Platz, dem Tennisplatz.",
+  "beispielsatz": "Nach der Schule geht Mia mit ihrer Freundin zum Tennis spielen.",
+  "rechtschreibstrategie": "Tennis schreibt man mit zwei „n\" in der Mitte – sprich es laut: TEN-nis. Nach dem kurzen „e\" verdoppelt sich das „n\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Tennis"
+  ],
+  "bild_datei": "Tennis.webp",
+  "audio_datei": "Tennis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tennis"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tennis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tenis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tennisplatz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tennisschläger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badminton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Tennis",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tennis",
+        "genitiv": "des Tennis",
+        "dativ": "dem Tennis",
+        "akkusativ": "das Tennis"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tenis",
+    "Tenns",
+    "Tännis",
+    "Teniss"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kabel",
+  "wortart": "Nomen",
+  "silben": "Ka-bel",
+  "begriffserklaerung": "Ein Kabel ist eine lange, biegsame Leitung aus Metall, die von einem Schutzmantel umhüllt ist. Es leitet Strom oder Signale von einem Ort zum anderen.",
+  "beispielsatz": "Das Kabel verbindet den Fernseher mit der Steckdose.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ka-bel. Höre, dass das „a\" lang gesprochen wird – deshalb steht kein Doppelkonsonant dahinter.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kabel"
+  ],
+  "bild_datei": "Kabel.webp",
+  "audio_datei": "Kabel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kabel",
+    "plural": "die Kabel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kabel",
+        "genitiv": "des Kabels",
+        "dativ": "dem Kabel",
+        "akkusativ": "das Kabel"
+      },
+      "plural": {
+        "nominativ": "die Kabel",
+        "genitiv": "der Kabel",
+        "dativ": "den Kabeln",
+        "akkusativ": "die Kabel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "câble"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kablo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كابل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verkabeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kabelverbindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stecker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leitung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kahbel",
+    "Kabell",
+    "Kabbel",
+    "Cabel",
+    "Kabele"
+  ]
+}

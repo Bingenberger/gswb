@@ -1,0 +1,99 @@
+{
+  "lemma": "versuchen",
+  "wortart": "Verb",
+  "silben": "ver-su-chen",
+  "begriffserklaerung": "Wenn du etwas versuchst, probierst du es aus, auch wenn du nicht weißt, ob es klappt.",
+  "beispielsatz": "Ich versuche, das schwierige Rätsel zu lösen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ver – su – chen. Das „ver-\" am Anfang ist eine häufige Vorsilbe – merke sie dir gut!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "bild_datei": "versuchen.webp",
+  "audio_datei": "versuchen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "versuchen",
+    "praesens": {
+      "ich": "versuche",
+      "du": "versuchst",
+      "er_sie_es": "versucht",
+      "wir": "versuchen",
+      "ihr": "versucht",
+      "sie": "versuchen"
+    },
+    "perfekt": {
+      "ich": "habe versucht",
+      "du": "hast versucht",
+      "er_sie_es": "hat versucht",
+      "wir": "haben versucht",
+      "ihr": "habt versucht",
+      "sie": "haben versucht"
+    },
+    "praeteritum": {
+      "ich": "versuchte",
+      "du": "versuchtest",
+      "er_sie_es": "versuchte",
+      "wir": "versuchten",
+      "ihr": "versuchtet",
+      "sie": "versuchten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to try"
+    },
+    {
+      "language_code": "fr",
+      "translation": "essayer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُحاوِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Versuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "probieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausprobieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "üben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "anstrengen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "fersuchen",
+    "versuhen",
+    "versucen",
+    "verssuchen",
+    "versuchen",
+    "versuchten"
+  ]
+}

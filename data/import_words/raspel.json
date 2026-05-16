@@ -1,0 +1,81 @@
+{
+  "lemma": "Raspel",
+  "wortart": "Nomen",
+  "silben": "Ras-pel",
+  "begriffserklaerung": "Eine Raspel ist ein Werkzeug oder Küchengerät mit einer rauen, gezackten Oberfläche. Damit kann man Holz glätten oder Lebensmittel wie Käse und Karotten in kleine Stücke reiben.",
+  "beispielsatz": "Mama reibt den Käse mit der Raspel in kleine Stücke.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ras-pel. Du hörst zwei Silben. Nach dem kurzen „a\" folgt ein „s\" – schreib es einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "raspel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Raspel",
+    "plural": "die Raspeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Raspel",
+        "genitiv": "der Raspel",
+        "dativ": "der Raspel",
+        "akkusativ": "die Raspel"
+      },
+      "plural": {
+        "nominativ": "die Raspeln",
+        "genitiv": "der Raspeln",
+        "dativ": "den Raspeln",
+        "akkusativ": "die Raspeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raspel",
+    "Rasspel",
+    "Raspell",
+    "Rãspel"
+  ],
+  "bild_datei": "Raspel.webp",
+  "audio_datei": "Raspel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grater / rasp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "râpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rende"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مبشرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "raspeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raspelkäse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reibe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hobel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reibe"
+    }
+  ]
+}

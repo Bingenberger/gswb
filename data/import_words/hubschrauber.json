@@ -1,0 +1,84 @@
+{
+  "lemma": "Hubschrauber",
+  "wortart": "Nomen",
+  "silben": "Hub-schrau-ber",
+  "begriffserklaerung": "Ein Hubschrauber ist ein Flugzeug, das sich mit einem großen Rotor auf dem Dach in die Luft schraubt. Er kann senkrecht starten, landen und sogar auf der Stelle in der Luft stehen bleiben.",
+  "beispielsatz": "Der Hubschrauber fliegt über die Stadt und sucht nach vermissten Personen.",
+  "rechtschreibstrategie": "„Hubschrauber\" ist ein Bausteinwort aus „Hub\" (hochheben) und „Schrauber\" (dreht sich wie eine Schraube). Schreibe beide Teile einfach zusammen: Hub + Schrauber.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "hub",
+    "schraub"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hubschrauber",
+    "plural": "die Hubschrauber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hubschrauber",
+        "genitiv": "des Hubschraubers",
+        "dativ": "dem Hubschrauber",
+        "akkusativ": "den Hubschrauber"
+      },
+      "plural": {
+        "nominativ": "die Hubschrauber",
+        "genitiv": "der Hubschrauber",
+        "dativ": "den Hubschraubern",
+        "akkusativ": "die Hubschrauber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hupschrauber",
+    "Hubsrauber",
+    "Hubschauber",
+    "Hubschraupper",
+    "Hubscrauber",
+    "Hubschrawber"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "helicopter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hélicoptère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "helikopter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مروحية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schrauben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rotor"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Helikopter"
+    }
+  ],
+  "bild_datei": "Hubschrauber.webp",
+  "audio_datei": "Hubschrauber.mp3"
+}

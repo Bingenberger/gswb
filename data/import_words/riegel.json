@@ -1,0 +1,82 @@
+{
+  "lemma": "Riegel",
+  "wortart": "Nomen",
+  "silben": "Rie-gel",
+  "begriffserklaerung": "Ein Riegel ist ein langer, schmaler Stab aus Metall oder Holz, mit dem man eine Tür oder ein Fenster verschließen kann. Ein Riegel kann auch ein längliches Stück Schokolade oder ein Schokoriegel sein.",
+  "beispielsatz": "Papa schiebt den Riegel vor die Tür, damit niemand hereinkommt.",
+  "rechtschreibstrategie": "Das Wort „Riegel\" schreibt man mit ie, weil das i lang gesprochen wird. Denk daran: langes i klingt wie „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Riegel"
+  ],
+  "bild_datei": "Riegel.webp",
+  "audio_datei": "Riegel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Riegel",
+    "plural": "die Riegel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Riegel",
+        "genitiv": "des Riegels",
+        "dativ": "dem Riegel",
+        "akkusativ": "den Riegel"
+      },
+      "plural": {
+        "nominativ": "die Riegel",
+        "genitiv": "der Riegel",
+        "dativ": "den Riegeln",
+        "akkusativ": "die Riegel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bolt / bar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verrou / barre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürgü / bar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزلاج / قضيب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verriegeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Türriegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verschluss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rigel",
+    "Riegl",
+    "Riehgel",
+    "Rügel",
+    "Riegel"
+  ]
+}

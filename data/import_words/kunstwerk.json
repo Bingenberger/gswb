@@ -1,0 +1,87 @@
+{
+  "lemma": "Kunstwerk",
+  "wortart": "Nomen",
+  "silben": "Kunst-werk",
+  "begriffserklaerung": "Ein Kunstwerk ist etwas, das ein Mensch mit viel Geschick und Kreativität erschaffen hat, zum Beispiel ein Gemälde, eine Skulptur oder ein schönes Lied.",
+  "beispielsatz": "Das bunte Gemälde an der Wand ist ein echtes Kunstwerk!",
+  "rechtschreibstrategie": "„Kunstwerk\" besteht aus zwei Wörtern: „Kunst\" und „Werk\". Sprich beide Teile beim Schreiben einzeln durch – das hilft dir, kein Buchstaben zu vergessen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kunst",
+    "Werk"
+  ],
+  "bild_datei": "Kunstwerk.webp",
+  "audio_datei": "Kunstwerk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kunstwerk",
+    "plural": "die Kunstwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kunstwerk",
+        "genitiv": "des Kunstwerkes",
+        "dativ": "dem Kunstwerk",
+        "akkusativ": "das Kunstwerk"
+      },
+      "plural": {
+        "nominativ": "die Kunstwerke",
+        "genitiv": "der Kunstwerke",
+        "dativ": "den Kunstwerken",
+        "akkusativ": "die Kunstwerke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "work of art"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œuvre d'art"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sanat eseri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل فني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kunst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meisterwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemälde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Skulptur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kunstwerg",
+    "Kunstwek",
+    "Kuntwerk",
+    "Kuntswerk",
+    "Kunstwerk"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Wildkatze",
+  "wortart": "Nomen",
+  "silben": "Wild-kat-ze",
+  "begriffserklaerung": "Eine Wildkatze ist eine wilde Katze, die in Wäldern lebt und nicht zahm ist. Sie sieht der Hauskatze ähnlich, ist aber größer und scheuer.",
+  "beispielsatz": "Im Wald haben wir eine Wildkatze beobachtet, die sich hinter den Büschen versteckte.",
+  "rechtschreibstrategie": "Das Wort „Wildkatze\" besteht aus zwei Teilen: „Wild\" und „Katze\". Das „tz\" in „Katze\" zeigt, dass das „a\" kurz gesprochen wird. Sprich die Teile einzeln: WILD – KAT – ZE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wild",
+    "Katze"
+  ],
+  "bild_datei": "Wildkatze.webp",
+  "audio_datei": "Wildkatze.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wildkatze",
+    "plural": "die Wildkatzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wildkatze",
+        "genitiv": "der Wildkatze",
+        "dativ": "der Wildkatze",
+        "akkusativ": "die Wildkatze"
+      },
+      "plural": {
+        "nominativ": "die Wildkatzen",
+        "genitiv": "der Wildkatzen",
+        "dativ": "den Wildkatzen",
+        "akkusativ": "die Wildkatzen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wildcat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chat sauvage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban kedisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطة برية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luchs"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wildkatse",
+    "Wilkatze",
+    "Wildkaze",
+    "Wiltkatze",
+    "Wildkatsе"
+  ]
+}

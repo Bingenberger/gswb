@@ -1,0 +1,71 @@
+{
+  "lemma": "Patrone",
+  "wortart": "Nomen",
+  "silben": "Pat-ro-ne",
+  "begriffserklaerung": "Eine Patrone ist eine kleine Hülse, die Tinte für einen Füller enthält. Das Wort kann auch eine Hülse mit Pulver für eine Waffe meinen.",
+  "beispielsatz": "Mein Füller schreibt nicht mehr, weil die Patrone leer ist.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Pat-ro-ne. Nach dem kurzen „a\" folgt ein „t\" – kein Doppelkonsonant, einfach merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Patrone.webp",
+  "audio_datei": "Patrone.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cartridge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cartouche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kartuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خرطوشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Füller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tinte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Druckerpatrone"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Patrone",
+    "plural": "die Patronen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Patrone",
+        "genitiv": "der Patrone",
+        "dativ": "der Patrone",
+        "akkusativ": "die Patrone"
+      },
+      "plural": {
+        "nominativ": "die Patronen",
+        "genitiv": "der Patronen",
+        "dativ": "den Patronen",
+        "akkusativ": "die Patronen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pattronne",
+    "Patrohne",
+    "Battrone",
+    "Patrune"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Zaun",
+  "wortart": "Nomen",
+  "silben": "Zaun",
+  "begriffserklaerung": "Ein Zaun ist eine Absperrung aus Holz, Metall oder Draht, die ein Grundstück oder einen Garten umgibt.",
+  "beispielsatz": "Hinter dem Zaun bellt der Hund unserer Nachbarin.",
+  "rechtschreibstrategie": "Verlängere das Wort: Zaun → Zäu-ne. So hörst du, warum am Ende ein „n\" steht.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zaun",
+    "plural": "die Zäune",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zaun",
+        "genitiv": "des Zaunes",
+        "dativ": "dem Zaun",
+        "akkusativ": "den Zaun"
+      },
+      "plural": {
+        "nominativ": "die Zäune",
+        "genitiv": "der Zäune",
+        "dativ": "den Zäunen",
+        "akkusativ": "die Zäune"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Zaun"
+  ],
+  "fehlschreibungen": [
+    "Zaung",
+    "Zoun",
+    "Zaun",
+    "Tsaun",
+    "Zaund",
+    "Zauhn"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einzäunen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zaunpfahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Umzäunung"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fence"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clôture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سياج"
+    }
+  ],
+  "bild_datei": "Zaun.webp",
+  "audio_datei": "Zaun.mp3"
+}

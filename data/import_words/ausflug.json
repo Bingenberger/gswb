@@ -1,0 +1,92 @@
+{
+  "lemma": "Ausflug",
+  "wortart": "Nomen",
+  "silben": "Aus-flug",
+  "begriffserklaerung": "Ein Ausflug ist eine kurze Reise oder ein Besuch an einem besonderen Ort, zum Beispiel in den Zoo, in den Wald oder in ein Museum.",
+  "beispielsatz": "Die ganze Klasse freut sich auf den Ausflug ins Schwimmbad.",
+  "rechtschreibstrategie": "Das Wort „Ausflug\" ist aus zwei Teilen gebaut: „aus\" und „Flug\". Denk an das Fliegen – der Vogel fliegt aus! Schreib das g am Ende, auch wenn es sich wie k anhört. Du kannst verlängern: Aus-flü-ge – dann hörst du das g deutlich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fliegen",
+    "Flug"
+  ],
+  "bild_datei": "Ausflug.webp",
+  "audio_datei": "Ausflug.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ausflug",
+    "plural": "die Ausflüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ausflug",
+        "genitiv": "des Ausflugs",
+        "dativ": "dem Ausflug",
+        "akkusativ": "den Ausflug"
+      },
+      "plural": {
+        "nominativ": "die Ausflüge",
+        "genitiv": "der Ausflüge",
+        "dativ": "den Ausflügen",
+        "akkusativ": "die Ausflüge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trip, excursion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "excursion, sortie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gezi, gezinti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausfahrt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenfahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausflugg",
+    "Ausfluк",
+    "Ausfluck",
+    "Ausfug",
+    "Ausflugt"
+  ]
+}

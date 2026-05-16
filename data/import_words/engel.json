@@ -1,0 +1,82 @@
+{
+  "lemma": "Engel",
+  "wortart": "Nomen",
+  "silben": "En-gel",
+  "begriffserklaerung": "Ein Engel ist ein himmlisches Wesen, das in vielen Religionen als Bote Gottes gilt. Engel werden oft mit Flügeln und einem Leuchten dargestellt.",
+  "beispielsatz": "Auf der Spitze des Weihnachtsbaums steht ein goldener Engel.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: En-gel. Nach dem kurzen „E\" folgt „ng\" – das klingt weich und wird genau so geschrieben, wie man es hört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Engel"
+  ],
+  "bild_datei": "Engel.webp",
+  "audio_datei": "Engel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "angel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "melek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملاك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Engelchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "engelhaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heiliger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Himmelsbote"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Engel",
+    "plural": "Engel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Engel",
+        "genitiv": "des Engels",
+        "dativ": "dem Engel",
+        "akkusativ": "den Engel"
+      },
+      "plural": {
+        "nominativ": "die Engel",
+        "genitiv": "der Engel",
+        "dativ": "den Engeln",
+        "akkusativ": "die Engel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Engell",
+    "Ängel",
+    "Engel",
+    "Engäl",
+    "Ängl"
+  ]
+}

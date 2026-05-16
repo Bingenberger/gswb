@@ -1,0 +1,81 @@
+{
+  "lemma": "Laus",
+  "wortart": "Nomen",
+  "silben": "Laus",
+  "begriffserklaerung": "Eine Laus ist ein sehr kleines Insekt, das im Haar oder auf Tieren lebt und Blut saugt.",
+  "beispielsatz": "Die Lehrerin hat festgestellt, dass einige Kinder in der Klasse eine Laus im Haar haben.",
+  "rechtschreibstrategie": "Wenn du „Laus\" in die Mehrzahl setzt, heißt es „Läuse\" – das zeigt das „au\" im Grundwort.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Laus"
+  ],
+  "bild_datei": "Laus.webp",
+  "audio_datei": "Laus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "louse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قملة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lausig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verlausen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Floh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milbe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Laus",
+    "plural": "die Läuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Laus",
+        "genitiv": "der Laus",
+        "dativ": "der Laus",
+        "akkusativ": "die Laus"
+      },
+      "plural": {
+        "nominativ": "die Läuse",
+        "genitiv": "der Läuse",
+        "dativ": "den Läusen",
+        "akkusativ": "die Läuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lauß",
+    "Lauhs",
+    "Lauss",
+    "Lous"
+  ]
+}

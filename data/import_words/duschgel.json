@@ -1,0 +1,83 @@
+{
+  "lemma": "Duschgel",
+  "wortart": "Nomen",
+  "silben": "Dusch-gel",
+  "begriffserklaerung": "Ein Duschgel ist eine flüssige Seife, die du beim Duschen benutzt, um deinen Körper zu waschen und sauber zu machen.",
+  "beispielsatz": "Lena drückt etwas Duschgel auf den Waschlappen und seift sich damit ein.",
+  "rechtschreibstrategie": "Duschgel ist ein zusammengesetztes Wort aus „Dusch-\" (von duschen) und „Gel\". Schreib einfach beide Teile hintereinander – ohne Lücke und ohne Bindestrich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Dusch",
+    "Gel"
+  ],
+  "bild_datei": "Duschgel.webp",
+  "audio_datei": "Duschgel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Duschgel",
+    "plural": "die Duschgels",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Duschgel",
+        "genitiv": "des Duschgels",
+        "dativ": "dem Duschgel",
+        "akkusativ": "das Duschgel"
+      },
+      "plural": {
+        "nominativ": "die Duschgels",
+        "genitiv": "der Duschgels",
+        "dativ": "den Duschgels",
+        "akkusativ": "die Duschgels"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shower gel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gel douche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duş jeli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جل الاستحمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "duschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Shampoo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badewanne"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dushgel",
+    "Duschgell",
+    "Duschegel",
+    "Duschkell",
+    "Tuschgel"
+  ]
+}

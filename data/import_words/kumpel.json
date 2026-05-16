@@ -1,0 +1,80 @@
+{
+  "lemma": "Kumpel",
+  "wortart": "Nomen",
+  "silben": "Kum-pel",
+  "begriffserklaerung": "Ein Kumpel ist ein guter Freund, mit dem man gerne Zeit verbringt und dem man vertrauen kann.",
+  "beispielsatz": "Mein bester Kumpel und ich spielen jeden Tag nach der Schule Fußball.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kum-pel. Nach dem kurzen „u\" kommt ein „m\" und dann „p\" – schreib beide mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Kumpel.webp",
+  "audio_datei": "Kumpel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kumpel",
+    "plural": "die Kumpel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kumpel",
+        "genitiv": "des Kumpels",
+        "dativ": "dem Kumpel",
+        "akkusativ": "den Kumpel"
+      },
+      "plural": {
+        "nominativ": "die Kumpel",
+        "genitiv": "der Kumpel",
+        "dativ": "den Kumpeln",
+        "akkusativ": "die Kumpel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "buddy / pal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "copain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahbap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رفيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Freund"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kamerad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Clique"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielgefährte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cumpel",
+    "Kumpell",
+    "Kummpel",
+    "Gumpel",
+    "Kumpel"
+  ]
+}

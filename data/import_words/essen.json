@@ -1,0 +1,102 @@
+{
+  "lemma": "essen",
+  "wortart": "Verb",
+  "silben": "es-sen",
+  "begriffserklaerung": "Essen bedeutet, dass du Speisen in den Mund nimmst, kaust und schluckst, damit dein Körper Energie bekommt.",
+  "beispielsatz": "Zum Mittagessen essen wir heute leckere Nudeln mit Tomatensoße.",
+  "rechtschreibstrategie": "Das Wort „essen\" hat ein kurzes „e\" am Anfang – deshalb kommt danach ein Doppel-s. Sprich es laut: „es-sen\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "ess"
+  ],
+  "bild_datei": "essen.webp",
+  "audio_datei": "essen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to eat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يأكل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Esser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "essbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "speisen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "futtern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schmecken"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "essen",
+    "praesens": {
+      "ich": "esse",
+      "du": "isst",
+      "er_sie_es": "isst",
+      "wir": "essen",
+      "ihr": "esst",
+      "sie": "essen"
+    },
+    "perfekt": {
+      "ich": "habe gegessen",
+      "du": "hast gegessen",
+      "er_sie_es": "hat gegessen",
+      "wir": "haben gegessen",
+      "ihr": "habt gegessen",
+      "sie": "haben gegessen"
+    },
+    "praeteritum": {
+      "ich": "aß",
+      "du": "aßest",
+      "er_sie_es": "aß",
+      "wir": "aßen",
+      "ihr": "aßt",
+      "sie": "aßen"
+    }
+  },
+  "fehlschreibungen": [
+    "esen",
+    "esssen",
+    "ässen",
+    "essen",
+    "eßen"
+  ]
+}

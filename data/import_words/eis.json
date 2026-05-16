@@ -1,0 +1,82 @@
+{
+  "lemma": "Eis",
+  "wortart": "Nomen",
+  "silben": "Eis",
+  "begriffserklaerung": "Eis ist gefrorenes Wasser. Es entsteht, wenn Wasser sehr kalt wird. „Eis\" kann auch ein süßes Speiseeis sein, das man leckt oder isst.",
+  "beispielsatz": "Im Winter liegt Eis auf dem See, und wir laufen darauf Schlittschuh.",
+  "rechtschreibstrategie": "„Eis\" hat nur eine Silbe. Schreibe es genau so, wie du es sprichst: E – i – s.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Eis"
+  ],
+  "bild_datei": "Eis.webp",
+  "audio_datei": "Eis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ice / ice cream"
+    },
+    {
+      "language_code": "fr",
+      "translation": "glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buz / dondurma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جليد / آيس كريم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eisig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eiswürfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eis",
+    "plural": "die Eise",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eis",
+        "genitiv": "des Eises",
+        "dativ": "dem Eis",
+        "akkusativ": "das Eis"
+      },
+      "plural": {
+        "nominativ": "die Eise",
+        "genitiv": "der Eise",
+        "dativ": "den Eisen",
+        "akkusativ": "die Eise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ais",
+    "Eiss",
+    "Eis's",
+    "Eyse",
+    "Eise"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Warenhaus",
+  "wortart": "Nomen",
+  "silben": "Wa-ren-haus",
+  "begriffserklaerung": "Ein Warenhaus ist ein sehr großes Geschäft, in dem man viele verschiedene Dinge kaufen kann – zum Beispiel Kleidung, Spielzeug, Lebensmittel und Haushaltsgeräte.",
+  "beispielsatz": "Meine Mutter kauft im Warenhaus neue Winterjacken für uns.",
+  "rechtschreibstrategie": "Das Wort „Warenhaus\" ist aus zwei Wörtern zusammengebaut: „Waren\" und „Haus\". Sprich beide Teile laut: Wa-ren-haus. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Ware",
+    "Haus"
+  ],
+  "bild_datei": "Warenhaus.webp",
+  "audio_datei": "Warenhaus.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Warenhaus",
+    "plural": "die Warenhäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Warenhaus",
+        "genitiv": "des Warenhauses",
+        "dativ": "dem Warenhaus",
+        "akkusativ": "das Warenhaus"
+      },
+      "plural": {
+        "nominativ": "die Warenhäuser",
+        "genitiv": "der Warenhäuser",
+        "dativ": "den Warenhäusern",
+        "akkusativ": "die Warenhäuser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "department store"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grand magasin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyük mağaza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متجر كبير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ware"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kaufhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufszentrum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Warenhauss",
+    "Wahrenhaus",
+    "Warrenhaus",
+    "Warenhauß",
+    "Warenaus"
+  ]
+}

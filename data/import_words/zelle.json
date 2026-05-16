@@ -1,0 +1,82 @@
+{
+  "lemma": "Zelle",
+  "wortart": "Nomen",
+  "silben": "Zel-le",
+  "begriffserklaerung": "Eine Zelle ist der kleinste Baustein aller Lebewesen. Auch ein kleiner, enger Raum – zum Beispiel im Gefängnis – wird Zelle genannt.",
+  "beispielsatz": "Unser Lehrer zeigte uns im Mikroskop, wie winzig eine Zelle ist.",
+  "rechtschreibstrategie": "Das Wort „Zelle\" hat zwei l – sprich es deutlich: Zel-le. Nach dem kurzen „e\" kommt ein Doppel-l!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Zell"
+  ],
+  "bild_datei": "Zelle.webp",
+  "audio_datei": "Zelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zelle",
+    "plural": "die Zellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zelle",
+        "genitiv": "der Zelle",
+        "dativ": "der Zelle",
+        "akkusativ": "die Zelle"
+      },
+      "plural": {
+        "nominativ": "die Zellen",
+        "genitiv": "der Zellen",
+        "dativ": "den Zellen",
+        "akkusativ": "die Zellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cell"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cellule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hücre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zellkern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zellwand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikroskop"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lebewesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Organismus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zele",
+    "Tselle",
+    "Celle",
+    "Zälle",
+    "Zell"
+  ]
+}

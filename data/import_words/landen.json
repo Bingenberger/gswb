@@ -1,0 +1,90 @@
+{
+  "lemma": "landen",
+  "wortart": "Verb",
+  "silben": "lan-den",
+  "begriffserklaerung": "Landen bedeutet, dass ein Flugzeug, ein Vogel oder eine Person sicher auf dem Boden ankommt und aufhört zu fliegen.",
+  "beispielsatz": "Das Flugzeug landet sanft auf der langen Startbahn.",
+  "rechtschreibstrategie": "Sprich das Wort laut: lan-den. Du hörst zwei Silben. Am Ende steht -den – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "land"
+  ],
+  "bild_datei": "landen.webp",
+  "audio_datei": "landen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to land"
+    },
+    {
+      "language_code": "fr",
+      "translation": "atterrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يهبط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Landung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "starten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufsetzen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "landen",
+    "praesens": {
+      "ich": "lande",
+      "du": "landest",
+      "er_sie_es": "landet",
+      "wir": "landen",
+      "ihr": "landet",
+      "sie": "landen"
+    },
+    "perfekt": {
+      "ich": "bin gelandet",
+      "du": "bist gelandet",
+      "er_sie_es": "ist gelandet",
+      "wir": "sind gelandet",
+      "ihr": "seid gelandet",
+      "sie": "sind gelandet"
+    },
+    "praeteritum": {
+      "ich": "landete",
+      "du": "landetest",
+      "er_sie_es": "landete",
+      "wir": "landeten",
+      "ihr": "landetet",
+      "sie": "landeten"
+    }
+  },
+  "fehlschreibungen": [
+    "lannden",
+    "lantten",
+    "landen",
+    "landten",
+    "laanden"
+  ]
+}

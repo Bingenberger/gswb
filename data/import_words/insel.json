@@ -1,0 +1,78 @@
+{
+  "lemma": "Insel",
+  "wortart": "Nomen",
+  "silben": "In-sel",
+  "begriffserklaerung": "Eine Insel ist ein Stück Land, das rundherum von Wasser umgeben ist.",
+  "beispielsatz": "Wir fahren mit dem Schiff zur Insel und bauen dort eine Sandburg.",
+  "rechtschreibstrategie": "Sprich das Wort laut: In-sel. Beide Silben gut mitsprechen – das „s\" in der Mitte klingt weich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Insel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Insel",
+    "plural": "die Inseln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Insel",
+        "genitiv": "der Insel",
+        "dativ": "der Insel",
+        "akkusativ": "die Insel"
+      },
+      "plural": {
+        "nominativ": "die Inseln",
+        "genitiv": "der Inseln",
+        "dativ": "den Inseln",
+        "akkusativ": "die Inseln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Inßel",
+    "Inzel",
+    "Inssel",
+    "Ynsel",
+    "Insel"
+  ],
+  "bild_datei": "Insel.webp",
+  "audio_datei": "Insel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "island"
+    },
+    {
+      "language_code": "fr",
+      "translation": "île"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ada"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halbinsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    }
+  ]
+}

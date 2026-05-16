@@ -1,0 +1,82 @@
+{
+  "lemma": "Jogger",
+  "wortart": "Nomen",
+  "silben": "Jog-ger",
+  "begriffserklaerung": "Ein Jogger ist eine Person, die zum Spaß oder für die Gesundheit läuft – meistens draußen in der Natur oder im Park.",
+  "beispielsatz": "Der Jogger läuft jeden Morgen durch den Park.",
+  "rechtschreibstrategie": "Das Wort „Jogger\" hat zwei „g\" in der Mitte, weil das „o\" kurz gesprochen wird. Sprich es laut: Jog-ger – du hörst den kurzen Vokal!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "jogg"
+  ],
+  "bild_datei": "Jogger.webp",
+  "audio_datei": "Jogger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jogger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "joggeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عداء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "joggen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jogging"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Läufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Läufer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Jogger",
+    "plural": "die Jogger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Jogger",
+        "genitiv": "des Joggers",
+        "dativ": "dem Jogger",
+        "akkusativ": "den Jogger"
+      },
+      "plural": {
+        "nominativ": "die Jogger",
+        "genitiv": "der Jogger",
+        "dativ": "den Joggern",
+        "akkusativ": "die Jogger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Joger",
+    "Yogger",
+    "Jokger",
+    "Jogger",
+    "Joggär"
+  ]
+}

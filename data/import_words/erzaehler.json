@@ -1,0 +1,88 @@
+{
+  "lemma": "Erzähler",
+  "wortart": "Nomen",
+  "silben": "Er-zäh-ler",
+  "begriffserklaerung": "Ein Erzähler ist jemand, der eine Geschichte erzählt – zum Beispiel laut vorliest oder sie selbst erfindet und weitergibt.",
+  "beispielsatz": "Der Erzähler sprach mit ruhiger Stimme, und alle Kinder hörten gespannt zu.",
+  "rechtschreibstrategie": "Das Wort kommt von „erzählen\". Das Dehnungs-h hilft dir: nach dem ä steht ein h, das du nicht hörst, aber schreiben musst – Er-zäh-ler.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "zähl",
+    "erzähl"
+  ],
+  "bild_datei": "Erzähler.webp",
+  "audio_datei": "Erzähler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "storyteller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hikâye anlatıcısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راوٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erzählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erzählung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschichtenerzähler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Autor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Erzähler",
+    "plural": "die Erzähler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Erzähler",
+        "genitiv": "des Erzählers",
+        "dativ": "dem Erzähler",
+        "akkusativ": "den Erzähler"
+      },
+      "plural": {
+        "nominativ": "die Erzähler",
+        "genitiv": "der Erzähler",
+        "dativ": "den Erzählern",
+        "akkusativ": "die Erzähler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Erzeler",
+    "Erzäler",
+    "Erzähller",
+    "Erzehler",
+    "Erzäller"
+  ]
+}

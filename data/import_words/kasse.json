@@ -1,0 +1,81 @@
+{
+  "lemma": "Kasse",
+  "wortart": "Nomen",
+  "silben": "Kas-se",
+  "begriffserklaerung": "Eine Kasse ist ein Gerät oder ein Ort, an dem man Geld bezahlt – zum Beispiel im Supermarkt oder in einem Geschäft.",
+  "beispielsatz": "Mama stellt sich an der Kasse an, um das Essen zu bezahlen.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" verdoppelt sich das „s\" zu „ss\". Sprich das Wort in Silben: Kas-se.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kasse"
+  ],
+  "bild_datei": "Kasse.webp",
+  "audio_datei": "Kasse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cash register / checkout"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق الدفع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kassieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kassierer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zahlstelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kasse",
+    "plural": "die Kassen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kasse",
+        "genitiv": "der Kasse",
+        "dativ": "der Kasse",
+        "akkusativ": "die Kasse"
+      },
+      "plural": {
+        "nominativ": "die Kassen",
+        "genitiv": "der Kassen",
+        "dativ": "den Kassen",
+        "akkusativ": "die Kassen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kase",
+    "Kasse",
+    "Caße",
+    "Kaße"
+  ]
+}

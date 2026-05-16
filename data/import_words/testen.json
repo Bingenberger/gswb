@@ -1,0 +1,97 @@
+{
+  "lemma": "testen",
+  "wortart": "Verb",
+  "silben": "tes-ten",
+  "begriffserklaerung": "Etwas testen bedeutet, es auszuprobieren oder zu prüfen, ob es funktioniert oder stimmt.",
+  "beispielsatz": "Die Lehrerin lässt uns heute das neue Computerprogramm testen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: tes-ten. Nach dem kurzen „e\" hörst du das „s\" und das „t\" – beide Buchstaben gehören zu unterschiedlichen Silben, also kein Doppelkonsonant. Merke: „testen\" schreibt man mit „st\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "test"
+  ],
+  "bild_datei": "testen.webp",
+  "audio_datei": "testen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "testen",
+    "praesens": {
+      "ich": "teste",
+      "du": "testest",
+      "er_sie_es": "testet",
+      "wir": "testen",
+      "ihr": "testet",
+      "sie": "testen"
+    },
+    "perfekt": {
+      "ich": "habe getestet",
+      "du": "hast getestet",
+      "er_sie_es": "hat getestet",
+      "wir": "haben getestet",
+      "ihr": "habt getestet",
+      "sie": "haben getestet"
+    },
+    "praeteritum": {
+      "ich": "testete",
+      "du": "tetetest",
+      "er_sie_es": "testete",
+      "wir": "testeten",
+      "ihr": "testetet",
+      "sie": "testeten"
+    }
+  },
+  "fehlschreibungen": [
+    "testen",
+    "tessten",
+    "dästen",
+    "testten"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to test"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tester"
+    },
+    {
+      "language_code": "tr",
+      "translation": "test etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يختبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Test"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tester"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausprobieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "prüfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "untersuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kontrollieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "überprüfen"
+    }
+  ]
+}

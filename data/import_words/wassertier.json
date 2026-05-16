@@ -1,0 +1,84 @@
+{
+  "lemma": "Wassertier",
+  "wortart": "Nomen",
+  "silben": "Was-ser-tier",
+  "begriffserklaerung": "Ein Wassertier ist ein Tier, das im Wasser lebt, zum Beispiel ein Fisch, ein Frosch oder ein Delfin.",
+  "beispielsatz": "Der Fisch ist ein Wassertier, das im Fluss schwimmt.",
+  "rechtschreibstrategie": "„Wassertier\" ist aus zwei Wörtern zusammengesetzt: „Wasser\" und „Tier\". Schreibe beide Teile einfach zusammen – und denke daran: nach dem kurzen „a\" kommen zwei „s\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Tier"
+  ],
+  "bild_datei": "Wassertier.webp",
+  "audio_datei": "Wassertier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "aquatic animal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animal aquatique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su hayvanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان مائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wassertier",
+    "plural": "die Wassertiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wassertier",
+        "genitiv": "des Wassertiers",
+        "dativ": "dem Wassertier",
+        "akkusativ": "das Wassertier"
+      },
+      "plural": {
+        "nominativ": "die Wassertiere",
+        "genitiv": "der Wassertiere",
+        "dativ": "den Wassertieren",
+        "akkusativ": "die Wassertiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wasertier",
+    "Wassertier",
+    "Wasser Tier",
+    "Wassertir",
+    "Wassertiere (als Singular)"
+  ]
+}

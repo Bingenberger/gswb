@@ -1,0 +1,86 @@
+{
+  "lemma": "Schrank",
+  "wortart": "Nomen",
+  "silben": "Schrank",
+  "begriffserklaerung": "Ein Schrank ist ein großes Möbelstück mit Türen, in dem man Kleidung, Bücher oder andere Dinge aufbewahrt.",
+  "beispielsatz": "Ich hänge meine Jacke in den Schrank.",
+  "rechtschreibstrategie": "Wenn du „Schrank\" verlängerst, sagst du „Schränke\" – da hörst du das „k\" am Ende deutlich. Außerdem klingt das „a\" kurz, deshalb folgt gleich das „nk\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schrank"
+  ],
+  "bild_datei": "Schrank.webp",
+  "audio_datei": "Schrank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wardrobe / cupboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "armoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schränkchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einschränken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kommode"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleiderhaken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kasten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schrank",
+    "plural": "die Schränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schrank",
+        "genitiv": "des Schrankes",
+        "dativ": "dem Schrank",
+        "akkusativ": "den Schrank"
+      },
+      "plural": {
+        "nominativ": "die Schränke",
+        "genitiv": "der Schränke",
+        "dativ": "den Schränken",
+        "akkusativ": "die Schränke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schranck",
+    "Schranke",
+    "Schrankk",
+    "Schrangk",
+    "Schrank"
+  ]
+}

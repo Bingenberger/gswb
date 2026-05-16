@@ -1,0 +1,86 @@
+{
+  "lemma": "Blume",
+  "wortart": "Nomen",
+  "silben": "Blu-me",
+  "begriffserklaerung": "Eine Blume ist eine Pflanze mit bunten Blütenblättern. Blumen wachsen im Garten, auf Wiesen oder in Töpfen und riechen oft sehr schön.",
+  "beispielsatz": "Meine Schwester hat mir eine rote Blume geschenkt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Blu-me\". Es gibt kein langes oder kurzes Zeichen – schreib einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Blum"
+  ],
+  "bild_datei": "Blume.webp",
+  "audio_datei": "Blume.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زهرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blühen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blüte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blumenvase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blüte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blume",
+    "plural": "die Blumen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blume",
+        "genitiv": "der Blume",
+        "dativ": "der Blume",
+        "akkusativ": "die Blume"
+      },
+      "plural": {
+        "nominativ": "die Blumen",
+        "genitiv": "der Blumen",
+        "dativ": "den Blumen",
+        "akkusativ": "die Blumen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bluhme",
+    "Blumme",
+    "Blome",
+    "Bluhmen",
+    "Blumen"
+  ]
+}

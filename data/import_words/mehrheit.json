@@ -1,0 +1,88 @@
+{
+  "lemma": "Mehrheit",
+  "wortart": "Nomen",
+  "silben": "Mehr-heit",
+  "begriffserklaerung": "Die Mehrheit bedeutet, dass mehr als die Hälfte einer Gruppe für etwas ist oder eine Sache mehr vorhanden ist als eine andere.",
+  "beispielsatz": "Die Mehrheit der Kinder in der Klasse möchte als Ausflugsziel den Zoo besuchen.",
+  "rechtschreibstrategie": "Das Wort „Mehrheit\" besteht aus zwei Bausteinen: „mehr\" und „-heit\". Das „h\" in „mehr\" hörst du deutlich mit – sprich beide Teile laut: MEHR + HEIT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "mehr",
+    "Heit"
+  ],
+  "bild_datei": "Mehrheit.webp",
+  "audio_datei": "Mehrheit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mehrheit",
+    "plural": "die Mehrheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mehrheit",
+        "genitiv": "der Mehrheit",
+        "dativ": "der Mehrheit",
+        "akkusativ": "die Mehrheit"
+      },
+      "plural": {
+        "nominativ": "die Mehrheiten",
+        "genitiv": "der Mehrheiten",
+        "dativ": "den Mehrheiten",
+        "akkusativ": "die Mehrheiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "majority"
+    },
+    {
+      "language_code": "fr",
+      "translation": "majorité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çoğunluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أغلبية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Minderheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Großteil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minderheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mährheit",
+    "Mehrheit",
+    "Meerheit",
+    "Mehheit",
+    "Merhheit",
+    "Mähr­heit"
+  ]
+}

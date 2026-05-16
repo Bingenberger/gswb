@@ -1,0 +1,83 @@
+{
+  "lemma": "Ringel",
+  "wortart": "Nomen",
+  "silben": "Rin-gel",
+  "begriffserklaerung": "Ein Ringel ist ein kleiner, runder Ring oder eine kleine Locke, die sich im Kreis dreht.",
+  "beispielsatz": "Das kleine Mädchen hat süße Ringel im Haar.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Rin-gel. Nach dem kurzen „i\" kommt ein Doppel-n – das zeigt, dass der Vokal kurz ist!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ring"
+  ],
+  "bild_datei": "Ringel.webp",
+  "audio_datei": "Ringel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ringel",
+    "plural": "die Ringel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ringel",
+        "genitiv": "des Ringels",
+        "dativ": "dem Ringel",
+        "akkusativ": "den Ringel"
+      },
+      "plural": {
+        "nominativ": "die Ringel",
+        "genitiv": "der Ringel",
+        "dativ": "den Ringeln",
+        "akkusativ": "die Ringel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ringlet / small ring"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boucle / petit anneau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "halka / küçük bukle"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلقة صغيرة / خصلة شعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ring"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ringeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Locke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spirale"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Löckchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ringell",
+    "Rингel",
+    "Rингell",
+    "Rinjel",
+    "Ringäl",
+    "Ringal"
+  ]
+}

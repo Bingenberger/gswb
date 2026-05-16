@@ -1,0 +1,82 @@
+{
+  "lemma": "Wagen",
+  "wortart": "Nomen",
+  "silben": "Wa-gen",
+  "begriffserklaerung": "Ein Wagen ist ein Fahrzeug mit Rädern, das Menschen oder Dinge von einem Ort zum anderen bringt. Das kann ein Auto, ein Zug oder auch ein Handwagen sein.",
+  "beispielsatz": "Der rote Wagen fährt schnell die Straße entlang.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Wa-gen\". Das „g\" hörst du deutlich – schreibe es auch so. Denk daran: nach dem langen „a\" kommt nur ein „g\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wagen"
+  ],
+  "bild_datei": "Wagen.webp",
+  "audio_datei": "Wagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "car / wagon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture / wagon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araba / vagon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lastwagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auto"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wagen",
+    "plural": "die Wagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wagen",
+        "genitiv": "des Wagens",
+        "dativ": "dem Wagen",
+        "akkusativ": "den Wagen"
+      },
+      "plural": {
+        "nominativ": "die Wagen",
+        "genitiv": "der Wagen",
+        "dativ": "den Wagen",
+        "akkusativ": "die Wagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vahgen",
+    "Waagen",
+    "Waggen",
+    "Wahgen",
+    "Wagen"
+  ]
+}

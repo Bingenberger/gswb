@@ -1,0 +1,84 @@
+{
+  "lemma": "Vorhang",
+  "wortart": "Nomen",
+  "silben": "Vor-hang",
+  "begriffserklaerung": "Ein Vorhang ist ein langes Stück Stoff, das man vor ein Fenster oder eine Tür hängt. Er spendet Schatten und schützt die Privatsphäre.",
+  "beispielsatz": "Mama zieht den Vorhang zu, damit die Sonne uns beim Schlafen nicht stört.",
+  "rechtschreibstrategie": "„Vorhang\" ist ein Bausteinwort aus „vor\" und „hangen\". Sprich beide Teile deutlich: VOR – HANG. Das „h\" in „hang\" gehört zum zweiten Baustein und wird mitgeschrieben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "hangen",
+    "hängen"
+  ],
+  "bild_datei": "Vorhang.webp",
+  "audio_datei": "Vorhang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "curtain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rideau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "perde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ستارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hängen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufhänger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gardine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gardine"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vorhang",
+    "plural": "die Vorhänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vorhang",
+        "genitiv": "des Vorhangs",
+        "dativ": "dem Vorhang",
+        "akkusativ": "den Vorhang"
+      },
+      "plural": {
+        "nominativ": "die Vorhänge",
+        "genitiv": "der Vorhänge",
+        "dativ": "den Vorhängen",
+        "akkusativ": "die Vorhänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Forhang",
+    "Vorhank",
+    "Vorgang",
+    "Vorhangk",
+    "Vorheng"
+  ]
+}

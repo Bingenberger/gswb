@@ -1,0 +1,74 @@
+{
+  "lemma": "Praxis",
+  "wortart": "Nomen",
+  "silben": "Pra-xis",
+  "begriffserklaerung": "Eine Praxis ist ein Raum oder ein Büro, in dem ein Arzt oder eine Ärztin Menschen untersucht und behandelt. Manchmal nennt man auch das Büro eines Rechtsanwalts oder einer Psychologin so.",
+  "beispielsatz": "Wenn ich krank bin, geht meine Mama mit mir in die Praxis des Arztes.",
+  "rechtschreibstrategie": "Das Wort „Praxis\" hat ein X am Ende – das X klingt wie „ks\". Merke dir: Praxis endet auf -xis, nicht auf -csis oder -cksis!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Praxis"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Praxis",
+    "plural": "die Praxen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Praxis",
+        "genitiv": "der Praxis",
+        "dativ": "der Praxis",
+        "akkusativ": "die Praxis"
+      },
+      "plural": {
+        "nominativ": "die Praxen",
+        "genitiv": "der Praxen",
+        "dativ": "den Praxen",
+        "akkusativ": "die Praxen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pracsis",
+    "Pracksis",
+    "Praxsis",
+    "Praksis",
+    "Praxiss"
+  ],
+  "bild_datei": "Praxis.webp",
+  "audio_datei": "Praxis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "practice / doctor's office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cabinet (médical)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "muayenehane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عيادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arztbüro"
+    }
+  ]
+}

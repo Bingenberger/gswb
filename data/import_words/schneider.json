@@ -1,0 +1,82 @@
+{
+  "lemma": "Schneider",
+  "wortart": "Nomen",
+  "silben": "Schnei-der",
+  "begriffserklaerung": "Ein Schneider ist jemand, der Stoffe zuschneidet und daraus Kleidung näht.",
+  "beispielsatz": "Der Schneider näht mir ein neues Kostüm für das Schulfest.",
+  "rechtschreibstrategie": "Denk an das Wort „schneiden\" – ein Schneider schneidet Stoffe zu. Deshalb schreibt man „ei\" wie in „schneiden\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schneid"
+  ],
+  "bild_datei": "Schneider.webp",
+  "audio_datei": "Schneider.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tailor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tailleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "terzi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خياط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneiderin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Näherin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kleidermacher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schneider",
+    "plural": "die Schneider",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schneider",
+        "genitiv": "des Schneiders",
+        "dativ": "dem Schneider",
+        "akkusativ": "den Schneider"
+      },
+      "plural": {
+        "nominativ": "die Schneider",
+        "genitiv": "der Schneider",
+        "dativ": "den Schneidern",
+        "akkusativ": "die Schneider"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schnaider",
+    "Sneider",
+    "Schnider",
+    "Schneitar",
+    "Schnayder"
+  ]
+}

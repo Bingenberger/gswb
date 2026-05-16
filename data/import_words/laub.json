@@ -1,0 +1,82 @@
+{
+  "lemma": "Laub",
+  "wortart": "Nomen",
+  "silben": "Laub",
+  "begriffserklaerung": "Laub sind die Blätter von Bäumen und Sträuchern. Im Herbst färben sie sich bunt und fallen dann zu Boden.",
+  "beispielsatz": "Im Herbst raschelt das bunte Laub unter meinen Füßen.",
+  "rechtschreibstrategie": "Denk an das Verlängern: „ein Laub – viele Laubes\". Das „b\" am Ende hörst du dann deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Laub",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Laub",
+        "genitiv": "des Laub(e)s",
+        "dativ": "dem Laub",
+        "akkusativ": "das Laub"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "laub"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laubbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laubhaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "foliage / leaves"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feuillage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapraklar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أوراق الشجر"
+    }
+  ],
+  "fehlschreibungen": [
+    "Laup",
+    "Loup",
+    "Laupp",
+    "Lab",
+    "Labb"
+  ],
+  "bild_datei": "Laub.webp",
+  "audio_datei": "Laub.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "Prozess",
+  "wortart": "Nomen",
+  "silben": "Pro-zess",
+  "begriffserklaerung": "Ein Prozess ist eine Reihe von Schritten, die nacheinander ablaufen, um etwas zu erreichen oder herzustellen. Man spricht auch von einem Prozess, wenn etwas vor Gericht verhandelt wird.",
+  "beispielsatz": "Das Backen eines Kuchens ist ein langer Prozess, bei dem viele Schritte nacheinander kommen.",
+  "rechtschreibstrategie": "Schreibe am Ende „-zess\" mit Doppel-s, weil das „o\" kurz gesprochen wird. Denke daran: Pro-ZESS!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Prozess"
+  ],
+  "bild_datei": "Prozess.webp",
+  "audio_datei": "Prozess.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "process"
+    },
+    {
+      "language_code": "fr",
+      "translation": "processus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süreç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عملية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verarbeiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ablauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verfahren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorgang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Prozess",
+    "plural": "die Prozesse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Prozess",
+        "genitiv": "des Prozesses",
+        "dativ": "dem Prozess",
+        "akkusativ": "den Prozess"
+      },
+      "plural": {
+        "nominativ": "die Prozesse",
+        "genitiv": "der Prozesse",
+        "dativ": "den Prozessen",
+        "akkusativ": "die Prozesse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prozses",
+    "Prozzess",
+    "Prosess",
+    "Prozess",
+    "Prozeß",
+    "Proses"
+  ]
+}

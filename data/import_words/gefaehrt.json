@@ -1,0 +1,90 @@
+{
+  "lemma": "Gefährt",
+  "wortart": "Nomen",
+  "silben": "Ge-fährt",
+  "begriffserklaerung": "Ein Gefährt ist ein Fahrzeug, mit dem man von einem Ort zum anderen reisen oder Dinge transportieren kann, zum Beispiel ein Wagen oder ein Karren.",
+  "beispielsatz": "Der alte Bauer fuhr mit seinem hölzernen Gefährt über den holprigen Feldweg.",
+  "rechtschreibstrategie": "Denk an das Wort „fahren\" – daraus kommt „Gefährt\". Das ä schreibst du, weil „fahren\" ein a hat, das sich beim Ableiten in ein ä verwandelt.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Gefährt.webp",
+  "audio_datei": "Gefährt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vehicle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "véhicule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مركبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kutsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuhrwerk"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefährt",
+    "plural": "die Gefährte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefährt",
+        "genitiv": "des Gefährts",
+        "dativ": "dem Gefährt",
+        "akkusativ": "das Gefährt"
+      },
+      "plural": {
+        "nominativ": "die Gefährte",
+        "genitiv": "der Gefährte",
+        "dativ": "den Gefährten",
+        "akkusativ": "die Gefährte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefährd",
+    "Gefähred",
+    "Gefert",
+    "Gefahrt",
+    "Gefähert"
+  ]
+}

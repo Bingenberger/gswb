@@ -1,0 +1,84 @@
+{
+  "lemma": "Feuerwerk",
+  "wortart": "Nomen",
+  "silben": "Feu-er-werk",
+  "begriffserklaerung": "Ein Feuerwerk ist ein buntes Lichtspektakel am Himmel. Dabei werden kleine Raketen und Böller gezündet, die leuchtende Funken und farbige Lichter in den Nachthimmel schießen.",
+  "beispielsatz": "Zu Silvester schauen wir gemeinsam das bunte Feuerwerk am Himmel an.",
+  "rechtschreibstrategie": "Feuerwerk ist ein zusammengesetztes Wort aus „Feuer\" und „Werk\". Sprich beide Teile deutlich: FEUER + WERK. So kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Werk"
+  ],
+  "bild_datei": "Feuerwerk.webp",
+  "audio_datei": "Feuerwerk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fireworks"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feu d'artifice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havai fişek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألعاب نارية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rakete"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Silvester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knaller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feuerwerk",
+    "plural": "die Feuerwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feuerwerk",
+        "genitiv": "des Feuerwerks",
+        "dativ": "dem Feuerwerk",
+        "akkusativ": "das Feuerwerk"
+      },
+      "plural": {
+        "nominativ": "die Feuerwerke",
+        "genitiv": "der Feuerwerke",
+        "dativ": "den Feuerwerken",
+        "akkusativ": "die Feuerwerke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuerwerck",
+    "Foierwerk",
+    "Feuerwerk",
+    "Feuerwerg",
+    "Feuerverk",
+    "Feuerwerc"
+  ]
+}

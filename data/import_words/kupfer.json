@@ -1,0 +1,82 @@
+{
+  "lemma": "Kupfer",
+  "wortart": "Nomen",
+  "silben": "Kup-fer",
+  "begriffserklaerung": "Kupfer ist ein rötlich-glänzendes Metall. Es leitet Wärme und Strom sehr gut und wird zum Beispiel für Münzen, Rohre und elektrische Kabel verwendet.",
+  "beispielsatz": "Die alte Münze glänzt rötlich, weil sie aus Kupfer gemacht ist.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Kup-fer. Nach dem kurzen „u\" schreibst du „pp\" – wie bei „Kuppel\"? Nein! Hier steht nur ein „p\", dafür kommt direkt das „f\". Merke: Kup-fer – mit p und f!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kupfer"
+  ],
+  "bild_datei": "Kupfer.webp",
+  "audio_datei": "Kupfer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kupfer",
+    "plural": "die Kupfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kupfer",
+        "genitiv": "des Kupfers",
+        "dativ": "dem Kupfer",
+        "akkusativ": "das Kupfer"
+      },
+      "plural": {
+        "nominativ": "die Kupfer",
+        "genitiv": "der Kupfer",
+        "dativ": "den Kupfern",
+        "akkusativ": "die Kupfer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "copper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuivre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نحاس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kupfern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kupfermünze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gold"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kupffer",
+    "Cupra",
+    "Cupfer",
+    "Kuppfer",
+    "Kupper"
+  ]
+}

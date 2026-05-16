@@ -1,0 +1,86 @@
+{
+  "lemma": "Bau",
+  "wortart": "Nomen",
+  "silben": "Bau",
+  "begriffserklaerung": "Ein Bau ist ein Gebäude oder eine Baustelle, auf der etwas gebaut wird. Tiere wie Füchse haben auch einen Bau – das ist ihr Zuhause unter der Erde.",
+  "beispielsatz": "Auf der Baustelle ist ein riesiger Bau entstanden.",
+  "rechtschreibstrategie": "„Bau\" hat nur eine Silbe. Das „au\" sprichst du lang – wie in „laut\". Schreibe einfach B-a-u.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bau"
+  ],
+  "bild_datei": "Bau.webp",
+  "audio_datei": "Bau.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building / construction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "construction / bâtiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bina / inşaat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بناء / مبنى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baustein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebäude"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bau",
+    "plural": "die Bauten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bau",
+        "genitiv": "des Baus / des Baues",
+        "dativ": "dem Bau",
+        "akkusativ": "den Bau"
+      },
+      "plural": {
+        "nominativ": "die Bauten",
+        "genitiv": "der Bauten",
+        "dativ": "den Bauten",
+        "akkusativ": "die Bauten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bau",
+    "Baw",
+    "Bauu",
+    "Bou",
+    "Pau"
+  ]
+}

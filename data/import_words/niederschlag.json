@@ -1,0 +1,90 @@
+{
+  "lemma": "Niederschlag",
+  "wortart": "Nomen",
+  "silben": "Nie-der-schlag",
+  "begriffserklaerung": "Niederschlag ist Wasser, das aus Wolken auf die Erde fällt – zum Beispiel als Regen, Schnee oder Hagel.",
+  "beispielsatz": "Der Wetterbericht sagt für morgen starken Niederschlag voraus.",
+  "rechtschreibstrategie": "Das Wort „Niederschlag\" ist zusammengesetzt aus „nieder\" und „Schlag\". Sprich beide Teile laut mit: NIE-DER-SCHLAG. Das „ie\" in „nieder\" schreibt man mit i und e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "nieder",
+    "schlag"
+  ],
+  "bild_datei": "Niederschlag.webp",
+  "audio_datei": "Niederschlag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "precipitation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "précipitations"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هطول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nieder"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Niederschlag",
+    "plural": "die Niederschläge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Niederschlag",
+        "genitiv": "des Niederschlags",
+        "dativ": "dem Niederschlag",
+        "akkusativ": "den Niederschlag"
+      },
+      "plural": {
+        "nominativ": "die Niederschläge",
+        "genitiv": "der Niederschläge",
+        "dativ": "den Niederschlägen",
+        "akkusativ": "die Niederschläge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Niderschlag",
+    "Niederschlag",
+    "Niederschak",
+    "Niedershlag",
+    "Niederschlak",
+    "Nierderschlag"
+  ]
+}

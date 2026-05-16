@@ -1,0 +1,82 @@
+{
+  "lemma": "Wachen",
+  "wortart": "Nomen",
+  "silben": "Wa-chen",
+  "begriffserklaerung": "Eine Wache ist eine Person oder eine Gruppe von Personen, die einen Ort oder Menschen beschützt und aufpasst. Die Wachen nennt man den Mehrzahl davon.",
+  "beispielsatz": "Die Wachen stehen vor dem Schloss und passen auf, dass niemand einfach hineingeht.",
+  "rechtschreibstrategie": "Schreibe „Wachen\" mit „ch\" in der Mitte – sprich das Wort laut: Wa-chen. Das „ch\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wach"
+  ],
+  "bild_datei": "Wachen.webp",
+  "audio_datei": "Wachen.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wache",
+    "plural": "die Wachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wache",
+        "genitiv": "der Wache",
+        "dativ": "der Wache",
+        "akkusativ": "die Wache"
+      },
+      "plural": {
+        "nominativ": "die Wachen",
+        "genitiv": "der Wachen",
+        "dativ": "den Wachen",
+        "akkusativ": "die Wachen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "guards"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gardes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nöbetçiler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حراس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soldat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizist"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wächter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wacken",
+    "Wahchen",
+    "Wacen",
+    "Wachen",
+    "Vakchen"
+  ]
+}

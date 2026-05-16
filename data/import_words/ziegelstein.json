@@ -1,0 +1,85 @@
+{
+  "lemma": "Ziegelstein",
+  "wortart": "Nomen",
+  "silben": "Zie-gel-stein",
+  "begriffserklaerung": "Ein Ziegelstein ist ein rechteckiger Baustein aus gebranntem Ton. Er ist rot-braun und wird zum Bauen von Mauern und Häusern verwendet.",
+  "beispielsatz": "Der Maurer legt einen Ziegelstein auf den anderen, um die Mauer zu bauen.",
+  "rechtschreibstrategie": "Das Wort „Ziegelstein\" ist aus zwei Teilen zusammengesetzt: „Ziegel\" und „Stein\". Denk daran: In „Ziegel\" steckt das lange i, das man als „ie\" schreibt – wie in „Biene\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Ziegel",
+    "Stein"
+  ],
+  "bild_datei": "Ziegelstein.webp",
+  "audio_datei": "Ziegelstein.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ziegelstein",
+    "plural": "die Ziegelsteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ziegelstein",
+        "genitiv": "des Ziegelsteins",
+        "dativ": "dem Ziegelstein",
+        "akkusativ": "den Ziegelstein"
+      },
+      "plural": {
+        "nominativ": "die Ziegelsteine",
+        "genitiv": "der Ziegelsteine",
+        "dativ": "den Ziegelsteinen",
+        "akkusativ": "die Ziegelsteine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuğla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طوبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ziegel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Backstein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ziegelstein",
+    "Ziegelstain",
+    "Zigelstein",
+    "Zieggelstein",
+    "Ziegelshtein",
+    "Ziegelstien"
+  ]
+}

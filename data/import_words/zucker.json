@@ -1,0 +1,83 @@
+{
+  "lemma": "Zucker",
+  "wortart": "Nomen",
+  "silben": "Zu-cker",
+  "begriffserklaerung": "Zucker ist ein weißes oder braunes Pulver, das süß schmeckt. Man gibt ihn in Kuchen, Tee oder Limonade.",
+  "beispielsatz": "Mama gibt einen Löffel Zucker in den Tee.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt „ck\" – sprich das Wort langsam: Zu-cker. Das „ck\" zeigt dir, dass der Vokal davor kurz ist!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Zucker"
+  ],
+  "bild_datei": "Zucker.webp",
+  "audio_datei": "Zucker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sugar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sucre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şeker"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سُكَّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zuckern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zuckerig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Süßungsmittel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zucker",
+    "plural": "die Zucker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zucker",
+        "genitiv": "des Zuckers",
+        "dativ": "dem Zucker",
+        "akkusativ": "den Zucker"
+      },
+      "plural": {
+        "nominativ": "die Zucker",
+        "genitiv": "der Zucker",
+        "dativ": "den Zuckern",
+        "akkusativ": "die Zucker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zuker",
+    "Zuger",
+    "Zukker",
+    "Sucker",
+    "Zukcer",
+    "Tzucker"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Notfallnummer",
+  "wortart": "Nomen",
+  "silben": "Not-fall-num-mer",
+  "begriffserklaerung": "Eine Notfallnummer ist eine besondere Telefonnummer, die du anrufst, wenn jemand dringend Hilfe braucht – zum Beispiel bei einem Unfall oder einem Brand.",
+  "beispielsatz": "Wenn jemand verletzt ist, ruf die Notfallnummer 112 an!",
+  "rechtschreibstrategie": "Das Wort „Notfallnummer\" besteht aus drei Teilen: „Not\" + „Fall\" + „Nummer\". Sprich alle Teile laut mit – dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "Fall",
+    "Nummer"
+  ],
+  "bild_datei": "Notfallnummer.webp",
+  "audio_datei": "Notfallnummer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency number"
+    },
+    {
+      "language_code": "fr",
+      "translation": "numéro d'urgence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil numara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم الطوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notrufnummer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Notfallnummer",
+    "plural": "die Notfallnummern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Notfallnummer",
+        "genitiv": "der Notfallnummer",
+        "dativ": "der Notfallnummer",
+        "akkusativ": "die Notfallnummer"
+      },
+      "plural": {
+        "nominativ": "die Notfallnummern",
+        "genitiv": "der Notfallnummern",
+        "dativ": "den Notfallnummern",
+        "akkusativ": "die Notfallnummern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nothfallnummer",
+    "Notfahlnummer",
+    "Notfallnumme",
+    "Notfallnumer",
+    "Notfallnnummer",
+    "Notfallnummern"
+  ]
+}

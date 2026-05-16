@@ -1,0 +1,86 @@
+{
+  "lemma": "Tourist",
+  "wortart": "Nomen",
+  "silben": "Tou-rist",
+  "begriffserklaerung": "Ein Tourist ist eine Person, die in ihrer Freizeit verreist, um andere Orte, Städte oder Länder zu besuchen und kennenzulernen.",
+  "beispielsatz": "Der Tourist fotografiert den bunten Marktplatz in der fremden Stadt.",
+  "rechtschreibstrategie": "Das Wort „Tourist\" kommt aus dem Französischen. Sprich es laut: „Tu-rist\". Am Anfang steckt „Tou\" – fast wie „tu\". Merke dir: Nach dem „ou\" kommt ein „r\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tour"
+  ],
+  "bild_datei": "Tourist.webp",
+  "audio_datei": "Tourist.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tourist",
+    "plural": "die Touristen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tourist",
+        "genitiv": "des Touristen",
+        "dativ": "dem Touristen",
+        "akkusativ": "den Touristen"
+      },
+      "plural": {
+        "nominativ": "die Touristen",
+        "genitiv": "der Touristen",
+        "dativ": "den Touristen",
+        "akkusativ": "die Touristen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tourist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "touriste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "turist"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tour"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tourismus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehenswürdigkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Turist",
+    "Tourisst",
+    "Tuurist",
+    "Tourrist",
+    "Torист"
+  ]
+}

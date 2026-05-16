@@ -1,0 +1,79 @@
+{
+  "lemma": "Müller",
+  "wortart": "Nomen",
+  "silben": "Mül-ler",
+  "begriffserklaerung": "Ein Müller ist jemand, der in einer Mühle Getreide zu Mehl mahlt.",
+  "beispielsatz": "Der Müller mahlt das Getreide zu feinem Mehl.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" kommt ein Doppel-l: Mül-ler. Sprich beide l deutlich mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mühle",
+    "mahlen"
+  ],
+  "bild_datei": "Müller.webp",
+  "audio_datei": "Müller.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "miller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "meunier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değirmenci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طحّان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mühle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mahlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäcker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mehl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Müller",
+    "plural": "die Müller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Müller",
+        "genitiv": "des Müllers",
+        "dativ": "dem Müller",
+        "akkusativ": "den Müller"
+      },
+      "plural": {
+        "nominativ": "die Müller",
+        "genitiv": "der Müller",
+        "dativ": "den Müllern",
+        "akkusativ": "die Müller"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Muller",
+    "Müler",
+    "Mühler",
+    "Mühller",
+    "Müllер"
+  ]
+}

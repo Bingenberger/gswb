@@ -1,0 +1,82 @@
+{
+  "lemma": "Kalb",
+  "wortart": "Nomen",
+  "silben": "Kalb",
+  "begriffserklaerung": "Ein Kalb ist ein junges Rind. Es ist das Baby einer Kuh oder eines Stiers.",
+  "beispielsatz": "Das kleine Kalb trinkt Milch bei seiner Mutter.",
+  "rechtschreibstrategie": "Wenn du „Kälber\" sagst, hörst du das „b\" deutlich. Darum schreibt man auch „Kalb\" mit einem „b\" am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kalb"
+  ],
+  "bild_datei": "Kalb.webp",
+  "audio_datei": "Kalb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "calf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "veau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buzağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kälbchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kalbfleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kalb",
+    "plural": "die Kälber",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kalb",
+        "genitiv": "des Kalb(e)s",
+        "dativ": "dem Kalb(e)",
+        "akkusativ": "das Kalb"
+      },
+      "plural": {
+        "nominativ": "die Kälber",
+        "genitiv": "der Kälber",
+        "dativ": "den Kälbern",
+        "akkusativ": "die Kälber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kalp",
+    "Kalv",
+    "Kalbe",
+    "Kalpp",
+    "Kalbb"
+  ]
+}

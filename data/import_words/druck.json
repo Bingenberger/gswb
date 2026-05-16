@@ -1,0 +1,95 @@
+{
+  "lemma": "Druck",
+  "wortart": "Nomen",
+  "silben": "Druck",
+  "begriffserklaerung": "Druck ist die Kraft, die auf etwas drückt oder presst. Das Wort bedeutet auch das Drucken von Texten oder Bildern, zum Beispiel in einem Buch.",
+  "beispielsatz": "Mit einem festen Druck auf den Knopf öffnet sich die Tür.",
+  "rechtschreibstrategie": "Das Wort „Druck\" hat nach dem kurzen „u\" ein „ck\". Das „ck\" ist das Zeichen für den kurzen Vokal davor. Merke: Nach kurzem Vokal schreibt man „ck\" statt „kk\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "druck",
+    "drück"
+  ],
+  "bild_datei": "Druck.webp",
+  "audio_datei": "Druck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pressure / print"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pression / impression"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baskı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضغط / طباعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drucken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Drucker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stempel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drucker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Druck",
+    "plural": "die Drücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Druck",
+        "genitiv": "des Druckes / des Drucks",
+        "dativ": "dem Druck",
+        "akkusativ": "den Druck"
+      },
+      "plural": {
+        "nominativ": "die Drücke",
+        "genitiv": "der Drücke",
+        "dativ": "den Drücken",
+        "akkusativ": "die Drücke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Druk",
+    "Drukk",
+    "Drug",
+    "Drucck",
+    "drukc"
+  ]
+}

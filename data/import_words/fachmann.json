@@ -1,0 +1,84 @@
+{
+  "lemma": "Fachmann",
+  "wortart": "Nomen",
+  "silben": "Fach-mann",
+  "begriffserklaerung": "Ein Fachmann ist jemand, der sich auf einem bestimmten Gebiet sehr gut auskennt und dort viel Erfahrung hat.",
+  "beispielsatz": "Der Fachmann repariert die Heizung schnell und sicher.",
+  "rechtschreibstrategie": "Das Wort „Fachmann\" ist aus zwei Teilen zusammengesetzt: „Fach\" und „Mann\". Sprich beide Teile deutlich: FACH – MANN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fach",
+    "Mann"
+  ],
+  "bild_datei": "Fachmann.webp",
+  "audio_datei": "Fachmann.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "expert"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expert"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Experte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fachmann",
+    "plural": "die Fachmänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fachmann",
+        "genitiv": "des Fachmanns",
+        "dativ": "dem Fachmann",
+        "akkusativ": "den Fachmann"
+      },
+      "plural": {
+        "nominativ": "die Fachmänner",
+        "genitiv": "der Fachmänner",
+        "dativ": "den Fachmännern",
+        "akkusativ": "die Fachmänner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fachman",
+    "Fachmen",
+    "Fachmahn",
+    "Fachmann",
+    "Facman",
+    "Faxmann"
+  ]
+}

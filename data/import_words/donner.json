@@ -1,0 +1,82 @@
+{
+  "lemma": "Donner",
+  "wortart": "Nomen",
+  "silben": "Don-ner",
+  "begriffserklaerung": "Der Donner ist das laute Grollen oder Krachen, das man bei einem Gewitter hört. Er entsteht, wenn ein Blitz durch die Luft zuckt und die Luft dabei sehr schnell auseinanderbricht.",
+  "beispielsatz": "Bei dem Gewitter war der Donner so laut, dass sich die Katze unter dem Bett versteckt hat.",
+  "rechtschreibstrategie": "Das Wort „Donner\" hat zwei n am Ende – sprich es laut: Don-ner. Nach dem kurzen „o\" verdoppelst du das n!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "donn"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Donner",
+    "plural": "die Donner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Donner",
+        "genitiv": "des Donners",
+        "dativ": "dem Donner",
+        "akkusativ": "den Donner"
+      },
+      "plural": {
+        "nominativ": "die Donner",
+        "genitiv": "der Donner",
+        "dativ": "den Donnern",
+        "akkusativ": "die Donner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Doner",
+    "Toner",
+    "Tonnner",
+    "Donern",
+    "Tonner"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thunder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tonnerre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gök gürültüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "donnern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Donnerwetter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    }
+  ],
+  "bild_datei": "Donner.webp",
+  "audio_datei": "Donner.mp3"
+}

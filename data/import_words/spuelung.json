@@ -1,0 +1,83 @@
+{
+  "lemma": "Spülung",
+  "wortart": "Nomen",
+  "silben": "Spü-lung",
+  "begriffserklaerung": "Eine Spülung ist das Durchspülen mit Wasser, zum Beispiel wenn du die Toilette benutzt und auf den Knopf drückst, damit das Wasser alles wegspült. Auch beim Zähneputzen oder Haarewaschen gibt es eine Spülung.",
+  "beispielsatz": "Nach dem Toilettengang drückt Tim die Spülung.",
+  "rechtschreibstrategie": "Denk an das Verb „spülen\" – davon kommt „Spülung\". Das ü bleibt erhalten, und am Ende hängt die Silbe „-ung\" dran.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spül"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spülung",
+    "plural": "die Spülungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spülung",
+        "genitiv": "der Spülung",
+        "dativ": "der Spülung",
+        "akkusativ": "die Spülung"
+      },
+      "plural": {
+        "nominativ": "die Spülungen",
+        "genitiv": "der Spülungen",
+        "dativ": "den Spülungen",
+        "akkusativ": "die Spülungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spühlung",
+    "Spüelung",
+    "Spüllung",
+    "Spulung",
+    "Spühling"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flush / rinse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chasse d'eau / rinçage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durulaма / sifon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شطف / سيفون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spülen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülmaschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Toilette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spülgang"
+    }
+  ],
+  "bild_datei": "Spülung.webp",
+  "audio_datei": "Spülung.mp3"
+}

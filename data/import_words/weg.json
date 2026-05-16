@@ -1,0 +1,81 @@
+{
+  "lemma": "Weg",
+  "wortart": "Nomen",
+  "silben": "Weg",
+  "begriffserklaerung": "Ein Weg ist eine Strecke, auf der man von einem Ort zu einem anderen gehen oder fahren kann.",
+  "beispielsatz": "Der Weg durch den Wald ist sehr schön.",
+  "rechtschreibstrategie": "Wenn du „Weg\" verlängerst, sagst du „Wege\" – da hörst du das g am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Weg"
+  ],
+  "bild_datei": "Weg.webp",
+  "audio_datei": "Weg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "path / way"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wegweiser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "unterwegs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfad"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pfad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Weg",
+    "plural": "die Wege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Weg",
+        "genitiv": "des Weges",
+        "dativ": "dem Weg",
+        "akkusativ": "den Weg"
+      },
+      "plural": {
+        "nominativ": "die Wege",
+        "genitiv": "der Wege",
+        "dativ": "den Wegen",
+        "akkusativ": "die Wege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weck",
+    "Wek",
+    "Veg",
+    "Weeg"
+  ]
+}

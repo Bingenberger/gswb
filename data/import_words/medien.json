@@ -1,0 +1,83 @@
+{
+  "lemma": "Medien",
+  "wortart": "Nomen",
+  "silben": "Me-di-en",
+  "begriffserklaerung": "Medien sind alle Wege, auf denen Menschen Nachrichten, Bilder oder Geschichten weitergeben – zum Beispiel Zeitung, Radio, Fernsehen und Internet.",
+  "beispielsatz": "Im Unterricht lernen wir, wie wir Medien richtig und sicher nutzen können.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Me-di-en. Achte auf das „i\" und das „e\" am Ende – beide werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Medium",
+    "plural": "Medien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Medium",
+        "genitiv": "des Mediums",
+        "dativ": "dem Medium",
+        "akkusativ": "das Medium"
+      },
+      "plural": {
+        "nominativ": "die Medien",
+        "genitiv": "der Medien",
+        "dativ": "den Medien",
+        "akkusativ": "die Medien"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Medium",
+    "Medien"
+  ],
+  "fehlschreibungen": [
+    "Meedien",
+    "Medijen",
+    "Medien",
+    "Mehdien",
+    "Medieen"
+  ],
+  "bild_datei": "Medien.webp",
+  "audio_datei": "Medien.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "media"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médias"
+    },
+    {
+      "language_code": "tr",
+      "translation": "medya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسائل الإعلام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Medium"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Massenmedium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ]
+}

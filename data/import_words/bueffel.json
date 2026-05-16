@@ -1,0 +1,74 @@
+{
+  "lemma": "Büffel",
+  "wortart": "Nomen",
+  "silben": "Büf-fel",
+  "begriffserklaerung": "Ein Büffel ist ein großes, starkes Tier, das aussieht wie eine Kuh mit mächtigen Hörnern. Büffel leben in Herden und fressen Gras.",
+  "beispielsatz": "Der Büffel trinkt am Fluss sein Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Büf-fel. Das „f\" hörst du doppelt, weil der Vokal „ü\" kurz ist – deshalb schreibt man „ff\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Büffel"
+  ],
+  "bild_datei": "Büffel.webp",
+  "audio_datei": "Büffel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "buffalo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "buffle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bufalo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جاموس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Büffel",
+    "plural": "die Büffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Büffel",
+        "genitiv": "des Büffels",
+        "dativ": "dem Büffel",
+        "akkusativ": "den Büffel"
+      },
+      "plural": {
+        "nominativ": "die Büffel",
+        "genitiv": "der Büffel",
+        "dativ": "den Büffeln",
+        "akkusativ": "die Büffel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Büfel",
+    "Bühffel",
+    "Bühfel",
+    "Büfell",
+    "Byffel"
+  ]
+}

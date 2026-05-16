@@ -1,0 +1,88 @@
+{
+  "lemma": "Lebenszyklus",
+  "wortart": "Nomen",
+  "silben": "Le-bens-zy-klus",
+  "begriffserklaerung": "Der Lebenszyklus beschreibt alle Phasen, die ein Lebewesen von seiner Geburt bis zu seinem Tod durchläuft – zum Beispiel Ei, Raupe, Puppe und Schmetterling.",
+  "beispielsatz": "In der Schule haben wir den Lebenszyklus des Schmetterlings mit bunten Bildern aufgemalt.",
+  "rechtschreibstrategie": "„Lebenszyklus\" ist ein zusammengesetztes Wort aus „Leben\" und „Zyklus\". Sprich beide Teile einzeln: LE-BEN + ZY-KLUS. Das „y\" im Wort „Zyklus\" klingt wie ein kurzes „ü\" – das ist ein Merkwort!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Leben",
+    "Zyklus"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lebenszyklus",
+    "plural": "die Lebenszyklen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lebenszyklus",
+        "genitiv": "des Lebenszyklus",
+        "dativ": "dem Lebenszyklus",
+        "akkusativ": "den Lebenszyklus"
+      },
+      "plural": {
+        "nominativ": "die Lebenszyklen",
+        "genitiv": "der Lebenszyklen",
+        "dativ": "den Lebenszyklen",
+        "akkusativ": "die Lebenszyklen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lebensziklus",
+    "Lebenszyglus",
+    "Lebenszycklus",
+    "Lebenszikluss",
+    "Lebenzyklus"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "life cycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cycle de vie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşam döngüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دورة الحياة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zyklus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entwicklung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wachstum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebenskreislauf"
+    }
+  ],
+  "bild_datei": "Lebenszyklus.webp",
+  "audio_datei": "Lebenszyklus.mp3"
+}

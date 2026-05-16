@@ -1,0 +1,86 @@
+{
+  "lemma": "Felsen",
+  "wortart": "Nomen",
+  "silben": "Fel-sen",
+  "begriffserklaerung": "Ein Felsen ist ein sehr großer, harter Stein. Felsen bestehen aus Gestein und sind ein Teil der Natur, zum Beispiel in den Bergen oder am Meer.",
+  "beispielsatz": "Die Kinder klettern auf den großen Felsen am Berghang.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Fel-sen\". Du hörst zwei Silben. Verlängere: „der Felsen – viele Felsen\". Das „s\" in der Mitte gehört zur zweiten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fels"
+  ],
+  "bild_datei": "Felsen.webp",
+  "audio_datei": "Felsen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rocher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صخرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fels"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "felsig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fels"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Felsen",
+    "plural": "die Felsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Felsen",
+        "genitiv": "des Felsens",
+        "dativ": "dem Felsen",
+        "akkusativ": "den Felsen"
+      },
+      "plural": {
+        "nominativ": "die Felsen",
+        "genitiv": "der Felsen",
+        "dativ": "den Felsen",
+        "akkusativ": "die Felsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Felzen",
+    "Fälsen",
+    "Fellsen",
+    "Felssen",
+    "Fälzen"
+  ]
+}

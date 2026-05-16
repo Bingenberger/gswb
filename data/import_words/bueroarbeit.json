@@ -1,0 +1,83 @@
+{
+  "lemma": "Büroarbeit",
+  "wortart": "Nomen",
+  "silben": "Bü-ro-ar-beit",
+  "begriffserklaerung": "Büroarbeit ist die Arbeit, die man an einem Schreibtisch in einem Büro macht, zum Beispiel Briefe schreiben, am Computer arbeiten oder Akten ordnen.",
+  "beispielsatz": "Meine Mutter erledigt jeden Tag viel Büroarbeit an ihrem Schreibtisch.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Büro\" und „Arbeit\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Büro",
+    "Arbeit"
+  ],
+  "bild_datei": "Büroarbeit.webp",
+  "audio_datei": "Büroarbeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Büroarbeit",
+    "plural": "die Büroarbeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Büroarbeit",
+        "genitiv": "der Büroarbeit",
+        "dativ": "der Büroarbeit",
+        "akkusativ": "die Büroarbeit"
+      },
+      "plural": {
+        "nominativ": "die Büroarbeiten",
+        "genitiv": "der Büroarbeiten",
+        "dativ": "den Büroarbeiten",
+        "akkusativ": "die Büroarbeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "office work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travail de bureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büro işi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل مكتبي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bühroarbeit",
+    "Büroarbaid",
+    "Büroarbeid",
+    "Biroarbeit",
+    "Büroarrbeit"
+  ]
+}

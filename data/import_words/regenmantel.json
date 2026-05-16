@@ -1,0 +1,87 @@
+{
+  "lemma": "Regenmantel",
+  "wortart": "Nomen",
+  "silben": "Re-gen-man-tel",
+  "begriffserklaerung": "Ein Regenmantel ist ein langer Mantel, den du anziehst, damit du bei Regen nicht nass wirst.",
+  "beispielsatz": "Wenn es draußen regnet, zieht Lena ihren gelben Regenmantel an.",
+  "rechtschreibstrategie": "Das Wort „Regenmantel\" besteht aus zwei Teilen: „Regen\" und „Mantel\". Sprich beide Teile laut, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Regen",
+    "Mantel"
+  ],
+  "bild_datei": "Regenmantel.webp",
+  "audio_datei": "Regenmantel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Regenmantel",
+    "plural": "die Regenmäntel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Regenmantel",
+        "genitiv": "des Regenmantels",
+        "dativ": "dem Regenmantel",
+        "akkusativ": "den Regenmantel"
+      },
+      "plural": {
+        "nominativ": "die Regenmäntel",
+        "genitiv": "der Regenmäntel",
+        "dativ": "den Regenmänteln",
+        "akkusativ": "die Regenmäntel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "raincoat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "imperméable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağmurluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معطف المطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mantel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gummistiefel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regenjacke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Regenmanntl",
+    "Regenmantle",
+    "Reegenmatel",
+    "Regenmanttl",
+    "Regenmantal"
+  ]
+}

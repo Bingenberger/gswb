@@ -1,0 +1,88 @@
+{
+  "lemma": "Sonnencreme",
+  "wortart": "Nomen",
+  "silben": "Son-nen-cre-me",
+  "begriffserklaerung": "Eine Sonnencreme ist eine Creme, die man auf die Haut schmiert, damit die Sonne einem nicht schadet und man keinen Sonnenbrand bekommt.",
+  "beispielsatz": "Bevor wir ans Meer gehen, schmiert Mama uns die Sonnencreme auf den Rücken.",
+  "rechtschreibstrategie": "Sonnencreme ist ein zusammengesetztes Wort aus „Sonne\" und „Creme\". Denk daran: Am Anfang stehen zwei n – Son-nen – weil das Wort von „Sonne\" kommt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Creme"
+  ],
+  "bild_datei": "Sonnencreme.webp",
+  "audio_datei": "Sonnencreme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunscreen / suntan lotion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crème solaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş kremi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كريم الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonnenschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenbrand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenschirm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sonnenschutzcreme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonnencreme",
+    "plural": "die Sonnencremes",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonnencreme",
+        "genitiv": "der Sonnencreme",
+        "dativ": "der Sonnencreme",
+        "akkusativ": "die Sonnencreme"
+      },
+      "plural": {
+        "nominativ": "die Sonnencremes",
+        "genitiv": "der Sonnencremes",
+        "dativ": "den Sonnencremes",
+        "akkusativ": "die Sonnencremes"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sonnencreeme",
+    "Sonencreme",
+    "Sonnenkreme",
+    "Sonnencreame",
+    "Sonnencrem",
+    "Sohnencreme"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Eiswürfel",
+  "wortart": "Nomen",
+  "silben": "Eis-wür-fel",
+  "begriffserklaerung": "Ein Eiswürfel ist ein kleines, viereckiges Stück gefrorenes Wasser. Man gibt ihn ins Getränk, damit es kalt bleibt.",
+  "beispielsatz": "Im Sommer lege ich immer zwei Eiswürfel in mein Glas Limonade.",
+  "rechtschreibstrategie": "„Eiswürfel\" ist ein zusammengesetztes Wort aus „Eis\" und „Würfel\". Schreibe beide Teile zusammen und denk ans Umlaut-ü in „Würfel\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Eis",
+    "Würfel"
+  ],
+  "bild_datei": "Eiswürfel.webp",
+  "audio_datei": "Eiswürfel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ice cube"
+    },
+    {
+      "language_code": "fr",
+      "translation": "glaçon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buz küpü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكعب ثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Würfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kühlschrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frost"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eiswürfel",
+    "plural": "die Eiswürfel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eiswürfel",
+        "genitiv": "des Eiswürfels",
+        "dativ": "dem Eiswürfel",
+        "akkusativ": "den Eiswürfel"
+      },
+      "plural": {
+        "nominativ": "die Eiswürfel",
+        "genitiv": "der Eiswürfel",
+        "dativ": "den Eiswürfeln",
+        "akkusativ": "die Eiswürfel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eiswürffel",
+    "Eisswürfel",
+    "Eiswürfels",
+    "Eisswürffel",
+    "Eißwürfel",
+    "Eiswirfel",
+    "Eiswürfal"
+  ]
+}

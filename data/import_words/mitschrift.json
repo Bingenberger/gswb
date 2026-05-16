@@ -1,0 +1,88 @@
+{
+  "lemma": "Mitschrift",
+  "wortart": "Nomen",
+  "silben": "Mit-schrift",
+  "begriffserklaerung": "Eine Mitschrift ist alles, was du während des Unterrichts oder einer Erklärung aufschreibst, damit du es später noch weißt.",
+  "beispielsatz": "Lena hat eine saubere Mitschrift vom Unterricht gemacht.",
+  "rechtschreibstrategie": "„Mitschrift\" ist ein zusammengesetztes Wort aus „mit\" und „Schrift\". Sprich beide Teile deutlich: MIT + SCHRIFT. Das „t\" am Ende von „mit\" und das „sch\" am Anfang von „Schrift\" klingen zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schreiben",
+    "Schrift"
+  ],
+  "bild_datei": "Mitschrift.webp",
+  "audio_datei": "Mitschrift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "notes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "notes de cours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders notu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملاحظات الدرس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrift"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notizen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mitschrift",
+    "plural": "die Mitschriften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mitschrift",
+        "genitiv": "der Mitschrift",
+        "dativ": "der Mitschrift",
+        "akkusativ": "die Mitschrift"
+      },
+      "plural": {
+        "nominativ": "die Mitschriften",
+        "genitiv": "der Mitschriften",
+        "dativ": "den Mitschriften",
+        "akkusativ": "die Mitschriften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitschrifft",
+    "Mitschrit",
+    "Mitshrift",
+    "Mietschrift",
+    "Mitschrigt",
+    "Mittschrift"
+  ]
+}

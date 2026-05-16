@@ -1,0 +1,85 @@
+{
+  "lemma": "Löwenzahn",
+  "wortart": "Nomen",
+  "silben": "Lö-wen-zahn",
+  "begriffserklaerung": "Der Löwenzahn ist eine wild wachsende Pflanze mit leuchtend gelben Blüten. Wenn die Blüte verblüht, entsteht eine weiße Pusteblume mit vielen kleinen Samen.",
+  "beispielsatz": "Im Frühling blühen auf der Wiese viele gelbe Löwenzähne.",
+  "rechtschreibstrategie": "Das Wort „Löwenzahn\" ist zusammengesetzt aus „Löwe\" und „Zahn\". Schreibe beide Teile einfach hintereinander: Löwen + Zahn = Löwenzahn.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Löwe",
+    "Zahn"
+  ],
+  "bild_datei": "Löwenzahn.webp",
+  "audio_datei": "Löwenzahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dandelion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pissenlit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karahindiba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هندباء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pusteblume"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Löwenzahn",
+    "plural": "die Löwenzähne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Löwenzahn",
+        "genitiv": "des Löwenzahns",
+        "dativ": "dem Löwenzahn",
+        "akkusativ": "den Löwenzahn"
+      },
+      "plural": {
+        "nominativ": "die Löwenzähne",
+        "genitiv": "der Löwenzähne",
+        "dativ": "den Löwenzähnen",
+        "akkusativ": "die Löwenzähne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Löwenzan",
+    "Löwenzahn",
+    "Löwenzann",
+    "Löwensahn",
+    "Löwenzaen",
+    "Lewenzahn",
+    "Lövenzahn"
+  ]
+}

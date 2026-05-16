@@ -1,0 +1,82 @@
+{
+  "lemma": "Fett",
+  "wortart": "Nomen",
+  "silben": "Fett",
+  "begriffserklaerung": "Fett ist ein Stoff in Lebensmitteln wie Butter oder Öl. Unser Körper braucht etwas Fett als Energie.",
+  "beispielsatz": "Mama brät die Kartoffeln in etwas Fett in der Pfanne.",
+  "rechtschreibstrategie": "Das Wort „Fett\" hat ein kurzes „e\", deshalb wird das „t\" verdoppelt: tt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fett"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fett",
+    "plural": "die Fette",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fett",
+        "genitiv": "des Fettes",
+        "dativ": "dem Fett",
+        "akkusativ": "das Fett"
+      },
+      "plural": {
+        "nominativ": "die Fette",
+        "genitiv": "der Fette",
+        "dativ": "den Fetten",
+        "akkusativ": "die Fette"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fet",
+    "Feth",
+    "Vett",
+    "Vet",
+    "Feht"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "graisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دهن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fettig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entfetten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Öl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmalz"
+    }
+  ],
+  "bild_datei": "Fett.webp",
+  "audio_datei": "Fett.mp3"
+}

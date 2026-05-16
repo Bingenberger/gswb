@@ -1,0 +1,84 @@
+{
+  "lemma": "Verkehrshelfer",
+  "wortart": "Nomen",
+  "silben": "Ver-kehrs-hel-fer",
+  "begriffserklaerung": "Ein Verkehrshelfer ist eine Person, die Kindern hilft, sicher über die Straße zu gehen – zum Beispiel vor einer Schule.",
+  "beispielsatz": "Der Verkehrshelfer hält die Autos an, damit wir sicher über die Straße gehen können.",
+  "rechtschreibstrategie": "„Verkehrshelfer\" ist ein zusammengesetztes Wort aus „Verkehr\" und „Helfer\". Sprich beide Teile deutlich: Ver-kehrs-hel-fer. Das „h\" in „Helfer\" hörst du deutlich mit.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Verkehr",
+    "helfen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkehrshelfer",
+    "plural": "die Verkehrshelfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkehrshelfer",
+        "genitiv": "des Verkehrshelfers",
+        "dativ": "dem Verkehrshelfer",
+        "akkusativ": "den Verkehrshelfer"
+      },
+      "plural": {
+        "nominativ": "die Verkehrshelfer",
+        "genitiv": "der Verkehrshelfer",
+        "dativ": "den Verkehrshelfern",
+        "akkusativ": "die Verkehrshelfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Verkehrshelffer",
+    "Ferkeehrshelfer",
+    "Verkehrshelver",
+    "Verkehrshelfa",
+    "Verkershelfer"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crossing guard / traffic helper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agent de sécurité routière scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "trafik yardımcısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساعد المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    }
+  ],
+  "bild_datei": "Verkehrshelfer.webp",
+  "audio_datei": "Verkehrshelfer.mp3"
+}

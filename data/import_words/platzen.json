@@ -1,0 +1,86 @@
+{
+  "lemma": "platzen",
+  "wortart": "Verb",
+  "silben": "plat-zen",
+  "begriffserklaerung": "Wenn etwas platzt, reißt es plötzlich auf oder geht kaputt, weil zu viel Druck von innen kommt – zum Beispiel ein Luftballon.",
+  "beispielsatz": "Der rote Luftballon platzt mit einem lauten Knall.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „tz\" – das ist das Kürzezeichen. Sprich: plat-zen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "platz"
+  ],
+  "bild_datei": "platzen.webp",
+  "audio_datei": "platzen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "platzen",
+    "praesens": {
+      "ich": "platze",
+      "du": "platzt",
+      "er_sie_es": "platzt",
+      "wir": "platzen",
+      "ihr": "platzt",
+      "sie": "platzen"
+    },
+    "perfekt": {
+      "ich": "bin geplatzt",
+      "du": "bist geplatzt",
+      "er_sie_es": "ist geplatzt",
+      "wir": "sind geplatzt",
+      "ihr": "seid geplatzt",
+      "sie": "sind geplatzt"
+    },
+    "praeteritum": {
+      "ich": "platzte",
+      "du": "platztest",
+      "er_sie_es": "platzte",
+      "wir": "platzten",
+      "ihr": "platztet",
+      "sie": "platzten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to burst"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éclater"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينفجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerplatzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "knallen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reißen"
+    }
+  ],
+  "fehlschreibungen": [
+    "platsen",
+    "plazten",
+    "platcen",
+    "plazen",
+    "platszen"
+  ]
+}

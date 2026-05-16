@@ -1,0 +1,72 @@
+{
+  "lemma": "Pavian",
+  "wortart": "Nomen",
+  "silben": "Pa-vi-an",
+  "begriffserklaerung": "Ein Pavian ist ein großer Affe mit einem bunten Gesicht und einem langen Schwanz. Paviane leben vor allem in Afrika und laufen oft auf allen vieren.",
+  "beispielsatz": "Der Pavian sitzt auf einem Felsen und schaut neugierig in die Gegend.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Pa – vi – an. Das „v\" klingt hier wie ein „f\", aber du schreibst es mit „v\" – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pavian.webp",
+  "audio_datei": "Pavian.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baboon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "babouin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "babun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بابون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Affe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gorilla"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schimpanse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pavian",
+    "plural": "die Paviane",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pavian",
+        "genitiv": "des Pavianes",
+        "dativ": "dem Pavian",
+        "akkusativ": "den Pavian"
+      },
+      "plural": {
+        "nominativ": "die Paviane",
+        "genitiv": "der Paviane",
+        "dativ": "den Pavianen",
+        "akkusativ": "die Paviane"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pafian",
+    "Pavien",
+    "Pavijan",
+    "Pawian",
+    "Paviahn"
+  ]
+}

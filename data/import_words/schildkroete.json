@@ -1,0 +1,83 @@
+{
+  "lemma": "Schildkröte",
+  "wortart": "Nomen",
+  "silben": "Schild-krö-te",
+  "begriffserklaerung": "Eine Schildkröte ist ein Tier, das einen harten Panzer auf dem Rücken trägt. Sie kann Kopf und Beine in ihren Panzer zurückziehen und bewegt sich sehr langsam.",
+  "beispielsatz": "Die Schildkröte kroch langsam über den warmen Stein.",
+  "rechtschreibstrategie": "Das Wort „Schildkröte\" besteht aus zwei Teilen: „Schild\" und „Kröte\". Sprich beide Teile laut, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schild",
+    "Kröte"
+  ],
+  "bild_datei": "Schildkröte.webp",
+  "audio_datei": "Schildkröte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schildkröte",
+    "plural": "die Schildkröten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schildkröte",
+        "genitiv": "der Schildkröte",
+        "dativ": "der Schildkröte",
+        "akkusativ": "die Schildkröte"
+      },
+      "plural": {
+        "nominativ": "die Schildkröten",
+        "genitiv": "der Schildkröten",
+        "dativ": "den Schildkröten",
+        "akkusativ": "die Schildkröten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "turtle / tortoise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tortue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaplumbağa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلحفاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kröte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eidechse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schildkrödde",
+    "Schiltkröte",
+    "Schildkrötte",
+    "Schiltgröte",
+    "Schildgrödde"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lemma": "täglich",
+  "wortart": "Adjektiv",
+  "silben": "täg-lich",
+  "beispielsatz": "Ich putze mir täglich die Zähne.",
+  "begriffserklaerung": "Etwas, das jeden Tag passiert oder gemacht wird, nennt man täglich.",
+  "rechtschreibstrategie": "Denk an das Wort „Tag\" – daraus wird „täglich\". Das ä kommt von „Tag\" → „Tage\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag"
+  ],
+  "bild_datei": "täglich.webp",
+  "audio_datei": "täglich.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "daily"
+    },
+    {
+      "language_code": "fr",
+      "translation": "quotidien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "günlük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يومي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tagsüber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "jeden Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wöchentlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "monatlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "jährlich"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "täglich",
+    "komparativ": "täglicher",
+    "superlativ": "am täglichsten"
+  },
+  "fehlschreibungen": [
+    "täglich",
+    "taeglich",
+    "täglig",
+    "teglig",
+    "täklich",
+    "tägliech"
+  ]
+}

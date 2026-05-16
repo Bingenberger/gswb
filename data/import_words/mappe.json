@@ -1,0 +1,82 @@
+{
+  "lemma": "Mappe",
+  "wortart": "Nomen",
+  "silben": "Map-pe",
+  "begriffserklaerung": "Eine Mappe ist eine flache Tasche oder ein Umschlag aus Pappe oder Plastik, in den man Blätter, Hefte oder Zeichnungen steckt, damit sie ordentlich bleiben.",
+  "beispielsatz": "Lea steckt ihre Hausaufgaben sorgfältig in die Mappe.",
+  "rechtschreibstrategie": "Das „pp\" in „Map-pe\" zeigt dir, dass das „a\" kurz gesprochen wird. Nach einem kurzen Vokal verdoppelt man den Mitlaut: Map-pe.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mappe"
+  ],
+  "bild_datei": "Mappe.webp",
+  "audio_datei": "Mappe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mappe",
+    "plural": "die Mappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mappe",
+        "genitiv": "der Mappe",
+        "dativ": "der Mappe",
+        "akkusativ": "die Mappe"
+      },
+      "plural": {
+        "nominativ": "die Mappen",
+        "genitiv": "der Mappen",
+        "dativ": "den Mappen",
+        "akkusativ": "die Mappen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "folder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dosya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِلَفّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aktenmappe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulmappe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mape",
+    "Maape",
+    "Mappen",
+    "Mabpe",
+    "Mahppe"
+  ]
+}

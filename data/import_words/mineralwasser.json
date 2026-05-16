@@ -1,0 +1,84 @@
+{
+  "lemma": "Mineralwasser",
+  "wortart": "Nomen",
+  "silben": "Mi-ne-ral-was-ser",
+  "begriffserklaerung": "Mineralwasser ist ein natürliches Wasser, das aus der Erde kommt und viele gesunde Mineralstoffe enthält. Man kann es mit oder ohne Kohlensäure kaufen.",
+  "beispielsatz": "Nach dem Sport trinkt Lena am liebsten ein Glas kaltes Mineralwasser.",
+  "rechtschreibstrategie": "Mineralwasser ist ein zusammengesetztes Wort aus „Mineral\" und „Wasser\". Denk daran: Am Ende steht „Wasser\" mit Doppel-s!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mineral",
+    "Wasser"
+  ],
+  "bild_datei": "Mineralwasser.webp",
+  "audio_datei": "Mineralwasser.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mineralwasser",
+    "plural": "die Mineralwässer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mineralwasser",
+        "genitiv": "des Mineralwassers",
+        "dativ": "dem Mineralwasser",
+        "akkusativ": "das Mineralwasser"
+      },
+      "plural": {
+        "nominativ": "die Mineralwässer",
+        "genitiv": "der Mineralwässer",
+        "dativ": "den Mineralwässern",
+        "akkusativ": "die Mineralwässer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mineral water"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eau minérale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maden suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ماء معدني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mineral"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leitungswasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sprudelwasser"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mineralwaser",
+    "Minerallwasser",
+    "Minaralwasser",
+    "Mineralvassar",
+    "Minerawasser"
+  ]
+}

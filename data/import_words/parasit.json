@@ -1,0 +1,78 @@
+{
+  "lemma": "Parasit",
+  "wortart": "Nomen",
+  "silben": "Pa-ra-sit",
+  "begriffserklaerung": "Ein Parasit ist ein Lebewesen, das in oder auf einem anderen Lebewesen lebt und sich von ihm ernährt, ohne ihm dabei zu helfen – es schadet seinem Wirt sogar.",
+  "beispielsatz": "Der Floh ist ein Parasit, der auf der Haut von Hunden und Katzen lebt.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Griechischen. Denk daran: Para-sit – sprich alle drei Silben deutlich: Pa – ra – sit. Am Ende steht ein einfaches „t\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Parasit"
+  ],
+  "bild_datei": "Parasit.webp",
+  "audio_datei": "Parasit.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Parasit",
+    "plural": "die Parasiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Parasit",
+        "genitiv": "des Parasiten",
+        "dativ": "dem Parasiten",
+        "akkusativ": "den Parasiten"
+      },
+      "plural": {
+        "nominativ": "die Parasiten",
+        "genitiv": "der Parasiten",
+        "dativ": "den Parasiten",
+        "akkusativ": "die Parasiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parasite"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parasite"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parazit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طفيلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "parasitär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmarotzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wirt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmarotzer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Parrasit",
+    "Parasitt",
+    "Parassit",
+    "Parasied",
+    "Parazit"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Parfum",
+  "wortart": "Nomen",
+  "silben": "Par-fum",
+  "begriffserklaerung": "Ein Parfum ist eine duftende Flüssigkeit, die man sich auf die Haut oder die Kleidung sprüht, damit man angenehm riecht.",
+  "beispielsatz": "Meine Mama sprüht sich jeden Morgen ein bisschen Parfum auf die Handgelenke.",
+  "rechtschreibstrategie": "Das Wort „Parfum\" kommt aus dem Französischen und wird so geschrieben, wie man es im Deutschen kaum erwartet – kein „f\" am Ende, kein „ü\". Merke es dir einfach: Par-fum!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "parfum"
+  ],
+  "bild_datei": "Parfum.webp",
+  "audio_datei": "Parfum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "perfume"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parfum"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parfüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "parfümieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Parfümerie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Duft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Duftflasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Parfum",
+    "plural": "die Parfums",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Parfum",
+        "genitiv": "des Parfums",
+        "dativ": "dem Parfum",
+        "akkusativ": "das Parfum"
+      },
+      "plural": {
+        "nominativ": "die Parfums",
+        "genitiv": "der Parfums",
+        "dativ": "den Parfums",
+        "akkusativ": "die Parfums"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Parfüm",
+    "Parfuhm",
+    "Parfuum",
+    "Parfumm",
+    "Parffum",
+    "Parfoom"
+  ]
+}

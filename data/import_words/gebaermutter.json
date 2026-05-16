@@ -1,0 +1,80 @@
+{
+  "lemma": "Gebärmutter",
+  "wortart": "Nomen",
+  "silben": "Ge-bär-mut-ter",
+  "begriffserklaerung": "Die Gebärmutter ist ein Organ im Bauch einer Frau. Dort wächst ein Baby heran, bevor es geboren wird.",
+  "beispielsatz": "In der Gebärmutter wächst ein Baby neun Monate lang, bevor es auf die Welt kommt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „gebär-\" (von „gebären\") und „Mutter\". Sprich beide Teile deutlich: Ge-bär-mut-ter.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "gebären",
+    "Mutter"
+  ],
+  "bild_datei": "Gebärmutter.webp",
+  "audio_datei": "Gebärmutter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "uterus / womb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "utérus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rahim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رَحِم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebären"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwangerschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gebärmutter",
+    "plural": "die Gebärmütter",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gebärmutter",
+        "genitiv": "der Gebärmutter",
+        "dativ": "der Gebärmutter",
+        "akkusativ": "die Gebärmutter"
+      },
+      "plural": {
+        "nominativ": "die Gebärmütter",
+        "genitiv": "der Gebärmütter",
+        "dativ": "den Gebärmüttern",
+        "akkusativ": "die Gebärmütter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebährmutter",
+    "Gebärmuter",
+    "Gebermutter",
+    "Gebärmutther",
+    "Gebärmutta"
+  ]
+}

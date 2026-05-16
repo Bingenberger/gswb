@@ -1,0 +1,82 @@
+{
+  "lemma": "Helm",
+  "wortart": "Nomen",
+  "silben": "Helm",
+  "begriffserklaerung": "Ein Helm ist eine harte Schutzhaube, die man auf dem Kopf trägt, damit er nicht verletzt wird.",
+  "beispielsatz": "Bevor Tim mit dem Fahrrad losfährt, setzt er sich seinen Helm auf.",
+  "rechtschreibstrategie": "„Helm\" hat nur eine Silbe. Sprich das Wort laut: Du hörst am Ende ein „m\". Schreib es genau so, wie du es hörst: H-e-l-m.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Helm",
+    "plural": "die Helme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Helm",
+        "genitiv": "des Helmes",
+        "dativ": "dem Helm",
+        "akkusativ": "den Helm"
+      },
+      "plural": {
+        "nominativ": "die Helme",
+        "genitiv": "der Helme",
+        "dativ": "den Helmen",
+        "akkusativ": "die Helme"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Helm"
+  ],
+  "fehlschreibungen": [
+    "Helpm",
+    "Hellm",
+    "Healm",
+    "Hälm",
+    "Helme"
+  ],
+  "bild_datei": "Helm.webp",
+  "audio_datei": "Helm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "helmet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kask"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خوذة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Helmpflicht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Helmträger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutzausrüstung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutzhelm"
+    }
+  ]
+}

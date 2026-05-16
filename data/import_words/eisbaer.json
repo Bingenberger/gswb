@@ -1,0 +1,85 @@
+{
+  "lemma": "Eisbär",
+  "wortart": "Nomen",
+  "silben": "Eis-bär",
+  "begriffserklaerung": "Ein Eisbär ist ein sehr großes, weißes Tier, das in der Arktis lebt. Er ist ein ausgezeichneter Schwimmer und frisst am liebsten Fische und Robben.",
+  "beispielsatz": "Der Eisbär schwimmt im kalten Wasser der Arktis.",
+  "rechtschreibstrategie": "„Eisbär\" ist aus zwei Wörtern zusammengesetzt: „Eis\" und „Bär\". Denk beim Schreiben an beide Teile – und das ä in „Bär\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Bär",
+    "Eis"
+  ],
+  "bild_datei": "Eisbär.webp",
+  "audio_datei": "Eisbär.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eisbär",
+    "plural": "die Eisbären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eisbär",
+        "genitiv": "des Eisbären",
+        "dativ": "dem Eisbären",
+        "akkusativ": "den Eisbären"
+      },
+      "plural": {
+        "nominativ": "die Eisbären",
+        "genitiv": "der Eisbären",
+        "dativ": "den Eisbären",
+        "akkusativ": "die Eisbären"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "polar bear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ours polaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kutup ayısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الدب القطبي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinguin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arktis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Robbe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eisbeer",
+    "Eißbär",
+    "Eisbähr",
+    "Eisbär",
+    "Eissbär",
+    "Eisbäer"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Mobiltelefon",
+  "wortart": "Nomen",
+  "silben": "Mo-bil-te-le-fon",
+  "begriffserklaerung": "Ein Mobiltelefon ist ein kleines, tragbares Telefon, das man überall mit sich tragen kann. Damit kann man telefonieren, Nachrichten schreiben und ins Internet gehen.",
+  "beispielsatz": "Mama hat ihr Mobiltelefon in die Handtasche gesteckt.",
+  "rechtschreibstrategie": "Das Wort „Mobiltelefon\" ist ein Bausteinwort: Es stecken zwei Teile drin – „Mobil\" und „Telefon\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Telefon",
+    "mobil"
+  ],
+  "bild_datei": "Mobiltelefon.webp",
+  "audio_datei": "Mobiltelefon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mobile phone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "téléphone portable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cep telefonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هاتف محمول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handy"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Smartphone"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mobiltelefon",
+    "plural": "die Mobiltelefone",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mobiltelefon",
+        "genitiv": "des Mobiltelefons",
+        "dativ": "dem Mobiltelefon",
+        "akkusativ": "das Mobiltelefon"
+      },
+      "plural": {
+        "nominativ": "die Mobiltelefone",
+        "genitiv": "der Mobiltelefone",
+        "dativ": "den Mobiltelefonen",
+        "akkusativ": "die Mobiltelefone"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mobiltelephon",
+    "Mobiletelefon",
+    "Mobilltelefon",
+    "Mobilteelefon",
+    "Mobiltefon",
+    "Mopiltelefon"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Verkäufer",
+  "wortart": "Nomen",
+  "silben": "Ver-käu-fer",
+  "begriffserklaerung": "Ein Verkäufer ist eine Person, die in einem Geschäft oder Markt Waren an Kunden verkauft und ihnen hilft, das Richtige zu finden.",
+  "beispielsatz": "Der freundliche Verkäufer zeigt mir, wo die Äpfel liegen.",
+  "rechtschreibstrategie": "Denk an das Verb „verkaufen\" – daraus entsteht „Verkäufer\". Das „äu\" kommt vom „au\" in „kaufen\". Schreib es groß, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "verkauf"
+  ],
+  "bild_datei": "Verkäufer.webp",
+  "audio_datei": "Verkäufer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkäufer",
+    "plural": "die Verkäufer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkäufer",
+        "genitiv": "des Verkäufers",
+        "dativ": "dem Verkäufer",
+        "akkusativ": "den Verkäufer"
+      },
+      "plural": {
+        "nominativ": "die Verkäufer",
+        "genitiv": "der Verkäufer",
+        "dativ": "den Verkäufern",
+        "akkusativ": "die Verkäufer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salesperson / shop assistant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vendeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بائع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkäuferin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Händler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferkäufer",
+    "Verkeufer",
+    "Verkäuffer",
+    "Verkaufer",
+    "Verkäuver"
+  ]
+}

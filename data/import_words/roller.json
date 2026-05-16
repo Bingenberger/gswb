@@ -1,0 +1,82 @@
+{
+  "lemma": "Roller",
+  "wortart": "Nomen",
+  "silben": "Rol-ler",
+  "begriffserklaerung": "Ein Roller ist ein Fahrzeug mit zwei Rädern und einem Brett zum Draufstehen. Man schiebt sich mit einem Fuß ab und rollt damit vorwärts.",
+  "beispielsatz": "Mia fährt mit ihrem neuen Roller den Weg entlang.",
+  "rechtschreibstrategie": "Das Wort „Roller\" hat zwei l, weil das o kurz gesprochen wird. Hör genau hin: Rol-ler!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll"
+  ],
+  "bild_datei": "Roller.webp",
+  "audio_datei": "Roller.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scooter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trottinette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "scooter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكوتر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rolle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Skateboard"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tretroller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Roller",
+    "plural": "die Roller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Roller",
+        "genitiv": "des Rollers",
+        "dativ": "dem Roller",
+        "akkusativ": "den Roller"
+      },
+      "plural": {
+        "nominativ": "die Roller",
+        "genitiv": "der Roller",
+        "dativ": "den Rollern",
+        "akkusativ": "die Roller"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Roler",
+    "Rollr",
+    "Rroller",
+    "Rola",
+    "Rollar"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Taube",
+  "wortart": "Nomen",
+  "silben": "Tau-be",
+  "begriffserklaerung": "Eine Taube ist ein Vogel mit runden Körper, kleinem Kopf und kurzen Beinen. Tauben leben in Städten und auf dem Land und gurren.",
+  "beispielsatz": "Die Taube sitzt auf dem Dach und pickt Brotkrumen auf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Tau-be\". Du hörst das lange „au\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Taub"
+  ],
+  "bild_datei": "Taube.webp",
+  "audio_datei": "Taube.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pigeon / dove"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pigeon / colombe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güvercin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taubenhaus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taubenschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Amsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Friedenstaube"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Taube",
+    "plural": "die Tauben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Taube",
+        "genitiv": "der Taube",
+        "dativ": "der Taube",
+        "akkusativ": "die Taube"
+      },
+      "plural": {
+        "nominativ": "die Tauben",
+        "genitiv": "der Tauben",
+        "dativ": "den Tauben",
+        "akkusativ": "die Tauben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Daube",
+    "Tobe",
+    "Taub",
+    "Tauppe",
+    "Tawbe"
+  ]
+}

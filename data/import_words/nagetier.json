@@ -1,0 +1,84 @@
+{
+  "lemma": "Nagetier",
+  "wortart": "Nomen",
+  "silben": "Na-ge-tier",
+  "begriffserklaerung": "Ein Nagetier ist ein Tier mit langen, scharfen Schneidezähnen, mit denen es Dinge annagt. Bekannte Nagetiere sind zum Beispiel Maus, Eichhörnchen und Hamster.",
+  "beispielsatz": "Das Nagetier knabbert eifrig an einer Nuss.",
+  "rechtschreibstrategie": "Das Wort „Nagetier\" ist ein zusammengesetztes Wort aus „nagen\" und „Tier\". Schreibe beide Teile einfach zusammen: Nage + Tier = Nagetier.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "nagen",
+    "Tier"
+  ],
+  "bild_datei": "Nagetier.webp",
+  "audio_datei": "Nagetier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rodent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rongeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kemirgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichhörnchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nagetier",
+    "plural": "die Nagetiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nagetier",
+        "genitiv": "des Nagetiers",
+        "dativ": "dem Nagetier",
+        "akkusativ": "das Nagetier"
+      },
+      "plural": {
+        "nominativ": "die Nagetiere",
+        "genitiv": "der Nagetiere",
+        "dativ": "den Nagetieren",
+        "akkusativ": "die Nagetiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nagettier",
+    "Nahgetier",
+    "Nagetiere",
+    "Naagetier",
+    "Nagetir",
+    "Nagehtier"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Tick",
+  "wortart": "Nomen",
+  "silben": "Tick",
+  "begriffserklaerung": "Ein Tick ist eine kleine Eigenheit oder Gewohnheit, die jemand immer wieder macht, ohne es zu merken. Zum Beispiel, wenn jemand ständig an den Haaren zupft oder die Nase rümpft.",
+  "beispielsatz": "Es ist ein Tick von mir, beim Denken immer mit dem Fuß zu wippen.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ck\" – das ist das Kürzezeichen: Ti-ck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tick"
+  ],
+  "bild_datei": "Tick.webp",
+  "audio_datei": "Tick.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tic / quirk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tic"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عادة غريبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ticken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ticken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eigenheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Marotte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewohnheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eigenart"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tick",
+    "plural": "die Ticks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tick",
+        "genitiv": "des Ticks",
+        "dativ": "dem Tick",
+        "akkusativ": "den Tick"
+      },
+      "plural": {
+        "nominativ": "die Ticks",
+        "genitiv": "der Ticks",
+        "dativ": "den Ticks",
+        "akkusativ": "die Ticks"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tik",
+    "Tic",
+    "Tikk",
+    "Tihck",
+    "Tick's"
+  ]
+}

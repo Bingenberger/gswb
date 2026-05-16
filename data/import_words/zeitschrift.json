@@ -1,0 +1,87 @@
+{
+  "lemma": "Zeitschrift",
+  "wortart": "Nomen",
+  "silben": "Zeit-schrift",
+  "begriffserklaerung": "Eine Zeitschrift ist ein Heft mit vielen Artikeln und Bildern, das regelmäßig erscheint, zum Beispiel jede Woche oder jeden Monat.",
+  "beispielsatz": "Ich lese jeden Monat eine bunte Zeitschrift über Tiere.",
+  "rechtschreibstrategie": "„Zeitschrift\" besteht aus zwei Teilen: „Zeit\" und „Schrift\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zeit",
+    "Schrift"
+  ],
+  "bild_datei": "Zeitschrift.webp",
+  "audio_datei": "Zeitschrift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magazine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magazine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dergi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrift"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Magazin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zeitschrift",
+    "plural": "die Zeitschriften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zeitschrift",
+        "genitiv": "der Zeitschrift",
+        "dativ": "der Zeitschrift",
+        "akkusativ": "die Zeitschrift"
+      },
+      "plural": {
+        "nominativ": "die Zeitschriften",
+        "genitiv": "der Zeitschriften",
+        "dativ": "den Zeitschriften",
+        "akkusativ": "die Zeitschriften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeischrift",
+    "Zeitschrifft",
+    "Zeitscrift",
+    "Zeidschrift",
+    "Zeitshrift"
+  ]
+}

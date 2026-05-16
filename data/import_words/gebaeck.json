@@ -1,0 +1,83 @@
+{
+  "lemma": "Gebäck",
+  "wortart": "Nomen",
+  "silben": "Ge-bäck",
+  "begriffserklaerung": "Gebäck sind kleine, süße oder herzhafte Backwaren wie Kekse, Plätzchen oder Brötchen, die im Ofen gebacken werden.",
+  "beispielsatz": "Zur Weihnachtszeit backen wir zusammen leckeres Gebäck.",
+  "rechtschreibstrategie": "Das Wort „Gebäck\" endet auf „-ck\", weil der Vokal davor kurz gesprochen wird. Sprich ihn kurz: Ge-bäck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "back"
+  ],
+  "bild_datei": "Gebäck.webp",
+  "audio_datei": "Gebäck.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebäck",
+    "plural": "die Gebäcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebäck",
+        "genitiv": "des Gebäcks",
+        "dativ": "dem Gebäck",
+        "akkusativ": "das Gebäck"
+      },
+      "plural": {
+        "nominativ": "die Gebäcke",
+        "genitiv": "der Gebäcke",
+        "dativ": "den Gebäcken",
+        "akkusativ": "die Gebäcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pastry / baked goods"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâtisserie / biscuits"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hamur işi / kurabiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معجنات / مخبوزات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plätzchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Backware"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gebäk",
+    "Gebeck",
+    "Gebaeck",
+    "Gebäkk",
+    "Gebäck"
+  ]
+}

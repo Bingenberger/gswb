@@ -1,0 +1,85 @@
+{
+  "lemma": "Gebärdensprache",
+  "wortart": "Nomen",
+  "silben": "Ge-bär-den-spra-che",
+  "begriffserklaerung": "Die Gebärdensprache ist eine Sprache, bei der man mit den Händen, dem Gesicht und dem Körper kommuniziert – ohne Worte zu sprechen. Menschen, die nicht hören können, benutzen sie oft.",
+  "beispielsatz": "Lisa lernt Gebärdensprache, damit sie sich mit ihrer tauben Freundin unterhalten kann.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Gebärden\" + „Sprache\". Sprich es laut in Silben: Ge-bär-den-spra-che. Das ä in „Gebärden\" klingt wie ein langes ä.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "gebärden",
+    "Sprache"
+  ],
+  "bild_datei": "Gebärdensprache.webp",
+  "audio_datei": "Gebärdensprache.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sign language"
+    },
+    {
+      "language_code": "fr",
+      "translation": "langue des signes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işaret dili"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لغة الإشارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebärden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichensprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kommunikation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taubheit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gebärdensprache",
+    "plural": "die Gebärdensprachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gebärdensprache",
+        "genitiv": "der Gebärdensprache",
+        "dativ": "der Gebärdensprache",
+        "akkusativ": "die Gebärdensprache"
+      },
+      "plural": {
+        "nominativ": "die Gebärdensprachen",
+        "genitiv": "der Gebärdensprachen",
+        "dativ": "den Gebärdensprachen",
+        "akkusativ": "die Gebärdensprachen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebährdensprache",
+    "Gebärdenspache",
+    "Gebärdensprach",
+    "Geberdensprache",
+    "Gebärtensprache",
+    "Gebährtensprache"
+  ]
+}

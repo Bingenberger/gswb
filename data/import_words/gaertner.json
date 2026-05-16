@@ -1,0 +1,82 @@
+{
+  "lemma": "Gärtner",
+  "wortart": "Nomen",
+  "silben": "Gärt-ner",
+  "begriffserklaerung": "Ein Gärtner ist ein Mensch, der Pflanzen, Blumen, Gemüse und Bäume pflegt und anbaut – zum Beispiel in einem Garten oder in einem Gewächshaus.",
+  "beispielsatz": "Der Gärtner pflanzt heute bunte Blumen in den Park.",
+  "rechtschreibstrategie": "Denk an das Wort „Garten\": Aus „Garten\" wird „Gärtner\" – das ä kommt vom a in Garten. Sprich beide Silben deutlich mit: Gärt – ner.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Garten"
+  ],
+  "bild_datei": "Gärtner.webp",
+  "audio_datei": "Gärtner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gärtner",
+    "plural": "die Gärtner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gärtner",
+        "genitiv": "des Gärtners",
+        "dativ": "dem Gärtner",
+        "akkusativ": "den Gärtner"
+      },
+      "plural": {
+        "nominativ": "die Gärtner",
+        "genitiv": "der Gärtner",
+        "dativ": "den Gärtnern",
+        "akkusativ": "die Gärtner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gardener"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jardinier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bahçıvan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بستاني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gärtnerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gartenpfleger"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gertner",
+    "Gärdner",
+    "Gärtener",
+    "Gertener",
+    "Gärtnar"
+  ]
+}

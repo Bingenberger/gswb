@@ -1,0 +1,82 @@
+{
+  "lemma": "Landschaft",
+  "wortart": "Nomen",
+  "silben": "Land-schaft",
+  "begriffserklaerung": "Eine Landschaft ist ein großes Stück Natur, das man sehen kann, zum Beispiel Wiesen, Wälder, Berge oder Felder.",
+  "beispielsatz": "Vom Hügel aus haben wir eine wunderschöne Landschaft gesehen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Land\" und „schaft\". Sprich beide Teile laut: LAND – SCHAFT!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Land"
+  ],
+  "bild_datei": "Landschaft.webp",
+  "audio_datei": "Landschaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "landscape"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paysage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "manzara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منظر طبيعي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ländlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegend"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Landschaft",
+    "plural": "die Landschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Landschaft",
+        "genitiv": "der Landschaft",
+        "dativ": "der Landschaft",
+        "akkusativ": "die Landschaft"
+      },
+      "plural": {
+        "nominativ": "die Landschaften",
+        "genitiv": "der Landschaften",
+        "dativ": "den Landschaften",
+        "akkusativ": "die Landschaften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lantschaft",
+    "Landshaft",
+    "Landschafft",
+    "Landchaft",
+    "Lantchaft"
+  ]
+}

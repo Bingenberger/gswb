@@ -1,0 +1,83 @@
+{
+  "lemma": "Chemie",
+  "wortart": "Nomen",
+  "silben": "Che-mie",
+  "begriffserklaerung": "Chemie ist eine Wissenschaft, die erforscht, woraus alle Dinge bestehen und wie Stoffe sich verändern können.",
+  "beispielsatz": "Im Unterricht lernen wir in Chemie, warum Wasser aus Wasserstoff und Sauerstoff besteht.",
+  "rechtschreibstrategie": "Das Wort „Chemie\" fängt mit „Ch\" an – das klingt wie ein „K\". Merke dir: Ch-e-m-i-e – am Ende steht ein langes „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "chem"
+  ],
+  "bild_datei": "Chemie.webp",
+  "audio_datei": "Chemie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Chemie",
+    "plural": "-",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Chemie",
+        "genitiv": "der Chemie",
+        "dativ": "der Chemie",
+        "akkusativ": "die Chemie"
+      },
+      "plural": {
+        "nominativ": "-",
+        "genitiv": "-",
+        "dativ": "-",
+        "akkusativ": "-"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chemistry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chimie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kimya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كيمياء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "chemisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chemiker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Physik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kemie",
+    "Kchemie",
+    "Chemi",
+    "Chemmi",
+    "Chemye"
+  ]
+}

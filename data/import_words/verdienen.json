@@ -1,0 +1,91 @@
+{
+  "lemma": "verdienen",
+  "wortart": "Verb",
+  "silben": "ver-die-nen",
+  "begriffserklaerung": "Wenn du für deine Arbeit Geld bekommst, verdienst du es. Man kann sich Geld auch durch Fleiß oder Hilfe verdienen.",
+  "beispielsatz": "Papa verdient Geld, indem er jeden Tag zur Arbeit geht.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ver-die-nen. In der zweiten Silbe hörst du ein langes „i\" – das schreibt man hier als „ie\". Denk daran: „verdienen\" gehört zur Wortfamilie von „Dienst\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "dien"
+  ],
+  "bild_datei": "verdienen.webp",
+  "audio_datei": "verdienen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to earn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gagner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verdienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "arbeiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lohn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erarbeiten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verdienen",
+    "praesens": {
+      "ich": "verdiene",
+      "du": "verdienst",
+      "er_sie_es": "verdient",
+      "wir": "verdienen",
+      "ihr": "verdient",
+      "sie": "verdienen"
+    },
+    "perfekt": {
+      "ich": "habe verdient",
+      "du": "hast verdient",
+      "er_sie_es": "hat verdient",
+      "wir": "haben verdient",
+      "ihr": "habt verdient",
+      "sie": "haben verdient"
+    },
+    "praeteritum": {
+      "ich": "verdiente",
+      "du": "verdientest",
+      "er_sie_es": "verdiente",
+      "wir": "verdienten",
+      "ihr": "verdientet",
+      "sie": "verdienten"
+    }
+  },
+  "fehlschreibungen": [
+    "ferdiehnen",
+    "verdihnen",
+    "verdiehnen",
+    "verdinen",
+    "ferdienen",
+    "verdinnen"
+  ]
+}

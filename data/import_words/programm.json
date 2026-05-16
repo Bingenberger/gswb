@@ -1,0 +1,84 @@
+{
+  "lemma": "Programm",
+  "wortart": "Nomen",
+  "silben": "Pro-gramm",
+  "begriffserklaerung": "Ein Programm ist ein Plan oder eine Abfolge von Aufgaben, die nacheinander ablaufen – zum Beispiel im Fernsehen, im Zirkus oder auf einem Computer.",
+  "beispielsatz": "Das Programm im Zirkus hat mir sehr gut gefallen!",
+  "rechtschreibstrategie": "Am Ende steht ein doppeltes m – sprich es laut: Pro-gramm. Das doppelte m gehört fest zum Wort, merke es dir!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Programm"
+  ],
+  "bild_datei": "Programm.webp",
+  "audio_datei": "Programm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "programme / program"
+    },
+    {
+      "language_code": "fr",
+      "translation": "programme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "program"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برنامج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "programmieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Programmierer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Programm",
+    "plural": "die Programme",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Programm",
+        "genitiv": "des Programms",
+        "dativ": "dem Programm",
+        "akkusativ": "das Programm"
+      },
+      "plural": {
+        "nominativ": "die Programme",
+        "genitiv": "der Programme",
+        "dativ": "den Programmen",
+        "akkusativ": "die Programme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Programm",
+    "Progamm",
+    "Programn",
+    "Program",
+    "Prohgramm",
+    "Prgramm"
+  ]
+}

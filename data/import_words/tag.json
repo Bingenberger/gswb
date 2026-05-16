@@ -1,0 +1,81 @@
+{
+  "lemma": "Tag",
+  "wortart": "Nomen",
+  "silben": "Tag",
+  "begriffserklaerung": "Ein Tag ist die Zeit von Mitternacht bis Mitternacht – also 24 Stunden. Man sagt auch „Tag\", wenn man nur die helle Zeit meint, wenn die Sonne scheint.",
+  "beispielsatz": "An meinem Geburtstag ist der schönste Tag im Jahr!",
+  "rechtschreibstrategie": "Verlängere das Wort: „Tag\" → „Tage\". Am Ende hörst du das G deutlich – deshalb schreibt man „Tag\" mit G und nicht mit K.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag"
+  ],
+  "bild_datei": "Tag.webp",
+  "audio_datei": "Tag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "day"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "täglich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tagebuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werktag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tag",
+    "plural": "die Tage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tag",
+        "genitiv": "des Tages",
+        "dativ": "dem Tag",
+        "akkusativ": "den Tag"
+      },
+      "plural": {
+        "nominativ": "die Tage",
+        "genitiv": "der Tage",
+        "dativ": "den Tagen",
+        "akkusativ": "die Tage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tak",
+    "Tack",
+    "Dag",
+    "Taag"
+  ]
+}

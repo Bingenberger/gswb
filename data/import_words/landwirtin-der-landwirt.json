@@ -1,0 +1,84 @@
+{
+  "lemma": "Landwirtin / der Landwirt",
+  "wortart": "Nomen",
+  "silben": "Land-wir-tin / der Land-wirt",
+  "begriffserklaerung": "Ein Landwirt oder eine Landwirtin arbeitet auf einem Bauernhof. Sie bauen Obst, Gemüse und Getreide an und kümmern sich um Tiere wie Kühe, Schweine und Hühner.",
+  "beispielsatz": "Die Landwirtin fährt früh morgens mit dem Traktor auf das Feld.",
+  "rechtschreibstrategie": "Das Wort „Landwirt\" steckt in „Landwirtin\". Es ist aus zwei Bausteinen zusammengesetzt: „Land\" und „Wirt\". Sprich beide Teile deutlich: LAND + WIRT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Land",
+    "Wirt"
+  ],
+  "bild_datei": "Landwirtin / der Landwirt.webp",
+  "audio_datei": "Landwirtin / der Landwirt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agriculteur / agricultrice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزارع / مزارعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Landwirtschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die / der",
+    "singular": "die Landwirtin / der Landwirt",
+    "plural": "die Landwirtinnen / die Landwirte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Landwirtin / der Landwirt",
+        "genitiv": "der Landwirtin / des Landwirts",
+        "dativ": "der Landwirtin / dem Landwirt",
+        "akkusativ": "die Landwirtin / den Landwirt"
+      },
+      "plural": {
+        "nominativ": "die Landwirtinnen / die Landwirte",
+        "genitiv": "der Landwirtinnen / der Landwirte",
+        "dativ": "den Landwirtinnen / den Landwirten",
+        "akkusativ": "die Landwirtinnen / die Landwirte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lantwirt",
+    "Landwird",
+    "Lantwirtin",
+    "Landwirdin",
+    "Landwirtt",
+    "Landwirtin"
+  ]
+}

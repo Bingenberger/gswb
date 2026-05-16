@@ -1,0 +1,72 @@
+{
+  "lemma": "August",
+  "wortart": "Nomen",
+  "silben": "Au-gust",
+  "begriffserklaerung": "Der August ist der achte Monat im Jahr. Er gehört zum Sommer und hat 31 Tage.",
+  "beispielsatz": "Im August fahren wir in den Urlaub ans Meer.",
+  "rechtschreibstrategie": "Denk an den langen Au-Laut am Anfang: Au-gust. Schreib das Wort genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "August.webp",
+  "audio_datei": "August.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "August"
+    },
+    {
+      "language_code": "fr",
+      "translation": "août"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Ağustos"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أغسطس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Juli"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "September"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der August",
+    "plural": "die Auguste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der August",
+        "genitiv": "des Augusts",
+        "dativ": "dem August",
+        "akkusativ": "den August"
+      },
+      "plural": {
+        "nominativ": "die Auguste",
+        "genitiv": "der Auguste",
+        "dativ": "den Augusten",
+        "akkusativ": "die Auguste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Augost",
+    "Agust",
+    "Augusst",
+    "Augut",
+    "Ougust"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Farn",
+  "wortart": "Nomen",
+  "silben": "Farn",
+  "begriffserklaerung": "Ein Farn ist eine grüne Pflanze mit gefiederten Blättern. Er wächst oft im Wald und an schattigen, feuchten Stellen. Farne haben keine Blüten.",
+  "beispielsatz": "Im Wald haben wir viele grüne Farne entdeckt.",
+  "rechtschreibstrategie": "Das Wort „Farn\" endet auf -rn. Sprich es laut mit: F – a – r – n. Schreib es so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Farn"
+  ],
+  "bild_datei": "Farn.webp",
+  "audio_datei": "Farn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fern"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fougère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğreltiotu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرخس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Farnkraut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Moos"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Farn",
+    "plural": "die Farne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Farn",
+        "genitiv": "des Farns",
+        "dativ": "dem Farn",
+        "akkusativ": "den Farn"
+      },
+      "plural": {
+        "nominativ": "die Farne",
+        "genitiv": "der Farne",
+        "dativ": "den Farnen",
+        "akkusativ": "die Farne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Farm",
+    "Fahn",
+    "Varn",
+    "Fahrn",
+    "Faren"
+  ]
+}

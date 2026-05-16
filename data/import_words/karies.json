@@ -1,0 +1,73 @@
+{
+  "lemma": "Karies",
+  "wortart": "Nomen",
+  "silben": "Ka-ri-es",
+  "begriffserklaerung": "Karies ist eine Zahnkrankheit, bei der Bakterien im Mund den Zahn angreifen und ein Loch entstehen lassen.",
+  "beispielsatz": "Der Zahnarzt sagte, dass Tim Karies hat und sein Zahn behandelt werden muss.",
+  "rechtschreibstrategie": "Das Wort „Karies\" klingt genau so, wie man es schreibt: Ka-ri-es. Sprich alle drei Silben deutlich nach!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Karies.webp",
+  "audio_datei": "Karies.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tooth decay"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carie dentaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diş çürüğü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسوس الأسنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnarzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Karies",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Karies",
+        "genitiv": "der Karies",
+        "dativ": "der Karies",
+        "akkusativ": "die Karies"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Karries",
+    "Karies",
+    "Kariess",
+    "Caries",
+    "Kariez",
+    "Karyes"
+  ]
+}

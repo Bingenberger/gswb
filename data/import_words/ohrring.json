@@ -1,0 +1,85 @@
+{
+  "lemma": "Ohrring",
+  "wortart": "Nomen",
+  "silben": "Ohr-ring",
+  "begriffserklaerung": "Ein Ohrring ist ein kleines Schmuckstück, das man am Ohr trägt.",
+  "beispielsatz": "Meine Oma schenkte mir zum Geburtstag einen goldenen Ohrring.",
+  "rechtschreibstrategie": "Das Wort „Ohrring\" besteht aus zwei Teilen: „Ohr\" und „Ring\". Weil „Ohr\" auf r endet und „Ring\" mit R beginnt, schreibst du in der Mitte doppeltes r: Ohr-ring.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Ohr",
+    "Ring"
+  ],
+  "bild_datei": "Ohrring.webp",
+  "audio_datei": "Ohrring.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ohrring",
+    "plural": "die Ohrringe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ohrring",
+        "genitiv": "des Ohrrings",
+        "dativ": "dem Ohrring",
+        "akkusativ": "den Ohrring"
+      },
+      "plural": {
+        "nominativ": "die Ohrringe",
+        "genitiv": "der Ohrringe",
+        "dativ": "den Ohrringen",
+        "akkusativ": "die Ohrringe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "earring"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boucle d'oreille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küpe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلق أذن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ring"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halskette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armband"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ohrring",
+    "Orring",
+    "Ohring",
+    "Ohrringg",
+    "Ohrrig"
+  ]
+}

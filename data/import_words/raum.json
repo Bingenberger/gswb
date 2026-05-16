@@ -1,0 +1,90 @@
+{
+  "lemma": "Raum",
+  "wortart": "Nomen",
+  "silben": "Raum",
+  "begriffserklaerung": "Ein Raum ist ein abgegrenzter Platz in einem Gebäude, zum Beispiel ein Zimmer. Ein Raum kann auch ein großes Gebiet sein, wie das Weltall.",
+  "beispielsatz": "In unserem Schulgebäude gibt es viele Räume, zum Beispiel Klassenzimmer und die Turnhalle.",
+  "rechtschreibstrategie": "Das Wort „Raum\" hat einen langen „au\"-Laut. Schreibe einfach au – kein h und kein Dehnungs-i dahinter!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Raum"
+  ],
+  "bild_datei": "Raum.webp",
+  "audio_datei": "Raum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "room / space"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pièce / espace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oda / uzay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة / فضاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "räumen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raumschiff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geräumig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weltall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Raum",
+    "plural": "die Räume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Raum",
+        "genitiv": "des Raumes",
+        "dativ": "dem Raum",
+        "akkusativ": "den Raum"
+      },
+      "plural": {
+        "nominativ": "die Räume",
+        "genitiv": "der Räume",
+        "dativ": "den Räumen",
+        "akkusativ": "die Räume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rauhm",
+    "Raume",
+    "Ram",
+    "Rauum",
+    "Rohm"
+  ]
+}

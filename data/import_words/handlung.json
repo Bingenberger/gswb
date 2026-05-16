@@ -1,0 +1,89 @@
+{
+  "lemma": "Handlung",
+  "wortart": "Nomen",
+  "silben": "Hand-lung",
+  "begriffserklaerung": "Eine Handlung ist das, was jemand tut oder macht – zum Beispiel in einer Geschichte oder im echten Leben.",
+  "beispielsatz": "Die Handlung des Buches spielt in einem großen Wald.",
+  "rechtschreibstrategie": "Denke an das Wort „Hand\" – das steckt in „Handlung\" drin. Sprich das Wort in Silben: Hand-lung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "handeln",
+    "Hand"
+  ],
+  "bild_datei": "Handlung.webp",
+  "audio_datei": "Handlung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Handlung",
+    "plural": "die Handlungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Handlung",
+        "genitiv": "der Handlung",
+        "dativ": "der Handlung",
+        "akkusativ": "die Handlung"
+      },
+      "plural": {
+        "nominativ": "die Handlungen",
+        "genitiv": "der Handlungen",
+        "dativ": "den Handlungen",
+        "akkusativ": "die Handlungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "action / plot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "action / intrigue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eylem / olay örgüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حدث / حبكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "handeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Händler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ereignis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Handlund",
+    "Handlunk",
+    "Hantlung",
+    "Handlung",
+    "Handlunng",
+    "Hanllung"
+  ]
+}

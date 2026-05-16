@@ -1,0 +1,78 @@
+{
+  "lemma": "Plakat",
+  "wortart": "Nomen",
+  "silben": "Pla-kat",
+  "begriffserklaerung": "Ein Plakat ist ein großes Bild oder ein großer Zettel mit Text, der an eine Wand gehängt oder aufgestellt wird, damit viele Menschen ihn sehen können.",
+  "beispielsatz": "In der Schule haben wir ein buntes Plakat über Tiere gemalt.",
+  "rechtschreibstrategie": "Das Wort „Plakat\" schreibt man mit k – sprich es laut: Pla-KAT. Am Ende hörst du ein helles „t\", aber kein „d\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Plakat"
+  ],
+  "bild_datei": "Plakat.webp",
+  "audio_datei": "Plakat.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Plakat",
+    "plural": "die Plakate",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Plakat",
+        "genitiv": "des Plakats",
+        "dativ": "dem Plakat",
+        "akkusativ": "das Plakat"
+      },
+      "plural": {
+        "nominativ": "die Plakate",
+        "genitiv": "der Plakate",
+        "dativ": "den Plakaten",
+        "akkusativ": "die Plakate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "poster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "affiche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "afiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملصق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "plakatieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Poster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aushang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aushang"
+    }
+  ],
+  "fehlschreibungen": [
+    "Placat",
+    "Plackat",
+    "Plakett",
+    "Plakkat",
+    "Plagat"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Geruch",
+  "wortart": "Nomen",
+  "silben": "Ge-ruch",
+  "begriffserklaerung": "Ein Geruch ist das, was du mit deiner Nase wahrnimmst – zum Beispiel der Duft von Blumen oder der Gestank von altem Müll.",
+  "beispielsatz": "Der Geruch von frisch gebackenem Kuchen zieht durch die ganze Wohnung.",
+  "rechtschreibstrategie": "Denke an das Wort „riechen\" – beide Wörter gehören zur gleichen Wortfamilie. Das hilft dir, das „ch\" am Ende richtig zu schreiben.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "riech"
+  ],
+  "bild_datei": "Geruch.webp",
+  "audio_datei": "Geruch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smell"
+    },
+    {
+      "language_code": "fr",
+      "translation": "odeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رائحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "riechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gerüche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Duft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gestank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sinne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Duft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geruch",
+    "plural": "die Gerüche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geruch",
+        "genitiv": "des Geruchs",
+        "dativ": "dem Geruch",
+        "akkusativ": "den Geruch"
+      },
+      "plural": {
+        "nominativ": "die Gerüche",
+        "genitiv": "der Gerüche",
+        "dativ": "den Gerüchen",
+        "akkusativ": "die Gerüche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geruch",
+    "Gerucht",
+    "Geruchs",
+    "Geruhch",
+    "Geruhk",
+    "Geruck",
+    "Geruche"
+  ]
+}

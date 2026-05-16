@@ -1,0 +1,84 @@
+{
+  "lemma": "Industrie",
+  "wortart": "Nomen",
+  "silben": "In-dus-trie",
+  "begriffserklaerung": "Die Industrie ist der Teil der Wirtschaft, in dem viele Waren in großen Fabriken mit Maschinen hergestellt werden.",
+  "beispielsatz": "In unserer Stadt gibt es viele große Fabriken – das ist ein wichtiger Teil der Industrie.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: In-dus-trie. Am Ende hörst du „trie\" – das schreibt man mit ie, nicht mit i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "industri"
+  ],
+  "bild_datei": "Industrie.webp",
+  "audio_datei": "Industrie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Industrie",
+    "plural": "die Industrien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Industrie",
+        "genitiv": "der Industrie",
+        "dativ": "der Industrie",
+        "akkusativ": "die Industrie"
+      },
+      "plural": {
+        "nominativ": "die Industrien",
+        "genitiv": "der Industrien",
+        "dativ": "den Industrien",
+        "akkusativ": "die Industrien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "industry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "industrie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sanayi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صناعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "industriell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Industriegebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wirtschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Industri",
+    "Industrie",
+    "Inddustrie",
+    "Industrje",
+    "Industy",
+    "Endustrie",
+    "Industrrie"
+  ]
+}

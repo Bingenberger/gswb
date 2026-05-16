@@ -1,0 +1,84 @@
+{
+  "lemma": "Attraktion",
+  "wortart": "Nomen",
+  "silben": "At-trak-ti-on",
+  "begriffserklaerung": "Eine Attraktion ist etwas Besonderes, das viele Menschen anzieht und begeistert – zum Beispiel ein spannendes Fahrgeschäft oder ein berühmtes Bauwerk.",
+  "beispielsatz": "Das Riesenrad war die größte Attraktion auf dem Jahrmarkt.",
+  "rechtschreibstrategie": "Das Wort „Attraktion\" beginnt mit „At-t\" – das doppelte „t\" zeigt, dass das „a\" davor kurz gesprochen wird. Sprich alle Silben deutlich: At-trak-ti-on.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "attraktiv",
+    "Attraktion"
+  ],
+  "bild_datei": "Attraktion.webp",
+  "audio_datei": "Attraktion.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Attraktion",
+    "plural": "die Attraktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Attraktion",
+        "genitiv": "der Attraktion",
+        "dativ": "der Attraktion",
+        "akkusativ": "die Attraktion"
+      },
+      "plural": {
+        "nominativ": "die Attraktionen",
+        "genitiv": "der Attraktionen",
+        "dativ": "den Attraktionen",
+        "akkusativ": "die Attraktionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "attraction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "attraction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekim merkezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معلم جذب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "attraktiv"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Highlight"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahrmarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehenswürdigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vergnügungspark"
+    }
+  ],
+  "fehlschreibungen": [
+    "Atrakzion",
+    "Attracktion",
+    "Atraction",
+    "Attrakzion",
+    "Attraktion",
+    "Atraktion"
+  ]
+}

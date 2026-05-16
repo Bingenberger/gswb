@@ -1,0 +1,98 @@
+{
+  "lemma": "spenden",
+  "wortart": "Verb",
+  "silben": "spen-den",
+  "begriffserklaerung": "Wenn du spendest, gibst du anderen Menschen freiwillig etwas – zum Beispiel Geld, Kleidung oder Essen –, damit es ihnen besser geht.",
+  "beispielsatz": "Lisa spendet ihr Taschengeld für kranke Kinder.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: spen-den. Höre das „n\" vor dem „d\" – schreibe es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "spend"
+  ],
+  "bild_datei": "spenden.webp",
+  "audio_datei": "spenden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to donate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire un don"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bağış yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتبرع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spende"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spender"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verschenken"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "spenden",
+    "praesens": {
+      "ich": "spende",
+      "du": "spendest",
+      "er_sie_es": "spendet",
+      "wir": "spenden",
+      "ihr": "spendet",
+      "sie": "spenden"
+    },
+    "perfekt": {
+      "ich": "habe gespendet",
+      "du": "hast gespendet",
+      "er_sie_es": "hat gespendet",
+      "wir": "haben gespendet",
+      "ihr": "habt gespendet",
+      "sie": "haben gespendet"
+    },
+    "praeteritum": {
+      "ich": "spendete",
+      "du": "spendest",
+      "er_sie_es": "spendete",
+      "wir": "spendeten",
+      "ihr": "spendetet",
+      "sie": "spendeten"
+    }
+  },
+  "fehlschreibungen": [
+    "spänden",
+    "spennden",
+    "spentden",
+    "spendn",
+    "spenden"
+  ]
+}

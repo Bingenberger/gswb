@@ -1,0 +1,85 @@
+{
+  "lemma": "Stechmücke",
+  "wortart": "Nomen",
+  "silben": "Stech-mü-cke",
+  "begriffserklaerung": "Eine Stechmücke ist ein kleines, fliegendes Insekt mit langen Beinen und einem Stechrüssel. Mit dem Rüssel sticht sie Menschen und Tiere und saugt Blut. Dabei kann es jucken.",
+  "beispielsatz": "Im Sommer am See hat mich eine Stechmücke gestochen, und jetzt juckt meine Haut.",
+  "rechtschreibstrategie": "Das Wort „Stechmücke\" ist aus zwei Teilen zusammengebaut: „Stech\" und „Mücke\". Im zweiten Teil steckt ein ck – das zeigt uns, dass das ü kurz gesprochen wird. Denk daran: kurzer Vokal → ck!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stech",
+    "mück"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stechmücke",
+    "plural": "die Stechmücken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stechmücke",
+        "genitiv": "der Stechmücke",
+        "dativ": "der Stechmücke",
+        "akkusativ": "die Stechmücke"
+      },
+      "plural": {
+        "nominativ": "die Stechmücken",
+        "genitiv": "der Stechmücken",
+        "dativ": "den Stechmücken",
+        "akkusativ": "die Stechmücken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mosquito"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moustique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sivrisinek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بعوضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    }
+  ],
+  "bild_datei": "Stechmücke.webp",
+  "audio_datei": "Stechmücke.mp3",
+  "fehlschreibungen": [
+    "Stechmücke",
+    "Stetchmücke",
+    "Stechmüke",
+    "Stechmükke",
+    "Stechmucke",
+    "Shtechmücke"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "Gemse",
+  "wortart": "Nomen",
+  "silben": "Gäm-se",
+  "begriffserklaerung": "Eine Gämse ist ein wildes Tier, das in den Bergen lebt. Sie hat kurze Hörner und kann sehr gut klettern.",
+  "beispielsatz": "Die Gämse springt flink über die felsigen Berghänge.",
+  "rechtschreibstrategie": "Denk an das Umlaut-ä: Gämse kommt von „Gams\". Sprich es laut: Gäm-se – du hörst das kurze ä und das m.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Gams"
+  ],
+  "bild_datei": "Gemse.webp",
+  "audio_datei": "Gemse.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gämse",
+    "plural": "die Gämsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gämse",
+        "genitiv": "der Gämse",
+        "dativ": "der Gämse",
+        "akkusativ": "die Gämse"
+      },
+      "plural": {
+        "nominativ": "die Gämsen",
+        "genitiv": "der Gämsen",
+        "dativ": "den Gämsen",
+        "akkusativ": "die Gämsen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chamois"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chamois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ keçisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعل الجبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gams"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steinbock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bergziege"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gemse",
+    "Gemsee",
+    "Gämsse",
+    "Gähmse",
+    "Gähmsse"
+  ]
+}

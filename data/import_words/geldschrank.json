@@ -1,0 +1,87 @@
+{
+  "lemma": "Geldschrank",
+  "wortart": "Nomen",
+  "silben": "Geld-schrank",
+  "begriffserklaerung": "Ein Geldschrank ist ein sehr stabiler, schwerer Schrank aus Metall. Darin bewahrt man Geld, wichtige Dokumente oder wertvolle Dinge sicher auf. Er lässt sich nur mit einem Schlüssel oder einem geheimen Code öffnen.",
+  "beispielsatz": "Der Direktor verschloss das wichtige Dokument im Geldschrank.",
+  "rechtschreibstrategie": "„Geldschrank\" ist ein zusammengesetztes Wort aus „Geld\" und „Schrank\". Sprich beide Teile laut: GELD + SCHRANK. So erkennst du, wie es geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Geld",
+    "Schrank"
+  ],
+  "bild_datei": "Geldschrank.webp",
+  "audio_datei": "Geldschrank.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geldschrank",
+    "plural": "die Geldschränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geldschrank",
+        "genitiv": "des Geldschrankes",
+        "dativ": "dem Geldschrank",
+        "akkusativ": "den Geldschrank"
+      },
+      "plural": {
+        "nominativ": "die Geldschränke",
+        "genitiv": "der Geldschränke",
+        "dativ": "den Geldschränken",
+        "akkusativ": "die Geldschränke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "safe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coffre-fort"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tresor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Safe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geltschrank",
+    "Geldschrangk",
+    "Geldschranck",
+    "Gelldschrank",
+    "Geldschranc"
+  ]
+}

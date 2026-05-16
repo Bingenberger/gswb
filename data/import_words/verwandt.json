@@ -1,0 +1,74 @@
+{
+  "lemma": "verwandt",
+  "wortart": "Adjektiv",
+  "silben": "ver-wandt",
+  "begriffserklaerung": "Verwandt bedeutet, dass Menschen zur selben Familie gehören, zum Beispiel Geschwister, Eltern oder Großeltern.",
+  "beispielsatz": "Meine Oma und ich sind verwandt, denn sie ist die Mutter meines Vaters.",
+  "rechtschreibstrategie": "Schreibe am Ende „-wandt\" – das dt klingt wie t, aber denk an das Wort „Verwandte\". Das nd vor dem t hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Verwandte",
+    "Verwandtschaft"
+  ],
+  "bild_datei": "verwandt.webp",
+  "audio_datei": "verwandt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "related"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apparenté"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akraba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرتبط بصلة قرابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verwandtschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verwandte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zugehörig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschwister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "verwandt",
+    "komparativ": "verwandter",
+    "superlativ": "am verwandtesten"
+  },
+  "fehlschreibungen": [
+    "verwant",
+    "verwanndt",
+    "ferwandt",
+    "verwannd",
+    "verwanth"
+  ]
+}

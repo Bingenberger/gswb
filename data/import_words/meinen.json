@@ -1,0 +1,99 @@
+{
+  "lemma": "meinen",
+  "wortart": "Verb",
+  "silben": "mei-nen",
+  "begriffserklaerung": "Wenn du etwas meinst, sagst du, was du denkst oder glaubst. Du kannst auch meinen, dass du jemanden oder etwas damit meinst.",
+  "beispielsatz": "Was meinst du – sollen wir heute draußen spielen?",
+  "rechtschreibstrategie": "Das Wort „meinen\" hat den langen Ei-Laut. Schreib immer „ei\", nicht „ai\": m-ei-n-en. Sprich es laut: meinen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mein"
+  ],
+  "bild_datei": "meinen.webp",
+  "audio_datei": "meinen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to mean / to think"
+    },
+    {
+      "language_code": "fr",
+      "translation": "penser / vouloir dire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "demek istemek / düşünmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَقْصِد / يَظُنّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meinung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gemeint"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "glauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "antworten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "meinen",
+    "praesens": {
+      "ich": "meine",
+      "du": "meinst",
+      "er_sie_es": "meint",
+      "wir": "meinen",
+      "ihr": "meint",
+      "sie": "meinen"
+    },
+    "perfekt": {
+      "ich": "habe gemeint",
+      "du": "hast gemeint",
+      "er_sie_es": "hat gemeint",
+      "wir": "haben gemeint",
+      "ihr": "habt gemeint",
+      "sie": "haben gemeint"
+    },
+    "praeteritum": {
+      "ich": "meinte",
+      "du": "meintest",
+      "er_sie_es": "meinte",
+      "wir": "meinten",
+      "ihr": "meintet",
+      "sie": "meinten"
+    }
+  },
+  "fehlschreibungen": [
+    "mainen",
+    "meienen",
+    "meinen",
+    "mäinen",
+    "meynen",
+    "meinnen"
+  ]
+}

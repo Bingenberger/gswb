@@ -1,0 +1,84 @@
+{
+  "lemma": "Waldweg",
+  "wortart": "Nomen",
+  "silben": "Wald-weg",
+  "begriffserklaerung": "Ein Waldweg ist ein schmaler Weg, der durch einen Wald führt.",
+  "beispielsatz": "Wir wandern heute auf einem langen Waldweg durch die Bäume.",
+  "rechtschreibstrategie": "Waldweg ist ein Zusammengesetztes Wort aus „Wald\" und „Weg\". Sprich beide Teile laut: WALD + WEG. So schreibst du beide richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wald",
+    "Weg"
+  ],
+  "bild_datei": "Waldweg.webp",
+  "audio_datei": "Waldweg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "forest path"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemin forestier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار الغابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Forstweg"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Waldweg",
+    "plural": "die Waldwege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Waldweg",
+        "genitiv": "des Waldweges",
+        "dativ": "dem Waldweg",
+        "akkusativ": "den Waldweg"
+      },
+      "plural": {
+        "nominativ": "die Waldwege",
+        "genitiv": "der Waldwege",
+        "dativ": "den Waldwegen",
+        "akkusativ": "die Waldwege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waltweg",
+    "Waldweck",
+    "Waldweeg",
+    "Walldweg",
+    "Waldveg"
+  ]
+}

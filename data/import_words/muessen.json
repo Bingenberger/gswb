@@ -1,0 +1,86 @@
+{
+  "lemma": "müssen",
+  "wortart": "Verb",
+  "silben": "müs-sen",
+  "begriffserklaerung": "„Müssen\" bedeutet, dass man etwas tun muss, weil es notwendig oder Pflicht ist.",
+  "beispielsatz": "Ich muss heute meine Hausaufgaben machen.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" hörst du das „s\" doppelt – deshalb schreibt man „müssen\" mit zwei „s\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "müssen"
+  ],
+  "bild_datei": "müssen.webp",
+  "audio_datei": "müssen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "müssen",
+    "praesens": {
+      "ich": "muss",
+      "du": "musst",
+      "er_sie_es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie": "müssen"
+    },
+    "perfekt": {
+      "ich": "habe gemusst",
+      "du": "hast gemusst",
+      "er_sie_es": "hat gemusst",
+      "wir": "haben gemusst",
+      "ihr": "habt gemusst",
+      "sie": "haben gemusst"
+    },
+    "praeteritum": {
+      "ich": "musste",
+      "du": "musstest",
+      "er_sie_es": "musste",
+      "wir": "mussten",
+      "ihr": "musstet",
+      "sie": "mussten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to have to / must"
+    },
+    {
+      "language_code": "fr",
+      "translation": "devoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zorunda olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجب / يتعين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sollen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dürfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "können"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wollen"
+    }
+  ],
+  "fehlschreibungen": [
+    "müsen",
+    "müssen",
+    "müßen",
+    "mussen",
+    "müsssen"
+  ]
+}

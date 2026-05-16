@@ -1,0 +1,103 @@
+{
+  "lemma": "binden",
+  "wortart": "Verb",
+  "silben": "bin-den",
+  "begriffserklaerung": "Wenn du etwas bindest, befestigst du es mit einem Faden, einer Schnur oder einem Band, damit es zusammenbleibt oder nicht wegfällt.",
+  "beispielsatz": "Lisa bindet sich die Schuhe, bevor sie in die Schule geht.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „bin-den\". Du hörst ein kurzes „i\" – danach kommt „nd\". Beim Verlängern (er bindet, du bandest) bleibt das „d\" hörbar, deshalb schreibt man es mit „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bind"
+  ],
+  "bild_datei": "binden.webp",
+  "audio_datei": "binden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to tie / to bind"
+    },
+    {
+      "language_code": "fr",
+      "translation": "attacher / lier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bağlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَرْبُط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bündel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "knüpfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "befestigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnüren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verknoten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wickeln"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "binden",
+    "praesens": {
+      "ich": "binde",
+      "du": "bindest",
+      "er_sie_es": "bindet",
+      "wir": "binden",
+      "ihr": "bindet",
+      "sie": "binden"
+    },
+    "perfekt": {
+      "ich": "habe gebunden",
+      "du": "hast gebunden",
+      "er_sie_es": "hat gebunden",
+      "wir": "haben gebunden",
+      "ihr": "habt gebunden",
+      "sie": "haben gebunden"
+    },
+    "praeteritum": {
+      "ich": "band",
+      "du": "bandest",
+      "er_sie_es": "band",
+      "wir": "banden",
+      "ihr": "bandet",
+      "sie": "banden"
+    }
+  },
+  "fehlschreibungen": [
+    "binten",
+    "binnden",
+    "binden",
+    "bindden",
+    "bünden",
+    "bindn"
+  ]
+}

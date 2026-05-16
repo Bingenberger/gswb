@@ -1,0 +1,39 @@
+{
+  "lemma": "schnell",
+  "wortart": "Adjektiv",
+  "silben": "schnell",
+  "beispielsatz": "Das Pferd ist sehr schnell und gewinnt das Rennen.",
+  "begriffserklaerung": "Schnell beschreibt, dass sich etwas in kurzer Zeit sehr viel bewegt oder dass etwas rasch passiert.",
+  "rechtschreibstrategie": "Am Ende von 'schnell' stehen zwei 'l'. Das Doppel-l zeigt: Das 'e' davor wird kurz gesprochen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schnell"
+  ],
+  "bild_datei": "schnell.webp",
+  "audio_datei": "schnell.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "fast" },
+    { "language_code": "fr", "translation": "rapide" },
+    { "language_code": "tr", "translation": "hızlı" },
+    { "language_code": "ar", "translation": "سريع" }
+  ],
+  "beziehungen": [
+    { "relation_type": "word_family", "target_lemma": "Schnelligkeit" },
+    { "relation_type": "synonym",     "target_lemma": "flink" },
+    { "relation_type": "synonym",     "target_lemma": "rasch" },
+    { "relation_type": "word_field",  "target_lemma": "rennen" }
+  ],
+  "grammatische_formen": {
+    "positiv": "schnell",
+    "komparativ": "schneller",
+    "superlativ": "am schnellsten"
+  },
+  "fehlschreibungen": [
+    "schnel",
+    "snell",
+    "schnäll",
+    "snel"
+  ]
+}

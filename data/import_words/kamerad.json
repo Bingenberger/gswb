@@ -1,0 +1,90 @@
+{
+  "lemma": "Kamerad",
+  "wortart": "Nomen",
+  "silben": "Ka-me-rad",
+  "begriffserklaerung": "Ein Kamerad ist jemand, mit dem man zusammen etwas erlebt, zum Beispiel in der Schule, beim Sport oder in einer Gruppe. Ein Kamerad ist wie ein guter Freund, dem man vertrauen kann.",
+  "beispielsatz": "Mein Kamerad Jonas hilft mir immer, wenn ich etwas nicht verstehe.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ka-me-rad. Am Ende hörst du „rad\" – schreib es mit einem d, auch wenn es sich nach t anhört. Verlängere: Kame-ra-den – dann hörst du das d deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kamerad"
+  ],
+  "bild_datei": "Kamerad.webp",
+  "audio_datei": "Kamerad.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kamerad",
+    "plural": "die Kameraden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kamerad",
+        "genitiv": "des Kameraden",
+        "dativ": "dem Kameraden",
+        "akkusativ": "den Kameraden"
+      },
+      "plural": {
+        "nominativ": "die Kameraden",
+        "genitiv": "der Kameraden",
+        "dativ": "den Kameraden",
+        "akkusativ": "die Kameraden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "comrade, companion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camarade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yoldaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رفيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kameradschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kameradschaftlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Freund"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefährte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vertrauen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kamerat",
+    "Kammerad",
+    "Kamerath",
+    "Cameraad",
+    "Kamarad"
+  ]
+}

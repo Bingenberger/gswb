@@ -1,0 +1,99 @@
+{
+  "lemma": "anfassen",
+  "wortart": "Verb",
+  "silben": "an-fas-sen",
+  "begriffserklaerung": "Etwas oder jemanden mit der Hand berühren oder greifen.",
+  "beispielsatz": "Fass bitte das heiße Kochfeld nicht an!",
+  "rechtschreibstrategie": "In „anfassen\" steckt ein kurzes „a\" vor „ss\" – deshalb schreibt man zwei „s\": fas-sen. Sprich das Wort laut vor: an-fas-sen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fass"
+  ],
+  "bild_datei": "anfassen.webp",
+  "audio_datei": "anfassen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "anfassen",
+    "praesens": {
+      "ich": "fasse an",
+      "du": "fasst an",
+      "er_sie_es": "fasst an",
+      "wir": "fassen an",
+      "ihr": "fasst an",
+      "sie": "fassen an"
+    },
+    "perfekt": {
+      "ich": "habe angefasst",
+      "du": "hast angefasst",
+      "er_sie_es": "hat angefasst",
+      "wir": "haben angefasst",
+      "ihr": "habt angefasst",
+      "sie": "haben angefasst"
+    },
+    "praeteritum": {
+      "ich": "fasste an",
+      "du": "fasstest an",
+      "er_sie_es": "fasste an",
+      "wir": "fassten an",
+      "ihr": "fasstet an",
+      "sie": "fassten an"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to touch / to grab"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toucher / saisir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dokunmak / tutmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يلمس / يمسك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fassen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Griff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "berühren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "loslassen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tasten"
+    }
+  ],
+  "fehlschreibungen": [
+    "anfasen",
+    "Anfassen",
+    "anfaßen",
+    "anfasssen",
+    "anfaszen"
+  ]
+}

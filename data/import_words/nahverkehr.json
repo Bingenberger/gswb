@@ -1,0 +1,84 @@
+{
+  "lemma": "Nahverkehr",
+  "wortart": "Nomen",
+  "silben": "Nah-ver-kehr",
+  "begriffserklaerung": "Der Nahverkehr sind alle Busse, Straßenbahnen und U-Bahnen, die Menschen in einer Stadt oder Region von einem Ort zum anderen bringen.",
+  "beispielsatz": "Wir fahren mit dem Nahverkehr zur Schule, weil der Bus direkt vor unserer Haustür hält.",
+  "rechtschreibstrategie": "„Nahverkehr\" ist ein zusammengesetztes Wort aus „nah\" und „Verkehr\". Schreibe beide Teile einfach hintereinander: Nah + Verkehr = Nahverkehr.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "nah",
+    "Verkehr"
+  ],
+  "bild_datei": "Nahverkehr.webp",
+  "audio_datei": "Nahverkehr.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nahverkehr",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nahverkehr",
+        "genitiv": "des Nahverkehrs",
+        "dativ": "dem Nahverkehr",
+        "akkusativ": "den Nahverkehr"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "local public transport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "transport en commun local"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şehir içi toplu taşıma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسائل النقل المحلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nah"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ÖPNV"
+    }
+  ],
+  "fehlschreibungen": [
+    "Naverkehr",
+    "Nahferkehr",
+    "Nahvercehr",
+    "Nah-Verkehr",
+    "Nahvehrkehr"
+  ]
+}

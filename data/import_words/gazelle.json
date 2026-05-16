@@ -1,0 +1,71 @@
+{
+  "lemma": "Gazelle",
+  "wortart": "Nomen",
+  "silben": "Ga-zel-le",
+  "begriffserklaerung": "Eine Gazelle ist ein schlankes, schnelles Tier, das in Afrika und Asien lebt. Es gehört zur Familie der Antilopen und hat lange Beine sowie geschwungene Hörner.",
+  "beispielsatz": "Die Gazelle springt blitzschnell über die weite Steppe.",
+  "rechtschreibstrategie": "Das Wort „Gazelle\" schreibt man mit doppeltem „l\" am Ende – sprich es laut: Ga-zel-le. Das doppelte „l\" zeigt den kurzen Vokal davor!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gazelle.webp",
+  "audio_datei": "Gazelle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gazelle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gazelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ceylan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غزال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antilope"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Savanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepard"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gazelle",
+    "plural": "die Gazellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gazelle",
+        "genitiv": "der Gazelle",
+        "dativ": "der Gazelle",
+        "akkusativ": "die Gazelle"
+      },
+      "plural": {
+        "nominativ": "die Gazellen",
+        "genitiv": "der Gazellen",
+        "dativ": "den Gazellen",
+        "akkusativ": "die Gazellen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gaselle",
+    "Gazele",
+    "Gazzelle",
+    "Gazell"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Webseite",
+  "wortart": "Nomen",
+  "silben": "Web-sei-te",
+  "begriffserklaerung": "Eine Webseite ist eine Seite im Internet, die man mit dem Computer, Tablet oder Handy aufrufen kann. Dort findet man Texte, Bilder, Videos und viele andere Informationen.",
+  "beispielsatz": "Auf der Webseite unserer Schule stehen alle wichtigen Termine.",
+  "rechtschreibstrategie": "Das Wort „Webseite\" besteht aus zwei Teilen: „Web\" und „Seite\". Sprich beide Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Web",
+    "Seite"
+  ],
+  "bild_datei": "Webseite.webp",
+  "audio_datei": "Webseite.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "website"
+    },
+    {
+      "language_code": "fr",
+      "translation": "page web"
+    },
+    {
+      "language_code": "tr",
+      "translation": "web sayfası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صفحة ويب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Web"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Internetseite"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Webseite",
+    "plural": "die Webseiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Webseite",
+        "genitiv": "der Webseite",
+        "dativ": "der Webseite",
+        "akkusativ": "die Webseite"
+      },
+      "plural": {
+        "nominativ": "die Webseiten",
+        "genitiv": "der Webseiten",
+        "dativ": "den Webseiten",
+        "akkusativ": "die Webseiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Webseide",
+    "Websseite",
+    "Webzeite",
+    "Webseitte",
+    "Wepseite",
+    "Web-Seite"
+  ]
+}

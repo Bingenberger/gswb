@@ -1,0 +1,84 @@
+{
+  "lemma": "Halskette",
+  "wortart": "Nomen",
+  "silben": "Hals-ket-te",
+  "begriffserklaerung": "Eine Halskette ist ein Schmuckstück, das man um den Hals trägt. Sie kann aus Perlen, Metall oder bunten Steinen bestehen.",
+  "beispielsatz": "Zum Geburtstag hat Lena eine goldene Halskette geschenkt bekommen.",
+  "rechtschreibstrategie": "Das Wort „Halskette\" besteht aus zwei Teilen: „Hals\" und „Kette\". Das doppelte „t\" in „Kette\" kommt vom kurzen „e\" davor – hier gilt die Regel: kurzer Vokal, doppelter Mitlaut!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Hals",
+    "Kette"
+  ],
+  "bild_datei": "Halskette.webp",
+  "audio_datei": "Halskette.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Halskette",
+    "plural": "die Halsketten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Halskette",
+        "genitiv": "der Halskette",
+        "dativ": "der Halskette",
+        "akkusativ": "die Halskette"
+      },
+      "plural": {
+        "nominativ": "die Halsketten",
+        "genitiv": "der Halsketten",
+        "dativ": "den Halsketten",
+        "akkusativ": "die Halsketten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "necklace"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kolye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kette"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hals"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kette"
+    }
+  ],
+  "fehlschreibungen": [
+    "Halskete",
+    "Halskette",
+    "Halßkette",
+    "Haalskette",
+    "Halskätte"
+  ]
+}

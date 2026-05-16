@@ -1,0 +1,83 @@
+{
+  "lemma": "Sieb",
+  "wortart": "Nomen",
+  "silben": "Sieb",
+  "begriffserklaerung": "Ein Sieb ist ein Küchengerät mit vielen kleinen Löchern. Man benutzt es, um Flüssigkeit von festen Dingen zu trennen, zum Beispiel Nudeln vom Wasser.",
+  "beispielsatz": "Mama gießt die Nudeln durch das Sieb, damit das heiße Wasser abläuft.",
+  "rechtschreibstrategie": "Das Wort „Sieb\" hat ein langes i, das als „ie\" geschrieben wird. Denk daran: Das „ie\" macht das i lang – wie in „Liebe\" oder „Tier\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sieb"
+  ],
+  "bild_datei": "Sieb.webp",
+  "audio_datei": "Sieb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sieve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "passoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصفاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sieben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Siebdruck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kochen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sieb",
+    "plural": "die Siebe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sieb",
+        "genitiv": "des Siebes",
+        "dativ": "dem Sieb",
+        "akkusativ": "das Sieb"
+      },
+      "plural": {
+        "nominativ": "die Siebe",
+        "genitiv": "der Siebe",
+        "dativ": "den Sieben",
+        "akkusativ": "die Siebe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sib",
+    "Siep",
+    "Sieeb",
+    "Seib",
+    "Zieb"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Abstand",
+  "wortart": "Nomen",
+  "silben": "Ab-stand",
+  "begriffserklaerung": "Der Abstand ist der Platz oder die Lücke zwischen zwei Dingen oder Personen.",
+  "beispielsatz": "Halte bitte genug Abstand zum nächsten Kind in der Reihe!",
+  "rechtschreibstrategie": "Das Wort „Abstand\" ist aus „ab\" und „Stand\" zusammengesetzt. Schreibe einfach beide Teile zusammen: Ab + stand = Abstand.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stand",
+    "stehen"
+  ],
+  "bild_datei": "Abstand.webp",
+  "audio_datei": "Abstand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "distance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mesafe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abstand halten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lücke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entfernung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nähe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strecke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Abstand",
+    "plural": "Abstände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abstand",
+        "genitiv": "des Abstands",
+        "dativ": "dem Abstand",
+        "akkusativ": "den Abstand"
+      },
+      "plural": {
+        "nominativ": "die Abstände",
+        "genitiv": "der Abstände",
+        "dativ": "den Abständen",
+        "akkusativ": "die Abstände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abtsand",
+    "Abstant",
+    "Abshtand",
+    "Absstand",
+    "abstand"
+  ]
+}

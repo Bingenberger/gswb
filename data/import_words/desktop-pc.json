@@ -1,0 +1,81 @@
+{
+  "lemma": "Desktop-PC",
+  "wortart": "Nomen",
+  "silben": "Desk-top-PC",
+  "begriffserklaerung": "Ein Desktop-PC ist ein großer Computer, der auf einem Schreibtisch steht. Er hat einen Bildschirm, eine Tastatur und eine Maus, die man anschließt.",
+  "beispielsatz": "Auf dem Desktop-PC meiner Mutter mache ich manchmal meine Hausaufgaben.",
+  "rechtschreibstrategie": "Das Wort „Desktop-PC\" kommt aus dem Englischen und wird mit Bindestrich geschrieben. „Desktop\" bedeutet so viel wie „Schreibtisch\", und „PC\" steht für „Personal Computer\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Computer",
+    "PC"
+  ],
+  "bild_datei": "Desktop-PC.webp",
+  "audio_datei": "Desktop-PC.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "desktop PC"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordinateur de bureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "masaüstü bilgisayar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاسوب مكتبي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laptop"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Standrechner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Desktop-PC",
+    "plural": "die Desktop-PCs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Desktop-PC",
+        "genitiv": "des Desktop-PCs",
+        "dativ": "dem Desktop-PC",
+        "akkusativ": "den Desktop-PC"
+      },
+      "plural": {
+        "nominativ": "die Desktop-PCs",
+        "genitiv": "der Desktop-PCs",
+        "dativ": "den Desktop-PCs",
+        "akkusativ": "die Desktop-PCs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Desctop-PC",
+    "Desktopp-PC",
+    "Desktob-PC",
+    "Desktop PC",
+    "DesktopPC",
+    "Desctop PC"
+  ]
+}

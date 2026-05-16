@@ -1,0 +1,84 @@
+{
+  "lemma": "Elektronik",
+  "wortart": "Nomen",
+  "silben": "E-lek-tro-nik",
+  "begriffserklaerung": "Elektronik nennt man alle Geräte und Bauteile, die mit elektrischem Strom arbeiten und Informationen verarbeiten – zum Beispiel Computer, Fernseher oder Handys.",
+  "beispielsatz": "In unserem Klassenzimmer gibt es viel Elektronik, zum Beispiel ein Tablet und einen Beamer.",
+  "rechtschreibstrategie": "Das Wort „Elektronik\" leitet sich von „Elektro\" ab. Denk an „Elektrizität\" – beide fangen mit „Elekt-\" an. Schreib das k am Ende nicht als ck, denn vor dem k steht kein kurzer Vokal.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "elektr"
+  ],
+  "bild_datei": "Elektronik.webp",
+  "audio_datei": "Elektronik.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electronics"
+    },
+    {
+      "language_code": "fr",
+      "translation": "électronique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektronik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إلكترونيات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektrizität"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "elektronisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Technik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerät"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Elektronik",
+    "plural": "— (wird meist ohne Plural verwendet)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Elektronik",
+        "genitiv": "der Elektronik",
+        "dativ": "der Elektronik",
+        "akkusativ": "die Elektronik"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Electronik",
+    "Elloktronik",
+    "Elecktronik",
+    "Elektronic",
+    "Elektonik",
+    "Elekdronik"
+  ]
+}

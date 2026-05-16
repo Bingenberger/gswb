@@ -1,0 +1,87 @@
+{
+  "lemma": "Jugendlicher",
+  "wortart": "Nomen",
+  "silben": "Ju-gend-li-cher",
+  "begriffserklaerung": "Ein Jugendlicher ist ein junger Mensch, der kein kleines Kind mehr ist, aber noch kein Erwachsener. Jugendliche sind meist zwischen 13 und 17 Jahren alt.",
+  "beispielsatz": "Der Jugendliche hilft seiner kleinen Schwester gerne bei den Hausaufgaben.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ju-gend-li-cher. Achte auf das „d\" in „Jugend\" – das hörst du, wenn du „Jugend\" verlängerst.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Jugend"
+  ],
+  "bild_datei": "Jugendlicher.webp",
+  "audio_datei": "Jugendlicher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teenager / young person"
+    },
+    {
+      "language_code": "fr",
+      "translation": "adolescent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "genç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مراهق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jugendlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teenager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erwachsener"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüler"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Jugendliche",
+    "plural": "die Jugendlichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Jugendliche",
+        "genitiv": "des Jugendlichen",
+        "dativ": "dem Jugendlichen",
+        "akkusativ": "den Jugendlichen"
+      },
+      "plural": {
+        "nominativ": "die Jugendlichen",
+        "genitiv": "der Jugendlichen",
+        "dativ": "den Jugendlichen",
+        "akkusativ": "die Jugendlichen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jugentlicher",
+    "Jugendliger",
+    "Jugendlichter",
+    "Jugentlichter",
+    "Jugendlischer",
+    "Jugendlihcer"
+  ]
+}

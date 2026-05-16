@@ -1,0 +1,85 @@
+{
+  "lemma": "Schlichter",
+  "wortart": "Nomen",
+  "silben": "Schlich-ter",
+  "begriffserklaerung": "Ein Schlichter ist eine Person, die hilft, wenn zwei Menschen oder Gruppen streiten. Er hört beiden Seiten zu und sucht eine Lösung, mit der alle einverstanden sind.",
+  "beispielsatz": "Der Schlichter auf dem Schulhof hat den Streit zwischen den beiden Kindern friedlich gelöst.",
+  "rechtschreibstrategie": "Denke an das Verb „schlichten\". Das Wort „Schlichter\" leitet sich davon ab: schlicht-en → Schlichter. Das „ch\" hörst du deutlich beim Sprechen.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlicht"
+  ],
+  "bild_datei": "Schlichter.webp",
+  "audio_datei": "Schlichter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlichter",
+    "plural": "die Schlichter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlichter",
+        "genitiv": "des Schlichters",
+        "dativ": "dem Schlichter",
+        "akkusativ": "den Schlichter"
+      },
+      "plural": {
+        "nominativ": "die Schlichter",
+        "genitiv": "der Schlichter",
+        "dativ": "den Schlichtern",
+        "akkusativ": "die Schlichter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mediator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médiateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arabulucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسيط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlichten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlichtung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vermittler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frieden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einigung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlichter",
+    "Slichter",
+    "Schliechter",
+    "Schlikter"
+  ]
+}

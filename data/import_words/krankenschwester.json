@@ -1,0 +1,87 @@
+{
+  "lemma": "Krankenschwester",
+  "wortart": "Nomen",
+  "silben": "Kran-ken-schwes-ter",
+  "begriffserklaerung": "Eine Krankenschwester ist eine ausgebildete Frau, die kranke Menschen pflegt und ihnen hilft, wieder gesund zu werden. Sie arbeitet meist im Krankenhaus oder beim Arzt.",
+  "beispielsatz": "Die Krankenschwester legt dem kleinen Jungen einen Verband an.",
+  "rechtschreibstrategie": "Das Wort „Krankenschwester\" ist aus zwei Wörtern zusammengesetzt: „krank\" und „Schwester\". Sprich beide Teile laut, dann kannst du sie richtig aufschreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "krank",
+    "Schwester"
+  ],
+  "bild_datei": "Krankenschwester.webp",
+  "audio_datei": "Krankenschwester.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Krankenschwester",
+    "plural": "die Krankenschwestern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Krankenschwester",
+        "genitiv": "der Krankenschwester",
+        "dativ": "der Krankenschwester",
+        "akkusativ": "die Krankenschwester"
+      },
+      "plural": {
+        "nominativ": "die Krankenschwestern",
+        "genitiv": "der Krankenschwestern",
+        "dativ": "den Krankenschwestern",
+        "akkusativ": "die Krankenschwestern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nurse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "infirmière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hemşire"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممرضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwester"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pflegerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfleger"
+    }
+  ],
+  "fehlschreibungen": [
+    "Krankenschwester",
+    "Krankeschwester",
+    "Krankenschvester",
+    "Krankkenschwester",
+    "Krankenschwestern"
+  ]
+}

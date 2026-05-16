@@ -1,0 +1,83 @@
+{
+  "lemma": "Stahl",
+  "wortart": "Nomen",
+  "silben": "Stahl",
+  "begriffserklaerung": "Stahl ist ein sehr hartes und festes Metall, das aus Eisen hergestellt wird. Viele Dinge, wie Messer, Brücken und Autos, werden aus Stahl gemacht.",
+  "beispielsatz": "Die Brücke besteht aus sehr festem Stahl.",
+  "rechtschreibstrategie": "Das Wort „Stahl\" klingt lang, weil das „ah\" gedehnt gesprochen wird. Das Dehnungs-h nach dem „a\" schreibst du mit, auch wenn man es nicht hört: S-t-a-h-l.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "stahl",
+    "stähl"
+  ],
+  "bild_datei": "Stahl.webp",
+  "audio_datei": "Stahl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "steel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "acier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çelik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فولاذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stählern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stahl",
+    "plural": "die Stähle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stahl",
+        "genitiv": "des Stahls",
+        "dativ": "dem Stahl",
+        "akkusativ": "den Stahl"
+      },
+      "plural": {
+        "nominativ": "die Stähle",
+        "genitiv": "der Stähle",
+        "dativ": "den Stählen",
+        "akkusativ": "die Stähle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stal",
+    "Staal",
+    "Stall",
+    "Shtahl",
+    "Sthahl"
+  ]
+}

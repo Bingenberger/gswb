@@ -1,0 +1,83 @@
+{
+  "lemma": "Braunbär",
+  "wortart": "Nomen",
+  "silben": "Braun-bär",
+  "begriffserklaerung": "Ein Braunbär ist ein großes, wildes Tier mit braunem Fell, das in Wäldern und Bergen lebt. Er gehört zu den stärksten Tieren in Europa.",
+  "beispielsatz": "Der Braunbär sucht im Herbst viel Futter, damit er den Winter verschlafen kann.",
+  "rechtschreibstrategie": "Das Wort „Braunbär\" ist aus zwei Teilen zusammengesetzt: „braun\" und „Bär\". Schreibe einfach beide Wörter zusammen – und vergiss das Umlaut-ä in „Bär\" nicht!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Bär"
+  ],
+  "bild_datei": "Braunbär.webp",
+  "audio_datei": "Braunbär.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Braunbär",
+    "plural": "die Braunbären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Braunbär",
+        "genitiv": "des Braunbären",
+        "dativ": "dem Braunbären",
+        "akkusativ": "den Braunbären"
+      },
+      "plural": {
+        "nominativ": "die Braunbären",
+        "genitiv": "der Braunbären",
+        "dativ": "den Braunbären",
+        "akkusativ": "die Braunbären"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brown bear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ours brun"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahverengi ayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الدب البني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bärenjunges"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildschwein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Braunbeer",
+    "Braunbähr",
+    "Braunbear",
+    "Braunbär",
+    "Braunbärr"
+  ]
+}

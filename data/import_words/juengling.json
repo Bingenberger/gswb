@@ -1,0 +1,88 @@
+{
+  "lemma": "Jüngling",
+  "wortart": "Nomen",
+  "silben": "Jüng-ling",
+  "begriffserklaerung": "Ein Jüngling ist ein junger Mann oder ein älterer Junge, der gerade erwachsen wird.",
+  "beispielsatz": "Der Jüngling half der alten Frau, ihre schweren Einkaufstaschen zu tragen.",
+  "rechtschreibstrategie": "Denk an das Wort „jung\" – daraus kommt „Jüngling\". Das „ü\" hörst du deutlich, und am Ende kommt die Nachsilbe „-ling\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "jung"
+  ],
+  "bild_datei": "Jüngling.webp",
+  "audio_datei": "Jüngling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Jüngling",
+    "plural": "die Jünglinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Jüngling",
+        "genitiv": "des Jünglings",
+        "dativ": "dem Jüngling",
+        "akkusativ": "den Jüngling"
+      },
+      "plural": {
+        "nominativ": "die Jünglinge",
+        "genitiv": "der Jünglinge",
+        "dativ": "den Jünglingen",
+        "akkusativ": "die Jünglinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "youth / young man"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeune homme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "genç adam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Jugendlicher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mädchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erwachsener"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jünling",
+    "Jüngeling",
+    "Jünglink",
+    "Jünglinng",
+    "Yüngling"
+  ]
+}

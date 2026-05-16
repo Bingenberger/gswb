@@ -1,0 +1,83 @@
+{
+  "lemma": "Besen",
+  "wortart": "Nomen",
+  "silben": "Be-sen",
+  "begriffserklaerung": "Ein Besen ist ein Reinigungsgerät mit einem langen Stiel und vielen Borsten am Ende. Man benutzt ihn, um den Boden zu kehren und Schmutz wegzufegen.",
+  "beispielsatz": "Oma kehrt mit dem Besen die bunten Blätter vom Gehweg.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Be-sen. Das lange „e\" in der ersten Silbe schreibt man einfach mit „e\" – kein Dehnungs-h nötig. Merke: Besen reimt sich auf lesen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bes-",
+    "feg-"
+  ],
+  "bild_datei": "Besen.webp",
+  "audio_datei": "Besen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "broom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balai"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süpürge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِكنَسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besenstiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaufel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wischmopp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kehrbesen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Besen",
+    "plural": "die Besen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Besen",
+        "genitiv": "des Besens",
+        "dativ": "dem Besen",
+        "akkusativ": "den Besen"
+      },
+      "plural": {
+        "nominativ": "die Besen",
+        "genitiv": "der Besen",
+        "dativ": "den Besen",
+        "akkusativ": "die Besen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bäsen",
+    "Beesen",
+    "Behsen",
+    "Beßen",
+    "Bessen"
+  ]
+}

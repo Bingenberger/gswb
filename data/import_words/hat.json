@@ -1,0 +1,97 @@
+{
+  "lemma": "hat",
+  "wortart": "Verb",
+  "silben": "hat",
+  "begriffserklaerung": "„Hat\" ist eine Form des Verbs „haben\". Man benutzt es, wenn man sagt, dass jemand etwas besitzt oder wenn man etwas im Perfekt ausdrückt.",
+  "beispielsatz": "Mia hat einen roten Rucksack.",
+  "rechtschreibstrategie": "„hat\" hat nur ein „t\" am Ende – sprich das Wort laut aus: du hörst nur einen kurzen t-Laut. Denke an „haben\" – dort siehst du das „a\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hab"
+  ],
+  "bild_datei": "hat.webp",
+  "audio_datei": "hat.mp3",
+  "grammatische_formen": {
+    "infinitiv": "haben",
+    "praesens": {
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie": "haben"
+    },
+    "perfekt": {
+      "ich": "habe gehabt",
+      "du": "hast gehabt",
+      "er_sie_es": "hat gehabt",
+      "wir": "haben gehabt",
+      "ihr": "habt gehabt",
+      "sie": "haben gehabt"
+    },
+    "praeteritum": {
+      "ich": "hatte",
+      "du": "hattest",
+      "er_sie_es": "hatte",
+      "wir": "hatten",
+      "ihr": "hattet",
+      "sie": "hatten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "has"
+    },
+    {
+      "language_code": "fr",
+      "translation": "a"
+    },
+    {
+      "language_code": "tr",
+      "translation": "var / sahip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لديه / لديها"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gehabt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besitz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "besitzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehört"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bekommt"
+    }
+  ],
+  "fehlschreibungen": [
+    "hatt",
+    "hatte",
+    "haht",
+    "hast"
+  ]
+}

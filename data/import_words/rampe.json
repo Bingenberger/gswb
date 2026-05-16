@@ -1,0 +1,72 @@
+{
+  "lemma": "Rampe",
+  "wortart": "Nomen",
+  "silben": "Ram-pe",
+  "begriffserklaerung": "Eine Rampe ist eine schräge Fläche, über die man hinauf- oder hinunterfahren kann. Sie verbindet zwei unterschiedlich hohe Stellen miteinander.",
+  "beispielsatz": "Der Rollstuhlfahrer fährt die Rampe am Eingang des Gebäudes hinauf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ram-pe. Du hörst ein kurzes „a\" und dann „m\". Schreibe einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Rampe.webp",
+  "audio_datei": "Rampe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ramp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rampe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rampa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منحدر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auffahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rollstuhl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rampe",
+    "plural": "die Rampen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rampe",
+        "genitiv": "der Rampe",
+        "dativ": "der Rampe",
+        "akkusativ": "die Rampe"
+      },
+      "plural": {
+        "nominativ": "die Rampen",
+        "genitiv": "der Rampen",
+        "dativ": "den Rampen",
+        "akkusativ": "die Rampen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ramphe",
+    "Rambe",
+    "Ramppe",
+    "Rämpe",
+    "Rampa"
+  ]
+}

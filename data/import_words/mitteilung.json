@@ -1,0 +1,93 @@
+{
+  "lemma": "Mitteilung",
+  "wortart": "Nomen",
+  "silben": "Mit-tei-lung",
+  "begriffserklaerung": "Eine Mitteilung ist eine Nachricht, die jemand einer anderen Person gibt – zum Beispiel mündlich, schriftlich oder per Brief.",
+  "beispielsatz": "Die Lehrerin hängt eine wichtige Mitteilung ans schwarze Brett.",
+  "rechtschreibstrategie": "Das Wort „Mitteilung\" wird aus „mit-teilen\" gebildet. Weil das „t\" am Ende von „mit\" und am Anfang von „teilen\" zusammentreffen, schreibt man zwei t: Mit-tei-lung.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "teil",
+    "mit"
+  ],
+  "bild_datei": "Mitteilung.webp",
+  "audio_datei": "Mitteilung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mitteilung",
+    "plural": "die Mitteilungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mitteilung",
+        "genitiv": "der Mitteilung",
+        "dativ": "der Mitteilung",
+        "akkusativ": "die Mitteilung"
+      },
+      "plural": {
+        "nominativ": "die Mitteilungen",
+        "genitiv": "der Mitteilungen",
+        "dativ": "den Mitteilungen",
+        "akkusativ": "die Mitteilungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "message / announcement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "message / annonce"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duyuru / mesaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسالة / إشعار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mitteilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anteil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Botschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ankündigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meldung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mitelung",
+    "Mittailung",
+    "Mittteilung",
+    "Mitteiluung",
+    "Mitleilung"
+  ]
+}

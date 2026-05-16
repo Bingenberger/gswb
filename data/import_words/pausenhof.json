@@ -1,0 +1,87 @@
+{
+  "lemma": "Pausenhof",
+  "wortart": "Nomen",
+  "silben": "Pau-sen-hof",
+  "begriffserklaerung": "Der Pausenhof ist der Platz draußen auf dem Schulgelände, wo Kinder in der Pause spielen und sich austoben können.",
+  "beispielsatz": "In der großen Pause rennen wir alle auf den Pausenhof und spielen Fangen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Pause\" und „Hof\". Sprich beide Teile laut: PAU-SEN-HOF. Denk daran, das „s\" aus „Pause\" bleibt erhalten!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pause",
+    "Hof"
+  ],
+  "bild_datei": "Pausenhof.webp",
+  "audio_datei": "Pausenhof.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pausenhof",
+    "plural": "die Pausenhöfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pausenhof",
+        "genitiv": "des Pausenhofes",
+        "dativ": "dem Pausenhof",
+        "akkusativ": "den Pausenhof"
+      },
+      "plural": {
+        "nominativ": "die Pausenhöfe",
+        "genitiv": "der Pausenhöfe",
+        "dativ": "den Pausenhöfen",
+        "akkusativ": "die Pausenhöfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "schoolyard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cour de récréation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul bahçesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فناء المدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    }
+  ],
+  "fehlschreibungen": [
+    "Paussenhof",
+    "Pauzenhof",
+    "Paußenhof",
+    "Pausenhoff",
+    "Paussnhof"
+  ]
+}

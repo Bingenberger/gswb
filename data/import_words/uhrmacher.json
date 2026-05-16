@@ -1,0 +1,84 @@
+{
+  "lemma": "Uhrmacher",
+  "wortart": "Nomen",
+  "silben": "Uhr-ma-cher",
+  "begriffserklaerung": "Ein Uhrmacher ist jemand, der Uhren baut, repariert und verkauft.",
+  "beispielsatz": "Der Uhrmacher repariert die alte Armbanduhr meines Opas.",
+  "rechtschreibstrategie": "Das Wort „Uhrmacher\" ist aus zwei Teilen zusammengesetzt: „Uhr\" und „Macher\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Uhr",
+    "machen"
+  ],
+  "bild_datei": "Uhrmacher.webp",
+  "audio_datei": "Uhrmacher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "watchmaker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "horloger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saatçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صانع الساعات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "machen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Uhrmacher",
+    "plural": "die Uhrmacher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Uhrmacher",
+        "genitiv": "des Uhrmachers",
+        "dativ": "dem Uhrmacher",
+        "akkusativ": "den Uhrmacher"
+      },
+      "plural": {
+        "nominativ": "die Uhrmacher",
+        "genitiv": "der Uhrmacher",
+        "dativ": "den Uhrmachern",
+        "akkusativ": "die Uhrmacher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Urhmacher",
+    "Uhrmacherr",
+    "Uhrmachher",
+    "Uhrmahcer",
+    "Uhrmachr",
+    "Urmacher"
+  ]
+}

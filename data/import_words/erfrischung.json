@@ -1,0 +1,87 @@
+{
+  "lemma": "Erfrischung",
+  "wortart": "Nomen",
+  "silben": "Er-fri-schung",
+  "beispielsatz": "Nach dem langen Lauf war das kühle Wasser eine tolle Erfrischung.",
+  "begriffserklaerung": "Eine Erfrischung ist etwas, das einen wieder fit und munter macht, zum Beispiel ein kaltes Getränk oder eine kühle Dusche.",
+  "rechtschreibstrategie": "Denke an das Verb „frischen\" – daraus wird mit „Er-\" und „-ung\" das Nomen „Erfrischung\". Sprich alle Silben deutlich: Er-fri-schung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "frisch"
+  ],
+  "bild_datei": "Erfrischung.webp",
+  "audio_datei": "Erfrischung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erfrischung",
+    "plural": "die Erfrischungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erfrischung",
+        "genitiv": "der Erfrischung",
+        "dativ": "der Erfrischung",
+        "akkusativ": "die Erfrischung"
+      },
+      "plural": {
+        "nominativ": "die Erfrischungen",
+        "genitiv": "der Erfrischungen",
+        "dativ": "den Erfrischungen",
+        "akkusativ": "die Erfrischungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "refreshment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rafraîchissement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "serinletici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منعش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erfrischen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abkühlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erfrischüng",
+    "Erfrischunk",
+    "Erfrischuing",
+    "Erfrichung",
+    "Erfrischunng"
+  ]
+}

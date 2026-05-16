@@ -1,0 +1,83 @@
+{
+  "lemma": "Elefant",
+  "wortart": "Nomen",
+  "silben": "E-le-fant",
+  "begriffserklaerung": "Ein Elefant ist das größte Landtier der Welt. Er hat eine lange Nase, die man Rüssel nennt, große Ohren und dicke Beine. Elefanten leben in Afrika und Asien.",
+  "beispielsatz": "Der Elefant trinkt mit seinem langen Rüssel Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: E-le-fant. Achte auf das stumme „e\" in der Mitte und das „f\" – es klingt wie ein „f\", nicht wie ein „v\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Elefant"
+  ],
+  "bild_datei": "Elefant.webp",
+  "audio_datei": "Elefant.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "elephant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éléphant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elefantenbaby"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elefantenkuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nashorn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Giraffe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nilpferd"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Elefant",
+    "plural": "die Elefanten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Elefant",
+        "genitiv": "des Elefanten",
+        "dativ": "dem Elefanten",
+        "akkusativ": "den Elefanten"
+      },
+      "plural": {
+        "nominativ": "die Elefanten",
+        "genitiv": "der Elefanten",
+        "dativ": "den Elefanten",
+        "akkusativ": "die Elefanten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elefand",
+    "Eliphant",
+    "Elefandt",
+    "Elephand",
+    "Elefent",
+    "Elefanth"
+  ]
+}

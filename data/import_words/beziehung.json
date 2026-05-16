@@ -1,0 +1,85 @@
+{
+  "lemma": "Beziehung",
+  "wortart": "Nomen",
+  "silben": "Be-zie-hung",
+  "begriffserklaerung": "Eine Beziehung ist die Verbindung zwischen zwei oder mehr Menschen, die sich kennen, mögen oder zusammengehören – zum Beispiel Freundschaft oder Familie.",
+  "beispielsatz": "Mia und Leon haben eine gute Beziehung, weil sie schon seit dem Kindergarten befreundet sind.",
+  "rechtschreibstrategie": "Das Wort kommt von „beziehen\". Schreib das lange „ie\" in der Mitte – sprich es laut: Be-ZIE-hung. Das „ie\" klingt lang und wird immer mit „i\" und „e\" geschrieben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zieh"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Beziehung",
+    "plural": "die Beziehungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Beziehung",
+        "genitiv": "der Beziehung",
+        "dativ": "der Beziehung",
+        "akkusativ": "die Beziehung"
+      },
+      "plural": {
+        "nominativ": "die Beziehungen",
+        "genitiv": "der Beziehungen",
+        "dativ": "den Beziehungen",
+        "akkusativ": "die Beziehungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bezihung",
+    "Beziehung",
+    "Bezieung",
+    "Beziehunng",
+    "Besiehung",
+    "Beziehun"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anziehung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verbindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "relationship"
+    },
+    {
+      "language_code": "fr",
+      "translation": "relation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilişki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علاقة"
+    }
+  ],
+  "bild_datei": "Beziehung.webp",
+  "audio_datei": "Beziehung.mp3"
+}

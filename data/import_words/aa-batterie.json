@@ -1,0 +1,81 @@
+{
+  "lemma": "AA-Batterie",
+  "wortart": "Nomen",
+  "silben": "AA-Bat-te-rie",
+  "begriffserklaerung": "Eine AA-Batterie ist ein kleiner, runder Stab, der Strom speichert. Man steckt sie in viele Geräte, zum Beispiel in Taschenlampen oder Fernbedienungen.",
+  "beispielsatz": "Die Taschenlampe leuchtet nicht mehr, weil die AA-Batterie leer ist.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus dem Kürzel „AA\" und dem Wort „Batterie\" zusammen. Bei „Batterie\" hörst du am Ende ein langes „i\"-Laut, der mit „ie\" geschrieben wird. Das „tt\" in der Mitte zeigt, dass das „a\" davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Batterie"
+  ],
+  "bild_datei": "AA-Batterie.webp",
+  "audio_datei": "AA-Batterie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die AA-Batterie",
+    "plural": "die AA-Batterien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die AA-Batterie",
+        "genitiv": "der AA-Batterie",
+        "dativ": "der AA-Batterie",
+        "akkusativ": "die AA-Batterie"
+      },
+      "plural": {
+        "nominativ": "die AA-Batterien",
+        "genitiv": "der AA-Batterien",
+        "dativ": "den AA-Batterien",
+        "akkusativ": "die AA-Batterien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "AA battery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pile AA"
+    },
+    {
+      "language_code": "tr",
+      "translation": "AA pil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطارية AA"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschenlampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernbedienung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "fehlschreibungen": [
+    "AA-Bateri",
+    "AA-Baterie",
+    "AA-Batterrie",
+    "AA-Batteri",
+    "AA-Battry",
+    "AA-Baterrie"
+  ]
+}

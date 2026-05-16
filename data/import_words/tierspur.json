@@ -1,0 +1,84 @@
+{
+  "lemma": "Tierspur",
+  "wortart": "Nomen",
+  "silben": "Tier-spur",
+  "begriffserklaerung": "Eine Tierspur ist ein Abdruck oder ein Zeichen, das ein Tier hinterlässt, wenn es sich bewegt – zum Beispiel Fußabdrücke im Schnee oder Schlamm.",
+  "beispielsatz": "Im Schnee haben wir eine Tierspur entdeckt, die von einem Fuchs stammt.",
+  "rechtschreibstrategie": "Das Wort „Tierspur\" besteht aus zwei Teilen: „Tier\" und „Spur\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tier",
+    "Spur"
+  ],
+  "bild_datei": "Tierspur.webp",
+  "audio_datei": "Tierspur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "animal track"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trace d'animal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayvan izi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أثر حيوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fährte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fährte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tierspur",
+    "plural": "die Tierspuren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tierspur",
+        "genitiv": "der Tierspur",
+        "dativ": "der Tierspur",
+        "akkusativ": "die Tierspur"
+      },
+      "plural": {
+        "nominativ": "die Tierspuren",
+        "genitiv": "der Tierspuren",
+        "dativ": "den Tierspuren",
+        "akkusativ": "die Tierspuren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tierspuhr",
+    "Tierspurr",
+    "Tierspuur",
+    "Thierrspur",
+    "Tirespur",
+    "Tirspuhr"
+  ]
+}

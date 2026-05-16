@@ -1,0 +1,72 @@
+{
+  "lemma": "Flur",
+  "wortart": "Nomen",
+  "silben": "Flur",
+  "begriffserklaerung": "Der Flur ist ein langer Gang in einem Haus oder einer Wohnung. Er verbindet die verschiedenen Zimmer miteinander.",
+  "beispielsatz": "Die Jacken hängen im Flur an der Garderobe.",
+  "rechtschreibstrategie": "Das Wort „Flur\" hat nur eine Silbe. Sprich es laut aus: du hörst ein langes „u\". Deshalb schreibt man nur ein „r\" am Ende – kein Dehnungs-h, einfach merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Flur.webp",
+  "audio_datei": "Flur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hallway"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couloir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koridor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flur",
+    "plural": "die Flure",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flur",
+        "genitiv": "des Flurs",
+        "dativ": "dem Flur",
+        "akkusativ": "den Flur"
+      },
+      "plural": {
+        "nominativ": "die Flure",
+        "genitiv": "der Flure",
+        "dativ": "den Fluren",
+        "akkusativ": "die Flure"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flour",
+    "Fluur",
+    "Fluhr",
+    "Flurr",
+    "Flor"
+  ]
+}

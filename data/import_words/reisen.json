@@ -1,0 +1,98 @@
+{
+  "lemma": "reisen",
+  "wortart": "Verb",
+  "silben": "rei-sen",
+  "begriffserklaerung": "Wenn du reist, fährst oder fliegst du an einen anderen Ort, der weit weg ist.",
+  "beispielsatz": "Im Sommer reisen wir mit dem Zug ans Meer.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" wie in „ein\" – schreib rei-sen mit ei, nicht mit ai!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "reisen",
+    "praesens": {
+      "ich": "reise",
+      "du": "reist",
+      "er_sie_es": "reist",
+      "wir": "reisen",
+      "ihr": "reist",
+      "sie": "reisen"
+    },
+    "perfekt": {
+      "ich": "bin gereist",
+      "du": "bist gereist",
+      "er_sie_es": "ist gereist",
+      "wir": "sind gereist",
+      "ihr": "seid gereist",
+      "sie": "sind gereist"
+    },
+    "praeteritum": {
+      "ich": "reiste",
+      "du": "reistest",
+      "er_sie_es": "reiste",
+      "wir": "reisten",
+      "ihr": "reistet",
+      "sie": "reisten"
+    }
+  },
+  "wortfamilie_basen": [
+    "reis"
+  ],
+  "fehlschreibungen": [
+    "raisen",
+    "reißen",
+    "reizen",
+    "reisenn",
+    "reysen"
+  ],
+  "bild_datei": "reisen.webp",
+  "audio_datei": "reisen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to travel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voyager"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seyahat etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسافر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reisender"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "unterwegs sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    }
+  ]
+}

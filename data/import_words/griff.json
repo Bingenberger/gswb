@@ -1,0 +1,83 @@
+{
+  "lemma": "Griff",
+  "wortart": "Nomen",
+  "silben": "Griff",
+  "begriffserklaerung": "Ein Griff ist der Teil eines Gegenstandes, den man anfasst, um ihn zu halten oder zu bewegen – zum Beispiel an einer Tür, einem Koffer oder einem Topf.",
+  "beispielsatz": "Lea hält den Griff der Tasche fest, damit sie nicht herunterfällt.",
+  "rechtschreibstrategie": "Das Wort „Griff\" hat einen kurzen Vokal i, deshalb wird der Konsonant f verdoppelt: ff. Sprich es deutlich: Gr-i-ff!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "greifen",
+    "Griff"
+  ],
+  "bild_datei": "Griff.webp",
+  "audio_datei": "Griff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handle / grip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poignée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tutamak / sap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقبض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Griffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Henkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halterung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Henkel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Griff",
+    "plural": "die Griffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Griff",
+        "genitiv": "des Griffes",
+        "dativ": "dem Griff",
+        "akkusativ": "den Griff"
+      },
+      "plural": {
+        "nominativ": "die Griffe",
+        "genitiv": "der Griffe",
+        "dativ": "den Griffen",
+        "akkusativ": "die Griffe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grif",
+    "Grip",
+    "Gripp",
+    "Grieff",
+    "Grift"
+  ]
+}

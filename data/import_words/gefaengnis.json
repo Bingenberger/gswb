@@ -1,0 +1,83 @@
+{
+  "lemma": "Gefängnis",
+  "wortart": "Nomen",
+  "silben": "Ge-fäng-nis",
+  "begriffserklaerung": "Ein Gefängnis ist ein Gebäude, in dem Menschen eingesperrt werden, die etwas Verbotenes getan haben.",
+  "beispielsatz": "In dem Buch landet der böse Räuber am Ende im Gefängnis.",
+  "rechtschreibstrategie": "Denk an das „ä\" in Gefängnis – es kommt vom Verb „fangen\". Außerdem hörst du das „ng\" deutlich, wenn du das Wort laut sprichst: Ge-fäng-nis.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fang",
+    "fäng"
+  ],
+  "bild_datei": "Gefängnis.webp",
+  "audio_datei": "Gefängnis.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefängnis",
+    "plural": "die Gefängnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefängnis",
+        "genitiv": "des Gefängnisses",
+        "dativ": "dem Gefängnis",
+        "akkusativ": "das Gefängnis"
+      },
+      "plural": {
+        "nominativ": "die Gefängnisse",
+        "genitiv": "der Gefängnisse",
+        "dativ": "den Gefängnissen",
+        "akkusativ": "die Gefängnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prison"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hapishane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سجن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gefangene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strafe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knast"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gefengniss",
+    "Gefängniss",
+    "Gefengnis",
+    "Gefänknis",
+    "Gefenkniss"
+  ]
+}

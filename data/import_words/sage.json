@@ -1,0 +1,82 @@
+{
+  "lemma": "Sage",
+  "wortart": "Nomen",
+  "silben": "Sa-ge",
+  "begriffserklaerung": "Eine Sage ist eine alte Geschichte, die Menschen sich früher erzählt haben. Oft gibt es darin Helden, Riesen, Drachen oder andere Zauberwesen.",
+  "beispielsatz": "In der Sage kämpft der mutige Ritter gegen einen feuerspeienden Drachen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Sa-ge. Das „g\" in der Mitte hörst du deutlich, wenn du es laut sagst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sagen"
+  ],
+  "bild_datei": "Sage.webp",
+  "audio_datei": "Sage.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sage",
+    "plural": "die Sagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sage",
+        "genitiv": "der Sage",
+        "dativ": "der Sage",
+        "akkusativ": "die Sage"
+      },
+      "plural": {
+        "nominativ": "die Sagen",
+        "genitiv": "der Sagen",
+        "dativ": "den Sagen",
+        "akkusativ": "die Sagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "legend / saga"
+    },
+    {
+      "language_code": "fr",
+      "translation": "légende"
+    },
+    {
+      "language_code": "tr",
+      "translation": "efsane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسطورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Legende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mythos"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sahge",
+    "Saage",
+    "Säge",
+    "Zage",
+    "Saje"
+  ]
+}

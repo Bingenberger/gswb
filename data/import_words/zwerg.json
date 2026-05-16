@@ -1,0 +1,87 @@
+{
+  "lemma": "Zwerg",
+  "wortart": "Nomen",
+  "silben": "Zwerg",
+  "begriffserklaerung": "Ein Zwerg ist ein sehr kleines Wesen aus Märchen und Sagen. Zwerge sehen aus wie kleine Menschen und leben oft im Wald oder in Bergen.",
+  "beispielsatz": "In dem Märchen helfen sieben Zwerge dem Mädchen Schneewittchen.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Zwerg\". Du hörst am Ende ein „g\", aber schreibe es mit „g\", denn wenn du „Zwerge\" sagst, hörst du das „g\" deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zwerg"
+  ],
+  "bild_datei": "Zwerg.webp",
+  "audio_datei": "Zwerg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dwarf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cüce"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قزم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zwergenhut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zwergenhaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Riese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knirps"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zwerg",
+    "plural": "die Zwerge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zwerg",
+        "genitiv": "des Zwerges",
+        "dativ": "dem Zwerg",
+        "akkusativ": "den Zwerg"
+      },
+      "plural": {
+        "nominativ": "die Zwerge",
+        "genitiv": "der Zwerge",
+        "dativ": "den Zwergen",
+        "akkusativ": "die Zwerge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sverg",
+    "Zwerk",
+    "Zwerck",
+    "Zwerg",
+    "Swerk",
+    "Zberg"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Tochter",
+  "wortart": "Nomen",
+  "silben": "Toch-ter",
+  "begriffserklaerung": "Eine Tochter ist ein Mädchen oder eine Frau, das oder die Kind von jemandem ist.",
+  "beispielsatz": "Die Tochter hilft ihrer Mutter beim Backen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Toch-ter. Nach dem kurzen „o\" hörst du das „ch\" – danach folgt das „t\". Merke: Das „ch\" und das „t\" gehören zu zwei verschiedenen Silben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tochter.webp",
+  "audio_datei": "Tochter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "daughter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sohn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mutter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tochter",
+    "plural": "die Töchter",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tochter",
+        "genitiv": "der Tochter",
+        "dativ": "der Tochter",
+        "akkusativ": "die Tochter"
+      },
+      "plural": {
+        "nominativ": "die Töchter",
+        "genitiv": "der Töchter",
+        "dativ": "den Töchtern",
+        "akkusativ": "die Töchter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dochter",
+    "Tochder",
+    "Tochtar",
+    "Tochderr",
+    "Tochtor"
+  ]
+}

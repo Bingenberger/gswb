@@ -1,0 +1,81 @@
+{
+  "lemma": "Bienenstock",
+  "wortart": "Nomen",
+  "silben": "Bie-nen-stock",
+  "begriffserklaerung": "Ein Bienenstock ist das Zuhause der Bienen. Dort leben viele Bienen zusammen, bauen Waben und machen Honig.",
+  "beispielsatz": "Der Imker schaut vorsichtig in den Bienenstock, um den Honig zu ernten.",
+  "rechtschreibstrategie": "Bienenstock ist ein zusammengesetztes Wort aus „Bienen\" und „Stock\". Sprich beide Teile einzeln: Bie-nen + Stock. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Biene",
+    "Stock"
+  ],
+  "bild_datei": "Bienenstock.webp",
+  "audio_datei": "Bienenstock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bienenstock",
+    "plural": "die Bienenstöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bienenstock",
+        "genitiv": "des Bienenstocks",
+        "dativ": "dem Bienenstock",
+        "akkusativ": "den Bienenstock"
+      },
+      "plural": {
+        "nominativ": "die Bienenstöcke",
+        "genitiv": "der Bienenstöcke",
+        "dativ": "den Bienenstöcken",
+        "akkusativ": "die Bienenstöcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beehive"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ruche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arı kovanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلية النحل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Imker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bienenwabe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bienenstok",
+    "Bienenstokk",
+    "Binnnenstock",
+    "Bienenstogg",
+    "Bienstock",
+    "Bienenshtock"
+  ]
+}

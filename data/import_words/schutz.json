@@ -1,0 +1,85 @@
+{
+  "lemma": "Schutz",
+  "wortart": "Nomen",
+  "silben": "Schutz",
+  "begriffserklaerung": "Schutz bedeutet, dass jemand oder etwas sicher ist und nicht verletzt oder beschädigt wird.",
+  "beispielsatz": "Der Helm bietet dir beim Fahrradfahren guten Schutz.",
+  "rechtschreibstrategie": "Nach dem kurzen Vokal „u\" schreibt man „tz\" – das ist das Kürzezeichen. Denk daran: kurzes „u\" → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schütz"
+  ],
+  "bild_datei": "Schutz.webp",
+  "audio_datei": "Schutz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "protection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "protection"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koruma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حماية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schutzhelm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sicherheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sicherheit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schutz",
+    "plural": "die Schutze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schutz",
+        "genitiv": "des Schutzes",
+        "dativ": "dem Schutz",
+        "akkusativ": "den Schutz"
+      },
+      "plural": {
+        "nominativ": "die Schutze",
+        "genitiv": "der Schutze",
+        "dativ": "den Schutzen",
+        "akkusativ": "die Schutze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schutz",
+    "Shutz",
+    "Schuz",
+    "Sschutz"
+  ]
+}

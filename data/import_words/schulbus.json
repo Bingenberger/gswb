@@ -1,0 +1,83 @@
+{
+  "lemma": "Schulbus",
+  "wortart": "Nomen",
+  "silben": "Schul-bus",
+  "begriffserklaerung": "Ein Schulbus ist ein großes Fahrzeug, das Kinder morgens zur Schule bringt und nachmittags wieder nach Hause fährt.",
+  "beispielsatz": "Jeden Morgen wartet Lena an der Haltestelle auf den gelben Schulbus.",
+  "rechtschreibstrategie": "Das Wort „Schulbus\" besteht aus zwei Teilen: „Schul-\" (von Schule) und „-bus\". Sprich beide Bausteine laut mit: SCHUL – BUS!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Bus"
+  ],
+  "bild_datei": "Schulbus.webp",
+  "audio_datei": "Schulbus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school bus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bus scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul otobüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافلة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulbus",
+    "plural": "die Schulbusse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulbus",
+        "genitiv": "des Schulbusses",
+        "dativ": "dem Schulbus",
+        "akkusativ": "den Schulbus"
+      },
+      "plural": {
+        "nominativ": "die Schulbusse",
+        "genitiv": "der Schulbusse",
+        "dativ": "den Schulbussen",
+        "akkusativ": "die Schulbusse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulbuß",
+    "Schulbuss",
+    "Shulbus",
+    "Schulbuhs",
+    "Schulbuz"
+  ]
+}

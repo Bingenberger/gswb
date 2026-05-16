@@ -1,0 +1,82 @@
+{
+  "lemma": "Schiene",
+  "wortart": "Nomen",
+  "silben": "Schie-ne",
+  "begriffserklaerung": "Eine Schiene ist ein langer, schmaler Streifen aus Metall. Auf Schienen fahren Züge und Straßenbahnen. Eine Schiene kann auch eine starre Stütze für einen gebrochenen Knochen sein.",
+  "beispielsatz": "Der Zug fährt schnell auf den Schienen entlang.",
+  "rechtschreibstrategie": "Höre genau hin: Das „ie\" in „Schie-ne\" klingt lang. Denk daran: langes „i\" schreibt man hier mit „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schien"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schiene",
+    "plural": "die Schienen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schiene",
+        "genitiv": "der Schiene",
+        "dativ": "der Schiene",
+        "akkusativ": "die Schiene"
+      },
+      "plural": {
+        "nominativ": "die Schienen",
+        "genitiv": "der Schienen",
+        "dativ": "den Schienen",
+        "akkusativ": "die Schienen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schine",
+    "Schihne",
+    "Schienne",
+    "Schene",
+    "Schiehne"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schienennetz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schienenfahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gleis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rail / splint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rail / attelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ray / atel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قضيب / جبيرة"
+    }
+  ],
+  "bild_datei": "Schiene.webp",
+  "audio_datei": "Schiene.mp3"
+}

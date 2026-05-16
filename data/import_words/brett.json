@@ -1,0 +1,82 @@
+{
+  "lemma": "Brett",
+  "wortart": "Nomen",
+  "silben": "Brett",
+  "begriffserklaerung": "Ein Brett ist ein flaches, langes Stück Holz. Bretter werden zum Bauen, als Unterlage oder zum Spielen benutzt.",
+  "beispielsatz": "Papa legt ein Brett über den Graben, damit wir hinübergehen können.",
+  "rechtschreibstrategie": "Das Wort „Brett\" hat nach dem kurzen „e\" ein Doppel-t. Sprich es laut: Br-ett – du hörst, wie kurz das „e\" klingt. Deshalb schreibt man zwei t!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Brett"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brett",
+    "plural": "die Bretter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brett",
+        "genitiv": "des Brettes",
+        "dativ": "dem Brett",
+        "akkusativ": "das Brett"
+      },
+      "plural": {
+        "nominativ": "die Bretter",
+        "genitiv": "der Bretter",
+        "dativ": "den Brettern",
+        "akkusativ": "die Bretter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bret",
+    "Bredd",
+    "Brät",
+    "Bredt",
+    "Brätt"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bretterbude"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneidebrett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Balken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Planke"
+    }
+  ],
+  "bild_datei": "Brett.webp",
+  "audio_datei": "Brett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "board"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح"
+    }
+  ]
+}

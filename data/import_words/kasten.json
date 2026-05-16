@@ -1,0 +1,86 @@
+{
+  "lemma": "Kasten",
+  "wortart": "Nomen",
+  "silben": "Kas-ten",
+  "begriffserklaerung": "Ein Kasten ist ein viereckiger Behälter mit Wänden und meist einem Deckel. In einem Kasten kann man viele Dinge aufbewahren oder transportieren.",
+  "beispielsatz": "Mama legt die Buntstifte in den Kasten, damit sie nicht verloren gehen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Kas-ten. Das „s\" in der Mitte klingt scharf – schreib es einfach als „s\", nicht als „ss\" oder „ß\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kasten"
+  ],
+  "bild_datei": "Kasten.webp",
+  "audio_datei": "Kasten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kutu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kästchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kiste"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Box"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behälter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Truhe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kasten",
+    "plural": "die Kästen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kasten",
+        "genitiv": "des Kastens",
+        "dativ": "dem Kasten",
+        "akkusativ": "den Kasten"
+      },
+      "plural": {
+        "nominativ": "die Kästen",
+        "genitiv": "der Kästen",
+        "dativ": "den Kästen",
+        "akkusativ": "die Kästen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Casten",
+    "Kassten",
+    "Kaßten",
+    "Kastten",
+    "Kasten"
+  ]
+}

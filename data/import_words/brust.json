@@ -1,0 +1,82 @@
+{
+  "lemma": "Brust",
+  "wortart": "Nomen",
+  "silben": "Brust",
+  "begriffserklaerung": "Die Brust ist der vordere Teil des Oberkörpers zwischen Hals und Bauch. Dort sitzt das Herz.",
+  "beispielsatz": "Das Kind drückte das Kuscheltier fest an seine Brust.",
+  "rechtschreibstrategie": "Verlängere das Wort: Brust → Brüste. Du hörst das „t\" am Ende deutlich – also schreibst du auch „Brust\" mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Brust"
+  ],
+  "bild_datei": "Brust.webp",
+  "audio_datei": "Brust.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poitrine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göğüs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صدر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brüsten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brustkorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rücken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Brust",
+    "plural": "die Brüste",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Brust",
+        "genitiv": "der Brust",
+        "dativ": "der Brust",
+        "akkusativ": "die Brust"
+      },
+      "plural": {
+        "nominativ": "die Brüste",
+        "genitiv": "der Brüste",
+        "dativ": "den Brüsten",
+        "akkusativ": "die Brüste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brusst",
+    "Brusd",
+    "Brusdt",
+    "Bruzt",
+    "Brus"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Hang",
+  "wortart": "Nomen",
+  "silben": "Hang",
+  "begriffserklaerung": "Ein Hang ist eine schräge Seite eines Hügels oder Berges, die nach unten abfällt.",
+  "beispielsatz": "Im Winter rodeln wir den steilen Hang hinunter.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Hang\". Der kurze Vokal „a\" wird durch das „ng\" am Ende abgekürzt – du hörst, dass kein „h\" in der Mitte steht.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "hang",
+    "hängen"
+  ],
+  "bild_datei": "Hang.webp",
+  "audio_datei": "Hang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yamaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منحدر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hängen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abhang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hügel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abhang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hang",
+    "plural": "die Hänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hang",
+        "genitiv": "des Hanges",
+        "dativ": "dem Hang",
+        "akkusativ": "den Hang"
+      },
+      "plural": {
+        "nominativ": "die Hänge",
+        "genitiv": "der Hänge",
+        "dativ": "den Hängen",
+        "akkusativ": "die Hänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hang",
+    "Hank",
+    "Hanng",
+    "Haang",
+    "Hangg"
+  ]
+}

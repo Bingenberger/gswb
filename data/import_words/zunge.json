@@ -1,0 +1,82 @@
+{
+  "lemma": "Zunge",
+  "wortart": "Nomen",
+  "silben": "Zun-ge",
+  "begriffserklaerung": "Die Zunge ist ein Muskel im Mund. Mit ihr kannst du schmecken, sprechen und schlucken.",
+  "beispielsatz": "Die Zunge hilft mir beim Sprechen und beim Schmecken, ob etwas süß oder sauer ist.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Zun-ge. Denk daran, dass am Ende ein „e\" steht, das du kaum hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Zunge"
+  ],
+  "bild_datei": "Zunge.webp",
+  "audio_datei": "Zunge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tongue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "langue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لسان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zungenförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zungenbrecher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lippe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zunge",
+    "plural": "die Zungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zunge",
+        "genitiv": "der Zunge",
+        "dativ": "der Zunge",
+        "akkusativ": "die Zunge"
+      },
+      "plural": {
+        "nominativ": "die Zungen",
+        "genitiv": "der Zungen",
+        "dativ": "den Zungen",
+        "akkusativ": "die Zungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tsunge",
+    "Zungge",
+    "Zungue",
+    "Zunke",
+    "Sunge"
+  ]
+}

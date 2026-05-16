@@ -1,0 +1,83 @@
+{
+  "lemma": "Bootsmann",
+  "wortart": "Nomen",
+  "silben": "Boots-mann",
+  "begriffserklaerung": "Ein Bootsmann ist ein erfahrener Seemann auf einem Schiff, der für die Ausrüstung und das Deck zuständig ist und andere Matrosen anleitet.",
+  "beispielsatz": "Der Bootsmann rief den Matrosen zu, dass sie das Seil fest verknoten sollen.",
+  "rechtschreibstrategie": "Das Wort „Bootsmann\" ist ein zusammengesetztes Wort aus „Boot\" und „Mann\". Schreibe beide Teile einfach hintereinander: Boot + Mann = Bootsmann. Das „oo\" in „Boot\" sprichst du lang, wie in „Zoo\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Boot",
+    "Mann"
+  ],
+  "bild_datei": "Bootsmann.webp",
+  "audio_datei": "Bootsmann.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bootsmann",
+    "plural": "die Bootsmänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bootsmann",
+        "genitiv": "des Bootsmanns",
+        "dativ": "dem Bootsmann",
+        "akkusativ": "den Bootsmann"
+      },
+      "plural": {
+        "nominativ": "die Bootsmänner",
+        "genitiv": "der Bootsmänner",
+        "dativ": "den Bootsmännern",
+        "akkusativ": "die Bootsmänner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boatswain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maître d'équipage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vardiya amiri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رئيس البحارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Matrose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bootsman",
+    "Bootzmann",
+    "Botsmann",
+    "Bootssmmann"
+  ]
+}

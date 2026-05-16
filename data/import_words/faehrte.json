@@ -1,0 +1,88 @@
+{
+  "lemma": "Fährte",
+  "wortart": "Nomen",
+  "silben": "Fähr-te",
+  "begriffserklaerung": "Eine Fährte ist die Spur, die ein Tier oder ein Mensch hinterlässt, zum Beispiel Fußabdrücke im Boden oder ein besonderer Geruch.",
+  "beispielsatz": "Der Hund folgte aufgeregt der Fährte des Hasen durch den Wald.",
+  "rechtschreibstrategie": "Das Wort „Fährte\" hat ein Dehnungs-h nach dem ä: f – ä – h – r – t – e. Das h sprichst du nicht, aber du schreibst es!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahren",
+    "Fahr"
+  ],
+  "bild_datei": "Fährte.webp",
+  "audio_datei": "Fährte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fährte",
+    "plural": "die Fährten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fährte",
+        "genitiv": "der Fährte",
+        "dativ": "der Fährte",
+        "akkusativ": "die Fährte"
+      },
+      "plural": {
+        "nominativ": "die Fährten",
+        "genitiv": "der Fährten",
+        "dativ": "den Fährten",
+        "akkusativ": "die Fährten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trail / track"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piste / trace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iz / ipucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أثر / درب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufspüren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abdruck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jagd"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferte",
+    "Färte",
+    "Fahrte",
+    "Fähte",
+    "Führte",
+    "Fährd"
+  ]
+}

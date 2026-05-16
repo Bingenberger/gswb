@@ -1,0 +1,81 @@
+{
+  "lemma": "Wanne",
+  "wortart": "Nomen",
+  "silben": "Wan-ne",
+  "begriffserklaerung": "Eine Wanne ist ein großes, tiefes Behältnis, das man mit Wasser füllen kann. In einer Badewanne kann man zum Beispiel Baden.",
+  "beispielsatz": "Die Wanne ist voll mit warmem Wasser und Badeschaum.",
+  "rechtschreibstrategie": "Das Wort „Wanne\" hat ein doppeltes n. Sprich es laut: Wan-ne. Der kurze Vokal „a\" zeigt dir, dass zwei n kommen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wanne"
+  ],
+  "bild_datei": "Wanne.webp",
+  "audio_datei": "Wanne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tub"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baignoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küvet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض الاستحمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bottich"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wanne",
+    "plural": "die Wannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wanne",
+        "genitiv": "der Wanne",
+        "dativ": "der Wanne",
+        "akkusativ": "die Wanne"
+      },
+      "plural": {
+        "nominativ": "die Wannen",
+        "genitiv": "der Wannen",
+        "dativ": "den Wannen",
+        "akkusativ": "die Wannen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vanne",
+    "Wane",
+    "Wahne",
+    "Wanme"
+  ]
+}

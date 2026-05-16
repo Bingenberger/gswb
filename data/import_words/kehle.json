@@ -1,0 +1,78 @@
+{
+  "lemma": "Kehle",
+  "wortart": "Nomen",
+  "silben": "Keh-le",
+  "begriffserklaerung": "Die Kehle ist der vordere Teil deines Halses. Durch sie kannst du schlucken und sprechen.",
+  "beispielsatz": "Wenn ich erkältet bin, kratzt mir die Kehle.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Nach dem „K\" kommt ein „e\", dann ein „h\" – das h macht das „e\" lang. Sprich es deutlich: „Keee-le\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kehle",
+    "plural": "die Kehlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kehle",
+        "genitiv": "der Kehle",
+        "dativ": "der Kehle",
+        "akkusativ": "die Kehle"
+      },
+      "plural": {
+        "nominativ": "die Kehlen",
+        "genitiv": "der Kehlen",
+        "dativ": "den Kehlen",
+        "akkusativ": "die Kehlen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kehl"
+  ],
+  "fehlschreibungen": [
+    "Kele",
+    "Keele",
+    "Köhle",
+    "Kehlle",
+    "Kähle"
+  ],
+  "bild_datei": "Kehle.webp",
+  "audio_datei": "Kehle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "throat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gorge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boğaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kehlkopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hals"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hals"
+    }
+  ]
+}

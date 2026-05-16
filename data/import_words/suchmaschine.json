@@ -1,0 +1,83 @@
+{
+  "lemma": "Suchmaschine",
+  "wortart": "Nomen",
+  "silben": "Such-ma-schi-ne",
+  "begriffserklaerung": "Eine Suchmaschine ist ein Programm im Internet, mit dem man Informationen, Bilder oder Webseiten suchen und finden kann. Man gibt ein Wort ein und bekommt viele Ergebnisse angezeigt.",
+  "beispielsatz": "Lena tippt „Dinosaurier\" in die Suchmaschine und findet sofort tolle Bilder.",
+  "rechtschreibstrategie": "„Suchmaschine\" ist ein zusammengesetztes Wort aus „suchen\" und „Maschine\". Sprich es in Teile: Such-ma-schi-ne. Das „sch\" klingt wie in „Schule\" – merke dir: sch bleibt immer zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "such",
+    "Maschine"
+  ],
+  "bild_datei": "Suchmaschine.webp",
+  "audio_datei": "Suchmaschine.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Suchmaschine",
+    "plural": "die Suchmaschinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Suchmaschine",
+        "genitiv": "der Suchmaschine",
+        "dativ": "der Suchmaschine",
+        "akkusativ": "die Suchmaschine"
+      },
+      "plural": {
+        "nominativ": "die Suchmaschinen",
+        "genitiv": "der Suchmaschinen",
+        "dativ": "den Suchmaschinen",
+        "akkusativ": "die Suchmaschinen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "search engine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moteur de recherche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arama motoru"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محرك البحث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Webseite"
+    }
+  ],
+  "fehlschreibungen": [
+    "Suchmashine",
+    "Suchmachiene",
+    "Suchmaschiene",
+    "Zuchmaschine",
+    "Suchmasshine"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Urheber",
+  "wortart": "Nomen",
+  "silben": "Ur-he-ber",
+  "begriffserklaerung": "Ein Urheber ist jemand, der etwas erschaffen oder erfunden hat – zum Beispiel ein Buch geschrieben oder ein Bild gemalt hat. Der Urheber darf allein bestimmen, wer sein Werk benutzen darf.",
+  "beispielsatz": "Der Urheber des Gedichts freut sich, wenn seine Worte vorgelesen werden.",
+  "rechtschreibstrategie": "Das Wort „Urheber\" besteht aus zwei Bausteinen: „Ur-\" und „Heber\" (von „heben\"). Sprich beide Teile deutlich: Ur – he – ber.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "heben",
+    "Urheber"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Urheber",
+    "plural": "die Urheber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Urheber",
+        "genitiv": "des Urhebers",
+        "dativ": "dem Urheber",
+        "akkusativ": "den Urheber"
+      },
+      "plural": {
+        "nominativ": "die Urheber",
+        "genitiv": "der Urheber",
+        "dativ": "den Urhebern",
+        "akkusativ": "die Urheber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Uhrheber",
+    "Urhäber",
+    "Urhebber",
+    "Urheber",
+    "Uhrhäber",
+    "Urrheber"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "originator / author"
+    },
+    {
+      "language_code": "fr",
+      "translation": "auteur / créateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaratıcı / yazar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُبدِع / مُؤلِّف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Urheberrecht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erfinder"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schöpfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Autor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Künstler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werk"
+    }
+  ],
+  "bild_datei": "Urheber.webp",
+  "audio_datei": "Urheber.mp3"
+}

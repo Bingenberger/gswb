@@ -1,0 +1,85 @@
+{
+  "lemma": "Kinderzimmer",
+  "wortart": "Nomen",
+  "silben": "Kin-der-zim-mer",
+  "begriffserklaerung": "Das Kinderzimmer ist der Raum in einer Wohnung oder einem Haus, der besonders für Kinder da ist. Dort schläft, spielt und lernt ein Kind.",
+  "beispielsatz": "Im Kinderzimmer liegen viele bunte Spielsachen auf dem Boden.",
+  "rechtschreibstrategie": "Das Wort „Kinderzimmer\" besteht aus zwei Teilen: „Kinder\" und „Zimmer\". Das „mm\" in „Zimmer\" schreibst du doppelt, weil der Vokal davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kind",
+    "Zimmer"
+  ],
+  "bild_datei": "Kinderzimmer.webp",
+  "audio_datei": "Kinderzimmer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kinderzimmer",
+    "plural": "die Kinderzimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kinderzimmer",
+        "genitiv": "des Kinderzimmers",
+        "dativ": "dem Kinderzimmer",
+        "akkusativ": "das Kinderzimmer"
+      },
+      "plural": {
+        "nominativ": "die Kinderzimmer",
+        "genitiv": "der Kinderzimmer",
+        "dativ": "den Kinderzimmern",
+        "akkusativ": "die Kinderzimmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "children's room"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chambre d'enfant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çocuk odası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة الأطفال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlafzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kinderstube"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kinderzimer",
+    "Kinderzimmer",
+    "Kinterzimmer",
+    "Kindazimmer",
+    "Kindertzimmer",
+    "Kinder Zimmer"
+  ]
+}

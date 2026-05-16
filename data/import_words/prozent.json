@@ -1,0 +1,83 @@
+{
+  "lemma": "Prozent",
+  "wortart": "Nomen",
+  "silben": "Pro-zent",
+  "begriffserklaerung": "Ein Prozent ist ein Hundertstel von etwas. Das Zeichen dafür ist %. Wenn du 100 Bonbons hast und 10 % davon isst, hast du 10 Bonbons gegessen.",
+  "beispielsatz": "In der Schule habe ich 100 % der Aufgaben richtig gelöst!",
+  "rechtschreibstrategie": "Das Wort „Prozent\" kommt aus dem Lateinischen „pro centum\" (für hundert). Denke daran: Pro-ZENT – am Ende steht ein Z, nicht ein S!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Prozent"
+  ],
+  "bild_datei": "Prozent.webp",
+  "audio_datei": "Prozent.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "percent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pour cent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بالمئة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Prozentsatz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "prozentual"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anteil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bruchteil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Prozent",
+    "plural": "die Prozent",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Prozent",
+        "genitiv": "des Prozents",
+        "dativ": "dem Prozent",
+        "akkusativ": "das Prozent"
+      },
+      "plural": {
+        "nominativ": "die Prozent",
+        "genitiv": "der Prozent",
+        "dativ": "den Prozent",
+        "akkusativ": "die Prozent"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prosent",
+    "Prozend",
+    "Prозent",
+    "Prozänt",
+    "Prозend",
+    "Prozant"
+  ]
+}

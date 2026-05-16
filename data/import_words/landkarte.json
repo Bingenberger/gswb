@@ -1,0 +1,88 @@
+{
+  "lemma": "Landkarte",
+  "wortart": "Nomen",
+  "silben": "Land-kar-te",
+  "begriffserklaerung": "Eine Landkarte ist ein Bild, das zeigt, wie die Erde oder ein bestimmtes Gebiet von oben aussieht. Man kann darauf Länder, Städte, Flüsse und Berge erkennen.",
+  "beispielsatz": "Im Unterricht zeigt die Lehrerin uns auf der Landkarte, wo Deutschland liegt.",
+  "rechtschreibstrategie": "„Landkarte\" besteht aus zwei Teilen: „Land\" und „Karte\". Sprich beide Teile einzeln: LAND – KAR – TE. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Land",
+    "Karte"
+  ],
+  "bild_datei": "Landkarte.webp",
+  "audio_datei": "Landkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "map"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carte géographique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "harita"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خريطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atlas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Globus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Landkarte",
+    "plural": "die Landkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Landkarte",
+        "genitiv": "der Landkarte",
+        "dativ": "der Landkarte",
+        "akkusativ": "die Landkarte"
+      },
+      "plural": {
+        "nominativ": "die Landkarten",
+        "genitiv": "der Landkarten",
+        "dativ": "den Landkarten",
+        "akkusativ": "die Landkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lantkarte",
+    "Landkart",
+    "Landcarte",
+    "Lantkart",
+    "Landkahrte",
+    "Lannkarte"
+  ]
+}

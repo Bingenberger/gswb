@@ -1,0 +1,90 @@
+{
+  "lemma": "Tuch",
+  "wortart": "Nomen",
+  "silben": "Tuch",
+  "begriffserklaerung": "Ein Tuch ist ein Stück Stoff, das man zum Abtrocknen, Einwickeln oder Warmhalten benutzt.",
+  "beispielsatz": "Mama bindet sich ein buntes Tuch um den Hals.",
+  "rechtschreibstrategie": "Das Tuch hat nur einen kurzen Vokal „u\", danach kommt „ch\" – das schreibt man immer so: T-u-c-h.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Tuch",
+    "plural": "Tücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tuch",
+        "genitiv": "des Tuchs / des Tuches",
+        "dativ": "dem Tuch / dem Tuche",
+        "akkusativ": "das Tuch"
+      },
+      "plural": {
+        "nominativ": "die Tücher",
+        "genitiv": "der Tücher",
+        "dativ": "den Tüchern",
+        "akkusativ": "die Tücher"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Tuch"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taschentuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halstuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tüchlein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Decke"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cloth / scarf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tissu / foulard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bez / fular"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قماش / وشاح"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tuhch",
+    "Tuhk",
+    "Tuk",
+    "Duch",
+    "Tuch"
+  ],
+  "bild_datei": "Tuch.webp",
+  "audio_datei": "Tuch.mp3"
+}

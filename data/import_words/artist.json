@@ -1,0 +1,82 @@
+{
+  "lemma": "Artist",
+  "wortart": "Nomen",
+  "silben": "Ar-tist",
+  "begriffserklaerung": "Ein Artist ist ein Mensch, der schwierige Kunststücke vorführt – zum Beispiel im Zirkus. Er kann jonglieren, Akrobatik machen oder auf dem Seil balancieren.",
+  "beispielsatz": "Der Artist im Zirkus jongliert mit fünf Bällen gleichzeitig.",
+  "rechtschreibstrategie": "Das Wort „Artist\" schreibt man mit einem „t\" in der Mitte und endet auf „-ist\". Sprich es laut: Ar-tist – dann hörst du beide Silben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Artistik"
+  ],
+  "bild_datei": "Artist.webp",
+  "audio_datei": "Artist.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "artist / performer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "artiste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "artist"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Artistik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "artistisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zirkus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akrobat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Akrobat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Artist",
+    "plural": "die Artisten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Artist",
+        "genitiv": "des Artisten",
+        "dativ": "dem Artisten",
+        "akkusativ": "den Artisten"
+      },
+      "plural": {
+        "nominativ": "die Artisten",
+        "genitiv": "der Artisten",
+        "dativ": "den Artisten",
+        "akkusativ": "die Artisten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arttist",
+    "Artisst",
+    "Artiest",
+    "Arrtist",
+    "Artyst"
+  ]
+}

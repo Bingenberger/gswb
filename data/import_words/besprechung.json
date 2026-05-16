@@ -1,0 +1,87 @@
+{
+  "lemma": "Besprechung",
+  "wortart": "Nomen",
+  "silben": "Be-spre-chung",
+  "begriffserklaerung": "Eine Besprechung ist ein Treffen, bei dem mehrere Menschen miteinander reden und etwas gemeinsam besprechen oder planen.",
+  "beispielsatz": "Die Lehrerin hat eine Besprechung mit den Eltern.",
+  "rechtschreibstrategie": "Denk an das Verb „sprechen\" – in „Besprechung\" steckt das Wort „sprech\". So merkst du dir die Schreibung!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sprech"
+  ],
+  "bild_datei": "Besprechung.webp",
+  "audio_datei": "Besprechung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Besprechung",
+    "plural": "die Besprechungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Besprechung",
+        "genitiv": "der Besprechung",
+        "dativ": "der Besprechung",
+        "akkusativ": "die Besprechung"
+      },
+      "plural": {
+        "nominativ": "die Besprechungen",
+        "genitiv": "der Besprechungen",
+        "dativ": "den Besprechungen",
+        "akkusativ": "die Besprechungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "meeting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réunion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplantı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اجتماع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "besprechen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treffen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konferenz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versammlung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Besprehung",
+    "Besprächung",
+    "Bespreechung",
+    "Besprechunk",
+    "Besprechug"
+  ]
+}

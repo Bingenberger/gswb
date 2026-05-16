@@ -1,0 +1,78 @@
+{
+  "lemma": "Eichel",
+  "wortart": "Nomen",
+  "silben": "Ei-chel",
+  "begriffserklaerung": "Eine Eichel ist die kleine, braune Frucht der Eiche. Sie hat eine runde Form und sitzt in einem kleinen Becher. Eichhörnchen und Wildschweine fressen sie gerne.",
+  "beispielsatz": "Im Herbst sammeln wir viele Eicheln im Wald.",
+  "rechtschreibstrategie": "Denk an den Baum: Ei-che → Ei-chel. Der Anfang klingt wie „Ei\", dann folgt „chel\". Sprich die Silben laut mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Eiche"
+  ],
+  "bild_datei": "Eichel.webp",
+  "audio_datei": "Eichel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "acorn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gland"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meşe palamudu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلوطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eiche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nuss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kastanie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zapfen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eichel",
+    "plural": "die Eicheln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eichel",
+        "genitiv": "der Eichel",
+        "dativ": "der Eichel",
+        "akkusativ": "die Eichel"
+      },
+      "plural": {
+        "nominativ": "die Eicheln",
+        "genitiv": "der Eicheln",
+        "dativ": "den Eicheln",
+        "akkusativ": "die Eicheln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aichel",
+    "Eichell",
+    "Eichle",
+    "Eichl",
+    "Aichell"
+  ]
+}

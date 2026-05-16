@@ -1,0 +1,87 @@
+{
+  "lemma": "Bauarbeiter",
+  "wortart": "Nomen",
+  "silben": "Bau-ar-bei-ter",
+  "begriffserklaerung": "Ein Bauarbeiter ist ein Mann, der Häuser, Straßen oder Brücken baut. Er arbeitet draußen auf einer Baustelle und benutzt dabei Werkzeuge und große Maschinen.",
+  "beispielsatz": "Der Bauarbeiter trägt einen gelben Schutzhelm und baut eine neue Schule.",
+  "rechtschreibstrategie": "Das Wort „Bauarbeiter\" besteht aus zwei Teilen: „Bau\" und „Arbeiter\". Sprich beide Teile einzeln: BAU – AR-BEI-TER. So kannst du das Wort Schritt für Schritt richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bau",
+    "Arbeit"
+  ],
+  "bild_datei": "Bauarbeiter.webp",
+  "audio_datei": "Bauarbeiter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauarbeiter",
+    "plural": "die Bauarbeiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauarbeiter",
+        "genitiv": "des Bauarbeiters",
+        "dativ": "dem Bauarbeiter",
+        "akkusativ": "den Bauarbeiter"
+      },
+      "plural": {
+        "nominativ": "die Bauarbeiter",
+        "genitiv": "der Bauarbeiter",
+        "dativ": "den Bauarbeitern",
+        "akkusativ": "die Bauarbeiter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "construction worker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouvrier du bâtiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inşaat işçisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عامل بناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Maurer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bauarbeiiter",
+    "Bauarbaiter",
+    "Bauarbeitter",
+    "Bauarpeiter",
+    "Bauarbeider"
+  ]
+}

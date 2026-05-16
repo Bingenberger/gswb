@@ -1,0 +1,84 @@
+{
+  "lemma": "Stoppuhr",
+  "wortart": "Nomen",
+  "silben": "Stopp-uhr",
+  "begriffserklaerung": "Eine Stoppuhr ist eine besondere Uhr, mit der man genau messen kann, wie lange etwas dauert. Man startet sie, wenn etwas beginnt, und stoppt sie, wenn es endet.",
+  "beispielsatz": "Der Sportlehrer drückte auf die Stoppuhr, um zu messen, wie schnell Mia die 50 Meter gelaufen ist.",
+  "rechtschreibstrategie": "Das Wort „Stoppuhr\" besteht aus zwei Bausteinen: „Stopp\" und „Uhr\". „Stopp\" schreibt man mit Doppel-p, weil das „o\" kurz klingt. Denk einfach daran: erst „stopp!\", dann schau auf die „Uhr\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "stopp",
+    "Uhr"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stoppuhr",
+    "plural": "die Stoppuhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stoppuhr",
+        "genitiv": "der Stoppuhr",
+        "dativ": "der Stoppuhr",
+        "akkusativ": "die Stoppuhr"
+      },
+      "plural": {
+        "nominativ": "die Stoppuhren",
+        "genitiv": "der Stoppuhren",
+        "dativ": "den Stoppuhren",
+        "akkusativ": "die Stoppuhren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stopuhr",
+    "Stoppuhr",
+    "Shtoppuhr",
+    "Stoopuhr",
+    "Stoppur"
+  ],
+  "bild_datei": "Stoppuhr.webp",
+  "audio_datei": "Stoppuhr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stopwatch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chronomètre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kronometre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة إيقاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stoppen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armbanduhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitmessung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Chronometer"
+    }
+  ]
+}

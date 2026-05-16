@@ -1,0 +1,84 @@
+{
+  "lemma": "Wassermelone",
+  "wortart": "Nomen",
+  "silben": "Was-ser-me-lo-ne",
+  "begriffserklaerung": "Eine Wassermelone ist eine große, runde Frucht mit grüner Schale und rotem, saftigem Fruchtfleisch. Sie enthält viele kleine schwarze Kerne und schmeckt sehr süß.",
+  "beispielsatz": "Im Sommer essen wir am liebsten ein Stück Wassermelone, weil sie so schön kühl und süß ist.",
+  "rechtschreibstrategie": "Das Wort „Wassermelone\" ist aus zwei Teilen zusammengesetzt: „Wasser\" und „Melone\". Schreib beide Teile einfach hintereinander. Das „ss\" in „Wasser\" kommt nach dem kurzen „a\" – das zeigt dir das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Melone"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wassermelone",
+    "plural": "die Wassermelonen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wassermelone",
+        "genitiv": "der Wassermelone",
+        "dativ": "der Wassermelone",
+        "akkusativ": "die Wassermelone"
+      },
+      "plural": {
+        "nominativ": "die Wassermelonen",
+        "genitiv": "der Wassermelonen",
+        "dativ": "den Wassermelonen",
+        "akkusativ": "die Wassermelonen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wassermeloone",
+    "Wasermelone",
+    "Wassermellone",
+    "Wassermelohne",
+    "Wässermelone"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "watermelon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pastèque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karpuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطيخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Melone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Banane"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ananas"
+    }
+  ],
+  "bild_datei": "Wassermelone.webp",
+  "audio_datei": "Wassermelone.mp3"
+}

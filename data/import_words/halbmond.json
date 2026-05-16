@@ -1,0 +1,84 @@
+{
+  "lemma": "Halbmond",
+  "wortart": "Nomen",
+  "silben": "Halb-mond",
+  "begriffserklaerung": "Ein Halbmond ist der Mond, wenn man ihn nur zur Hälfte als helle Scheibe am Himmel sehen kann. Er sieht dann aus wie ein großes „D\" oder ein „C\".",
+  "beispielsatz": "Heute Nacht leuchtet ein schöner Halbmond am dunklen Himmel.",
+  "rechtschreibstrategie": "„Halbmond\" ist ein zusammengesetztes Wort aus „halb\" und „Mond\". Schreibe beide Teile einfach hintereinander – kein Bindestrich in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "halb",
+    "Mond"
+  ],
+  "bild_datei": "Halbmond.webp",
+  "audio_datei": "Halbmond.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "half moon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "demi-lune"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hilal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هلال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halb"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vollmond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Neumond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Halbmond",
+    "plural": "die Halbmonde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Halbmond",
+        "genitiv": "des Halbmondes",
+        "dativ": "dem Halbmond",
+        "akkusativ": "den Halbmond"
+      },
+      "plural": {
+        "nominativ": "die Halbmonde",
+        "genitiv": "der Halbmonde",
+        "dativ": "den Halbmonden",
+        "akkusativ": "die Halbmonde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Halbmont",
+    "Halpmond",
+    "Halbmonn",
+    "Halb-Mond",
+    "halbmond"
+  ]
+}

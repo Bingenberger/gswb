@@ -1,0 +1,87 @@
+{
+  "lemma": "Banknote",
+  "wortart": "Nomen",
+  "silben": "Bank-no-te",
+  "begriffserklaerung": "Eine Banknote ist ein Geldschein aus Papier, den du zum Bezahlen benutzt. Sie wird von der Bank herausgegeben und hat einen bestimmten Wert, zum Beispiel 10 Euro oder 50 Euro.",
+  "beispielsatz": "Mama zieht eine Banknote aus ihrer Geldbörse und bezahlt damit die Einkäufe.",
+  "rechtschreibstrategie": "Das Wort „Banknote\" besteht aus zwei Teilen: „Bank\" und „Note\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bank",
+    "Note"
+  ],
+  "bild_datei": "Banknote.webp",
+  "audio_datei": "Banknote.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "banknote"
+    },
+    {
+      "language_code": "fr",
+      "translation": "billet de banque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banknot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة نقدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Note"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldbörse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Banknote",
+    "plural": "die Banknoten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Banknote",
+        "genitiv": "der Banknote",
+        "dativ": "der Banknote",
+        "akkusativ": "die Banknote"
+      },
+      "plural": {
+        "nominativ": "die Banknoten",
+        "genitiv": "der Banknoten",
+        "dativ": "den Banknoten",
+        "akkusativ": "die Banknoten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Banknotte",
+    "Bancknote",
+    "Banknothe",
+    "Banknohte",
+    "Bangknote"
+  ]
+}

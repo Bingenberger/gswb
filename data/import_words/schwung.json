@@ -1,0 +1,90 @@
+{
+  "lemma": "Schwung",
+  "wortart": "Nomen",
+  "silben": "Schwung",
+  "begriffserklaerung": "Ein Schwung ist eine schnelle, bogenförmige Bewegung – zum Beispiel wenn du auf einer Schaukel hin- und herschwingt.",
+  "beispielsatz": "Die Schaukel bekommt immer mehr Schwung.",
+  "rechtschreibstrategie": "Das Wort „Schwung\" endet auf -ung. Hör genau hin: Sch-w-u-ng – schreib es so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schwung",
+    "plural": "die Schwünge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schwung",
+        "genitiv": "des Schwunges",
+        "dativ": "dem Schwung",
+        "akkusativ": "den Schwung"
+      },
+      "plural": {
+        "nominativ": "die Schwünge",
+        "genitiv": "der Schwünge",
+        "dativ": "den Schwüngen",
+        "akkusativ": "die Schwünge"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "schwing"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwingen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwingen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwingung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Elan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tempo"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schwunk",
+    "Shwung",
+    "Schvung",
+    "Swung",
+    "Schwunng"
+  ],
+  "bild_datei": "Schwung.webp",
+  "audio_datei": "Schwung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swing / momentum"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élan / balancement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sallanma / ivme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زخم / أرجوحة"
+    }
+  ]
+}

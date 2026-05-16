@@ -1,0 +1,99 @@
+{
+  "lemma": "spazieren",
+  "wortart": "Verb",
+  "silben": "spa-zie-ren",
+  "begriffserklaerung": "Spazieren bedeutet, gemütlich und ohne Eile zu Fuß durch die Natur oder durch die Stadt zu gehen.",
+  "beispielsatz": "Am Sonntag gehen wir mit dem Hund im Park spazieren.",
+  "rechtschreibstrategie": "Das Wort spazieren hat ein langes i, das man als „ie\" schreibt. Denk daran: spa-ZIE-ren – das „ie\" klingt lang, also schreibst du ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "spazier"
+  ],
+  "bild_datei": "spazieren.webp",
+  "audio_datei": "spazieren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "spazieren",
+    "praesens": {
+      "ich": "spaziere",
+      "du": "spazierst",
+      "er_sie_es": "spaziert",
+      "wir": "spazieren",
+      "ihr": "spaziert",
+      "sie": "spazieren"
+    },
+    "perfekt": {
+      "ich": "bin spaziert",
+      "du": "bist spaziert",
+      "er_sie_es": "ist spaziert",
+      "wir": "sind spaziert",
+      "ihr": "seid spaziert",
+      "sie": "sind spaziert"
+    },
+    "praeteritum": {
+      "ich": "spazierte",
+      "du": "spaziertest",
+      "er_sie_es": "spazierte",
+      "wir": "spazierten",
+      "ihr": "spaziertet",
+      "sie": "spazierten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stroll / to go for a walk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se promener"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüyüş yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتنزه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spaziergang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spaziergänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schlendern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bummeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wandern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "joggen"
+    }
+  ],
+  "fehlschreibungen": [
+    "spatzieren",
+    "spasieren",
+    "spazieren",
+    "spaziren",
+    "spazieeren",
+    "spatziehren"
+  ]
+}

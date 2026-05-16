@@ -1,0 +1,90 @@
+{
+  "lemma": "Lehrer",
+  "wortart": "Nomen",
+  "silben": "Leh-rer",
+  "begriffserklaerung": "Ein Lehrer ist ein Erwachsener, der Kinder oder andere Menschen in der Schule unterrichtet und ihnen Neues beibringt.",
+  "beispielsatz": "Unser Lehrer erklärt uns heute, wie man Brüche rechnet.",
+  "rechtschreibstrategie": "Das Wort „Lehrer\" hat ein Dehnungs-h nach dem „e\": Leh-rer. Das „h\" spricht man nicht, aber es zeigt, dass das „e\" lang gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "Lehrer.webp",
+  "audio_datei": "Lehrer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lehrer",
+    "plural": "die Lehrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lehrer",
+        "genitiv": "des Lehrers",
+        "dativ": "dem Lehrer",
+        "akkusativ": "den Lehrer"
+      },
+      "plural": {
+        "nominativ": "die Lehrer",
+        "genitiv": "der Lehrer",
+        "dativ": "den Lehrern",
+        "akkusativ": "die Lehrer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teacher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "professeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğretmen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُعَلِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehre"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pädagoge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüler"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lerer",
+    "Leherer",
+    "Lehrrer",
+    "Leer er",
+    "Leerer"
+  ]
+}

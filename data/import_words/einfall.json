@@ -1,0 +1,91 @@
+{
+  "lemma": "Einfall",
+  "wortart": "Nomen",
+  "silben": "Ein-fall",
+  "begriffserklaerung": "Ein Einfall ist ein plötzlicher, neuer Gedanke oder eine gute Idee, die dir auf einmal in den Kopf kommt.",
+  "beispielsatz": "Plötzlich hatte Lisa einen tollen Einfall, wie sie das Rätsel lösen konnte.",
+  "rechtschreibstrategie": "„Einfall\" ist ein zusammengesetztes Wort aus „ein\" und „Fall\". Das Wort „Fall\" schreibt man mit doppeltem „l\", weil der Vokal „a\" kurz gesprochen wird – man hört das kurze „a\" deutlich!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fall"
+  ],
+  "bild_datei": "Einfall.webp",
+  "audio_datei": "Einfall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Einfall",
+    "plural": "die Einfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Einfall",
+        "genitiv": "des Einfalls",
+        "dativ": "dem Einfall",
+        "akkusativ": "den Einfall"
+      },
+      "plural": {
+        "nominativ": "die Einfälle",
+        "genitiv": "der Einfälle",
+        "dativ": "den Einfällen",
+        "akkusativ": "die Einfälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "idea / sudden idea"
+    },
+    {
+      "language_code": "fr",
+      "translation": "idée / inspiration"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fikir / ani düşünce"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فكرة / خاطرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einfallen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Idee"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gedanke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erfindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lösung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorschlag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Einfal",
+    "Einfahl",
+    "Ainfall",
+    "Eimfall",
+    "Einphall"
+  ]
+}

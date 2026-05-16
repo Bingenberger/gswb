@@ -1,0 +1,82 @@
+{
+  "lemma": "Mühle",
+  "wortart": "Nomen",
+  "silben": "Müh-le",
+  "begriffserklaerung": "Eine Mühle ist eine Maschine oder ein Gebäude, das Körner zu Mehl mahlt. Früher drehten Wind oder Wasser die großen Flügel der Mühle.",
+  "beispielsatz": "Der Bauer bringt sein Getreide zur Mühle, damit daraus Mehl gemacht wird.",
+  "rechtschreibstrategie": "Denk an das lange „ü\" – du sprichst es gedehnt aus: Müüühle. Schreibe deshalb „üh\" und nicht nur „ü\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Mahl"
+  ],
+  "bild_datei": "Mühle.webp",
+  "audio_datei": "Mühle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mühle",
+    "plural": "die Mühlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mühle",
+        "genitiv": "der Mühle",
+        "dativ": "der Mühle",
+        "akkusativ": "die Mühle"
+      },
+      "plural": {
+        "nominativ": "die Mühlen",
+        "genitiv": "der Mühlen",
+        "dativ": "den Mühlen",
+        "akkusativ": "die Mühlen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moulin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değirmen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاحونة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mahlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mehl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windmühle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Müle",
+    "Mühlle",
+    "Muhle",
+    "Mülle",
+    "Müehle"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Augenbinde",
+  "wortart": "Nomen",
+  "silben": "Au-gen-bin-de",
+  "begriffserklaerung": "Eine Augenbinde ist ein Tuch oder ein Streifen Stoff, den man sich über die Augen bindet, damit man nichts sehen kann.",
+  "beispielsatz": "Beim Topfschlagen trägt man eine Augenbinde, damit man nichts sieht.",
+  "rechtschreibstrategie": "Das Wort „Augenbinde\" besteht aus zwei Teilen: „Augen\" und „Binde\". Sprich beide Bausteine einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Auge",
+    "binden"
+  ],
+  "bild_datei": "Augenbinde.webp",
+  "audio_datei": "Augenbinde.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Augenbinde",
+    "plural": "die Augenbinden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Augenbinde",
+        "genitiv": "der Augenbinde",
+        "dativ": "der Augenbinde",
+        "akkusativ": "die Augenbinde"
+      },
+      "plural": {
+        "nominativ": "die Augenbinden",
+        "genitiv": "der Augenbinden",
+        "dativ": "den Augenbinden",
+        "akkusativ": "die Augenbinden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blindfold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bandeau sur les yeux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göz bağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصابة العينين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tuch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlafmaske"
+    }
+  ],
+  "fehlschreibungen": [
+    "Augenbinte",
+    "Augenbinnde",
+    "Augenbide",
+    "Aukenbinde",
+    "Augembinde"
+  ]
+}

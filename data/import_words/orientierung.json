@@ -1,0 +1,88 @@
+{
+  "lemma": "Orientierung",
+  "wortart": "Nomen",
+  "silben": "O-ri-en-tie-rung",
+  "begriffserklaerung": "Orientierung bedeutet, dass man herausfindet, wo man ist und in welche Richtung man gehen muss. Man orientiert sich zum Beispiel mit einer Karte oder an Gebäuden.",
+  "beispielsatz": "Mit dem Stadtplan klappt die Orientierung in der fremden Stadt viel besser.",
+  "rechtschreibstrategie": "Das Wort steckt voller Silben – sprich es laut in Teile: O-ri-en-tie-rung. Das ie in „-tie-\" sprichst du lang, also schreib i und e zusammen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "orient"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Orientierung",
+    "plural": "die Orientierungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Orientierung",
+        "genitiv": "der Orientierung",
+        "dativ": "der Orientierung",
+        "akkusativ": "die Orientierung"
+      },
+      "plural": {
+        "nominativ": "die Orientierungen",
+        "genitiv": "der Orientierungen",
+        "dativ": "den Orientierungen",
+        "akkusativ": "die Orientierungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Orientirung",
+    "Oriantierung",
+    "Oriendierung",
+    "Orientierung",
+    "Orjentierung",
+    "Orienteierung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "orientation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "orientation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yön bulma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تحديد الاتجاه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "orientieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Orient"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wegfindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Richtung"
+    }
+  ],
+  "bild_datei": "Orientierung.webp",
+  "audio_datei": "Orientierung.mp3"
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Gefrierschrank",
+  "wortart": "Nomen",
+  "silben": "Ge-frie-rer-schrank",
+  "begriffserklaerung": "Ein Gefrierschrank ist ein großes Gerät in der Küche, das Lebensmittel sehr stark kühlt und einfriert, damit sie lange haltbar bleiben.",
+  "beispielsatz": "Mama legt das Eis in den Gefrierschrank, damit es nicht schmilzt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Gefriere\" und „Schrank\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "frieren",
+    "Schrank"
+  ],
+  "bild_datei": "Gefrierschrank.webp",
+  "audio_datei": "Gefrierschrank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "freezer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "congélateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dondurucu dolap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة التجميد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einfrieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kühlschrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiefkühltruhe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tiefkühlschrank"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gefrierschrank",
+    "plural": "die Gefrierschränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gefrierschrank",
+        "genitiv": "des Gefrierschrankes",
+        "dativ": "dem Gefrierschrank",
+        "akkusativ": "den Gefrierschrank"
+      },
+      "plural": {
+        "nominativ": "die Gefrierschränke",
+        "genitiv": "der Gefrierschränke",
+        "dativ": "den Gefrierschränken",
+        "akkusativ": "die Gefrierschränke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefrirschrank",
+    "Gefrierschrannk",
+    "Gefrierchrank",
+    "Gefrierschrankk",
+    "Gefrirerschrank",
+    "Gefrierschrank"
+  ]
+}

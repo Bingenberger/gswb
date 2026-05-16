@@ -1,0 +1,85 @@
+{
+  "lemma": "Rollschuh",
+  "wortart": "Nomen",
+  "silben": "Roll-schuh",
+  "begriffserklaerung": "Ein Rollschuh ist ein Schuh mit Rollen oder Rädern darunter. Damit kann man auf glattem Boden rollen und fahren.",
+  "beispielsatz": "Lena zieht ihre Rollschuhe an und fährt fröhlich über den Schulhof.",
+  "rechtschreibstrategie": "„Rollschuh\" ist aus zwei Wörtern zusammengesetzt: „rollen\" und „Schuh\". Sprich beide Teile deutlich: ROLL + SCHUH. Das doppelte „l\" kommt vom Wortstamm „rollen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll",
+    "schuh"
+  ],
+  "bild_datei": "Rollschuh.webp",
+  "audio_datei": "Rollschuh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "roller skate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patin à roulettes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "paten"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء التزلج بالعجلات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Inlineskate"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Skateboard"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlittschuh"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rollschuh",
+    "plural": "die Rollschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rollschuh",
+        "genitiv": "des Rollschuhs",
+        "dativ": "dem Rollschuh",
+        "akkusativ": "den Rollschuh"
+      },
+      "plural": {
+        "nominativ": "die Rollschuhe",
+        "genitiv": "der Rollschuhe",
+        "dativ": "den Rollschuhen",
+        "akkusativ": "die Rollschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rolschuh",
+    "Rollschue",
+    "Rollschu",
+    "Rollschuch",
+    "Roolschuh",
+    "Rollschuu"
+  ]
+}

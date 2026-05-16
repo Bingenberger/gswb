@@ -1,0 +1,72 @@
+{
+  "lemma": "Pizza",
+  "wortart": "Nomen",
+  "silben": "Piz-za",
+  "begriffserklaerung": "Eine Pizza ist ein rundes, flaches Gebäck aus Teig, das mit Tomatensauce, Käse und verschiedenen Zutaten belegt und im Ofen gebacken wird.",
+  "beispielsatz": "Zum Geburtstag essen wir eine leckere Pizza mit viel Käse.",
+  "rechtschreibstrategie": "Pizza kommt aus dem Italienischen. Das Doppel-Z schreibst du wie du es sprichst: „Piz-za\". Denk daran: zwei Z in der Mitte!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pizza.webp",
+  "audio_datei": "Pizza.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pizza"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pizza"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pizza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيتزا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ofen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pizza",
+    "plural": "die Pizzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pizza",
+        "genitiv": "der Pizza",
+        "dativ": "der Pizza",
+        "akkusativ": "die Pizza"
+      },
+      "plural": {
+        "nominativ": "die Pizzen",
+        "genitiv": "der Pizzen",
+        "dativ": "den Pizzen",
+        "akkusativ": "die Pizzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pitsa",
+    "Piza",
+    "Piizza",
+    "Pitzza",
+    "Pissa"
+  ]
+}

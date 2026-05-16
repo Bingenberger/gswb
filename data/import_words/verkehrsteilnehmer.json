@@ -1,0 +1,84 @@
+{
+  "lemma": "Verkehrsteilnehmer",
+  "wortart": "Nomen",
+  "silben": "Ver-kehrs-teil-neh-mer",
+  "begriffserklaerung": "Ein Verkehrsteilnehmer ist jeder Mensch, der sich im Straßenverkehr bewegt – zum Beispiel als Fußgänger, Radfahrer oder Autofahrer.",
+  "beispielsatz": "Als Fußgänger bist du auch ein Verkehrsteilnehmer und musst die Ampel beachten.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Verkehr\" + „s\" + „Teilnehmer\". Denke beim Schreiben an das Dehnungs-h in „Verkehr\" und „nehmen\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Verkehr",
+    "nehmen"
+  ],
+  "bild_datei": "Verkehrsteilnehmer.webp",
+  "audio_datei": "Verkehrsteilnehmer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkehrsteilnehmer",
+    "plural": "die Verkehrsteilnehmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkehrsteilnehmer",
+        "genitiv": "des Verkehrsteilnehmers",
+        "dativ": "dem Verkehrsteilnehmer",
+        "akkusativ": "den Verkehrsteilnehmer"
+      },
+      "plural": {
+        "nominativ": "die Verkehrsteilnehmer",
+        "genitiv": "der Verkehrsteilnehmer",
+        "dativ": "den Verkehrsteilnehmern",
+        "akkusativ": "die Verkehrsteilnehmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "road user"
+    },
+    {
+      "language_code": "fr",
+      "translation": "usager de la route"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yol kullanıcısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستخدم الطريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußgänger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radfahrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenverkehr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verkehrsteilnemer",
+    "Ferkehrsteilnehmer",
+    "Verkersteilnehmer",
+    "Verkehrsteilnehmar",
+    "Verkehrs-Teilnehmer"
+  ]
+}

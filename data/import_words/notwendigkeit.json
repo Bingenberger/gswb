@@ -1,0 +1,85 @@
+{
+  "lemma": "Notwendigkeit",
+  "wortart": "Nomen",
+  "silben": "Not-wen-dig-keit",
+  "begriffserklaerung": "Eine Notwendigkeit ist etwas, das unbedingt sein muss oder getan werden muss. Man kommt nicht darum herum.",
+  "beispielsatz": "Das Trinken von Wasser ist eine Notwendigkeit – ohne Wasser kann kein Mensch leben.",
+  "rechtschreibstrategie": "Das Wort steckt voller Bausteine: „not-wend-ig-keit\". Sprich alle vier Silben deutlich mit: Not-wen-dig-keit. Das „d\" in „wendig\" hörst du, wenn du „wenden\" sagst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "not",
+    "wend"
+  ],
+  "bild_datei": "Notwendigkeit.webp",
+  "audio_datei": "Notwendigkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Notwendigkeit",
+    "plural": "die Notwendigkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Notwendigkeit",
+        "genitiv": "der Notwendigkeit",
+        "dativ": "der Notwendigkeit",
+        "akkusativ": "die Notwendigkeit"
+      },
+      "plural": {
+        "nominativ": "die Notwendigkeiten",
+        "genitiv": "der Notwendigkeiten",
+        "dativ": "den Notwendigkeiten",
+        "akkusativ": "die Notwendigkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "necessity"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nécessité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zorunluluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضرورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "not"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bedürfnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bedarf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nohtwendigkeit",
+    "Notwendigkeid",
+    "Notwendichkeit",
+    "Notwendikeit",
+    "Notwentigkeit",
+    "Notwendigeit"
+  ]
+}

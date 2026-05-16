@@ -1,0 +1,82 @@
+{
+  "lemma": "Muskel",
+  "wortart": "Nomen",
+  "silben": "Mus-kel",
+  "begriffserklaerung": "Ein Muskel ist ein Teil deines Körpers, der sich zusammenziehen und wieder ausdehnen kann. Muskeln helfen dir, dich zu bewegen – zum Beispiel beim Laufen, Heben oder Lachen.",
+  "beispielsatz": "Wenn du viel Sport machst, werden deine Muskeln stärker.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Mus-kel. Nach dem kurzen „u\" kommt ein „s\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Muskel"
+  ],
+  "bild_datei": "Muskel.webp",
+  "audio_datei": "Muskel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "muscle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "muscle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kas"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عضلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "muskulös"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Muskelkraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Muskel",
+    "plural": "die Muskeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Muskel",
+        "genitiv": "des Muskels",
+        "dativ": "dem Muskel",
+        "akkusativ": "den Muskel"
+      },
+      "plural": {
+        "nominativ": "die Muskeln",
+        "genitiv": "der Muskeln",
+        "dativ": "den Muskeln",
+        "akkusativ": "die Muskeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Muskell",
+    "Muscel",
+    "Mußkel",
+    "Muskal",
+    "Muskl"
+  ]
+}

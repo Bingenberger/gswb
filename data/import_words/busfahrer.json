@@ -1,0 +1,84 @@
+{
+  "lemma": "Busfahrer",
+  "wortart": "Nomen",
+  "silben": "Bus-fah-rer",
+  "begriffserklaerung": "Ein Busfahrer ist eine Person, die einen Bus lenkt und die Fahrgäste sicher von einer Haltestelle zur nächsten bringt.",
+  "beispielsatz": "Der Busfahrer öffnet die Tür, damit alle Kinder einsteigen können.",
+  "rechtschreibstrategie": "„Busfahrer\" ist ein zusammengesetztes Wort aus „Bus\" und „Fahrer\". Sprich beide Teile deutlich: BUS + FAHRER. Das lange „a\" in „Fahrer\" hörst du beim Sprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahren",
+    "Bus"
+  ],
+  "bild_datei": "Busfahrer.webp",
+  "audio_datei": "Busfahrer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bus driver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chauffeur de bus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otobüs şoförü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائق الحافلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Busfahrerin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Busfahrer",
+    "plural": "die Busfahrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Busfahrer",
+        "genitiv": "des Busfahrers",
+        "dativ": "dem Busfahrer",
+        "akkusativ": "den Busfahrer"
+      },
+      "plural": {
+        "nominativ": "die Busfahrer",
+        "genitiv": "der Busfahrer",
+        "dativ": "den Busfahrern",
+        "akkusativ": "die Busfahrer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bußfahrer",
+    "Bussfarer",
+    "Busfarer",
+    "Busfahrrer",
+    "Busfahr"
+  ]
+}

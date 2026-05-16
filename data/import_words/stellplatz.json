@@ -1,0 +1,84 @@
+{
+  "lemma": "Stellplatz",
+  "wortart": "Nomen",
+  "silben": "Stell-platz",
+  "begriffserklaerung": "Ein Stellplatz ist ein bestimmter Platz, auf dem man ein Auto, ein Fahrrad oder etwas anderes abstellen darf.",
+  "beispielsatz": "Papa sucht einen freien Stellplatz für unser Auto in der Tiefgarage.",
+  "rechtschreibstrategie": "Das Wort „Stellplatz\" besteht aus zwei Teilen: „stell\" und „Platz\". Das „ll\" in „stell\" schreibst du doppelt, weil der Vokal davor kurz klingt. Denke außerdem daran: Nomen schreibt man groß!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "stell",
+    "Platz"
+  ],
+  "bild_datei": "Stellplatz.webp",
+  "audio_datei": "Stellplatz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stellplatz",
+    "plural": "die Stellplätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stellplatz",
+        "genitiv": "des Stellplatzes",
+        "dativ": "dem Stellplatz",
+        "akkusativ": "den Stellplatz"
+      },
+      "plural": {
+        "nominativ": "die Stellplätze",
+        "genitiv": "der Stellplätze",
+        "dativ": "den Stellplätzen",
+        "akkusativ": "die Stellplätze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parking space"
+    },
+    {
+      "language_code": "fr",
+      "translation": "place de stationnement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "park yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقف سيارات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parkplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Parkplatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stelplatz",
+    "Stellplaz",
+    "Stellplats",
+    "Stälerplatz",
+    "Stelplaz"
+  ]
+}

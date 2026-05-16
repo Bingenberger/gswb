@@ -1,0 +1,75 @@
+{
+  "lemma": "LKW",
+  "wortart": "Nomen",
+  "silben": "LKW",
+  "begriffserklaerung": "Ein LKW ist ein sehr großes Fahrzeug, das schwere oder viele Sachen von einem Ort zum anderen transportiert. LKW steht für „Lastkraftwagen\".",
+  "beispielsatz": "Der LKW bringt frisches Obst zum Supermarkt.",
+  "rechtschreibstrategie": "LKW ist eine Abkürzung für „Lastkraftwagen\". Schreibe alle drei Buchstaben groß: L – K – W!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Last",
+    "Kraft",
+    "Wagen"
+  ],
+  "bild_datei": "LKW.webp",
+  "audio_datei": "LKW.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "truck / lorry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاحنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Transporter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lastwagen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der LKW",
+    "plural": "die LKWs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der LKW",
+        "genitiv": "des LKWs",
+        "dativ": "dem LKW",
+        "akkusativ": "den LKW"
+      },
+      "plural": {
+        "nominativ": "die LKWs",
+        "genitiv": "der LKWs",
+        "dativ": "den LKWs",
+        "akkusativ": "die LKWs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lkw",
+    "LLKW",
+    "LWK"
+  ]
+}

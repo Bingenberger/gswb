@@ -1,0 +1,103 @@
+{
+  "lemma": "üben",
+  "wortart": "Verb",
+  "silben": "ü-ben",
+  "begriffserklaerung": "Wenn du etwas übst, machst du es immer wieder, damit du besser darin wirst.",
+  "beispielsatz": "Jana übt jeden Tag Klavier, damit sie die Melodie gut spielen kann.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „ü-ben\". Du hörst zwei Silben. Das ü am Anfang ist lang, deshalb kommt nur ein b – kein bb!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "üb"
+  ],
+  "bild_datei": "üben.webp",
+  "audio_datei": "üben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to practise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pratiquer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alıştırma yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتدرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Übung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geübt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Übungsaufgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "trainieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wiederholen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "üben",
+    "praesens": {
+      "ich": "übe",
+      "du": "übst",
+      "er_sie_es": "übt",
+      "wir": "üben",
+      "ihr": "übt",
+      "sie": "üben"
+    },
+    "perfekt": {
+      "ich": "habe geübt",
+      "du": "hast geübt",
+      "er_sie_es": "hat geübt",
+      "wir": "haben geübt",
+      "ihr": "habt geübt",
+      "sie": "haben geübt"
+    },
+    "praeteritum": {
+      "ich": "übte",
+      "du": "übtest",
+      "er_sie_es": "übte",
+      "wir": "übten",
+      "ihr": "übtet",
+      "sie": "übten"
+    }
+  },
+  "fehlschreibungen": [
+    "übben",
+    "üben",
+    "ieben",
+    "übn",
+    "übbe",
+    "ühben"
+  ]
+}

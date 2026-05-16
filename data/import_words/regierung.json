@@ -1,0 +1,82 @@
+{
+  "lemma": "Regierung",
+  "wortart": "Nomen",
+  "silben": "Re-gie-rung",
+  "begriffserklaerung": "Die Regierung ist eine Gruppe von Menschen, die ein Land oder eine Stadt leiten und wichtige Entscheidungen für alle treffen.",
+  "beispielsatz": "Die Regierung beschloss, neue Schulen zu bauen.",
+  "rechtschreibstrategie": "Denk an das Verb „regieren\" – davon kommt „Regierung\". Die Endung -ung hört man beim Sprechen deutlich.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "regier"
+  ],
+  "bild_datei": "Regierung.webp",
+  "audio_datei": "Regierung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "government"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gouvernement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hükümet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حكومة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parlament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kabinett"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Regierung",
+    "plural": "die Regierungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Regierung",
+        "genitiv": "der Regierung",
+        "dativ": "der Regierung",
+        "akkusativ": "die Regierung"
+      },
+      "plural": {
+        "nominativ": "die Regierungen",
+        "genitiv": "der Regierungen",
+        "dativ": "den Regierungen",
+        "akkusativ": "die Regierungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Regirung",
+    "Regierung",
+    "Regirierung",
+    "Regiehrung"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Diebstahl",
+  "wortart": "Nomen",
+  "silben": "Dieb-stahl",
+  "begriffserklaerung": "Ein Diebstahl ist, wenn jemand etwas nimmt, das ihm nicht gehört, ohne zu fragen und ohne zu bezahlen.",
+  "beispielsatz": "Der Diebstahl des Fahrrads wurde der Polizei gemeldet.",
+  "rechtschreibstrategie": "„Diebstahl\" ist ein Bausteinwort aus „Dieb\" und „Stahl\" (von stehlen). Schreib zuerst „Dieb\", dann „stahl\" – zusammen ergibt das „Diebstahl\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Dieb",
+    "stehlen"
+  ],
+  "bild_datei": "Diebstahl.webp",
+  "audio_datei": "Diebstahl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "theft"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hırsızlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dieb"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Raub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strafe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verbrechen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Diebstahl",
+    "plural": "die Diebstähle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Diebstahl",
+        "genitiv": "des Diebstahls",
+        "dativ": "dem Diebstahl",
+        "akkusativ": "den Diebstahl"
+      },
+      "plural": {
+        "nominativ": "die Diebstähle",
+        "genitiv": "der Diebstähle",
+        "dativ": "den Diebstählen",
+        "akkusativ": "die Diebstähle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Diepstahl",
+    "Diebstal",
+    "Dibstahl",
+    "Diebstahll",
+    "Diebshtahl"
+  ]
+}

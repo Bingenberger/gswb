@@ -1,0 +1,82 @@
+{
+  "lemma": "Dampf",
+  "wortart": "Nomen",
+  "silben": "Dampf",
+  "begriffserklaerung": "Dampf ist das, was entsteht, wenn Wasser sehr heiß wird und zu einer Art Wolke wird. Du kannst Dampf zum Beispiel über einem Topf mit kochendem Wasser sehen.",
+  "beispielsatz": "Über dem heißen Tee steigt weißer Dampf auf.",
+  "rechtschreibstrategie": "Das Wort „Dampf\" endet auf -mpf. Sprich es laut und deutlich: DAMPF – du hörst alle Buchstaben mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "dampf"
+  ],
+  "bild_datei": "Dampf.webp",
+  "audio_datei": "Dampf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "steam / vapour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vapeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buhar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بخار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dampfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dampfmaschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wasserdampf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dampf",
+    "plural": "die Dämpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dampf",
+        "genitiv": "des Dampfes",
+        "dativ": "dem Dampf",
+        "akkusativ": "den Dampf"
+      },
+      "plural": {
+        "nominativ": "die Dämpfe",
+        "genitiv": "der Dämpfe",
+        "dativ": "den Dämpfen",
+        "akkusativ": "die Dämpfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dambf",
+    "Dampff",
+    "Damf",
+    "Tamp",
+    "Dampft"
+  ]
+}

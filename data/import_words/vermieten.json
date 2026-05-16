@@ -1,0 +1,94 @@
+{
+  "lemma": "vermieten",
+  "wortart": "Verb",
+  "silben": "ver-mie-ten",
+  "begriffserklaerung": "Wenn du etwas vermietest, darf jemand anderes es für eine Weile benutzen und zahlt dir dafür Geld.",
+  "beispielsatz": "Unsere Nachbarin vermietet ihre Wohnung an eine nette Familie.",
+  "rechtschreibstrategie": "Das Wort „vermieten\" hat ein langes i, das als „ie\" geschrieben wird. Sprich es laut: ver-MIE-ten – du hörst das lange „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "miet"
+  ],
+  "bild_datei": "vermieten.webp",
+  "audio_datei": "vermieten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rent out"
+    },
+    {
+      "language_code": "fr",
+      "translation": "louer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kiralamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُؤجِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Miete"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mieter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mieten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermieter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verleihen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "vermieten",
+    "praesens": {
+      "ich": "vermiete",
+      "du": "vermietest",
+      "er_sie_es": "vermietet",
+      "wir": "vermieten",
+      "ihr": "vermietet",
+      "sie": "vermieten"
+    },
+    "perfekt": {
+      "ich": "habe vermietet",
+      "du": "hast vermietet",
+      "er_sie_es": "hat vermietet",
+      "wir": "haben vermietet",
+      "ihr": "habt vermietet",
+      "sie": "haben vermietet"
+    },
+    "praeteritum": {
+      "ich": "vermietete",
+      "du": "vermietest",
+      "er_sie_es": "vermietete",
+      "wir": "vermieteten",
+      "ihr": "vermietetet",
+      "sie": "vermieteten"
+    }
+  },
+  "fehlschreibungen": [
+    "fermiten",
+    "vermietten",
+    "vermiten",
+    "vemieten",
+    "vermieten"
+  ]
+}

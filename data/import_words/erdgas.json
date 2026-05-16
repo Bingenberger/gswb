@@ -1,0 +1,84 @@
+{
+  "lemma": "Erdgas",
+  "wortart": "Nomen",
+  "silben": "Erd-gas",
+  "begriffserklaerung": "Erdgas ist ein natürlicher Brennstoff, der tief im Boden steckt. Es wird durch Rohre in Häuser geleitet und dort zum Heizen und Kochen genutzt.",
+  "beispielsatz": "Unsere Heizung wird mit Erdgas betrieben, deshalb ist es bei uns im Winter schön warm.",
+  "rechtschreibstrategie": "„Erdgas\" ist ein Bausteinwort aus „Erde\" und „Gas\". Schreibe beide Teile einfach zusammen: Erd + Gas = Erdgas.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Erd",
+    "Gas"
+  ],
+  "bild_datei": "Erdgas.webp",
+  "audio_datei": "Erdgas.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "natural gas"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gaz naturel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğal gaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الغاز الطبيعي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heizung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Erdgas",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Erdgas",
+        "genitiv": "des Erdgases",
+        "dativ": "dem Erdgas",
+        "akkusativ": "das Erdgas"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ehrdgas",
+    "Ertgas",
+    "Erdgass",
+    "Ärdgas",
+    "Erdkaas",
+    "Erdgaz"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "lemma": "geschlossen",
+  "wortart": "Verb",
+  "silben": "ge-schlos-sen",
+  "begriffserklaerung": "„Geschlossen\" ist die Vergangenheitsform von „schließen\". Etwas ist zu oder wurde zugemacht, zum Beispiel eine Tür oder ein Fenster.",
+  "beispielsatz": "Die Schülerin hat ihr Heft geschlossen und in die Tasche gelegt.",
+  "rechtschreibstrategie": "Denk an das Stammwort „schließen\" – daraus wird „geschlossen\". Das Doppel-S kommt, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schließ",
+    "schloss"
+  ],
+  "bild_datei": "geschlossen.webp",
+  "audio_datei": "geschlossen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "closed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fermé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapalı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abschließen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zugemacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "öffnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tür"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schließen",
+    "praesens": {
+      "ich": "schließe",
+      "du": "schließt",
+      "er_sie_es": "schließt",
+      "wir": "schließen",
+      "ihr": "schließt",
+      "sie": "schließen"
+    },
+    "perfekt": {
+      "ich": "habe geschlossen",
+      "du": "hast geschlossen",
+      "er_sie_es": "hat geschlossen",
+      "wir": "haben geschlossen",
+      "ihr": "habt geschlossen",
+      "sie": "haben geschlossen"
+    },
+    "praeteritum": {
+      "ich": "schloss",
+      "du": "schlossest",
+      "er_sie_es": "schloss",
+      "wir": "schlossen",
+      "ihr": "schlosst",
+      "sie": "schlossen"
+    }
+  },
+  "fehlschreibungen": [
+    "geschlosen",
+    "geschlosssen",
+    "gschlossen",
+    "geshclossen",
+    "geschlossen",
+    "gescklossen"
+  ]
+}

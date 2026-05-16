@@ -1,0 +1,91 @@
+{
+  "lemma": "Nahrung",
+  "wortart": "Nomen",
+  "silben": "Nah-rung",
+  "begriffserklaerung": "Nahrung ist alles, was Menschen, Tiere und Pflanzen essen oder trinken, um zu leben und zu wachsen.",
+  "beispielsatz": "Obst und Gemüse sind gesunde Nahrung für unseren Körper.",
+  "rechtschreibstrategie": "Das Wort „Nahrung\" hat ein Dehnungs-h nach dem „a\": N-a-h-r-u-n-g. Das h spricht man nicht, aber es streckt den Vokal.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nahrung",
+    "plural": "die Nahrungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nahrung",
+        "genitiv": "der Nahrung",
+        "dativ": "der Nahrung",
+        "akkusativ": "die Nahrung"
+      },
+      "plural": {
+        "nominativ": "die Nahrungen",
+        "genitiv": "der Nahrungen",
+        "dativ": "den Nahrungen",
+        "akkusativ": "die Nahrungen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "nahr"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nähren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nahrhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Speise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hunger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lebensmittel"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "food"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nourriture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "besin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غذاء"
+    }
+  ],
+  "fehlschreibungen": [
+    "Narung",
+    "Narrung",
+    "Nahrunk",
+    "Naarung",
+    "Nahrumg"
+  ],
+  "bild_datei": "Nahrung.webp",
+  "audio_datei": "Nahrung.mp3"
+}

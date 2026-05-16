@@ -1,0 +1,72 @@
+{
+  "lemma": "Skelett",
+  "wortart": "Nomen",
+  "silben": "Ske-lett",
+  "begriffserklaerung": "Das Skelett ist das Knochengerüst im Inneren des Körpers. Es hält den Körper aufrecht und schützt wichtige Organe.",
+  "beispielsatz": "Im Biologieunterricht haben wir ein Skelett aus Plastik angeschaut.",
+  "rechtschreibstrategie": "Am Ende hörst du ein kurzes „e\" – deshalb schreibt man „tt\" (Doppel-t): Ske-lett.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Skelett",
+    "plural": "Skelette",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Skelett",
+        "genitiv": "des Skeletts",
+        "dativ": "dem Skelett",
+        "akkusativ": "das Skelett"
+      },
+      "plural": {
+        "nominativ": "die Skelette",
+        "genitiv": "der Skelette",
+        "dativ": "den Skeletten",
+        "akkusativ": "die Skelette"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knochengerüst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Skelet",
+    "Skellet",
+    "Sckelett",
+    "Skelät",
+    "Skelett"
+  ],
+  "bild_datei": "Skelett.webp",
+  "audio_datei": "Skelett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skeleton"
+    },
+    {
+      "language_code": "fr",
+      "translation": "squelette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iskelet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هيكل عظمي"
+    }
+  ]
+}

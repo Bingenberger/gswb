@@ -1,0 +1,90 @@
+{
+  "lemma": "warten",
+  "wortart": "Verb",
+  "silben": "war-ten",
+  "begriffserklaerung": "Warten bedeutet, dass du an einem Ort bleibst oder nichts tust, bis etwas passiert oder jemand kommt.",
+  "beispielsatz": "Ich warte an der Bushaltestelle, bis der Bus kommt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: war-ten. Du hörst ein kurzes „a\", deshalb folgt nur ein „r\" – aber Vorsicht: Das „t\" wird verdoppelt, weil der Wortstamm „wart\" endet. Denke an „er wartet\" – so erkennst du das „t\" am Ende des Stammes!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wart"
+  ],
+  "bild_datei": "warten.webp",
+  "audio_datei": "warten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "warten",
+    "praesens": {
+      "ich": "warte",
+      "du": "wartest",
+      "er_sie_es": "wartet",
+      "wir": "warten",
+      "ihr": "wartet",
+      "sie": "warten"
+    },
+    "perfekt": {
+      "ich": "habe gewartet",
+      "du": "hast gewartet",
+      "er_sie_es": "hat gewartet",
+      "wir": "haben gewartet",
+      "ihr": "habt gewartet",
+      "sie": "haben gewartet"
+    },
+    "praeteritum": {
+      "ich": "wartete",
+      "du": "wartetest",
+      "er_sie_es": "wartete",
+      "wir": "warteten",
+      "ihr": "wartetet",
+      "sie": "warteten"
+    }
+  },
+  "fehlschreibungen": [
+    "warden",
+    "wahten",
+    "wartten",
+    "waten",
+    "wahrten"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wait"
+    },
+    {
+      "language_code": "fr",
+      "translation": "attendre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beklemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينتظر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wartezeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wartezimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abwarten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ausharren"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Sonne",
+  "wortart": "Nomen",
+  "silben": "Son-ne",
+  "begriffserklaerung": "Die Sonne ist ein riesiger, leuchtender Stern. Sie gibt uns Licht und Wärme und geht jeden Tag auf und unter.",
+  "beispielsatz": "Die Sonne scheint heute so hell, dass wir draußen spielen können.",
+  "rechtschreibstrategie": "Das Wort „Sonne\" hat nach dem kurzen „o\" ein Doppel-n. Denk daran: Son-ne – du hörst das „n\" zweimal!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonne",
+    "plural": "die Sonnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonne",
+        "genitiv": "der Sonne",
+        "dativ": "der Sonne",
+        "akkusativ": "die Sonne"
+      },
+      "plural": {
+        "nominativ": "die Sonnen",
+        "genitiv": "der Sonnen",
+        "dativ": "den Sonnen",
+        "akkusativ": "die Sonnen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "sonn",
+    "Sonne"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sonnig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonnenschein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sone",
+    "Ssonne",
+    "Zonne",
+    "Sonn",
+    "Sunne"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sun"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soleil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شمس"
+    }
+  ],
+  "bild_datei": "Sonne.webp",
+  "audio_datei": "Sonne.mp3"
+}

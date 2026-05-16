@@ -1,0 +1,82 @@
+{
+  "lemma": "Kuchen",
+  "wortart": "Nomen",
+  "silben": "Ku-chen",
+  "begriffserklaerung": "Ein Kuchen ist ein süßes Gebäck, das man im Ofen backt. Er wird oft zum Geburtstag oder als Nachtisch gegessen.",
+  "beispielsatz": "Zum Geburtstag hat Mama einen leckeren Schokoladenkuchen gebacken.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Ku-chen\". Das „ch\" hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "back"
+  ],
+  "bild_datei": "Kuchen.webp",
+  "audio_datei": "Kuchen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kuchen",
+    "plural": "die Kuchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kuchen",
+        "genitiv": "des Kuchens",
+        "dativ": "dem Kuchen",
+        "akkusativ": "den Kuchen"
+      },
+      "plural": {
+        "nominativ": "die Kuchen",
+        "genitiv": "der Kuchen",
+        "dativ": "den Kuchen",
+        "akkusativ": "die Kuchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gâteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pasta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كعكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Torte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Torte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kuhen",
+    "Kucken",
+    "Kughen",
+    "Cuchen",
+    "Kúchen"
+  ]
+}

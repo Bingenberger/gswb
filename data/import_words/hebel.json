@@ -1,0 +1,82 @@
+{
+  "lemma": "Hebel",
+  "wortart": "Nomen",
+  "silben": "He-bel",
+  "begriffserklaerung": "Ein Hebel ist eine starre Stange, die man nutzt, um schwere Dinge leichter zu heben oder zu bewegen. Mit einem Hebel kann man viel Kraft sparen.",
+  "beispielsatz": "Mit dem Hebel konnte Lisa den schweren Stein ganz einfach anheben.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: He-bel. Das „e\" in der ersten Silbe ist lang, deshalb schreibt man nur ein „b\" – kein „bb\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "heb"
+  ],
+  "bild_datei": "Hebel.webp",
+  "audio_datei": "Hebel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lever"
+    },
+    {
+      "language_code": "fr",
+      "translation": "levier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaldıraç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رافعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hebebühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brechstange"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hebel",
+    "plural": "die Hebel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hebel",
+        "genitiv": "des Hebels",
+        "dativ": "dem Hebel",
+        "akkusativ": "den Hebel"
+      },
+      "plural": {
+        "nominativ": "die Hebel",
+        "genitiv": "der Hebel",
+        "dativ": "den Hebeln",
+        "akkusativ": "die Hebel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hebbel",
+    "Häbel",
+    "Hevel",
+    "Hebbell",
+    "Haebl"
+  ]
+}

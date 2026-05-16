@@ -1,0 +1,84 @@
+{
+  "lemma": "Gewässer",
+  "wortart": "Nomen",
+  "silben": "Ge-wäs-ser",
+  "begriffserklaerung": "Ein Gewässer ist eine natürliche oder künstliche Ansammlung von Wasser, zum Beispiel ein See, ein Fluss oder ein Bach.",
+  "beispielsatz": "Der Frosch lebt gerne in der Nähe eines Gewässers.",
+  "rechtschreibstrategie": "Denk an das Wort „Wasser\" – es steckt in „Gewässer\" drin! Das ä kommt vom Umlaut von „Wasser\", und das Doppel-s schreibst du genauso wie bei „Wasser\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wasser"
+  ],
+  "bild_datei": "Gewässer.webp",
+  "audio_datei": "Gewässer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "body of water"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étendue d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su kütlesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسطح مائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wässrig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewässer",
+    "plural": "die Gewässer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewässer",
+        "genitiv": "des Gewässers",
+        "dativ": "dem Gewässer",
+        "akkusativ": "das Gewässer"
+      },
+      "plural": {
+        "nominativ": "die Gewässer",
+        "genitiv": "der Gewässer",
+        "dativ": "den Gewässern",
+        "akkusativ": "die Gewässer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewesser",
+    "Gewässser",
+    "Gewäser",
+    "Gewässer",
+    "Gewässsser",
+    "Gevässer"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "stehen",
+  "wortart": "Verb",
+  "silben": "ste-hen",
+  "begriffserklaerung": "Wenn jemand steht, ist er aufrecht auf seinen Beinen, ohne zu sitzen oder zu liegen.",
+  "beispielsatz": "Die Kinder stehen vor der Schule und warten auf ihre Lehrerin.",
+  "rechtschreibstrategie": "Das Wort „stehen\" hat ein Dehnungs-h nach dem langen „e\". Sprich es laut: ste-hen – das h hörst du nicht, aber du schreibst es mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "steh"
+  ],
+  "bild_datei": "stehen.webp",
+  "audio_datei": "stehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "stehen",
+    "praesens": {
+      "ich": "stehe",
+      "du": "stehst",
+      "er_sie_es": "steht",
+      "wir": "stehen",
+      "ihr": "steht",
+      "sie": "stehen"
+    },
+    "perfekt": {
+      "ich": "habe gestanden",
+      "du": "hast gestanden",
+      "er_sie_es": "hat gestanden",
+      "wir": "haben gestanden",
+      "ihr": "habt gestanden",
+      "sie": "haben gestanden"
+    },
+    "praeteritum": {
+      "ich": "stand",
+      "du": "standst",
+      "er_sie_es": "stand",
+      "wir": "standen",
+      "ihr": "standet",
+      "sie": "standen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se tenir debout"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufrecht sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "liegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "stehen",
+    "stehn",
+    "steehn",
+    "steen",
+    "stähen",
+    "stahn"
+  ]
+}

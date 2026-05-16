@@ -1,0 +1,100 @@
+{
+  "lemma": "suchen",
+  "wortart": "Verb",
+  "silben": "su-chen",
+  "begriffserklaerung": "Suchen bedeutet, dass man etwas oder jemanden finden möchte und deshalb überall nachschaut.",
+  "beispielsatz": "Ich suche meinen roten Radiergummi, aber ich finde ihn nicht.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: su-chen. Das „ch\" hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "bild_datei": "suchen.webp",
+  "audio_datei": "suchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to search / to look for"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chercher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aramak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبحث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sucher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "fahnden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nachschauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "finden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "entdecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verlieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "suchen",
+    "praesens": {
+      "ich": "suche",
+      "du": "suchst",
+      "er_sie_es": "sucht",
+      "wir": "suchen",
+      "ihr": "sucht",
+      "sie": "suchen"
+    },
+    "perfekt": {
+      "ich": "habe gesucht",
+      "du": "hast gesucht",
+      "er_sie_es": "hat gesucht",
+      "wir": "haben gesucht",
+      "ihr": "habt gesucht",
+      "sie": "haben gesucht"
+    },
+    "praeteritum": {
+      "ich": "suchte",
+      "du": "suchtest",
+      "er_sie_es": "suchte",
+      "wir": "suchten",
+      "ihr": "suchtet",
+      "sie": "suchten"
+    }
+  },
+  "fehlschreibungen": [
+    "suhen",
+    "zuchen",
+    "suchhen",
+    "suchen",
+    "suchn",
+    "suuchen",
+    "zuhcen"
+  ]
+}

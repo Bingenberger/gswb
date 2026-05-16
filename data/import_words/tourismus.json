@@ -1,0 +1,81 @@
+{
+  "lemma": "Tourismus",
+  "wortart": "Nomen",
+  "silben": "Tou-ris-mus",
+  "begriffserklaerung": "Tourismus bedeutet, dass viele Menschen in andere Orte oder Länder reisen, um Urlaub zu machen und Neues zu entdecken.",
+  "beispielsatz": "Dank des Tourismus kommen jedes Jahr viele Besucher in unsere Stadt.",
+  "rechtschreibstrategie": "Das Wort „Tourismus\" klingt wie „Tu-ris-mus\" – denk daran, dass es mit „ou\" geschrieben wird, wie im französischen Wort „tour\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tour"
+  ],
+  "bild_datei": "Tourismus.webp",
+  "audio_datei": "Tourismus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tourism"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tourisme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "turizm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سياحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tourist"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tour"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fremdenverkehr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tourismus",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tourismus",
+        "genitiv": "des Tourismus",
+        "dativ": "dem Tourismus",
+        "akkusativ": "den Tourismus"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Turismus",
+    "Touriszmus",
+    "Tourismuss",
+    "Tourismuß"
+  ]
+}

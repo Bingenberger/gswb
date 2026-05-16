@@ -1,0 +1,95 @@
+{
+  "lemma": "heizen",
+  "wortart": "Verb",
+  "silben": "hei-zen",
+  "begriffserklaerung": "Heizen bedeutet, einen Raum oder ein Gebäude warm zu machen, zum Beispiel mit einer Heizung oder einem Ofen.",
+  "beispielsatz": "Im Winter müssen wir die Wohnung heizen, damit es schön warm ist.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „hei-zen\". Du hörst ein langes „ei\" und ein weiches „z\". Schreibe: h – e – i – z – e – n.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "heiz"
+  ],
+  "bild_datei": "heizen.webp",
+  "audio_datei": "heizen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to heat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chauffer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ısıtmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسَخِّن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heizung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heizer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wärmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wärmen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "heizen",
+    "praesens": {
+      "ich": "heize",
+      "du": "heizt",
+      "er_sie_es": "heizt",
+      "wir": "heizen",
+      "ihr": "heizt",
+      "sie": "heizen"
+    },
+    "perfekt": {
+      "ich": "habe geheizt",
+      "du": "hast geheizt",
+      "er_sie_es": "hat geheizt",
+      "wir": "haben geheizt",
+      "ihr": "habt geheizt",
+      "sie": "haben geheizt"
+    },
+    "praeteritum": {
+      "ich": "heizte",
+      "du": "heiztest",
+      "er_sie_es": "heizte",
+      "wir": "heizten",
+      "ihr": "heiztet",
+      "sie": "heizten"
+    }
+  },
+  "fehlschreibungen": [
+    "heissen",
+    "heizen",
+    "heizzen",
+    "heißen",
+    "haizen",
+    "heyzen"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "lemma": "Auftrag",
+  "wortart": "Nomen",
+  "silben": "Auf-trag",
+  "begriffserklaerung": "Ein Auftrag ist eine Aufgabe oder Bitte, die jemand für eine andere Person erledigen soll.",
+  "beispielsatz": "Die Lehrerin gibt der Klasse einen Auftrag: Alle sollen ein Bild malen.",
+  "rechtschreibstrategie": "Denk an das Wort „tragen\": Auf-trag kommt von „tragen\". Du hörst das g am Ende – beim Verlängern (Auf-trä-ge) wird es deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "trag",
+    "träg"
+  ],
+  "bild_datei": "Auftrag.webp",
+  "audio_datei": "Auftrag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "task, assignment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mission, tâche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Träger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beauftragen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anweisung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hausaufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Projekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Befehl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Auftrag",
+    "plural": "die Aufträge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Auftrag",
+        "genitiv": "des Auftrags",
+        "dativ": "dem Auftrag",
+        "akkusativ": "den Auftrag"
+      },
+      "plural": {
+        "nominativ": "die Aufträge",
+        "genitiv": "der Aufträge",
+        "dativ": "den Aufträgen",
+        "akkusativ": "die Aufträge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Auftrak",
+    "Auftrack",
+    "Auftracht",
+    "Aufftrag",
+    "Auftrag"
+  ]
+}

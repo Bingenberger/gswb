@@ -1,0 +1,78 @@
+{
+  "lemma": "Marienkäfer",
+  "wortart": "Nomen",
+  "silben": "Ma-ri-en-kä-fer",
+  "begriffserklaerung": "Ein Marienkäfer ist ein kleines, rundes Insekt mit roten oder gelben Flügeln und schwarzen Punkten. Er lebt im Garten und auf Wiesen.",
+  "beispielsatz": "Auf dem Blatt sitzt ein roter Marienkäfer mit sieben schwarzen Punkten.",
+  "rechtschreibstrategie": "Das Wort „Marienkäfer\" ist zusammengesetzt aus „Marien\" und „Käfer\". Sprich beide Teile einzeln: Ma-ri-en + Kä-fer. Denk an das Umlaut-ä in „Käfer\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Käfer"
+  ],
+  "bild_datei": "Marienkäfer.webp",
+  "audio_datei": "Marienkäfer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Marienkäfer",
+    "plural": "die Marienkäfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Marienkäfer",
+        "genitiv": "des Marienkäfers",
+        "dativ": "dem Marienkäfer",
+        "akkusativ": "den Marienkäfer"
+      },
+      "plural": {
+        "nominativ": "die Marienkäfer",
+        "genitiv": "der Marienkäfer",
+        "dativ": "den Marienkäfern",
+        "akkusativ": "die Marienkäfer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ladybird / ladybug"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coccinelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uğur böceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أبو العيد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    }
+  ],
+  "fehlschreibungen": [
+    "Marienkäffer",
+    "Marienkefer",
+    "Marienkafer",
+    "Märienkäfer",
+    "Mariänkäfer"
+  ]
+}

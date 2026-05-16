@@ -1,0 +1,82 @@
+{
+  "lemma": "Pinsel",
+  "wortart": "Nomen",
+  "silben": "Pin-sel",
+  "begriffserklaerung": "Ein Pinsel ist ein Werkzeug zum Malen. Er hat einen langen Stiel und am Ende weiche Haare, mit denen man Farbe auftragen kann.",
+  "beispielsatz": "Lea taucht den Pinsel in die rote Farbe und malt einen großen Apfel.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pin-sel. Du hörst ein kurzes „i\" – danach kommt nur ein „n\", kein Doppelbuchstabe. Denk daran: Pinsel schreibt man mit „i\" und „s\", nicht mit „ie\" oder „z\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pinsel"
+  ],
+  "bild_datei": "Pinsel.webp",
+  "audio_datei": "Pinsel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "paintbrush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pinceau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırça"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فُرْشَاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pinseln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pinselstrich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Farbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Palette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Malerei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pinsel",
+    "plural": "die Pinsel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pinsel",
+        "genitiv": "des Pinsels",
+        "dativ": "dem Pinsel",
+        "akkusativ": "den Pinsel"
+      },
+      "plural": {
+        "nominativ": "die Pinsel",
+        "genitiv": "der Pinsel",
+        "dativ": "den Pinseln",
+        "akkusativ": "die Pinsel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pinzel",
+    "Piinsel",
+    "Pinßel",
+    "Pinnsel",
+    "Piensel"
+  ]
+}

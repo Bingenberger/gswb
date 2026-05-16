@@ -1,0 +1,82 @@
+{
+  "lemma": "Metalle",
+  "wortart": "Nomen",
+  "silben": "Me-tal-le",
+  "begriffserklaerung": "Metalle sind feste Stoffe wie Eisen, Gold oder Kupfer. Sie glänzen oft, leiten Strom und Wärme und lassen sich formen.",
+  "beispielsatz": "Viele Werkzeuge und Maschinen bestehen aus Metallen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Me-tal-le. Das „t\" klingt kurz, deshalb folgt ein Doppel-l.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Metall"
+  ],
+  "bild_datei": "Metalle.webp",
+  "audio_datei": "Metalle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "metals"
+    },
+    {
+      "language_code": "fr",
+      "translation": "métaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "metaller"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معادن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Metall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "metallisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gold"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stahl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Metall",
+    "plural": "Metalle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Metall",
+        "genitiv": "des Metalls",
+        "dativ": "dem Metall",
+        "akkusativ": "das Metall"
+      },
+      "plural": {
+        "nominativ": "die Metalle",
+        "genitiv": "der Metalle",
+        "dativ": "den Metallen",
+        "akkusativ": "die Metalle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Metale",
+    "Mettalle",
+    "Metahle",
+    "Medale",
+    "Metälle"
+  ]
+}

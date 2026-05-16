@@ -1,0 +1,87 @@
+{
+  "lemma": "Zuhause",
+  "wortart": "Nomen",
+  "silben": "Zu-hau-se",
+  "begriffserklaerung": "Das Zuhause ist der Ort, an dem du wohnst und dich sicher und wohl fühlst – meistens bei deiner Familie.",
+  "beispielsatz": "Nach der Schule freue ich mich immer auf mein Zuhause.",
+  "rechtschreibstrategie": "„Zuhause\" ist ein Bausteinwort aus „zu\" und „Hause\". Schreib es in einem Stück zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus"
+  ],
+  "bild_datei": "Zuhause.webp",
+  "audio_datei": "Zuhause.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "home"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chez-soi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "المنزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haushalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heimat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zuhause",
+    "plural": "die Zuhause",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zuhause",
+        "genitiv": "des Zuhauses",
+        "dativ": "dem Zuhause",
+        "akkusativ": "das Zuhause"
+      },
+      "plural": {
+        "nominativ": "die Zuhause",
+        "genitiv": "der Zuhause",
+        "dativ": "den Zuhausen",
+        "akkusativ": "die Zuhause"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zuhauße",
+    "Zuhause",
+    "Zu Hause",
+    "Zuhaus",
+    "Tsuhaus",
+    "Zuhauze"
+  ]
+}

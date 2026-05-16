@@ -1,0 +1,72 @@
+{
+  "lemma": "Baguette",
+  "wortart": "Nomen",
+  "silben": "Ba-guet-te",
+  "begriffserklaerung": "Eine Baguette ist ein langes, schmales Weißbrot aus Frankreich mit einer knusprigen Kruste.",
+  "beispielsatz": "Zum Frühstück beißt Papa gerne in eine knusprige Baguette.",
+  "rechtschreibstrategie": "Das Wort „Baguette\" kommt aus dem Französischen. Denk daran: nach dem „a\" folgt „gu\" und am Ende steht „ette\" – so wie in „Palette\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Baguette.webp",
+  "audio_datei": "Baguette.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baguette"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baguette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baget"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باغيت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brötchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäckerei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Baguette",
+    "plural": "die Baguettes",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Baguette",
+        "genitiv": "der Baguette",
+        "dativ": "der Baguette",
+        "akkusativ": "die Baguette"
+      },
+      "plural": {
+        "nominativ": "die Baguettes",
+        "genitiv": "der Baguettes",
+        "dativ": "den Baguettes",
+        "akkusativ": "die Baguettes"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baguete",
+    "Baguett",
+    "Bagette",
+    "Baghette",
+    "Baghuette"
+  ]
+}

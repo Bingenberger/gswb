@@ -1,0 +1,72 @@
+{
+  "lemma": "Sessel",
+  "wortart": "Nomen",
+  "silben": "Ses-sel",
+  "begriffserklaerung": "Ein Sessel ist ein bequemer Stuhl mit Armlehnen, auf dem man gut sitzen und sich ausruhen kann.",
+  "beispielsatz": "Opa liest abends gern ein Buch in seinem weichen Sessel.",
+  "rechtschreibstrategie": "Das Wort „Sessel\" hat nach dem kurzen „e\" ein Doppel-s. Sprich es deutlich: „Ses-sel\" – du hörst das doppelte S!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Sessel.webp",
+  "audio_datei": "Sessel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "armchair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fauteuil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koltuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرسي بذراعين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lehnstuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sofa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sessel",
+    "plural": "die Sessel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sessel",
+        "genitiv": "des Sessels",
+        "dativ": "dem Sessel",
+        "akkusativ": "den Sessel"
+      },
+      "plural": {
+        "nominativ": "die Sessel",
+        "genitiv": "der Sessel",
+        "dativ": "den Sesseln",
+        "akkusativ": "die Sessel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sässel",
+    "Sesel",
+    "Seßel",
+    "Säsel",
+    "Sessl"
+  ]
+}

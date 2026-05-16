@@ -1,0 +1,78 @@
+{
+  "lemma": "Löwe",
+  "wortart": "Nomen",
+  "silben": "Lö-we",
+  "begriffserklaerung": "Ein Löwe ist ein großes, wildes Raubtier mit gelbem Fell. Das Männchen hat eine dicke Mähne um den Kopf. Löwen leben in Afrika und gelten als „König der Tiere\".",
+  "beispielsatz": "Der Löwe brüllt laut in der Savanne.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Lö – we\". Das ö klingt lang, deshalb steht kein Doppelbuchstabe dahinter. Denk an den langen Vokal!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Löw"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Löwe",
+    "plural": "Löwen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Löwe",
+        "genitiv": "des Löwen",
+        "dativ": "dem Löwen",
+        "akkusativ": "den Löwen"
+      },
+      "plural": {
+        "nominativ": "die Löwen",
+        "genitiv": "der Löwen",
+        "dativ": "den Löwen",
+        "akkusativ": "die Löwen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Löhwe",
+    "Löve",
+    "Loewe",
+    "Löwwe",
+    "Löuwe"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löwin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löwenjunges"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elefant"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aslan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسد"
+    }
+  ],
+  "bild_datei": "Löwe.webp",
+  "audio_datei": "Löwe.mp3"
+}

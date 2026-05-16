@@ -1,0 +1,96 @@
+{
+  "lemma": "Austausch",
+  "wortart": "Nomen",
+  "silben": "Aus-tausch",
+  "begriffserklaerung": "Ein Austausch bedeutet, dass zwei Personen oder Gruppen sich gegenseitig etwas geben oder etwas miteinander teilen – zum Beispiel Gedanken, Dinge oder Erfahrungen.",
+  "beispielsatz": "Beim Schüleraustausch besuchen Kinder aus Frankreich unsere Schule und wir besuchen sie.",
+  "rechtschreibstrategie": "Das Wort „Austausch\" besteht aus zwei Bausteinen: „aus\" und „Tausch\". Wenn du dir das Wort „tauschen\" merkst, schreibst du auch „Austausch\" richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "tausch"
+  ],
+  "bild_datei": "Austausch.webp",
+  "audio_datei": "Austausch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Austausch",
+    "plural": "die Austausche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Austausch",
+        "genitiv": "des Austauschs",
+        "dativ": "dem Austausch",
+        "akkusativ": "den Austausch"
+      },
+      "plural": {
+        "nominativ": "die Austausche",
+        "genitiv": "der Austausche",
+        "dativ": "den Austauschen",
+        "akkusativ": "die Austausche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exchange"
+    },
+    {
+      "language_code": "fr",
+      "translation": "échange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değişim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تبادل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tauschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tausch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "austauschen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tausch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wechsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zusammenarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüleraustausch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Austauusch",
+    "Ausztausch",
+    "Austauß",
+    "Ausztauß",
+    "Ausstausch",
+    "Austausch"
+  ]
+}

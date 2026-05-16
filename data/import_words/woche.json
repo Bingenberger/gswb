@@ -1,0 +1,81 @@
+{
+  "lemma": "Woche",
+  "wortart": "Nomen",
+  "silben": "Wo-che",
+  "begriffserklaerung": "Eine Woche hat sieben Tage: Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag und Sonntag.",
+  "beispielsatz": "In einer Woche haben wir Schulferien!",
+  "rechtschreibstrategie": "Sprich das Wort laut: Wo-che. Das „ch\" klingt wie in „ich\" – denk daran, es nicht als „k\" zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Woche"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Woche",
+    "plural": "die Wochen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Woche",
+        "genitiv": "der Woche",
+        "dativ": "der Woche",
+        "akkusativ": "die Woche"
+      },
+      "plural": {
+        "nominativ": "die Wochen",
+        "genitiv": "der Wochen",
+        "dativ": "den Wochen",
+        "akkusativ": "die Wochen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Woche",
+    "Voche",
+    "Wosche",
+    "Woch"
+  ],
+  "bild_datei": "Woche.webp",
+  "audio_datei": "Woche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "week"
+    },
+    {
+      "language_code": "fr",
+      "translation": "semaine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hafta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسبوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wöchentlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wochenende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Monat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahr"
+    }
+  ]
+}

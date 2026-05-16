@@ -1,0 +1,89 @@
+{
+  "lemma": "Schraubendreher",
+  "wortart": "Nomen",
+  "silben": "Schrau-ben-dre-her",
+  "begriffserklaerung": "Ein Schraubendreher ist ein Werkzeug, mit dem man Schrauben eindrehen oder losdrehen kann.",
+  "beispielsatz": "Papa benutzt den Schraubendreher, um das Regal an der Wand zu befestigen.",
+  "rechtschreibstrategie": "Das Wort „Schraubendreher\" besteht aus drei Teilen: „Schraube\" + „n\" + „Dreher\". Sprich alle Teile laut mit, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schraube",
+    "drehen"
+  ],
+  "bild_datei": "Schraubendreher.webp",
+  "audio_datei": "Schraubendreher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schraubendreher",
+    "plural": "die Schraubendreher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schraubendreher",
+        "genitiv": "des Schraubendrehers",
+        "dativ": "dem Schraubendreher",
+        "akkusativ": "den Schraubendreher"
+      },
+      "plural": {
+        "nominativ": "die Schraubendreher",
+        "genitiv": "der Schraubendreher",
+        "dativ": "den Schraubendrehern",
+        "akkusativ": "die Schraubendreher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "screwdriver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tournevis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tornavida"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفك البراغي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schraubenzieher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schraubendreier",
+    "Schraubendreher",
+    "Scraubendreher",
+    "Schraubendreehr",
+    "Schraupendreher",
+    "Schraubendräher",
+    "Schroubendreher"
+  ]
+}

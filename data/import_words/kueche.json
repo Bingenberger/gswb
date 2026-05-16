@@ -1,0 +1,88 @@
+{
+  "lemma": "Küche",
+  "wortart": "Nomen",
+  "silben": "Kü-che",
+  "begriffserklaerung": "Die Küche ist der Raum in einer Wohnung oder einem Haus, in dem man Essen zubereitet und kocht.",
+  "beispielsatz": "Mama backt in der Küche einen leckeren Kuchen.",
+  "rechtschreibstrategie": "Denk an das Wort „Koch\" – daraus kommt „Küche\". Das ü klingt kurz, deshalb folgt ein ch.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "koch",
+    "küch"
+  ],
+  "bild_datei": "Küche.webp",
+  "audio_datei": "Küche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Küche",
+    "plural": "die Küchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Küche",
+        "genitiv": "der Küche",
+        "dativ": "der Küche",
+        "akkusativ": "die Küche"
+      },
+      "plural": {
+        "nominativ": "die Küchen",
+        "genitiv": "der Küchen",
+        "dativ": "den Küchen",
+        "akkusativ": "die Küchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kitchen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuisine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mutfak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطبخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Köchin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kochtopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kühlschrank"
+    }
+  ],
+  "fehlschreibungen": [
+    "Küche",
+    "Kieche",
+    "Kücke",
+    "Kühe",
+    "Küchn",
+    "Küchee"
+  ]
+}

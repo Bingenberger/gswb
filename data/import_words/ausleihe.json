@@ -1,0 +1,87 @@
+{
+  "lemma": "Ausleihe",
+  "wortart": "Nomen",
+  "silben": "Aus-lei-he",
+  "begriffserklaerung": "Die Ausleihe ist ein Ort oder ein Vorgang, bei dem du dir etwas – zum Beispiel ein Buch – für eine bestimmte Zeit nimmst und es danach wieder zurückbringst.",
+  "beispielsatz": "An der Ausleihe in der Bibliothek hole ich mir ein spannendes Buch.",
+  "rechtschreibstrategie": "Das Wort „Ausleihe\" steckt im Verb „leihen\". Denk an „leihen\" – dann schreibst du auch „Ausleihe\" richtig!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "leih"
+  ],
+  "bild_datei": "Ausleihe.webp",
+  "audio_datei": "Ausleihe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ausleihe",
+    "plural": "die Ausleihen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ausleihe",
+        "genitiv": "der Ausleihe",
+        "dativ": "der Ausleihe",
+        "akkusativ": "die Ausleihe"
+      },
+      "plural": {
+        "nominativ": "die Ausleihen",
+        "genitiv": "der Ausleihen",
+        "dativ": "den Ausleihen",
+        "akkusativ": "die Ausleihen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lending / checkout"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emprunt / prêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ödünç alma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الاستعارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leihen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leihbücherei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verleih"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rückgabe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausleie",
+    "Ausleiche",
+    "Auslei",
+    "Ausleiye",
+    "Ausleihe"
+  ]
+}

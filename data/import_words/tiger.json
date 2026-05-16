@@ -1,0 +1,82 @@
+{
+  "lemma": "Tiger",
+  "wortart": "Nomen",
+  "silben": "Ti-ger",
+  "begriffserklaerung": "Ein Tiger ist eine sehr große Raubkatze mit orangefarbenem Fell und schwarzen Streifen. Tiger leben wild in Asien und sind ausgezeichnete Jäger.",
+  "beispielsatz": "Der Tiger schleicht leise durch den Dschungel und beobachtet seine Beute.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ti – ger. Das erste i ist kurz, aber du schreibst nur ein g – merk dir: Ti-ger!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tiger"
+  ],
+  "bild_datei": "Tiger.webp",
+  "audio_datei": "Tiger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tiger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tigre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaplan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tigerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tigerbaby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leopard"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raubkatze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tiger",
+    "plural": "die Tiger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tiger",
+        "genitiv": "des Tigers",
+        "dativ": "dem Tiger",
+        "akkusativ": "den Tiger"
+      },
+      "plural": {
+        "nominativ": "die Tiger",
+        "genitiv": "der Tiger",
+        "dativ": "den Tigern",
+        "akkusativ": "die Tiger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tiefer",
+    "Tieger",
+    "Tigger",
+    "Tihger",
+    "Digger"
+  ]
+}

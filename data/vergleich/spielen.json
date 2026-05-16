@@ -1,0 +1,61 @@
+{
+  "lemma": "spielen",
+  "wortart": "Verb",
+  "silben": "spie-len",
+  "beispielsatz": "Wir spielen nach der Schule im Garten Fußball.",
+  "begriffserklaerung": "Spielen bedeutet, etwas aus Freude zu tun – zum Beispiel ein Spiel machen, mit Freunden toben oder ein Instrument spielen.",
+  "rechtschreibstrategie": "Im Wort 'spielen' steckt das 'ie'. Das klingt wie ein langes 'i'. Merke: 'ie' – nicht nur 'i'.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Spiel"
+  ],
+  "bild_datei": "spielen.webp",
+  "audio_datei": "spielen.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "to play" },
+    { "language_code": "fr", "translation": "jouer" },
+    { "language_code": "tr", "translation": "oynamak" },
+    { "language_code": "ar", "translation": "يلعب" }
+  ],
+  "beziehungen": [
+    { "relation_type": "word_family", "target_lemma": "Spiel" },
+    { "relation_type": "word_family", "target_lemma": "Spielzeug" },
+    { "relation_type": "synonym",     "target_lemma": "toben" },
+    { "relation_type": "word_field",  "target_lemma": "lachen" }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "spielen",
+    "praesens": {
+      "ich": "spiele",
+      "du": "spielst",
+      "er_sie_es": "spielt",
+      "wir": "spielen",
+      "ihr": "spielt",
+      "sie": "spielen"
+    },
+    "perfekt": {
+      "ich": "habe gespielt",
+      "du": "hast gespielt",
+      "er_sie_es": "hat gespielt",
+      "wir": "haben gespielt",
+      "ihr": "habt gespielt",
+      "sie": "haben gespielt"
+    },
+    "praeteritum": {
+      "ich": "spielte",
+      "du": "spieltest",
+      "er_sie_es": "spielte",
+      "wir": "spielten",
+      "ihr": "spieltet",
+      "sie": "spielten"
+    }
+  },
+  "fehlschreibungen": [
+    "spiehlen",
+    "spilen",
+    "spiellen",
+    "sbielen"
+  ]
+}

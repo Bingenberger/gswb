@@ -1,0 +1,87 @@
+{
+  "lemma": "Gefühl",
+  "wortart": "Nomen",
+  "silben": "Ge-fühl",
+  "begriffserklaerung": "Ein Gefühl ist das, was du innen spürst – zum Beispiel Freude, Trauer, Angst oder Liebe.",
+  "beispielsatz": "Als ich mein Geschenk aufmachte, hatte ich ein wunderbares Gefühl der Freude.",
+  "rechtschreibstrategie": "Das Wort „Gefühl\" hat ein Dehnungs-h nach dem ü: ge-FÜHL. Sprich es laut: Das ü ist lang, und das h hörst du nicht, aber du schreibst es.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fühl"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefühl",
+    "plural": "die Gefühle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefühl",
+        "genitiv": "des Gefühls",
+        "dativ": "dem Gefühl",
+        "akkusativ": "das Gefühl"
+      },
+      "plural": {
+        "nominativ": "die Gefühle",
+        "genitiv": "der Gefühle",
+        "dativ": "den Gefühlen",
+        "akkusativ": "die Gefühle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefühl",
+    "Gefüle",
+    "Gefühle",
+    "Gefüll",
+    "Gefiehl",
+    "Gefiel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "feeling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sentiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duygu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شعور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fühlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefühlvoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Empfindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angst"
+    }
+  ],
+  "bild_datei": "Gefühl.webp",
+  "audio_datei": "Gefühl.mp3"
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Verdienst",
+  "wortart": "Nomen",
+  "silben": "Ver-dienst",
+  "begriffserklaerung": "Der Verdienst ist das Geld, das man für seine Arbeit bekommt. Ein Verdienst kann auch eine besonders gute Leistung oder Tat sein, für die man gelobt wird.",
+  "beispielsatz": "Der Verdienst meines Vaters reicht für unsere ganze Familie.",
+  "rechtschreibstrategie": "Denke an das Wort „dienen\" – daraus entsteht „Verdienst\". Das „ie\" spricht man lang, wie in „Biene\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "dien"
+  ],
+  "bild_datei": "Verdienst.webp",
+  "audio_datei": "Verdienst.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verdienst",
+    "plural": "die Verdienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verdienst",
+        "genitiv": "des Verdienstes",
+        "dativ": "dem Verdienst",
+        "akkusativ": "den Verdienst"
+      },
+      "plural": {
+        "nominativ": "die Verdienste",
+        "genitiv": "der Verdienste",
+        "dativ": "den Verdiensten",
+        "akkusativ": "die Verdienste"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "earnings / merit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salaire / mérite"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanç / hizmet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الأجر / الاستحقاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dienen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verdienen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lohn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leistung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Belohnung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferdienst",
+    "Verdiensd",
+    "Verdinst",
+    "Verdienßt",
+    "Verdiensst"
+  ]
+}

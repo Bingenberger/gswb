@@ -1,0 +1,82 @@
+{
+  "lemma": "Jacke",
+  "wortart": "Nomen",
+  "silben": "Ja-cke",
+  "begriffserklaerung": "Eine Jacke ist ein Kleidungsstück mit Ärmeln, das man über andere Kleidung zieht. Sie hält warm und schützt vor Wind und Regen.",
+  "beispielsatz": "Zieh deine Jacke an, bevor du nach draußen gehst!",
+  "rechtschreibstrategie": "Das Wort „Jacke\" hat nach dem kurzen „a\" ein ck – das zeigt dir, dass der Vokal davor kurz gesprochen wird. Denk daran: kurzer Vokal → ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Jacke"
+  ],
+  "bild_datei": "Jacke.webp",
+  "audio_datei": "Jacke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jacket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "veste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ceket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سترة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jackentasche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regenjacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mantel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pullover"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anorak"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jacke",
+    "plural": "die Jacken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jacke",
+        "genitiv": "der Jacke",
+        "dativ": "der Jacke",
+        "akkusativ": "die Jacke"
+      },
+      "plural": {
+        "nominativ": "die Jacken",
+        "genitiv": "der Jacken",
+        "dativ": "den Jacken",
+        "akkusativ": "die Jacken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jacck",
+    "Jache",
+    "Jakke",
+    "Jake",
+    "Jacke"
+  ]
+}

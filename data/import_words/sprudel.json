@@ -1,0 +1,83 @@
+{
+  "lemma": "Sprudel",
+  "wortart": "Nomen",
+  "silben": "Spru-del",
+  "begriffserklaerung": "Sprudel ist ein Getränk mit vielen kleinen Bläschen. Es prickelt auf der Zunge und macht beim Öffnen ein zischendes Geräusch.",
+  "beispielsatz": "Nach dem Sport trinkt Lena am liebsten einen kühlen Sprudel.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Spru-del. Höre genau hin – nach dem kurzen „u\" folgt ein „d\". Kein Dehnungs-h, kein Doppelkonsonant – einfach so schreiben, wie man es hört!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sprudel",
+    "sprudeln"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sprudel",
+    "plural": "die Sprudel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sprudel",
+        "genitiv": "des Sprudels",
+        "dativ": "dem Sprudel",
+        "akkusativ": "den Sprudel"
+      },
+      "plural": {
+        "nominativ": "die Sprudel",
+        "genitiv": "der Sprudel",
+        "dativ": "den Sprudeln",
+        "akkusativ": "die Sprudel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schprudel",
+    "Spruddel",
+    "Sprudell",
+    "Sprudl",
+    "Shprudel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprudeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mineralwasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Limonade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sparkling water"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eau pétillante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maden suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مياه فوارة"
+    }
+  ],
+  "bild_datei": "Sprudel.webp",
+  "audio_datei": "Sprudel.mp3"
+}

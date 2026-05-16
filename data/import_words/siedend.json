@@ -1,0 +1,74 @@
+{
+  "lemma": "siedend",
+  "wortart": "Adjektiv",
+  "silben": "sie-dend",
+  "begriffserklaerung": "Siedend bedeutet, dass eine Flüssigkeit so heiß ist, dass sie kocht und Blasen wirft.",
+  "beispielsatz": "Das siedende Wasser im Topf blubbert und dampft ganz laut.",
+  "rechtschreibstrategie": "Denk an das Verb „sieden\" – siedend ist davon abgeleitet. Hör genau hin: sie-dend. Das „ie\" schreibt man mit i und e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sied"
+  ],
+  "bild_datei": "siedend.webp",
+  "audio_datei": "siedend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boiling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouillant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaynayan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sieden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Siedepunkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kochend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "heiß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dampfend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brodeln"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "siedend",
+    "komparativ": "siedender",
+    "superlativ": "am siedendsten"
+  },
+  "fehlschreibungen": [
+    "siedend",
+    "siddend",
+    "sietend",
+    "siehend",
+    "siehdend"
+  ]
+}

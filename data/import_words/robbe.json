@@ -1,0 +1,71 @@
+{
+  "lemma": "Robbe",
+  "wortart": "Nomen",
+  "silben": "Rob-be",
+  "begriffserklaerung": "Eine Robbe ist ein Meerestier mit Flossen, das sehr gut schwimmen kann. Robben leben meistens in kalten Meeren und fressen Fische.",
+  "beispielsatz": "Die Robbe liegt auf dem Eisberg und sonnt sich.",
+  "rechtschreibstrategie": "Das Wort „Robbe\" hat ein kurzes „o\", deshalb verdoppelst du das „b\": Rob-be.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Robbe",
+    "plural": "die Robben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Robbe",
+        "genitiv": "der Robbe",
+        "dativ": "der Robbe",
+        "akkusativ": "die Robbe"
+      },
+      "plural": {
+        "nominativ": "die Robben",
+        "genitiv": "der Robben",
+        "dativ": "den Robben",
+        "akkusativ": "die Robben"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seehund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Walross"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinguin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Robe",
+    "Roppe",
+    "Roobe",
+    "Robbbe"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "phoque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fok"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فقمة"
+    }
+  ],
+  "bild_datei": "Robbe.webp",
+  "audio_datei": "Robbe.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Kohle",
+  "wortart": "Nomen",
+  "silben": "Koh-le",
+  "begriffserklaerung": "Kohle ist ein schwarzes, hartes Material, das aus der Erde gewonnen wird. Man kann es verbrennen, um Wärme zu erzeugen.",
+  "beispielsatz": "Im Winter wurde früher mit Kohle geheizt.",
+  "rechtschreibstrategie": "Das Wort „Kohle\" schreibt man mit einem Dehnungs-h nach dem „o\". Sprich es langsam: K-oh-le – das „oh\" klingt lang!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kohle",
+    "plural": "die Kohlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kohle",
+        "genitiv": "der Kohle",
+        "dativ": "der Kohle",
+        "akkusativ": "die Kohle"
+      },
+      "plural": {
+        "nominativ": "die Kohlen",
+        "genitiv": "der Kohlen",
+        "dativ": "den Kohlen",
+        "akkusativ": "die Kohlen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kohl-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kohlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kohlenstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Steinkohle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cole",
+    "Kole",
+    "Kohlle",
+    "Kolle",
+    "Kohle"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "charbon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kömür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فحم"
+    }
+  ],
+  "bild_datei": "Kohle.webp",
+  "audio_datei": "Kohle.mp3"
+}

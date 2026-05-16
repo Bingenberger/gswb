@@ -1,0 +1,88 @@
+{
+  "lemma": "Heftgerät",
+  "wortart": "Nomen",
+  "silben": "Heft-ge-rät",
+  "begriffserklaerung": "Ein Heftgerät ist ein Werkzeug, mit dem man Blätter Papier zusammenheftet. Es drückt kleine Metallklammern durch das Papier, damit die Blätter zusammenhalten.",
+  "beispielsatz": "Ich benutze das Heftgerät, um meine Hausaufgaben zusammenzuheften.",
+  "rechtschreibstrategie": "Das Wort „Heftgerät\" ist aus zwei Teilen zusammengesetzt: „Heft\" und „Gerät\". Sprich beide Teile einzeln laut aus, dann kannst du sie richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Heft",
+    "Gerät"
+  ],
+  "bild_datei": "Heftgerät.webp",
+  "audio_datei": "Heftgerät.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Heftgerät",
+    "plural": "die Heftgeräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Heftgerät",
+        "genitiv": "des Heftgeräts",
+        "dativ": "dem Heftgerät",
+        "akkusativ": "das Heftgerät"
+      },
+      "plural": {
+        "nominativ": "die Heftgeräte",
+        "genitiv": "der Heftgeräte",
+        "dativ": "den Heftgeräten",
+        "akkusativ": "die Heftgeräte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stapler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agrafeuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zımba makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة تدبيس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heften"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heftklammer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tacker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Locher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klebeband"
+    }
+  ],
+  "fehlschreibungen": [
+    "Heftgereat",
+    "Heftgäret",
+    "Hefftgerät",
+    "Heftgerat",
+    "Heftgereät"
+  ]
+}

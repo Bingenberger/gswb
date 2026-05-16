@@ -1,0 +1,85 @@
+{
+  "lemma": "Putzlappen",
+  "wortart": "Nomen",
+  "silben": "Putz-lap-pen",
+  "begriffserklaerung": "Ein Putzlappen ist ein Stück Stoff, mit dem man Dinge sauber wischt, zum Beispiel einen Tisch oder ein Regal.",
+  "beispielsatz": "Mama nimmt den Putzlappen und wischt den Tisch ab.",
+  "rechtschreibstrategie": "Putzlappen ist aus zwei Wörtern zusammengesetzt: „Putz\" und „Lappen\". Bei „Putz\" hörst du ein kurzes „u\", deshalb kommt danach ein tz. Bei „Lappen\" hörst du ein kurzes „a\", deshalb steht pp in der Mitte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "putz",
+    "lapp"
+  ],
+  "bild_datei": "Putzlappen.webp",
+  "audio_datei": "Putzlappen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Putzlappen",
+    "plural": "die Putzlappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Putzlappen",
+        "genitiv": "des Putzlappens",
+        "dativ": "dem Putzlappen",
+        "akkusativ": "den Putzlappen"
+      },
+      "plural": {
+        "nominativ": "die Putzlappen",
+        "genitiv": "der Putzlappen",
+        "dativ": "den Putzlappen",
+        "akkusativ": "die Putzlappen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cleaning rag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chiffon de nettoyage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temizlik bezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خرقة التنظيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wischtuch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Putslappen",
+    "Puzlappen",
+    "Putzlaapen",
+    "Putzlapен",
+    "Putzlapen",
+    "Putslapen"
+  ]
+}

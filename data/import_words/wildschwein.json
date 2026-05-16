@@ -1,0 +1,85 @@
+{
+  "lemma": "Wildschwein",
+  "wortart": "Nomen",
+  "silben": "Wild-schwein",
+  "begriffserklaerung": "Ein Wildschwein ist ein wildes Tier, das im Wald lebt. Es hat eine dicke Haut mit borstigem Fell, eine lange Schnauze und kleine Augen. Männliche Wildschweine haben spitze Hauer. Wildschweine leben in Gruppen und suchen im Boden nach Nahrung.",
+  "beispielsatz": "Gestern hat unser Förster ein Wildschwein mit seinen Frischlingen am Waldrand gesehen.",
+  "rechtschreibstrategie": "„Wildschwein\" ist ein zusammengesetztes Wort aus „wild\" und „Schwein\". Sprich beide Teile einzeln: WILD + SCHWEIN. So schreibst du beide Teile richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wild",
+    "Schwein"
+  ],
+  "bild_datei": "Wildschwein.webp",
+  "audio_datei": "Wildschwein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wild boar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sanglier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban domuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزير بري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wildschwein",
+    "plural": "die Wildschweine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wildschwein",
+        "genitiv": "des Wildschweins",
+        "dativ": "dem Wildschwein",
+        "akkusativ": "das Wildschwein"
+      },
+      "plural": {
+        "nominativ": "die Wildschweine",
+        "genitiv": "der Wildschweine",
+        "dativ": "den Wildschweinen",
+        "akkusativ": "die Wildschweine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wiltschwein",
+    "Wildschwain",
+    "Wilschein",
+    "Wiltschwain",
+    "Wildschwein",
+    "Vildschein",
+    "Wildschwien"
+  ]
+}

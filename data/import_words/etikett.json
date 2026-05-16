@@ -1,0 +1,78 @@
+{
+  "lemma": "Etikett",
+  "wortart": "Nomen",
+  "silben": "E-ti-kett",
+  "begriffserklaerung": "Ein Etikett ist ein kleines Schild oder Zettel, der auf etwas geklebt wird und zeigt, was es ist, wie es heißt oder was es kostet.",
+  "beispielsatz": "Auf der Marmelade klebt ein Etikett mit dem Namen der Frucht.",
+  "rechtschreibstrategie": "Am Ende von „Etikett\" hörst du ein kurzes „e\" – deshalb steht da ein Doppel-t: ett. Sprich es in Silben: E-ti-kett!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Etikett"
+  ],
+  "bild_datei": "Etikett.webp",
+  "audio_datei": "Etikett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "label"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étiquette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "etiket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "etikettieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufkleber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufkleber"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Etikett",
+    "plural": "die Etiketten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Etikett",
+        "genitiv": "des Etiketts",
+        "dativ": "dem Etikett",
+        "akkusativ": "das Etikett"
+      },
+      "plural": {
+        "nominativ": "die Etiketten",
+        "genitiv": "der Etiketten",
+        "dativ": "den Etiketten",
+        "akkusativ": "die Etiketten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Etikket",
+    "Etiket",
+    "Etiquett",
+    "Etikette",
+    "Ettikette"
+  ]
+}

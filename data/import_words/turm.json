@@ -1,0 +1,86 @@
+{
+  "lemma": "Turm",
+  "wortart": "Nomen",
+  "silben": "Turm",
+  "begriffserklaerung": "Ein Turm ist ein hohes, schmales Gebäude oder ein hoher Teil eines Gebäudes, zum Beispiel an einer Burg oder Kirche.",
+  "beispielsatz": "Von oben auf dem Turm kann man sehr weit schauen.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Turm\". Achte auf das „u\" am Anfang und das „m\" am Ende – beide werden klar mitgesprochen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "turm"
+  ],
+  "bild_datei": "Turm.webp",
+  "audio_datei": "Turm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kule"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Türmchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "türmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kirchturm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hochturm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Turm",
+    "plural": "die Türme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Turm",
+        "genitiv": "des Turm(e)s",
+        "dativ": "dem Turm",
+        "akkusativ": "den Turm"
+      },
+      "plural": {
+        "nominativ": "die Türme",
+        "genitiv": "der Türme",
+        "dativ": "den Türmen",
+        "akkusativ": "die Türme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Durm",
+    "Tuhrm",
+    "Turrm",
+    "Thurm",
+    "Turmp"
+  ]
+}

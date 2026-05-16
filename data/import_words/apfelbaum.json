@@ -1,0 +1,83 @@
+{
+  "lemma": "Apfelbaum",
+  "wortart": "Nomen",
+  "silben": "Ap-fel-baum",
+  "begriffserklaerung": "Ein Apfelbaum ist ein Obstbaum, der Äpfel trägt. Er hat grüne Blätter, weiße oder rosa Blüten im Frühling und leckere Früchte im Herbst.",
+  "beispielsatz": "Im Garten meiner Oma steht ein großer Apfelbaum, von dem wir im Herbst viele Äpfel pflücken.",
+  "rechtschreibstrategie": "Der Apfelbaum ist ein zusammengesetztes Wort aus „Apfel\" und „Baum\". Sprich beide Teile einzeln: AP-FEL + BAUM. Schreibe sie dann einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Apfel",
+    "Baum"
+  ],
+  "bild_datei": "Apfelbaum.webp",
+  "audio_datei": "Apfelbaum.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Apfelbaum",
+    "plural": "die Apfelbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Apfelbaum",
+        "genitiv": "des Apfelbaums",
+        "dativ": "dem Apfelbaum",
+        "akkusativ": "den Apfelbaum"
+      },
+      "plural": {
+        "nominativ": "die Apfelbäume",
+        "genitiv": "der Apfelbäume",
+        "dativ": "den Apfelbäumen",
+        "akkusativ": "die Apfelbäume"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apple tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pommier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elma ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة التفاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obstbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Birnenbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirschbaum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Apfelbam",
+    "Abfelbaum",
+    "Apfelpaum",
+    "Apfelbaume",
+    "Apfellbaum"
+  ]
+}

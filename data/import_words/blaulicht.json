@@ -1,0 +1,84 @@
+{
+  "lemma": "Blaulicht",
+  "wortart": "Nomen",
+  "silben": "Blau-licht",
+  "begriffserklaerung": "Ein Blaulicht ist ein blaues Blinklicht, das auf Einsatzfahrzeugen wie Polizei, Feuerwehr oder Krankenwagen befestigt ist. Es zeigt an, dass das Fahrzeug ganz schnell fahren muss.",
+  "beispielsatz": "Als das Auto mit dem Blaulicht um die Ecke bog, fuhren alle anderen Autos zur Seite.",
+  "rechtschreibstrategie": "„Blaulicht\" ist aus zwei Wörtern zusammengesetzt: „blau\" und „Licht\". Schreib einfach beide Teile hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "blau",
+    "Licht"
+  ],
+  "bild_datei": "Blaulicht.webp",
+  "audio_datei": "Blaulicht.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Blaulicht",
+    "plural": "die Blaulichter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Blaulicht",
+        "genitiv": "des Blaulichts",
+        "dativ": "dem Blaulicht",
+        "akkusativ": "das Blaulicht"
+      },
+      "plural": {
+        "nominativ": "die Blaulichter",
+        "genitiv": "der Blaulichter",
+        "dativ": "den Blaulichtern",
+        "akkusativ": "die Blaulichter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blue light / emergency light"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gyrophare bleu / lumière bleue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mavi ışık / ikaz lambası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الضوء الأزرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blaulicht",
+    "Blaulitcht",
+    "Blaoulicht",
+    "Blaulickt",
+    "Blaulich",
+    "Blaulicth"
+  ]
+}

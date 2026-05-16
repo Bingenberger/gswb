@@ -1,0 +1,73 @@
+{
+  "lemma": "Shampoo",
+  "wortart": "Nomen",
+  "silben": "Sham-poo",
+  "begriffserklaerung": "Ein Shampoo ist eine flüssige Seife, mit der man sich die Haare wäscht und sauber macht.",
+  "beispielsatz": "Mama gibt mir etwas Shampoo in die Hand, damit ich mir die Haare waschen kann.",
+  "rechtschreibstrategie": "„Shampoo\" ist ein Fremdwort aus dem Englischen – merke dir: Es beginnt mit „Sh\" und endet auf „oo\" mit zwei o!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Shampoo.webp",
+  "audio_datei": "Shampoo.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shampoo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "shampooing"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şampuan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شامبو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Duschgel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haarbürste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Shampoo",
+    "plural": "die Shampoos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Shampoo",
+        "genitiv": "des Shampoos",
+        "dativ": "dem Shampoo",
+        "akkusativ": "das Shampoo"
+      },
+      "plural": {
+        "nominativ": "die Shampoos",
+        "genitiv": "der Shampoos",
+        "dativ": "den Shampoos",
+        "akkusativ": "die Shampoos"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schampoo",
+    "Shampuu",
+    "Shampou",
+    "Champo",
+    "Champoo",
+    "Schampo"
+  ]
+}

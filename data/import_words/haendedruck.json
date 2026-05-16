@@ -1,0 +1,86 @@
+{
+  "lemma": "Händedruck",
+  "wortart": "Nomen",
+  "silben": "Hän-de-druck",
+  "begriffserklaerung": "Ein Händedruck ist, wenn zwei Menschen sich gegenseitig die Hand halten und sie kurz auf und ab bewegen. Das macht man zum Begrüßen oder als Zeichen von Freundschaft.",
+  "beispielsatz": "Zur Begrüßung gaben sich die beiden Kinder einen freundlichen Händedruck.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Hände\" und „Druck\". Schreibe beide Teile zusammen – mit ä wie in „Hand\" und mit ck am Ende, weil der Vokal u kurz ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "drücken"
+  ],
+  "bild_datei": "Händedruck.webp",
+  "audio_datei": "Händedruck.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Händedruck",
+    "plural": "die Händedrücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Händedruck",
+        "genitiv": "des Händedrucks",
+        "dativ": "dem Händedruck",
+        "akkusativ": "den Händedruck"
+      },
+      "plural": {
+        "nominativ": "die Händedrücke",
+        "genitiv": "der Händedrücke",
+        "dativ": "den Händedrücken",
+        "akkusativ": "die Händedrücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handshake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poignée de main"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el sıkışma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصافحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Begrüßung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verabschiedung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Henddedruck",
+    "Händedruck",
+    "Hänndedruck",
+    "Händedruk",
+    "Hendedruck",
+    "Händedrukk"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Fund",
+  "wortart": "Nomen",
+  "silben": "Fund",
+  "begriffserklaerung": "Ein Fund ist etwas, das jemand zufällig entdeckt oder gefunden hat – zum Beispiel eine Münze, ein altes Werkzeug oder einen Schatz.",
+  "beispielsatz": "Der Archäologe war sehr aufgeregt über seinen neuen Fund.",
+  "rechtschreibstrategie": "Verlängere das Wort: Fund → Funde. Am Ende hörst du das „d\" deutlich, deshalb schreibt man Fund mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "find",
+    "fund"
+  ],
+  "bild_datei": "Fund.webp",
+  "audio_datei": "Fund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "find / discovery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trouvaille / découverte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulgu / keşif"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اكتشاف / لقية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "finden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Finder"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fundort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entdeckung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Archäologie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausgrabung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fund",
+    "plural": "die Funde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fund",
+        "genitiv": "des Fundes",
+        "dativ": "dem Fund",
+        "akkusativ": "den Fund"
+      },
+      "plural": {
+        "nominativ": "die Funde",
+        "genitiv": "der Funde",
+        "dativ": "den Funden",
+        "akkusativ": "die Funde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Funt",
+    "Fuhnd",
+    "Funde (als Singular)",
+    "Fuhnt",
+    "Phund"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Bett",
+  "wortart": "Nomen",
+  "silben": "Bett",
+  "begriffserklaerung": "Ein Bett ist ein Möbelstück, auf dem man schläft. Es hat meist eine Matratze, ein Kissen und eine Decke.",
+  "beispielsatz": "Abends kuschelt sich Tim müde in sein Bett.",
+  "rechtschreibstrategie": "Das Wort „Bett\" hat ein kurzes „e\" – deshalb verdoppeln wir den Buchstaben „t\": Bett.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bett"
+  ],
+  "bild_datei": "Bett.webp",
+  "audio_datei": "Bett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yatak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bettdecke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bettzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlafstätte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bett",
+    "plural": "die Betten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bett",
+        "genitiv": "des Bettes",
+        "dativ": "dem Bett",
+        "akkusativ": "das Bett"
+      },
+      "plural": {
+        "nominativ": "die Betten",
+        "genitiv": "der Betten",
+        "dativ": "den Betten",
+        "akkusativ": "die Betten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bet",
+    "Bett",
+    "Bedt",
+    "Bätt",
+    "Bät"
+  ]
+}

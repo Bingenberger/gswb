@@ -1,0 +1,95 @@
+{
+  "lemma": "wehtun",
+  "wortart": "Verb",
+  "silben": "weh-tun",
+  "begriffserklaerung": "Wenn etwas wehtut, spürt man Schmerz – zum Beispiel wenn man sich stößt oder schneidet.",
+  "beispielsatz": "Mein Knie tut weh, weil ich hingefallen bin.",
+  "rechtschreibstrategie": "„wehtun\" ist ein Bausteinwort aus „weh\" und „tun\". Sprich beide Teile einzeln: WEH + TUN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "weh",
+    "tun"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wehtun",
+    "praesens": {
+      "ich": "tue weh",
+      "du": "tust weh",
+      "er_sie_es": "tut weh",
+      "wir": "tun weh",
+      "ihr": "tut weh",
+      "sie": "tun weh"
+    },
+    "perfekt": {
+      "ich": "habe wehgetan",
+      "du": "hast wehgetan",
+      "er_sie_es": "hat wehgetan",
+      "wir": "haben wehgetan",
+      "ihr": "habt wehgetan",
+      "sie": "haben wehgetan"
+    },
+    "praeteritum": {
+      "ich": "tat weh",
+      "du": "tatst weh",
+      "er_sie_es": "tat weh",
+      "wir": "taten weh",
+      "ihr": "tatet weh",
+      "sie": "taten weh"
+    }
+  },
+  "fehlschreibungen": [
+    "weh tun",
+    "wähtun",
+    "wetun",
+    "wehtuhn",
+    "wehtuen"
+  ],
+  "bild_datei": "wehtun.webp",
+  "audio_datei": "wehtun.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hurt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire mal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acı vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يؤلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wehwehchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schmerzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weinen"
+    }
+  ]
+}

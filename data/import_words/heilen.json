@@ -1,0 +1,99 @@
+{
+  "lemma": "heilen",
+  "wortart": "Verb",
+  "silben": "hei-len",
+  "begriffserklaerung": "Wenn jemand heilt, wird er wieder gesund oder macht jemand anderen wieder gesund.",
+  "beispielsatz": "Die Ärztin hilft dem kranken Kind, damit es schnell heilt.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" in „heilen\" – du hörst es deutlich: hei-len. Schreibe ei, nicht ai!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "heil"
+  ],
+  "bild_datei": "heilen.webp",
+  "audio_datei": "heilen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "heilen",
+    "praesens": {
+      "ich": "heile",
+      "du": "heilst",
+      "er_sie_es": "heilt",
+      "wir": "heilen",
+      "ihr": "heilt",
+      "sie": "heilen"
+    },
+    "perfekt": {
+      "ich": "habe geheilt",
+      "du": "hast geheilt",
+      "er_sie_es": "hat geheilt",
+      "wir": "haben geheilt",
+      "ihr": "habt geheilt",
+      "sie": "haben geheilt"
+    },
+    "praeteritum": {
+      "ich": "heilte",
+      "du": "heiltest",
+      "er_sie_es": "heilte",
+      "wir": "heilten",
+      "ihr": "heiltet",
+      "sie": "heilten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to heal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guérir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iyileştirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يشفي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heilung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heilmittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gesunden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kurieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    }
+  ],
+  "fehlschreibungen": [
+    "hailen",
+    "heilen",
+    "heylen",
+    "heillen",
+    "hailn",
+    "heiln"
+  ]
+}

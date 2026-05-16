@@ -1,0 +1,89 @@
+{
+  "lemma": "Haussperling",
+  "wortart": "Nomen",
+  "silben": "Haus-sper-ling",
+  "begriffserklaerung": "Der Haussperling ist ein kleiner, brauner Vogel, der häufig in der Nähe von Menschen lebt. Er zwitschert laut und frisst am liebsten Körner und Brotkrumen.",
+  "beispielsatz": "Ein Haussperling sitzt auf unserem Fensterbrett und pickt nach Krümeln.",
+  "rechtschreibstrategie": "Das Wort „Haussperling\" ist aus zwei Teilen zusammengesetzt: „Haus\" und „Sperling\". Schreibe beide Teile einfach zusammen – und achte auf das Doppel-s in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Sperling"
+  ],
+  "bild_datei": "Haussperling.webp",
+  "audio_datei": "Haussperling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Haussperling",
+    "plural": "die Haussperlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Haussperling",
+        "genitiv": "des Haussperlings",
+        "dativ": "dem Haussperling",
+        "akkusativ": "den Haussperling"
+      },
+      "plural": {
+        "nominativ": "die Haussperlinge",
+        "genitiv": "der Haussperlinge",
+        "dativ": "den Hausperlingen",
+        "akkusativ": "die Haussperlinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "house sparrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moineau domestique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev serçesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصفور المنزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sperling"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Amsel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hausperling",
+    "Haußperling",
+    "Hausspehrling",
+    "Hausspereling",
+    "Hausspärling"
+  ]
+}

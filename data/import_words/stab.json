@@ -1,0 +1,82 @@
+{
+  "lemma": "Stab",
+  "wortart": "Nomen",
+  "silben": "Stab",
+  "begriffserklaerung": "Ein Stab ist ein langer, dünner, gerader Gegenstand aus Holz, Metall oder Kunststoff.",
+  "beispielsatz": "Der Turner springt mit einem langen Stab über die Latte.",
+  "rechtschreibstrategie": "Wenn du „Stab\" verlängerst, heißt es „Stäbe\" – so hörst du das „b\" am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stab"
+  ],
+  "bild_datei": "Stab.webp",
+  "audio_datei": "Stab.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rod / staff"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bâton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çubuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stäbe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stablampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stange"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stab",
+    "plural": "die Stäbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stab",
+        "genitiv": "des Stabes",
+        "dativ": "dem Stab",
+        "akkusativ": "den Stab"
+      },
+      "plural": {
+        "nominativ": "die Stäbe",
+        "genitiv": "der Stäbe",
+        "dativ": "den Stäben",
+        "akkusativ": "die Stäbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stap",
+    "Staab",
+    "Shtab",
+    "Stabh",
+    "Stabb"
+  ]
+}

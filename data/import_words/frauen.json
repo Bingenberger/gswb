@@ -1,0 +1,82 @@
+{
+  "lemma": "Frauen",
+  "wortart": "Nomen",
+  "silben": "Frau-en",
+  "begriffserklaerung": "Frauen sind erwachsene weibliche Menschen.",
+  "beispielsatz": "Die Frauen in unserer Klasse helfen gerne beim Schulfest.",
+  "rechtschreibstrategie": "Denk an das Grundwort „Frau\" – dann hängst du einfach „-en\" dran: Frau + en = Frauen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Frau"
+  ],
+  "bild_datei": "Frauen.webp",
+  "audio_datei": "Frauen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "women"
+    },
+    {
+      "language_code": "fr",
+      "translation": "femmes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kadınlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نساء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frauenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Männer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kinder"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Damen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frau",
+    "plural": "die Frauen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frau",
+        "genitiv": "der Frau",
+        "dativ": "der Frau",
+        "akkusativ": "die Frau"
+      },
+      "plural": {
+        "nominativ": "die Frauen",
+        "genitiv": "der Frauen",
+        "dativ": "den Frauen",
+        "akkusativ": "die Frauen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fraun",
+    "Frauhen",
+    "Frauwen",
+    "Fraven",
+    "Frauen"
+  ]
+}

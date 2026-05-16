@@ -1,0 +1,87 @@
+{
+  "lemma": "Reißverschluss",
+  "wortart": "Nomen",
+  "silben": "Reiß-ver-schluss",
+  "begriffserklaerung": "Ein Reißverschluss ist ein Verschluss aus zwei Zahnreihen aus Metall oder Plastik, die man mit einem kleinen Schieber öffnen und schließen kann. Man findet ihn zum Beispiel an Jacken, Hosen oder Taschen.",
+  "beispielsatz": "Mach bitte deinen Reißverschluss an der Jacke zu, es ist kalt draußen!",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „reiß\" + „ver\" + „schluss\". Das ß in „reiß\" schreibst du, weil der Vokal ei lang ist. Das Doppel-s am Ende von „Schluss\" erkennst du, wenn du das Wort verlängerst: die Schlüsse → Schluss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "reiß",
+    "Schluss"
+  ],
+  "bild_datei": "Reißverschluss.webp",
+  "audio_datei": "Reißverschluss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reißverschluss",
+    "plural": "die Reißverschlüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reißverschluss",
+        "genitiv": "des Reißverschlusses",
+        "dativ": "dem Reißverschluss",
+        "akkusativ": "den Reißverschluss"
+      },
+      "plural": {
+        "nominativ": "die Reißverschlüsse",
+        "genitiv": "der Reißverschlüsse",
+        "dativ": "den Reißverschlüssen",
+        "akkusativ": "die Reißverschlüsse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "zipper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fermeture éclair"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fermuar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سحّاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klettverschluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verschluss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reissverschluss",
+    "Reißverschluß",
+    "Reißverschlus",
+    "Reißferschluss",
+    "Reißverschlüss",
+    "Reißveschluss"
+  ]
+}

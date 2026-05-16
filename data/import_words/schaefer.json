@@ -1,0 +1,82 @@
+{
+  "lemma": "Schäfer",
+  "wortart": "Nomen",
+  "silben": "Schä-fer",
+  "begriffserklaerung": "Ein Schäfer ist ein Mensch, der Schafe hütet und auf sie aufpasst. Er sorgt dafür, dass die Schafe genug Gras fressen und sicher bleiben.",
+  "beispielsatz": "Der Schäfer führt seine Herde jeden Morgen auf die Wiese.",
+  "rechtschreibstrategie": "Denk an das Wort „Schaf\": Ein Schäfer kümmert sich um Schafe – deshalb schreibst du „Schäfer\" mit ä!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schaf"
+  ],
+  "bild_datei": "Schäfer.webp",
+  "audio_datei": "Schäfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shepherd"
+    },
+    {
+      "language_code": "fr",
+      "translation": "berger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çoban"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راعي الأغنام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schaf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schäferei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hirt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schäfer",
+    "plural": "die Schäfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schäfer",
+        "genitiv": "des Schäfers",
+        "dativ": "dem Schäfer",
+        "akkusativ": "den Schäfer"
+      },
+      "plural": {
+        "nominativ": "die Schäfer",
+        "genitiv": "der Schäfer",
+        "dativ": "den Schäfern",
+        "akkusativ": "die Schäfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schefer",
+    "Schaefer",
+    "Schäffer",
+    "Schehfer",
+    "Schäfar"
+  ]
+}

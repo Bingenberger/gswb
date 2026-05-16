@@ -1,0 +1,88 @@
+{
+  "lemma": "Abwasch",
+  "wortart": "Nomen",
+  "silben": "Ab-wasch",
+  "begriffserklaerung": "Der Abwasch ist das Spülen von schmutzigem Geschirr, Töpfen und Besteck mit Wasser und Spülmittel.",
+  "beispielsatz": "Nach dem Mittagessen hilft Mia beim Abwasch und trocknet die Teller ab.",
+  "rechtschreibstrategie": "Denk an das Wort „waschen\" – daraus entsteht der „Abwasch\". Das sch klingt wie ein einziger Laut.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "waschen",
+    "Wasch"
+  ],
+  "bild_datei": "Abwasch.webp",
+  "audio_datei": "Abwasch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abwasch",
+    "plural": "die Abwäsche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abwasch",
+        "genitiv": "des Abwaschs",
+        "dativ": "dem Abwasch",
+        "akkusativ": "den Abwasch"
+      },
+      "plural": {
+        "nominativ": "die Abwäsche",
+        "genitiv": "der Abwäsche",
+        "dativ": "den Abwäschen",
+        "akkusativ": "die Abwäsche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washing-up / doing the dishes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "la vaisselle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulaşık yıkama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غسيل الأطباق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschirrspülen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschirr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spülmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abwash",
+    "Abwasc",
+    "Abwassch",
+    "Abwaasch",
+    "Abwach"
+  ]
+}

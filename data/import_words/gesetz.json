@@ -1,0 +1,83 @@
+{
+  "lemma": "Gesetz",
+  "wortart": "Nomen",
+  "silben": "Ge-setz",
+  "begriffserklaerung": "Ein Gesetz ist eine wichtige Regel, die sich alle Menschen in einem Land halten müssen. Gesetze werden vom Staat gemacht und gelten für alle.",
+  "beispielsatz": "Das Gesetz sagt, dass alle Kinder zur Schule gehen müssen.",
+  "rechtschreibstrategie": "In „Gesetz\" steckt am Ende ein „tz\" – das schreibt man nach einem kurzen Vokal. Sprich das Wort langsam: Ge-setz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "setz",
+    "sitz"
+  ],
+  "bild_datei": "Gesetz.webp",
+  "audio_datei": "Gesetz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gesetz",
+    "plural": "die Gesetze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gesetz",
+        "genitiv": "des Gesetzes",
+        "dativ": "dem Gesetz",
+        "akkusativ": "das Gesetz"
+      },
+      "plural": {
+        "nominativ": "die Gesetze",
+        "genitiv": "der Gesetze",
+        "dativ": "den Gesetzen",
+        "akkusativ": "die Gesetze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "law"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yasa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قانون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "setzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gesetzlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorschrift"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gesez",
+    "Gesestz",
+    "Gezetz",
+    "Gesätz",
+    "Gesetzt"
+  ]
+}

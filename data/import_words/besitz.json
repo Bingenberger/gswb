@@ -1,0 +1,86 @@
+{
+  "lemma": "Besitz",
+  "wortart": "Nomen",
+  "silben": "Be-sitz",
+  "begriffserklaerung": "Besitz ist alles, was jemandem gehört – zum Beispiel Spielzeug, ein Fahrrad oder ein Haus.",
+  "beispielsatz": "Das Fahrrad ist mein Besitz, weil ich es zu meinem Geburtstag bekommen habe.",
+  "rechtschreibstrategie": "Am Ende hörst du ein kurzes „i\" – deshalb steht dahinter „tz\" als Kürzezeichen: Be-sitz.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Besitz",
+    "plural": "die Besitze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Besitz",
+        "genitiv": "des Besitzes",
+        "dativ": "dem Besitz",
+        "akkusativ": "den Besitz"
+      },
+      "plural": {
+        "nominativ": "die Besitze",
+        "genitiv": "der Besitze",
+        "dativ": "den Besitzen",
+        "akkusativ": "die Besitze"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "besitz"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "besitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besitzer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eigentum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eigentümer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermögen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hab und Gut"
+    }
+  ],
+  "fehlschreibungen": [
+    "Besiz",
+    "Bessitz",
+    "Besittz",
+    "Bezitz",
+    "Besizt"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "possession"
+    },
+    {
+      "language_code": "fr",
+      "translation": "possession"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mülk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملكية"
+    }
+  ],
+  "bild_datei": "Besitz.webp",
+  "audio_datei": "Besitz.mp3"
+}

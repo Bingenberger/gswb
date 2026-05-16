@@ -1,0 +1,84 @@
+{
+  "lemma": "Feuerwehrmann / die Feuerwehrfrau",
+  "wortart": "Nomen",
+  "silben": "Feu-er-wehr-mann / die Feu-er-wehr-frau",
+  "begriffserklaerung": "Ein Feuerwehrmann oder eine Feuerwehrfrau löscht Brände, rettet Menschen in Not und hilft bei Unfällen und anderen Gefahren.",
+  "beispielsatz": "Der Feuerwehrmann klettert mutig die Leiter hinauf, um das Kind zu retten.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Feuer\" + „Wehr\" + „Mann\" (oder „Frau\"). Sprich alle Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Wehr"
+  ],
+  "bild_datei": "Feuerwehrmann / die Feuerwehrfrau.webp",
+  "audio_datei": "Feuerwehrmann / die Feuerwehrfrau.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "firefighter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pompier / pompière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itfaiyeci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رجل الإطفاء / امرأة الإطفاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löschfahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der / die",
+    "singular": "der Feuerwehrmann / die Feuerwehrfrau",
+    "plural": "die Feuerwehrmänner / die Feuerwehrfrauen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feuerwehrmann / die Feuerwehrfrau",
+        "genitiv": "des Feuerwehrmannes / der Feuerwehrfrau",
+        "dativ": "dem Feuerwehrmann / der Feuerwehrfrau",
+        "akkusativ": "den Feuerwehrmann / die Feuerwehrfrau"
+      },
+      "plural": {
+        "nominativ": "die Feuerwehrmänner / die Feuerwehrfrauen",
+        "genitiv": "der Feuerwehrmänner / der Feuerwehrfrauen",
+        "dativ": "den Feuerwehrmännern / den Feuerwehrfrauen",
+        "akkusativ": "die Feuerwehrmänner / die Feuerwehrfrauen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuerwärmann",
+    "Feuerwerhrmann",
+    "Feuerwehrmahn",
+    "Feuerwerman",
+    "Feuerwärhmann",
+    "Feuerwehrman"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Rechner",
+  "wortart": "Nomen",
+  "silben": "Rech-ner",
+  "begriffserklaerung": "Ein Rechner ist ein Gerät, mit dem man schnell rechnen oder Aufgaben lösen kann. Es gibt kleine Taschenrechner und große Computer.",
+  "beispielsatz": "Mit dem Rechner kann ich schwierige Aufgaben ganz schnell lösen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Rech-ner\". Nach dem kurzen „e\" kommt „ch\", dann folgt das Nachsilbe „-ner\". Denke an das Verb „rechnen\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "rechn"
+  ],
+  "bild_datei": "Rechner.webp",
+  "audio_datei": "Rechner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rechner",
+    "plural": "die Rechner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rechner",
+        "genitiv": "des Rechners",
+        "dativ": "dem Rechner",
+        "akkusativ": "den Rechner"
+      },
+      "plural": {
+        "nominativ": "die Rechner",
+        "genitiv": "der Rechner",
+        "dativ": "den Rechnern",
+        "akkusativ": "die Rechner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "calculator / computer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calculatrice / ordinateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesap makinesi / bilgisayar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة حاسبة / حاسوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschenrechner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Computer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reckner",
+    "Rechener",
+    "Rechnar",
+    "Rächner",
+    "Recner"
+  ]
+}

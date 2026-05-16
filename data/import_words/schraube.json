@@ -1,0 +1,87 @@
+{
+  "lemma": "Schraube",
+  "wortart": "Nomen",
+  "silben": "Schrau-be",
+  "begriffserklaerung": "Eine Schraube ist ein kleines Metallteil mit einer Spiralrille. Mit ihr kann man Dinge fest miteinander verbinden.",
+  "beispielsatz": "Papa dreht die Schraube mit einem Schraubenzieher in das Holz.",
+  "rechtschreibstrategie": "Sprich das Wort laut: SCHRAU-BE. Du hörst zwei Silben. Das „au\" schreibst du mit a und u zusammen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schraub"
+  ],
+  "bild_datei": "Schraube.webp",
+  "audio_datei": "Schraube.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "screw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vida"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسمار لولبي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schrauben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraubenzieher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraubenschlüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schraube",
+    "plural": "die Schrauben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schraube",
+        "genitiv": "der Schraube",
+        "dativ": "der Schraube",
+        "akkusativ": "die Schraube"
+      },
+      "plural": {
+        "nominativ": "die Schrauben",
+        "genitiv": "der Schrauben",
+        "dativ": "den Schrauben",
+        "akkusativ": "die Schrauben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schraupe",
+    "Schraubbe",
+    "Shraubbe",
+    "Schraube",
+    "Schrauwe",
+    "Schrobe"
+  ]
+}

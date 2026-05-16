@@ -1,0 +1,99 @@
+{
+  "lemma": "messen",
+  "wortart": "Verb",
+  "silben": "mes-sen",
+  "begriffserklaerung": "Messen bedeutet, die Länge, Größe, Temperatur oder Menge von etwas genau herausfinden – zum Beispiel mit einem Lineal oder einem Thermometer.",
+  "beispielsatz": "Lea misst mit dem Lineal, wie lang ihr Stift ist.",
+  "rechtschreibstrategie": "Das Wort „messen\" hat ein kurzes „e\" am Anfang. Weil der Vokal kurz ist, wird das „s\" verdoppelt: mess-en. Sprich es in Silben: mes-sen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "mess"
+  ],
+  "bild_datei": "messen.webp",
+  "audio_datei": "messen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to measure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mesurer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقيس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Messung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Messgerät"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abmessen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wiegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vergleichen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "messen",
+    "praesens": {
+      "ich": "messe",
+      "du": "misst",
+      "er_sie_es": "misst",
+      "wir": "messen",
+      "ihr": "messt",
+      "sie": "messen"
+    },
+    "perfekt": {
+      "ich": "habe gemessen",
+      "du": "hast gemessen",
+      "er_sie_es": "hat gemessen",
+      "wir": "haben gemessen",
+      "ihr": "habt gemessen",
+      "sie": "haben gemessen"
+    },
+    "praeteritum": {
+      "ich": "maß",
+      "du": "maßest",
+      "er_sie_es": "maß",
+      "wir": "maßen",
+      "ihr": "maßt",
+      "sie": "maßen"
+    }
+  },
+  "fehlschreibungen": [
+    "mesen",
+    "messen",
+    "mässten",
+    "mesten",
+    "messsen",
+    "mässen"
+  ]
+}

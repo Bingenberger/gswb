@@ -1,0 +1,86 @@
+{
+  "lemma": "Turner",
+  "wortart": "Nomen",
+  "silben": "Tur-ner",
+  "begriffserklaerung": "Ein Turner ist ein Mensch, der Sport macht und dabei viele schwierige Bewegungen mit seinem Körper zeigt – zum Beispiel am Reck, am Boden oder am Pferd.",
+  "beispielsatz": "Der Turner macht einen perfekten Salto und alle Zuschauer klatschen laut.",
+  "rechtschreibstrategie": "Denk an das Wort „turnen\" – daraus wird „Turner\". Sprich beide Silben deutlich: TUR-ner.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "turn"
+  ],
+  "bild_datei": "Turner.webp",
+  "audio_datei": "Turner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Turner",
+    "plural": "die Turner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Turner",
+        "genitiv": "des Turners",
+        "dativ": "dem Turner",
+        "akkusativ": "den Turner"
+      },
+      "plural": {
+        "nominativ": "die Turner",
+        "genitiv": "der Turner",
+        "dativ": "den Turnern",
+        "akkusativ": "die Turner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gymnast"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gymnaste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "jimnastikçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لاعب جمباز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "turnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Turnerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Turnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Athlet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sportler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sportler"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dürner",
+    "Turener",
+    "Turrner",
+    "Thürner",
+    "Turnner"
+  ]
+}

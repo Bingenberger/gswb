@@ -1,0 +1,82 @@
+{
+  "lemma": "Palme",
+  "wortart": "Nomen",
+  "silben": "Pal-me",
+  "begriffserklaerung": "Eine Palme ist ein großer Baum mit einem langen, schlanken Stamm und langen Blättern oben. Palmen wachsen in warmen Ländern, oft am Strand oder in der Wüste.",
+  "beispielsatz": "Am Strand steht eine hohe Palme, an der viele Kokosnüsse hängen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pal-me. Denk daran: Nach dem kurzen „a\" kommt ein „l\", dann folgt „me\" – Palme!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Palme"
+  ],
+  "bild_datei": "Palme.webp",
+  "audio_datei": "Palme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "palm tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "palmier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "palmiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نخلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Palmenblatt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Palmöl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kokosnuss"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Palme",
+    "plural": "die Palmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Palme",
+        "genitiv": "der Palme",
+        "dativ": "der Palme",
+        "akkusativ": "die Palme"
+      },
+      "plural": {
+        "nominativ": "die Palmen",
+        "genitiv": "der Palmen",
+        "dativ": "den Palmen",
+        "akkusativ": "die Palmen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Palma",
+    "Pallme",
+    "Balmе",
+    "Pälme",
+    "Palmme"
+  ]
+}

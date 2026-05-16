@@ -1,0 +1,82 @@
+{
+  "lemma": "Dorn",
+  "wortart": "Nomen",
+  "silben": "Dorn",
+  "begriffserklaerung": "Ein Dorn ist eine spitze, harte Spitze, die an manchen Pflanzen wächst, zum Beispiel an Rosensträuchern. Dornen schützen die Pflanze vor Tieren.",
+  "beispielsatz": "Beim Pflücken der Rose hat sich Lena am Dorn den Finger gestochen.",
+  "rechtschreibstrategie": "Das Wort „Dorn\" hat am Ende ein -n. Wenn du es verlängerst, hörst du alle Buchstaben deutlich: „Dor-nen\". So weißt du, dass nach dem o ein r kommt.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Dorn"
+  ],
+  "bild_datei": "Dorn.webp",
+  "audio_datei": "Dorn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thorn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diken"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dornig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dornenbusch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stachel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stachel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dorn",
+    "plural": "die Dornen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dorn",
+        "genitiv": "des Dornes",
+        "dativ": "dem Dorn",
+        "akkusativ": "den Dorn"
+      },
+      "plural": {
+        "nominativ": "die Dornen",
+        "genitiv": "der Dornen",
+        "dativ": "den Dornen",
+        "akkusativ": "die Dornen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dohrn",
+    "Torn",
+    "Dohn",
+    "Doorn",
+    "Dorrn"
+  ]
+}

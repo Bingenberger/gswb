@@ -1,0 +1,85 @@
+{
+  "lemma": "Forscher / die Forscherin",
+  "wortart": "Nomen",
+  "silben": "For-scher / die For-sche-rin",
+  "begriffserklaerung": "Ein Forscher (eine Forscherin) ist ein Mensch, der Fragen über die Welt stellt und herausfindet, wie Dinge funktionieren. Forscher arbeiten zum Beispiel im Labor oder in der Natur.",
+  "beispielsatz": "Die Forscherin schaut durch das Mikroskop und entdeckt winzige Bakterien.",
+  "rechtschreibstrategie": "Denk an das Verb „forschen\": For-schen → For-scher. Das „sch\" hörst du deutlich, wenn du das Wort laut sprichst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "forsch"
+  ],
+  "bild_datei": "Forscher / die Forscherin.webp",
+  "audio_datei": "Forscher / die Forscherin.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Forscher",
+    "plural": "die Forscher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Forscher",
+        "genitiv": "des Forschers",
+        "dativ": "dem Forscher",
+        "akkusativ": "den Forscher"
+      },
+      "plural": {
+        "nominativ": "die Forscher",
+        "genitiv": "der Forscher",
+        "dativ": "den Forschern",
+        "akkusativ": "die Forscher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "researcher / scientist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chercheur / chercheuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araştırmacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باحث / باحثة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "forschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Forschung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entdeckung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Forsher",
+    "Forscher",
+    "Forschar",
+    "Forrcher"
+  ]
+}

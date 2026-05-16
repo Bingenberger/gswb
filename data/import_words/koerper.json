@@ -1,0 +1,83 @@
+{
+  "lemma": "Körper",
+  "wortart": "Nomen",
+  "silben": "Kör-per",
+  "begriffserklaerung": "Der Körper ist alles, woraus ein Mensch, ein Tier oder ein Gegenstand besteht – zum Beispiel Kopf, Arme, Beine und Bauch.",
+  "beispielsatz": "Beim Sport bewegen wir unseren Körper und bleiben gesund.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kör-per\". Das ö klingt kurz, aber es steht kein Doppelkonsonant dahinter – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "körper"
+  ],
+  "bild_datei": "Körper.webp",
+  "audio_datei": "Körper.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "body"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corps"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vücut"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "körperlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Körperpflege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leib"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Körper",
+    "plural": "die Körper",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Körper",
+        "genitiv": "des Körpers",
+        "dativ": "dem Körper",
+        "akkusativ": "den Körper"
+      },
+      "plural": {
+        "nominativ": "die Körper",
+        "genitiv": "der Körper",
+        "dativ": "den Körpern",
+        "akkusativ": "die Körper"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Körpär",
+    "Körper",
+    "Koerper",
+    "Körppa",
+    "Körpfer",
+    "Körpr"
+  ]
+}

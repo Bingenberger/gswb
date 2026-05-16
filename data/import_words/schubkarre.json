@@ -1,0 +1,85 @@
+{
+  "lemma": "Schubkarre",
+  "wortart": "Nomen",
+  "silben": "Schub-kar-re",
+  "begriffserklaerung": "Eine Schubkarre ist ein kleines Fahrzeug mit einem Rad vorne und zwei Griffen hinten. Man schiebt sie, um schwere Dinge wie Erde oder Steine zu transportieren.",
+  "beispielsatz": "Der Gärtner füllt die Schubkarre mit Erde und schiebt sie zum Blumenbeet.",
+  "rechtschreibstrategie": "Das Wort „Schubkarre\" ist aus zwei Teilen zusammengesetzt: „Schub\" (vom Schieben) und „Karre\". Sprich beide Teile einzeln: SCHUB + KARRE. Das doppelte „r\" in „Karre\" hörst du, wenn du das Wort laut sprichst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schieben",
+    "Schub",
+    "Karre"
+  ],
+  "bild_datei": "Schubkarre.webp",
+  "audio_datei": "Schubkarre.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schubkarre",
+    "plural": "die Schubkarren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schubkarre",
+        "genitiv": "der Schubkarre",
+        "dativ": "der Schubkarre",
+        "akkusativ": "die Schubkarre"
+      },
+      "plural": {
+        "nominativ": "die Schubkarren",
+        "genitiv": "der Schubkarren",
+        "dativ": "den Schubkarren",
+        "akkusativ": "die Schubkarren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wheelbarrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brouette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عربة اليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schieben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schubkraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Karre"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schupkarre",
+    "Schubkare",
+    "Schubkahre",
+    "Schupkare",
+    "Shubkarre"
+  ]
+}

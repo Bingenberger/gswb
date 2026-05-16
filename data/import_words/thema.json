@@ -1,0 +1,78 @@
+{
+  "lemma": "Thema",
+  "wortart": "Nomen",
+  "silben": "The-ma",
+  "begriffserklaerung": "Ein Thema ist das, worüber man spricht, schreibt oder nachdenkt – zum Beispiel in der Schule oder in einem Buch.",
+  "beispielsatz": "Das Thema unserer Schulstunde heute ist der Regenwald.",
+  "rechtschreibstrategie": "Denk ans Griechische: „Th\" klingt wie ein weiches T und schreibt sich immer mit h – The-ma.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Thema",
+    "plural": "die Themen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Thema",
+        "genitiv": "des Themas",
+        "dativ": "dem Thema",
+        "akkusativ": "das Thema"
+      },
+      "plural": {
+        "nominativ": "die Themen",
+        "genitiv": "der Themen",
+        "dativ": "den Themen",
+        "akkusativ": "die Themen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Them-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "thematisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Inhalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tema",
+    "Tема",
+    "Thehma",
+    "Theema",
+    "Thamma"
+  ],
+  "bild_datei": "Thema.webp",
+  "audio_datei": "Thema.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "topic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thème"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موضوع"
+    }
+  ]
+}

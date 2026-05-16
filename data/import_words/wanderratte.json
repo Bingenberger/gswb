@@ -1,0 +1,85 @@
+{
+  "lemma": "Wanderratte",
+  "wortart": "Nomen",
+  "silben": "Wan-der-rat-te",
+  "begriffserklaerung": "Die Wanderratte ist eine große, graue Ratte, die fast überall auf der Welt vorkommt. Sie lebt in der Nähe von Menschen, zum Beispiel in Kellern, Kanälen und auf Mülldeponien.",
+  "beispielsatz": "Im Keller unseres alten Hauses hat mein Vater eine Wanderratte entdeckt.",
+  "rechtschreibstrategie": "„Wanderratte\" ist ein zusammengesetztes Wort aus „wandern\" und „Ratte\". Das „tt\" in „Ratte\" zeigt dir, dass das „a\" kurz gesprochen wird – nach einem kurzen Vokal schreibt man oft zwei gleiche Konsonanten.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wander",
+    "Ratte"
+  ],
+  "bild_datei": "Wanderratte.webp",
+  "audio_datei": "Wanderratte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wanderratte",
+    "plural": "die Wanderratten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wanderratte",
+        "genitiv": "der Wanderratte",
+        "dativ": "der Wanderratte",
+        "akkusativ": "die Wanderratte"
+      },
+      "plural": {
+        "nominativ": "die Wanderratten",
+        "genitiv": "der Wanderratten",
+        "dativ": "den Wanderratten",
+        "akkusativ": "die Wanderratten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brown rat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rat surmulot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göçmen sıçan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجرذ البني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wandern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ratte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schädling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wanderate",
+    "Wanderratte",
+    "Vanderratte",
+    "Wanderratie",
+    "Wanderratta",
+    "Wanderadte"
+  ]
+}

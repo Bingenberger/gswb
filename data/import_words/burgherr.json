@@ -1,0 +1,84 @@
+{
+  "lemma": "Burgherr",
+  "wortart": "Nomen",
+  "silben": "Burg-herr",
+  "begriffserklaerung": "Ein Burgherr ist ein Mann, dem eine Burg gehört. Er wohnte dort und herrschte über die Menschen in seiner Umgebung.",
+  "beispielsatz": "Der Burgherr empfing seine Gäste in der großen Halle.",
+  "rechtschreibstrategie": "„Burgherr\" besteht aus zwei Wörtern: „Burg\" und „Herr\". Das Wort „Herr\" schreibt man mit Doppel-r. Sprich beide Teile einzeln, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Burg",
+    "Herr"
+  ],
+  "bild_datei": "Burgherr.webp",
+  "audio_datei": "Burgherr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lord of the castle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "seigneur du château"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kale beyi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيد القلعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittelalter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Burgherr",
+    "plural": "die Burgherren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Burgherr",
+        "genitiv": "des Burgherrn",
+        "dativ": "dem Burgherrn",
+        "akkusativ": "den Burgherrn"
+      },
+      "plural": {
+        "nominativ": "die Burgherren",
+        "genitiv": "der Burgherren",
+        "dativ": "den Burgherren",
+        "akkusativ": "die Burgherren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Burgheer",
+    "Burgher",
+    "Burcgherr",
+    "Burkherr",
+    "Burghär"
+  ]
+}

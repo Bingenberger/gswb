@@ -1,0 +1,103 @@
+{
+  "lemma": "brennen",
+  "wortart": "Verb",
+  "silben": "bren-nen",
+  "begriffserklaerung": "Wenn etwas brennt, ist es in Flammen oder leuchtet als Feuer. Auch eine Wunde oder Augen können brennen, wenn sie wehtun.",
+  "beispielsatz": "Das Lagerfeuer brennt hell in der Nacht.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „bren-nen\". Nach dem kurzen „e\" hörst du das „n\" doppelt – also schreibst du nn.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "brenn"
+  ],
+  "bild_datei": "brennen.webp",
+  "audio_datei": "brennen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "brennen",
+    "praesens": {
+      "ich": "brenne",
+      "du": "brennst",
+      "er_sie_es": "brennt",
+      "wir": "brennen",
+      "ihr": "brennt",
+      "sie": "brennen"
+    },
+    "perfekt": {
+      "ich": "habe gebrannt",
+      "du": "hast gebrannt",
+      "er_sie_es": "hat gebrannt",
+      "wir": "haben gebrannt",
+      "ihr": "habt gebrannt",
+      "sie": "haben gebrannt"
+    },
+    "praeteritum": {
+      "ich": "brannte",
+      "du": "branntest",
+      "er_sie_es": "brannte",
+      "wir": "brannten",
+      "ihr": "branntet",
+      "sie": "brannten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to burn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brûler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحترق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brennholz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brenner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lodern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "flammen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    }
+  ],
+  "fehlschreibungen": [
+    "brenen",
+    "brennnen",
+    "brenenn",
+    "brennen",
+    "brännen",
+    "brennt"
+  ]
+}

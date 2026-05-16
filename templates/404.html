@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}Nicht gefunden{% endblock %}
+
+{% block content %}
+<section class="card narrow-card">
+    <h1>Wort nicht gefunden</h1>
+    <p>Zu <strong>{{ lemma }}</strong> haben wir noch keinen Eintrag.</p>
+    <a class="primary-button link-button" href="{{ url_for('main.home') }}">Zurück zur Suche</a>
+</section>
+{% endblock %}

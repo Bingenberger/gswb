@@ -1,0 +1,84 @@
+{
+  "lemma": "Kartensymbol",
+  "wortart": "Nomen",
+  "silben": "Kar-ten-sym-bol",
+  "begriffserklaerung": "Ein Kartensymbol ist ein kleines Zeichen oder Bild auf einer Landkarte. Es erklärt, was an einem Ort zu finden ist, zum Beispiel ein Zelt für einen Campingplatz oder ein Kreuz für eine Kirche.",
+  "beispielsatz": "Auf der Landkarte zeigt ein kleines Haus-Symbol, wo ein Dorf liegt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Karte\" + „n\" + „Symbol\". Sprich alle Teile deutlich: Kar-ten-sym-bol.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Karte",
+    "Symbol"
+  ],
+  "bild_datei": "Kartensymbol.webp",
+  "audio_datei": "Kartensymbol.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "map symbol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "symbole cartographique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "harita sembolü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمز الخريطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Symbol"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Legende"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kartenzeichen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kartensymbol",
+    "plural": "die Kartensymbole",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kartensymbol",
+        "genitiv": "des Kartensymbols",
+        "dativ": "dem Kartensymbol",
+        "akkusativ": "das Kartensymbol"
+      },
+      "plural": {
+        "nominativ": "die Kartensymbole",
+        "genitiv": "der Kartensymbole",
+        "dativ": "den Kartensymbolen",
+        "akkusativ": "die Kartensymbole"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kartensimbol",
+    "Kartensymbol",
+    "Kartenssymbol",
+    "Kartensymmbol",
+    "Kartenzymbol",
+    "Kartensimbohl"
+  ]
+}

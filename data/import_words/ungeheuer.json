@@ -1,0 +1,92 @@
+{
+  "lemma": "Ungeheuer",
+  "wortart": "Nomen",
+  "silben": "Un-ge-heu-er",
+  "begriffserklaerung": "Ein Ungeheuer ist ein großes, beängstigendes Wesen aus Märchen, Sagen oder Fantasiegeschichten. Es sieht oft furchterregend aus und macht Menschen Angst.",
+  "beispielsatz": "In dem Buch kämpft der mutige Ritter gegen ein riesiges Ungeheuer.",
+  "rechtschreibstrategie": "Das Wort „Ungeheuer\" steckt das kleine Wort „Heu\" drin – denk an einen Heuhaufen! Schreibe: Un-ge-heu-er.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "geheuer",
+    "Ungeheuer"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ungeheuer",
+    "plural": "die Ungeheuer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ungeheuer",
+        "genitiv": "des Ungeheuers",
+        "dativ": "dem Ungeheuer",
+        "akkusativ": "das Ungeheuer"
+      },
+      "plural": {
+        "nominativ": "die Ungeheuer",
+        "genitiv": "der Ungeheuer",
+        "dativ": "den Ungeheuern",
+        "akkusativ": "die Ungeheuer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ungeheur",
+    "Ungeheuer",
+    "Ungehöuer",
+    "Ungeheier",
+    "Ungeheuehr",
+    "Ungheuer"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "monster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monstre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "canavar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geheuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ungeheuerlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Monster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bestie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespenst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    }
+  ],
+  "bild_datei": "Ungeheuer.webp",
+  "audio_datei": "Ungeheuer.mp3"
+}

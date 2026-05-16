@@ -1,0 +1,91 @@
+{
+  "lemma": "Lage",
+  "wortart": "Nomen",
+  "silben": "La-ge",
+  "begriffserklaerung": "Die Lage beschreibt, wo sich etwas oder jemand befindet, oder wie eine Situation gerade ist.",
+  "beispielsatz": "Die Schule befindet sich in einer ruhigen Lage am Waldrand.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich: La-ge. Am Ende hörst du ein weiches „g\" – schreib es einfach so, wie du es in „liegen\" kennst!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lieg",
+    "lag"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lage",
+    "plural": "die Lagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lage",
+        "genitiv": "der Lage",
+        "dativ": "der Lage",
+        "akkusativ": "die Lage"
+      },
+      "plural": {
+        "nominativ": "die Lagen",
+        "genitiv": "der Lagen",
+        "dativ": "den Lagen",
+        "akkusativ": "die Lagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laage",
+    "Lahge",
+    "Laje",
+    "Lagge",
+    "Lage"
+  ],
+  "bild_datei": "Lage.webp",
+  "audio_datei": "Lage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "location / situation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "situation / emplacement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konum / durum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقع / وضع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "liegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ablage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Position"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Situation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Platz"
+    }
+  ]
+}

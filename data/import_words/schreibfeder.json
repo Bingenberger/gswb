@@ -1,0 +1,83 @@
+{
+  "lemma": "Schreibfeder",
+  "wortart": "Nomen",
+  "silben": "Schreib-fe-der",
+  "begriffserklaerung": "Eine Schreibfeder ist eine dünne, spitz zulaufende Feder aus Metall oder früher aus einer Vogelfeder. Man taucht sie in Tinte und schreibt damit Buchstaben und Wörter.",
+  "beispielsatz": "Im Kunstunterricht haben wir mit einer Schreibfeder und Tinte unseren Namen geschrieben.",
+  "rechtschreibstrategie": "Das Wort „Schreibfeder\" besteht aus zwei Teilen: „schreib\" (von schreiben) und „Feder\". Sprich beide Teile einzeln: SCHREIB + FEDER. Denk beim ersten Teil ans Verb „schreiben\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schreib",
+    "feder"
+  ],
+  "bild_datei": "Schreibfeder.webp",
+  "audio_datei": "Schreibfeder.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schreibfeder",
+    "plural": "die Schreibfedern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schreibfeder",
+        "genitiv": "der Schreibfeder",
+        "dativ": "der Schreibfeder",
+        "akkusativ": "die Schreibfeder"
+      },
+      "plural": {
+        "nominativ": "die Schreibfedern",
+        "genitiv": "der Schreibfedern",
+        "dativ": "den Schreibfedern",
+        "akkusativ": "die Schreibfedern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quill / writing nib"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plume à écrire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazı kalemi ucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلم ريشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tintenfüller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tinte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feder"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schreibveder",
+    "Schreipfeder",
+    "Schreibfeeder",
+    "Schreibfehder",
+    "Schreibfeder"
+  ]
+}

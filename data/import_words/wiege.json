@@ -1,0 +1,82 @@
+{
+  "lemma": "Wiege",
+  "wortart": "Nomen",
+  "silben": "Wie-ge",
+  "begriffserklaerung": "Eine Wiege ist ein kleines, schaukelndes Bett für Babys.",
+  "beispielsatz": "Das Baby schläft friedlich in seiner Wiege.",
+  "rechtschreibstrategie": "Das „ie\" in „Wiege\" klingt wie ein langes I. Denk daran: W-I-E-G-E – das „ie\" zeigt, dass das I lang gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "wieg"
+  ],
+  "bild_datei": "Wiege.webp",
+  "audio_datei": "Wiege.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wiege",
+    "plural": "die Wiegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wiege",
+        "genitiv": "der Wiege",
+        "dativ": "der Wiege",
+        "akkusativ": "die Wiege"
+      },
+      "plural": {
+        "nominativ": "die Wiegen",
+        "genitiv": "der Wiegen",
+        "dativ": "den Wiegen",
+        "akkusativ": "die Wiegen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cradle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "berceau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beşik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wiegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wiegenlied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Babybett"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wige",
+    "Wiege",
+    "Wiegge",
+    "Viege",
+    "Wieje"
+  ]
+}

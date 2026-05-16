@@ -1,0 +1,83 @@
+{
+  "lemma": "Schlange",
+  "wortart": "Nomen",
+  "silben": "Schlan-ge",
+  "begriffserklaerung": "Eine Schlange ist ein langes, dünnes Tier ohne Beine, das sich auf dem Boden windet. Das Wort „Schlange\" bedeutet auch eine lange Reihe von Menschen, die warten.",
+  "beispielsatz": "Die bunte Schlange ringelt sich um einen Ast.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Schlan-ge\". Am Ende hörst du ein weiches „g\" – schreibe es mit „g\" und nicht mit „k\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schlängel"
+  ],
+  "bild_datei": "Schlange.webp",
+  "audio_datei": "Schlange.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schlange",
+    "plural": "die Schlangen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schlange",
+        "genitiv": "der Schlange",
+        "dativ": "der Schlange",
+        "akkusativ": "die Schlange"
+      },
+      "plural": {
+        "nominativ": "die Schlangen",
+        "genitiv": "der Schlangen",
+        "dativ": "den Schlangen",
+        "akkusativ": "die Schlangen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serpent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yılan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثعبان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlängeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlängelweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eidechse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krokodil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reptil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlange",
+    "Shlange",
+    "Schlannge",
+    "Schlanke",
+    "Sclange",
+    "Schlaange"
+  ]
+}

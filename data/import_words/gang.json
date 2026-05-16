@@ -1,0 +1,95 @@
+{
+  "lemma": "Gang",
+  "wortart": "Nomen",
+  "silben": "Gang",
+  "begriffserklaerung": "Ein Gang ist ein langer, schmaler Weg in einem Gebäude, durch den man von einem Zimmer zum anderen kommt. Gang bedeutet auch das Gehen oder eine Strecke, die man zu Fuß zurücklegt.",
+  "beispielsatz": "Der Gang in unserer Schule ist sehr lang und hell.",
+  "rechtschreibstrategie": "Das Wort „Gang\" endet auf -ng. Sprich es laut: Du hörst ein kurzes „a\" und das „ng\" am Ende. Wenn du es verlängerst, hörst du: Gän-ge – so erkennst du das „g\" am Ende!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gang",
+    "geh"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gang",
+    "plural": "die Gänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gang",
+        "genitiv": "des Ganges",
+        "dativ": "dem Gang",
+        "akkusativ": "den Gang"
+      },
+      "plural": {
+        "nominativ": "die Gänge",
+        "genitiv": "der Gänge",
+        "dativ": "den Gängen",
+        "akkusativ": "die Gänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ganng",
+    "Gaang",
+    "Gank",
+    "Ghang",
+    "Gange"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "corridor / walk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couloir / allée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koridor / yürüyüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممر / مشية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausgang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eingang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Korridor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tür"
+    }
+  ],
+  "bild_datei": "Gang.webp",
+  "audio_datei": "Gang.mp3"
+}

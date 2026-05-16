@@ -1,0 +1,72 @@
+{
+  "lemma": "Gnu",
+  "wortart": "Nomen",
+  "silben": "Gnu",
+  "begriffserklaerung": "Ein Gnu ist ein großes wildes Tier aus Afrika. Es sieht aus wie eine Mischung aus Rind und Pferd und hat gebogene Hörner.",
+  "beispielsatz": "Das Gnu galoppiert schnell über die weite Savanne.",
+  "rechtschreibstrategie": "Das Wort „Gnu\" beginnt mit dem ungewöhnlichen Buchstabenpaar „Gn\". Sprich es laut: Das „G\" am Anfang ist leise, aber man schreibt es mit. Denk daran: G-N-U!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gnu.webp",
+  "audio_datei": "Gnu.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wildebeest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gnou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gnu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Savanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebra"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büffel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gnu",
+    "plural": "die Gnus",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gnu",
+        "genitiv": "des Gnus",
+        "dativ": "dem Gnu",
+        "akkusativ": "das Gnu"
+      },
+      "plural": {
+        "nominativ": "die Gnus",
+        "genitiv": "der Gnus",
+        "dativ": "den Gnus",
+        "akkusativ": "die Gnus"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nu",
+    "Ngu",
+    "Gnuh",
+    "Gnou",
+    "Knu"
+  ]
+}

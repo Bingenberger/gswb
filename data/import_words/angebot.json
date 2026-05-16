@@ -1,0 +1,88 @@
+{
+  "lemma": "Angebot",
+  "wortart": "Nomen",
+  "silben": "An-ge-bot",
+  "begriffserklaerung": "Ein Angebot ist, wenn jemand etwas verkaufen oder geben möchte und dabei einen Preis oder eine Möglichkeit nennt.",
+  "beispielsatz": "Im Supermarkt gibt es heute ein tolles Angebot: Äpfel kosten nur die Hälfte!",
+  "rechtschreibstrategie": "Das Wort „Angebot\" setzt sich aus „an\" und „Gebot\" zusammen. Denk an das verwandte Wort „bieten\" – daraus wird „Ge-bot\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "biet",
+    "bot"
+  ],
+  "bild_datei": "Angebot.webp",
+  "audio_datei": "Angebot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "offer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "offre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teklif"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bieten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anbieten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rabatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorschlag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Angebot",
+    "plural": "die Angebote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Angebot",
+        "genitiv": "des Angebots",
+        "dativ": "dem Angebot",
+        "akkusativ": "das Angebot"
+      },
+      "plural": {
+        "nominativ": "die Angebote",
+        "genitiv": "der Angebote",
+        "dativ": "den Angeboten",
+        "akkusativ": "die Angebote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Angebott",
+    "Angebod",
+    "Angeboth",
+    "Angbot",
+    "Angebuot"
+  ]
+}

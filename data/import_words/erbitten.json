@@ -1,0 +1,100 @@
+{
+  "lemma": "erbitten",
+  "wortart": "Verb",
+  "silben": "er-bit-ten",
+  "begriffserklaerung": "Etwas erbitten bedeutet, höflich und dringend um etwas zu bitten.",
+  "beispielsatz": "Das Kind erbat sich eine Geschichte zum Einschlafen.",
+  "rechtschreibstrategie": "Höre genau hin: Nach dem kurzen „i\" in „bit-\" schreibt man zwei „t\" – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "bitten",
+    "Bitte"
+  ],
+  "bild_datei": "erbitten.webp",
+  "audio_datei": "erbitten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "erbitten",
+    "praesens": {
+      "ich": "erbitte",
+      "du": "erbittest",
+      "er_sie_es": "erbittet",
+      "wir": "erbitten",
+      "ihr": "erbittet",
+      "sie": "erbitten"
+    },
+    "perfekt": {
+      "ich": "habe erbeten",
+      "du": "hast erbeten",
+      "er_sie_es": "hat erbeten",
+      "wir": "haben erbeten",
+      "ihr": "habt erbeten",
+      "sie": "haben erbeten"
+    },
+    "praeteritum": {
+      "ich": "erbat",
+      "du": "erbatst",
+      "er_sie_es": "erbat",
+      "wir": "erbaten",
+      "ihr": "erbatet",
+      "sie": "erbaten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to request / to beg for"
+    },
+    {
+      "language_code": "fr",
+      "translation": "solliciter / implorer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalvararak istemek / rica etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يستعطف / يتوسل طالبًا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bitten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bitte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bitten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "flehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "anflehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wünschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verlangen"
+    }
+  ],
+  "fehlschreibungen": [
+    "erbieten",
+    "erbitten",
+    "erbiten",
+    "erbitern",
+    "erbittten"
+  ]
+}

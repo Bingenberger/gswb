@@ -1,0 +1,74 @@
+{
+  "lemma": "Ferkel",
+  "wortart": "Nomen",
+  "silben": "Fer-kel",
+  "begriffserklaerung": "Ein Ferkel ist ein junges Schwein. Ferkel sind klein, rosa und quieken laut.",
+  "beispielsatz": "Das kleine Ferkel tollte fröhlich durch den Stall.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Fer-kel. Nach dem kurzen „e\" hörst du das „r\" – schreib es genau so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ferkel",
+    "plural": "die Ferkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ferkel",
+        "genitiv": "des Ferkels",
+        "dativ": "dem Ferkel",
+        "akkusativ": "das Ferkel"
+      },
+      "plural": {
+        "nominativ": "die Ferkel",
+        "genitiv": "der Ferkel",
+        "dativ": "den Ferkeln",
+        "akkusativ": "die Ferkel"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Ferkel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferkal",
+    "Ferckel",
+    "Färkel",
+    "Ferkell",
+    "Verkel"
+  ],
+  "bild_datei": "Ferkel.webp",
+  "audio_datei": "Ferkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "piglet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porcelet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "domuz yavrusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزير صغير"
+    }
+  ]
+}

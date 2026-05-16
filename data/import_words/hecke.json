@@ -1,0 +1,82 @@
+{
+  "lemma": "Hecke",
+  "wortart": "Nomen",
+  "silben": "He-cke",
+  "begriffserklaerung": "Eine Hecke ist eine dichte Reihe aus Sträuchern oder Büschen, die wie ein grüner Zaun aussieht.",
+  "beispielsatz": "Im Garten wächst eine hohe Hecke, hinter der sich die Katze versteckt.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" verdoppelt sich das „k\" – aber weil ein „c\" davor steht, schreibt man „ck\": He-cke.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Heck"
+  ],
+  "bild_datei": "Hecke.webp",
+  "audio_datei": "Hecke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hecke",
+    "plural": "die Hecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hecke",
+        "genitiv": "der Hecke",
+        "dativ": "der Hecke",
+        "akkusativ": "die Hecke"
+      },
+      "plural": {
+        "nominativ": "die Hecken",
+        "genitiv": "der Hecken",
+        "dativ": "den Hecken",
+        "akkusativ": "die Hecken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hedge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "haie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سياج نباتي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heckenschere"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heckenpflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaun"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebüsch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Heke",
+    "Häcke",
+    "Hecka",
+    "Hekke",
+    "Hecck"
+  ]
+}

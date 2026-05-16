@@ -1,0 +1,96 @@
+{
+  "lemma": "fehlen",
+  "wortart": "Verb",
+  "silben": "feh-len",
+  "begriffserklaerung": "Wenn jemand oder etwas nicht da ist, obwohl er, sie oder es da sein sollte, dann fehlt er, sie oder es.",
+  "beispielsatz": "Heute fehlt Lisa in der Schule, weil sie krank ist.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Nach dem „e\" kommt ein „h\", das man nicht hört – feh-len. Sprich die Silben laut mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fehl"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "fehlen",
+    "praesens": {
+      "ich": "fehle",
+      "du": "fehlst",
+      "er_sie_es": "fehlt",
+      "wir": "fehlen",
+      "ihr": "fehlt",
+      "sie": "fehlen"
+    },
+    "perfekt": {
+      "ich": "habe gefehlt",
+      "du": "hast gefehlt",
+      "er_sie_es": "hat gefehlt",
+      "wir": "haben gefehlt",
+      "ihr": "habt gefehlt",
+      "sie": "haben gefehlt"
+    },
+    "praeteritum": {
+      "ich": "fehlte",
+      "du": "fehltest",
+      "er_sie_es": "fehlte",
+      "wir": "fehlten",
+      "ihr": "fehltet",
+      "sie": "fehlten"
+    }
+  },
+  "fehlschreibungen": [
+    "felen",
+    "fehlen",
+    "fählen",
+    "feehlен",
+    "feehlen",
+    "feln",
+    "fehlenn"
+  ],
+  "bild_datei": "fehlen.webp",
+  "audio_datei": "fehlen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be absent / to be missing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manquer / être absent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eksik olmak / bulunmamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغيب / ينقص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fehler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fehlzeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wegbleiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "krank sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vermissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "abwesend"
+    }
+  ]
+}

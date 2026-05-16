@@ -1,0 +1,88 @@
+{
+  "lemma": "Fahrkarte",
+  "wortart": "Nomen",
+  "silben": "Fahr-kar-te",
+  "begriffserklaerung": "Eine Fahrkarte ist ein kleiner Zettel oder ein Ticket, das du kaufst, um mit dem Bus, der Bahn oder der U-Bahn fahren zu dürfen.",
+  "beispielsatz": "Mama kauft am Schalter eine Fahrkarte für den Zug.",
+  "rechtschreibstrategie": "Das Wort „Fahrkarte\" ist ein zusammengesetztes Wort aus „fahren\" und „Karte\". Schreibe beide Teile einfach hintereinander: Fahr + Karte = Fahrkarte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "kart"
+  ],
+  "bild_datei": "Fahrkarte.webp",
+  "audio_datei": "Fahrkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ticket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "billet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تذكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ticket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fahrkarte",
+    "plural": "die Fahrkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fahrkarte",
+        "genitiv": "der Fahrkarte",
+        "dativ": "der Fahrkarte",
+        "akkusativ": "die Fahrkarte"
+      },
+      "plural": {
+        "nominativ": "die Fahrkarten",
+        "genitiv": "der Fahrkarten",
+        "dativ": "den Fahrkarten",
+        "akkusativ": "die Fahrkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fahrkarte",
+    "Farkarte",
+    "Fahrkart",
+    "Fahrkarden",
+    "Fahrkharte",
+    "Vahrkarte"
+  ]
+}

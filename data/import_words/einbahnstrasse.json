@@ -1,0 +1,85 @@
+{
+  "lemma": "Einbahnstraße",
+  "wortart": "Nomen",
+  "silben": "Ein-bahn-stra-ße",
+  "begriffserklaerung": "Eine Einbahnstraße ist eine Straße, auf der alle Autos nur in eine Richtung fahren dürfen.",
+  "beispielsatz": "Auf der Einbahnstraße müssen alle Autos in dieselbe Richtung fahren.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „ein\" + „Bahn\" + „Straße\". Denk daran: Am Ende steht ein ß, weil vor dem ß ein langer Vokal (a) steht!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Bahn",
+    "Straße"
+  ],
+  "bild_datei": "Einbahnstraße.webp",
+  "audio_datei": "Einbahnstraße.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "one-way street"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rue à sens unique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tek yönlü yol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شارع ذو اتجاه واحد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreuzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrsschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrbahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einbahnstraße",
+    "plural": "die Einbahnstraßen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einbahnstraße",
+        "genitiv": "der Einbahnstraße",
+        "dativ": "der Einbahnstraße",
+        "akkusativ": "die Einbahnstraße"
+      },
+      "plural": {
+        "nominativ": "die Einbahnstraßen",
+        "genitiv": "der Einbahnstraßen",
+        "dativ": "den Einbahnstraßen",
+        "akkusativ": "die Einbahnstraßen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einbahnstrasse",
+    "Einbahnstrase",
+    "Einbhanstraße",
+    "Einbahnstraße",
+    "Einbannstraße",
+    "Einbahnstrasße"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "regnen",
+  "wortart": "Verb",
+  "silben": "reg-nen",
+  "begriffserklaerung": "Wenn es regnet, fallen viele kleine Wassertropfen aus den Wolken auf die Erde.",
+  "beispielsatz": "Heute regnet es so stark, dass wir unsere Gummistiefel anziehen müssen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „reg-nen\". Nach dem kurzen „e\" hörst du das „g\" – schreibe es genau so, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "regnen",
+    "praesens": {
+      "ich": "ich regne",
+      "du": "du regnest",
+      "er_sie_es": "es regnet",
+      "wir": "wir regnen",
+      "ihr": "ihr regnet",
+      "sie": "sie regnen"
+    },
+    "perfekt": {
+      "ich": "ich habe geregnet",
+      "du": "du hast geregnet",
+      "er_sie_es": "es hat geregnet",
+      "wir": "wir haben geregnet",
+      "ihr": "ihr habt geregnet",
+      "sie": "sie haben geregnet"
+    },
+    "praeteritum": {
+      "ich": "ich regnete",
+      "du": "du regnetest",
+      "er_sie_es": "es regnete",
+      "wir": "wir regneten",
+      "ihr": "ihr regnetet",
+      "sie": "sie regneten"
+    }
+  },
+  "wortfamilie_basen": [
+    "Regen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regnerisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schneien"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hageln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "prasseln"
+    }
+  ],
+  "fehlschreibungen": [
+    "rägnen",
+    "reegnen",
+    "recknen",
+    "regten",
+    "regnnen",
+    "rägnet"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pleuvoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağmur yağmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمطر"
+    }
+  ],
+  "bild_datei": "regnen.webp",
+  "audio_datei": "regnen.mp3"
+}

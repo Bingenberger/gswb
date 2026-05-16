@@ -1,0 +1,88 @@
+{
+  "lemma": "Hersteller",
+  "wortart": "Nomen",
+  "silben": "Her-stel-ler",
+  "begriffserklaerung": "Ein Hersteller ist eine Firma oder eine Person, die etwas baut oder fertigt – zum Beispiel Spielzeug, Autos oder Lebensmittel.",
+  "beispielsatz": "Der Hersteller des Fußballs steht auf der Verpackung.",
+  "rechtschreibstrategie": "Das Wort „Hersteller\" ist ein zusammengesetztes Wort aus „her\" und „stellen\". Schreib beide Teile deutlich: her-stel-len → Hersteller. Das „ll\" kommt vom Verb „stellen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stellen",
+    "herstellen"
+  ],
+  "bild_datei": "Hersteller.webp",
+  "audio_datei": "Hersteller.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "manufacturer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fabricant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üretici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُصنِّع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "herstellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Produzent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Produkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Firma"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hersteller",
+    "plural": "die Hersteller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hersteller",
+        "genitiv": "des Herstellers",
+        "dativ": "dem Hersteller",
+        "akkusativ": "den Hersteller"
+      },
+      "plural": {
+        "nominativ": "die Hersteller",
+        "genitiv": "der Hersteller",
+        "dativ": "den Herstellern",
+        "akkusativ": "die Hersteller"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hersteler",
+    "Herställer",
+    "Herrsteller",
+    "Herstelер",
+    "Hersteller"
+  ]
+}

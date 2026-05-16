@@ -1,0 +1,82 @@
+{
+  "lemma": "Schwarm",
+  "wortart": "Nomen",
+  "silben": "Schwarm",
+  "begriffserklaerung": "Ein Schwarm ist eine große Gruppe von Tieren, die sich zusammen bewegen – zum Beispiel viele Fische oder Vögel.",
+  "beispielsatz": "Ein riesiger Schwarm Vögel fliegt über den Himmel.",
+  "rechtschreibstrategie": "Höre genau hin: Das „a\" in „Schwarm\" klingt lang, deshalb schreibt man nur ein „r\" – kein Doppel-r!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schwärm"
+  ],
+  "bild_datei": "Schwarm.webp",
+  "audio_datei": "Schwarm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swarm / school (of fish)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuée / banc (de poissons)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürü / balık sürüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwärmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwärmerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rudel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gruppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schwarm",
+    "plural": "die Schwärme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schwarm",
+        "genitiv": "des Schwarm(e)s",
+        "dativ": "dem Schwarm",
+        "akkusativ": "den Schwarm"
+      },
+      "plural": {
+        "nominativ": "die Schwärme",
+        "genitiv": "der Schwärme",
+        "dativ": "den Schwärmen",
+        "akkusativ": "die Schwärme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schvarm",
+    "Schwahm",
+    "Sswarm",
+    "Schwamm",
+    "Schwarm"
+  ]
+}

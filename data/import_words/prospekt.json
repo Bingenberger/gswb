@@ -1,0 +1,74 @@
+{
+  "lemma": "Prospekt",
+  "wortart": "Nomen",
+  "silben": "Pros-pekt",
+  "begriffserklaerung": "Ein Prospekt ist ein gefaltetes Heft oder ein Blatt mit Bildern und Texten, das zum Beispiel über Angebote in einem Geschäft oder über Reiseziele informiert.",
+  "beispielsatz": "Im Briefkasten lag ein bunter Prospekt vom Supermarkt mit vielen Sonderangeboten.",
+  "rechtschreibstrategie": "Das Wort „Prospekt\" endet auf -kt. Sprich beide Buchstaben am Ende deutlich mit: Pro-spekt. Kein e am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Prospekt"
+  ],
+  "bild_datei": "Prospekt.webp",
+  "audio_datei": "Prospekt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brochure / leaflet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prospectus / brochure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "broşür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتيب / نشرة إعلانية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Katalog"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flyer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Broschüre"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Prospekt",
+    "plural": "die Prospekte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Prospekt",
+        "genitiv": "des Prospekts",
+        "dativ": "dem Prospekt",
+        "akkusativ": "den Prospekt"
+      },
+      "plural": {
+        "nominativ": "die Prospekte",
+        "genitiv": "der Prospekte",
+        "dativ": "den Prospekten",
+        "akkusativ": "die Prospekte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prospect",
+    "Prohspekt",
+    "Prosspekt",
+    "Prospäkt",
+    "Prospeckt"
+  ]
+}

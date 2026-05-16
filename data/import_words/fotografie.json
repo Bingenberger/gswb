@@ -1,0 +1,92 @@
+{
+  "lemma": "Fotografie",
+  "wortart": "Nomen",
+  "silben": "Fo-to-gra-fie",
+  "begriffserklaerung": "Eine Fotografie ist ein Bild, das mit einer Kamera aufgenommen wird. Es zeigt genau, wie etwas in einem bestimmten Moment aussieht.",
+  "beispielsatz": "Meine Oma hängt eine Fotografie von uns an die Wand.",
+  "rechtschreibstrategie": "Am Ende hörst du „fie\" – das schreibst du mit ie: Foto-gra-fie. Sprich das Wort in Silben, dann vergisst du kein i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "foto",
+    "fotograf"
+  ],
+  "bild_datei": "Fotografie.webp",
+  "audio_datei": "Fotografie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "photograph"
+    },
+    {
+      "language_code": "fr",
+      "translation": "photographie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fotoğraf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صورة فوتوغرافية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fotografieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fotograf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Album"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufnahme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fotografie",
+    "plural": "die Fotografien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fotografie",
+        "genitiv": "der Fotografie",
+        "dativ": "der Fotografie",
+        "akkusativ": "die Fotografie"
+      },
+      "plural": {
+        "nominativ": "die Fotografien",
+        "genitiv": "der Fotografien",
+        "dativ": "den Fotografien",
+        "akkusativ": "die Fotografien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fotograhie",
+    "Fotographie",
+    "Fottografie",
+    "Fotografie",
+    "Fotogrfie",
+    "Fotograpfie"
+  ]
+}

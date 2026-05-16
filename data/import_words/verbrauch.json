@@ -1,0 +1,86 @@
+{
+  "lemma": "Verbrauch",
+  "wortart": "Nomen",
+  "silben": "Ver-brauch",
+  "begriffserklaerung": "Der Verbrauch sagt, wie viel von etwas benutzt oder aufgebraucht wird – zum Beispiel wie viel Strom, Wasser oder Essen man verwendet.",
+  "beispielsatz": "Der Verbrauch von Wasser in unserem Haus ist diese Woche sehr hoch.",
+  "rechtschreibstrategie": "Denke an das Verb „brauchen\" – daraus kommt das Wort „Verbrauch\". Das „au\" sprichst du deutlich aus: Ver-BRAUCH!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "brauch"
+  ],
+  "bild_datei": "Verbrauch.webp",
+  "audio_datei": "Verbrauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "consumption"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consommation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüketim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استهلاك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brauchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verbrauchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nutzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verbrauch",
+    "plural": "die Verbräuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verbrauch",
+        "genitiv": "des Verbrauchs",
+        "dativ": "dem Verbrauch",
+        "akkusativ": "den Verbrauch"
+      },
+      "plural": {
+        "nominativ": "die Verbräuche",
+        "genitiv": "der Verbräuche",
+        "dativ": "den Verbräuchen",
+        "akkusativ": "die Verbräuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferbrauch",
+    "Verbrauh",
+    "Verbrauche",
+    "Verbrauck",
+    "Verbrach"
+  ]
+}

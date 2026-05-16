@@ -1,0 +1,72 @@
+{
+  "lemma": "Grapefruit",
+  "wortart": "Nomen",
+  "silben": "Grape-fruit",
+  "begriffserklaerung": "Eine Grapefruit ist eine große, runde Zitrusfrucht mit gelber oder rosafarbener Schale. Sie schmeckt süß-sauer und ein bisschen bitter.",
+  "beispielsatz": "Mama schneidet die Grapefruit in zwei Hälften, damit wir den Saft auspressen können.",
+  "rechtschreibstrategie": "Das Wort „Grapefruit\" kommt aus dem Englischen. Schreibe es so, wie du es siehst: erst „Grape\", dann „fruit\" – alles zusammen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Grapefruit.webp",
+  "audio_datei": "Grapefruit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Grapefruit",
+    "plural": "die Grapefruits",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Grapefruit",
+        "genitiv": "der Grapefruit",
+        "dativ": "der Grapefruit",
+        "akkusativ": "die Grapefruit"
+      },
+      "plural": {
+        "nominativ": "die Grapefruits",
+        "genitiv": "der Grapefruits",
+        "dativ": "den Grapefruits",
+        "akkusativ": "die Grapefruits"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grapefruit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pamplemousse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "greyfurt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جريب فروت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zitrone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Greipfruit",
+    "Grapfruit",
+    "Gräpefruit",
+    "Grapefrucht",
+    "Graipfruit"
+  ]
+}

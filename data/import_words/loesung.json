@@ -1,0 +1,92 @@
+{
+  "lemma": "Lösung",
+  "wortart": "Nomen",
+  "silben": "Lö-sung",
+  "begriffserklaerung": "Eine Lösung ist das Ergebnis, das du findest, wenn du ein Problem oder eine Aufgabe gelöst hast.",
+  "beispielsatz": "Die Lösung der Matheaufgabe hat Tim ganz alleine herausgefunden.",
+  "rechtschreibstrategie": "Denk an das Verb „lösen\" – daraus wird „Lösung\". Das ö bleibt erhalten, und am Ende schreibst du -ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lös"
+  ],
+  "bild_datei": "Lösung.webp",
+  "audio_datei": "Lösung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lösung",
+    "plural": "die Lösungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lösung",
+        "genitiv": "der Lösung",
+        "dativ": "der Lösung",
+        "akkusativ": "die Lösung"
+      },
+      "plural": {
+        "nominativ": "die Lösungen",
+        "genitiv": "der Lösungen",
+        "dativ": "den Lösungen",
+        "akkusativ": "die Lösungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "solution"
+    },
+    {
+      "language_code": "fr",
+      "translation": "solution"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çözüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حَلّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lösen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lösbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ergebnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Problem"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lösung",
+    "Lössung",
+    "Lesung",
+    "Loesung",
+    "Löszung",
+    "Lösunk"
+  ]
+}

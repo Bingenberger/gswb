@@ -1,0 +1,85 @@
+{
+  "lemma": "Schneahase",
+  "wortart": "Nomen",
+  "silben": "Schnee-ha-se",
+  "begriffserklaerung": "Ein Schneehase ist ein Tier, das wie ein Hase aussieht und im Winter ein weißes Fell bekommt, damit er im Schnee nicht so leicht zu sehen ist.",
+  "beispielsatz": "Der Schneehase hoppelt durch den tiefen Schnee und ist kaum zu sehen, weil sein Fell so weiß ist wie der Schnee.",
+  "rechtschreibstrategie": "Das Wort „Schneehase\" ist ein zusammengesetztes Wort aus „Schnee\" und „Hase\". Denk daran: „Schnee\" schreibt man mit zwei e am Ende – wie ein kleines Schneefeld!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Hase"
+  ],
+  "bild_datei": "Schneahase.webp",
+  "audio_datei": "Schneahase.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schneehase",
+    "plural": "die Schneehasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schneehase",
+        "genitiv": "des Schneehasen",
+        "dativ": "dem Schneehasen",
+        "akkusativ": "den Schneehasen"
+      },
+      "plural": {
+        "nominativ": "die Schneehasen",
+        "genitiv": "der Schneehasen",
+        "dativ": "den Schneehasen",
+        "akkusativ": "die Schneehasen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mountain hare / snowshoe hare"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lièvre variable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar tavşanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الأرنب الثلجي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feldhase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schneehasse",
+    "Schnehase",
+    "Schneehaze",
+    "Schniehase",
+    "Schneehaaase",
+    "Schnehaasen"
+  ]
+}

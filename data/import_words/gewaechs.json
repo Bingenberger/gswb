@@ -1,0 +1,88 @@
+{
+  "lemma": "Gewächs",
+  "wortart": "Nomen",
+  "silben": "Ge-wächs",
+  "begriffserklaerung": "Ein Gewächs ist eine Pflanze, die irgendwo wächst – zum Beispiel im Garten, im Wald oder auf einem Feld.",
+  "beispielsatz": "In unserem Garten gibt es viele schöne Gewächse, zum Beispiel Rosen und Tomaten.",
+  "rechtschreibstrategie": "Denke an das Verb „wachsen\" – daraus wird „Gewächs\". Das ä kommt vom Stammvokal a in „wachsen\", und am Ende steht chs, das du mitsprechen kannst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "wachs"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Gewächs",
+    "plural": "Gewächse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewächs",
+        "genitiv": "des Gewächses",
+        "dativ": "dem Gewächs",
+        "akkusativ": "das Gewächs"
+      },
+      "plural": {
+        "nominativ": "die Gewächse",
+        "genitiv": "der Gewächse",
+        "dativ": "den Gewächsen",
+        "akkusativ": "die Gewächse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewächß",
+    "Gewäx",
+    "Gewechs",
+    "Gewächsz",
+    "Gewachs",
+    "Gevächs"
+  ],
+  "bild_datei": "Gewächs.webp",
+  "audio_datei": "Gewächs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bitki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wachsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wachstum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Gesang",
+  "wortart": "Nomen",
+  "silben": "Ge-sang",
+  "begriffserklaerung": "Gesang ist das Singen von Tönen und Melodien mit der Stimme. Man kann alleine oder zusammen mit anderen singen.",
+  "beispielsatz": "Der Gesang der Kinder im Chor klang wunderschön.",
+  "rechtschreibstrategie": "Denk an das Verb „singen\": Gesang kommt von „singen\". Das „a\" im Gesang hörst du, wenn du „sang\" sagst – das ist die Vergangenheit von „singen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sing"
+  ],
+  "bild_datei": "Gesang.webp",
+  "audio_datei": "Gesang.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gesang",
+    "plural": "die Gesänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gesang",
+        "genitiv": "des Gesanges",
+        "dativ": "dem Gesang",
+        "akkusativ": "den Gesang"
+      },
+      "plural": {
+        "nominativ": "die Gesänge",
+        "genitiv": "der Gesänge",
+        "dativ": "den Gesängen",
+        "akkusativ": "die Gesänge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "singing / song"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarkı söyleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "singen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Melodie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gesanng",
+    "Gezang",
+    "Gesank",
+    "gesang",
+    "Gessang"
+  ]
+}

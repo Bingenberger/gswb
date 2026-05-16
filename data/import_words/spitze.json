@@ -1,0 +1,83 @@
+{
+  "lemma": "Spitze",
+  "wortart": "Nomen",
+  "silben": "Spit-ze",
+  "begriffserklaerung": "Die Spitze ist das spitze, schmale Ende von etwas, zum Beispiel von einem Bleistift oder einem Berg.",
+  "beispielsatz": "Die Spitze des Bleistifts ist abgebrochen.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „tz\" – sprich: Spit-ze. Das „tz\" zeigt, dass der Vokal kurz ist!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "spitz"
+  ],
+  "bild_datei": "Spitze.webp",
+  "audio_datei": "Spitze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tip / point"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pointe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uç / tepe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قمة / نقطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spitzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ende"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spitze",
+    "plural": "die Spitzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spitze",
+        "genitiv": "der Spitze",
+        "dativ": "der Spitze",
+        "akkusativ": "die Spitze"
+      },
+      "plural": {
+        "nominativ": "die Spitzen",
+        "genitiv": "der Spitzen",
+        "dativ": "den Spitzen",
+        "akkusativ": "die Spitzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spize",
+    "Spitsse",
+    "Spitze",
+    "Spitce",
+    "Spizte",
+    "Spitzze"
+  ]
+}

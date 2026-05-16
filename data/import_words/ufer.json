@@ -1,0 +1,85 @@
+{
+  "lemma": "Ufer",
+  "wortart": "Nomen",
+  "silben": "U-fer",
+  "begriffserklaerung": "Das Ufer ist der Rand eines Flusses, eines Sees oder des Meeres, wo das Wasser auf das Land trifft.",
+  "beispielsatz": "Wir sitzen am Ufer des Sees und schauen den Enten zu.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: U – fer. Das „U\" am Anfang ist groß, weil Ufer ein Nomen ist. Der Vokal „U\" ist lang, obwohl kein Dehnungs-h da ist – einfach merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ufer"
+  ],
+  "bild_datei": "Ufer.webp",
+  "audio_datei": "Ufer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ufer",
+    "plural": "die Ufer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ufer",
+        "genitiv": "des Ufers",
+        "dativ": "dem Ufer",
+        "akkusativ": "das Ufer"
+      },
+      "plural": {
+        "nominativ": "die Ufer",
+        "genitiv": "der Ufer",
+        "dativ": "den Ufern",
+        "akkusativ": "die Ufer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shore, bank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rive, berge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıyı, sahil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاطئ، ضفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uferböschung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uferweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strand"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ufer",
+    "Uhfer",
+    "Uffer",
+    "Ufher"
+  ]
+}

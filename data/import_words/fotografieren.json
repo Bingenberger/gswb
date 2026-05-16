@@ -1,0 +1,100 @@
+{
+  "lemma": "fotografieren",
+  "wortart": "Verb",
+  "silben": "fo-to-gra-fie-ren",
+  "begriffserklaerung": "Wenn du fotografierst, machst du mit einer Kamera ein Bild von etwas oder jemandem.",
+  "beispielsatz": "Im Urlaub fotografiert Lena bunte Schmetterlinge im Garten.",
+  "rechtschreibstrategie": "Das Wort hat ein langes „i\"-Laut, der mit „ie\" geschrieben wird: foto-gra-fie-ren. Sprich alle Silben deutlich mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "foto",
+    "Fotografie"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "fotografieren",
+    "praesens": {
+      "ich": "fotografiere",
+      "du": "fotografierst",
+      "er_sie_es": "fotografiert",
+      "wir": "fotografieren",
+      "ihr": "fotografiert",
+      "sie": "fotografieren"
+    },
+    "perfekt": {
+      "ich": "habe fotografiert",
+      "du": "hast fotografiert",
+      "er_sie_es": "hat fotografiert",
+      "wir": "haben fotografiert",
+      "ihr": "habt fotografiert",
+      "sie": "haben fotografiert"
+    },
+    "praeteritum": {
+      "ich": "fotografierte",
+      "du": "fotografiertest",
+      "er_sie_es": "fotografierte",
+      "wir": "fotografierten",
+      "ihr": "fotografiertet",
+      "sie": "fotografierten"
+    }
+  },
+  "fehlschreibungen": [
+    "fotographieren",
+    "fotografiern",
+    "fotogravieren",
+    "fotografiehren",
+    "fhotografieren",
+    "fotogafieren"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fotografie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fotograf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "knipsen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufnehmen"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to photograph / to take a photo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "photographier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fotoğraf çekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُصَوِّر"
+    }
+  ],
+  "bild_datei": "fotografieren.webp",
+  "audio_datei": "fotografieren.mp3"
+}

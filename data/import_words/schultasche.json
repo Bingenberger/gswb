@@ -1,0 +1,88 @@
+{
+  "lemma": "Schultasche",
+  "wortart": "Nomen",
+  "silben": "Schul-ta-sche",
+  "begriffserklaerung": "Eine Schultasche ist eine Tasche, die Kinder in die Schule mitnehmen. Darin tragen sie ihre Bücher, Hefte und Stifte.",
+  "beispielsatz": "Lena packt ihre Schultasche am Abend, damit sie morgen früh schnell los kann.",
+  "rechtschreibstrategie": "„Schultasche\" ist ein zusammengesetztes Wort aus „Schule\" und „Tasche\". Sprich beide Teile deutlich: SCHUL – TA – SCHE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Tasche"
+  ],
+  "bild_datei": "Schultasche.webp",
+  "audio_datei": "Schultasche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school bag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cartable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul çantası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Federmäppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenbrot"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schultasche",
+    "plural": "die Schultaschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schultasche",
+        "genitiv": "der Schultasche",
+        "dativ": "der Schultasche",
+        "akkusativ": "die Schultasche"
+      },
+      "plural": {
+        "nominativ": "die Schultaschen",
+        "genitiv": "der Schultaschen",
+        "dativ": "den Schultaschen",
+        "akkusativ": "die Schultaschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schultasche",
+    "Schulltasche",
+    "Schuhltasche",
+    "Schultashe",
+    "Schultassche",
+    "Schultache"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "lesen",
+  "wortart": "Verb",
+  "silben": "le-sen",
+  "begriffserklaerung": "Wenn du liest, schaust du dir Buchstaben und Wörter an und verstehst, was sie bedeuten.",
+  "beispielsatz": "Ich lese jeden Abend ein spannendes Buch.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „le-sen\". Der Vokal „e\" in der ersten Silbe ist lang, deshalb steht nur ein „s\" – und am Ende hörst du deutlich das „-en\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "les",
+    "lese"
+  ],
+  "bild_datei": "lesen.webp",
+  "audio_datei": "lesen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to read"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okumak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَقْرَأُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lektüre"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorlesen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schmökern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schreiben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "lesen",
+    "praesens": {
+      "ich": "lese",
+      "du": "liest",
+      "er_sie_es": "liest",
+      "wir": "lesen",
+      "ihr": "lest",
+      "sie": "lesen"
+    },
+    "perfekt": {
+      "ich": "habe gelesen",
+      "du": "hast gelesen",
+      "er_sie_es": "hat gelesen",
+      "wir": "haben gelesen",
+      "ihr": "habt gelesen",
+      "sie": "haben gelesen"
+    },
+    "praeteritum": {
+      "ich": "las",
+      "du": "lasest",
+      "er_sie_es": "las",
+      "wir": "lasen",
+      "ihr": "last",
+      "sie": "lasen"
+    }
+  },
+  "fehlschreibungen": [
+    "leesen",
+    "lessen",
+    "läsen",
+    "leßen",
+    "lezzen"
+  ]
+}

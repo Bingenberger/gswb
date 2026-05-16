@@ -1,0 +1,82 @@
+{
+  "lemma": "Beere",
+  "wortart": "Nomen",
+  "silben": "Bee-re",
+  "begriffserklaerung": "Eine Beere ist eine kleine, runde Frucht, die an Pflanzen oder Sträuchern wächst und oft süß oder säuerlich schmeckt.",
+  "beispielsatz": "Im Garten pflückt Lena rote Beeren vom Strauch.",
+  "rechtschreibstrategie": "Denke an das lange „ee\" in „Bee-re\" – sprich es laut und deutlich, dann hörst du beide e-Laute!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere"
+  ],
+  "bild_datei": "Beere.webp",
+  "audio_datei": "Beere.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "berry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meyve / böğürtlen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beerenstrauch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beerenförmig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Beere",
+    "plural": "die Beeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Beere",
+        "genitiv": "der Beere",
+        "dativ": "der Beere",
+        "akkusativ": "die Beere"
+      },
+      "plural": {
+        "nominativ": "die Beeren",
+        "genitiv": "der Beeren",
+        "dativ": "den Beeren",
+        "akkusativ": "die Beeren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bere",
+    "Beerre",
+    "Beehre",
+    "Bähre",
+    "Beere"
+  ]
+}

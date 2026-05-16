@@ -1,0 +1,90 @@
+{
+  "lemma": "Heimat",
+  "wortart": "Nomen",
+  "silben": "Hei-mat",
+  "begriffserklaerung": "Die Heimat ist der Ort oder das Land, wo man aufgewachsen ist und wo man sich zu Hause fühlt.",
+  "beispielsatz": "Meine Heimat ist ein kleines Dorf mit einem großen Fluss.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in zwei Silben: „Hei – mat\". Das „ei\" klingt wie in „Eis\". Merke dir: Hei-mat!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "heim"
+  ],
+  "bild_datei": "Heimat.webp",
+  "audio_datei": "Heimat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "homeland"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patrie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vatan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heim"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heimisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heimkehren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuhause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dorf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Land"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Heimat",
+    "plural": "die Heimaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Heimat",
+        "genitiv": "der Heimat",
+        "dativ": "der Heimat",
+        "akkusativ": "die Heimat"
+      },
+      "plural": {
+        "nominativ": "die Heimaten",
+        "genitiv": "der Heimaten",
+        "dativ": "den Heimaten",
+        "akkusativ": "die Heimaten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Heymat",
+    "Heimatt",
+    "Haimat",
+    "Heimad",
+    "Heijmat"
+  ]
+}

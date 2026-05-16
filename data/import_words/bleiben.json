@@ -1,0 +1,91 @@
+{
+  "lemma": "bleiben",
+  "wortart": "Verb",
+  "silben": "blei-ben",
+  "begriffserklaerung": "Bleiben bedeutet, dass man an einem Ort ist und nicht weggeht.",
+  "beispielsatz": "Ich bleibe heute Nachmittag zu Hause und spiele mit meiner Katze.",
+  "rechtschreibstrategie": "Das Wort „bleiben\" hat ein langes „ei\" – sprich es laut: blei-ben. Das ei klingt wie in „Ei\" oder „frei\". Merke: kein h, kein ie, nur ei!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "bleib"
+  ],
+  "bild_datei": "bleiben.webp",
+  "audio_datei": "bleiben.mp3",
+  "grammatische_formen": {
+    "infinitiv": "bleiben",
+    "praesens": {
+      "ich": "bleibe",
+      "du": "bleibst",
+      "er_sie_es": "bleibt",
+      "wir": "bleiben",
+      "ihr": "bleibt",
+      "sie": "bleiben"
+    },
+    "perfekt": {
+      "ich": "bin geblieben",
+      "du": "bist geblieben",
+      "er_sie_es": "ist geblieben",
+      "wir": "sind geblieben",
+      "ihr": "seid geblieben",
+      "sie": "sind geblieben"
+    },
+    "praeteritum": {
+      "ich": "blieb",
+      "du": "bliebst",
+      "er_sie_es": "blieb",
+      "wir": "blieben",
+      "ihr": "bliebt",
+      "sie": "blieben"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stay / to remain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rester"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبقى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verbleib"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verbleiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verweilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "warten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wohnen"
+    }
+  ],
+  "fehlschreibungen": [
+    "bliben",
+    "bleiben",
+    "blieben",
+    "bleipben",
+    "bleben",
+    "bleibn"
+  ]
+}

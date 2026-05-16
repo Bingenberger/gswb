@@ -1,0 +1,92 @@
+{
+  "lemma": "Sortierung",
+  "wortart": "Nomen",
+  "silben": "Sor-tie-rung",
+  "begriffserklaerung": "Eine Sortierung bedeutet, dass Dinge in eine bestimmte Reihenfolge oder Ordnung gebracht werden – zum Beispiel nach Farbe, Größe oder dem Alphabet.",
+  "beispielsatz": "Bei der Sortierung der Bücher legt Tim alle roten Bücher zusammen.",
+  "rechtschreibstrategie": "Denke an das Verb „sortieren\" – daraus wird „Sortierung\". Das „ie\" in der Mitte sprichst du wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sort"
+  ],
+  "bild_datei": "Sortierung.webp",
+  "audio_datei": "Sortierung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sortierung",
+    "plural": "die Sortierungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sortierung",
+        "genitiv": "der Sortierung",
+        "dativ": "der Sortierung",
+        "akkusativ": "die Sortierung"
+      },
+      "plural": {
+        "nominativ": "die Sortierungen",
+        "genitiv": "der Sortierungen",
+        "dativ": "den Sortierungen",
+        "akkusativ": "die Sortierungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sorting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tri"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıralama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصنيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sortieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sorte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ordnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einteilung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reihenfolge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordnen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sortirung",
+    "Sortierung",
+    "Sortiehrung",
+    "Zortierung",
+    "Sorterung"
+  ]
+}

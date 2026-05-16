@@ -1,0 +1,73 @@
+{
+  "lemma": "Server",
+  "wortart": "Nomen",
+  "silben": "Ser-ver",
+  "begriffserklaerung": "Ein Server ist ein besonders starker Computer, der Daten speichert und sie an andere Computer oder Geräte weiterschickt – zum Beispiel Webseiten, Videos oder E-Mails.",
+  "beispielsatz": "Wenn du eine Webseite öffnest, schickt dir ein Server die Bilder und den Text dafür.",
+  "rechtschreibstrategie": "„Server\" kommt aus dem Englischen. Merke dir: Es klingt wie „Sörwer\", wird aber mit -v- und -er am Ende geschrieben – nicht „Sörfer\" oder „Serwer\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Server.webp",
+  "audio_datei": "Server.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "server"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sunucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خادم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netzwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Server",
+    "plural": "die Server",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Server",
+        "genitiv": "des Servers",
+        "dativ": "dem Server",
+        "akkusativ": "den Server"
+      },
+      "plural": {
+        "nominativ": "die Server",
+        "genitiv": "der Server",
+        "dativ": "den Servern",
+        "akkusativ": "die Server"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sörwer",
+    "Serwer",
+    "Sörfer",
+    "Serfer",
+    "Servver",
+    "Sarver"
+  ]
+}

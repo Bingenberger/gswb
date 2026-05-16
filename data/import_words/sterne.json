@@ -1,0 +1,83 @@
+{
+  "lemma": "Sterne",
+  "wortart": "Nomen",
+  "silben": "Ster-ne",
+  "begriffserklaerung": "Sterne sind leuchtende Himmelskörper, die nachts am Himmel funkeln. Sie sind riesige Gaskugeln, die sehr weit von der Erde entfernt sind.",
+  "beispielsatz": "Heute Nacht kann man viele Sterne am Himmel sehen.",
+  "rechtschreibstrategie": "Das Wort „Sterne\" ist die Mehrzahl von „Stern\". Wenn du dir nicht sicher bist, ob am Ende ein -e steht, denke einfach: Ein Stern – viele Sterne!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stern"
+  ],
+  "bild_datei": "Sterne.webp",
+  "audio_datei": "Sterne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stars"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étoiles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıldızlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sternenklar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Stern",
+    "plural": "Sterne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stern",
+        "genitiv": "des Sterns",
+        "dativ": "dem Stern",
+        "akkusativ": "den Stern"
+      },
+      "plural": {
+        "nominativ": "die Sterne",
+        "genitiv": "der Sterne",
+        "dativ": "den Sternen",
+        "akkusativ": "die Sterne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stärne",
+    "Stehrne",
+    "Stehrn",
+    "Sterne",
+    "Shtärne",
+    "Stherne"
+  ]
+}

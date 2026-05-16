@@ -1,0 +1,90 @@
+{
+  "lemma": "Lohn",
+  "wortart": "Nomen",
+  "silben": "Lohn",
+  "begriffserklaerung": "Der Lohn ist das Geld, das man bekommt, wenn man gearbeitet hat.",
+  "beispielsatz": "Am Ende des Monats bekommt mein Vater seinen Lohn für die Arbeit.",
+  "rechtschreibstrategie": "Das Wort „Lohn\" hat ein Dehnungs-h nach dem „o\" – sprich es laut: L-o-h-n. Das h macht das „o\" lang, aber man hört es nicht!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lohn",
+    "plural": "die Löhne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lohn",
+        "genitiv": "des Lohnes",
+        "dativ": "dem Lohn",
+        "akkusativ": "den Lohn"
+      },
+      "plural": {
+        "nominativ": "die Löhne",
+        "genitiv": "der Löhne",
+        "dativ": "den Löhnen",
+        "akkusativ": "die Löhne"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "lohn"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "belohnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gehalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verdienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lon",
+    "Lohnn",
+    "Lohn",
+    "Loon",
+    "Lons"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wage / salary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ücret / maaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أجر / راتب"
+    }
+  ],
+  "bild_datei": "Lohn.webp",
+  "audio_datei": "Lohn.mp3"
+}

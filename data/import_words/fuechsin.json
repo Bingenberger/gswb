@@ -1,0 +1,82 @@
+{
+  "lemma": "Füchsin",
+  "wortart": "Nomen",
+  "silben": "Füch-sin",
+  "begriffserklaerung": "Eine Füchsin ist ein weiblicher Fuchs. Sie lebt im Wald oder auf Feldern und kümmert sich um ihre Jungen.",
+  "beispielsatz": "Die Füchsin liegt mit ihren Jungen gemütlich in ihrem Bau.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" kommt „chs\" – sprich das Wort laut: Füch-sin. Das „ch\" und das „s\" gehören zusammen und schreibst du nicht getrennt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fuchs"
+  ],
+  "bild_datei": "Füchsin.webp",
+  "audio_datei": "Füchsin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Füchsin",
+    "plural": "die Füchsinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Füchsin",
+        "genitiv": "der Füchsin",
+        "dativ": "der Füchsin",
+        "akkusativ": "die Füchsin"
+      },
+      "plural": {
+        "nominativ": "die Füchsinnen",
+        "genitiv": "der Füchsinnen",
+        "dativ": "den Füchsinnen",
+        "akkusativ": "die Füchsinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vixen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "renarde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişi tilki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثعلبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuchsbau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reh"
+    }
+  ],
+  "fehlschreibungen": [
+    "Füxin",
+    "Fücsin",
+    "Füchßin",
+    "Füchsinn",
+    "Fühcsin"
+  ]
+}

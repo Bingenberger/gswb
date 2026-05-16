@@ -1,0 +1,97 @@
+{
+  "lemma": "stoppen",
+  "wortart": "Verb",
+  "silben": "stop-pen",
+  "begriffserklaerung": "Etwas stoppen bedeutet, dass etwas aufhört oder dass man etwas zum Anhalten bringt.",
+  "beispielsatz": "Die Ampel zeigt Rot, also stoppt das Auto.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" schreibt man „pp\" – das Wort hat ein Kürzezeichen: stop-pen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stopp"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "stoppen",
+    "praesens": {
+      "ich": "stoppe",
+      "du": "stoppst",
+      "er_sie_es": "stoppt",
+      "wir": "stoppen",
+      "ihr": "stoppt",
+      "sie": "stoppen"
+    },
+    "perfekt": {
+      "ich": "habe gestoppt",
+      "du": "hast gestoppt",
+      "er_sie_es": "hat gestoppt",
+      "wir": "haben gestoppt",
+      "ihr": "habt gestoppt",
+      "sie": "haben gestoppt"
+    },
+    "praeteritum": {
+      "ich": "stoppte",
+      "du": "stopptest",
+      "er_sie_es": "stoppte",
+      "wir": "stoppten",
+      "ihr": "stopptet",
+      "sie": "stoppten"
+    }
+  },
+  "fehlschreibungen": [
+    "stopen",
+    "stoppen",
+    "shtopen",
+    "stopfen"
+  ],
+  "bild_datei": "stoppen.webp",
+  "audio_datei": "stoppen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arrêter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durdurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stopp"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gestoppt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anhalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufhören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bremsen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "pausieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stehen bleiben"
+    }
+  ]
+}

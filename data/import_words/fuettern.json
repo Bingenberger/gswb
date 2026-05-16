@@ -1,0 +1,94 @@
+{
+  "lemma": "füttern",
+  "wortart": "Verb",
+  "silben": "füt-tern",
+  "begriffserklaerung": "Wenn du einem Tier oder einer Person Essen gibst, fütterst du es oder sie.",
+  "beispielsatz": "Jeden Morgen füttert Lisa ihre Kaninchen mit frischem Gemüse.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: füt-tern. Nach dem kurzen „ü\" hörst du ein „t\" – das wird wegen des kurzen Vokals verdoppelt: tt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Futter"
+  ],
+  "bild_datei": "füttern.webp",
+  "audio_datei": "füttern.mp3",
+  "grammatische_formen": {
+    "infinitiv": "füttern",
+    "praesens": {
+      "ich": "füttere",
+      "du": "fütterst",
+      "er_sie_es": "füttert",
+      "wir": "füttern",
+      "ihr": "füttert",
+      "sie": "füttern"
+    },
+    "perfekt": {
+      "ich": "habe gefüttert",
+      "du": "hast gefüttert",
+      "er_sie_es": "hat gefüttert",
+      "wir": "haben gefüttert",
+      "ihr": "habt gefüttert",
+      "sie": "haben gefüttert"
+    },
+    "praeteritum": {
+      "ich": "fütterte",
+      "du": "füttertest",
+      "er_sie_es": "fütterte",
+      "wir": "fütterten",
+      "ihr": "füttert",
+      "sie": "fütterten"
+    }
+  },
+  "fehlschreibungen": [
+    "fütern",
+    "füttern",
+    "fütttern",
+    "füttren",
+    "füttert"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to feed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nourrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beslemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُطعم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Futter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fütterung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ernähren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nahrung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "pflegen"
+    }
+  ]
+}

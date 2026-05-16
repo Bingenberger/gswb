@@ -1,0 +1,82 @@
+{
+  "lemma": "Kreis",
+  "wortart": "Nomen",
+  "silben": "Kreis",
+  "begriffserklaerung": "Ein Kreis ist eine runde, geschlossene Linie, bei der alle Punkte gleich weit von der Mitte entfernt sind.",
+  "beispielsatz": "Anna malt einen großen Kreis auf ihr Papier.",
+  "rechtschreibstrategie": "Höre genau hin: Das „ei\" im Wort „Kreis\" klingt wie in „Eis\" – schreibe e und i zusammen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kreis"
+  ],
+  "bild_datei": "Kreis.webp",
+  "audio_datei": "Kreis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "circle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cercle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "daire"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دائرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreisförmig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kugel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Oval"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ring"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kreis",
+    "plural": "die Kreise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kreis",
+        "genitiv": "des Kreises",
+        "dativ": "dem Kreis",
+        "akkusativ": "den Kreis"
+      },
+      "plural": {
+        "nominativ": "die Kreise",
+        "genitiv": "der Kreise",
+        "dativ": "den Kreisen",
+        "akkusativ": "die Kreise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krais",
+    "Kreis",
+    "Creис",
+    "Kreiss",
+    "Kries"
+  ]
+}

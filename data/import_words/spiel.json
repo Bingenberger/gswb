@@ -1,0 +1,86 @@
+{
+  "lemma": "Spiel",
+  "wortart": "Nomen",
+  "silben": "Spiel",
+  "begriffserklaerung": "Ein Spiel ist eine Beschäftigung, die Spaß macht und bei der man oft gewinnen oder verlieren kann.",
+  "beispielsatz": "Das Spiel mit den bunten Karten macht mir sehr viel Spaß!",
+  "rechtschreibstrategie": "Das Wort „Spiel\" schreibt man mit ie, denn der Vokal klingt lang. Denk an: S-P-I-E-L!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "spiel"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Spiel",
+    "plural": "die Spiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Spiel",
+        "genitiv": "des Spiels",
+        "dativ": "dem Spiel",
+        "akkusativ": "das Spiel"
+      },
+      "plural": {
+        "nominativ": "die Spiele",
+        "genitiv": "der Spiele",
+        "dativ": "den Spielen",
+        "akkusativ": "die Spiele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spil",
+    "Shpiel",
+    "Spiehl",
+    "Schpiel",
+    "Speil"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spielen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spaß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freizeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "game"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة"
+    }
+  ],
+  "bild_datei": "Spiel.webp",
+  "audio_datei": "Spiel.mp3"
+}

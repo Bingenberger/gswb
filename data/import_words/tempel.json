@@ -1,0 +1,72 @@
+{
+  "lemma": "Tempel",
+  "wortart": "Nomen",
+  "silben": "Tem-pel",
+  "begriffserklaerung": "Ein Tempel ist ein heiliges Gebäude, in dem Menschen beten und ihre Götter verehren.",
+  "beispielsatz": "In der Stadt steht ein alter Tempel mit großen Säulen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Tem-pel. Nach dem kurzen „e\" kommt ein Doppel-m – aber Achtung: Hier steht nur ein „m\", weil das „p\" danach den Laut kürzt. Merke dir einfach: T-E-M-P-E-L.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tempel.webp",
+  "audio_datei": "Tempel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "temple"
+    },
+    {
+      "language_code": "fr",
+      "translation": "temple"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tapınak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معبد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Moschee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gottesdienst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tempel",
+    "plural": "die Tempel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tempel",
+        "genitiv": "des Tempels",
+        "dativ": "dem Tempel",
+        "akkusativ": "den Tempel"
+      },
+      "plural": {
+        "nominativ": "die Tempel",
+        "genitiv": "der Tempel",
+        "dativ": "den Tempeln",
+        "akkusativ": "die Tempel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tempell",
+    "Tembel",
+    "Tämple",
+    "Tempele",
+    "Templ"
+  ]
+}

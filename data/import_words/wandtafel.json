@@ -1,0 +1,88 @@
+{
+  "lemma": "Wandtafel",
+  "wortart": "Nomen",
+  "silben": "Wand-ta-fel",
+  "begriffserklaerung": "Eine Wandtafel ist eine große, dunkle Tafel, die an der Wand hängt. Die Lehrerin oder der Lehrer schreibt darauf mit Kreide.",
+  "beispielsatz": "Die Lehrerin schreibt die Aufgabe an die Wandtafel.",
+  "rechtschreibstrategie": "„Wandtafel\" ist ein zusammengesetztes Wort aus „Wand\" und „Tafel\". Sprich beide Teile einzeln: WAND + TAFEL. Das „d\" am Ende von „Wand\" hörst du, wenn du verlängerst: „Wände\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wand",
+    "Tafel"
+  ],
+  "bild_datei": "Wandtafel.webp",
+  "audio_datei": "Wandtafel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blackboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau noir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazı tahtası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wandtafel",
+    "plural": "die Wandtafeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wandtafel",
+        "genitiv": "der Wandtafel",
+        "dativ": "der Wandtafel",
+        "akkusativ": "die Wandtafel"
+      },
+      "plural": {
+        "nominativ": "die Wandtafeln",
+        "genitiv": "der Wandtafeln",
+        "dativ": "den Wandtafeln",
+        "akkusativ": "die Wandtafeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wanttafel",
+    "Wandtaffel",
+    "Wantafel",
+    "Wandtaffe",
+    "Wandtaffeln"
+  ]
+}

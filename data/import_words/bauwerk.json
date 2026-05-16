@@ -1,0 +1,88 @@
+{
+  "lemma": "Bauwerk",
+  "wortart": "Nomen",
+  "silben": "Bau-werk",
+  "begriffserklaerung": "Ein Bauwerk ist etwas, das Menschen gebaut haben, zum Beispiel ein Haus, eine Brücke oder ein Turm.",
+  "beispielsatz": "Die alte Brücke ist ein beeindruckendes Bauwerk aus Stein.",
+  "rechtschreibstrategie": "„Bauwerk\" besteht aus zwei Wörtern: „Bau\" und „Werk\". Sprich beide Teile deutlich: BAU-WERK. Bei zusammengesetzten Wörtern schreibst du einfach beide Teile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bauwerk",
+    "plural": "die Bauwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bauwerk",
+        "genitiv": "des Bauwerks",
+        "dativ": "dem Bauwerk",
+        "akkusativ": "das Bauwerk"
+      },
+      "plural": {
+        "nominativ": "die Bauwerke",
+        "genitiv": "der Bauwerke",
+        "dativ": "den Bauwerken",
+        "akkusativ": "die Bauwerke"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "bau",
+    "werk"
+  ],
+  "fehlschreibungen": [
+    "Bauwerck",
+    "Bauwerc",
+    "Bauwerk",
+    "Bauverk",
+    "Bawwerk",
+    "Bauwerg"
+  ],
+  "bild_datei": "Bauwerk.webp",
+  "audio_datei": "Bauwerk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building / structure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "construction / ouvrage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapı / inşaat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مَبْنى / إنشاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ]
+}

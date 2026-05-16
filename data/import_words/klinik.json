@@ -1,0 +1,78 @@
+{
+  "lemma": "Klinik",
+  "wortart": "Nomen",
+  "silben": "Kli-nik",
+  "begriffserklaerung": "Eine Klinik ist ein großes Gebäude, in dem Ärzte und Pflegepersonal kranke oder verletzte Menschen untersuchen und behandeln. Sie ist ähnlich wie ein Krankenhaus.",
+  "beispielsatz": "Nach dem Unfall wurde Oma sofort in die Klinik gebracht.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kli-nik. Am Ende hörst du ein kurzes „i\" – danach kommt nur ein „k\". Merke dir: Klinik schreibt man mit „K\" am Anfang und mit „ik\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Klinik"
+  ],
+  "bild_datei": "Klinik.webp",
+  "audio_datei": "Klinik.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clinic / hospital"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clinique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "klinik / hastane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عيادة / مستشفى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notaufnahme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Krankenhaus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klinik",
+    "plural": "die Kliniken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klinik",
+        "genitiv": "der Klinik",
+        "dativ": "der Klinik",
+        "akkusativ": "die Klinik"
+      },
+      "plural": {
+        "nominativ": "die Kliniken",
+        "genitiv": "der Kliniken",
+        "dativ": "den Kliniken",
+        "akkusativ": "die Kliniken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Clinik",
+    "Klienik",
+    "Klinick",
+    "Klinig",
+    "Klinnick"
+  ]
+}

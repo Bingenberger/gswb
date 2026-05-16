@@ -1,0 +1,82 @@
+{
+  "lemma": "Welt",
+  "wortart": "Nomen",
+  "silben": "Welt",
+  "begriffserklaerung": "Die Welt ist alles, was es gibt: die Erde mit allen Menschen, Tieren, Pflanzen und Ländern.",
+  "beispielsatz": "Die Welt ist sehr groß und voller bunter Länder und Kulturen.",
+  "rechtschreibstrategie": "„Welt\" hat nur eine Silbe. Sprich das Wort laut aus – du hörst alle Buchstaben: W-e-l-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Welt",
+    "plural": "die Welten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Welt",
+        "genitiv": "der Welt",
+        "dativ": "der Welt",
+        "akkusativ": "die Welt"
+      },
+      "plural": {
+        "nominativ": "die Welten",
+        "genitiv": "der Welten",
+        "dativ": "den Welten",
+        "akkusativ": "die Welten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "welt"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weltweit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weltall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Universum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Velt",
+    "Weld",
+    "Weldt",
+    "Wellt",
+    "Welt"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "world"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dünya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عالَم"
+    }
+  ],
+  "bild_datei": "Welt.webp",
+  "audio_datei": "Welt.mp3"
+}

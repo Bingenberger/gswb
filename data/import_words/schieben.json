@@ -1,0 +1,98 @@
+{
+  "lemma": "schieben",
+  "wortart": "Verb",
+  "silben": "schie-ben",
+  "begriffserklaerung": "Etwas schieben bedeutet, einen Gegenstand oder eine Person mit Kraft wegzudrücken oder vorwärts zu bewegen, ohne ihn anzuheben.",
+  "beispielsatz": "Leon schiebt seinen Roller den Hügel hinauf.",
+  "rechtschreibstrategie": "Das „ie\" in „schieben\" spricht sich lang aus – merke dir: „ie\" klingt wie ein langes „i\". Schreib immer „ie\", nicht nur „i\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schieb"
+  ],
+  "bild_datei": "schieben.webp",
+  "audio_datei": "schieben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to push"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pousser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يدفع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schieber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schubkarre"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stoßen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bewegen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schieben",
+    "praesens": {
+      "ich": "schiebe",
+      "du": "schiebst",
+      "er_sie_es": "schiebt",
+      "wir": "schieben",
+      "ihr": "schiebt",
+      "sie": "schieben"
+    },
+    "perfekt": {
+      "ich": "habe geschoben",
+      "du": "hast geschoben",
+      "er_sie_es": "hat geschoben",
+      "wir": "haben geschoben",
+      "ihr": "habt geschoben",
+      "sie": "haben geschoben"
+    },
+    "praeteritum": {
+      "ich": "schob",
+      "du": "schobst",
+      "er_sie_es": "schob",
+      "wir": "schoben",
+      "ihr": "schobt",
+      "sie": "schoben"
+    }
+  },
+  "fehlschreibungen": [
+    "schiben",
+    "shieben",
+    "schiepen",
+    "schiebn",
+    "schieben"
+  ]
+}

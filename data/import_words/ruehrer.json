@@ -1,0 +1,83 @@
+{
+  "lemma": "Rührer",
+  "wortart": "Nomen",
+  "silben": "Rüh-rer",
+  "begriffserklaerung": "Ein Rührer ist ein Küchengerät oder ein Stab, mit dem man Flüssigkeiten oder Teig umrührt und vermischt.",
+  "beispielsatz": "Mama nimmt den elektrischen Rührer, um den Kuchenteig schön glatt zu machen.",
+  "rechtschreibstrategie": "Denk an das Verb „rühren\" – das ü wird gedehnt und deshalb schreibt man ein Dehnungs-h: r-ü-h-r-e-n → Rüh-rer.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "rühr"
+  ],
+  "bild_datei": "Rührer.webp",
+  "audio_datei": "Rührer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rührer",
+    "plural": "die Rührer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rührer",
+        "genitiv": "des Rührers",
+        "dativ": "dem Rührer",
+        "akkusativ": "den Rührer"
+      },
+      "plural": {
+        "nominativ": "die Rührer",
+        "genitiv": "der Rührer",
+        "dativ": "den Rührern",
+        "akkusativ": "die Rührer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mixer / stirrer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fouet / mélangeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mikser / karıştırıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلاط / مضرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rühren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rührteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mixer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneebesen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mixer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rürer",
+    "Rühhrer",
+    "Ruhrer",
+    "Rüher",
+    "Rühreher"
+  ]
+}

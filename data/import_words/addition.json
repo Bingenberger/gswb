@@ -1,0 +1,86 @@
+{
+  "lemma": "Addition",
+  "wortart": "Nomen",
+  "silben": "Ad-di-ti-on",
+  "begriffserklaerung": "Eine Addition ist eine Rechenaufgabe, bei der du zwei oder mehr Zahlen zusammenzählst. Das Ergebnis heißt Summe.",
+  "beispielsatz": "Bei der Addition von 3 und 5 kommt 8 heraus.",
+  "rechtschreibstrategie": "Schreibe „Addition\" mit Doppel-d in der Mitte: Ad-di-tion. Sprich alle Silben genau mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "addier"
+  ],
+  "bild_datei": "Addition.webp",
+  "audio_datei": "Addition.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Addition",
+    "plural": "die Additionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Addition",
+        "genitiv": "der Addition",
+        "dativ": "der Addition",
+        "akkusativ": "die Addition"
+      },
+      "plural": {
+        "nominativ": "die Additionen",
+        "genitiv": "der Additionen",
+        "dativ": "den Additionen",
+        "akkusativ": "die Additionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "addition"
+    },
+    {
+      "language_code": "fr",
+      "translation": "addition"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "addieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Addend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zusammenzählung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Subtraktion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Summe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechenaufgabe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Adition",
+    "Addizion",
+    "Addittion",
+    "Adiditon",
+    "Addtion"
+  ]
+}

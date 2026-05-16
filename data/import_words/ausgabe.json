@@ -1,0 +1,93 @@
+{
+  "lemma": "Ausgabe",
+  "wortart": "Nomen",
+  "silben": "Aus-ga-be",
+  "begriffserklaerung": "Eine Ausgabe ist etwas, das man herausgibt – zum Beispiel Geld, das man ausgibt, oder Hefte, die ein Lehrer an die Schüler verteilt.",
+  "beispielsatz": "Die Lehrerin macht die Ausgabe der Hefte und gibt jedem Kind seins.",
+  "rechtschreibstrategie": "Denk an das Verb „ausgeben\": Aus-ga-be. Sprich alle drei Silben deutlich: „Aus\" – „ga\" – „be\". Das „g\" hörst du beim Verlängern in „ausgeben\" klar.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "geben",
+    "Gabe"
+  ],
+  "bild_datei": "Ausgabe.webp",
+  "audio_datei": "Ausgabe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ausgabe",
+    "plural": "die Ausgaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ausgabe",
+        "genitiv": "der Ausgabe",
+        "dativ": "der Ausgabe",
+        "akkusativ": "die Ausgabe"
+      },
+      "plural": {
+        "nominativ": "die Ausgaben",
+        "genitiv": "der Ausgaben",
+        "dativ": "den Ausgaben",
+        "akkusativ": "die Ausgaben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "output / edition / expenditure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sortie / édition / dépense"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çıktı / harcama / dağıtım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إصدار / توزيع / إنفاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gabe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausgeben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verteilung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einnahme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausgaabe",
+    "Ausgabe",
+    "Auusgabe",
+    "Ausgabee",
+    "Ausgave",
+    "Außgabe"
+  ]
+}

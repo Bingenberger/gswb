@@ -1,0 +1,90 @@
+{
+  "lemma": "versinken",
+  "wortart": "Verb",
+  "silben": "ver-sin-ken",
+  "begriffserklaerung": "Wenn etwas versinkt, geht es langsam nach unten und verschwindet – zum Beispiel im Wasser oder im Schlamm.",
+  "beispielsatz": "Der schwere Stein versinkt langsam im tiefen See.",
+  "rechtschreibstrategie": "Das Wort besteht aus der Vorsilbe „ver-\" und dem Stamm „sink\". Sprich alle Teile deutlich mit: ver – sin – ken.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sink"
+  ],
+  "bild_datei": "versinken.webp",
+  "audio_datei": "versinken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sink"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sombrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "batmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sinkflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "untergehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ertrinken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "untergehen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "versinken",
+    "praesens": {
+      "ich": "versinke",
+      "du": "versinkst",
+      "er_sie_es": "versinkt",
+      "wir": "versinken",
+      "ihr": "versinkt",
+      "sie": "versinken"
+    },
+    "perfekt": {
+      "ich": "bin versunken",
+      "du": "bist versunken",
+      "er_sie_es": "ist versunken",
+      "wir": "sind versunken",
+      "ihr": "seid versunken",
+      "sie": "sind versunken"
+    },
+    "praeteritum": {
+      "ich": "versank",
+      "du": "versankst",
+      "er_sie_es": "versank",
+      "wir": "versanken",
+      "ihr": "versankt",
+      "sie": "versanken"
+    }
+  },
+  "fehlschreibungen": [
+    "fersinken",
+    "versincken",
+    "verßinken",
+    "versingen",
+    "versinken"
+  ]
+}

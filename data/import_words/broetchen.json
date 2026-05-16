@@ -1,0 +1,83 @@
+{
+  "lemma": "Brötchen",
+  "wortart": "Nomen",
+  "silben": "Brö-t-chen",
+  "begriffserklaerung": "Ein Brötchen ist ein kleines, rundes Gebäck aus Hefeteig, das man zum Frühstück isst. Es hat eine knusprige Kruste und ist innen weich.",
+  "beispielsatz": "Morgens esse ich ein frisches Brötchen mit Butter und Marmelade.",
+  "rechtschreibstrategie": "Das Brötchen kommt von „Brot\". Denk beim Schreiben an das große B und das ö wie in „Brot\". Das -chen am Ende macht es klein und niedlich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Brot"
+  ],
+  "bild_datei": "Brötchen.webp",
+  "audio_datei": "Brötchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brötchen",
+    "plural": "die Brötchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brötchen",
+        "genitiv": "des Brötchens",
+        "dativ": "dem Brötchen",
+        "akkusativ": "das Brötchen"
+      },
+      "plural": {
+        "nominativ": "die Brötchen",
+        "genitiv": "der Brötchen",
+        "dativ": "den Brötchen",
+        "akkusativ": "die Brötchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bread roll"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit pain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekmek rulosu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبز صغير مستدير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brotkorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Semmel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Brödchen",
+    "Breötchen",
+    "Brötchen",
+    "Brötschen",
+    "Brödtschen",
+    "Bröttchen"
+  ]
+}

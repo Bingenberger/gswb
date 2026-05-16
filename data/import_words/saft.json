@@ -1,0 +1,82 @@
+{
+  "lemma": "Saft",
+  "wortart": "Nomen",
+  "silben": "Saft",
+  "begriffserklaerung": "Saft ist ein flüssiges Getränk, das aus Früchten oder Gemüse gepresst wird, zum Beispiel aus Äpfeln oder Orangen.",
+  "beispielsatz": "Zum Frühstück trinke ich am liebsten einen Glas Orangensaft.",
+  "rechtschreibstrategie": "Wenn du „Saft\" in die Mehrzahl setzt, hörst du das „f\" deutlich: „Säf-te\". So weißt du, dass du „Saft\" mit „f\" schreibst und nicht mit „v\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Saft"
+  ],
+  "bild_datei": "Saft.webp",
+  "audio_datei": "Saft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "juice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meyve suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "saftig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Obstsaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fruchtsaft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Saft",
+    "plural": "die Säfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Saft",
+        "genitiv": "des Saftes",
+        "dativ": "dem Saft",
+        "akkusativ": "den Saft"
+      },
+      "plural": {
+        "nominativ": "die Säfte",
+        "genitiv": "der Säfte",
+        "dativ": "den Säften",
+        "akkusativ": "die Säfte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zaft",
+    "Safft",
+    "Saft",
+    "Sahft",
+    "Savt"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "Versammlung",
+  "wortart": "Nomen",
+  "silben": "Ver-samm-lung",
+  "begriffserklaerung": "Eine Versammlung ist ein Treffen, bei dem sich viele Menschen zusammenkommen, um gemeinsam etwas zu besprechen oder zu entscheiden.",
+  "beispielsatz": "Die ganze Schule trifft sich zur Versammlung in der Turnhalle.",
+  "rechtschreibstrategie": "In „Versammlung\" steckt das Wort „sammeln\" – und weil das „m\" kurz klingt, wird es doppelt geschrieben: samm. Sprich es laut: Ver-samm-lung!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sammeln",
+    "Sammel"
+  ],
+  "bild_datei": "Versammlung.webp",
+  "audio_datei": "Versammlung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Versammlung",
+    "plural": "die Versammlungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Versammlung",
+        "genitiv": "der Versammlung",
+        "dativ": "der Versammlung",
+        "akkusativ": "die Versammlung"
+      },
+      "plural": {
+        "nominativ": "die Versammlungen",
+        "genitiv": "der Versammlungen",
+        "dativ": "den Versammlungen",
+        "akkusativ": "die Versammlungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "assembly / meeting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assemblée / réunion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplantı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اجتماع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sammeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sammlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treffen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zusammenkunft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sitzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Versamlung",
+    "Fersammlung",
+    "Versammeling",
+    "Versammlung",
+    "Verssammlung",
+    "Versammlunk"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Tannenbaum",
+  "wortart": "Nomen",
+  "silben": "Tan-nen-baum",
+  "begriffserklaerung": "Ein Tannenbaum ist ein immergrüner Nadelbaum mit spitzen Nadeln und einem dreieckigen Umriss. Er bleibt das ganze Jahr über grün. Viele Menschen schmücken ihn zu Weihnachten.",
+  "beispielsatz": "Wir schmücken den Tannenbaum mit bunten Kugeln und Lichtern.",
+  "rechtschreibstrategie": "Das Wort „Tannenbaum\" ist ein Baustein-Wort: „Tanne\" und „Baum\" werden zusammengeschrieben. Das „n\" in der Mitte wird doppelt geschrieben, weil der kurze Vokal in „Tan-ne\" ein Kürzezeichen braucht.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Tanne",
+    "Baum"
+  ],
+  "bild_datei": "Tannenbaum.webp",
+  "audio_datei": "Tannenbaum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fir tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sapin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köknar ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة التنوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tanne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weihnachtsbaum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tannenbaum",
+    "plural": "die Tannenbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tannenbaum",
+        "genitiv": "des Tannenbaums",
+        "dativ": "dem Tannenbaum",
+        "akkusativ": "den Tannenbaum"
+      },
+      "plural": {
+        "nominativ": "die Tannenbäume",
+        "genitiv": "der Tannenbäume",
+        "dativ": "den Tannenbäumen",
+        "akkusativ": "die Tannenbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tanenbaum",
+    "Tannenbam",
+    "Tannenbaume",
+    "Tannenpaum",
+    "Dannenbaum",
+    "Tannenbom"
+  ]
+}

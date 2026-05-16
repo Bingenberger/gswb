@@ -1,0 +1,82 @@
+{
+  "lemma": "Taucher",
+  "wortart": "Nomen",
+  "silben": "Tau-cher",
+  "begriffserklaerung": "Ein Taucher ist ein Mensch, der unter Wasser schwimmt und taucht – oft mit einer Sauerstoffflasche und einer Tauchermaske.",
+  "beispielsatz": "Der Taucher entdeckte bunte Fische und ein altes Schiffswrack auf dem Meeresgrund.",
+  "rechtschreibstrategie": "Denk an das Verb „tauchen\": Taucher kommt von „tauchen\". Das „au\" sprichst du lang, deshalb steht kein Doppelbuchstabe dahinter.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "tauch"
+  ],
+  "bild_datei": "Taucher.webp",
+  "audio_datei": "Taucher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Taucher",
+    "plural": "die Taucher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Taucher",
+        "genitiv": "des Tauchers",
+        "dativ": "dem Taucher",
+        "akkusativ": "den Taucher"
+      },
+      "plural": {
+        "nominativ": "die Taucher",
+        "genitiv": "der Taucher",
+        "dativ": "den Tauchern",
+        "akkusativ": "die Taucher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "diver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plongeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dalgıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غوّاص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tauchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tauchgang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sporttaucher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tauher",
+    "Tauchar",
+    "Taucherr",
+    "Tauker",
+    "Daucher"
+  ]
+}

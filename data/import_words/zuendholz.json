@@ -1,0 +1,88 @@
+{
+  "lemma": "Zündholz",
+  "wortart": "Nomen",
+  "silben": "Zünd-holz",
+  "begriffserklaerung": "Ein Zündholz ist ein kleines Hölzchen mit einer besonderen Spitze, die Feuer macht, wenn man es an einer rauen Fläche reibt.",
+  "beispielsatz": "Papa zündete die Kerze mit einem Zündholz an.",
+  "rechtschreibstrategie": "Zündholz ist ein Zusammengesetztes Wort aus „zünden\" und „Holz\". Sprich beide Teile deutlich: ZÜND + HOLZ. Das Ü klingt kurz, deshalb steht danach nd.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "zünd",
+    "holz"
+  ],
+  "bild_datei": "Zündholz.webp",
+  "audio_datei": "Zündholz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zündholz",
+    "plural": "die Zündhölzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zündholz",
+        "genitiv": "des Zündholzes",
+        "dativ": "dem Zündholz",
+        "akkusativ": "das Zündholz"
+      },
+      "plural": {
+        "nominativ": "die Zündhölzer",
+        "genitiv": "der Zündhölzer",
+        "dativ": "den Zündhölzern",
+        "akkusativ": "die Zündhölzer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "match"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kibrit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عود ثقاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zünden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streichholz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zündholtz",
+    "Zündholts",
+    "Züntholz",
+    "Zünndholz",
+    "Zündhoz"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Gruppe",
+  "wortart": "Nomen",
+  "silben": "Grup-pe",
+  "begriffserklaerung": "Eine Gruppe ist eine Anzahl von Menschen oder Dingen, die zusammengehören oder gemeinsam etwas tun.",
+  "beispielsatz": "In der Schule arbeiten wir oft in einer kleinen Gruppe zusammen.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" schreibst du „pp\" – sprich beide „p\" beim Schreiben mit: Grup-pe!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Gruppe",
+    "grupp"
+  ],
+  "bild_datei": "Gruppe.webp",
+  "audio_datei": "Gruppe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gruppe",
+    "plural": "die Gruppen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gruppe",
+        "genitiv": "der Gruppe",
+        "dativ": "der Gruppe",
+        "akkusativ": "die Gruppe"
+      },
+      "plural": {
+        "nominativ": "die Gruppen",
+        "genitiv": "der Gruppen",
+        "dativ": "den Gruppen",
+        "akkusativ": "die Gruppen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "group"
+    },
+    {
+      "language_code": "fr",
+      "translation": "groupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "grup"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجموعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gruppieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gruppierung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Team"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Grupe",
+    "Gruppe",
+    "Grupt",
+    "Grupp",
+    "Grupppe"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Pinguin",
+  "wortart": "Nomen",
+  "silben": "Pin-gu-in",
+  "begriffserklaerung": "Ein Pinguin ist ein Vogel, der nicht fliegen kann. Er lebt vor allem in der Kälte der Antarktis, kann sehr gut schwimmen und hat ein schwarz-weißes Gefieder.",
+  "beispielsatz": "Der Pinguin watschelt lustig über das Eis.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Pin – gu – in. Denke daran: Nach dem „n\" kommt ein „g\" und am Ende steht nochmal ein „i-n\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pinguin.webp",
+  "audio_datei": "Pinguin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "penguin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manchot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "penguen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisbär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antarktis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pinguin",
+    "plural": "die Pinguine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pinguin",
+        "genitiv": "des Pinguins",
+        "dativ": "dem Pinguin",
+        "akkusativ": "den Pinguin"
+      },
+      "plural": {
+        "nominativ": "die Pinguine",
+        "genitiv": "der Pinguine",
+        "dativ": "den Pinguinen",
+        "akkusativ": "die Pinguine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pingwin",
+    "Pinguhin",
+    "Pinguiin",
+    "Pingüin",
+    "Pinguien"
+  ]
+}

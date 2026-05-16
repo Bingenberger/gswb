@@ -1,0 +1,82 @@
+{
+  "lemma": "Pfand",
+  "wortart": "Nomen",
+  "silben": "Pfand",
+  "begriffserklaerung": "Ein Pfand ist Geld oder ein Gegenstand, den du hinterlässt, damit du etwas leihen oder benutzen kannst. Wenn du alles zurückgibst, bekommst du das Pfand wieder zurück.",
+  "beispielsatz": "Für die leere Flasche bekomme ich zehn Cent Pfand zurück.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Pfand\". Höre, dass nach dem kurzen „a\" ein „d\" kommt – beim Verlängern (die Pfänder) hörst du das „d\" deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Pfand"
+  ],
+  "bild_datei": "Pfand.webp",
+  "audio_datei": "Pfand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "deposit / pledge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consigne / gage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "depozito / rehin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رهن / وديعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pfänden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pfandflasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rückgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kaution"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pfand",
+    "plural": "die Pfänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pfand",
+        "genitiv": "des Pfand(e)s",
+        "dativ": "dem Pfand",
+        "akkusativ": "das Pfand"
+      },
+      "plural": {
+        "nominativ": "die Pfänder",
+        "genitiv": "der Pfänder",
+        "dativ": "den Pfändern",
+        "akkusativ": "die Pfänder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pfant",
+    "Pfannt",
+    "Pfand",
+    "Ffand",
+    "Phand"
+  ]
+}

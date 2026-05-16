@@ -1,0 +1,82 @@
+{
+  "lemma": "Tropfen",
+  "wortart": "Nomen",
+  "silben": "Trop-fen",
+  "begriffserklaerung": "Ein Tropfen ist eine sehr kleine Menge Flüssigkeit, zum Beispiel Wasser oder Regen, die eine runde Form hat.",
+  "beispielsatz": "Ein Regentropfen fällt auf meine Nase.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" hörst du zwei Mitlaute: „pp\" und „f\". Das zeigt dir, dass du „pp\" schreiben musst – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tropf"
+  ],
+  "bild_datei": "Tropfen.webp",
+  "audio_datei": "Tropfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "goutte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "damla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tropfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regentropfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tröpfchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tropfen",
+    "plural": "die Tropfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tropfen",
+        "genitiv": "des Tropfens",
+        "dativ": "dem Tropfen",
+        "akkusativ": "den Tropfen"
+      },
+      "plural": {
+        "nominativ": "die Tropfen",
+        "genitiv": "der Tropfen",
+        "dativ": "den Tropfen",
+        "akkusativ": "die Tropfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trofpen",
+    "Tropffen",
+    "Trobfen",
+    "Trophfen",
+    "Tropten"
+  ]
+}

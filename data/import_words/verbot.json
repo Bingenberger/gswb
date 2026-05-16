@@ -1,0 +1,88 @@
+{
+  "lemma": "Verbot",
+  "wortart": "Nomen",
+  "silben": "Ver-bot",
+  "begriffserklaerung": "Ein Verbot sagt, dass man etwas nicht tun darf. Wer sich nicht daran hält, kann bestraft werden.",
+  "beispielsatz": "Das Schwimmen im See ist hier verboten – das Verbot steht auf dem Schild.",
+  "rechtschreibstrategie": "Denk an das Verb „verbieten\" – davon kommt „Verbot\". Das lange O hörst du beim Sprechen deutlich: Ver-BOT.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "biet",
+    "bot"
+  ],
+  "bild_datei": "Verbot.webp",
+  "audio_datei": "Verbot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ban / prohibition"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interdiction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yasak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حظر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verbieten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Untersagung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strafe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verbot",
+    "plural": "die Verbote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verbot",
+        "genitiv": "des Verbots",
+        "dativ": "dem Verbot",
+        "akkusativ": "das Verbot"
+      },
+      "plural": {
+        "nominativ": "die Verbote",
+        "genitiv": "der Verbote",
+        "dativ": "den Verboten",
+        "akkusativ": "die Verbote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferbot",
+    "Verbott",
+    "Verboht",
+    "Verbod",
+    "Ferbod"
+  ]
+}

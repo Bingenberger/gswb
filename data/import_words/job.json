@@ -1,0 +1,87 @@
+{
+  "lemma": "Job",
+  "wortart": "Nomen",
+  "silben": "Job",
+  "begriffserklaerung": "Ein Job ist eine Arbeit, die man macht und dafür Geld bekommt.",
+  "beispielsatz": "Meine Mutter hat einen neuen Job als Lehrerin gefunden.",
+  "rechtschreibstrategie": "„Job\" kommt aus dem Englischen und wird genauso geschrieben, wie man es spricht. Das „J\" klingt wie in „Jacke\". Merke dir: Job endet auf „b\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Job"
+  ],
+  "bild_datei": "Job.webp",
+  "audio_datei": "Job.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "job"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emploi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وظيفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jobben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chef"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Job",
+    "plural": "die Jobs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Job",
+        "genitiv": "des Jobs",
+        "dativ": "dem Job",
+        "akkusativ": "den Job"
+      },
+      "plural": {
+        "nominativ": "die Jobs",
+        "genitiv": "der Jobs",
+        "dativ": "den Jobs",
+        "akkusativ": "die Jobs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jop",
+    "Djob",
+    "Gob",
+    "Jobb",
+    "Joob"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Recherche",
+  "wortart": "Nomen",
+  "silben": "Re-cher-che",
+  "begriffserklaerung": "Eine Recherche ist das genaue Suchen und Nachforschen nach Informationen, zum Beispiel in Büchern, im Internet oder durch Befragen von Menschen.",
+  "beispielsatz": "Für ihr Referat über Wale machte Lisa eine gründliche Recherche in der Bibliothek.",
+  "rechtschreibstrategie": "Das Wort „Recherche\" kommt aus dem Französischen und klingt am Ende wie „sche\". Merke dir: Re-cher-che – sprich alle drei Silben deutlich!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "recherchier"
+  ],
+  "bild_datei": "Recherche.webp",
+  "audio_datei": "Recherche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Recherche",
+    "plural": "die Recherchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Recherche",
+        "genitiv": "der Recherche",
+        "dativ": "der Recherche",
+        "akkusativ": "die Recherche"
+      },
+      "plural": {
+        "nominativ": "die Recherchen",
+        "genitiv": "der Recherchen",
+        "dativ": "den Recherchen",
+        "akkusativ": "die Recherchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "research"
+    },
+    {
+      "language_code": "fr",
+      "translation": "recherche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araştırma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بحث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "recherchieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachforschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Referat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Information"
+    }
+  ],
+  "fehlschreibungen": [
+    "Recherrche",
+    "Recerche",
+    "Reshärche",
+    "Rechesche",
+    "Rechärche",
+    "Recherce"
+  ]
+}

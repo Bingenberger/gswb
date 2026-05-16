@@ -1,0 +1,88 @@
+{
+  "lemma": "Berührung",
+  "wortart": "Nomen",
+  "silben": "Be-rüh-rung",
+  "begriffserklaerung": "Eine Berührung ist, wenn man jemanden oder etwas anfasst oder wenn zwei Dinge sich leicht aneinander reiben.",
+  "beispielsatz": "Die sanfte Berührung der Mutter hat das Kind beruhigt.",
+  "rechtschreibstrategie": "Das Wort hat ein Dehnungs-h nach dem ü: be-RÜH-rung. Sprich es laut in Silben, dann hörst du das lange ü!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "rühr"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Berührung",
+    "plural": "die Berührungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Berührung",
+        "genitiv": "der Berührung",
+        "dativ": "der Berührung",
+        "akkusativ": "die Berührung"
+      },
+      "plural": {
+        "nominativ": "die Berührungen",
+        "genitiv": "der Berührungen",
+        "dativ": "den Berührungen",
+        "akkusativ": "die Berührungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "touch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toucher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dokunuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لمسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rühren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "berühren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kontakt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastsinn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streicheln"
+    }
+  ],
+  "fehlschreibungen": [
+    "Berürung",
+    "Berürrung",
+    "Berüherung",
+    "Berrührung",
+    "Berühruung"
+  ],
+  "bild_datei": "Berührung.webp",
+  "audio_datei": "Berührung.mp3"
+}

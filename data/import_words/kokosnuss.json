@@ -1,0 +1,85 @@
+{
+  "lemma": "Kokosnuss",
+  "wortart": "Nomen",
+  "silben": "Ko-kos-nuss",
+  "begriffserklaerung": "Eine Kokosnuss ist die große, runde Frucht der Kokospalme. Sie hat eine harte, braune Schale und innen weißes Fruchtfleisch sowie süßes Kokoswasser.",
+  "beispielsatz": "Mia trinkt das frische Kokoswasser aus einer Kokosnuss.",
+  "rechtschreibstrategie": "Das Wort „Kokosnuss\" ist zusammengesetzt aus „Kokos\" und „Nuss\". Das „ss\" am Ende schreibst du, weil der Vokal vor dem „s\" kurz klingt – sprich: „Nuss\" mit kurzem „u\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kokos",
+    "Nuss"
+  ],
+  "bild_datei": "Kokosnuss.webp",
+  "audio_datei": "Kokosnuss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coconut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "noix de coco"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hindistan cevizi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوز الهند"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kokos"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nuss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Palme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tropenfrucht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kokosnuss",
+    "plural": "die Kokosnüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kokosnuss",
+        "genitiv": "der Kokosnuss",
+        "dativ": "der Kokosnuss",
+        "akkusativ": "die Kokosnuss"
+      },
+      "plural": {
+        "nominativ": "die Kokosnüsse",
+        "genitiv": "der Kokosnüsse",
+        "dativ": "den Kokosnüssen",
+        "akkusativ": "die Kokosnüsse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kokosnus",
+    "Kokosnuß",
+    "Cocusnuss",
+    "Kokkosnuss",
+    "Kokosnusse",
+    "Cokosnuss"
+  ]
+}

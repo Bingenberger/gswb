@@ -1,0 +1,88 @@
+{
+  "lemma": "Anruf",
+  "wortart": "Nomen",
+  "silben": "An-ruf",
+  "begriffserklaerung": "Ein Anruf ist, wenn jemand eine andere Person über das Telefon anspricht.",
+  "beispielsatz": "Mama bekommt einen Anruf von Oma.",
+  "rechtschreibstrategie": "Höre die zwei Teile: „An\" und „ruf\". Denke an das Verb „rufen\" – daraus entsteht „Ruf\". Nomen schreibt man groß.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "ruf",
+    "rufen"
+  ],
+  "bild_datei": "Anruf.webp",
+  "audio_datei": "Anruf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anruf",
+    "plural": "die Anrufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anruf",
+        "genitiv": "des Anrufs",
+        "dativ": "dem Anruf",
+        "akkusativ": "den Anruf"
+      },
+      "plural": {
+        "nominativ": "die Anrufe",
+        "genitiv": "der Anrufe",
+        "dativ": "den Anrufen",
+        "akkusativ": "die Anrufe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "phone call"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appel téléphonique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "telefon araması"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكالمة هاتفية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Telefonanruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anruft",
+    "Anrruf",
+    "Anruhf",
+    "Anruph",
+    "anruf"
+  ]
+}

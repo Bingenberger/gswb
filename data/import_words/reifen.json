@@ -1,0 +1,78 @@
+{
+  "lemma": "Reifen",
+  "wortart": "Nomen",
+  "silben": "Rei-fen",
+  "begriffserklaerung": "Ein Reifen ist ein runder Ring aus Gummi, der um das Rad eines Fahrzeugs gespannt wird. Er sorgt dafür, dass das Fahrzeug gut auf der Straße fahren kann.",
+  "beispielsatz": "Das Fahrrad hat einen platten Reifen, deshalb muss Papa ihn aufpumpen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Rei-fen\". Du hörst ein langes „ei\" – das schreibst du mit „ei\". Kein Dehnungs-h, kein Doppelkonsonant – einfach so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Reif"
+  ],
+  "bild_datei": "Reifen.webp",
+  "audio_datei": "Reifen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tyre / tire"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pneu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lastik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reif"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gummi"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reifen",
+    "plural": "die Reifen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reifen",
+        "genitiv": "des Reifens",
+        "dativ": "dem Reifen",
+        "akkusativ": "den Reifen"
+      },
+      "plural": {
+        "nominativ": "die Reifen",
+        "genitiv": "der Reifen",
+        "dativ": "den Reifen",
+        "akkusativ": "die Reifen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reiffen",
+    "Reyfen",
+    "Raifen",
+    "Reifenn",
+    "Reiphen"
+  ]
+}

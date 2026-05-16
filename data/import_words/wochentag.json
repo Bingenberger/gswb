@@ -1,0 +1,81 @@
+{
+  "lemma": "Wochentag",
+  "wortart": "Nomen",
+  "silben": "Wo-chen-tag",
+  "begriffserklaerung": "Ein Wochentag ist einer der sieben Tage einer Woche, zum Beispiel Montag, Dienstag oder Freitag.",
+  "beispielsatz": "Montag ist mein liebster Wochentag, weil ich dann Sportunterricht habe.",
+  "rechtschreibstrategie": "Das Wort „Wochentag\" ist aus zwei Wörtern zusammengesetzt: „Woche\" + „Tag\". Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Woche",
+    "Tag"
+  ],
+  "bild_datei": "Wochentag.webp",
+  "audio_datei": "Wochentag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "day of the week"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jour de la semaine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haftanın günü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوم من أيام الأسبوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wochenende"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wochentag",
+    "plural": "die Wochentage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wochentag",
+        "genitiv": "des Wochentages",
+        "dativ": "dem Wochentag",
+        "akkusativ": "den Wochentag"
+      },
+      "plural": {
+        "nominativ": "die Wochentage",
+        "genitiv": "der Wochentage",
+        "dativ": "den Wochentagen",
+        "akkusativ": "die Wochentage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wochentack",
+    "Wochentak",
+    "Wochendag",
+    "Wochentag",
+    "Wochentaag",
+    "Wochentahg"
+  ]
+}

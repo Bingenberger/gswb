@@ -1,0 +1,85 @@
+{
+  "lemma": "Feiertag",
+  "wortart": "Nomen",
+  "silben": "Fei-er-tag",
+  "begriffserklaerung": "Ein Feiertag ist ein besonderer Tag, an dem die meisten Menschen nicht arbeiten oder zur Schule gehen. Oft wird an diesem Tag etwas Wichtiges gefeiert, zum Beispiel ein Fest oder ein Ereignis.",
+  "beispielsatz": "An Weihnachten haben wir schulfrei, denn das ist ein Feiertag.",
+  "rechtschreibstrategie": "„Feiertag\" ist ein zusammengesetztes Wort aus „Feier\" und „Tag\". Schreib es einfach zusammen: Feier + Tag = Feiertag.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Feier",
+    "Tag"
+  ],
+  "bild_datei": "Feiertag.webp",
+  "audio_datei": "Feiertag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "public holiday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jour férié"
+    },
+    {
+      "language_code": "tr",
+      "translation": "resmi tatil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عطلة رسمية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Festtag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feiertag",
+    "plural": "die Feiertage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feiertag",
+        "genitiv": "des Feiertages",
+        "dativ": "dem Feiertag",
+        "akkusativ": "den Feiertag"
+      },
+      "plural": {
+        "nominativ": "die Feiertage",
+        "genitiv": "der Feiertage",
+        "dativ": "den Feiertagen",
+        "akkusativ": "die Feiertage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feirtag",
+    "Feiertahg",
+    "Feirertag",
+    "Feyertag",
+    "Feiertak"
+  ]
+}

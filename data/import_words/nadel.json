@@ -1,0 +1,82 @@
+{
+  "lemma": "Nadel",
+  "wortart": "Nomen",
+  "silben": "Na-del",
+  "begriffserklaerung": "Eine Nadel ist ein dünner, spitzer Stab – zum Beispiel aus Metall. Man benutzt sie zum Nähen oder zum Stricken.",
+  "beispielsatz": "Mama fädelt den Faden in die Nadel ein, um das Loch in meiner Hose zu nähen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Na-del. Du hörst ein kurzes „a\" – aber hier gibt es keinen Doppelkonsonanten. Denk daran: Nach dem „N\" kommt ein einfaches „d\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "nadel"
+  ],
+  "bild_datei": "Nadel.webp",
+  "audio_datei": "Nadel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "needle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aiguille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iğne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إبرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nadeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nadelöhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nadel",
+    "plural": "die Nadeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nadel",
+        "genitiv": "der Nadel",
+        "dativ": "der Nadel",
+        "akkusativ": "die Nadel"
+      },
+      "plural": {
+        "nominativ": "die Nadeln",
+        "genitiv": "der Nadeln",
+        "dativ": "den Nadeln",
+        "akkusativ": "die Nadeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Naddel",
+    "Nadell",
+    "Nahdel",
+    "Nadal",
+    "Natel"
+  ]
+}

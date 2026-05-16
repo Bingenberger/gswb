@@ -1,0 +1,88 @@
+{
+  "lemma": "Persönlichkeit",
+  "wortart": "Nomen",
+  "silben": "Per-sön-lich-keit",
+  "begriffserklaerung": "Die Persönlichkeit beschreibt, wie ein Mensch ist: was er mag, wie er sich verhält und was ihn besonders macht. Jeder Mensch hat eine eigene, einzigartige Persönlichkeit.",
+  "beispielsatz": "Lena hat eine fröhliche Persönlichkeit und bringt alle zum Lachen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Per-sön-lich-keit. Achte auf das Umlaut-ö in „sön\" und das stumme h in „lich\". Das Wort endet immer auf -keit.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Person",
+    "persönlich"
+  ],
+  "bild_datei": "Persönlichkeit.webp",
+  "audio_datei": "Persönlichkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Persönlichkeit",
+    "plural": "die Persönlichkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Persönlichkeit",
+        "genitiv": "der Persönlichkeit",
+        "dativ": "der Persönlichkeit",
+        "akkusativ": "die Persönlichkeit"
+      },
+      "plural": {
+        "nominativ": "die Persönlichkeiten",
+        "genitiv": "der Persönlichkeiten",
+        "dativ": "den Persönlichkeiten",
+        "akkusativ": "die Persönlichkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "personality"
+    },
+    {
+      "language_code": "fr",
+      "translation": "personnalité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kişilik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شخصية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Person"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "persönlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Charakter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eigenschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verhalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Charakter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Persönlichkait",
+    "Persöhnlichkeit",
+    "Persönligkait",
+    "Persönlichkeid",
+    "Persöhnlichkait",
+    "Persehnlichkeit"
+  ]
+}

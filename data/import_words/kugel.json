@@ -1,0 +1,81 @@
+{
+  "lemma": "Kugel",
+  "wortart": "Nomen",
+  "silben": "Ku-gel",
+  "begriffserklaerung": "Eine Kugel ist ein runder Körper, der von allen Seiten gleich aussieht – wie ein Ball.",
+  "beispielsatz": "Die rote Kugel rollt schnell über den Boden.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Ku-gel\". Du hörst zwei Silben. Nach dem langen „u\" kommt nur ein „g\" – kein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kugel",
+    "plural": "die Kugeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kugel",
+        "genitiv": "der Kugel",
+        "dativ": "der Kugel",
+        "akkusativ": "die Kugel"
+      },
+      "plural": {
+        "nominativ": "die Kugeln",
+        "genitiv": "der Kugeln",
+        "dativ": "den Kugeln",
+        "akkusativ": "die Kugeln"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kugel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kugelrund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kugeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ball"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ball / sphere"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boule / sphère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küre / top"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kugell",
+    "Kugal",
+    "Cugl",
+    "Kugul"
+  ],
+  "bild_datei": "Kugel.webp",
+  "audio_datei": "Kugel.mp3"
+}

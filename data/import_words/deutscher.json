@@ -1,0 +1,78 @@
+{
+  "lemma": "Deutscher",
+  "wortart": "Nomen",
+  "silben": "Deut-scher",
+  "begriffserklaerung": "Ein Deutscher ist ein Mann oder Junge, der aus Deutschland kommt oder die deutsche Staatsangehörigkeit hat.",
+  "beispielsatz": "Mein Freund Max ist ein Deutscher und wohnt in München.",
+  "rechtschreibstrategie": "Denk an das Wort „Deutschland\" – von „deutsch\" kommt „Deutscher\". Das „eu\" sprichst du wie in „neu\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "deutsch"
+  ],
+  "bild_datei": "Deutscher.webp",
+  "audio_datei": "Deutscher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "German (man)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Allemand"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Alman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألماني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "deutsch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutschland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Europäer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staatsbürger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Deutsche",
+    "plural": "die Deutschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Deutsche",
+        "genitiv": "des Deutschen",
+        "dativ": "dem Deutschen",
+        "akkusativ": "den Deutschen"
+      },
+      "plural": {
+        "nominativ": "die Deutschen",
+        "genitiv": "der Deutschen",
+        "dativ": "den Deutschen",
+        "akkusativ": "die Deutschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Doitscher",
+    "Deitscher",
+    "Deutsher",
+    "Deutcher",
+    "Deuscher"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Maus",
+  "wortart": "Nomen",
+  "silben": "Maus",
+  "begriffserklaerung": "Eine Maus ist ein kleines Tier mit einem langen Schwanz, großen Ohren und einem spitzen Schnäuzchen. Mäuse fressen am liebsten Körner und Käse.",
+  "beispielsatz": "Die kleine Maus versteckt sich hinter dem Schrank.",
+  "rechtschreibstrategie": "„Maus\" klingt genau so, wie es geschrieben wird – sprich das Wort laut in Silben: Maus. Denk daran: Das „au\" klingt wie in „Baum\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Maus"
+  ],
+  "bild_datei": "Maus.webp",
+  "audio_datei": "Maus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souris"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fare"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فأر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mäuschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mausefalle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ratte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Maus",
+    "plural": "die Mäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Maus",
+        "genitiv": "der Maus",
+        "dativ": "der Maus",
+        "akkusativ": "die Maus"
+      },
+      "plural": {
+        "nominativ": "die Mäuse",
+        "genitiv": "der Mäuse",
+        "dativ": "den Mäusen",
+        "akkusativ": "die Mäuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mauß",
+    "Mauhs",
+    "Maws",
+    "Mausse",
+    "Mauus"
+  ]
+}

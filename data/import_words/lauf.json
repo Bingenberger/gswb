@@ -1,0 +1,90 @@
+{
+  "lemma": "Lauf",
+  "wortart": "Nomen",
+  "silben": "Lauf",
+  "begriffserklaerung": "Ein Lauf ist eine schnelle Bewegung, bei der man rennt. Man kann auch sagen, ein Lauf ist eine Strecke, die man läuft.",
+  "beispielsatz": "Beim Schulfest hat Tim einen langen Lauf gewonnen.",
+  "rechtschreibstrategie": "Denk an das Wort „laufen\" – du hörst das „au\" ganz deutlich. Schreibe: L-a-u-f.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lauf"
+  ],
+  "bild_datei": "Lauf.webp",
+  "audio_datei": "Lauf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "run"
+    },
+    {
+      "language_code": "fr",
+      "translation": "course"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Läufer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auflauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprint"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lauf",
+    "plural": "die Läufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lauf",
+        "genitiv": "des Laufes",
+        "dativ": "dem Lauf",
+        "akkusativ": "den Lauf"
+      },
+      "plural": {
+        "nominativ": "die Läufe",
+        "genitiv": "der Läufe",
+        "dativ": "den Läufen",
+        "akkusativ": "die Läufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lauph",
+    "Lauf",
+    "Lauff",
+    "Loufe",
+    "Louf"
+  ]
+}

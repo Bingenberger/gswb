@@ -1,0 +1,89 @@
+{
+  "lemma": "Tierbehausung",
+  "wortart": "Nomen",
+  "silben": "Tier-be-hau-sung",
+  "begriffserklaerung": "Eine Tierbehausung ist ein Ort, an dem ein Tier wohnt und schläft. Das kann zum Beispiel ein Stall, ein Bau oder ein Nest sein.",
+  "beispielsatz": "Der Igel sucht sich im Herbst eine warme Tierbehausung, um den Winter zu verschlafen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Tier\" + „be\" + „hausung\". Sprich alle Teile deutlich: TIER – BE – HAU – SUNG.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tier",
+    "Haus"
+  ],
+  "bild_datei": "Tierbehausung.webp",
+  "audio_datei": "Tierbehausung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "animal shelter / animal dwelling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "abri pour animaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayvan barınağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسكن الحيوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tierunterkunft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bau"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tierbehausung",
+    "plural": "die Tierbehausungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tierbehausung",
+        "genitiv": "der Tierbehausung",
+        "dativ": "der Tierbehausung",
+        "akkusativ": "die Tierbehausung"
+      },
+      "plural": {
+        "nominativ": "die Tierbehausungen",
+        "genitiv": "der Tierbehausungen",
+        "dativ": "den Tierbehausungen",
+        "akkusativ": "die Tierbehausungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tierbehaußung",
+    "Tierbehausung",
+    "Tiehrbehausing",
+    "Tierbehauzung",
+    "Tirbehauzung",
+    "Tierbehaussung"
+  ]
+}

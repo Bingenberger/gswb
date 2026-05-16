@@ -1,0 +1,83 @@
+{
+  "lemma": "Weile",
+  "wortart": "Nomen",
+  "silben": "Wei-le",
+  "begriffserklaerung": "Eine Weile ist ein kurzer Zeitraum – nicht zu lang und nicht zu kurz.",
+  "beispielsatz": "Warte noch eine kleine Weile, dann sind wir da!",
+  "rechtschreibstrategie": "Das Wort „Weile\" hat ein langes „ei\". Sprich es laut: Wei-le. Das „ei\" hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Weile",
+    "plural": "die Weilen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Weile",
+        "genitiv": "der Weile",
+        "dativ": "der Weile",
+        "akkusativ": "die Weile"
+      },
+      "plural": {
+        "nominativ": "die Weilen",
+        "genitiv": "der Weilen",
+        "dativ": "den Weilen",
+        "akkusativ": "die Weilen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "weil",
+    "Weile"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Moment"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Augenblick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weilen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weille",
+    "Weile",
+    "Vaile",
+    "Weihle",
+    "Weill"
+  ],
+  "bild_datei": "Weile.webp",
+  "audio_datei": "Weile.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "a while"
+    },
+    {
+      "language_code": "fr",
+      "translation": "un moment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bir süre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لحظة / فترة"
+    }
+  ]
+}

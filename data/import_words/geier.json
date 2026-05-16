@@ -1,0 +1,73 @@
+{
+  "lemma": "Geier",
+  "wortart": "Nomen",
+  "silben": "Gei-er",
+  "begriffserklaerung": "Ein Geier ist ein großer Vogel mit einem kahlen Kopf und breiten Flügeln. Er frisst meist tote Tiere und lebt in warmen Ländern.",
+  "beispielsatz": "Der Geier kreist hoch oben in der Luft und sucht nach Futter.",
+  "rechtschreibstrategie": "Denk an „Geier\": Nach dem „G\" hörst du ein langes „ei\" – schreib es mit ei, nicht mit ai. Am Ende klingt das „er\" ganz leise.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Geier.webp",
+  "audio_datei": "Geier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vulture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vautour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akbaba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نسر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aas"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geier",
+    "plural": "die Geier",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geier",
+        "genitiv": "des Geiers",
+        "dativ": "dem Geier",
+        "akkusativ": "den Geier"
+      },
+      "plural": {
+        "nominativ": "die Geier",
+        "genitiv": "der Geier",
+        "dativ": "den Geiern",
+        "akkusativ": "die Geier"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gaier",
+    "Geier",
+    "Geyer",
+    "Geiher",
+    "Geir",
+    "Geiger"
+  ]
+}

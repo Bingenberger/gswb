@@ -1,0 +1,90 @@
+{
+  "lemma": "Boxkampf",
+  "wortart": "Nomen",
+  "silben": "Box-kampf",
+  "begriffserklaerung": "Ein Boxkampf ist ein sportlicher Wettkampf zwischen zwei Personen, die sich mit Boxhandschuhen gegenseitig mit Fäusten schlagen. Es gibt genaue Regeln, und ein Schiedsrichter passt auf.",
+  "beispielsatz": "Der Sportler hat seinen ersten Boxkampf gewonnen und strahlte vor Freude.",
+  "rechtschreibstrategie": "„Boxkampf\" ist aus zwei Wörtern zusammengebaut: „Box\" und „Kampf\". Sprich beide Teile einzeln: BOX – KAMPF. Das „x\" am Ende von „Box\" hörst du deutlich. Denk daran: kein „s\" oder „ks\" – es ist ein echtes „x\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Box",
+    "Kampf"
+  ],
+  "bild_datei": "Boxkampf.webp",
+  "audio_datei": "Boxkampf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Boxkampf",
+    "plural": "die Boxkämpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Boxkampf",
+        "genitiv": "des Boxkampfes",
+        "dativ": "dem Boxkampf",
+        "akkusativ": "den Boxkampf"
+      },
+      "plural": {
+        "nominativ": "die Boxkämpfe",
+        "genitiv": "der Boxkämpfe",
+        "dativ": "den Boxkämpfen",
+        "akkusativ": "die Boxkämpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boxing match"
+    },
+    {
+      "language_code": "fr",
+      "translation": "combat de boxe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boks maçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مباراة ملاكمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Box"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boxring"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boxer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Boxmatch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bockskampf",
+    "Boxskampf",
+    "Bockscamp",
+    "Boxkampff",
+    "Boxkampf",
+    "Bokscamp",
+    "Boxkamp"
+  ]
+}

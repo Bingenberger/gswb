@@ -1,0 +1,83 @@
+{
+  "lemma": "Strumpfhose",
+  "wortart": "Nomen",
+  "silben": "Strumpf-ho-se",
+  "begriffserklaerung": "Eine Strumpfhose ist ein dünnes Kleidungsstück, das Beine und Hüfte bedeckt. Man zieht sie wie eine Hose an, aber sie ist aus dünnem, dehnbarem Stoff.",
+  "beispielsatz": "Im Winter trägt Lena eine warme Strumpfhose unter ihrem Rock.",
+  "rechtschreibstrategie": "Das Wort „Strumpfhose\" besteht aus zwei Teilen: „Strumpf\" und „Hose\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Strumpf",
+    "Hose"
+  ],
+  "bild_datei": "Strumpfhose.webp",
+  "audio_datei": "Strumpfhose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Strumpfhose",
+    "plural": "die Strumpfhosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Strumpfhose",
+        "genitiv": "der Strumpfhose",
+        "dativ": "der Strumpfhose",
+        "akkusativ": "die Strumpfhose"
+      },
+      "plural": {
+        "nominativ": "die Strumpfhosen",
+        "genitiv": "der Strumpfhosen",
+        "dativ": "den Strumpfhosen",
+        "akkusativ": "die Strumpfhosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tights"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "külotlu çorap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوارب طويلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strumpf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Socke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leggings"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rock"
+    }
+  ],
+  "fehlschreibungen": [
+    "Strumpfhohse",
+    "Strumfhose",
+    "Strumpfhooze",
+    "Strumbfhose",
+    "Strumpfhohze"
+  ]
+}

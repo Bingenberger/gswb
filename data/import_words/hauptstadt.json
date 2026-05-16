@@ -1,0 +1,83 @@
+{
+  "lemma": "Hauptstadt",
+  "wortart": "Nomen",
+  "silben": "Haupt-stadt",
+  "begriffserklaerung": "Die Hauptstadt ist die wichtigste Stadt eines Landes. Dort arbeitet oft die Regierung des Landes.",
+  "beispielsatz": "Berlin ist die Hauptstadt von Deutschland.",
+  "rechtschreibstrategie": "„Hauptstadt\" ist aus zwei Wörtern zusammengesetzt: „Haupt\" und „Stadt\". Sprich beide Teile laut: HAUPT – STADT. So schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haupt",
+    "Stadt"
+  ],
+  "bild_datei": "Hauptstadt.webp",
+  "audio_datei": "Hauptstadt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "capital city"
+    },
+    {
+      "language_code": "fr",
+      "translation": "capitale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "başkent"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عاصمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haupt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hauptstadt",
+    "plural": "die Hauptstädte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hauptstadt",
+        "genitiv": "der Hauptstadt",
+        "dativ": "der Hauptstadt",
+        "akkusativ": "die Hauptstadt"
+      },
+      "plural": {
+        "nominativ": "die Hauptstädte",
+        "genitiv": "der Hauptstädte",
+        "dativ": "den Hauptstädten",
+        "akkusativ": "die Hauptstädte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haupstadt",
+    "Hauptstat",
+    "Hauptstatt",
+    "Hauptsttadt",
+    "Haupstatt"
+  ]
+}

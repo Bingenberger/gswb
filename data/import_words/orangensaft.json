@@ -1,0 +1,84 @@
+{
+  "lemma": "Orangensaft",
+  "wortart": "Nomen",
+  "silben": "O-ran-gen-saft",
+  "begriffserklaerung": "Orangensaft ist ein Getränk, das aus ausgepressten Orangen gewonnen wird. Er schmeckt fruchtig und süß-sauer.",
+  "beispielsatz": "Zum Frühstück trinke ich am liebsten ein Glas frischen Orangensaft.",
+  "rechtschreibstrategie": "Orangensaft ist ein zusammengesetztes Wort aus „Orange\" und „Saft\". Schreibe beide Teile einfach hintereinander: Orange + n + Saft = Orangensaft.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Orange",
+    "Saft"
+  ],
+  "bild_datei": "Orangensaft.webp",
+  "audio_datei": "Orangensaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "orange juice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jus d'orange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "portakal suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصير البرتقال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Orange"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfelsaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Limonade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fruchtsaft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Orangensaft",
+    "plural": "die Orangensäfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Orangensaft",
+        "genitiv": "des Orangensaftes",
+        "dativ": "dem Orangensaft",
+        "akkusativ": "den Orangensaft"
+      },
+      "plural": {
+        "nominativ": "die Orangensäfte",
+        "genitiv": "der Orangensäfte",
+        "dativ": "den Orangensäften",
+        "akkusativ": "die Orangensäfte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Orangensafft",
+    "Orangensaaft",
+    "Orangen Saft",
+    "Orangsaft",
+    "Orangenschafft",
+    "Orangehnsaft"
+  ]
+}

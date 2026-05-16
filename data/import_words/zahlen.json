@@ -1,0 +1,94 @@
+{
+  "lemma": "zahlen",
+  "wortart": "Verb",
+  "silben": "zah-len",
+  "begriffserklaerung": "Zahlen bedeutet, Geld für etwas hergeben, zum Beispiel beim Einkaufen oder im Restaurant.",
+  "beispielsatz": "Papa muss an der Kasse für die Äpfel zahlen.",
+  "rechtschreibstrategie": "Denk an das lange „a\" in „zah-len\" – das Dehnungs-h nach dem „a\" macht es lang. Sprich es in Silben: ZAH – LEN.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "zahl"
+  ],
+  "bild_datei": "zahlen.webp",
+  "audio_datei": "zahlen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "zahlen",
+    "praesens": {
+      "ich": "zahle",
+      "du": "zahlst",
+      "er_sie_es": "zahlt",
+      "wir": "zahlen",
+      "ihr": "zahlt",
+      "sie": "zahlen"
+    },
+    "perfekt": {
+      "ich": "habe gezahlt",
+      "du": "hast gezahlt",
+      "er_sie_es": "hat gezahlt",
+      "wir": "haben gezahlt",
+      "ihr": "habt gezahlt",
+      "sie": "haben gezahlt"
+    },
+    "praeteritum": {
+      "ich": "zahlte",
+      "du": "zahltest",
+      "er_sie_es": "zahlte",
+      "wir": "zahlten",
+      "ihr": "zahltet",
+      "sie": "zahlten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pay"
+    },
+    {
+      "language_code": "fr",
+      "translation": "payer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ödemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَدْفَعُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bezahlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "zalen",
+    "zahlen",
+    "tsahlen",
+    "zahln",
+    "zallen"
+  ]
+}

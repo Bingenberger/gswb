@@ -1,0 +1,72 @@
+{
+  "lemma": "Datei",
+  "wortart": "Nomen",
+  "silben": "Da-tei",
+  "begriffserklaerung": "Eine Datei ist eine gespeicherte Sammlung von Informationen auf einem Computer, zum Beispiel ein Bild, ein Text oder ein Lied.",
+  "beispielsatz": "Ich speichere mein Bild als Datei auf dem Computer.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Da-tei. Am Ende hörst du „ei\" – schreib es mit e und i.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Datei.webp",
+  "audio_datei": "Datei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "file"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fichier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dosya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dokument"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Datei",
+    "plural": "die Dateien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Datei",
+        "genitiv": "der Datei",
+        "dativ": "der Datei",
+        "akkusativ": "die Datei"
+      },
+      "plural": {
+        "nominativ": "die Dateien",
+        "genitiv": "der Dateien",
+        "dativ": "den Dateien",
+        "akkusativ": "die Dateien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Datey",
+    "Dattei",
+    "Datai",
+    "Dahthei",
+    "Dahtei"
+  ]
+}

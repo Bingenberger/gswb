@@ -1,0 +1,82 @@
+{
+  "lemma": "Schale",
+  "wortart": "Nomen",
+  "silben": "Scha-le",
+  "begriffserklaerung": "Eine Schale ist eine flache, runde Gefäß, das man zum Aufbewahren oder Servieren von Essen benutzt. Schale nennt man auch die harte oder weiche Hülle, die manche Früchte, Nüsse oder Eier umgibt.",
+  "beispielsatz": "In der Schale auf dem Tisch liegen frische Äpfel und Orangen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Scha – le. Das „sch\" klingt wie ein einziger Laut. Denk daran: Nach dem langen „a\" kommt nur ein „l\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schal"
+  ],
+  "bild_datei": "Schale.webp",
+  "audio_datei": "Schale.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bowl / peel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bol / peau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kâse / kabuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء / قشرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schälen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schälchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schüssel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schale",
+    "plural": "die Schalen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schale",
+        "genitiv": "der Schale",
+        "dativ": "der Schale",
+        "akkusativ": "die Schale"
+      },
+      "plural": {
+        "nominativ": "die Schalen",
+        "genitiv": "der Schalen",
+        "dativ": "den Schalen",
+        "akkusativ": "die Schalen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schalle",
+    "Schahle",
+    "Schale",
+    "Scahle",
+    "Shale"
+  ]
+}

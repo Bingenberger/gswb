@@ -1,0 +1,86 @@
+{
+  "lemma": "Hase",
+  "wortart": "Nomen",
+  "silben": "Ha-se",
+  "begriffserklaerung": "Ein Hase ist ein Tier mit langen Ohren, weichem Fell und kräftigen Hinterbeinen. Er kann sehr schnell laufen und lebt meist auf Feldern und Wiesen.",
+  "beispielsatz": "Der Hase hoppelt flink über die Wiese.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ha-se. Das „a\" klingt lang, deshalb schreibt man nur ein „s\" – nicht zwei!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Has"
+  ],
+  "bild_datei": "Hase.webp",
+  "audio_datei": "Hase.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hare / rabbit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lièvre / lapin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavşan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرنب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Häschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hasenohren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaninchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meister Lampe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hase",
+    "plural": "die Hasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hase",
+        "genitiv": "des Hasen",
+        "dativ": "dem Hasen",
+        "akkusativ": "den Hasen"
+      },
+      "plural": {
+        "nominativ": "die Hasen",
+        "genitiv": "der Hasen",
+        "dativ": "den Hasen",
+        "akkusativ": "die Hasen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haase",
+    "Hasse",
+    "Haße",
+    "Hahse",
+    "Haze"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Schläger",
+  "wortart": "Nomen",
+  "silben": "Schlä-ger",
+  "begriffserklaerung": "Ein Schläger ist ein Sportgerät, mit dem man einen Ball oder einen Federball schlägt. Es gibt ihn zum Beispiel beim Tennis, Tischtennis oder Baseball.",
+  "beispielsatz": "Mia holt ihren Tennisschläger aus der Tasche und schlägt den Ball über das Netz.",
+  "rechtschreibstrategie": "Denke an das Wort „schlagen\" – daraus kommt „Schläger\". Das ä hörst du, wenn du „schlagen\" laut sagst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlag"
+  ],
+  "bild_datei": "Schläger.webp",
+  "audio_datei": "Schläger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "racket / bat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "raquette / batte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "raket / sopa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مضرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schläger",
+    "plural": "die Schläger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schläger",
+        "genitiv": "des Schlägers",
+        "dativ": "dem Schläger",
+        "akkusativ": "den Schläger"
+      },
+      "plural": {
+        "nominativ": "die Schläger",
+        "genitiv": "der Schläger",
+        "dativ": "den Schlägern",
+        "akkusativ": "die Schläger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlaeger",
+    "Schleger",
+    "Schlägger",
+    "Schleeger"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Herstellung",
+  "wortart": "Nomen",
+  "silben": "Her-stel-lung",
+  "begriffserklaerung": "Die Herstellung ist das Machen oder Bauen von etwas, zum Beispiel in einer Fabrik oder Werkstatt.",
+  "beispielsatz": "Bei der Herstellung eines Tisches braucht man Holz, Werkzeug und viel Geschick.",
+  "rechtschreibstrategie": "Denke an das Verb „stellen\" – „Her-stel-lung\" wird mit „st\" geschrieben, weil es von „stellen\" kommt.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stell"
+  ],
+  "bild_datei": "Herstellung.webp",
+  "audio_datei": "Herstellung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Herstellung",
+    "plural": "die Herstellungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Herstellung",
+        "genitiv": "der Herstellung",
+        "dativ": "der Herstellung",
+        "akkusativ": "die Herstellung"
+      },
+      "plural": {
+        "nominativ": "die Herstellungen",
+        "genitiv": "der Herstellungen",
+        "dativ": "den Herstellungen",
+        "akkusativ": "die Herstellungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "production / manufacturing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fabrication"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üretim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصنيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "herstellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hersteller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fertigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Produktion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerk"
+    }
+  ],
+  "fehlschreibungen": [
+    "Herstelung",
+    "Herrstellung",
+    "Herstellunng",
+    "Hersttelung",
+    "Hearstellung"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Uhrzeit",
+  "wortart": "Nomen",
+  "silben": "Uhr-zeit",
+  "begriffserklaerung": "Die Uhrzeit sagt uns, wie spät es gerade ist – zum Beispiel drei Uhr oder halb vier.",
+  "beispielsatz": "Die Lehrerin fragt: „Wer kann die Uhrzeit an der Wanduhr ablesen?\"",
+  "rechtschreibstrategie": "„Uhrzeit\" besteht aus zwei Bausteinen: „Uhr\" und „Zeit\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Uhr",
+    "Zeit"
+  ],
+  "bild_datei": "Uhrzeit.webp",
+  "audio_datei": "Uhrzeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "time"
+    },
+    {
+      "language_code": "fr",
+      "translation": "heure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الوقت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Uhrzeit",
+    "plural": "die Uhrzeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Uhrzeit",
+        "genitiv": "der Uhrzeit",
+        "dativ": "der Uhrzeit",
+        "akkusativ": "die Uhrzeit"
+      },
+      "plural": {
+        "nominativ": "die Uhrzeiten",
+        "genitiv": "der Uhrzeiten",
+        "dativ": "den Uhrzeiten",
+        "akkusativ": "die Uhrzeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Urzeit",
+    "Uhrtzeid",
+    "Uhrtzait",
+    "Uhrzeitt",
+    "Uhrtseit"
+  ]
+}

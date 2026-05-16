@@ -1,0 +1,83 @@
+{
+  "lemma": "Feldhamster",
+  "wortart": "Nomen",
+  "silben": "Feld-ham-ster",
+  "begriffserklaerung": "Der Feldhamster ist ein kleines, wildes Tier, das auf Feldern und Wiesen lebt. Er hat braunes Fell, Pausbacken zum Sammeln von Körnern und gräbt sich unterirdische Bauten.",
+  "beispielsatz": "Der Feldhamster trägt Körner in seinen Backentaschen in seinen Bau.",
+  "rechtschreibstrategie": "Das Wort „Feldhamster\" ist aus zwei Teilen zusammengesetzt: „Feld\" und „Hamster\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feld",
+    "Hamster"
+  ],
+  "bild_datei": "Feldhamster.webp",
+  "audio_datei": "Feldhamster.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feldhamster",
+    "plural": "die Feldhamster",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feldhamster",
+        "genitiv": "des Feldhamsters",
+        "dativ": "dem Feldhamster",
+        "akkusativ": "den Feldhamster"
+      },
+      "plural": {
+        "nominativ": "die Feldhamster",
+        "genitiv": "der Feldhamster",
+        "dativ": "den Feldhamstern",
+        "akkusativ": "die Feldhamster"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "European hamster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hamster commun"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla hamsteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هامستر الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maulwurf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wühlmaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Felthamster",
+    "Feldhamter",
+    "Feldhampster",
+    "Feldhamstar",
+    "Feldhamsder"
+  ]
+}

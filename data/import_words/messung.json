@@ -1,0 +1,88 @@
+{
+  "lemma": "Messung",
+  "wortart": "Nomen",
+  "silben": "Mes-sung",
+  "begriffserklaerung": "Eine Messung ist, wenn du herausfindest, wie groß, wie schwer oder wie lang etwas ist – zum Beispiel mit einem Lineal oder einer Waage.",
+  "beispielsatz": "Die Lehrerin macht eine Messung, um herauszufinden, wie groß alle Kinder in der Klasse sind.",
+  "rechtschreibstrategie": "Das Wort kommt von „messen\". Weil das „e\" in „mes-\" kurz gesprochen wird, schreibt man danach doppeltes „ss\": Mes-sung.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "mess"
+  ],
+  "bild_datei": "Messung.webp",
+  "audio_datei": "Messung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Messung",
+    "plural": "die Messungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Messung",
+        "genitiv": "der Messung",
+        "dativ": "der Messung",
+        "akkusativ": "die Messung"
+      },
+      "plural": {
+        "nominativ": "die Messungen",
+        "genitiv": "der Messungen",
+        "dativ": "den Messungen",
+        "akkusativ": "die Messungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "measurement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mesure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قياس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ermittlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Thermometer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Messing",
+    "Mesung",
+    "Messsung",
+    "Mäsung",
+    "Mesßung"
+  ]
+}

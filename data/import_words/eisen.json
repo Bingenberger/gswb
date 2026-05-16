@@ -1,0 +1,86 @@
+{
+  "lemma": "Eisen",
+  "wortart": "Nomen",
+  "silben": "Ei-sen",
+  "begriffserklaerung": "Eisen ist ein hartes, graues Metall. Es steckt in vielen Dingen, die wir jeden Tag benutzen, zum Beispiel in Werkzeugen, Brücken und Töpfen.",
+  "beispielsatz": "Der Schmied erhitzt das Eisen, bis es glüht, und formt es dann mit dem Hammer.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Ei-sen\". Das „Ei\" klingt wie in „Eis\". Denk an das Bügeleisen – es ist aus Eisen gemacht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Eisen"
+  ],
+  "bild_datei": "Eisen.webp",
+  "audio_datei": "Eisen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "iron"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "demir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حديد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eisern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eisenbahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bügeleisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmied"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eisen",
+    "plural": "die Eisen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eisen",
+        "genitiv": "des Eisens",
+        "dativ": "dem Eisen",
+        "akkusativ": "das Eisen"
+      },
+      "plural": {
+        "nominativ": "die Eisen",
+        "genitiv": "der Eisen",
+        "dativ": "den Eisen",
+        "akkusativ": "die Eisen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eißen",
+    "Aisen",
+    "Eysen",
+    "Eisenn",
+    "Isen"
+  ]
+}

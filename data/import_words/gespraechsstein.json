@@ -1,0 +1,85 @@
+{
+  "lemma": "Gesprächsstein",
+  "wortart": "Nomen",
+  "silben": "Ge-spräch-s-stein",
+  "begriffserklaerung": "Ein Gesprächsstein ist ein Gegenstand – meistens ein Stein –, den jemand in der Hand hält, wenn er in einer Gruppe sprechen darf. Nur wer den Stein hat, darf reden. So hört jeder dem anderen zu.",
+  "beispielsatz": "In unserem Morgenkreis gibt Lena den Gesprächsstein an Max weiter, damit er erzählen kann.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Gespräch\" und „Stein\". Denk daran: „Gespräch\" endet auf -ch und hat ein Umlaut-ä. „Stein\" schreibt man mit ei. Zusammen: Ge-spräch-s-stein.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Gespräch",
+    "Stein"
+  ],
+  "bild_datei": "Gesprächsstein.webp",
+  "audio_datei": "Gesprächsstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "talking stone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pierre de parole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konuşma taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر الحديث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgenkreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Redezeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Redstein"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gesprächsstein",
+    "plural": "die Gesprächssteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gesprächsstein",
+        "genitiv": "des Gesprächssteins",
+        "dativ": "dem Gesprächsstein",
+        "akkusativ": "den Gesprächsstein"
+      },
+      "plural": {
+        "nominativ": "die Gesprächssteine",
+        "genitiv": "der Gesprächssteine",
+        "dativ": "den Gesprächssteinen",
+        "akkusativ": "die Gesprächssteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gesprächstein",
+    "Gesprächsstein",
+    "Gesprechsstein",
+    "Gesprächsshtein",
+    "Gespräachsstein",
+    "Gesprächssten"
+  ]
+}

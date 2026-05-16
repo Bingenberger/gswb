@@ -1,0 +1,74 @@
+{
+  "lemma": "Keks",
+  "wortart": "Nomen",
+  "silben": "Keks",
+  "begriffserklaerung": "Ein Keks ist ein kleines, flaches und meist süßes Gebäckstück, das man zum Knabbern essen kann.",
+  "beispielsatz": "Zum Nachmittag esse ich am liebsten einen Keks mit heißer Schokolade.",
+  "rechtschreibstrategie": "Denk an das „ck\" am Ende – nach dem kurzen „e\" kommt immer „ck\": K-e-ck-s. Sprich es laut: „Keks\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Keks"
+  ],
+  "bild_datei": "Keks.webp",
+  "audio_datei": "Keks.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "biscuit / cookie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "biscuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bisküvi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بسكويت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plätzchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Keks",
+    "plural": "die Kekse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Keks",
+        "genitiv": "des Kekses",
+        "dativ": "dem Keks",
+        "akkusativ": "den Keks"
+      },
+      "plural": {
+        "nominativ": "die Kekse",
+        "genitiv": "der Kekse",
+        "dativ": "den Keksen",
+        "akkusativ": "die Kekse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kecks",
+    "Kekss",
+    "Käks",
+    "Kähks",
+    "Geks"
+  ]
+}

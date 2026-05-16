@@ -1,0 +1,81 @@
+{
+  "lemma": "Wehr",
+  "wortart": "Nomen",
+  "silben": "Wehr",
+  "begriffserklaerung": "Ein Wehr ist eine kleine Mauer oder ein Damm, der quer über einen Fluss oder Bach gebaut wird. Er staut das Wasser auf und hält es zurück.",
+  "beispielsatz": "Am Wehr hören wir das Wasser laut rauschen.",
+  "rechtschreibstrategie": "Das Wort „Wehr\" endet auf „-ehr\" – das h ist ein Dehnungs-h, das man nicht hört, aber schreiben muss. Denk an: „mehr\", „sehr\" – alle haben ein stilles h!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wehr"
+  ],
+  "bild_datei": "Wehr.webp",
+  "audio_datei": "Wehr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weir"
+    },
+    {
+      "language_code": "fr",
+      "translation": "barrage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bent"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سد صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Damm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stausee"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wehr",
+    "plural": "die Wehre",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wehr",
+        "genitiv": "des Wehres",
+        "dativ": "dem Wehr",
+        "akkusativ": "das Wehr"
+      },
+      "plural": {
+        "nominativ": "die Wehre",
+        "genitiv": "der Wehre",
+        "dativ": "den Wehren",
+        "akkusativ": "die Wehre"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wer",
+    "Vehr",
+    "Were",
+    "Weehr"
+  ]
+}

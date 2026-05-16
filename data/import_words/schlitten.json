@@ -1,0 +1,81 @@
+{
+  "lemma": "Schlitten",
+  "wortart": "Nomen",
+  "silben": "Schlit-ten",
+  "begriffserklaerung": "Ein Schlitten ist ein Fahrzeug ohne Räder, das auf Kufen über Schnee und Eis gleitet.",
+  "beispielsatz": "Im Winter fahren wir mit dem Schlitten den Hügel hinunter.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „t\": Schlit-ten. Sprich die Silben laut: „Schlit\" – „ten\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schlitt"
+  ],
+  "bild_datei": "Schlitten.webp",
+  "audio_datei": "Schlitten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sledge / sled"
+    },
+    {
+      "language_code": "fr",
+      "translation": "luge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kızak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زلاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlittern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlittschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rodel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlitten",
+    "plural": "die Schlitten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlitten",
+        "genitiv": "des Schlittens",
+        "dativ": "dem Schlitten",
+        "akkusativ": "den Schlitten"
+      },
+      "plural": {
+        "nominativ": "die Schlitten",
+        "genitiv": "der Schlitten",
+        "dativ": "den Schlitten",
+        "akkusativ": "die Schlitten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schliten",
+    "Schitten",
+    "Schlidten",
+    "Schlittten"
+  ]
+}

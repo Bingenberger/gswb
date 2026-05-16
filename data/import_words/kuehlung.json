@@ -1,0 +1,96 @@
+{
+  "lemma": "Kühlung",
+  "wortart": "Nomen",
+  "silben": "Küh-lung",
+  "begriffserklaerung": "Kühlung bedeutet, dass etwas kalt oder kühler gemacht wird. Eine Kühlung sorgt dafür, dass man sich erfrischt oder dass Lebensmittel frisch bleiben.",
+  "beispielsatz": "An heißen Sommertagen tut die Kühlung im Freibad richtig gut.",
+  "rechtschreibstrategie": "Das Wort „Kühlung\" hat ein langes „ü\" – es wird mit „üh\" geschrieben, weil das „h\" den Vokal dehnt. Denk daran: kühl → Kühlung!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kühl"
+  ],
+  "bild_datei": "Kühlung.webp",
+  "audio_datei": "Kühlung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kühlung",
+    "plural": "die Kühlungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kühlung",
+        "genitiv": "der Kühlung",
+        "dativ": "der Kühlung",
+        "akkusativ": "die Kühlung"
+      },
+      "plural": {
+        "nominativ": "die Kühlungen",
+        "genitiv": "der Kühlungen",
+        "dativ": "den Kühlungen",
+        "akkusativ": "die Kühlungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cooling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "refroidissement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğutma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تبريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kühl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kühlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kühlschrank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abkühlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erfrischung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Külung",
+    "Kühlung",
+    "Küelung",
+    "Küllung",
+    "Kuelung"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Virus",
+  "wortart": "Nomen",
+  "silben": "Vi-rus",
+  "begriffserklaerung": "Ein Virus ist ein winzig kleiner Krankheitserreger, den man nicht sehen kann. Viren können Menschen, Tiere und Pflanzen krank machen, zum Beispiel wenn man Schnupfen oder Grippe bekommt.",
+  "beispielsatz": "Der Arzt sagte, dass ein Virus meinen Husten verursacht hat.",
+  "rechtschreibstrategie": "Das Wort „Virus\" beginnt mit einem großen „V\" – schreib immer ein großes „V\" am Anfang, weil es ein Nomen ist. Das „V\" klingt wie ein „F\", aber man schreibt es mit „V\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Virus"
+  ],
+  "bild_datei": "Virus.webp",
+  "audio_datei": "Virus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "virus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "virus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "virüs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيروس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "viral"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bakterium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Infektion"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "der Virus",
+    "plural": "die Viren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Virus",
+        "genitiv": "des Virus",
+        "dativ": "dem Virus",
+        "akkusativ": "den Virus"
+      },
+      "plural": {
+        "nominativ": "die Viren",
+        "genitiv": "der Viren",
+        "dativ": "den Viren",
+        "akkusativ": "die Viren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Firus",
+    "Wirus",
+    "Viruß",
+    "Virrus",
+    "Vihrus"
+  ]
+}

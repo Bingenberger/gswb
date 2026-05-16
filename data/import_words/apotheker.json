@@ -1,0 +1,83 @@
+{
+  "lemma": "Apotheker",
+  "wortart": "Nomen",
+  "silben": "A-po-the-ker",
+  "begriffserklaerung": "Ein Apotheker ist ein Fachmann, der in einer Apotheke arbeitet. Er gibt Medikamente aus und erklärt, wie man sie richtig einnimmt.",
+  "beispielsatz": "Der Apotheker erklärt der Frau, wie sie die Tabletten nehmen soll.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: A – po – the – ker. Achte auf das „th\" in der Mitte – das schreibt man mit „th\", nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Apotheke"
+  ],
+  "bild_datei": "Apotheker.webp",
+  "audio_datei": "Apotheker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pharmacist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pharmacien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eczacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيدلاني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apotheke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apothekerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medikament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rezept"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Apotheker",
+    "plural": "die Apotheker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Apotheker",
+        "genitiv": "des Apothekers",
+        "dativ": "dem Apotheker",
+        "akkusativ": "den Apotheker"
+      },
+      "plural": {
+        "nominativ": "die Apotheker",
+        "genitiv": "der Apotheker",
+        "dativ": "den Apothekern",
+        "akkusativ": "die Apotheker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Apoteker",
+    "Appotheker",
+    "Apotheker",
+    "Apotheckar",
+    "Apothegker",
+    "Aphoteker"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lemma": "Batterie",
+  "wortart": "Nomen",
+  "silben": "Bat-te-rie",
+  "begriffserklaerung": "Eine Batterie speichert elektrische Energie und gibt sie an Geräte wie Taschenlampen oder Spielzeug ab.",
+  "beispielsatz": "Die Taschenlampe leuchtet nicht mehr, weil die Batterie leer ist.",
+  "rechtschreibstrategie": "Das Wort „Batterie\" hat ein Doppel-t in der Mitte: Bat-te-rie. Sprich es laut in Silben, dann hörst du das doppelte t!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Batterie.webp",
+  "audio_datei": "Batterie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "battery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "batterie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطارية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschenlampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ladegerät"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Batterie",
+    "plural": "die Batterien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Batterie",
+        "genitiv": "der Batterie",
+        "dativ": "der Batterie",
+        "akkusativ": "die Batterie"
+      },
+      "plural": {
+        "nominativ": "die Batterien",
+        "genitiv": "der Batterien",
+        "dativ": "den Batterien",
+        "akkusativ": "die Batterien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baterie",
+    "Battry",
+    "Bateri",
+    "Batterrie",
+    "Batterie"
+  ]
+}

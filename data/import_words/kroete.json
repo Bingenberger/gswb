@@ -1,0 +1,74 @@
+{
+  "lemma": "Kröte",
+  "wortart": "Nomen",
+  "silben": "Krö-te",
+  "begriffserklaerung": "Eine Kröte ist ein kleines Tier, das aussieht wie ein Frosch, aber eine warzige, trockene Haut hat. Kröten leben auf dem Land und kommen nur zum Laichen ans Wasser.",
+  "beispielsatz": "Im Garten haben wir eine Kröte unter einem feuchten Stein entdeckt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Krö – te. Denk an das Ö wie in „schön\". Am Ende schreibst du ein weiches -te.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kröte"
+  ],
+  "bild_datei": "Kröte.webp",
+  "audio_datei": "Kröte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toad"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crapaud"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kara kurbağası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضفدع البر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salamander"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lurche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kröte",
+    "plural": "die Kröten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kröte",
+        "genitiv": "der Kröte",
+        "dativ": "der Kröte",
+        "akkusativ": "die Kröte"
+      },
+      "plural": {
+        "nominativ": "die Kröten",
+        "genitiv": "der Kröten",
+        "dativ": "den Kröten",
+        "akkusativ": "die Kröten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kröhte",
+    "Crötе",
+    "Krööte",
+    "Krote",
+    "Kreute"
+  ]
+}

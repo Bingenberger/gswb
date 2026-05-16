@@ -1,0 +1,82 @@
+{
+  "lemma": "Boden",
+  "wortart": "Nomen",
+  "silben": "Bo-den",
+  "begriffserklaerung": "Der Boden ist die unterste Fläche, auf der wir stehen und gehen. Er kann aus Erde, Holz, Stein oder anderen Materialien bestehen.",
+  "beispielsatz": "Das Spielzeug liegt auf dem Boden.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Bo-den. Du hörst ein langes „o\", also schreibst du nur ein „d\" – kein Doppel-d!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Boden"
+  ],
+  "bild_datei": "Boden.webp",
+  "audio_datei": "Boden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "floor / ground"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sol / plancher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zemin / yer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرضية / تربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bodenlos"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bodenschatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußboden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fußboden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Boden",
+    "plural": "die Böden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Boden",
+        "genitiv": "des Bodens",
+        "dativ": "dem Boden",
+        "akkusativ": "den Boden"
+      },
+      "plural": {
+        "nominativ": "die Böden",
+        "genitiv": "der Böden",
+        "dativ": "den Böden",
+        "akkusativ": "die Böden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bodden",
+    "Booden",
+    "Boten",
+    "Bohden",
+    "Bodem"
+  ]
+}

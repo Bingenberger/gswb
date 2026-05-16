@@ -1,0 +1,86 @@
+{
+  "lemma": "Hunger",
+  "wortart": "Nomen",
+  "silben": "Hun-ger",
+  "begriffserklaerung": "Hunger ist das Gefühl, das du bekommst, wenn dein Bauch leer ist und du unbedingt etwas essen möchtest.",
+  "beispielsatz": "Nach dem langen Schultag hat Lena großen Hunger und freut sich auf das Mittagessen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Hun-ger. Das „u\" in der ersten Silbe ist kurz, deshalb kommt danach nur ein „n\" – merke dir: H-U-N-G-E-R.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hunger"
+  ],
+  "bild_datei": "Hunger.webp",
+  "audio_datei": "Hunger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hunger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faim"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hungrig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hungern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Appetit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Durst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sättigung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hunger",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hunger",
+        "genitiv": "des Hungers",
+        "dativ": "dem Hunger",
+        "akkusativ": "den Hunger"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hungar",
+    "Hungger",
+    "Honger",
+    "Hunjer",
+    "Hungern"
+  ]
+}

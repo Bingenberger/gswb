@@ -1,0 +1,90 @@
+{
+  "lemma": "Rat",
+  "wortart": "Nomen",
+  "silben": "Rat",
+  "begriffserklaerung": "Ein Rat ist ein Hinweis oder eine Idee, die jemand dir gibt, damit du weißt, was du tun kannst.",
+  "beispielsatz": "Meine Lehrerin gab mir einen guten Rat, wie ich die Aufgabe lösen kann.",
+  "rechtschreibstrategie": "Verlängere das Wort: Rat → Räte. Du hörst nur ein „t\" – also schreibst du auch nur ein „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "rat"
+  ],
+  "bild_datei": "Rat.webp",
+  "audio_datei": "Rat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "advice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conseil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavsiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نصيحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "raten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ratschlag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beratung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tipp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rat",
+    "plural": "die Räte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rat",
+        "genitiv": "des Rates",
+        "dativ": "dem Rat",
+        "akkusativ": "den Rat"
+      },
+      "plural": {
+        "nominativ": "die Räte",
+        "genitiv": "der Räte",
+        "dativ": "den Räten",
+        "akkusativ": "die Räte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ratt",
+    "Raht",
+    "rrat",
+    "Rath",
+    "Raat"
+  ]
+}

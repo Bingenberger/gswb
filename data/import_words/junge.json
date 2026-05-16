@@ -1,0 +1,86 @@
+{
+  "lemma": "Junge",
+  "wortart": "Nomen",
+  "silben": "Jun-ge",
+  "begriffserklaerung": "Ein Junge ist ein männliches Kind oder ein männlicher Jugendlicher.",
+  "beispielsatz": "Der Junge spielt mit seinem Freund im Park Fußball.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Jun-ge. Du hörst ein kurzes „u\" – danach kommt ein „n\" und ein „g\". Merke: Nach dem kurzen „u\" folgt kein Doppelbuchstabe, weil „ng\" zusammen für den Laut steht.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "jung"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Junge",
+    "plural": "die Jungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Junge",
+        "genitiv": "des Jungen",
+        "dativ": "dem Jungen",
+        "akkusativ": "den Jungen"
+      },
+      "plural": {
+        "nominativ": "die Jungen",
+        "genitiv": "der Jungen",
+        "dativ": "den Jungen",
+        "akkusativ": "die Jungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jungge",
+    "Yunge",
+    "Juge",
+    "Junke",
+    "Jungе"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "garçon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erkek çocuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وَلَد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mädchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüler"
+    }
+  ],
+  "bild_datei": "Junge.webp",
+  "audio_datei": "Junge.mp3"
+}

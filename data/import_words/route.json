@@ -1,0 +1,82 @@
+{
+  "lemma": "Route",
+  "wortart": "Nomen",
+  "silben": "Rou-te",
+  "begriffserklaerung": "Eine Route ist der Weg, den man plant, um von einem Ort zu einem anderen zu kommen.",
+  "beispielsatz": "Die Route zum Schwimmbad führt durch den Park.",
+  "rechtschreibstrategie": "Das Wort „Route\" kommt aus dem Französischen. Schreib es mit „ou\" in der Mitte – sprich es wie „Ru-te\", aber schreib das stumme „o\": R-o-u-t-e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "rout"
+  ],
+  "bild_datei": "Route.webp",
+  "audio_datei": "Route.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "route"
+    },
+    {
+      "language_code": "fr",
+      "translation": "route"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güzergah"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Route",
+    "plural": "die Routen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Route",
+        "genitiv": "der Route",
+        "dativ": "der Route",
+        "akkusativ": "die Route"
+      },
+      "plural": {
+        "nominativ": "die Routen",
+        "genitiv": "der Routen",
+        "dativ": "den Routen",
+        "akkusativ": "die Routen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rute",
+    "Roote",
+    "Roude",
+    "Ruote",
+    "Routen"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Fußballspieler",
+  "wortart": "Nomen",
+  "silben": "Fuß-ball-spie-ler",
+  "begriffserklaerung": "Ein Fußballspieler ist eine Person, die Fußball spielt – meistens in einer Mannschaft zusammen mit anderen Spielern.",
+  "beispielsatz": "Der Fußballspieler schießt den Ball ins Tor.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Fuß\" + „Ball\" + „Spieler\". Denk daran: „Fuß\" schreibt man mit ß, und „Ball\" hat ein Doppel-l.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Ball",
+    "Spiel"
+  ],
+  "bild_datei": "Fußballspieler.webp",
+  "audio_datei": "Fußballspieler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußballspieler",
+    "plural": "die Fußballspieler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußballspieler",
+        "genitiv": "des Fußballspielers",
+        "dativ": "dem Fußballspieler",
+        "akkusativ": "den Fußballspieler"
+      },
+      "plural": {
+        "nominativ": "die Fußballspieler",
+        "genitiv": "der Fußballspieler",
+        "dativ": "den Fußballspielern",
+        "akkusativ": "die Fußballspieler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "football player / soccer player"
+    },
+    {
+      "language_code": "fr",
+      "translation": "joueur de football"
+    },
+    {
+      "language_code": "tr",
+      "translation": "futbolcu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لاعب كرة القدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kicker"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fussballspieler",
+    "Fußballspiler",
+    "Fußballspeiler",
+    "Fußballspieeler",
+    "Fußballspieller",
+    "Fußballspieler",
+    "Fußbalspieler"
+  ]
+}

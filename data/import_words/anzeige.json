@@ -1,0 +1,87 @@
+{
+  "lemma": "Anzeige",
+  "wortart": "Nomen",
+  "silben": "An-zei-ge",
+  "begriffserklaerung": "Eine Anzeige ist eine Mitteilung oder Meldung, zum Beispiel in der Zeitung, im Internet oder bei der Polizei.",
+  "beispielsatz": "Meine Mutter hat eine Anzeige in der Zeitung aufgegeben, weil unser Hund wegelaufen ist.",
+  "rechtschreibstrategie": "Schreibe „Anzeige\" mit „ei\" in der Mitte – denke an das Wort „zeigen\", das steckt darin drin!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "zeig"
+  ],
+  "bild_datei": "Anzeige.webp",
+  "audio_datei": "Anzeige.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "advertisement / report"
+    },
+    {
+      "language_code": "fr",
+      "translation": "annonce / signalement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilan / ihbar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إعلان / بلاغ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anzeigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bekanntmachung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werbung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meldung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anzeige",
+    "plural": "die Anzeigen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anzeige",
+        "genitiv": "der Anzeige",
+        "dativ": "der Anzeige",
+        "akkusativ": "die Anzeige"
+      },
+      "plural": {
+        "nominativ": "die Anzeigen",
+        "genitiv": "der Anzeigen",
+        "dativ": "den Anzeigen",
+        "akkusativ": "die Anzeigen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Anzeige",
+    "Anzaige",
+    "Anzeigge",
+    "Anzige",
+    "Anzeiche"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Fußball",
+  "wortart": "Nomen",
+  "silben": "Fuß-ball",
+  "begriffserklaerung": "Ein Fußball ist ein runder Ball, mit dem man Fußball spielt. Er wird mit dem Fuß geschossen.",
+  "beispielsatz": "Tim schießt den Fußball ins Tor.",
+  "rechtschreibstrategie": "Das Wort „Fußball\" besteht aus zwei Teilen: „Fuß\" und „Ball\". „Fuß\" schreibt man mit ß, weil der Vokal „u\" lang gesprochen wird. „Ball\" schreibt man mit doppeltem „l\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Ball"
+  ],
+  "bild_datei": "Fußball.webp",
+  "audio_datei": "Fußball.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußball",
+    "plural": "die Fußbälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußball",
+        "genitiv": "des Fußballs",
+        "dativ": "dem Fußball",
+        "akkusativ": "den Fußball"
+      },
+      "plural": {
+        "nominativ": "die Fußbälle",
+        "genitiv": "der Fußbälle",
+        "dativ": "den Fußbällen",
+        "akkusativ": "die Fußbälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "football / soccer ball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ballon de football"
+    },
+    {
+      "language_code": "tr",
+      "translation": "futbol topu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة القدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiedsrichter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fussball",
+    "Fußbal",
+    "Fußball",
+    "Fusbball",
+    "Fußbahl"
+  ]
+}

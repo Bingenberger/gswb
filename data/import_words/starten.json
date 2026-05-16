@@ -1,0 +1,98 @@
+{
+  "lemma": "starten",
+  "wortart": "Verb",
+  "silben": "star-ten",
+  "begriffserklaerung": "Etwas starten bedeutet, dass man etwas beginnt oder losfährt – zum Beispiel ein Rennen, ein Spiel oder ein Flugzeug.",
+  "beispielsatz": "Das Raumschiff startet heute um zehn Uhr.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: star-ten. Du hörst ein kurzes „a\" – danach folgt ein „r\" und kein Doppelkonsonant. Merke: star-ten schreibt man genau so, wie man es spricht.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "start"
+  ],
+  "bild_datei": "starten.webp",
+  "audio_datei": "starten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to start"
+    },
+    {
+      "language_code": "fr",
+      "translation": "démarrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "başlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبدأ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Start"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Starter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beginnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "losgehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "landen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fliegen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "starten",
+    "praesens": {
+      "ich": "starte",
+      "du": "startest",
+      "er_sie_es": "startet",
+      "wir": "starten",
+      "ihr": "startet",
+      "sie": "starten"
+    },
+    "perfekt": {
+      "ich": "bin gestartet",
+      "du": "bist gestartet",
+      "er_sie_es": "ist gestartet",
+      "wir": "sind gestartet",
+      "ihr": "seid gestartet",
+      "sie": "sind gestartet"
+    },
+    "praeteritum": {
+      "ich": "startete",
+      "du": "startetes",
+      "er_sie_es": "startete",
+      "wir": "starteten",
+      "ihr": "startetet",
+      "sie": "starteten"
+    }
+  },
+  "fehlschreibungen": [
+    "starden",
+    "shtarten",
+    "startten",
+    "staren",
+    "starthen"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Lehrling",
+  "wortart": "Nomen",
+  "silben": "Lehr-ling",
+  "begriffserklaerung": "Ein Lehrling ist jemand, der einen Beruf lernt und dabei von erfahrenen Fachleuten unterrichtet wird.",
+  "beispielsatz": "Der Lehrling übt jeden Tag in der Werkstatt, um ein guter Schreiner zu werden.",
+  "rechtschreibstrategie": "Denk an das Wort „lehren\" – daraus kommt „Lehr-ling\". Das Dehnungs-h nach dem „e\" hilft dir, das Wort richtig zu schreiben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "Lehrling.webp",
+  "audio_datei": "Lehrling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lehrling",
+    "plural": "die Lehrlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lehrling",
+        "genitiv": "des Lehrlings",
+        "dativ": "dem Lehrling",
+        "akkusativ": "den Lehrling"
+      },
+      "plural": {
+        "nominativ": "die Lehrlinge",
+        "genitiv": "der Lehrlinge",
+        "dativ": "den Lehrlingen",
+        "akkusativ": "die Lehrlinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apprentice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apprenti"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çırak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متدرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auszubildende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausbildung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lehrlink",
+    "Lerling",
+    "Lärling",
+    "Lehreling",
+    "Lernling"
+  ]
+}

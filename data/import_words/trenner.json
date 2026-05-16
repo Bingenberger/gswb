@@ -1,0 +1,83 @@
+{
+  "lemma": "Trenner",
+  "wortart": "Nomen",
+  "silben": "Tren-ner",
+  "begriffserklaerung": "Ein Trenner ist etwas, das zwei Dinge voneinander trennt oder auseinanderhält – zum Beispiel ein buntes Papier zwischen Heften oder Ordnern.",
+  "beispielsatz": "Lisa steckt einen bunten Trenner zwischen ihre Schulhefte, damit sie alles schnell wiederfindet.",
+  "rechtschreibstrategie": "Das Wort „Trenner\" kommt von „trennen\". Da das „e\" kurz gesprochen wird, schreibt man zwei „n\" – genau wie bei „trennen\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "trenn"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trenner",
+    "plural": "die Trenner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trenner",
+        "genitiv": "des Trenners",
+        "dativ": "dem Trenner",
+        "akkusativ": "den Trenner"
+      },
+      "plural": {
+        "nominativ": "die Trenner",
+        "genitiv": "der Trenner",
+        "dativ": "den Trennern",
+        "akkusativ": "die Trenner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trener",
+    "Trenner",
+    "Tränner",
+    "Drenner",
+    "Trennner"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "divider / separator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "séparateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayırıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فاصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trennblatt"
+    }
+  ],
+  "bild_datei": "Trenner.webp",
+  "audio_datei": "Trenner.mp3"
+}

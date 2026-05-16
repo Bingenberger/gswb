@@ -1,0 +1,84 @@
+{
+  "lemma": "Öllampe",
+  "wortart": "Nomen",
+  "silben": "Öl-lam-pe",
+  "begriffserklaerung": "Eine Öllampe ist eine Lampe, die mit Öl betrieben wird. Das Öl brennt und gibt Licht. Früher hatten viele Menschen keine elektrischen Lampen und nutzten Öllampen.",
+  "beispielsatz": "Die alte Öllampe auf dem Tisch leuchtete warm und gemütlich.",
+  "rechtschreibstrategie": "Das Wort „Öllampe\" besteht aus zwei Teilen: „Öl\" und „Lampe\". Weil „Öl\" auf einen Mitlaut endet und „Lampe\" mit einem „l\" beginnt, entstehen zwei „l\" hintereinander: Öl-lampe. Sprich beide Wortteile einzeln, dann schreibst du sie richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Öl",
+    "Lampe"
+  ],
+  "bild_datei": "Öllampe.webp",
+  "audio_datei": "Öllampe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Öllampe",
+    "plural": "die Öllampen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Öllampe",
+        "genitiv": "der Öllampe",
+        "dativ": "der Öllampe",
+        "akkusativ": "die Öllampe"
+      },
+      "plural": {
+        "nominativ": "die Öllampen",
+        "genitiv": "der Öllampen",
+        "dativ": "den Öllampen",
+        "akkusativ": "die Öllampen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oil lamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lampe à huile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağ lambası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح زيتي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Öl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fackel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laterne"
+    }
+  ],
+  "fehlschreibungen": [
+    "Öhllampe",
+    "Ölllampe",
+    "Ölampe",
+    "Oellampe",
+    "Öllamppe",
+    "Öllampе"
+  ]
+}

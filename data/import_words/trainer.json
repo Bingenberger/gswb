@@ -1,0 +1,87 @@
+{
+  "lemma": "Trainer",
+  "wortart": "Nomen",
+  "silben": "Trai-ner",
+  "begriffserklaerung": "Ein Trainer ist eine Person, die anderen Menschen beibringt, wie sie einen Sport besser machen oder eine Fähigkeit verbessern können.",
+  "beispielsatz": "Unser Trainer zeigt uns beim Fußballtraining neue Tricks.",
+  "rechtschreibstrategie": "Das Wort „Trainer\" kommt aus dem Englischen. Das „ai\" spricht man wie ein langes „ä\" – denk daran, beide Buchstaben zu schreiben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "trainieren",
+    "Training"
+  ],
+  "bild_datei": "Trainer.webp",
+  "audio_datei": "Trainer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trainer",
+    "plural": "die Trainer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trainer",
+        "genitiv": "des Trainers",
+        "dativ": "dem Trainer",
+        "akkusativ": "den Trainer"
+      },
+      "plural": {
+        "nominativ": "die Trainer",
+        "genitiv": "der Trainer",
+        "dativ": "den Trainern",
+        "akkusativ": "die Trainer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trainer / coach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "entraîneur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "antrenör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trainieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Training"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Coach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Treiner",
+    "Trainer",
+    "Trayner",
+    "Trainner",
+    "Trainier"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Umwelt",
+  "wortart": "Nomen",
+  "silben": "Um-welt",
+  "begriffserklaerung": "Die Umwelt ist alles, was uns umgibt: Luft, Wasser, Boden, Tiere und Pflanzen. Wir müssen sie schützen, damit es uns und allen Lebewesen gut geht.",
+  "beispielsatz": "Wir müssen die Umwelt schützen, damit Tiere und Pflanzen gesund bleiben.",
+  "rechtschreibstrategie": "„Umwelt\" besteht aus zwei Teilen: „um\" und „Welt\". Sprich beide Bausteine laut: um – Welt. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Welt",
+    "um"
+  ],
+  "bild_datei": "Umwelt.webp",
+  "audio_datei": "Umwelt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "environment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "environnement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çevre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيئة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Welt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Umweltschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klima"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Natur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Umwelt",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Umwelt",
+        "genitiv": "der Umwelt",
+        "dativ": "der Umwelt",
+        "akkusativ": "die Umwelt"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Umwellt",
+    "Umvelt",
+    "Umweldt",
+    "Umweltt",
+    "Umwäld"
+  ]
+}

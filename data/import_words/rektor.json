@@ -1,0 +1,73 @@
+{
+  "lemma": "Rektor",
+  "wortart": "Nomen",
+  "silben": "Rek-tor",
+  "begriffserklaerung": "Der Rektor ist der Chef einer Schule. Er kümmert sich darum, dass alles an der Schule gut läuft.",
+  "beispielsatz": "Der Rektor begrüßt alle Kinder am ersten Schultag.",
+  "rechtschreibstrategie": "Denk an das kurze „e\" am Anfang: Rek- wird mit „ck\" geschrieben, weil der Vokal kurz ist.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Rektor.webp",
+  "audio_datei": "Rektor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "principal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "directeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul müdürü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدير المدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulleiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rektor",
+    "plural": "die Rektoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rektor",
+        "genitiv": "des Rektors",
+        "dativ": "dem Rektor",
+        "akkusativ": "den Rektor"
+      },
+      "plural": {
+        "nominativ": "die Rektoren",
+        "genitiv": "der Rektoren",
+        "dativ": "den Rektoren",
+        "akkusativ": "die Rektoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rector",
+    "Retor",
+    "Recktor",
+    "Rekhtor",
+    "Rehktor"
+  ]
+}

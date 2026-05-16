@@ -1,0 +1,88 @@
+{
+  "lemma": "Wohnung",
+  "wortart": "Nomen",
+  "silben": "Woh-nung",
+  "begriffserklaerung": "Eine Wohnung ist ein Zuhause in einem Gebäude, wo Menschen leben, schlafen und essen.",
+  "beispielsatz": "Unsere Wohnung ist im dritten Stock und hat einen Balkon.",
+  "rechtschreibstrategie": "Denke an das Wort „wohnen\" – daraus wird „Wohnung\". Das Dehnungs-h nach dem „o\" bleibt erhalten!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wohn"
+  ],
+  "bild_datei": "Wohnung.webp",
+  "audio_datei": "Wohnung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wohnung",
+    "plural": "die Wohnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wohnung",
+        "genitiv": "der Wohnung",
+        "dativ": "der Wohnung",
+        "akkusativ": "die Wohnung"
+      },
+      "plural": {
+        "nominativ": "die Wohnungen",
+        "genitiv": "der Wohnungen",
+        "dativ": "den Wohnungen",
+        "akkusativ": "die Wohnungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apartment / flat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appartement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "daire"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuhause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Miete"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wonung",
+    "Wohnunk",
+    "Vonug",
+    "Wohnnug",
+    "Wonnung"
+  ]
+}

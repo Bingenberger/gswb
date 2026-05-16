@@ -1,0 +1,72 @@
+{
+  "lemma": "Gemüse",
+  "wortart": "Nomen",
+  "silben": "Ge-mü-se",
+  "begriffserklaerung": "Gemüse sind Pflanzen oder Pflanzenteile, die wir als Nahrung essen. Dazu gehören zum Beispiel Karotten, Erbsen, Gurken und Tomaten.",
+  "beispielsatz": "Auf dem Markt kauft Mama frisches Gemüse für die Suppe.",
+  "rechtschreibstrategie": "Am Anfang steht die Vorsilbe „Ge-\". Sprich das Wort laut in Silben: Ge-mü-se. Das ü in der Mitte hörst du beim Sprechen deutlich – denk daran, es auch so zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gemüse.webp",
+  "audio_datei": "Gemüse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vegetable(s)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "légume(s)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sebze"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خضروات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karotte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gemüse",
+    "plural": "die Gemüse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gemüse",
+        "genitiv": "des Gemüses",
+        "dativ": "dem Gemüse",
+        "akkusativ": "das Gemüse"
+      },
+      "plural": {
+        "nominativ": "die Gemüse",
+        "genitiv": "der Gemüse",
+        "dativ": "den Gemüsen",
+        "akkusativ": "die Gemüse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gemüße",
+    "Gemüsse",
+    "Gemuse",
+    "Gemuese",
+    "Gemüze"
+  ]
+}

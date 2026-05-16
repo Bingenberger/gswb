@@ -1,0 +1,87 @@
+{
+  "lemma": "Stiege",
+  "wortart": "Nomen",
+  "silben": "Stie-ge",
+  "begriffserklaerung": "Eine Stiege ist eine Treppe, über die man von einer Etage zur anderen steigen kann.",
+  "beispielsatz": "Vorsicht auf der Stiege – halte dich am Geländer fest!",
+  "rechtschreibstrategie": "In „Stiege\" steckt das lange „i\", das mit „ie\" geschrieben wird. Denke daran: Das „ie\" klingt lang, wie in „Tier\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "steig"
+  ],
+  "bild_datei": "Stiege.webp",
+  "audio_datei": "Stiege.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "staircase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "escalier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merdiven"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stufe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geländer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stiege",
+    "plural": "die Stiegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stiege",
+        "genitiv": "der Stiege",
+        "dativ": "der Stiege",
+        "akkusativ": "die Stiege"
+      },
+      "plural": {
+        "nominativ": "die Stiegen",
+        "genitiv": "der Stiegen",
+        "dativ": "den Stiegen",
+        "akkusativ": "die Stiegen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stige",
+    "Stiege",
+    "Stihge",
+    "Stihege",
+    "Stiegge",
+    "Stiäge"
+  ]
+}

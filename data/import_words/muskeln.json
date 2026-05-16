@@ -1,0 +1,79 @@
+{
+  "lemma": "Muskeln",
+  "wortart": "Nomen",
+  "silben": "Mus-keln",
+  "begriffserklaerung": "Muskeln sind Teile deines Körpers, die sich zusammenziehen und wieder ausdehnen können. Damit kannst du dich bewegen, heben und laufen.",
+  "beispielsatz": "Wenn du viel Sport machst, werden deine Muskeln stark und kräftig.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mus-keln. Nach dem kurzen „u\" kommt ein „sk\" – das klingt deutlich. Denk an den Singular: der Muskel!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Muskel"
+  ],
+  "bild_datei": "Muskeln.webp",
+  "audio_datei": "Muskeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "muscles"
+    },
+    {
+      "language_code": "fr",
+      "translation": "muscles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaslar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عضلات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Muskel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "muskulös"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Muskel",
+    "plural": "die Muskeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Muskel",
+        "genitiv": "des Muskels",
+        "dativ": "dem Muskel",
+        "akkusativ": "den Muskel"
+      },
+      "plural": {
+        "nominativ": "die Muskeln",
+        "genitiv": "der Muskeln",
+        "dativ": "den Muskeln",
+        "akkusativ": "die Muskeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Muskeln",
+    "Musklen"
+  ]
+}

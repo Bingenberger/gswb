@@ -1,0 +1,73 @@
+{
+  "lemma": "T-Shirt",
+  "wortart": "Nomen",
+  "silben": "T-Shirt",
+  "begriffserklaerung": "Ein T-Shirt ist ein leichtes Oberteil aus Stoff, das kurze Ärmel hat und vorne oft bunt oder bedruckt ist.",
+  "beispielsatz": "Im Sommer trage ich am liebsten mein rotes T-Shirt.",
+  "rechtschreibstrategie": "T-Shirt kommt aus dem Englischen. Das Wort schreibt man immer mit Bindestrich und großem T und großem S. Merke es dir einfach so, wie es aussieht!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "T-Shirt.webp",
+  "audio_datei": "T-Shirt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "T-shirt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "T-shirt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tişört"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تي شيرت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pullover"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hemd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das T-Shirt",
+    "plural": "die T-Shirts",
+    "deklination": {
+      "singular": {
+        "nominativ": "das T-Shirt",
+        "genitiv": "des T-Shirts",
+        "dativ": "dem T-Shirt",
+        "akkusativ": "das T-Shirt"
+      },
+      "plural": {
+        "nominativ": "die T-Shirts",
+        "genitiv": "der T-Shirts",
+        "dativ": "den T-Shirts",
+        "akkusativ": "die T-Shirts"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tischirt",
+    "T-Schirt",
+    "Tishirt",
+    "Ti-Shirt",
+    "T Shirt",
+    "Tschirt"
+  ]
+}

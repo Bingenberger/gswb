@@ -1,0 +1,80 @@
+{
+  "lemma": "Johannisbeere",
+  "wortart": "Nomen",
+  "silben": "Jo-han-nis-bee-re",
+  "begriffserklaerung": "Die Johannisbeere ist eine kleine, runde Beere, die an Sträuchern wächst. Sie kann rot, schwarz oder weiß sein und schmeckt säuerlich-süß.",
+  "beispielsatz": "Mama pflückt rote Johannisbeeren aus dem Garten und macht daraus leckere Marmelade.",
+  "rechtschreibstrategie": "Das Wort „Johannisbeere\" ist ein langes Zusammensetzungswort. Es stecken zwei Teile drin: „Johannis\" (ein Name) und „Beere\". Sprich es in Silben: Jo-han-nis-bee-re. Achte auf das Dehnungs-e in „Bee-re\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere"
+  ],
+  "bild_datei": "Johannisbeere.webp",
+  "audio_datei": "Johannisbeere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Johannisbeere",
+    "plural": "die Johannisbeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Johannisbeere",
+        "genitiv": "der Johannisbeere",
+        "dativ": "der Johannisbeere",
+        "akkusativ": "die Johannisbeere"
+      },
+      "plural": {
+        "nominativ": "die Johannisbeeren",
+        "genitiv": "der Johannisbeeren",
+        "dativ": "den Johannisbeeren",
+        "akkusativ": "die Johannisbeeren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "currant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "groseille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "frenk üzümü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كشمش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stachelbeere"
+    }
+  ],
+  "fehlschreibungen": [
+    "Johannissbere",
+    "Johannisbeerre",
+    "Johanisbeere",
+    "Johannißbeere",
+    "Johannisbeehre",
+    "Johannisbere"
+  ]
+}

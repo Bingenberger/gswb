@@ -1,0 +1,94 @@
+{
+  "lemma": "bekommen",
+  "wortart": "Verb",
+  "silben": "be-kom-men",
+  "begriffserklaerung": "Wenn du etwas bekommst, wird es dir gegeben oder es gelangt zu dir.",
+  "beispielsatz": "Zu meinem Geburtstag bekomme ich ein Fahrrad.",
+  "rechtschreibstrategie": "Das Wort „bekommen\" hat zwei m, weil der Vokal o kurz gesprochen wird: be-kom-men. Sprich es langsam in Silben, dann hörst du das Doppel-m!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bekommen",
+    "praesens": {
+      "ich": "bekomme",
+      "du": "bekommst",
+      "er_sie_es": "bekommt",
+      "wir": "bekommen",
+      "ihr": "bekommt",
+      "sie": "bekommen"
+    },
+    "perfekt": {
+      "ich": "habe bekommen",
+      "du": "hast bekommen",
+      "er_sie_es": "hat bekommen",
+      "wir": "haben bekommen",
+      "ihr": "habt bekommen",
+      "sie": "haben bekommen"
+    },
+    "praeteritum": {
+      "ich": "bekam",
+      "du": "bekamst",
+      "er_sie_es": "bekam",
+      "wir": "bekamen",
+      "ihr": "bekamt",
+      "sie": "bekamen"
+    }
+  },
+  "wortfamilie_basen": [
+    "kommen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kommen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ankommen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erhalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kriegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schenken"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to get / to receive"
+    },
+    {
+      "language_code": "fr",
+      "translation": "recevoir / obtenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحصل على"
+    }
+  ],
+  "fehlschreibungen": [
+    "bekomnen",
+    "bekomem",
+    "bekommem",
+    "bekommt",
+    "bekomen"
+  ],
+  "bild_datei": "bekommen.webp",
+  "audio_datei": "bekommen.mp3"
+}

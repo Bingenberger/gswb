@@ -1,0 +1,72 @@
+{
+  "lemma": "Küste",
+  "wortart": "Nomen",
+  "silben": "Küs-te",
+  "begriffserklaerung": "Die Küste ist der Streifen Land, der direkt am Meer liegt. Dort treffen das Wasser und das Land aufeinander.",
+  "beispielsatz": "Wir bauen an der Küste eine große Sandburg.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Küs-te. Nach dem kurzen „ü\" kommt ein „s\" – merke dir: kein Doppel-s, aber das „ü\" hat einen Umlaut-Punkt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Küste.webp",
+  "audio_datei": "Küste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coast"
+    },
+    {
+      "language_code": "fr",
+      "translation": "côte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıyı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساحل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Küste",
+    "plural": "die Küsten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Küste",
+        "genitiv": "der Küste",
+        "dativ": "der Küste",
+        "akkusativ": "die Küste"
+      },
+      "plural": {
+        "nominativ": "die Küsten",
+        "genitiv": "der Küsten",
+        "dativ": "den Küsten",
+        "akkusativ": "die Küsten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Küste",
+    "Küsste",
+    "Kuste",
+    "Küßte",
+    "Küsde"
+  ]
+}

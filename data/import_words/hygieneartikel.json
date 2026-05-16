@@ -1,0 +1,80 @@
+{
+  "lemma": "Hygieneartikel",
+  "wortart": "Nomen",
+  "silben": "Hy-gi-e-ne-ar-ti-kel",
+  "begriffserklaerung": "Hygieneartikel sind Dinge, die du brauchst, um sauber und gesund zu bleiben – zum Beispiel Seife, Zahnbürste oder Shampoo.",
+  "beispielsatz": "Mama kauft im Drogeriemarkt neue Hygieneartikel wie Zahnpasta und Seife.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Hygiene\" und „Artikel\". Denk daran, dass „Hygiene\" mit H-y beginnt und das „y\" wie ein „ü\" klingt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Hygiene",
+    "Artikel"
+  ],
+  "bild_datei": "Hygieneartikel.webp",
+  "audio_datei": "Hygieneartikel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hygieneartikel",
+    "plural": "die Hygieneartikel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hygieneartikel",
+        "genitiv": "des Hygieneartikels",
+        "dativ": "dem Hygieneartikel",
+        "akkusativ": "den Hygieneartikel"
+      },
+      "plural": {
+        "nominativ": "die Hygieneartikel",
+        "genitiv": "der Hygieneartikel",
+        "dativ": "den Hygieneartikeln",
+        "akkusativ": "die Hygieneartikel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hygiene product"
+    },
+    {
+      "language_code": "fr",
+      "translation": "article d'hygiène"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hijyen ürünü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستلزمات النظافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hygiene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Shampoo"
+    }
+  ],
+  "fehlschreibungen": [
+    "Higieneartikel",
+    "Hygieneartigel",
+    "Hygieneartiekel",
+    "Hygiennartikel",
+    "Hügieneartikel"
+  ]
+}

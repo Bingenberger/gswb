@@ -1,0 +1,98 @@
+{
+  "lemma": "rollen",
+  "wortart": "Verb",
+  "silben": "rol-len",
+  "begriffserklaerung": "Wenn sich etwas dreht und dabei vorwärtsbewegt, rollt es. Zum Beispiel rollt ein Ball über den Boden.",
+  "beispielsatz": "Der runde Ball rollt schnell die Straße hinunter.",
+  "rechtschreibstrategie": "Das Wort „rollen\" hat ein kurzes „o\", deshalb wird das „l\" verdoppelt: rol-len.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll"
+  ],
+  "bild_datei": "rollen.webp",
+  "audio_datei": "rollen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "rollen",
+    "praesens": {
+      "ich": "rolle",
+      "du": "rollst",
+      "er_sie_es": "rollt",
+      "wir": "rollen",
+      "ihr": "rollt",
+      "sie": "rollen"
+    },
+    "perfekt": {
+      "ich": "bin gerollt",
+      "du": "bist gerollt",
+      "er_sie_es": "ist gerollt",
+      "wir": "sind gerollt",
+      "ihr": "seid gerollt",
+      "sie": "sind gerollt"
+    },
+    "praeteritum": {
+      "ich": "rollte",
+      "du": "rolltest",
+      "er_sie_es": "rollte",
+      "wir": "rollten",
+      "ihr": "rolltet",
+      "sie": "rollten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to roll"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rouler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yuvarlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتدحرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rolle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausrollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Roller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kullern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gleiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rutschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "drehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "rolen",
+    "roln",
+    "rollen",
+    "rolln",
+    "rolllen"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Note",
+  "wortart": "Nomen",
+  "silben": "No-te",
+  "begriffserklaerung": "Eine Note ist eine Zahl oder ein Zeichen, das zeigt, wie gut jemand etwas in der Schule gemacht hat. In Deutschland sind die Noten 1 (sehr gut) bis 6 (ungenügend). Das Wort „Note\" kann auch ein Zeichen in der Musik bedeuten, das angibt, welchen Ton man spielen oder singen soll.",
+  "beispielsatz": "Lena hat in der Mathearbeit eine gute Note bekommen.",
+  "rechtschreibstrategie": "Das Wort „Note\" endet auf ein weiches „e\". Sprich es laut: „No-te\" – zwei Silben. Das „o\" ist lang, darum schreibst du nur ein „t\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "not"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Note",
+    "plural": "die Noten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Note",
+        "genitiv": "der Note",
+        "dativ": "der Note",
+        "akkusativ": "die Note"
+      },
+      "plural": {
+        "nominativ": "die Noten",
+        "genitiv": "der Noten",
+        "dativ": "den Noten",
+        "akkusativ": "die Noten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Noote",
+    "Notte",
+    "Nodte",
+    "Nohte",
+    "Noete"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "benoten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Benotung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeugnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schularbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zensur"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grade / note"
+    },
+    {
+      "language_code": "fr",
+      "translation": "note"
+    },
+    {
+      "language_code": "tr",
+      "translation": "not"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درجة / نوتة موسيقية"
+    }
+  ],
+  "bild_datei": "Note.webp",
+  "audio_datei": "Note.mp3"
+}

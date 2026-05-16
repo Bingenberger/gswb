@@ -1,0 +1,99 @@
+{
+  "lemma": "fahren",
+  "wortart": "Verb",
+  "silben": "fah-ren",
+  "begriffserklaerung": "Sich mit einem Fahrzeug, zum Beispiel einem Auto, einem Fahrrad oder einem Bus, von einem Ort zu einem anderen bewegen.",
+  "beispielsatz": "Wir fahren mit dem Bus in die Schule.",
+  "rechtschreibstrategie": "Das „ah\" in „fahren\" spricht man lang. Merke: Nach einem langen Vokal schreibt man manchmal ein stilles „h\" – das nennt man Dehnungs-h!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "fahren.webp",
+  "audio_datei": "fahren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "fahren",
+    "praesens": {
+      "ich": "fahre",
+      "du": "fährst",
+      "er_sie_es": "fährt",
+      "wir": "fahren",
+      "ihr": "fahrt",
+      "sie": "fahren"
+    },
+    "perfekt": {
+      "ich": "bin gefahren",
+      "du": "bist gefahren",
+      "er_sie_es": "ist gefahren",
+      "wir": "sind gefahren",
+      "ihr": "seid gefahren",
+      "sie": "sind gefahren"
+    },
+    "praeteritum": {
+      "ich": "fuhr",
+      "du": "fuhrst",
+      "er_sie_es": "fuhr",
+      "wir": "fuhren",
+      "ihr": "fuhrt",
+      "sie": "fuhren"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to drive / to ride"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conduire / aller (en véhicule)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gitmek / sürmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسافر / يقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    }
+  ],
+  "fehlschreibungen": [
+    "faren",
+    "fahern",
+    "fahren",
+    "fährn",
+    "farhen",
+    "vahren"
+  ]
+}

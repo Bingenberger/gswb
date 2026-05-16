@@ -1,0 +1,84 @@
+{
+  "lemma": "Tote Winkel",
+  "wortart": "Nomen",
+  "silben": "To-te Win-kel",
+  "begriffserklaerung": "Ein toter Winkel ist ein Bereich, den man von einem bestimmten Platz aus nicht sehen kann – zum Beispiel der Bereich neben einem großen Auto oder Lastwagen, den der Fahrer im Spiegel nicht sieht.",
+  "beispielsatz": "Fahrradfahrer sollten aufpassen, wenn sie neben einem Lastwagen fahren, denn dort gibt es einen toten Winkel.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus zwei Teilen zusammen: „tot\" und „Winkel\". Den zweiten Teil kannst du verlängern: Win-kel – das k bleibt! Bei „tot\" hörst du das kurze o, deshalb steht danach ein t.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tot",
+    "Winkel"
+  ],
+  "bild_datei": "Tote Winkel.webp",
+  "audio_datei": "Tote Winkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blind spots"
+    },
+    {
+      "language_code": "fr",
+      "translation": "angles morts"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kör noktalar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "البقع العمياء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Winkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sicherheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blinder Fleck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der tote Winkel",
+    "plural": "die toten Winkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der tote Winkel",
+        "genitiv": "des toten Winkels",
+        "dativ": "dem toten Winkel",
+        "akkusativ": "den toten Winkel"
+      },
+      "plural": {
+        "nominativ": "die toten Winkel",
+        "genitiv": "der toten Winkel",
+        "dativ": "den toten Winkeln",
+        "akkusativ": "die toten Winkel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Totte Winkel",
+    "Tote Winckel",
+    "Tote Wingkel",
+    "Totte Winkkel",
+    "Tode Winkel"
+  ]
+}

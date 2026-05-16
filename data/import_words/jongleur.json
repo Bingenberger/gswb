@@ -1,0 +1,83 @@
+{
+  "lemma": "Jongleur",
+  "wortart": "Nomen",
+  "silben": "Jon-gleur",
+  "begriffserklaerung": "Ein Jongleur ist eine Person, die mehrere Dinge gleichzeitig in der Luft wirft und wieder auffängt, zum Beispiel Bälle oder Keulen. Man sieht Jongleure oft im Zirkus oder bei Straßenshows.",
+  "beispielsatz": "Der Jongleur wirft fünf bunte Bälle gleichzeitig in die Luft, ohne einen fallen zu lassen.",
+  "rechtschreibstrategie": "Das Wort „Jongleur\" kommt aus dem Französischen. Schreibe am Anfang ein J, nicht ein G. Das Ende „-eur\" klingt wie „ör\" – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "jonglier"
+  ],
+  "bild_datei": "Jongleur.webp",
+  "audio_datei": "Jongleur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "juggler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jongleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hokkabaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُبهلِج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jonglieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jonglage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zirkus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akrobat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Clown"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Jongleur",
+    "plural": "die Jongleure",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Jongleur",
+        "genitiv": "des Jongleurs",
+        "dativ": "dem Jongleur",
+        "akkusativ": "den Jongleur"
+      },
+      "plural": {
+        "nominativ": "die Jongleure",
+        "genitiv": "der Jongleure",
+        "dativ": "den Jongleuren",
+        "akkusativ": "die Jongleure"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gongleur",
+    "Jonglöhr",
+    "Jonglör",
+    "Jonggleur",
+    "Jonglur",
+    "Jonglieur"
+  ]
+}

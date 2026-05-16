@@ -1,0 +1,86 @@
+{
+  "lemma": "Lein",
+  "wortart": "Nomen",
+  "silben": "Lein",
+  "begriffserklaerung": "Lein ist eine Pflanze mit blauen Blüten. Aus ihren Samen macht man Leinöl, und aus ihren Fasern wird Leinen-Stoff gewebt.",
+  "beispielsatz": "Auf dem Feld wächst Lein mit hübschen blauen Blüten.",
+  "rechtschreibstrategie": "„Lein\" schreibt man mit „ei\" – denk an das lange „ei\" wie in „Stein\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Lein"
+  ],
+  "bild_datei": "Lein.webp",
+  "audio_datei": "Lein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flax"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keten"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leinöl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leinsamen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flachs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flachs"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lein",
+    "plural": "die Leine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lein",
+        "genitiv": "des Leins",
+        "dativ": "dem Lein",
+        "akkusativ": "den Lein"
+      },
+      "plural": {
+        "nominativ": "die Leine",
+        "genitiv": "der Leine",
+        "dativ": "den Leinen",
+        "akkusativ": "die Leine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lain",
+    "Leyn",
+    "Leen",
+    "Lihn",
+    "Leinn"
+  ]
+}

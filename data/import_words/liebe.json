@@ -1,0 +1,86 @@
+{
+  "lemma": "Liebe",
+  "wortart": "Nomen",
+  "silben": "Lie-be",
+  "begriffserklaerung": "Die Liebe ist ein sehr schönes Gefühl, das du für andere Menschen oder Tiere hast. Wenn du jemanden liebst, denkst du gern an ihn und möchtest, dass es ihm gut geht.",
+  "beispielsatz": "Mama und Papa zeigen ihre Liebe, indem sie mich jeden Abend in den Schlaf kuscheln.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" am Anfang – wie in „Lied\" oder „lieb\". Sprich das Wort langsam: Lie-be.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "lieb"
+  ],
+  "bild_datei": "Liebe.webp",
+  "audio_datei": "Liebe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Liebe",
+    "plural": "die Lieben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Liebe",
+        "genitiv": "der Liebe",
+        "dativ": "der Liebe",
+        "akkusativ": "die Liebe"
+      },
+      "plural": {
+        "nominativ": "die Lieben",
+        "genitiv": "der Lieben",
+        "dativ": "den Lieben",
+        "akkusativ": "die Lieben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "love"
+    },
+    {
+      "language_code": "fr",
+      "translation": "amour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sevgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lieben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "liebevoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuneigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Libe",
+    "Liebe",
+    "Liebbe",
+    "Lyebe",
+    "Liive"
+  ]
+}

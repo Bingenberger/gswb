@@ -1,0 +1,78 @@
+{
+  "lemma": "Station",
+  "wortart": "Nomen",
+  "silben": "Sta-ti-on",
+  "begriffserklaerung": "Eine Station ist ein Ort, an dem Züge, Busse oder Bahnen halten, damit Menschen ein- und aussteigen können. Das Wort kann auch einen bestimmten Platz oder Abschnitt bezeichnen, zum Beispiel eine Lernstation im Unterricht.",
+  "beispielsatz": "Der Zug hält an der nächsten Station, und wir steigen aus.",
+  "rechtschreibstrategie": "„Station\" kommt aus dem Lateinischen und endet auf -ion. Denk dir: Alle Wörter auf -tion schreibt man mit t-i-o-n – nie mit „zion\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Station"
+  ],
+  "bild_datei": "Station.webp",
+  "audio_datei": "Station.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "station"
+    },
+    {
+      "language_code": "fr",
+      "translation": "station"
+    },
+    {
+      "language_code": "tr",
+      "translation": "istasyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stationär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haltestelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Station",
+    "plural": "die Stationen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Station",
+        "genitiv": "der Station",
+        "dativ": "der Station",
+        "akkusativ": "die Station"
+      },
+      "plural": {
+        "nominativ": "die Stationen",
+        "genitiv": "der Stationen",
+        "dativ": "den Stationen",
+        "akkusativ": "die Stationen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stazion",
+    "Stacion",
+    "Statiohn",
+    "Stasion",
+    "Statzion"
+  ]
+}

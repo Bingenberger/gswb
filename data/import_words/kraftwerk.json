@@ -1,0 +1,83 @@
+{
+  "lemma": "Kraftwerk",
+  "wortart": "Nomen",
+  "silben": "Kraft-werk",
+  "begriffserklaerung": "Ein Kraftwerk ist eine große Anlage, die Strom erzeugt. Dort wird zum Beispiel Wasser, Wind oder Kohle genutzt, um Energie herzustellen.",
+  "beispielsatz": "Das Kraftwerk am Fluss versorgt viele Häuser mit Strom.",
+  "rechtschreibstrategie": "„Kraftwerk\" ist aus zwei Wörtern zusammengebaut: „Kraft\" und „Werk\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kraft",
+    "Werk"
+  ],
+  "bild_datei": "Kraftwerk.webp",
+  "audio_datei": "Kraftwerk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "power plant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centrale électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik santrali"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة طاقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windrad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kraftwerk",
+    "plural": "die Kraftwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kraftwerk",
+        "genitiv": "des Kraftwerks",
+        "dativ": "dem Kraftwerk",
+        "akkusativ": "das Kraftwerk"
+      },
+      "plural": {
+        "nominativ": "die Kraftwerke",
+        "genitiv": "der Kraftwerke",
+        "dativ": "den Kraftwerken",
+        "akkusativ": "die Kraftwerke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kraftwerg",
+    "Kraftwärk",
+    "Krafwerk",
+    "Kraftweck",
+    "Crafwerk"
+  ]
+}

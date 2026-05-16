@@ -1,0 +1,85 @@
+{
+  "lemma": "Schwimmbad",
+  "wortart": "Nomen",
+  "silben": "Schwimm-bad",
+  "begriffserklaerung": "Ein Schwimmbad ist ein Ort, an dem Menschen in einem großen Becken mit Wasser schwimmen können.",
+  "beispielsatz": "Im Sommer gehe ich mit meiner Familie ins Schwimmbad.",
+  "rechtschreibstrategie": "Das Wort „Schwimmbad\" besteht aus zwei Teilen: „schwimm\" und „Bad\". Weil „schwimmen\" zwei m hat, bleibt das erste m am Ende von „schwimm\" und das zweite m steht am Anfang von „bad\" – so entstehen zwei m hintereinander: Schwimm-bad.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schwimm",
+    "bad"
+  ],
+  "bild_datei": "Schwimmbad.webp",
+  "audio_datei": "Schwimmbad.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schwimmbad",
+    "plural": "die Schwimmbäder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schwimmbad",
+        "genitiv": "des Schwimmbades",
+        "dativ": "dem Schwimmbad",
+        "akkusativ": "das Schwimmbad"
+      },
+      "plural": {
+        "nominativ": "die Schwimmbäder",
+        "genitiv": "der Schwimmbäder",
+        "dativ": "den Schwimmbädern",
+        "akkusativ": "die Schwimmbäder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swimming pool"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piscine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzme havuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمام السباحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwimmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freibad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hallenbad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becken"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schwimbad",
+    "Schwimmbat",
+    "Schwimmbadt",
+    "Swimmingbad",
+    "Schimmbad"
+  ]
+}

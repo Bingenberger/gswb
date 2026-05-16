@@ -1,0 +1,99 @@
+{
+  "lemma": "jagen",
+  "wortart": "Verb",
+  "silben": "ja-gen",
+  "begriffserklaerung": "Jagen bedeutet, einem Tier oder einer Person schnell hinterherzulaufen, um es oder sie zu fangen.",
+  "beispielsatz": "Der Hund jagt die Katze durch den Garten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ja-gen. Nach dem langen „a\" kommt nur ein „g\" – kein Doppelbuchstabe!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "jag"
+  ],
+  "bild_datei": "jagen.webp",
+  "audio_datei": "jagen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "jagen",
+    "praesens": {
+      "ich": "jage",
+      "du": "jagst",
+      "er_sie_es": "jagt",
+      "wir": "jagen",
+      "ihr": "jagt",
+      "sie": "jagen"
+    },
+    "perfekt": {
+      "ich": "habe gejagt",
+      "du": "hast gejagt",
+      "er_sie_es": "hat gejagt",
+      "wir": "haben gejagt",
+      "ihr": "habt gejagt",
+      "sie": "haben gejagt"
+    },
+    "praeteritum": {
+      "ich": "jagte",
+      "du": "jagtest",
+      "er_sie_es": "jagte",
+      "wir": "jagten",
+      "ihr": "jagtet",
+      "sie": "jagten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hunt / to chase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chasser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avlamak / kovalamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصطاد / يطارد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jagd"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jäger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verfolgen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hetzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rennen"
+    }
+  ],
+  "fehlschreibungen": [
+    "jagen",
+    "jaggen",
+    "yahgen",
+    "jaagen",
+    "jägen",
+    "jaegen"
+  ]
+}

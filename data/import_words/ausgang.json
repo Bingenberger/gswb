@@ -1,0 +1,89 @@
+{
+  "lemma": "Ausgang",
+  "wortart": "Nomen",
+  "silben": "Aus-gang",
+  "begriffserklaerung": "Ein Ausgang ist die Stelle, durch die man ein Gebäude oder einen Raum verlässt.",
+  "beispielsatz": "Der Ausgang des Kinos ist rechts neben der Leinwand.",
+  "rechtschreibstrategie": "„Ausgang\" ist aus zwei Bausteinen zusammengesetzt: „aus\" und „Gang\". Schreib beide Teile einfach hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gehen",
+    "Gang"
+  ],
+  "bild_datei": "Ausgang.webp",
+  "audio_datei": "Ausgang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sortie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çıkış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausgehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eingehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eingang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tür"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausfahrt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ausgang",
+    "plural": "die Ausgänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ausgang",
+        "genitiv": "des Ausgangs",
+        "dativ": "dem Ausgang",
+        "akkusativ": "den Ausgang"
+      },
+      "plural": {
+        "nominativ": "die Ausgänge",
+        "genitiv": "der Ausgänge",
+        "dativ": "den Ausgängen",
+        "akkusativ": "die Ausgänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ausganng",
+    "Aussggang",
+    "Ausgank",
+    "Ausgang",
+    "Auzgang",
+    "Auusgang"
+  ]
+}

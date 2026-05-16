@@ -1,0 +1,86 @@
+{
+  "lemma": "Wanderer",
+  "wortart": "Nomen",
+  "silben": "Wan-de-rer",
+  "begriffserklaerung": "Ein Wanderer ist ein Mensch, der gerne lange Strecken zu Fuß durch die Natur geht, zum Beispiel durch den Wald oder über Berge.",
+  "beispielsatz": "Der Wanderer rastet auf einer Bank und trinkt Wasser aus seiner Flasche.",
+  "rechtschreibstrategie": "Denk an das Verb „wandern\": Wan-dern → Wan-de-rer. Sprich alle drei Silben deutlich mit: Wan-de-rer!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wander"
+  ],
+  "bild_datei": "Wanderer.webp",
+  "audio_datei": "Wanderer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hiker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "randonneur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüyüşçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُتَنَزِّه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wandern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spaziergänger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wanderer",
+    "plural": "die Wanderer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wanderer",
+        "genitiv": "des Wanderers",
+        "dativ": "dem Wanderer",
+        "akkusativ": "den Wanderer"
+      },
+      "plural": {
+        "nominativ": "die Wanderer",
+        "genitiv": "der Wanderer",
+        "dativ": "den Wanderern",
+        "akkusativ": "die Wanderer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vanderer",
+    "Wanderrer",
+    "Wandrer",
+    "Wandera",
+    "Wandehrer"
+  ]
+}

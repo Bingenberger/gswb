@@ -1,0 +1,83 @@
+{
+  "lemma": "Abenteuer",
+  "wortart": "Nomen",
+  "silben": "A-ben-teu-er",
+  "begriffserklaerung": "Ein Abenteuer ist ein aufregendes Erlebnis, bei dem man Neues entdeckt und spannende Dinge erlebt.",
+  "beispielsatz": "Im Wald erlebten die Kinder ein großes Abenteuer.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: A – ben – teu – er. Achte auf das „eu\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Abenteuer"
+  ],
+  "bild_datei": "Abenteuer.webp",
+  "audio_datei": "Abenteuer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "adventure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aventure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "macera"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغامرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abenteuerlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abenteurer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entdeckung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erlebnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erlebnis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abenteuer",
+    "plural": "die Abenteuer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abenteuer",
+        "genitiv": "des Abenteuers",
+        "dativ": "dem Abenteuer",
+        "akkusativ": "das Abenteuer"
+      },
+      "plural": {
+        "nominativ": "die Abenteuer",
+        "genitiv": "der Abenteuer",
+        "dativ": "den Abenteuern",
+        "akkusativ": "die Abenteuer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abenteier",
+    "Abenteuer",
+    "Abendteuer",
+    "Abentheuer",
+    "Abänteuer",
+    "Abenteur"
+  ]
+}

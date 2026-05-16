@@ -1,0 +1,75 @@
+{
+  "lemma": "Leopard",
+  "wortart": "Nomen",
+  "silben": "Le-o-pard",
+  "begriffserklaerung": "Ein Leopard ist eine große, wilde Raubkatze mit gelbem Fell und schwarzen Flecken. Leoparden leben vor allem in Afrika und Asien.",
+  "beispielsatz": "Der Leopard klettert flink auf den Baum und beobachtet die Savanne.",
+  "rechtschreibstrategie": "Schreibe „Leopard\" mit zwei Vokalen am Anfang: erst das „e\", dann das „o\". Sprich beide deutlich: Le-o-pard. Am Ende steht ein „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Leopard"
+  ],
+  "bild_datei": "Leopard.webp",
+  "audio_datei": "Leopard.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leopard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "léopard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "leopar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepard"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Leopard",
+    "plural": "die Leoparden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Leopard",
+        "genitiv": "des Leoparden",
+        "dativ": "dem Leoparden",
+        "akkusativ": "den Leoparden"
+      },
+      "plural": {
+        "nominativ": "die Leoparden",
+        "genitiv": "der Leoparden",
+        "dativ": "den Leoparden",
+        "akkusativ": "die Leoparden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leopart",
+    "Leoppard",
+    "Leppard",
+    "Leophard",
+    "Leohpard",
+    "Leopar"
+  ]
+}

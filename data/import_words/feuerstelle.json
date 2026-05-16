@@ -1,0 +1,84 @@
+{
+  "lemma": "Feuerstelle",
+  "wortart": "Nomen",
+  "silben": "Feu-er-stel-le",
+  "begriffserklaerung": "Eine Feuerstelle ist ein Platz, an dem man ein Feuer machen darf. Sie besteht oft aus Steinen und ist zum Beispiel beim Camping oder im Garten zu finden.",
+  "beispielsatz": "Wir sitzen abends um die Feuerstelle und braten Marshmallows.",
+  "rechtschreibstrategie": "Das Wort „Feuerstelle\" ist ein zusammengesetztes Wort aus „Feuer\" und „Stelle\". Schreibe beide Teile einfach hintereinander: Feuer + Stelle = Feuerstelle.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Stelle"
+  ],
+  "bild_datei": "Feuerstelle.webp",
+  "audio_datei": "Feuerstelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Feuerstelle",
+    "plural": "die Feuerstellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Feuerstelle",
+        "genitiv": "der Feuerstelle",
+        "dativ": "der Feuerstelle",
+        "akkusativ": "die Feuerstelle"
+      },
+      "plural": {
+        "nominativ": "die Feuerstellen",
+        "genitiv": "der Feuerstellen",
+        "dativ": "den Feuerstellen",
+        "akkusativ": "die Feuerstellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire pit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "foyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateş yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقد النار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lagerfeuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grillplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuerplätzchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Feuarstelle",
+    "Feuerrstelle",
+    "Feuerstele",
+    "Feuershtelle",
+    "Feuerställe",
+    "Foierstelle"
+  ]
+}

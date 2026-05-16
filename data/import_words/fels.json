@@ -1,0 +1,90 @@
+{
+  "lemma": "Fels",
+  "wortart": "Nomen",
+  "silben": "Fels",
+  "begriffserklaerung": "Ein Fels ist ein sehr großes, hartes Stück Stein, das aus der Erde ragt oder an einem Berg zu finden ist.",
+  "beispielsatz": "Der Kletterer steigt vorsichtig den steilen Fels hinauf.",
+  "rechtschreibstrategie": "„Fels\" endet auf -ls. Wenn du es verlängerst, hörst du deutlich alle Buchstaben: „Fel-sen\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Fels"
+  ],
+  "bild_datei": "Fels.webp",
+  "audio_datei": "Fels.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rocher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صخرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Felsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "felsig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Felsen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebirge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fels",
+    "plural": "die Felsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fels",
+        "genitiv": "des Felsens",
+        "dativ": "dem Felsen",
+        "akkusativ": "den Felsen"
+      },
+      "plural": {
+        "nominativ": "die Felsen",
+        "genitiv": "der Felsen",
+        "dativ": "den Felsen",
+        "akkusativ": "die Felsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Felz",
+    "Fells",
+    "Fels",
+    "Vels",
+    "Felss"
+  ]
+}

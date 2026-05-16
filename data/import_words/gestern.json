@@ -1,0 +1,55 @@
+{
+  "lemma": "gestern",
+  "wortart": "Adverb",
+  "silben": "ges-tern",
+  "begriffserklaerung": "Gestern bedeutet: der Tag, der direkt vor dem heutigen Tag war.",
+  "beispielsatz": "Gestern haben wir im Park gespielt.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: ges-tern. Achte auf das s nach dem g und das e am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "gestern.webp",
+  "audio_datei": "gestern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "yesterday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "heute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vorgestern"
+    }
+  ],
+  "grammatische_formen": {},
+  "fehlschreibungen": [
+    "gesteren",
+    "gesten",
+    "gestren",
+    "gestern",
+    "gäsdern",
+    "gesden"
+  ]
+}

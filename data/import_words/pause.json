@@ -1,0 +1,85 @@
+{
+  "lemma": "Pause",
+  "wortart": "Nomen",
+  "silben": "Pau-se",
+  "begriffserklaerung": "Eine Pause ist eine kurze Zeit, in der man aufhört zu arbeiten oder zu spielen und sich ausruht.",
+  "beispielsatz": "In der großen Pause spielen wir auf dem Schulhof.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Pau-se\". Das „au\" klingt wie in „Baum\". Am Ende steht ein weiches „se\" – nicht „ze\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "paus"
+  ],
+  "bild_datei": "Pause.webp",
+  "audio_datei": "Pause.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pause",
+    "plural": "die Pausen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pause",
+        "genitiv": "der Pause",
+        "dativ": "der Pause",
+        "akkusativ": "die Pause"
+      },
+      "plural": {
+        "nominativ": "die Pausen",
+        "genitiv": "der Pausen",
+        "dativ": "den Pausen",
+        "akkusativ": "die Pausen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "break"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pause"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mola"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استراحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pausieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pausenhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auszeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erholung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulhof"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pauße",
+    "Pause",
+    "Pawse",
+    "Bauze"
+  ]
+}

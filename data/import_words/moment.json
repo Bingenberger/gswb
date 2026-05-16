@@ -1,0 +1,78 @@
+{
+  "lemma": "Moment",
+  "wortart": "Nomen",
+  "silben": "Mo-ment",
+  "begriffserklaerung": "Ein Moment ist ein sehr kurzer Augenblick in der Zeit.",
+  "beispielsatz": "Warte kurz – ich bin in einem Moment fertig!",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mo-ment. Am Ende hörst du ein „t\" – das schreibst du auch so.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "moment"
+  ],
+  "bild_datei": "Moment.webp",
+  "audio_datei": "Moment.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Moment",
+    "plural": "die Momente",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Moment",
+        "genitiv": "des Moments",
+        "dativ": "dem Moment",
+        "akkusativ": "den Moment"
+      },
+      "plural": {
+        "nominativ": "die Momente",
+        "genitiv": "der Momente",
+        "dativ": "den Momenten",
+        "akkusativ": "die Momente"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "moment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "an"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لحظة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "momentan"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Augenblick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sekunde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Momment",
+    "Mohmend",
+    "Momend",
+    "Momennt",
+    "Mohment"
+  ]
+}

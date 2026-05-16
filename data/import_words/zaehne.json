@@ -1,0 +1,89 @@
+{
+  "lemma": "Zähne",
+  "wortart": "Nomen",
+  "silben": "Zäh-ne",
+  "beispielsatz": "Jeden Abend putze ich meine Zähne, damit sie schön und gesund bleiben.",
+  "begriffserklaerung": "Zähne sind die harten, weißen Teile im Mund. Mit ihnen beißt und kaust du dein Essen.",
+  "rechtschreibstrategie": "Denk an das Einzelwort „Zahn\" – es hat ein langes „a\". Beim Verlängern zu „Zähne\" wird aus dem „a\" ein „ä\". Das Dehnungs-h bleibt erhalten: Z-ä-h-n-e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn"
+  ],
+  "bild_datei": "Zähne.webp",
+  "audio_datei": "Zähne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teeth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahnarzt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnpasta"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kiefer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Zahn",
+    "plural": "die Zähne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zahn",
+        "genitiv": "des Zahnes",
+        "dativ": "dem Zahn",
+        "akkusativ": "den Zahn"
+      },
+      "plural": {
+        "nominativ": "die Zähne",
+        "genitiv": "der Zähne",
+        "dativ": "den Zähnen",
+        "akkusativ": "die Zähne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zäne",
+    "Zähnte",
+    "Zene",
+    "Zähne",
+    "Zäähne",
+    "Zahne"
+  ]
+}

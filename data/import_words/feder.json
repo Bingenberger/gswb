@@ -1,0 +1,81 @@
+{
+  "lemma": "Feder",
+  "wortart": "Nomen",
+  "silben": "Fe-der",
+  "begriffserklaerung": "Eine Feder ist das, was Vögel am Körper haben. Federn halten Vögel warm und helfen ihnen beim Fliegen. Früher schrieb man auch mit einer Feder aus einer Gänsefeder.",
+  "beispielsatz": "Die bunte Feder des Pfaus liegt auf dem Boden.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Fe-der\". Das „e\" in der ersten Silbe ist lang, deshalb kommt nur ein „d\" – kein Doppel-d!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "feder"
+  ],
+  "bild_datei": "Feder.webp",
+  "audio_datei": "Feder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "feather / spring"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plume / ressort"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüy / yay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ريشة / نابض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Federball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Federmäppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Feder",
+    "plural": "die Federn",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Feder",
+        "genitiv": "der Feder",
+        "dativ": "der Feder",
+        "akkusativ": "die Feder"
+      },
+      "plural": {
+        "nominativ": "die Federn",
+        "genitiv": "der Federn",
+        "dativ": "den Federn",
+        "akkusativ": "die Federn"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fedder",
+    "Veder",
+    "Feeder",
+    "Fäder"
+  ]
+}

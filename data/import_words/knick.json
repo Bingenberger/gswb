@@ -1,0 +1,86 @@
+{
+  "lemma": "Knick",
+  "wortart": "Nomen",
+  "silben": "Knick",
+  "begriffserklaerung": "Ein Knick ist eine Stelle, an der etwas gebogen oder gefaltet wurde, sodass eine scharfe Ecke oder Falte entsteht.",
+  "beispielsatz": "Das Papier hat einen Knick, weil es in der Tasche lag.",
+  "rechtschreibstrategie": "Nach dem kurzen Vokal „i\" hörst du das „k\" doppelt – deshalb schreibt man „ck\": K-n-i-ck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "knick"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Knick",
+    "plural": "die Knicke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Knick",
+        "genitiv": "des Knicks",
+        "dativ": "dem Knick",
+        "akkusativ": "den Knick"
+      },
+      "plural": {
+        "nominativ": "die Knicke",
+        "genitiv": "der Knicke",
+        "dativ": "den Knicken",
+        "akkusativ": "die Knicke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Knik",
+    "Knick",
+    "Cknick",
+    "Knig",
+    "Knic"
+  ],
+  "bild_datei": "Knick.webp",
+  "audio_datei": "Knick.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crease, bend"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pli, coude"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıvrım, büküm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثنية، انحناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geknickst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Falte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Biegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Falz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kurve"
+    }
+  ]
+}

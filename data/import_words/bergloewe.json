@@ -1,0 +1,88 @@
+{
+  "lemma": "Berglöwe",
+  "wortart": "Nomen",
+  "silben": "Berg-lö-we",
+  "begriffserklaerung": "Der Berglöwe ist ein großes, wildes Raubtier aus Amerika. Er lebt in Bergen und Wäldern und ist sehr schnell und kräftig. Man nennt ihn auch Puma oder Silberlöwe.",
+  "beispielsatz": "Der Berglöwe schlich leise durch den dichten Wald auf der Suche nach Beute.",
+  "rechtschreibstrategie": "Das Wort „Berglöwe\" ist aus zwei Teilen zusammengesetzt: „Berg\" und „Löwe\". Sprich beide Teile einzeln und schreibe sie dann zusammen. Das ö in „Löwe\" klingt wie ein helles o – denk daran, das Umlaut-Zeichen zu setzen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Berg",
+    "Löwe"
+  ],
+  "bild_datei": "Berglöwe.webp",
+  "audio_datei": "Berglöwe.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Berglöwe",
+    "plural": "die Berglöwen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Berglöwe",
+        "genitiv": "des Berglöwen",
+        "dativ": "dem Berglöwen",
+        "akkusativ": "den Berglöwen"
+      },
+      "plural": {
+        "nominativ": "die Berglöwen",
+        "genitiv": "der Berglöwen",
+        "dativ": "den Berglöwen",
+        "akkusativ": "die Berglöwen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mountain lion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "puma"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ aslanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسد الجبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Puma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raubtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildkatze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepard"
+    }
+  ],
+  "fehlschreibungen": [
+    "Berklöwe",
+    "Berglöve",
+    "Berglowe",
+    "Berglöhwe",
+    "Bergläwe",
+    "Berglöe"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Strohhalm",
+  "wortart": "Nomen",
+  "silben": "Stroh-halm",
+  "begriffserklaerung": "Ein Strohhalm ist ein dünnes Röhrchen, durch das man Getränke einssaugen kann. Früher wurden Strohhalme aus echtem Stroh gemacht, heute meist aus Plastik oder Papier.",
+  "beispielsatz": "Lena trinkt ihren Orangensaft mit einem bunten Strohhalm.",
+  "rechtschreibstrategie": "Das Wort „Strohhalm\" besteht aus zwei Teilen: „Stroh\" und „Halm\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Stroh",
+    "Halm"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strohhalm",
+    "plural": "die Strohhalme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strohhalm",
+        "genitiv": "des Strohhalms",
+        "dativ": "dem Strohhalm",
+        "akkusativ": "den Strohhalm"
+      },
+      "plural": {
+        "nominativ": "die Strohhalme",
+        "genitiv": "der Strohhalme",
+        "dativ": "den Strohhalmen",
+        "akkusativ": "die Strohhalme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "straw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pipet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stroh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkglas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkhalm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Strohalm",
+    "Strohhalme",
+    "Strrohhalm",
+    "Strohhalbn",
+    "Strohhallm",
+    "Strohhalp"
+  ],
+  "bild_datei": "Strohhalm.webp",
+  "audio_datei": "Strohhalm.mp3"
+}

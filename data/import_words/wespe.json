@@ -1,0 +1,82 @@
+{
+  "lemma": "Wespe",
+  "wortart": "Nomen",
+  "silben": "Wes-pe",
+  "begriffserklaerung": "Eine Wespe ist ein fliegendes Insekt mit gelb-schwarzen Streifen. Sie kann stechen und lebt in großen Gruppen in einem Wespennest.",
+  "beispielsatz": "Die Wespe summt um mein Glas Limonade herum.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Wes-pe. Höre das „s\" in der Mitte – schreibe es mit einfachem „s\", nicht mit „ss\" oder „ß\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wespe"
+  ],
+  "bild_datei": "Wespe.webp",
+  "audio_datei": "Wespe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wasp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guêpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eşekarısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دبور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wespennest"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wespenstich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hummel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wespe",
+    "plural": "die Wespen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wespe",
+        "genitiv": "der Wespe",
+        "dativ": "der Wespe",
+        "akkusativ": "die Wespe"
+      },
+      "plural": {
+        "nominativ": "die Wespen",
+        "genitiv": "der Wespen",
+        "dativ": "den Wespen",
+        "akkusativ": "die Wespen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vespe",
+    "Wäspe",
+    "Wesppe",
+    "Wesbe",
+    "Wespee"
+  ]
+}

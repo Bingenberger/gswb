@@ -1,0 +1,82 @@
+{
+  "lemma": "Berge",
+  "wortart": "Nomen",
+  "silben": "Ber-ge",
+  "begriffserklaerung": "Berge sind sehr hohe Erhebungen aus Stein und Erde. Sie sind viel größer als Hügel und haben oft eine Spitze ganz oben.",
+  "beispielsatz": "Im Winter fahren wir in die Berge und fahren Ski.",
+  "rechtschreibstrategie": "Denk an das Grundwort „Berg\". Wenn du es verlängerst, hörst du das „g\" deutlich: Berg – Ber-ge. Deshalb schreibt man es mit „g\" und nicht mit „k\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Berg"
+  ],
+  "bild_datei": "Berge.webp",
+  "audio_datei": "Berge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mountains"
+    },
+    {
+      "language_code": "fr",
+      "translation": "montagnes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جبال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bergig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gipfel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebirge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Berg",
+    "plural": "die Berge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Berg",
+        "genitiv": "des Berges",
+        "dativ": "dem Berg",
+        "akkusativ": "den Berg"
+      },
+      "plural": {
+        "nominativ": "die Berge",
+        "genitiv": "der Berge",
+        "dativ": "den Bergen",
+        "akkusativ": "die Berge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Berke",
+    "Bärge",
+    "Berje",
+    "Bärke",
+    "Berge"
+  ]
+}

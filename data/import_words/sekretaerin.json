@@ -1,0 +1,75 @@
+{
+  "lemma": "Sekretärin",
+  "wortart": "Nomen",
+  "silben": "Sek-re-tä-rin",
+  "begriffserklaerung": "Eine Sekretärin arbeitet in einem Büro. Sie schreibt Briefe, beantwortet Telefonate und hilft dabei, dass alles gut organisiert ist.",
+  "beispielsatz": "Die Sekretärin der Schule gibt uns das Formular für den Ausflug.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Sek-re-tä-rin. Denk an das Ä in der dritten Silbe – „tä\" klingt wie ein langes Ä!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Sekretär"
+  ],
+  "bild_datei": "Sekretärin.webp",
+  "audio_datei": "Sekretärin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "secretary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secrétaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sekreter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكرتيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekretär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sekretärin",
+    "plural": "die Sekretärinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sekretärin",
+        "genitiv": "der Sekretärin",
+        "dativ": "der Sekretärin",
+        "akkusativ": "die Sekretärin"
+      },
+      "plural": {
+        "nominativ": "die Sekretärinnen",
+        "genitiv": "der Sekretärinnen",
+        "dativ": "den Sekretärinnen",
+        "akkusativ": "die Sekretärinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sekreterin",
+    "Sekräterin",
+    "Sekretärin",
+    "Sekretährin",
+    "Sekretärrin",
+    "Sekretärien"
+  ]
+}

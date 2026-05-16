@@ -1,0 +1,82 @@
+{
+  "lemma": "Ast",
+  "wortart": "Nomen",
+  "silben": "Ast",
+  "begriffserklaerung": "Ein Ast ist ein dicker Zweig, der am Stamm eines Baumes wächst.",
+  "beispielsatz": "Der Vogel sitzt auf einem Ast und singt ein Lied.",
+  "rechtschreibstrategie": "Wenn du „Äste\" sagst, hörst du das „t\" am Ende ganz deutlich – deshalb schreibt man „Ast\" mit t.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Ast"
+  ],
+  "bild_datei": "Ast.webp",
+  "audio_datei": "Ast.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "branch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "branche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غصن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Äste"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "astig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zweig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zweig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ast",
+    "plural": "die Äste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ast",
+        "genitiv": "des Astes",
+        "dativ": "dem Ast",
+        "akkusativ": "den Ast"
+      },
+      "plural": {
+        "nominativ": "die Äste",
+        "genitiv": "der Äste",
+        "dativ": "den Ästen",
+        "akkusativ": "die Äste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ahst",
+    "Asst",
+    "Asd",
+    "Ast",
+    "Aste"
+  ]
+}

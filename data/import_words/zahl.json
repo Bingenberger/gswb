@@ -1,0 +1,90 @@
+{
+  "lemma": "Zahl",
+  "wortart": "Nomen",
+  "silben": "Zahl",
+  "begriffserklaerung": "Eine Zahl ist ein Zeichen oder ein Wort, mit dem wir zählen oder messen können, zum Beispiel 1, 2, 3 oder zehn.",
+  "beispielsatz": "Die Zahl 7 ist meine Lieblingszahl.",
+  "rechtschreibstrategie": "Das Wort „Zahl\" hat ein stummes h am Ende. Denk daran: Zahl – zählen – das h bleibt immer da!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "zahl"
+  ],
+  "bild_datei": "Zahl.webp",
+  "audio_datei": "Zahl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "number"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nombre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zahlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anzahl"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nummer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mathematik"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zahl",
+    "plural": "die Zahlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zahl",
+        "genitiv": "der Zahl",
+        "dativ": "der Zahl",
+        "akkusativ": "die Zahl"
+      },
+      "plural": {
+        "nominativ": "die Zahlen",
+        "genitiv": "der Zahlen",
+        "dativ": "den Zahlen",
+        "akkusativ": "die Zahlen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zal",
+    "Zahl",
+    "Tsahl",
+    "Zahle",
+    "Zaal"
+  ]
+}

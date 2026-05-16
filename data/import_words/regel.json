@@ -1,0 +1,90 @@
+{
+  "lemma": "Regel",
+  "wortart": "Nomen",
+  "silben": "Re-gel",
+  "begriffserklaerung": "Eine Regel sagt, was man tun oder lassen soll. Regeln helfen dabei, dass alle fair miteinander umgehen.",
+  "beispielsatz": "In unserer Klasse gibt es eine Regel: Wir lassen jeden ausreden.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Re-gel\". Das e in der ersten Silbe ist kurz – aber hier steht kein Doppelkonsonant, weil das g zur zweiten Silbe gehört. Denk daran: Re-gel, nicht Rägel!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "regel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Regel",
+    "plural": "die Regeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Regel",
+        "genitiv": "der Regel",
+        "dativ": "der Regel",
+        "akkusativ": "die Regel"
+      },
+      "plural": {
+        "nominativ": "die Regeln",
+        "genitiv": "der Regeln",
+        "dativ": "den Regeln",
+        "akkusativ": "die Regeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rägel",
+    "Reegel",
+    "Rägeln",
+    "Regeln",
+    "Regell"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regelmäßig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorschrift"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordnung"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rule"
+    },
+    {
+      "language_code": "fr",
+      "translation": "règle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kural"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاعدة"
+    }
+  ],
+  "bild_datei": "Regel.webp",
+  "audio_datei": "Regel.mp3"
+}

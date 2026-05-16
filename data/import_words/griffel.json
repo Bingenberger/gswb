@@ -1,0 +1,78 @@
+{
+  "lemma": "Griffel",
+  "wortart": "Nomen",
+  "silben": "Grif-fel",
+  "begriffserklaerung": "Ein Griffel ist ein dünner Stift zum Schreiben oder Zeichnen. Früher haben Kinder damit auf Schiefertafeln geschrieben.",
+  "beispielsatz": "Früher schrieben die Kinder mit einem Griffel auf der Schiefertafel.",
+  "rechtschreibstrategie": "Hör genau hin: Nach dem kurzen „i\" kommt ein Doppel-f – deshalb schreibt man „Grif-fel\" mit ff und ll.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "greifen"
+  ],
+  "bild_datei": "Griffel.webp",
+  "audio_datei": "Griffel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slate pencil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ardoise / crayon d'ardoise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taş kalem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلم الأردواز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibstift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Griffel",
+    "plural": "die Griffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Griffel",
+        "genitiv": "des Griffels",
+        "dativ": "dem Griffel",
+        "akkusativ": "den Griffel"
+      },
+      "plural": {
+        "nominativ": "die Griffel",
+        "genitiv": "der Griffel",
+        "dativ": "den Griffeln",
+        "akkusativ": "die Griffel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grifel",
+    "Griffell",
+    "Griefel",
+    "Grifell",
+    "Griful"
+  ]
+}

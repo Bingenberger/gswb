@@ -1,0 +1,94 @@
+{
+  "lemma": "Weideland",
+  "wortart": "Nomen",
+  "silben": "Wei-de-land",
+  "begriffserklaerung": "Ein Weideland ist eine große Wiese oder Fläche im Freien, auf der Tiere wie Kühe, Schafe oder Pferde grasen und fressen dürfen.",
+  "beispielsatz": "Auf dem Weideland hinter dem Bauernhof grasen viele bunte Kühe.",
+  "rechtschreibstrategie": "Das Wort „Weideland\" ist aus zwei Wörtern zusammengesetzt: „Weide\" und „Land\". Sprich beide Teile einzeln: Wei-de + Land. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Weide",
+    "Land"
+  ],
+  "bild_datei": "Weideland.webp",
+  "audio_datei": "Weideland.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Weideland",
+    "plural": "die Weidelande",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Weideland",
+        "genitiv": "des Weidelandes",
+        "dativ": "dem Weideland",
+        "akkusativ": "das Weideland"
+      },
+      "plural": {
+        "nominativ": "die Weidelande",
+        "genitiv": "der Weidelande",
+        "dativ": "den Weidelanden",
+        "akkusativ": "die Weidelande"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pastureland"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâturage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otlak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرض المرعى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weide"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weide"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weidlant",
+    "Weidelant",
+    "Waideland",
+    "Weideland",
+    "Weiteland",
+    "Weide-Land"
+  ]
+}

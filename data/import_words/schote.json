@@ -1,0 +1,72 @@
+{
+  "lemma": "Schote",
+  "wortart": "Nomen",
+  "silben": "Scho-te",
+  "begriffserklaerung": "Eine Schote ist eine längliche Hülse, in der Samen von Pflanzen wie Erbsen oder Bohnen wachsen.",
+  "beispielsatz": "Mama pflückt grüne Schoten aus dem Garten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Scho-te. Du hörst ein langes „o\" – schreib einfach „Scho\" und dann „te\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Schote.webp",
+  "audio_datei": "Schote.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pod"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cosse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erbse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bohne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hülse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schote",
+    "plural": "die Schoten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schote",
+        "genitiv": "der Schote",
+        "dativ": "der Schote",
+        "akkusativ": "die Schote"
+      },
+      "plural": {
+        "nominativ": "die Schoten",
+        "genitiv": "der Schoten",
+        "dativ": "den Schoten",
+        "akkusativ": "die Schoten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schotte",
+    "Schohte",
+    "Schoda",
+    "Schoote",
+    "Sohte"
+  ]
+}

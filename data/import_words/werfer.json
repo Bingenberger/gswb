@@ -1,0 +1,83 @@
+{
+  "lemma": "Werfer",
+  "wortart": "Nomen",
+  "silben": "Wer-fer",
+  "begriffserklaerung": "Ein Werfer ist eine Person, die etwas wirft – zum Beispiel einen Ball oder einen Speer.",
+  "beispielsatz": "Der Werfer schleudert den Ball mit aller Kraft ans andere Ende des Feldes.",
+  "rechtschreibstrategie": "Denke an das Verb „werfen\" – daraus wird „Werfer\". Das „e\" in „Werf-\" bleibt erhalten.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "werf"
+  ],
+  "bild_datei": "Werfer.webp",
+  "audio_datei": "Werfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thrower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lanceur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رامي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "werfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmeißer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Werfer",
+    "plural": "die Werfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Werfer",
+        "genitiv": "des Werfers",
+        "dativ": "dem Werfer",
+        "akkusativ": "den Werfer"
+      },
+      "plural": {
+        "nominativ": "die Werfer",
+        "genitiv": "der Werfer",
+        "dativ": "den Werfern",
+        "akkusativ": "die Werfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Verver",
+    "Werffer",
+    "Werfer",
+    "Wärfer",
+    "Werfär",
+    "Wörfer"
+  ]
+}

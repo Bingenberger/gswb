@@ -1,0 +1,103 @@
+{
+  "lemma": "wischen",
+  "wortart": "Verb",
+  "silben": "wi-schen",
+  "begriffserklaerung": "Wischen bedeutet, eine Fläche mit einem Tuch oder einem Wischer sauber machen, indem man darüber streicht.",
+  "beispielsatz": "Nach dem Mittagessen wischt Lena den Tisch mit einem feuchten Tuch ab.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" folgt „sch\" – sprich das Wort laut: wi-schen. Den Doppellaut „sch\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wisch"
+  ],
+  "bild_datei": "wischen.webp",
+  "audio_datei": "wischen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wipe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "essuyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمسح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wischer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abwischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abwischen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schrubben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reinigen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wischen",
+    "praesens": {
+      "ich": "wische",
+      "du": "wischst",
+      "er_sie_es": "wischt",
+      "wir": "wischen",
+      "ihr": "wischt",
+      "sie": "wischen"
+    },
+    "perfekt": {
+      "ich": "habe gewischt",
+      "du": "hast gewischt",
+      "er_sie_es": "hat gewischt",
+      "wir": "haben gewischt",
+      "ihr": "habt gewischt",
+      "sie": "haben gewischt"
+    },
+    "praeteritum": {
+      "ich": "wischte",
+      "du": "wischtest",
+      "er_sie_es": "wischte",
+      "wir": "wischten",
+      "ihr": "wischtet",
+      "sie": "wischten"
+    }
+  },
+  "fehlschreibungen": [
+    "wisschen",
+    "wishen",
+    "wichen",
+    "wisshen",
+    "wüschen",
+    "wischen"
+  ]
+}

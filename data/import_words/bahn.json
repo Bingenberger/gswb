@@ -1,0 +1,81 @@
+{
+  "lemma": "Bahn",
+  "wortart": "Nomen",
+  "silben": "Bahn",
+  "begriffserklaerung": "Eine Bahn ist ein Weg oder eine Strecke, auf der etwas fährt oder läuft – zum Beispiel ein Zug oder eine Straßenbahn.",
+  "beispielsatz": "Die Bahn fährt pünktlich um neun Uhr ab.",
+  "rechtschreibstrategie": "Das Wort „Bahn\" hat ein Dehnungs-h nach dem langen „a\". Merke: Langes „a\" – das h streckt seinen Arm aus!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Bahn"
+  ],
+  "bild_datei": "Bahn.webp",
+  "audio_datei": "Bahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "train / track"
+    },
+    {
+      "language_code": "fr",
+      "translation": "train / voie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tren / yol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطار / مسار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahnsteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gleis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bahn",
+    "plural": "die Bahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bahn",
+        "genitiv": "der Bahn",
+        "dativ": "der Bahn",
+        "akkusativ": "die Bahn"
+      },
+      "plural": {
+        "nominativ": "die Bahnen",
+        "genitiv": "der Bahnen",
+        "dativ": "den Bahnen",
+        "akkusativ": "die Bahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ban",
+    "Baan",
+    "Bahn",
+    "Bann"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Waffe",
+  "wortart": "Nomen",
+  "silben": "Waf-fe",
+  "begriffserklaerung": "Eine Waffe ist ein Gegenstand, der dazu benutzt wird, jemanden zu verletzen oder zu bekämpfen. Waffen kommen zum Beispiel in Geschichten, im Mittelalter oder beim Militär vor.",
+  "beispielsatz": "Der Ritter trug eine Waffe aus Stahl an seiner Seite.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Waf-fe\". Du hörst ein kurzes „a\", deshalb schreibt man zwei „f\": Waffe.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Waff"
+  ],
+  "bild_datei": "Waffe.webp",
+  "audio_datei": "Waffe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Waffe",
+    "plural": "die Waffen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Waffe",
+        "genitiv": "der Waffe",
+        "dativ": "der Waffe",
+        "akkusativ": "die Waffe"
+      },
+      "plural": {
+        "nominativ": "die Waffen",
+        "genitiv": "der Waffen",
+        "dativ": "den Waffen",
+        "akkusativ": "die Waffen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weapon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silah"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewaffnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waffenkammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rüstung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wafe",
+    "Waffe",
+    "Vahfe",
+    "Wafffe",
+    "Wahfe"
+  ]
+}

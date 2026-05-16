@@ -1,0 +1,84 @@
+{
+  "lemma": "Fahrrad",
+  "wortart": "Nomen",
+  "silben": "Fahr-rad",
+  "begriffserklaerung": "Ein Fahrrad ist ein Fahrzeug mit zwei Rädern, das du mit den Beinen antreibst, indem du in die Pedale trittst.",
+  "beispielsatz": "Ich fahre jeden Morgen mit dem Fahrrad zur Schule.",
+  "rechtschreibstrategie": "Das Wort „Fahrrad\" besteht aus zwei Teilen: „fahr\" (von fahren) und „Rad\". Sprich beide Teile deutlich: FAHR + RAD. So merkst du dir das doppelte R in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "rad"
+  ],
+  "bild_datei": "Fahrrad.webp",
+  "audio_datei": "Fahrrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bicycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vélo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bisiklet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pedale"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fahrrad",
+    "plural": "die Fahrräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fahrrad",
+        "genitiv": "des Fahrrads",
+        "dativ": "dem Fahrrad",
+        "akkusativ": "das Fahrrad"
+      },
+      "plural": {
+        "nominativ": "die Fahrräder",
+        "genitiv": "der Fahrräder",
+        "dativ": "den Fahrrädern",
+        "akkusativ": "die Fahrräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Farrad",
+    "Fahrad",
+    "Fahrrat",
+    "Faarrad",
+    "Fahrrrad"
+  ]
+}

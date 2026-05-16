@@ -1,0 +1,91 @@
+{
+  "lemma": "Stück",
+  "wortart": "Nomen",
+  "silben": "Stück",
+  "begriffserklaerung": "Ein Stück ist ein Teil von etwas Größerem, zum Beispiel ein Stück Kuchen oder ein Stück Papier.",
+  "beispielsatz": "Darf ich bitte ein Stück Schokolade haben?",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird. Denk daran: kurzes „ü\" → „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stück"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stück",
+    "plural": "die Stücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stück",
+        "genitiv": "des Stückes",
+        "dativ": "dem Stück",
+        "akkusativ": "das Stück"
+      },
+      "plural": {
+        "nominativ": "die Stücke",
+        "genitiv": "der Stücke",
+        "dativ": "den Stücken",
+        "akkusativ": "die Stücke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stük",
+    "Stücke (als Singular)",
+    "Shtück",
+    "Sztück",
+    "Stüch",
+    "Stükk"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "piece"
+    },
+    {
+      "language_code": "fr",
+      "translation": "morceau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parça"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stückchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zerstückeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Scheibe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Portion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brocken"
+    }
+  ],
+  "bild_datei": "Stück.webp",
+  "audio_datei": "Stück.mp3"
+}

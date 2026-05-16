@@ -1,0 +1,82 @@
+{
+  "lemma": "Musiker",
+  "wortart": "Nomen",
+  "silben": "Mu-si-ker",
+  "begriffserklaerung": "Ein Musiker ist ein Mensch, der ein Musikinstrument spielt oder singt – oft auf einer Bühne oder in einer Band.",
+  "beispielsatz": "Der Musiker spielt auf seiner Gitarre ein fröhliches Lied.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Mu-si-ker. Achte auf das weiche „s\" in der Mitte – es klingt wie ein „s\", nicht wie ein „sch\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Musik"
+  ],
+  "bild_datei": "Musiker.webp",
+  "audio_datei": "Musiker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "musician"
+    },
+    {
+      "language_code": "fr",
+      "translation": "musicien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müzisyen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موسيقي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "musikalisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Instrument"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konzert"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Künstler"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Musiker",
+    "plural": "die Musiker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Musiker",
+        "genitiv": "des Musikers",
+        "dativ": "dem Musiker",
+        "akkusativ": "den Musiker"
+      },
+      "plural": {
+        "nominativ": "die Musiker",
+        "genitiv": "der Musiker",
+        "dativ": "den Musikern",
+        "akkusativ": "die Musiker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mussiker",
+    "Muziker",
+    "Musieker",
+    "Musicker",
+    "Mußiker"
+  ]
+}

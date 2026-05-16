@@ -1,0 +1,88 @@
+{
+  "lemma": "Erkältung",
+  "wortart": "Nomen",
+  "silben": "Er-käl-tung",
+  "begriffserklaerung": "Eine Erkältung ist eine Krankheit, bei der man Schnupfen, Husten oder Halsschmerzen hat. Man bekommt sie oft, wenn man sich zu sehr auskühlt oder jemanden ansteckt.",
+  "beispielsatz": "Wegen meiner Erkältung musste ich heute zu Hause bleiben und viel Tee trinken.",
+  "rechtschreibstrategie": "Denk an das Verb „kalt\" – aus „kalt\" wird „kält\". Das ä zeigt dir, dass hier eine Verwandtschaft zu „kalt\" steckt!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kalt",
+    "kält"
+  ],
+  "bild_datei": "Erkältung.webp",
+  "audio_datei": "Erkältung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erkältung",
+    "plural": "die Erkältungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erkältung",
+        "genitiv": "der Erkältung",
+        "dativ": "der Erkältung",
+        "akkusativ": "die Erkältung"
+      },
+      "plural": {
+        "nominativ": "die Erkältungen",
+        "genitiv": "der Erkältungen",
+        "dativ": "den Erkältungen",
+        "akkusativ": "die Erkältungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rhume"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğuk algınlığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زكام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kalt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erkälten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnupfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fieber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Husten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erkeltung",
+    "Erkähltung",
+    "Erkaltung",
+    "Erkählung",
+    "Erkälltung"
+  ]
+}

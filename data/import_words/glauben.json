@@ -1,0 +1,99 @@
+{
+  "lemma": "glauben",
+  "wortart": "Verb",
+  "silben": "glau-ben",
+  "begriffserklaerung": "Wenn du glaubst, denkst du, dass etwas wahr ist, oder du vertraust jemandem.",
+  "beispielsatz": "Ich glaube, dass morgen die Sonne scheint.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „glau-ben\". Du hörst ein langes „au\" – dafür brauchst du kein Dehnungs-h. Sprich alle Buchstaben mit: g-l-a-u-b-e-n.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "glaub"
+  ],
+  "bild_datei": "glauben.webp",
+  "audio_datei": "glauben.mp3",
+  "grammatische_formen": {
+    "infinitiv": "glauben",
+    "praesens": {
+      "ich": "glaube",
+      "du": "glaubst",
+      "er_sie_es": "glaubt",
+      "wir": "glauben",
+      "ihr": "glaubt",
+      "sie": "glauben"
+    },
+    "perfekt": {
+      "ich": "habe geglaubt",
+      "du": "hast geglaubt",
+      "er_sie_es": "hat geglaubt",
+      "wir": "haben geglaubt",
+      "ihr": "habt geglaubt",
+      "sie": "haben geglaubt"
+    },
+    "praeteritum": {
+      "ich": "glaubte",
+      "du": "glaubtest",
+      "er_sie_es": "glaubte",
+      "wir": "glaubten",
+      "ihr": "glaubtet",
+      "sie": "glaubten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to believe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "croire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُؤمن / يَعتقد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glaube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gläubig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "meinen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vertrauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hoffen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zweifeln"
+    }
+  ],
+  "fehlschreibungen": [
+    "glaubn",
+    "glauden",
+    "glauben",
+    "klauben",
+    "glouben",
+    "glaben"
+  ]
+}

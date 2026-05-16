@@ -1,0 +1,82 @@
+{
+  "lemma": "Knie",
+  "wortart": "Nomen",
+  "silben": "Knie",
+  "begriffserklaerung": "Das Knie ist das Gelenk in der Mitte deines Beines. Es verbindet den Oberschenkel mit dem Unterschenkel und hilft dir beim Gehen, Laufen und Springen.",
+  "beispielsatz": "Beim Sturz vom Fahrrad hat sich Emma das Knie aufgeschürft.",
+  "rechtschreibstrategie": "Das Knie endet auf -ie, aber das „i\" und das „e\" gehören zusammen und klingen wie ein langes „i\". Merke dir: Das Knie hat ein stilles „e\" am Ende – man hört es nicht, aber man schreibt es!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Knie",
+    "plural": "die Knie",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Knie",
+        "genitiv": "des Knies",
+        "dativ": "dem Knie",
+        "akkusativ": "das Knie"
+      },
+      "plural": {
+        "nominativ": "die Knie",
+        "genitiv": "der Knie",
+        "dativ": "den Knien",
+        "akkusativ": "die Knie"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "knie"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knien"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "niederknien"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gelenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ellbogen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kni",
+    "Kny",
+    "Knieh",
+    "Knie",
+    "Kniee"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "knee"
+    },
+    {
+      "language_code": "fr",
+      "translation": "genou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ركبة"
+    }
+  ],
+  "bild_datei": "Knie.webp",
+  "audio_datei": "Knie.mp3"
+}

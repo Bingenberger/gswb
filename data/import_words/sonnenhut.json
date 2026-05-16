@@ -1,0 +1,83 @@
+{
+  "lemma": "Sonnenhut",
+  "wortart": "Nomen",
+  "silben": "Son-nen-hut",
+  "begriffserklaerung": "Ein Sonnenhut ist ein Hut mit einer breiten Krempe, der den Kopf und das Gesicht vor der Sonne schützt. Es gibt auch eine Pflanze, die so heißt, weil ihre Blüte wie ein Hut aussieht.",
+  "beispielsatz": "Im Sommer trägt Lena immer ihren bunten Sonnenhut, damit sie keinen Sonnenbrand bekommt.",
+  "rechtschreibstrategie": "„Sonnenhut\" ist aus zwei Wörtern zusammengesetzt: „Sonne\" und „Hut\". Schreibe beide Teile einfach zusammen – Son-nen-hut!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Hut"
+  ],
+  "bild_datei": "Sonnenhut.webp",
+  "audio_datei": "Sonnenhut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sun hat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chapeau de soleil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş şapkası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبعة الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strohhut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenbrille"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sonnenhut",
+    "plural": "die Sonnenhüte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sonnenhut",
+        "genitiv": "des Sonnenhutes",
+        "dativ": "dem Sonnenhut",
+        "akkusativ": "den Sonnenhut"
+      },
+      "plural": {
+        "nominativ": "die Sonnenhüte",
+        "genitiv": "der Sonnenhüte",
+        "dativ": "den Sonnenhüten",
+        "akkusativ": "die Sonnenhüte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sonenhut",
+    "Sonnenhuth",
+    "Zonnenhut",
+    "Sonnenhüt",
+    "Sonnnenhut"
+  ]
+}

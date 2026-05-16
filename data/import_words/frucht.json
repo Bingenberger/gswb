@@ -1,0 +1,90 @@
+{
+  "lemma": "Frucht",
+  "wortart": "Nomen",
+  "silben": "Frucht",
+  "begriffserklaerung": "Eine Frucht wächst an einer Pflanze und enthält oft Samen. Viele Früchte schmecken süß und sind gesund, zum Beispiel Äpfel, Orangen oder Erdbeeren.",
+  "beispielsatz": "Die reife Frucht fällt vom Baum ins weiche Gras.",
+  "rechtschreibstrategie": "Das Wort „Frucht\" endet auf -cht. Sprich es laut: „Frucht\" – du hörst das ch und das t am Ende. Schreib es so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Frucht"
+  ],
+  "bild_datei": "Frucht.webp",
+  "audio_datei": "Frucht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fruit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fruit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meyve"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فاكهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fruchtig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fruchtbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fruchtsaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Obst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frucht",
+    "plural": "die Früchte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frucht",
+        "genitiv": "der Frucht",
+        "dativ": "der Frucht",
+        "akkusativ": "die Frucht"
+      },
+      "plural": {
+        "nominativ": "die Früchte",
+        "genitiv": "der Früchte",
+        "dativ": "den Früchten",
+        "akkusativ": "die Früchte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frugt",
+    "Frucht",
+    "Fruct",
+    "Fruucht",
+    "Fruchd"
+  ]
+}

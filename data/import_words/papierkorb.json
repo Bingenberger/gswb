@@ -1,0 +1,85 @@
+{
+  "lemma": "Papierkorb",
+  "wortart": "Nomen",
+  "silben": "Pa-pier-korb",
+  "begriffserklaerung": "Ein Papierkorb ist ein kleiner Behälter, in den man Papierschnipsel, Zettel und anderen kleinen Müll wirft.",
+  "beispielsatz": "Ich werfe den zerknüllten Zettel in den Papierkorb.",
+  "rechtschreibstrategie": "Das Wort „Papierkorb\" besteht aus zwei Teilen: „Papier\" und „Korb\". Denk an beide Wörter, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Papier",
+    "Korb"
+  ],
+  "bild_datei": "Papierkorb.webp",
+  "audio_datei": "Papierkorb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wastepaper basket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corbeille à papier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kağıt sepeti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة المهملات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Korb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülleimer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abfalleimer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Papierkorb",
+    "plural": "die Papierkörbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Papierkorb",
+        "genitiv": "des Papierkorbs",
+        "dativ": "dem Papierkorb",
+        "akkusativ": "den Papierkorb"
+      },
+      "plural": {
+        "nominativ": "die Papierkörbe",
+        "genitiv": "der Papierkörbe",
+        "dativ": "den Papierkörben",
+        "akkusativ": "die Papierkörbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Papierkorpt",
+    "Papierkorp",
+    "Papierkorpp",
+    "Papirkorb",
+    "Papierkorb"
+  ]
+}

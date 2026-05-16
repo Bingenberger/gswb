@@ -1,0 +1,77 @@
+{
+  "lemma": "Brei",
+  "wortart": "Nomen",
+  "silben": "Brei",
+  "begriffserklaerung": "Brei ist eine weiche, dickflüssige Speise, die man zum Beispiel aus Haferflocken, Grieß oder Kartoffeln kocht.",
+  "beispielsatz": "Zum Frühstück isst Lena einen warmen Haferbrei mit Honig.",
+  "rechtschreibstrategie": "Das Wort „Brei\" hat den langen Vokal „ei\" – den hörst du deutlich beim Sprechen. Denk daran: Nach langem Vokal kommt kein doppelter Konsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Brei"
+  ],
+  "bild_datei": "Brei.webp",
+  "audio_datei": "Brei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "porridge / mush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouillie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lapa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصيدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "breiig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haferflocken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grieß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brei",
+    "plural": "die Breie",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brei",
+        "genitiv": "des Breies",
+        "dativ": "dem Brei",
+        "akkusativ": "den Brei"
+      },
+      "plural": {
+        "nominativ": "die Breie",
+        "genitiv": "der Breie",
+        "dativ": "den Breien",
+        "akkusativ": "die Breie"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brey",
+    "Brei",
+    "Breij",
+    "Brrei"
+  ]
+}

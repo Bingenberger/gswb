@@ -1,0 +1,82 @@
+{
+  "lemma": "Stock",
+  "wortart": "Nomen",
+  "silben": "Stock",
+  "begriffserklaerung": "Ein Stock ist ein langer, dünner Stab aus Holz. Man kann ihn beim Wandern benutzen oder damit spielen.",
+  "beispielsatz": "Der alte Mann geht mit einem Stock spazieren.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" kommt „ck\" – das zeigt dir, dass der Vokal kurz ist. Denk daran: kurzes „o\" → ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stock"
+  ],
+  "bild_datei": "Stock.webp",
+  "audio_datei": "Stock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stock",
+    "plural": "die Stöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stock",
+        "genitiv": "des Stockes",
+        "dativ": "dem Stock",
+        "akkusativ": "den Stock"
+      },
+      "plural": {
+        "nominativ": "die Stöcke",
+        "genitiv": "der Stöcke",
+        "dativ": "den Stöcken",
+        "akkusativ": "die Stöcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stick / cane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bâton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baston / sopa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stöckchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstocken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zweig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stab"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stok",
+    "Stoc",
+    "Shtock",
+    "Schtock",
+    "Stoeck"
+  ]
+}

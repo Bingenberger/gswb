@@ -1,0 +1,82 @@
+{
+  "lemma": "Tisch",
+  "wortart": "Nomen",
+  "silben": "Tisch",
+  "begriffserklaerung": "Ein Tisch ist ein Möbelstück mit einer flachen Platte und Beinen. Man kann daran essen, schreiben oder spielen.",
+  "beispielsatz": "Wir essen jeden Abend gemeinsam am Tisch.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „sch\" – sprich das Wort laut: „Tisch\". Du hörst, wie kurz das „i\" klingt. Merke dir: kurzes „i\" + sch = Tisch!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tisch"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tisch",
+    "plural": "die Tische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tisch",
+        "genitiv": "des Tisches",
+        "dativ": "dem Tisch",
+        "akkusativ": "den Tisch"
+      },
+      "plural": {
+        "nominativ": "die Tische",
+        "genitiv": "der Tische",
+        "dativ": "den Tischen",
+        "akkusativ": "die Tische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tich",
+    "Tisch",
+    "Tiisch",
+    "Disch",
+    "Tsh"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "table"
+    },
+    {
+      "language_code": "fr",
+      "translation": "table"
+    },
+    {
+      "language_code": "tr",
+      "translation": "masa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاولة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tischler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tischdecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tafel"
+    }
+  ],
+  "bild_datei": "Tisch.webp",
+  "audio_datei": "Tisch.mp3"
+}

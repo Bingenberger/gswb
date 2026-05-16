@@ -1,0 +1,83 @@
+{
+  "lemma": "Fänger",
+  "wortart": "Nomen",
+  "silben": "Fän-ger",
+  "begriffserklaerung": "Ein Fänger ist jemand, der etwas oder jemanden fängt – zum Beispiel beim Spiel oder beim Sport.",
+  "beispielsatz": "Beim Fangspiel auf dem Schulhof war Tim der Fänger.",
+  "rechtschreibstrategie": "Denke an das Verb „fangen\" – der kurze Vokal ä wird durch das ng „kurz gehalten\". Das Wort endet auf -er, weil es eine Person beschreibt.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fang"
+  ],
+  "bild_datei": "Fänger.webp",
+  "audio_datei": "Fänger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "catcher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "attrapeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yakalayıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صائد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fangspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jäger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Häscher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fänger",
+    "plural": "die Fänger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fänger",
+        "genitiv": "des Fängers",
+        "dativ": "dem Fänger",
+        "akkusativ": "den Fänger"
+      },
+      "plural": {
+        "nominativ": "die Fänger",
+        "genitiv": "der Fänger",
+        "dativ": "den Fängern",
+        "akkusativ": "die Fänger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fenger",
+    "Faenger",
+    "Fänger",
+    "Fäncker",
+    "Fengar",
+    "Fängar"
+  ]
+}

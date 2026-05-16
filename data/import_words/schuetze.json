@@ -1,0 +1,82 @@
+{
+  "lemma": "Schütze",
+  "wortart": "Nomen",
+  "silben": "Schüt-ze",
+  "begriffserklaerung": "Ein Schütze ist jemand, der mit einem Pfeil und Bogen oder einer anderen Waffe zielt und schießt. Schütze ist auch ein Sternzeichen.",
+  "beispielsatz": "Der Schütze trifft mit seinem Pfeil genau ins Ziel.",
+  "rechtschreibstrategie": "Das Wort „Schütze\" hat nach dem kurzen Vokal „ü\" ein „tz\". Kurzes „ü\" + „tz\" gehören zusammen – merke dir: kurzer Vokal, dann tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schütz"
+  ],
+  "bild_datei": "Schütze.webp",
+  "audio_datei": "Schütze.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schütze",
+    "plural": "die Schützen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schütze",
+        "genitiv": "des Schützen",
+        "dativ": "dem Schützen",
+        "akkusativ": "den Schützen"
+      },
+      "plural": {
+        "nominativ": "die Schützen",
+        "genitiv": "der Schützen",
+        "dativ": "den Schützen",
+        "akkusativ": "die Schützen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "archer / marksman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "archer / tireur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okçu / nişancı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رامٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogenschütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zielscheibe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bogenschütze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schüze",
+    "Schütse",
+    "Schüzze",
+    "Schützte",
+    "Schuetze"
+  ]
+}

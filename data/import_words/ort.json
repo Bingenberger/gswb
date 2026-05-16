@@ -1,0 +1,94 @@
+{
+  "lemma": "Ort",
+  "wortart": "Nomen",
+  "silben": "Ort",
+  "begriffserklaerung": "Ein Ort ist eine Stelle oder ein Platz, an dem sich jemand oder etwas befindet. Ein Ort kann auch eine kleine Stadt oder ein Dorf sein.",
+  "beispielsatz": "Unser Ort hat eine schöne alte Kirche in der Mitte.",
+  "rechtschreibstrategie": "„Ort\" hat nur einen Buchstaben vor dem t – sprich das Wort laut und deutlich: „Ort\". Das kurze „o\" zeigt dir, dass kein Dehnungs-h kommt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "ort"
+  ],
+  "bild_datei": "Ort.webp",
+  "audio_datei": "Ort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "place / town"
+    },
+    {
+      "language_code": "fr",
+      "translation": "endroit / lieu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yer / kasaba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكان / بلدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "örtlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ortschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ortsname"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dorf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adresse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ort",
+    "plural": "die Orte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ort",
+        "genitiv": "des Ortes",
+        "dativ": "dem Ort",
+        "akkusativ": "den Ort"
+      },
+      "plural": {
+        "nominativ": "die Orte",
+        "genitiv": "der Orte",
+        "dativ": "den Orten",
+        "akkusativ": "die Orte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ohrt",
+    "Oht",
+    "Orth",
+    "ort",
+    "Ortt"
+  ]
+}

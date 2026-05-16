@@ -1,0 +1,93 @@
+{
+  "lemma": "Verpackung",
+  "wortart": "Nomen",
+  "silben": "Ver-pa-ckung",
+  "begriffserklaerung": "Eine Verpackung ist eine Hülle aus Papier, Plastik, Glas oder Pappe, die etwas schützt und zusammenhält.",
+  "beispielsatz": "Mama öffnet die Verpackung der neuen Buntstifte vorsichtig.",
+  "rechtschreibstrategie": "Das Wort hat „ck\" nach dem kurzen Vokal „a\" – das zeigt, dass das „a\" kurz gesprochen wird: Ver-pa-ck-ung.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "packen",
+    "Pack"
+  ],
+  "bild_datei": "Verpackung.webp",
+  "audio_datei": "Verpackung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "packaging"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emballage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ambalaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغليف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "packen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einpacken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tüte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verpackung",
+    "plural": "die Verpackungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verpackung",
+        "genitiv": "der Verpackung",
+        "dativ": "der Verpackung",
+        "akkusativ": "die Verpackung"
+      },
+      "plural": {
+        "nominativ": "die Verpackungen",
+        "genitiv": "der Verpackungen",
+        "dativ": "den Verpackungen",
+        "akkusativ": "die Verpackungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferpakung",
+    "Verpackkung",
+    "Verpakung",
+    "Ferpackung",
+    "Verpackuing"
+  ]
+}

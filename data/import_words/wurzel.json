@@ -1,0 +1,82 @@
+{
+  "lemma": "Wurzel",
+  "wortart": "Nomen",
+  "silben": "Wur-zel",
+  "begriffserklaerung": "Die Wurzel ist der Teil einer Pflanze, der im Boden steckt. Sie saugt Wasser und Nährstoffe aus der Erde auf. Manche Wurzeln, wie Karotten oder Rüben, kann man auch essen.",
+  "beispielsatz": "Der Baum hat dicke Wurzeln, die tief in die Erde reichen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Wur-zel\". Höre beide Silben deutlich. Das „W\" am Anfang schreibt man immer groß, weil Wurzel ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wurzel"
+  ],
+  "bild_datei": "Wurzel.webp",
+  "audio_datei": "Wurzel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "root"
+    },
+    {
+      "language_code": "fr",
+      "translation": "racine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kök"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جذر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einwurzeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurzelgemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wurzel",
+    "plural": "die Wurzeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wurzel",
+        "genitiv": "der Wurzel",
+        "dativ": "der Wurzel",
+        "akkusativ": "die Wurzel"
+      },
+      "plural": {
+        "nominativ": "die Wurzeln",
+        "genitiv": "der Wurzeln",
+        "dativ": "den Wurzeln",
+        "akkusativ": "die Wurzeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wursel",
+    "Vurzel",
+    "Wurzzel",
+    "Wurtzel",
+    "Wuurzel"
+  ]
+}

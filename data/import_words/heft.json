@@ -1,0 +1,82 @@
+{
+  "lemma": "Heft",
+  "wortart": "Nomen",
+  "silben": "Heft",
+  "begriffserklaerung": "Ein Heft ist ein dünnes Buch mit leeren oder linierten Seiten. Kinder schreiben darin in der Schule.",
+  "beispielsatz": "Ich schreibe meine Hausaufgaben in mein Heft.",
+  "rechtschreibstrategie": "Das Wort „Heft\" endet auf -ft. Sprich es laut: Heft – Hefte. Im Plural hörst du das f und das t deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "heft"
+  ],
+  "bild_datei": "Heft.webp",
+  "audio_datei": "Heft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exercise book"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cahier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "defter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كراسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heften"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hefter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Block"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibheft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Heft",
+    "plural": "die Hefte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Heft",
+        "genitiv": "des Heftes",
+        "dativ": "dem Heft",
+        "akkusativ": "das Heft"
+      },
+      "plural": {
+        "nominativ": "die Hefte",
+        "genitiv": "der Hefte",
+        "dativ": "den Heften",
+        "akkusativ": "die Hefte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hef",
+    "Hefft",
+    "Hept",
+    "Hepft",
+    "Haeft"
+  ]
+}

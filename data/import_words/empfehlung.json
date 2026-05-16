@@ -1,0 +1,93 @@
+{
+  "lemma": "Empfehlung",
+  "wortart": "Nomen",
+  "silben": "Emp-feh-lung",
+  "begriffserklaerung": "Eine Empfehlung ist, wenn dir jemand sagt, dass etwas besonders gut ist und du es ausprobieren oder tun solltest.",
+  "beispielsatz": "Die Lehrerin gab uns eine Empfehlung für ein tolles Buch.",
+  "rechtschreibstrategie": "Denk an das Wort „empfehlen\" – da hörst du das „eh\" ganz deutlich. Das „h\" nach dem „e\" macht den Vokal lang, schreib also: emp-feh-len → Emp-feh-lung.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "empfehl"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Empfehlung",
+    "plural": "die Empfehlungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Empfehlung",
+        "genitiv": "der Empfehlung",
+        "dativ": "der Empfehlung",
+        "akkusativ": "die Empfehlung"
+      },
+      "plural": {
+        "nominativ": "die Empfehlungen",
+        "genitiv": "der Empfehlungen",
+        "dativ": "den Empfehlungen",
+        "akkusativ": "die Empfehlungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Empfellung",
+    "Empfeling",
+    "Empfehlung",
+    "Empfählung",
+    "Empfelung",
+    "Emfehlung"
+  ],
+  "bild_datei": "Empfehlung.webp",
+  "audio_datei": "Empfehlung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recommendation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "recommandation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavsiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توصية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "empfehlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "empfehlenswert"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tipp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ratschlag"
+    }
+  ]
+}

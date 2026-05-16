@@ -1,0 +1,88 @@
+{
+  "lemma": "Jogging",
+  "wortart": "Nomen",
+  "silben": "Jog-ging",
+  "begriffserklaerung": "Jogging ist eine Sportart, bei der man in einem ruhigen, gleichmäßigen Tempo läuft. Man macht das oft draußen im Park oder auf einem Weg, um fit und gesund zu bleiben.",
+  "beispielsatz": "Jeden Morgen geht Papa eine Runde Jogging im Park.",
+  "rechtschreibstrategie": "Das Wort „Jogging\" kommt aus dem Englischen. Schreibe es mit „J\" am Anfang und am Ende mit „gg\" – wie du es sprichst: Jog-ging.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "jogg"
+  ],
+  "bild_datei": "Jogging.webp",
+  "audio_datei": "Jogging.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Jogging",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Jogging",
+        "genitiv": "des Joggings",
+        "dativ": "dem Jogging",
+        "akkusativ": "das Jogging"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jogging"
+    },
+    {
+      "language_code": "fr",
+      "translation": "le jogging"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجري الخفيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "joggen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jogger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fitness"
+    }
+  ],
+  "fehlschreibungen": [
+    "Joging",
+    "Joggin",
+    "Djogging",
+    "Jogging",
+    "Yogging",
+    "Joggiing"
+  ]
+}

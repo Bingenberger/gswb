@@ -1,0 +1,72 @@
+{
+  "lemma": "Beamer",
+  "wortart": "Nomen",
+  "silben": "Bea-mer",
+  "begriffserklaerung": "Ein Beamer ist ein Gerät, das Bilder oder Videos von einem Computer oder Handy groß an eine Wand oder Leinwand wirft.",
+  "beispielsatz": "Die Lehrerin zeigt den Film mit dem Beamer an der Wand.",
+  "rechtschreibstrategie": "Denk an das englische Wort „beam\" (Strahl) – der Beamer strahlt Bilder an die Wand. Schreibe: B-e-a-m-e-r.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Beamer.webp",
+  "audio_datei": "Beamer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "projector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "projecteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "projektör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leinwand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Projektor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beamer",
+    "plural": "die Beamer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beamer",
+        "genitiv": "des Beamers",
+        "dativ": "dem Beamer",
+        "akkusativ": "den Beamer"
+      },
+      "plural": {
+        "nominativ": "die Beamer",
+        "genitiv": "der Beamer",
+        "dativ": "den Beamern",
+        "akkusativ": "die Beamer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beammer",
+    "Beemer",
+    "Bemer",
+    "Beamер",
+    "Beamer"
+  ]
+}

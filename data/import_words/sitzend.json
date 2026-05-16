@@ -1,0 +1,71 @@
+{
+  "lemma": "sitzend",
+  "wortart": "Adjektiv",
+  "silben": "sit-zend",
+  "begriffserklaerung": "Wer sitzend ist, befindet sich in einer Haltung, bei der der Körper auf einem Stuhl, einer Bank oder dem Boden ruht – die Beine sind dabei nach unten gerichtet.",
+  "beispielsatz": "Das sitzende Kind liest ein spannendes Buch.",
+  "rechtschreibstrategie": "Das Wort „sitzend\" kommt von „sitzen\". Das „tz\" schreibt man nach einem kurzen Vokal – sprich das kurze „i\" und dann folgt sofort „tz\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sitz"
+  ],
+  "bild_datei": "sitzend.webp",
+  "audio_datei": "sitzend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sitting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جالس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stehend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "liegend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hockend"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "sitzend",
+    "komparativ": "sitzender",
+    "superlativ": "am sitzendsten"
+  },
+  "fehlschreibungen": [
+    "sizend",
+    "sizzend",
+    "sitzent",
+    "sitzend",
+    "sitsend",
+    "sittzend"
+  ]
+}

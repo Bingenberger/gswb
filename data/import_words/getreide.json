@@ -1,0 +1,82 @@
+{
+  "lemma": "Getreide",
+  "wortart": "Nomen",
+  "silben": "Ge-trei-de",
+  "begriffserklaerung": "Getreide sind Pflanzen wie Weizen, Roggen oder Hafer, deren Körner geerntet und zu Mehl, Brot oder Flocken verarbeitet werden.",
+  "beispielsatz": "Auf dem Feld wächst goldenes Getreide, das bald geerntet wird.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-trei-de. Achte auf das „ei\" in der Mitte – das klingt wie „ai\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "treid"
+  ],
+  "bild_datei": "Getreide.webp",
+  "audio_datei": "Getreide.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Getreide",
+    "plural": "die Getreide",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Getreide",
+        "genitiv": "des Getreides",
+        "dativ": "dem Getreide",
+        "akkusativ": "das Getreide"
+      },
+      "plural": {
+        "nominativ": "die Getreide",
+        "genitiv": "der Getreide",
+        "dativ": "den Getreide",
+        "akkusativ": "die Getreide"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grain / cereal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "céréale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahıl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حبوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Getreidefeld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Getreidekorn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weizen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roggen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Getreite",
+    "Getraide",
+    "Getreid",
+    "Getreide",
+    "Getrreide"
+  ]
+}

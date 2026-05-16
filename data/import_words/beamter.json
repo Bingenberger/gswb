@@ -1,0 +1,82 @@
+{
+  "lemma": "Beamter",
+  "wortart": "Nomen",
+  "silben": "Be-am-ter",
+  "begriffserklaerung": "Ein Beamter ist jemand, der für den Staat oder die Stadt arbeitet, zum Beispiel als Polizist oder Lehrer an einer staatlichen Schule.",
+  "beispielsatz": "Der Beamter auf dem Amt hat uns sehr freundlich geholfen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Be-am-ter. Das „a\" und das „m\" gehören zu verschiedenen Silben – darum schreibt man nur ein „m\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Amt"
+  ],
+  "bild_datei": "Beamter.webp",
+  "audio_datei": "Beamter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "civil servant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fonctionnaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "memur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موظف حكومي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Amt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beamtin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behörde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Staatsangestellter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beamter",
+    "plural": "die Beamten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beamte",
+        "genitiv": "des Beamten",
+        "dativ": "dem Beamten",
+        "akkusativ": "den Beamten"
+      },
+      "plural": {
+        "nominativ": "die Beamten",
+        "genitiv": "der Beamten",
+        "dativ": "den Beamten",
+        "akkusativ": "die Beamten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beamtter",
+    "Beahmter",
+    "Beamder",
+    "Beemter",
+    "Behamter"
+  ]
+}

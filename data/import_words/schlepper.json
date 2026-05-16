@@ -1,0 +1,81 @@
+{
+  "lemma": "Schlepper",
+  "wortart": "Nomen",
+  "silben": "Schlep-per",
+  "begriffserklaerung": "Ein Schlepper ist ein kräftiges Fahrzeug, das schwere Lasten oder andere Fahrzeuge zieht. Auf dem Bauernhof nennt man ihn auch Traktor.",
+  "beispielsatz": "Der Schlepper zieht den großen Anhänger über das Feld.",
+  "rechtschreibstrategie": "Das Wort „Schlepper\" hat ein doppeltes p. Das erkennst du, weil das e davor kurz klingt – nach kurzem Vokal folgt oft ein Doppelkonsonant.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schlepp"
+  ],
+  "bild_datei": "Schlepper.webp",
+  "audio_datei": "Schlepper.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tractor / tug"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tracteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "traktör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schleppen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlepptau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traktor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anhänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Traktor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlepper",
+    "plural": "die Schlepper",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlepper",
+        "genitiv": "des Schleppers",
+        "dativ": "dem Schlepper",
+        "akkusativ": "den Schlepper"
+      },
+      "plural": {
+        "nominativ": "die Schlepper",
+        "genitiv": "der Schlepper",
+        "dativ": "den Schleppern",
+        "akkusativ": "die Schlepper"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schleper",
+    "Schläpper",
+    "Schläper",
+    "Schleppper"
+  ]
+}

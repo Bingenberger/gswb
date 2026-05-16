@@ -1,0 +1,82 @@
+{
+  "lemma": "Salat",
+  "wortart": "Nomen",
+  "silben": "Sa-lat",
+  "begriffserklaerung": "Ein Salat ist ein Gericht aus frischem Gemüse oder Blättern, das oft mit einer leckeren Soße angemacht wird.",
+  "beispielsatz": "Mama macht heute einen bunten Salat mit Tomaten und Gurken.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Sa – lat. Am Ende hörst du ein kurzes „a\", danach folgt nur ein „t\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Salat"
+  ],
+  "bild_datei": "Salat.webp",
+  "audio_datei": "Salat.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Salat",
+    "plural": "die Salate",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Salat",
+        "genitiv": "des Salats",
+        "dativ": "dem Salat",
+        "akkusativ": "den Salat"
+      },
+      "plural": {
+        "nominativ": "die Salate",
+        "genitiv": "der Salate",
+        "dativ": "den Salaten",
+        "akkusativ": "die Salate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salad"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "salata"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salatblatt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salatsauce"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tomate"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gurke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sallat",
+    "Zalat",
+    "Salatt",
+    "Sahlaht",
+    "Sallatt"
+  ]
+}

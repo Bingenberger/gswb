@@ -1,0 +1,83 @@
+{
+  "lemma": "Badehose",
+  "wortart": "Nomen",
+  "silben": "Ba-de-ho-se",
+  "begriffserklaerung": "Eine Badehose ist eine kurze Hose, die man beim Schwimmen oder am Strand trägt.",
+  "beispielsatz": "Tim zieht seine blaue Badehose an, bevor er ins Schwimmbad springt.",
+  "rechtschreibstrategie": "„Badehose\" ist aus zwei Wörtern zusammengesetzt: „Baden\" und „Hose\". Sprich beide Teile deutlich: BA-DE-HO-SE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "bad",
+    "hos"
+  ],
+  "bild_datei": "Badehose.webp",
+  "audio_datei": "Badehose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Badehose",
+    "plural": "die Badehosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Badehose",
+        "genitiv": "der Badehose",
+        "dativ": "der Badehose",
+        "akkusativ": "die Badehose"
+      },
+      "plural": {
+        "nominativ": "die Badehosen",
+        "genitiv": "der Badehosen",
+        "dativ": "den Badehosen",
+        "akkusativ": "die Badehosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swimming trunks"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maillot de bain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mayo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملابس السباحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hos"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badeanzug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwimmbad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    }
+  ],
+  "fehlschreibungen": [
+    "Badehohse",
+    "Baddehose",
+    "Badehohze",
+    "Badhose",
+    "Badehoosse"
+  ]
+}

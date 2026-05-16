@@ -1,0 +1,82 @@
+{
+  "lemma": "Funke",
+  "wortart": "Nomen",
+  "silben": "Fun-ke",
+  "begriffserklaerung": "Ein Funke ist ein winzig kleines, leuchtendes Teilchen, das beim Brennen oder beim Reiben von harten Gegenständen entsteht.",
+  "beispielsatz": "Als Papa das Lagerfeuer anzündete, sprühten viele kleine Funken in die Luft.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich: Fun-ke. Nach dem kurzen „u\" kommt ein „n\" und dann „k\" – kein Doppelbuchstabe nötig, denn das „n\" macht den Vokal schon kurz.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "funk"
+  ],
+  "bild_datei": "Funke.webp",
+  "audio_datei": "Funke.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Funke",
+    "plural": "die Funken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Funke",
+        "genitiv": "des Funkens",
+        "dativ": "dem Funken",
+        "akkusativ": "den Funken"
+      },
+      "plural": {
+        "nominativ": "die Funken",
+        "genitiv": "der Funken",
+        "dativ": "den Funken",
+        "akkusativ": "die Funken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spark"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étincelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıvılcım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "funkeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "funkensprühend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fünkchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Funcke",
+    "Funck",
+    "Funge",
+    "Vunke",
+    "Funken"
+  ]
+}

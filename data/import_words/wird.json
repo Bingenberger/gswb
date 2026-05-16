@@ -1,0 +1,87 @@
+{
+  "lemma": "wird",
+  "wortart": "Verb",
+  "silben": "wird",
+  "begriffserklaerung": "„wird\" ist eine Form des Verbs „werden\". Es beschreibt, dass etwas passiert oder sich verändert.",
+  "beispielsatz": "Es wird heute noch regnen.",
+  "rechtschreibstrategie": "Das Wort „wird\" endet auf -rd. Denke daran: kein doppeltes d am Ende! Leite es vom Infinitiv „werden\" ab – dann siehst du das d.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "werden"
+  ],
+  "bild_datei": "wird.webp",
+  "audio_datei": "wird.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "becomes / will (be)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "devient"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olur / olacak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصبح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "werden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geworden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bleiben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "werden",
+    "praesens": {
+      "ich": "werde",
+      "du": "wirst",
+      "er_sie_es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie": "werden"
+    },
+    "perfekt": {
+      "ich": "bin geworden",
+      "du": "bist geworden",
+      "er_sie_es": "ist geworden",
+      "wir": "sind geworden",
+      "ihr": "seid geworden",
+      "sie": "sind geworden"
+    },
+    "praeteritum": {
+      "ich": "wurde",
+      "du": "wurdest",
+      "er_sie_es": "wurde",
+      "wir": "wurden",
+      "ihr": "wurdet",
+      "sie": "wurden"
+    }
+  },
+  "fehlschreibungen": [
+    "wirrd",
+    "wirt",
+    "wird't",
+    "wirdt",
+    "wierd"
+  ]
+}

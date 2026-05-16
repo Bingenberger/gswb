@@ -1,0 +1,94 @@
+{
+  "lemma": "grillen",
+  "wortart": "Verb",
+  "silben": "gril-len",
+  "begriffserklaerung": "Beim Grillen gart man Fleisch, Gemüse oder Würstchen auf einem heißen Rost über Feuer oder Glut.",
+  "beispielsatz": "Im Sommer grillen wir im Garten leckere Würstchen.",
+  "rechtschreibstrategie": "Das Wort „grillen\" hat zwei l in der Mitte – das l ist verdoppelt, weil der Vokal davor kurz gesprochen wird: gril-len.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "grill"
+  ],
+  "bild_datei": "grillen.webp",
+  "audio_datei": "grillen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to grill / to barbecue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "griller / faire un barbecue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ızgara yapmak / mangal yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يشوي / يطهو على الشواية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grill"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grillparty"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "braten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Würstchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "braten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "grillen",
+    "praesens": {
+      "ich": "grille",
+      "du": "grillst",
+      "er_sie_es": "grillt",
+      "wir": "grillen",
+      "ihr": "grillt",
+      "sie": "grillen"
+    },
+    "perfekt": {
+      "ich": "habe gegrillt",
+      "du": "hast gegrillt",
+      "er_sie_es": "hat gegrillt",
+      "wir": "haben gegrillt",
+      "ihr": "habt gegrillt",
+      "sie": "haben gegrillt"
+    },
+    "praeteritum": {
+      "ich": "grillte",
+      "du": "grilltest",
+      "er_sie_es": "grillte",
+      "wir": "grillten",
+      "ihr": "grilltet",
+      "sie": "grillten"
+    }
+  },
+  "fehlschreibungen": [
+    "grilen",
+    "grillen",
+    "grellen",
+    "grилlen",
+    "grilln"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "Schmerz",
+  "wortart": "Nomen",
+  "silben": "Schmerz",
+  "begriffserklaerung": "Ein Schmerz ist ein unangenehmes Gefühl im Körper, das zum Beispiel entsteht, wenn man sich verletzt oder krank ist.",
+  "beispielsatz": "Mein Knie tut weh – der Schmerz geht hoffentlich bald weg!",
+  "rechtschreibstrategie": "Höre genau hin: Das „e\" in „Schmerz\" sprichst du kurz. Am Ende steht ein „z\" – schreib kein „s\" oder „tz\" dafür!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schmerz"
+  ],
+  "bild_datei": "Schmerz.webp",
+  "audio_datei": "Schmerz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "douleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağrı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmerzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmerzlos"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmerzhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schmerz",
+    "plural": "die Schmerzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schmerz",
+        "genitiv": "des Schmerzes",
+        "dativ": "dem Schmerz",
+        "akkusativ": "den Schmerz"
+      },
+      "plural": {
+        "nominativ": "die Schmerzen",
+        "genitiv": "der Schmerzen",
+        "dativ": "den Schmerzen",
+        "akkusativ": "die Schmerzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Smerz",
+    "Schmertz",
+    "Schmerß",
+    "Schmerz",
+    "Schmers"
+  ]
+}

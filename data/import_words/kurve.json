@@ -1,0 +1,86 @@
+{
+  "lemma": "Kurve",
+  "wortart": "Nomen",
+  "silben": "Kur-ve",
+  "begriffserklaerung": "Eine Kurve ist eine gebogene Linie oder ein gebogener Weg, der nicht gerade verläuft.",
+  "beispielsatz": "Das Auto fährt langsam um die enge Kurve.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich: Kur-ve. Das „v\" klingt wie ein „f\", wird aber mit „v\" geschrieben – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "kurv"
+  ],
+  "bild_datei": "Kurve.webp",
+  "audio_datei": "Kurve.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kurve",
+    "plural": "die Kurven",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kurve",
+        "genitiv": "der Kurve",
+        "dativ": "der Kurve",
+        "akkusativ": "die Kurve"
+      },
+      "plural": {
+        "nominativ": "die Kurven",
+        "genitiv": "der Kurven",
+        "dativ": "den Kurven",
+        "akkusativ": "die Kurven"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "curve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "courbe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "viraj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منحنى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kurven"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kurvig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Biegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreuzung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Curfe",
+    "Kurfe",
+    "Curve",
+    "Kuhrve",
+    "Kuurve"
+  ]
+}

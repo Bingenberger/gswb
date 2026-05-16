@@ -1,0 +1,87 @@
+{
+  "lemma": "Diener",
+  "wortart": "Nomen",
+  "silben": "Die-ner",
+  "begriffserklaerung": "Ein Diener ist ein Mensch, der für andere Menschen arbeitet und ihnen hilft, zum Beispiel im Haushalt oder bei der Arbeit.",
+  "beispielsatz": "Der Diener brachte dem König das Essen auf einem goldenen Tablett.",
+  "rechtschreibstrategie": "Denke an das Wort „dienen\" – davon kommt „Diener\". Das ie sprichst du lang, wie in „die\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "dien"
+  ],
+  "bild_datei": "Diener.webp",
+  "audio_datei": "Diener.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Diener",
+    "plural": "die Diener",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Diener",
+        "genitiv": "des Dieners",
+        "dativ": "dem Diener",
+        "akkusativ": "den Diener"
+      },
+      "plural": {
+        "nominativ": "die Diener",
+        "genitiv": "der Diener",
+        "dativ": "den Dienern",
+        "akkusativ": "die Diener"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "servant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serviteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hizmetçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خادم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dienen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Helfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "König"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Diner",
+    "Dihner",
+    "Diehner",
+    "Dieener",
+    "Dierner"
+  ]
+}

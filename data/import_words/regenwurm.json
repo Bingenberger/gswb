@@ -1,0 +1,84 @@
+{
+  "lemma": "Regenwurm",
+  "wortart": "Nomen",
+  "silben": "Re-gen-wurm",
+  "begriffserklaerung": "Ein Regenwurm ist ein kleines, langes Tier ohne Beine, das im Boden lebt und die Erde lockert.",
+  "beispielsatz": "Nach dem Regen kriechen viele Regenwürmer aus der Erde.",
+  "rechtschreibstrategie": "„Regenwurm\" ist ein zusammengesetztes Wort aus „Regen\" und „Wurm\". Sprich beide Teile einzeln: RE-GEN + WURM.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wurm",
+    "Regen"
+  ],
+  "bild_datei": "Regenwurm.webp",
+  "audio_datei": "Regenwurm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "earthworm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ver de terre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "solucan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دودة الأرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Regenwurm",
+    "plural": "die Regenwürmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Regenwurm",
+        "genitiv": "des Regenwurms",
+        "dativ": "dem Regenwurm",
+        "akkusativ": "den Regenwurm"
+      },
+      "plural": {
+        "nominativ": "die Regenwürmer",
+        "genitiv": "der Regenwürmer",
+        "dativ": "den Regenwürmern",
+        "akkusativ": "die Regenwürmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Regenwurm",
+    "Regenwhurm",
+    "Regenwuhrm",
+    "Regenworm",
+    "Rägenwurm",
+    "Regenwurrm"
+  ]
+}

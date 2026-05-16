@@ -1,0 +1,83 @@
+{
+  "lemma": "Arbeitstisch",
+  "wortart": "Nomen",
+  "silben": "Ar-beits-tisch",
+  "begriffserklaerung": "Ein Arbeitstisch ist ein Tisch, an dem man arbeitet, malt, schreibt oder bastelt.",
+  "beispielsatz": "Auf meinem Arbeitstisch liegen Stifte, Hefte und mein Lineal.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Arbeit\" und „Tisch\". Sprich beide Teile einzeln: AR-BEITS-TISCH. So schreibst du keinen Teil falsch!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit",
+    "Tisch"
+  ],
+  "bild_datei": "Arbeitstisch.webp",
+  "audio_datei": "Arbeitstisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "work desk / worktable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau / table de travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalışma masası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاولة العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibtisch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Arbeitstisch",
+    "plural": "die Arbeitstische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Arbeitstisch",
+        "genitiv": "des Arbeitstisches",
+        "dativ": "dem Arbeitstisch",
+        "akkusativ": "den Arbeitstisch"
+      },
+      "plural": {
+        "nominativ": "die Arbeitstische",
+        "genitiv": "der Arbeitstische",
+        "dativ": "den Arbeitstischen",
+        "akkusativ": "die Arbeitstische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arbeittisch",
+    "Arbeitstich",
+    "Arbbeitstisch",
+    "Arbeistisch",
+    "Arbaittisch"
+  ]
+}

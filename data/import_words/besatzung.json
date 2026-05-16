@@ -1,0 +1,89 @@
+{
+  "lemma": "Besatzung",
+  "wortart": "Nomen",
+  "silben": "Be-sat-zung",
+  "begriffserklaerung": "Eine Besatzung ist die Gruppe von Menschen, die zusammen ein Schiff, ein Flugzeug oder ein Fahrzeug steuern und bedienen.",
+  "beispielsatz": "Die Besatzung des Schiffes rettete alle Passagiere sicher an Land.",
+  "rechtschreibstrategie": "Denk an das Wort „setzen\" – daraus wird „Besatzung\" mit tz, weil nach dem kurzen „a\" ein tz geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "setzen",
+    "Satz"
+  ],
+  "bild_datei": "Besatzung.webp",
+  "audio_datei": "Besatzung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Besatzung",
+    "plural": "die Besatzungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Besatzung",
+        "genitiv": "der Besatzung",
+        "dativ": "der Besatzung",
+        "akkusativ": "die Besatzung"
+      },
+      "plural": {
+        "nominativ": "die Besatzungen",
+        "genitiv": "der Besatzungen",
+        "dativ": "den Besatzungen",
+        "akkusativ": "die Besatzungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crew"
+    },
+    {
+      "language_code": "fr",
+      "translation": "équipage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mürettebat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاقم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "setzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Besazung",
+    "Besatzuung",
+    "Besatzunk",
+    "Besazzung",
+    "Besatsung"
+  ]
+}

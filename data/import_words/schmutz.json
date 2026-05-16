@@ -1,0 +1,87 @@
+{
+  "lemma": "Schmutz",
+  "wortart": "Nomen",
+  "silben": "Schmutz",
+  "begriffserklaerung": "Schmutz ist alles, was schmutzig macht – zum Beispiel Dreck, Staub oder Flecken.",
+  "beispielsatz": "Nach dem Spielen im Garten hatte Lena Schmutz an den Händen.",
+  "rechtschreibstrategie": "Das Wort hat nur eine Silbe und endet auf „tz\" – das „tz\" steht nach dem kurzen Vokal „u\". Merke: kurzes „u\" → „tz\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schmutz"
+  ],
+  "bild_datei": "Schmutz.webp",
+  "audio_datei": "Schmutz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schmutz",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schmutz",
+        "genitiv": "des Schmutzes",
+        "dativ": "dem Schmutz",
+        "akkusativ": "den Schmutz"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dirt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saleté"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وَسَخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmutzig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschmutzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dreck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schmutz",
+    "Schumutz",
+    "Schmuds",
+    "Schmutzz",
+    "Smutz",
+    "Schmotz"
+  ]
+}

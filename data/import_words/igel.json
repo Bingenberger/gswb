@@ -1,0 +1,77 @@
+{
+  "lemma": "Igel",
+  "wortart": "Nomen",
+  "silben": "I-gel",
+  "begriffserklaerung": "Ein Igel ist ein kleines Tier mit vielen spitzen Stacheln auf dem Rücken. Er lebt im Wald und in Gärten und schläft im Winter.",
+  "beispielsatz": "Der Igel rollt sich zu einer Kugel zusammen, wenn er Angst hat.",
+  "rechtschreibstrategie": "Sprich das Wort laut: I-gel. Denke daran: Nach dem langen „I\" kommt nur ein „g\" – kein Doppel-g!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Igel"
+  ],
+  "bild_datei": "Igel.webp",
+  "audio_datei": "Igel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hedgehog"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hérisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kirpi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قنفذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Igelstachel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichhörnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maulwurf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Igel",
+    "plural": "die Igel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Igel",
+        "genitiv": "des Igels",
+        "dativ": "dem Igel",
+        "akkusativ": "den Igel"
+      },
+      "plural": {
+        "nominativ": "die Igel",
+        "genitiv": "der Igel",
+        "dativ": "den Igeln",
+        "akkusativ": "die Igel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Iegel",
+    "Igell",
+    "Iggel",
+    "Yigel"
+  ]
+}

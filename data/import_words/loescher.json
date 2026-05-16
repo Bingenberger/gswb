@@ -1,0 +1,82 @@
+{
+  "lemma": "Löscher",
+  "wortart": "Nomen",
+  "silben": "Lö-scher",
+  "beispielsatz": "Der rote Löscher hängt an der Wand und hilft bei einem Brand.",
+  "begriffserklaerung": "Ein Löscher ist ein Gerät, mit dem man Feuer löschen kann. Man nennt ihn auch Feuerlöscher.",
+  "rechtschreibstrategie": "Denk an das Verb „löschen\" – davon kommt das Wort. Das ö schreibst du wie in „löschen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lösch"
+  ],
+  "bild_datei": "Löscher.webp",
+  "audio_datei": "Löscher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "extinguisher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "extincteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yangın söndürücü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طفاية الحريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "löschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuerlöscher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Löscher",
+    "plural": "die Löscher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Löscher",
+        "genitiv": "des Löschers",
+        "dativ": "dem Löscher",
+        "akkusativ": "den Löscher"
+      },
+      "plural": {
+        "nominativ": "die Löscher",
+        "genitiv": "der Löscher",
+        "dativ": "den Löschern",
+        "akkusativ": "die Löscher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lösher",
+    "Leoscher",
+    "Löscer",
+    "Löcher",
+    "Löschar"
+  ]
+}

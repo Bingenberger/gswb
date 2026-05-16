@@ -1,0 +1,78 @@
+{
+  "lemma": "Legostein",
+  "wortart": "Nomen",
+  "silben": "Le-go-stein",
+  "begriffserklaerung": "Ein Legostein ist ein kleiner bunter Plastikbaustein, den man mit anderen Steinen zusammenstecken kann, um Gebäude, Fahrzeuge oder Figuren zu bauen.",
+  "beispielsatz": "Ich baue aus einem roten Legostein und vielen blauen Steinen ein tolles Haus.",
+  "rechtschreibstrategie": "„Legostein\" ist ein zusammengesetztes Wort aus „Lego\" und „Stein\". Sprich beide Teile einzeln: Le-go + Stein. So erkennst du, wie man es schreibt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stein"
+  ],
+  "bild_datei": "Legostein.webp",
+  "audio_datei": "Legostein.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Legostein",
+    "plural": "die Legosteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Legostein",
+        "genitiv": "des Legosteins",
+        "dativ": "dem Legostein",
+        "akkusativ": "den Legostein"
+      },
+      "plural": {
+        "nominativ": "die Legosteine",
+        "genitiv": "der Legosteine",
+        "dativ": "den Legosteinen",
+        "akkusativ": "die Legosteine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Lego brick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brique Lego"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Lego parçası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة ليغو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bausatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Legosten",
+    "Leggostein",
+    "Legoshtein",
+    "Legoschtein",
+    "Lehgostein"
+  ]
+}

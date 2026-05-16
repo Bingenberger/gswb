@@ -1,0 +1,85 @@
+{
+  "lemma": "Eischnee",
+  "wortart": "Nomen",
+  "silben": "Ei-schnee",
+  "begriffserklaerung": "Eischnee ist steif geschlagenes Eiweiß. Wenn man das Weiße vom Ei lange mit einem Mixer schlägt, wird es weiß und fest wie Schaum. Man braucht ihn beim Backen.",
+  "beispielsatz": "Mama schlägt den Eischnee so lange, bis er ganz fest und weiß ist.",
+  "rechtschreibstrategie": "Das Wort „Eischnee\" besteht aus zwei Teilen: „Ei\" und „Schnee\". Sprich beide Teile laut: Ei – Schnee. Denk daran: „Schnee\" schreibt man mit „sch\" und doppeltem „ee\" am Ende – genau wie das Wort „Schnee\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Ei",
+    "Schnee"
+  ],
+  "bild_datei": "Eischnee.webp",
+  "audio_datei": "Eischnee.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eischnee",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eischnee",
+        "genitiv": "des Eischnees",
+        "dativ": "dem Eischnee",
+        "akkusativ": "den Eischnee"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beaten egg white"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blanc en neige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar haline getirilmiş yumurta akı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بياض البيض المخفوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eiweiß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eißchnee",
+    "Eischne",
+    "Eishcnee",
+    "Eichnee",
+    "Eischneeh",
+    "Aischnee"
+  ]
+}

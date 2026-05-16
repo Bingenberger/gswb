@@ -1,0 +1,90 @@
+{
+  "lemma": "Lacher",
+  "wortart": "Nomen",
+  "silben": "La-cher",
+  "begriffserklaerung": "Ein Lacher ist ein kurzes, lautes Lachen. Man sagt auch: etwas hat einen Lacher ausgelöst, wenn alle plötzlich lachen müssen.",
+  "beispielsatz": "Der Witz des Lehrers sorgte für einen großen Lacher in der ganzen Klasse.",
+  "rechtschreibstrategie": "Denk an das Verb „lachen\" – davon kommt „Lacher\". Du hörst klar: La-cher. Schreib es genau so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lach"
+  ],
+  "bild_datei": "Lacher.webp",
+  "audio_datei": "Lacher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lacher",
+    "plural": "die Lacher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lacher",
+        "genitiv": "des Lachers",
+        "dativ": "dem Lacher",
+        "akkusativ": "den Lacher"
+      },
+      "plural": {
+        "nominativ": "die Lacher",
+        "genitiv": "der Lacher",
+        "dativ": "den Lachern",
+        "akkusativ": "die Lacher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "laugh"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éclat de rire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahkaha"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضحكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lachen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lachen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lächeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gelächter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Witz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spaß"
+    }
+  ],
+  "fehlschreibungen": [
+    "Laker",
+    "Lahcher",
+    "Lachher",
+    "Laccher",
+    "Lachär"
+  ]
+}

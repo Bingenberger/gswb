@@ -1,0 +1,73 @@
+{
+  "lemma": "Kiosk",
+  "wortart": "Nomen",
+  "silben": "Ki-osk",
+  "begriffserklaerung": "Ein Kiosk ist ein kleines Verkaufshäuschen, in dem man Zeitungen, Süßigkeiten, Getränke und andere Kleinigkeiten kaufen kann.",
+  "beispielsatz": "Am Morgen kauft Papa am Kiosk eine Zeitung und einen Kaffee.",
+  "rechtschreibstrategie": "Das Wort „Kiosk\" schreibt man am Ende mit „sk\" – sprich es laut: Ki-osk. Merke dir die ungewöhnliche Buchstabenfolge „sk\" am Ende!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Kiosk.webp",
+  "audio_datei": "Kiosk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kiosk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "kiosque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büfe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كشك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bude"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kiosk",
+    "plural": "die Kioske",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kiosk",
+        "genitiv": "des Kiosks",
+        "dativ": "dem Kiosk",
+        "akkusativ": "den Kiosk"
+      },
+      "plural": {
+        "nominativ": "die Kioske",
+        "genitiv": "der Kioske",
+        "dativ": "den Kiosken",
+        "akkusativ": "die Kioske"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kiosck",
+    "Kiosc",
+    "Kiosg",
+    "Kioßk",
+    "Kyosk",
+    "Kioßck"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Randstein",
+  "wortart": "Nomen",
+  "silben": "Rand-stein",
+  "begriffserklaerung": "Ein Randstein ist ein langer Stein am Rand einer Straße. Er trennt den Gehweg vom Fahrweg und schützt Fußgänger.",
+  "beispielsatz": "Lena setzt sich auf den Randstein und wartet auf ihre Mutter.",
+  "rechtschreibstrategie": "„Randstein\" ist ein zusammengesetztes Wort aus „Rand\" und „Stein\". Schreibe beide Teile einfach hintereinander – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Rand",
+    "Stein"
+  ],
+  "bild_datei": "Randstein.webp",
+  "audio_datei": "Randstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "curb / kerbstone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bordure de trottoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bordür taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر الرصيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgersteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bordstein"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Randstein",
+    "plural": "die Randsteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Randstein",
+        "genitiv": "des Randsteins",
+        "dativ": "dem Randstein",
+        "akkusativ": "den Randstein"
+      },
+      "plural": {
+        "nominativ": "die Randsteine",
+        "genitiv": "der Randsteine",
+        "dativ": "den Randsteinen",
+        "akkusativ": "die Randsteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ranstein",
+    "Rantstein",
+    "Randstein",
+    "Rand-Stein",
+    "Randtstein",
+    "Ranndstein"
+  ]
+}

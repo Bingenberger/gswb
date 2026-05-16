@@ -1,0 +1,88 @@
+{
+  "lemma": "Minderheit",
+  "wortart": "Nomen",
+  "silben": "Min-der-heit",
+  "begriffserklaerung": "Eine Minderheit ist eine kleinere Gruppe von Menschen, die sich von den meisten anderen Menschen in einem Land oder einer Gemeinschaft unterscheidet – zum Beispiel durch Sprache, Herkunft oder Religion.",
+  "beispielsatz": "In unserer Klasse sprechen einige Kinder zu Hause eine andere Sprache – sie gehören einer sprachlichen Minderheit an.",
+  "rechtschreibstrategie": "Das Wort „Minderheit\" steckt aus „minder\" (= weniger) und „-heit\". Sprich es in Silben: Min-der-heit. Das „d\" in der Mitte hörst du deutlich, wenn du langsam sprichst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "minder",
+    "Minderheit"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Minderheit",
+    "plural": "die Minderheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Minderheit",
+        "genitiv": "der Minderheit",
+        "dativ": "der Minderheit",
+        "akkusativ": "die Minderheit"
+      },
+      "plural": {
+        "nominativ": "die Minderheiten",
+        "genitiv": "der Minderheiten",
+        "dativ": "den Minderheiten",
+        "akkusativ": "die Minderheiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Minderheit",
+    "Minderhait",
+    "Minderheyt",
+    "Minderhiet",
+    "Mindaheit"
+  ],
+  "bild_datei": "Minderheit.webp",
+  "audio_datei": "Minderheit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "minority"
+    },
+    {
+      "language_code": "fr",
+      "translation": "minorité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "azınlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أقلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "minder"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Minderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mehrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vielfalt"
+    }
+  ]
+}

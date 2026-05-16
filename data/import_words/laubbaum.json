@@ -1,0 +1,83 @@
+{
+  "lemma": "Laubbaum",
+  "wortart": "Nomen",
+  "silben": "Laub-baum",
+  "begriffserklaerung": "Ein Laubbaum ist ein Baum, der breite, flache Blätter hat. Im Herbst verliert er seine Blätter und bekommt im Frühling neue.",
+  "beispielsatz": "Die Eiche ist ein bekannter Laubbaum, der sehr alt werden kann.",
+  "rechtschreibstrategie": "„Laubbaum\" besteht aus zwei Wörtern: „Laub\" und „Baum\". Wenn du sie zusammensetzt, entsteht ein Doppel-b in der Mitte: Laub-baum.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Laub",
+    "Baum"
+  ],
+  "bild_datei": "Laubbaum.webp",
+  "audio_datei": "Laubbaum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "deciduous tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arbre à feuilles caduques"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaprak döken ağaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة متساقطة الأوراق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laub"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadelbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Laubbaum",
+    "plural": "die Laubbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Laubbaum",
+        "genitiv": "des Laubbaums",
+        "dativ": "dem Laubbaum",
+        "akkusativ": "den Laubbaum"
+      },
+      "plural": {
+        "nominativ": "die Laubbäume",
+        "genitiv": "der Laubbäume",
+        "dativ": "den Laubbäumen",
+        "akkusativ": "die Laubbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laubaum",
+    "Laubpbaum",
+    "Laupbaum",
+    "Laubbaumb",
+    "Laubbam"
+  ]
+}

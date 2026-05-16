@@ -1,0 +1,83 @@
+{
+  "lemma": "Training",
+  "wortart": "Nomen",
+  "silben": "Trai-ning",
+  "begriffserklaerung": "Ein Training ist das regelmäßige Üben oder Sporttreiben, damit man besser wird.",
+  "beispielsatz": "Nach dem Training war Lena müde, aber glücklich.",
+  "rechtschreibstrategie": "Das Wort „Training\" kommt aus dem Englischen. Denk daran: Es beginnt mit „Trai-\" und endet auf „-ning\" – sprich es langsam in Silben: Trai-ning.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "trainier"
+  ],
+  "bild_datei": "Training.webp",
+  "audio_datei": "Training.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Training",
+    "plural": "die Trainings",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Training",
+        "genitiv": "des Trainings",
+        "dativ": "dem Training",
+        "akkusativ": "das Training"
+      },
+      "plural": {
+        "nominativ": "die Trainings",
+        "genitiv": "der Trainings",
+        "dativ": "den Trainings",
+        "akkusativ": "die Trainings"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "training"
+    },
+    {
+      "language_code": "fr",
+      "translation": "entraînement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "antrenman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدريب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trainieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trainer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Übung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Treining",
+    "Trainning",
+    "Traning",
+    "Traening",
+    "Trainig"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Festung",
+  "wortart": "Nomen",
+  "silben": "Fes-tung",
+  "begriffserklaerung": "Eine Festung ist ein sehr stabiles, großes Gebäude mit dicken Mauern, das früher dazu diente, Menschen vor Feinden zu schützen.",
+  "beispielsatz": "Die alte Festung auf dem Berg ist schon hunderte von Jahren alt.",
+  "rechtschreibstrategie": "Das Wort „Festung\" enthält den kurzen Vokal „e\" nach dem „F\". Höre genau hin: Fes-tung – du kannst die zwei Silben deutlich hören!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fest"
+  ],
+  "bild_datei": "Festung.webp",
+  "audio_datei": "Festung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fortress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forteresse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Burg"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Festung",
+    "plural": "die Festungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Festung",
+        "genitiv": "der Festung",
+        "dativ": "der Festung",
+        "akkusativ": "die Festung"
+      },
+      "plural": {
+        "nominativ": "die Festungen",
+        "genitiv": "der Festungen",
+        "dativ": "den Festungen",
+        "akkusativ": "die Festungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Festuhng",
+    "Fästung",
+    "Vestung",
+    "Fessung",
+    "Festunk"
+  ]
+}

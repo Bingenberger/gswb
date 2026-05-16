@@ -1,0 +1,84 @@
+{
+  "lemma": "Eiszapfen",
+  "wortart": "Nomen",
+  "silben": "Eis-zap-fen",
+  "begriffserklaerung": "Ein Eiszapfen ist ein langer, spitzer Eiskristall, der entsteht, wenn Wasser tropfenweise gefriert und nach unten hängt – zum Beispiel an Dächern im Winter.",
+  "beispielsatz": "An unserem Dach hängen im Winter lange Eiszapfen.",
+  "rechtschreibstrategie": "„Eiszapfen\" ist ein zusammengesetztes Wort aus „Eis\" und „Zapfen\". Schreib beide Teile einfach hintereinander: Eis + Zapfen = Eiszapfen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Eis",
+    "Zapfen"
+  ],
+  "bild_datei": "Eiszapfen.webp",
+  "audio_datei": "Eiszapfen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eiszapfen",
+    "plural": "die Eiszapfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eiszapfen",
+        "genitiv": "des Eiszapfens",
+        "dativ": "dem Eiszapfen",
+        "akkusativ": "den Eiszapfen"
+      },
+      "plural": {
+        "nominativ": "die Eiszapfen",
+        "genitiv": "der Eiszapfen",
+        "dativ": "den Eiszapfen",
+        "akkusativ": "die Eiszapfen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "icicle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "stalactite de glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buz sarkıtı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شلال الجليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zapfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frost"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eiszapffen",
+    "Eiszapten",
+    "Eiszappen",
+    "Eiszapfenn",
+    "Eiszabfen"
+  ]
+}

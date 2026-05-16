@@ -1,0 +1,86 @@
+{
+  "lemma": "Chef",
+  "wortart": "Nomen",
+  "silben": "Chef",
+  "begriffserklaerung": "Ein Chef ist eine Person, die anderen sagt, was zu tun ist, und die Verantwortung für eine Gruppe oder ein Unternehmen trägt.",
+  "beispielsatz": "Der Chef der Bäckerei backt jeden Morgen frische Brötchen.",
+  "rechtschreibstrategie": "„Chef\" kommt aus dem Französischen. Denk daran: Das Wort endet auf „f\", auch wenn es sich manchmal nach „sch\" anhört. Einfach merken: C-H-E-F!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Chef"
+  ],
+  "bild_datei": "Chef.webp",
+  "audio_datei": "Chef.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boss / chief"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chef / patron"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şef / patron"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رئيس / مدير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chefin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Boss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Betrieb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitarbeiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Chef",
+    "plural": "die Chefs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Chef",
+        "genitiv": "des Chefs",
+        "dativ": "dem Chef",
+        "akkusativ": "den Chef"
+      },
+      "plural": {
+        "nominativ": "die Chefs",
+        "genitiv": "der Chefs",
+        "dativ": "den Chefs",
+        "akkusativ": "die Chefs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schef",
+    "Tschef",
+    "Cheff",
+    "Shef",
+    "Tscheff"
+  ]
+}

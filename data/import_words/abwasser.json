@@ -1,0 +1,88 @@
+{
+  "lemma": "Abwasser",
+  "wortart": "Nomen",
+  "silben": "Ab-was-ser",
+  "begriffserklaerung": "Abwasser ist schmutziges Wasser, das nach dem Benutzen – zum Beispiel beim Duschen, Kochen oder Spülen – durch die Rohre abfließt und gereinigt werden muss.",
+  "beispielsatz": "Das Abwasser aus der Küche fließt durch die Rohre in die Kläranlage.",
+  "rechtschreibstrategie": "„Abwasser\" ist ein zusammengesetztes Wort aus „ab\" und „Wasser\". Schreibe einfach beide Teile hintereinander: Ab + Wasser = Abwasser.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "ab"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abwasser",
+    "plural": "die Abwässer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abwasser",
+        "genitiv": "des Abwassers",
+        "dativ": "dem Abwasser",
+        "akkusativ": "das Abwasser"
+      },
+      "plural": {
+        "nominativ": "die Abwässer",
+        "genitiv": "der Abwässer",
+        "dativ": "den Abwässern",
+        "akkusativ": "die Abwässer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abpwasser",
+    "Abwaser",
+    "Abwassar",
+    "abwasser",
+    "Abwässer (als Singular)"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wastewater"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eaux usées"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atık su"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مياه الصرف الصحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abfluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kläranlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kanal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmutzwasser"
+    }
+  ],
+  "bild_datei": "Abwasser.webp",
+  "audio_datei": "Abwasser.mp3"
+}

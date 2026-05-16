@@ -1,0 +1,90 @@
+{
+  "lemma": "Naturschutzgebiet",
+  "wortart": "Nomen",
+  "silben": "Na-tur-schutz-ge-biet",
+  "begriffserklaerung": "Ein Naturschutzgebiet ist ein besonderer Bereich in der Natur, der vom Menschen geschützt wird. Dort dürfen Tiere und Pflanzen in Ruhe leben, ohne gestört zu werden.",
+  "beispielsatz": "Im Naturschutzgebiet am See darf man die Vögel nicht stören.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Natur\" + „Schutz\" + „Gebiet\". Sprich alle Bausteine einzeln und schreibe sie zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Natur",
+    "Schutz",
+    "Gebiet"
+  ],
+  "bild_datei": "Naturschutzgebiet.webp",
+  "audio_datei": "Naturschutzgebiet.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Naturschutzgebiet",
+    "plural": "die Naturschutzgebiete",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Naturschutzgebiet",
+        "genitiv": "des Naturschutzgebietes",
+        "dativ": "dem Naturschutzgebiet",
+        "akkusativ": "das Naturschutzgebiet"
+      },
+      "plural": {
+        "nominativ": "die Naturschutzgebiete",
+        "genitiv": "der Naturschutzgebiete",
+        "dativ": "den Naturschutzgebieten",
+        "akkusativ": "die Naturschutzgebiete"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nature reserve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réserve naturelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğa koruma alanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محمية طبيعية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nationalpark"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutzgebiet"
+    }
+  ],
+  "fehlschreibungen": [
+    "Naturschutzgepiet",
+    "Naturschutzgebieth",
+    "Naturschuzgebiet",
+    "Natuschutzgebiet",
+    "Naturschutzgebit",
+    "Naturschutzgebiet"
+  ]
+}

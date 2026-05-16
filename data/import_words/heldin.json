@@ -1,0 +1,86 @@
+{
+  "lemma": "Heldin",
+  "wortart": "Nomen",
+  "silben": "Hel-din",
+  "begriffserklaerung": "Eine Heldin ist eine mutige Frau oder ein mutiges Mädchen, das anderen Menschen in einer schwierigen Situation hilft oder etwas Besonderes und Tapferes tut.",
+  "beispielsatz": "Die Feuerwehrfrau ist eine echte Heldin, weil sie mutig das Kind aus dem brennenden Haus gerettet hat.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Hel-din. Das „l\" und das „d\" hörst du deutlich – schreib sie genau so, wie du sie sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Held"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Heldin",
+    "plural": "die Heldinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Heldin",
+        "genitiv": "der Heldin",
+        "dativ": "der Heldin",
+        "akkusativ": "die Heldin"
+      },
+      "plural": {
+        "nominativ": "die Heldinnen",
+        "genitiv": "der Heldinnen",
+        "dativ": "den Heldinnen",
+        "akkusativ": "die Heldinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Heldinn",
+    "Heltin",
+    "Häldin",
+    "Heldien",
+    "Heldin"
+  ],
+  "bild_datei": "Heldin.webp",
+  "audio_datei": "Heldin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "heroine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "héroïne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahraman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Held"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heldenhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Retterin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehrfrau"
+    }
+  ]
+}

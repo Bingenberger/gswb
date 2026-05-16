@@ -1,0 +1,82 @@
+{
+  "lemma": "Dokument",
+  "wortart": "Nomen",
+  "silben": "Do-ku-ment",
+  "begriffserklaerung": "Ein Dokument ist ein wichtiges Schriftstück, zum Beispiel ein Brief, ein Ausweis oder ein Zeugnis, das wichtige Informationen enthält.",
+  "beispielsatz": "Die Lehrerin hat alle Dokumente sorgfältig in einem Ordner abgeheftet.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Do – ku – ment. Achte auf das „u\" in der Mitte und das „ent\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Dokument"
+  ],
+  "bild_datei": "Dokument.webp",
+  "audio_datei": "Dokument.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "document"
+    },
+    {
+      "language_code": "fr",
+      "translation": "document"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وثيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dokumentieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dokumentation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausweis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schriftstück"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Dokument",
+    "plural": "die Dokumente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Dokument",
+        "genitiv": "des Dokuments",
+        "dativ": "dem Dokument",
+        "akkusativ": "das Dokument"
+      },
+      "plural": {
+        "nominativ": "die Dokumente",
+        "genitiv": "der Dokumente",
+        "dativ": "den Dokumenten",
+        "akkusativ": "die Dokumente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dockument",
+    "Dokumant",
+    "Documment",
+    "Dokuement",
+    "Dokumend"
+  ]
+}

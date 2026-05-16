@@ -1,0 +1,84 @@
+{
+  "lemma": "Mahlzeit",
+  "wortart": "Nomen",
+  "silben": "Mahl-zeit",
+  "begriffserklaerung": "Eine Mahlzeit ist das Essen, das man zu einer bestimmten Zeit des Tages zu sich nimmt, zum Beispiel das Frühstück, das Mittagessen oder das Abendessen.",
+  "beispielsatz": "Die ganze Familie sitzt zusammen und genießt eine leckere Mahlzeit.",
+  "rechtschreibstrategie": "„Mahlzeit\" ist ein Bausteinwort aus „Mahl\" (= das Essen) und „Zeit\". Sprich beide Teile deutlich: MAHL + ZEIT. Das „h\" nach dem „a\" in „Mahl\" wird nicht gesprochen – es ist ein Dehnungs-h!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "mahl",
+    "malen (speisen)"
+  ],
+  "bild_datei": "Mahlzeit.webp",
+  "audio_datei": "Mahlzeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mahlzeit",
+    "plural": "die Mahlzeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mahlzeit",
+        "genitiv": "der Mahlzeit",
+        "dativ": "der Mahlzeit",
+        "akkusativ": "die Mahlzeit"
+      },
+      "plural": {
+        "nominativ": "die Mahlzeiten",
+        "genitiv": "der Mahlzeiten",
+        "dativ": "den Mahlzeiten",
+        "akkusativ": "die Mahlzeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "meal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "repas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وجبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abendmahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittagessen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Essen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Malzeit",
+    "Mahlzeid",
+    "Mahlszeit",
+    "Malzeid",
+    "Maalzeit"
+  ]
+}

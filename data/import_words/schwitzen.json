@@ -1,0 +1,95 @@
+{
+  "lemma": "schwitzen",
+  "wortart": "Verb",
+  "silben": "schwit-zen",
+  "begriffserklaerung": "Wenn du schwitzt, kommt Wasser aus deiner Haut. Das passiert zum Beispiel beim Sport oder wenn es sehr heiß ist.",
+  "beispielsatz": "Nach dem Fußballspiel schwitzt Jonas so stark, dass sein T-Shirt ganz nass ist.",
+  "rechtschreibstrategie": "Das Wort „schwitzen\" hat nach dem kurzen „i\" ein tz – das ist das Kürzezeichen! Sprich: schw-i-tz-en. Kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schwitz"
+  ],
+  "bild_datei": "schwitzen.webp",
+  "audio_datei": "schwitzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sweat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "transpirer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "terlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتعرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "der Schweiß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschwitzt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "transpirieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sich bewegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport treiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sich abkühlen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schwitzen",
+    "praesens": {
+      "ich": "schwitze",
+      "du": "schwitzt",
+      "er_sie_es": "schwitzt",
+      "wir": "schwitzen",
+      "ihr": "schwitzt",
+      "sie": "schwitzen"
+    },
+    "perfekt": {
+      "ich": "habe geschwitzt",
+      "du": "hast geschwitzt",
+      "er_sie_es": "hat geschwitzt",
+      "wir": "haben geschwitzt",
+      "ihr": "habt geschwitzt",
+      "sie": "haben geschwitzt"
+    },
+    "praeteritum": {
+      "ich": "schwitzte",
+      "du": "schwitztest",
+      "er_sie_es": "schwitzte",
+      "wir": "schwitzten",
+      "ihr": "schwitztet",
+      "sie": "schwitzten"
+    }
+  },
+  "fehlschreibungen": [
+    "schwitzen",
+    "schwizzen",
+    "shwitzen",
+    "schwitsen",
+    "schwitcen",
+    "schwitzten"
+  ]
+}

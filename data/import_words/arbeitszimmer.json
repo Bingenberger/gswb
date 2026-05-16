@@ -1,0 +1,88 @@
+{
+  "lemma": "Arbeitszimmer",
+  "wortart": "Nomen",
+  "silben": "Ar-beits-zim-mer",
+  "begriffserklaerung": "Ein Arbeitszimmer ist ein Raum in einer Wohnung oder einem Haus, in dem man arbeitet, lernt oder am Computer sitzt.",
+  "beispielsatz": "Papa sitzt den ganzen Tag in seinem Arbeitszimmer und schreibt Briefe.",
+  "rechtschreibstrategie": "Das Wort Arbeitszimmer ist zusammengesetzt aus „Arbeit\" und „Zimmer\". Sprich beide Teile einzeln: AR-BEIT + ZIMMER. Das Doppel-m in „Zimmer\" hörst du, wenn du das Wort in Silben sprichst: Zim-mer.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit",
+    "Zimmer"
+  ],
+  "bild_datei": "Arbeitszimmer.webp",
+  "audio_datei": "Arbeitszimmer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Arbeitszimmer",
+    "plural": "die Arbeitszimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Arbeitszimmer",
+        "genitiv": "des Arbeitszimmers",
+        "dativ": "dem Arbeitszimmer",
+        "akkusativ": "das Arbeitszimmer"
+      },
+      "plural": {
+        "nominativ": "die Arbeitszimmer",
+        "genitiv": "der Arbeitszimmer",
+        "dativ": "den Arbeitszimmern",
+        "akkusativ": "die Arbeitszimmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "study / home office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalışma odası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kinderzimmer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Arbeitzimmer",
+    "Arbeitszimer",
+    "Arbeitszimmmer",
+    "Arbeids­zimmer",
+    "Arbaitzimmer"
+  ]
+}

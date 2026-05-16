@@ -1,0 +1,82 @@
+{
+  "lemma": "Technik",
+  "wortart": "Nomen",
+  "silben": "Tech-nik",
+  "begriffserklaerung": "Technik ist das Wissen und die Werkzeuge, die Menschen nutzen, um Dinge herzustellen oder Probleme zu lösen – zum Beispiel Maschinen, Computer oder Fahrzeuge.",
+  "beispielsatz": "In der Schule lernen wir viel über Technik, zum Beispiel wie ein Fahrrad funktioniert.",
+  "rechtschreibstrategie": "Denk an das „ch\" in der Mitte: Tech-nik. Sprich beide Silben deutlich: TECH – NIK.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "techn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Technik",
+    "plural": "die Techniken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Technik",
+        "genitiv": "der Technik",
+        "dativ": "der Technik",
+        "akkusativ": "die Technik"
+      },
+      "plural": {
+        "nominativ": "die Techniken",
+        "genitiv": "der Techniken",
+        "dativ": "den Techniken",
+        "akkusativ": "die Techniken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tecknik",
+    "Tehnik",
+    "Technick",
+    "Teknik",
+    "Technig"
+  ],
+  "bild_datei": "Technik.webp",
+  "audio_datei": "Technik.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "technology / technique"
+    },
+    {
+      "language_code": "fr",
+      "translation": "technique / technologie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teknik / teknoloji"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقنية / تكنولوجيا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "technisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Techniker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verfahren"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Autobahn",
+  "wortart": "Nomen",
+  "silben": "Au-to-bahn",
+  "begriffserklaerung": "Eine Autobahn ist eine sehr breite, schnelle Straße, auf der Autos, Lastwagen und Busse ohne Ampeln und Kreuzungen fahren dürfen.",
+  "beispielsatz": "Auf der Autobahn fahren die Autos sehr schnell.",
+  "rechtschreibstrategie": "Das Wort „Autobahn\" besteht aus zwei Teilen: „Auto\" und „Bahn\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bahn",
+    "Auto"
+  ],
+  "bild_datei": "Autobahn.webp",
+  "audio_datei": "Autobahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "motorway / highway"
+    },
+    {
+      "language_code": "fr",
+      "translation": "autoroute"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otoyol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طريق سريع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Autobahn",
+    "plural": "die Autobahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Autobahn",
+        "genitiv": "der Autobahn",
+        "dativ": "der Autobahn",
+        "akkusativ": "die Autobahn"
+      },
+      "plural": {
+        "nominativ": "die Autobahnen",
+        "genitiv": "der Autobahnen",
+        "dativ": "den Autobahnen",
+        "akkusativ": "die Autobahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Autobaan",
+    "Autobann",
+    "Autobahn",
+    "Autobahnn",
+    "Autoban",
+    "Auttobahn",
+    "Otobahn"
+  ]
+}

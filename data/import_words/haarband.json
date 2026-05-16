@@ -1,0 +1,85 @@
+{
+  "lemma": "Haarband",
+  "wortart": "Nomen",
+  "silben": "Haar-band",
+  "begriffserklaerung": "Ein Haarband ist ein schmales Band oder ein elastischer Reifen, mit dem man die Haare zusammenbindet oder schmückt.",
+  "beispielsatz": "Lena bindet ihr Haar mit einem bunten Haarband zusammen.",
+  "rechtschreibstrategie": "„Haarband\" ist aus zwei Wörtern zusammengesetzt: „Haar\" und „Band\". „Haar\" schreibt man mit doppeltem a – so wie man es auch spricht: langes a!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Haar",
+    "Band"
+  ],
+  "bild_datei": "Haarband.webp",
+  "audio_datei": "Haarband.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Haarband",
+    "plural": "die Haarbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Haarband",
+        "genitiv": "des Haarbandes",
+        "dativ": "dem Haarband",
+        "akkusativ": "das Haarband"
+      },
+      "plural": {
+        "nominativ": "die Haarbänder",
+        "genitiv": "der Haarbänder",
+        "dativ": "den Haarbändern",
+        "akkusativ": "die Haarbänder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hair band"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élastique à cheveux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç bandı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ربطة شعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haarspange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zopf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haargummi"
+    }
+  ],
+  "fehlschreibungen": [
+    "Harband",
+    "HaarBand",
+    "Hahrband",
+    "Haarbannd",
+    "Haarbant"
+  ]
+}

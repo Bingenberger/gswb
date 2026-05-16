@@ -1,0 +1,75 @@
+{
+  "lemma": "Brettchen",
+  "wortart": "Nomen",
+  "silben": "Brett-chen",
+  "begriffserklaerung": "Ein Brettchen ist ein kleines, flaches Stück Holz. Man benutzt es zum Beispiel in der Küche, um Brot oder Gemüse darauf zu schneiden.",
+  "beispielsatz": "Mama legt das Brot auf das Brettchen und schneidet es in Scheiben.",
+  "rechtschreibstrategie": "Denke an das große Wort „Brett\" – dort hörst du das kurze „e\" vor dem Doppel-t. Das Verkleinerungswort „-chen\" hängst du einfach hinten dran: Brett + chen = Brettchen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brett"
+  ],
+  "bild_datei": "Brettchen.webp",
+  "audio_datei": "Brettchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brettchen",
+    "plural": "die Brettchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brettchen",
+        "genitiv": "des Brettchens",
+        "dativ": "dem Brettchen",
+        "akkusativ": "das Brettchen"
+      },
+      "plural": {
+        "nominativ": "die Brettchen",
+        "genitiv": "der Brettchen",
+        "dativ": "den Brettchen",
+        "akkusativ": "die Brettchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "small board / chopping board"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite planche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneidebrett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bretchen",
+    "Brettcen",
+    "Bredchen",
+    "Bretthen",
+    "Brechchen"
+  ]
+}

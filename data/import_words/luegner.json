@@ -1,0 +1,86 @@
+{
+  "lemma": "Lügner",
+  "wortart": "Nomen",
+  "silben": "Lüg-ner",
+  "begriffserklaerung": "Ein Lügner ist jemand, der nicht die Wahrheit sagt und andere Menschen absichtlich täuscht.",
+  "beispielsatz": "Wer immer lügt, gilt als Lügner und verliert das Vertrauen seiner Freunde.",
+  "rechtschreibstrategie": "Denke an das Verb „lügen\" – daher schreibt man Lügner mit ü und ohne Doppel-g.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lüg"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Lügner",
+    "plural": "die Lügner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lügner",
+        "genitiv": "des Lügners",
+        "dativ": "dem Lügner",
+        "akkusativ": "den Lügner"
+      },
+      "plural": {
+        "nominativ": "die Lügner",
+        "genitiv": "der Lügner",
+        "dativ": "den Lügnern",
+        "akkusativ": "die Lügner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lüggner",
+    "Liegner",
+    "Lügner",
+    "Lügener",
+    "Lügnner"
+  ],
+  "bild_datei": "Lügner.webp",
+  "audio_datei": "Lügner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "liar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "menteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalancı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاذب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lügen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lüge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwindler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vertrauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Täuschung"
+    }
+  ]
+}

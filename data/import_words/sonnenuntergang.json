@@ -1,0 +1,85 @@
+{
+  "lemma": "Sonnenuntergang",
+  "wortart": "Nomen",
+  "silben": "Son-nen-un-ter-gang",
+  "begriffserklaerung": "Der Sonnenuntergang ist der Moment am Abend, wenn die Sonne langsam hinter dem Horizont verschwindet und der Himmel oft in bunten Farben leuchtet.",
+  "beispielsatz": "Wir saßen auf der Wiese und schauten gemeinsam dem wunderschönen Sonnenuntergang zu.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: SONNEN + UNTER + GANG. Sprich alle Teile einzeln, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "gehen"
+  ],
+  "bild_datei": "Sonnenuntergang.webp",
+  "audio_datei": "Sonnenuntergang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunset"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coucher de soleil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gün batımı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غروب الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenaufgang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenddämmerung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abendrot"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sonnenuntergang",
+    "plural": "die Sonnenuntergänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sonnenuntergang",
+        "genitiv": "des Sonnenuntergangs",
+        "dativ": "dem Sonnenuntergang",
+        "akkusativ": "den Sonnenuntergang"
+      },
+      "plural": {
+        "nominativ": "die Sonnenuntergänge",
+        "genitiv": "der Sonnenuntergänge",
+        "dativ": "den Sonnenuntergängen",
+        "akkusativ": "die Sonnenuntergänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sononuntergang",
+    "Sonennuntergang",
+    "Sonnenuntergan",
+    "Sunnenuntergang",
+    "Sonnenunterganng",
+    "Sonnenunterganck"
+  ]
+}

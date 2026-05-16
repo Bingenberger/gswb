@@ -1,0 +1,83 @@
+{
+  "lemma": "Aussprache",
+  "wortart": "Nomen",
+  "silben": "Aus-spra-che",
+  "begriffserklaerung": "Die Aussprache beschreibt, wie man ein Wort oder einen Laut mit dem Mund und der Stimme richtig sagt.",
+  "beispielsatz": "Die Lehrerin erklärt uns die richtige Aussprache des schwierigen Wortes.",
+  "rechtschreibstrategie": "Das Wort „Aussprache\" besteht aus zwei Teilen: „aus\" und „Sprache\". Sprich beide Teile laut mit – dann hörst du das doppelte „s\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sprech",
+    "sprach"
+  ],
+  "bild_datei": "Aussprache.webp",
+  "audio_datei": "Aussprache.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pronunciation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prononciation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "telaffuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نطق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Betonung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lautung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aussprache",
+    "plural": "die Aussprachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aussprache",
+        "genitiv": "der Aussprache",
+        "dativ": "der Aussprache",
+        "akkusativ": "die Aussprache"
+      },
+      "plural": {
+        "nominativ": "die Aussprachen",
+        "genitiv": "der Aussprachen",
+        "dativ": "den Aussprachen",
+        "akkusativ": "die Aussprachen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ausprache",
+    "Ausssprache",
+    "Ausspräche",
+    "Auszprache",
+    "Aussprach"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Rede",
+  "wortart": "Nomen",
+  "silben": "Re-de",
+  "begriffserklaerung": "Eine Rede ist ein Text, den jemand laut vor anderen Menschen spricht. Zum Beispiel hält man eine Rede bei einem Fest oder in der Schule.",
+  "beispielsatz": "Leon hält vor der ganzen Klasse eine Rede über seine Heimatstadt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Re-de\". Das „e\" am Ende hörst du deutlich. Denk daran: Rede endet auf -de, nicht auf -t!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "red"
+  ],
+  "bild_datei": "Rede.webp",
+  "audio_datei": "Rede.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "speech"
+    },
+    {
+      "language_code": "fr",
+      "translation": "discours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konuşma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Redner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ansprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vortrag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprache"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rede",
+    "plural": "die Reden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rede",
+        "genitiv": "der Rede",
+        "dativ": "der Rede",
+        "akkusativ": "die Rede"
+      },
+      "plural": {
+        "nominativ": "die Reden",
+        "genitiv": "der Reden",
+        "dativ": "den Reden",
+        "akkusativ": "die Reden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reede",
+    "Rete",
+    "Redte",
+    "Rehde"
+  ]
+}

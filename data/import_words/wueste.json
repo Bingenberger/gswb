@@ -1,0 +1,84 @@
+{
+  "lemma": "Wüste",
+  "wortart": "Nomen",
+  "silben": "Wüs-te",
+  "begriffserklaerung": "Eine Wüste ist eine sehr trockene Landschaft, in der es kaum Wasser und Pflanzen gibt. Oft ist es dort sehr heiß und der Boden ist aus Sand oder Stein.",
+  "beispielsatz": "In der Wüste gibt es riesige Sanddünen und fast kein Wasser.",
+  "rechtschreibstrategie": "Denk an das ü in „Wüste\" – sprich es laut: „Wüüs-te\". Das ü klingt lang, deshalb schreibst du nur ein s.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wüst"
+  ],
+  "bild_datei": "Wüste.webp",
+  "audio_datei": "Wüste.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wüste",
+    "plural": "die Wüsten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wüste",
+        "genitiv": "der Wüste",
+        "dativ": "der Wüste",
+        "akkusativ": "die Wüste"
+      },
+      "plural": {
+        "nominativ": "die Wüsten",
+        "genitiv": "der Wüsten",
+        "dativ": "den Wüsten",
+        "akkusativ": "die Wüsten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "desert"
+    },
+    {
+      "language_code": "fr",
+      "translation": "désert"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صحراء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wüst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wüstenei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sahara"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sanddüne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Oase"
+    }
+  ],
+  "fehlschreibungen": [
+    "Würste",
+    "Wüßte",
+    "Wüste",
+    "Wüsste",
+    "Wüeßte",
+    "Wieste",
+    "Wüsde"
+  ]
+}

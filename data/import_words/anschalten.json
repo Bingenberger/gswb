@@ -1,0 +1,95 @@
+{
+  "lemma": "anschalten",
+  "wortart": "Verb",
+  "silben": "an-schal-ten",
+  "begriffserklaerung": "Etwas anschalten bedeutet, ein Gerät einzuschalten, damit es Strom bekommt und funktioniert.",
+  "beispielsatz": "Ich schalte das Licht an, weil es draußen dunkel wird.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „an\" und „schalten\". Sprich beide Teile laut mit: AN-SCHAL-TEN. Das „sch\" klingt wie in „Schule\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schalten"
+  ],
+  "bild_datei": "anschalten.webp",
+  "audio_datei": "anschalten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to turn on"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُشغِّل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schalten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausschalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "einschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernseher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "anschalten",
+    "praesens": {
+      "ich": "schalte an",
+      "du": "schaltest an",
+      "er_sie_es": "schaltet an",
+      "wir": "schalten an",
+      "ihr": "schaltet an",
+      "sie": "schalten an"
+    },
+    "perfekt": {
+      "ich": "habe angeschaltet",
+      "du": "hast angeschaltet",
+      "er_sie_es": "hat angeschaltet",
+      "wir": "haben angeschaltet",
+      "ihr": "habt angeschaltet",
+      "sie": "haben angeschaltet"
+    },
+    "praeteritum": {
+      "ich": "schaltete an",
+      "du": "schaltetest an",
+      "er_sie_es": "schaltete an",
+      "wir": "schalteten an",
+      "ihr": "schaltetet an",
+      "sie": "schalteten an"
+    }
+  },
+  "fehlschreibungen": [
+    "anschalden",
+    "anschalten",
+    "anschaltten",
+    "anshalten",
+    "anscholten",
+    "anschaltn"
+  ]
+}

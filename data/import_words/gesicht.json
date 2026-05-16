@@ -1,0 +1,78 @@
+{
+  "lemma": "Gesicht",
+  "wortart": "Nomen",
+  "silben": "Ge-sicht",
+  "begriffserklaerung": "Das Gesicht ist der vordere Teil des Kopfes. Dort sind Augen, Nase und Mund.",
+  "beispielsatz": "Ich wasche mir jeden Morgen das Gesicht.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ge-sicht. Am Ende hörst du „cht\" – das schreibt man mit c-h-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sicht"
+  ],
+  "bild_datei": "Gesicht.webp",
+  "audio_datei": "Gesicht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "face"
+    },
+    {
+      "language_code": "fr",
+      "translation": "visage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وجه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gesicht",
+    "plural": "die Gesichter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gesicht",
+        "genitiv": "des Gesichts",
+        "dativ": "dem Gesicht",
+        "akkusativ": "das Gesicht"
+      },
+      "plural": {
+        "nominativ": "die Gesichter",
+        "genitiv": "der Gesichter",
+        "dativ": "den Gesichtern",
+        "akkusativ": "die Gesichter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gesigt",
+    "Gezicht",
+    "Gesiecht",
+    "Gesich",
+    "Gesischt"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "lemma": "fragen",
+  "wortart": "Verb",
+  "silben": "fra-gen",
+  "begriffserklaerung": "Wenn du etwas wissen möchtest, stellst du jemandem eine Frage. Das nennt man fragen.",
+  "beispielsatz": "Die Schülerin fragt ihre Lehrerin, wie man das Wort richtig schreibt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: fra-gen. Du hörst ein langes „a\" – deshalb schreibt man nur ein „g\" und kein Doppel-g.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "frag"
+  ],
+  "bild_datei": "fragen.webp",
+  "audio_datei": "fragen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to ask"
+    },
+    {
+      "language_code": "fr",
+      "translation": "demander"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sormak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسأل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fragebogen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "befragen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anfragen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nachfragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "antworten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reden"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "fragen",
+    "praesens": {
+      "ich": "frage",
+      "du": "fragst",
+      "er_sie_es": "fragt",
+      "wir": "fragen",
+      "ihr": "fragt",
+      "sie": "fragen"
+    },
+    "perfekt": {
+      "ich": "habe gefragt",
+      "du": "hast gefragt",
+      "er_sie_es": "hat gefragt",
+      "wir": "haben gefragt",
+      "ihr": "habt gefragt",
+      "sie": "haben gefragt"
+    },
+    "praeteritum": {
+      "ich": "fragte",
+      "du": "fragtest",
+      "er_sie_es": "fragte",
+      "wir": "fragten",
+      "ihr": "fragtet",
+      "sie": "fragten"
+    }
+  },
+  "fehlschreibungen": [
+    "fragen",
+    "fraggen",
+    "vraagen",
+    "frragen",
+    "phragen",
+    "frahgen"
+  ]
+}

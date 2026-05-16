@@ -1,0 +1,87 @@
+{
+  "lemma": "Bergwerk",
+  "wortart": "Nomen",
+  "silben": "Berg-werk",
+  "begriffserklaerung": "Ein Bergwerk ist ein großer unterirdischer Ort, an dem Menschen Bodenschätze wie Kohle, Erz oder Salz aus der Erde holen.",
+  "beispielsatz": "Die Bergleute fahren jeden Morgen mit dem Aufzug tief in das Bergwerk hinunter.",
+  "rechtschreibstrategie": "Das Wort „Bergwerk\" ist aus zwei Wörtern zusammengesetzt: „Berg\" und „Werk\". Sprich beide Teile deutlich: BERG + WERK.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Berg",
+    "Werk"
+  ],
+  "bild_datei": "Bergwerk.webp",
+  "audio_datei": "Bergwerk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bergwerk",
+    "plural": "die Bergwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bergwerk",
+        "genitiv": "des Bergwerks",
+        "dativ": "dem Bergwerk",
+        "akkusativ": "das Bergwerk"
+      },
+      "plural": {
+        "nominativ": "die Bergwerke",
+        "genitiv": "der Bergwerke",
+        "dativ": "den Bergwerken",
+        "akkusativ": "die Bergwerke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منجم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bergmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stollen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mine"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bergwerg",
+    "Bergverk",
+    "Berkwerk",
+    "Bergwärk",
+    "Bergwerc"
+  ]
+}

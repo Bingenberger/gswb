@@ -1,0 +1,91 @@
+{
+  "lemma": "Botschaft",
+  "wortart": "Nomen",
+  "silben": "Bot-schaft",
+  "begriffserklaerung": "Eine Botschaft ist eine wichtige Nachricht, die jemand an eine andere Person schickt oder überbringt. Das Wort kann auch das Gebäude meinen, in dem Vertreter eines Landes im Ausland arbeiten.",
+  "beispielsatz": "Der König schickte einen Boten mit einer wichtigen Botschaft in das ferne Land.",
+  "rechtschreibstrategie": "Denk an das Wort „Bote\": Ein Bote überbringt eine Bot-schaft. Das Wort setzt sich aus „Bot-\" (vom Boten) und „-schaft\" zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bot"
+  ],
+  "bild_datei": "Botschaft.webp",
+  "audio_datei": "Botschaft.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Botschaft",
+    "plural": "die Botschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Botschaft",
+        "genitiv": "der Botschaft",
+        "dativ": "der Botschaft",
+        "akkusativ": "die Botschaft"
+      },
+      "plural": {
+        "nominativ": "die Botschaften",
+        "genitiv": "der Botschaften",
+        "dativ": "den Botschaften",
+        "akkusativ": "die Botschaften"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "message / embassy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "message / ambassade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mesaj / büyükelçilik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسالة / سفارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bote"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Botin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meldung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telegramm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesandtschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Botsschaft",
+    "Bottschaft",
+    "Botchaft",
+    "Botshaft",
+    "Boschaft"
+  ]
+}

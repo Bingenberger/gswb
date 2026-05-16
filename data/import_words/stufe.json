@@ -1,0 +1,82 @@
+{
+  "lemma": "Stufe",
+  "wortart": "Nomen",
+  "silben": "Stu-fe",
+  "begriffserklaerung": "Eine Stufe ist eine einzelne Treppenstufe oder ein Schritt, auf den man beim Treppensteigen tritt.",
+  "beispielsatz": "Vorsicht, die letzte Stufe der Treppe ist sehr hoch!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Stu-fe\". Am Ende hörst du ein weiches „f\" – das schreibst du mit „f\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "stuf"
+  ],
+  "bild_datei": "Stufe.webp",
+  "audio_datei": "Stufe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stufe",
+    "plural": "die Stufen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stufe",
+        "genitiv": "der Stufe",
+        "dativ": "der Stufe",
+        "akkusativ": "die Stufe"
+      },
+      "plural": {
+        "nominativ": "die Stufen",
+        "genitiv": "der Stufen",
+        "dativ": "den Stufen",
+        "akkusativ": "die Stufen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "step / stair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "basamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leiter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treppenstufe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stuhfe",
+    "Stuffe",
+    "Stofe",
+    "Stuve",
+    "Stuufe"
+  ]
+}

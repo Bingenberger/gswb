@@ -1,0 +1,95 @@
+{
+  "lemma": "schließen",
+  "wortart": "Verb",
+  "silben": "schlie-ßen",
+  "begriffserklaerung": "Wenn du etwas schließt, machst du es zu, zum Beispiel eine Tür oder ein Fenster.",
+  "beispielsatz": "Bitte schließ die Tür, damit es nicht zieht!",
+  "rechtschreibstrategie": "In „schließen\" steckt ein langes „ie\" und ein „ß\". Denk daran: Nach einem langen Vokal schreibt man oft „ß\" statt „ss\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schließ"
+  ],
+  "bild_datei": "schließen.webp",
+  "audio_datei": "schließen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to close"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fermer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapatmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُغلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abschließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zumachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "öffnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sperren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schließen",
+    "praesens": {
+      "ich": "schließe",
+      "du": "schließt",
+      "er_sie_es": "schließt",
+      "wir": "schließen",
+      "ihr": "schließt",
+      "sie": "schließen"
+    },
+    "perfekt": {
+      "ich": "habe geschlossen",
+      "du": "hast geschlossen",
+      "er_sie_es": "hat geschlossen",
+      "wir": "haben geschlossen",
+      "ihr": "habt geschlossen",
+      "sie": "haben geschlossen"
+    },
+    "praeteritum": {
+      "ich": "schloss",
+      "du": "schlossest",
+      "er_sie_es": "schloss",
+      "wir": "schlossen",
+      "ihr": "schlosst",
+      "sie": "schlossen"
+    }
+  },
+  "fehlschreibungen": [
+    "schliessen",
+    "schlißen",
+    "schliesen",
+    "schleißen",
+    "schlissen"
+  ]
+}

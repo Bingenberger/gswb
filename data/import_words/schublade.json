@@ -1,0 +1,84 @@
+{
+  "lemma": "Schublade",
+  "wortart": "Nomen",
+  "silben": "Schub-la-de",
+  "begriffserklaerung": "Eine Schublade ist ein Kasten, den man in einen Schrank oder Tisch hineinschieben und herausziehen kann. Darin kann man Sachen aufbewahren.",
+  "beispielsatz": "Meine Buntstifte liegen in der obersten Schublade meines Schreibtisches.",
+  "rechtschreibstrategie": "Das Wort „Schublade\" ist zusammengesetzt aus „schieben\" (→ Schub) und „Lade\". Sprich beide Teile deutlich: SCHUB-LA-DE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schieben",
+    "Lade"
+  ],
+  "bild_datei": "Schublade.webp",
+  "audio_datei": "Schublade.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drawer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tiroir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekmece"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schieben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lade"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schublade",
+    "plural": "die Schubladen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schublade",
+        "genitiv": "der Schublade",
+        "dativ": "der Schublade",
+        "akkusativ": "die Schublade"
+      },
+      "plural": {
+        "nominativ": "die Schubladen",
+        "genitiv": "der Schubladen",
+        "dativ": "den Schubladen",
+        "akkusativ": "die Schubladen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schuplade",
+    "Schublate",
+    "Schubbladen",
+    "Schubladen",
+    "Schupbladen",
+    "Schublahde"
+  ]
+}

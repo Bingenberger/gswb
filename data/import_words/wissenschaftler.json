@@ -1,0 +1,92 @@
+{
+  "lemma": "Wissenschaftler",
+  "wortart": "Nomen",
+  "silben": "Wis-sen-schaft-ler",
+  "begriffserklaerung": "Ein Wissenschaftler ist ein Mensch, der Dinge genau erforscht und untersucht, um neue Erkenntnisse zu gewinnen.",
+  "beispielsatz": "Der Wissenschaftler schaut jeden Tag durchs Mikroskop und entdeckt winzige Lebewesen.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus „Wissen\", „Schaft\" und „ler\" zusammen. Schreib die Bausteine einzeln: Wissen-schaft-ler. Das Doppel-s kommt vom kurzen i in „Wissen\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wissen",
+    "Wissenschaft"
+  ],
+  "bild_datei": "Wissenschaftler.webp",
+  "audio_datei": "Wissenschaftler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wissenschaftler",
+    "plural": "die Wissenschaftler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wissenschaftler",
+        "genitiv": "des Wissenschaftlers",
+        "dativ": "dem Wissenschaftler",
+        "akkusativ": "den Wissenschaftler"
+      },
+      "plural": {
+        "nominativ": "die Wissenschaftler",
+        "genitiv": "der Wissenschaftler",
+        "dativ": "den Wissenschaftlern",
+        "akkusativ": "die Wissenschaftler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scientist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scientifique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilim insanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عالِم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wissenschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wissenschaftlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Forscher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erfindung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wissenshaftler",
+    "Wißenschaftler",
+    "Wisenschaftler",
+    "Wissenschatler",
+    "Wissenschafler"
+  ]
+}

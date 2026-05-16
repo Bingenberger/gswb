@@ -1,0 +1,82 @@
+{
+  "lemma": "Stiefel",
+  "wortart": "Nomen",
+  "silben": "Stie-fel",
+  "begriffserklaerung": "Ein Stiefel ist ein hoher Schuh, der den Fuß und oft auch einen Teil des Beines bedeckt. Stiefel werden zum Beispiel bei Regen oder im Winter getragen.",
+  "beispielsatz": "Wenn es draußen regnet, ziehe ich meine roten Stiefel an.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Stie-fel\" – sprich es laut: Stiiie-fel. Das „ie\" schreibt man mit i und e zusammen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Stiefel"
+  ],
+  "bild_datei": "Stiefel.webp",
+  "audio_datei": "Stiefel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "botte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء طويل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stiefelette"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stiefelknecht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gummistiefel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winterstiefel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stiefel",
+    "plural": "die Stiefel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stiefel",
+        "genitiv": "des Stiefels",
+        "dativ": "dem Stiefel",
+        "akkusativ": "den Stiefel"
+      },
+      "plural": {
+        "nominativ": "die Stiefel",
+        "genitiv": "der Stiefel",
+        "dativ": "den Stiefeln",
+        "akkusativ": "die Stiefel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stifel",
+    "Stiffel",
+    "Stiefl",
+    "Stieffel",
+    "Stibel"
+  ]
+}

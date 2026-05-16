@@ -1,0 +1,85 @@
+{
+  "lemma": "Mitternacht",
+  "wortart": "Nomen",
+  "silben": "Mit-ter-nacht",
+  "begriffserklaerung": "Die Mitternacht ist der Zeitpunkt genau in der Mitte der Nacht – also um 0:00 Uhr. Es ist die dunkelste Stunde des Tages, wenn fast alle Menschen schlafen.",
+  "beispielsatz": "Um Mitternacht läuten die Glocken und das neue Jahr beginnt.",
+  "rechtschreibstrategie": "Das Wort „Mitternacht\" ist ein Baustein­wort: „Mitte\" + „Nacht\". Schreib beide Teile zusammen: Mit-ter-nacht. Achte auf das doppelte „t\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Nacht",
+    "Mitte"
+  ],
+  "bild_datei": "Mitternacht.webp",
+  "audio_datei": "Mitternacht.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mitternacht",
+    "plural": "die Mitternächte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mitternacht",
+        "genitiv": "der Mitternacht",
+        "dativ": "der Mitternacht",
+        "akkusativ": "die Mitternacht"
+      },
+      "plural": {
+        "nominativ": "die Mitternächte",
+        "genitiv": "der Mitternächte",
+        "dativ": "den Mitternächten",
+        "akkusativ": "die Mitternächte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "midnight"
+    },
+    {
+      "language_code": "fr",
+      "translation": "minuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gece yarısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منتصف الليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mitte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhrzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dunkelheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Miterrnacht",
+    "Miternacht",
+    "Mitternackt",
+    "Mitternach",
+    "Mittanacht",
+    "Mitternachd"
+  ]
+}

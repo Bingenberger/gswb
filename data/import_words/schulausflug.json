@@ -1,0 +1,88 @@
+{
+  "lemma": "Schulausflug",
+  "wortart": "Nomen",
+  "silben": "Schul-aus-flug",
+  "begriffserklaerung": "Ein Schulausflug ist ein gemeinsamer Ausflug, den eine Schulklasse zusammen mit der Lehrerin oder dem Lehrer unternimmt – zum Beispiel in ein Museum, in den Zoo oder in die Natur.",
+  "beispielsatz": "Morgen macht unsere Klasse einen Schulausflug in den Zoo!",
+  "rechtschreibstrategie": "„Schulausflug\" ist aus drei Bausteinen zusammengesetzt: „Schul\" + „aus\" + „flug\". Sprich alle Teile deutlich: SCHUL – AUS – FLUG. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "fliegen"
+  ],
+  "bild_datei": "Schulausflug.webp",
+  "audio_datei": "Schulausflug.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulausflug",
+    "plural": "die Schulausflüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulausflug",
+        "genitiv": "des Schulausflugs",
+        "dativ": "dem Schulausflug",
+        "akkusativ": "den Schulausflug"
+      },
+      "plural": {
+        "nominativ": "die Schulausflüge",
+        "genitiv": "der Schulausflüge",
+        "dativ": "den Schulausflügen",
+        "akkusativ": "die Schulausflüge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school trip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sortie scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul gezisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenausflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenfahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Exkursion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wandertag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schulausfluck",
+    "Schulausflung",
+    "Schullausflug",
+    "Schulausfug",
+    "Schulaußflug"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Wecker",
+  "wortart": "Nomen",
+  "silben": "We-cker",
+  "begriffserklaerung": "Ein Wecker ist eine Uhr, die zu einer bestimmten Zeit einen lauten Ton macht, damit du aufwachst.",
+  "beispielsatz": "Jeden Morgen klingelt mein Wecker um sieben Uhr.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" kommt „ck\" – das zeigt, dass der Vokal kurz ist: We-cker.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wecker",
+    "plural": "die Wecker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wecker",
+        "genitiv": "des Weckers",
+        "dativ": "dem Wecker",
+        "akkusativ": "den Wecker"
+      },
+      "plural": {
+        "nominativ": "die Wecker",
+        "genitiv": "der Wecker",
+        "dativ": "den Weckern",
+        "akkusativ": "die Wecker"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "weck"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufwecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klingel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weckuhr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wekker",
+    "Weker",
+    "Wäcker",
+    "Wekcer",
+    "Wecker"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "alarm clock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réveil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalar saat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منبه"
+    }
+  ],
+  "bild_datei": "Wecker.webp",
+  "audio_datei": "Wecker.mp3"
+}

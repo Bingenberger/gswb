@@ -1,0 +1,83 @@
+{
+  "lemma": "Hautarzt",
+  "wortart": "Nomen",
+  "silben": "Haut-arzt",
+  "begriffserklaerung": "Ein Hautarzt ist ein Arzt, der sich besonders gut mit der Haut auskennt und Menschen hilft, wenn die Haut krank ist oder juckt.",
+  "beispielsatz": "Weil Lena einen Ausschlag hatte, ging sie mit ihrer Mama zum Hautarzt.",
+  "rechtschreibstrategie": "„Hautarzt\" ist ein zusammengesetztes Wort aus „Haut\" und „Arzt\". Sprich beide Teile einzeln: HAUT + ARZT – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haut",
+    "Arzt"
+  ],
+  "bild_datei": "Hautarzt.webp",
+  "audio_datei": "Hautarzt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dermatologist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dermatologue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dermatolog"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب الجلدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kinderarzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausschlag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hautarzt",
+    "plural": "die Hautärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hautarzt",
+        "genitiv": "des Hautarztes",
+        "dativ": "dem Hautarzt",
+        "akkusativ": "den Hautarzt"
+      },
+      "plural": {
+        "nominativ": "die Hautärzte",
+        "genitiv": "der Hautärzte",
+        "dativ": "den Hautärzten",
+        "akkusativ": "die Hautärzte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haudarzt",
+    "Hautartz",
+    "Haudartz",
+    "Hautarst",
+    "Houtarzt"
+  ]
+}

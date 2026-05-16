@@ -1,0 +1,91 @@
+{
+  "lemma": "Aufgabe",
+  "wortart": "Nomen",
+  "silben": "Auf-ga-be",
+  "begriffserklaerung": "Eine Aufgabe ist etwas, das du erledigen oder lösen sollst, zum Beispiel eine Rechenaufgabe in der Schule.",
+  "beispielsatz": "Die Lehrerin gibt uns jeden Tag eine Aufgabe zum Üben.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Auf-ga-be. Denk an das kurze „a\" in „ga\" – es wird einfach geschrieben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "geben",
+    "Gabe"
+  ],
+  "bild_datei": "Aufgabe.webp",
+  "audio_datei": "Aufgabe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aufgabe",
+    "plural": "die Aufgaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aufgabe",
+        "genitiv": "der Aufgabe",
+        "dativ": "der Aufgabe",
+        "akkusativ": "die Aufgabe"
+      },
+      "plural": {
+        "nominativ": "die Aufgaben",
+        "genitiv": "der Aufgaben",
+        "dativ": "den Aufgaben",
+        "akkusativ": "die Aufgaben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "task / exercise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tâche / exercice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görev / ödev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهمة / تمرين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auftrag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hausaufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Prüfung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aufgaabe",
+    "Aufgahbe",
+    "Aufgape",
+    "Aufgave",
+    "Aufgab"
+  ]
+}

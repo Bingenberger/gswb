@@ -1,0 +1,73 @@
+{
+  "lemma": "Balkon",
+  "wortart": "Nomen",
+  "silben": "Bal-kon",
+  "begriffserklaerung": "Ein Balkon ist eine kleine Plattform an der Außenwand eines Gebäudes. Man kann dort draußen sitzen, Blumen aufstellen oder die frische Luft genießen.",
+  "beispielsatz": "Meine Oma gießt jeden Morgen die Blumen auf ihrem Balkon.",
+  "rechtschreibstrategie": "Das Wort „Balkon\" klingt am Ende wie „kon\" – merke dir: Es kommt aus dem Französischen und wird so geschrieben, wie es klingt. Das „k\" am Ende gehört fest dazu!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Balkon.webp",
+  "audio_datei": "Balkon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "balcony"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balcon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balkon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شُرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Terrasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Balkon",
+    "plural": "die Balkone",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Balkon",
+        "genitiv": "des Balkons",
+        "dativ": "dem Balkon",
+        "akkusativ": "den Balkon"
+      },
+      "plural": {
+        "nominativ": "die Balkone",
+        "genitiv": "der Balkone",
+        "dativ": "den Balkonen",
+        "akkusativ": "die Balkone"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Balckon",
+    "Ballkon",
+    "Balkohn",
+    "Balcon",
+    "Balkon",
+    "Balgon"
+  ]
+}

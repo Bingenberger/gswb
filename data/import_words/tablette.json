@@ -1,0 +1,73 @@
+{
+  "lemma": "Tablette",
+  "wortart": "Nomen",
+  "silben": "Tab-let-te",
+  "begriffserklaerung": "Eine Tablette ist ein kleines, festes Stück Medizin, das man schluckt, wenn man krank ist.",
+  "beispielsatz": "Die Ärztin sagt, ich soll zweimal am Tag eine Tablette nehmen.",
+  "rechtschreibstrategie": "In „Tablette\" steckt ein doppeltes t – das zeigt, dass das „e\" davor kurz gesprochen wird: Ta-BLETT-e. Sprich das Wort langsam in Silben!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tablette.webp",
+  "audio_datei": "Tablette.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tablet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "comprimé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tablet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حبة دواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apotheke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tablette",
+    "plural": "die Tabletten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tablette",
+        "genitiv": "der Tablette",
+        "dativ": "der Tablette",
+        "akkusativ": "die Tablette"
+      },
+      "plural": {
+        "nominativ": "die Tabletten",
+        "genitiv": "der Tabletten",
+        "dativ": "den Tabletten",
+        "akkusativ": "die Tabletten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tablete",
+    "Taplette",
+    "Taplete",
+    "Tablette",
+    "Dablette",
+    "Tablett"
+  ]
+}

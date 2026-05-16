@@ -1,0 +1,87 @@
+{
+  "lemma": "Ordnung",
+  "wortart": "Nomen",
+  "silben": "Ord-nung",
+  "begriffserklaerung": "Ordnung bedeutet, dass alle Dinge an ihrem richtigen Platz sind und alles so ist, wie es sein soll.",
+  "beispielsatz": "In meinem Zimmer herrschte endlich wieder Ordnung, nachdem ich aufgeräumt hatte.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ord-nung. Denk daran, dass nach dem „d\" ein „n\" kommt – Ord-nung!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "ordnen",
+    "Ord"
+  ],
+  "bild_datei": "Ordnung.webp",
+  "audio_datei": "Ordnung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ordnung",
+    "plural": "die Ordnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ordnung",
+        "genitiv": "der Ordnung",
+        "dativ": "der Ordnung",
+        "akkusativ": "die Ordnung"
+      },
+      "plural": {
+        "nominativ": "die Ordnungen",
+        "genitiv": "der Ordnungen",
+        "dativ": "den Ordnungen",
+        "akkusativ": "die Ordnungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "order"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düzen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نظام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ordnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ordentlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sauberkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufräumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sauberkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ordung",
+    "Ordnug",
+    "Ortnung",
+    "Ordnnung",
+    "Orrdnung"
+  ]
+}

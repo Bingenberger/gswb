@@ -1,0 +1,92 @@
+{
+  "lemma": "Gliedermaßstab",
+  "wortart": "Nomen",
+  "silben": "Glie-der-maß-stab",
+  "begriffserklaerung": "Ein Gliedermaßstab ist ein zusammenklappbares Messgerät aus vielen kleinen Stäben, die durch Gelenke verbunden sind. Man nennt ihn auch Zollstock. Mit ihm kann man Längen messen, zum Beispiel wie breit ein Tisch ist.",
+  "beispielsatz": "Der Handwerker misst die Tür mit dem Gliedermaßstab.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Glieder\" + „maß\" + „stab\". Das ß in „maß\" schreibt man, weil der Vokal davor lang gesprochen wird. Sprich das Wort in Silben: Glie-der-maß-stab.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Glied",
+    "Maß",
+    "Stab"
+  ],
+  "bild_datei": "Gliedermaßstab.webp",
+  "audio_datei": "Gliedermaßstab.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gliedermaßstab",
+    "plural": "die Gliedermaßstäbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gliedermaßstab",
+        "genitiv": "des Gliedermaßstabs",
+        "dativ": "dem Gliedermaßstab",
+        "akkusativ": "den Gliedermaßstab"
+      },
+      "plural": {
+        "nominativ": "die Gliedermaßstäbe",
+        "genitiv": "der Gliedermaßstäbe",
+        "dativ": "den Gliedermaßstäben",
+        "akkusativ": "die Gliedermaßstäbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gliedermassstab",
+    "Gliedermastab",
+    "Gliedermaßstad",
+    "Glidermaßstab",
+    "Gliedermaßstaab",
+    "Gliedermaszstab"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "folding ruler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mètre pliant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katlanır metre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسطرة قابلة للطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glied"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zollstock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maßband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messgerät"
+    }
+  ]
+}

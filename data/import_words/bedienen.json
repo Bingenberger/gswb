@@ -1,0 +1,102 @@
+{
+  "lemma": "bedienen",
+  "wortart": "Verb",
+  "silben": "be-die-nen",
+  "begriffserklaerung": "Jemanden bedienen bedeutet, ihm etwas zu bringen oder zu helfen, zum Beispiel im Restaurant oder an der Kasse.",
+  "beispielsatz": "Die freundliche Kellnerin bedient die Gäste im Restaurant.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: be-die-nen. Im zweiten Teil steckt „die\" – daran kannst du dir das lange „ie\" merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "dien"
+  ],
+  "bild_datei": "bedienen.webp",
+  "audio_datei": "bedienen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to serve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "servir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hizmet etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يخدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dienen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bedienung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "versorgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kellner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bestellen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bedienen",
+    "praesens": {
+      "ich": "bediene",
+      "du": "bedienst",
+      "er_sie_es": "bedient",
+      "wir": "bedienen",
+      "ihr": "bedient",
+      "sie": "bedienen"
+    },
+    "perfekt": {
+      "ich": "habe bedient",
+      "du": "hast bedient",
+      "er_sie_es": "hat bedient",
+      "wir": "haben bedient",
+      "ihr": "habt bedient",
+      "sie": "haben bedient"
+    },
+    "praeteritum": {
+      "ich": "bediente",
+      "du": "bedientest",
+      "er_sie_es": "bediente",
+      "wir": "bedienten",
+      "ihr": "bedientet",
+      "sie": "bedienten"
+    }
+  },
+  "fehlschreibungen": [
+    "bedihnen",
+    "bediehnen",
+    "bedinen",
+    "bediennen",
+    "bedienen"
+  ]
+}

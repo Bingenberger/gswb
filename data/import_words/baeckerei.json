@@ -1,0 +1,85 @@
+{
+  "lemma": "Bäckerei",
+  "wortart": "Nomen",
+  "silben": "Bä-cke-rei",
+  "begriffserklaerung": "Eine Bäckerei ist ein Geschäft oder eine Werkstatt, in der Brot, Brötchen, Kuchen und andere Backwaren hergestellt und verkauft werden.",
+  "beispielsatz": "Jeden Morgen kauft Mama frische Brötchen in der Bäckerei.",
+  "rechtschreibstrategie": "Das Wort kommt von „backen\" und „Bäcker\". Das „ck\" schreibst du nach dem kurzen „ä\", weil der Vokal vor „ck\" kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "back"
+  ],
+  "bild_datei": "Bäckerei.webp",
+  "audio_datei": "Bäckerei.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bäckerei",
+    "plural": "die Bäckereien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bäckerei",
+        "genitiv": "der Bäckerei",
+        "dativ": "der Bäckerei",
+        "akkusativ": "die Bäckerei"
+      },
+      "plural": {
+        "nominativ": "die Bäckereien",
+        "genitiv": "der Bäckereien",
+        "dativ": "den Bäckereien",
+        "akkusativ": "die Bäckereien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bakery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boulangerie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخبز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäcker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brötchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konditorei"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beckerei",
+    "Bäkerei",
+    "Bäckerey",
+    "Bäckerei",
+    "Bäckerai",
+    "Bäkkerei",
+    "Bäcerei"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Signal",
+  "wortart": "Nomen",
+  "silben": "Sig-nal",
+  "begriffserklaerung": "Ein Signal ist ein Zeichen, das jemandem etwas mitteilt – zum Beispiel ein Ton, ein Licht oder eine Geste.",
+  "beispielsatz": "Die Ampel gibt uns ein Signal, wann wir die Straße überqueren dürfen.",
+  "rechtschreibstrategie": "Schreibe „Signal\" mit einem „g\" in der Mitte – sprich es laut: Sig-nal. Das „S\" am Anfang wird groß geschrieben, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Signal"
+  ],
+  "bild_datei": "Signal.webp",
+  "audio_datei": "Signal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "signal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "signal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinyal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "signalisieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Signalwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Signal",
+    "plural": "die Signale",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Signal",
+        "genitiv": "des Signals",
+        "dativ": "dem Signal",
+        "akkusativ": "das Signal"
+      },
+      "plural": {
+        "nominativ": "die Signale",
+        "genitiv": "der Signale",
+        "dativ": "den Signalen",
+        "akkusativ": "die Signale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Signa",
+    "Sygnal",
+    "Signahl",
+    "Ziknal",
+    "Cignal",
+    "Signall"
+  ]
+}

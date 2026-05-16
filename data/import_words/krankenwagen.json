@@ -1,0 +1,88 @@
+{
+  "lemma": "Krankenwagen",
+  "wortart": "Nomen",
+  "silben": "Kran-ken-wa-gen",
+  "begriffserklaerung": "Ein Krankenwagen ist ein besonderes Auto, das kranke oder verletzte Menschen schnell ins Krankenhaus bringt. Er hat ein Blaulicht und eine Sirene.",
+  "beispielsatz": "Als Oma hinfiel und sich das Bein brach, kam sofort ein Krankenwagen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „krank\" und „Wagen\". Denk daran: krank + Wagen = Krankenwagen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "krank",
+    "Wagen"
+  ],
+  "bild_datei": "Krankenwagen.webp",
+  "audio_datei": "Krankenwagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ambulance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ambulance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ambulans"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة إسعاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rettungsdienst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rettungswagen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Krankenwagen",
+    "plural": "die Krankenwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Krankenwagen",
+        "genitiv": "des Krankenwagens",
+        "dativ": "dem Krankenwagen",
+        "akkusativ": "den Krankenwagen"
+      },
+      "plural": {
+        "nominativ": "die Krankenwagen",
+        "genitiv": "der Krankenwagen",
+        "dativ": "den Krankenwagen",
+        "akkusativ": "die Krankenwagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krankenwaggen",
+    "Krankenwagen",
+    "Krankenwahgen",
+    "Krancenwagen",
+    "Krankenwagn",
+    "Krankenwaghen"
+  ]
+}

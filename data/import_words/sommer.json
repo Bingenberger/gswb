@@ -1,0 +1,83 @@
+{
+  "lemma": "Sommer",
+  "wortart": "Nomen",
+  "silben": "Som-mer",
+  "begriffserklaerung": "Der Sommer ist die wärmste Jahreszeit. Die Sonne scheint viel, die Tage sind lang und Kinder haben Ferien.",
+  "beispielsatz": "Im Sommer fahren wir ans Meer und spielen den ganzen Tag am Strand.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Som-mer. Nach dem kurzen „o\" kommt ein Doppel-m. Denk daran: kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "somm"
+  ],
+  "bild_datei": "Sommer.webp",
+  "audio_datei": "Sommer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sommer",
+    "plural": "die Sommer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sommer",
+        "genitiv": "des Sommers",
+        "dativ": "dem Sommer",
+        "akkusativ": "den Sommer"
+      },
+      "plural": {
+        "nominativ": "die Sommer",
+        "genitiv": "der Sommer",
+        "dativ": "den Sommern",
+        "akkusativ": "die Sommer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "summer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "été"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sommerlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sommerferien"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Somer",
+    "Zommer",
+    "Somm er",
+    "Sommer",
+    "Soomer",
+    "Ssommer"
+  ]
+}

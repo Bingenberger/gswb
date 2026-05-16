@@ -1,0 +1,84 @@
+{
+  "lemma": "Klassenfahrt",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-fahrt",
+  "begriffserklaerung": "Eine Klassenfahrt ist ein Ausflug, bei dem eine ganze Schulklasse zusammen für mehrere Tage verreist – zum Beispiel ans Meer, in die Berge oder in eine andere Stadt.",
+  "beispielsatz": "Nächste Woche fahren wir auf Klassenfahrt nach Hamburg und übernachten dort drei Nächte.",
+  "rechtschreibstrategie": "„Klassenfahrt\" ist ein zusammengesetztes Wort aus „Klasse\" und „Fahrt\". Schreibe beide Teile einfach zusammen: Klassen + fahrt = Klassenfahrt. Achte auf das Dehnungs-h in „Fahrt\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "fahren"
+  ],
+  "bild_datei": "Klassenfahrt.webp",
+  "audio_datei": "Klassenfahrt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klassenfahrt",
+    "plural": "die Klassenfahrten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klassenfahrt",
+        "genitiv": "der Klassenfahrt",
+        "dativ": "der Klassenfahrt",
+        "akkusativ": "die Klassenfahrt"
+      },
+      "plural": {
+        "nominativ": "die Klassenfahrten",
+        "genitiv": "der Klassenfahrten",
+        "dativ": "den Klassenfahrten",
+        "akkusativ": "die Klassenfahrten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school trip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voyage scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul gezisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulausflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Übernachtung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulreise"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klasenfahrt",
+    "Klassenfahd",
+    "Klasenfart",
+    "Klassenfahrd",
+    "Klassenfart"
+  ]
+}

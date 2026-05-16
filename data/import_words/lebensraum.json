@@ -1,0 +1,88 @@
+{
+  "lemma": "Lebensraum",
+  "wortart": "Nomen",
+  "silben": "Le-bens-raum",
+  "begriffserklaerung": "Ein Lebensraum ist ein Ort, an dem Tiere und Pflanzen leben und alles finden, was sie zum Überleben brauchen – zum Beispiel Nahrung, Wasser und Schutz.",
+  "beispielsatz": "Der Wald ist der Lebensraum vieler Tiere wie Rehe, Füchse und Spechte.",
+  "rechtschreibstrategie": "„Lebensraum\" ist ein zusammengesetztes Wort aus „Leben\" und „Raum\". Sprich beide Teile deutlich: LE-BENS-RAUM. Das hilft dir, es richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "leben",
+    "Raum"
+  ],
+  "bild_datei": "Lebensraum.webp",
+  "audio_datei": "Lebensraum.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lebensraum",
+    "plural": "die Lebensräume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lebensraum",
+        "genitiv": "des Lebensraums",
+        "dativ": "dem Lebensraum",
+        "akkusativ": "den Lebensraum"
+      },
+      "plural": {
+        "nominativ": "die Lebensräume",
+        "genitiv": "der Lebensräume",
+        "dativ": "den Lebensräumen",
+        "akkusativ": "die Lebensräume"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "habitat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "habitat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşam alanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heimat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lebensraum",
+    "Leebensraum",
+    "Läbensraum",
+    "Lebensraume",
+    "Lebensrauhm",
+    "Lebenssraum"
+  ]
+}

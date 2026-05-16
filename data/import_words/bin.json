@@ -1,0 +1,90 @@
+{
+  "lemma": "bin",
+  "wortart": "Verb",
+  "silben": "bin",
+  "begriffserklaerung": "„Bin\" ist die Ich-Form des Verbs „sein\". Du benutzt es, wenn du etwas über dich selbst sagst.",
+  "beispielsatz": "Ich bin heute sehr glücklich!",
+  "rechtschreibstrategie": "Das Wort „bin\" hat nur drei Buchstaben: b – i – n. Sprich es laut mit: „bin\". Es klingt genau so, wie es geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "bin.webp",
+  "audio_datei": "bin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "am (I am)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "suis (je suis)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "im / -im (ben)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنا (أكون)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sind"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existiere"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "fehlschreibungen": [
+    "binn",
+    "bing",
+    "bien",
+    "bim",
+    "bün"
+  ]
+}

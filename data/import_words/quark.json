@@ -1,0 +1,72 @@
+{
+  "lemma": "Quark",
+  "wortart": "Nomen",
+  "silben": "Quark",
+  "begriffserklaerung": "Quark ist ein weicher, weißer Frischkäse, der aus Milch hergestellt wird. Er schmeckt leicht säuerlich und wird oft mit Früchten oder Zucker gegessen.",
+  "beispielsatz": "Mama rührt Quark mit Erdbeeren und Honig zu einem leckeren Frühstück an.",
+  "rechtschreibstrategie": "Quark beginnt mit „Qu\" – das „Q\" steht im Deutschen immer zusammen mit dem „u\". Sprich laut: QUARK – du hörst das „Qu\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Quark.webp",
+  "audio_datei": "Quark.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quark (curd cheese)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fromage blanc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "quark peyniri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جبن القارك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joghurt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Quark",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Quark",
+        "genitiv": "des Quarks",
+        "dativ": "dem Quark",
+        "akkusativ": "den Quark"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Quarg",
+    "Kvark",
+    "Quaark",
+    "Kwarc",
+    "Quahk"
+  ]
+}

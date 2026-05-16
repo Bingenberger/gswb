@@ -1,0 +1,92 @@
+{
+  "lemma": "schneien",
+  "wortart": "Verb",
+  "silben": "schnei-en",
+  "begriffserklaerung": "Wenn es schneit, fallen kleine weiße Eiskristalle vom Himmel herunter. Das passiert im Winter, wenn es sehr kalt ist.",
+  "beispielsatz": "Im Winter schneit es manchmal so stark, dass alles weiß aussieht.",
+  "rechtschreibstrategie": "Denk an das Wort „Schnee\" – da hörst du das „ei\" ganz deutlich. Schreibe es deshalb mit „ei\": schn-ei-en.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "schnei"
+  ],
+  "bild_datei": "schneien.webp",
+  "audio_datei": "schneien.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schneien",
+    "praesens": {
+      "ich": "schneie",
+      "du": "schneit",
+      "er_sie_es": "schneit",
+      "wir": "schneien",
+      "ihr": "schneit",
+      "sie": "schneien"
+    },
+    "perfekt": {
+      "ich": "hat geschneit",
+      "du": "hat geschneit",
+      "er_sie_es": "hat geschneit",
+      "wir": "hat geschneit",
+      "ihr": "hat geschneit",
+      "sie": "hat geschneit"
+    },
+    "praeteritum": {
+      "ich": "schneite",
+      "du": "schneitest",
+      "er_sie_es": "schneite",
+      "wir": "schneitten",
+      "ihr": "schneitet",
+      "sie": "schneiten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to snow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "neiger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar yağmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتساقط الثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneeball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "regnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hageln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "fehlschreibungen": [
+    "schnaien",
+    "schnayen",
+    "schneihen",
+    "schnneihen",
+    "schneien"
+  ]
+}

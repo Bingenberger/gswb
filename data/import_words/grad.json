@@ -1,0 +1,73 @@
+{
+  "lemma": "Grad",
+  "wortart": "Nomen",
+  "silben": "Grad",
+  "begriffserklaerung": "Ein Grad ist eine Maßeinheit. Man benutzt sie zum Messen von Temperaturen (zum Beispiel wie warm oder kalt es ist) oder von Winkeln (zum Beispiel in der Mathematik).",
+  "beispielsatz": "Heute hat es draußen zwanzig Grad – das ist schön warm!",
+  "rechtschreibstrategie": "„Grad\" endet auf -d. Wenn du das Wort verlängerst, hörst du es deutlich: Gra-des. Deshalb schreibst du am Ende ein d und kein t.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Grad"
+  ],
+  "bild_datei": "Grad.webp",
+  "audio_datei": "Grad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "degree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "degré"
+    },
+    {
+      "language_code": "tr",
+      "translation": "derece"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Thermometer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Grad",
+    "plural": "die Grad",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Grad",
+        "genitiv": "des Grades",
+        "dativ": "dem Grad",
+        "akkusativ": "den Grad"
+      },
+      "plural": {
+        "nominativ": "die Grad",
+        "genitiv": "der Grad",
+        "dativ": "den Grad",
+        "akkusativ": "die Grad"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grat",
+    "Gradt",
+    "Graad",
+    "Grrad"
+  ]
+}

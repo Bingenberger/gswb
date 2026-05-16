@@ -1,0 +1,82 @@
+{
+  "lemma": "Rose",
+  "wortart": "Nomen",
+  "silben": "Ro-se",
+  "begriffserklaerung": "Eine Rose ist eine schöne Blume mit weichen Blütenblättern und einem Stiel mit Dornen. Rosen duften oft sehr gut und gibt es in vielen Farben, zum Beispiel rot, rosa oder weiß.",
+  "beispielsatz": "Meine Mama hat mir eine rote Rose zum Geburtstag geschenkt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Ro-se\". Du hörst zwei Silben. Nach dem langen „o\" kommt nur ein „s\" – schreib also kein Doppel-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ros-"
+  ],
+  "bild_datei": "Rose.webp",
+  "audio_datei": "Rose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rose",
+    "plural": "die Rosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rose",
+        "genitiv": "der Rose",
+        "dativ": "der Rose",
+        "akkusativ": "die Rose"
+      },
+      "plural": {
+        "nominativ": "die Rosen",
+        "genitiv": "der Rosen",
+        "dativ": "den Rosen",
+        "akkusativ": "die Rosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rose"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gül"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وردة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Röschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rosenstrauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tulpe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rosse",
+    "Rohse",
+    "Roze",
+    "Roose",
+    "Roise"
+  ]
+}

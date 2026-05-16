@@ -1,0 +1,84 @@
+{
+  "lemma": "Vögelchen",
+  "wortart": "Nomen",
+  "silben": "Vö-gel-chen",
+  "begriffserklaerung": "Ein Vögelchen ist ein kleiner Vogel. Das Wort klingt besonders niedlich und zärtlich.",
+  "beispielsatz": "Das kleine Vögelchen sitzt auf dem Ast und singt ein Lied.",
+  "rechtschreibstrategie": "Denk an das große V am Anfang – Nomen schreibt man immer groß! Das Vögelchen kommt vom Vogel: Vo-gel → Vö-gel-chen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Vogel"
+  ],
+  "bild_datei": "Vögelchen.webp",
+  "audio_datei": "Vögelchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little bird"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit oiseau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük kuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عُصفور صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vögel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feder"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Piepmatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Vögelchen",
+    "plural": "die Vögelchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vögelchen",
+        "genitiv": "des Vögelchens",
+        "dativ": "dem Vögelchen",
+        "akkusativ": "das Vögelchen"
+      },
+      "plural": {
+        "nominativ": "die Vögelchen",
+        "genitiv": "der Vögelchen",
+        "dativ": "den Vögelchen",
+        "akkusativ": "die Vögelchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fögelchen",
+    "Vögelgen",
+    "Vöhgelchen",
+    "Vögelсhen",
+    "vögelchen",
+    "Vögelschen"
+  ]
+}

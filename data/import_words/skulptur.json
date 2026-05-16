@@ -1,0 +1,78 @@
+{
+  "lemma": "Skulptur",
+  "wortart": "Nomen",
+  "silben": "Skulp-tur",
+  "begriffserklaerung": "Eine Skulptur ist ein Kunstwerk, das man nicht nur anschauen, sondern oft auch anfassen kann. Sie wird aus Materialien wie Stein, Holz oder Metall geformt und hat eine dreidimensionale Form.",
+  "beispielsatz": "Im Museum steht eine große Skulptur aus weißem Marmor.",
+  "rechtschreibstrategie": "Das Wort „Skulptur\" ist ein Merkwort – das ungewöhnliche „Sk\" am Anfang musst du dir einfach merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Skulptur"
+  ],
+  "bild_datei": "Skulptur.webp",
+  "audio_datei": "Skulptur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sculpture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sculpture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "heykel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تمثال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Skulpteur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Statue"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunstwerk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plastik"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Skulptur",
+    "plural": "die Skulpturen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Skulptur",
+        "genitiv": "der Skulptur",
+        "dativ": "der Skulptur",
+        "akkusativ": "die Skulptur"
+      },
+      "plural": {
+        "nominativ": "die Skulpturen",
+        "genitiv": "der Skulpturen",
+        "dativ": "den Skulpturen",
+        "akkusativ": "die Skulpturen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Skultur",
+    "Sculptur",
+    "Skulptor",
+    "Skupltur",
+    "Skullptur"
+  ]
+}

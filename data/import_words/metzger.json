@@ -1,0 +1,86 @@
+{
+  "lemma": "Metzger",
+  "wortart": "Nomen",
+  "silben": "Metz-ger",
+  "begriffserklaerung": "Ein Metzger ist jemand, der Fleisch, Wurst und Schinken herstellt und verkauft. Metzger arbeiten in einer Metzgerei.",
+  "beispielsatz": "Der Metzger schneidet frisches Fleisch für unsere Familie.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Metz-ger. Nach dem kurzen „e\" kommt „tz\" – das zeigt dir das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Metz"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Metzger",
+    "plural": "die Metzger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Metzger",
+        "genitiv": "des Metzgers",
+        "dativ": "dem Metzger",
+        "akkusativ": "den Metzger"
+      },
+      "plural": {
+        "nominativ": "die Metzger",
+        "genitiv": "der Metzger",
+        "dativ": "den Metzgern",
+        "akkusativ": "die Metzger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mezger",
+    "Metzker",
+    "Metzgger",
+    "Metsger",
+    "Mezzger"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "butcher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boucher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Metzgerei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Metzgerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleischer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fleischer"
+    }
+  ],
+  "bild_datei": "Metzger.webp",
+  "audio_datei": "Metzger.mp3"
+}

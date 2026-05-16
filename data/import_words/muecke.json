@@ -1,0 +1,82 @@
+{
+  "lemma": "Mücke",
+  "wortart": "Nomen",
+  "silben": "Mü-cke",
+  "begriffserklaerung": "Eine Mücke ist ein kleines, fliegendes Insekt mit langen Beinen und dünnen Flügeln. Mücken stechen oft Menschen und saugen Blut.",
+  "beispielsatz": "Die Mücke hat mich am Arm gestochen, und jetzt juckt es schrecklich!",
+  "rechtschreibstrategie": "Das Wort „Mücke\" hat nach dem kurzen „ü\" ein „ck\". Immer wenn du nach einem kurzen Vokal ein „k\"-Laut hörst, schreibst du „ck\" – kein einfaches „k\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mück"
+  ],
+  "bild_datei": "Mücke.webp",
+  "audio_datei": "Mücke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mücke",
+    "plural": "die Mücken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mücke",
+        "genitiv": "der Mücke",
+        "dativ": "der Mücke",
+        "akkusativ": "die Mücke"
+      },
+      "plural": {
+        "nominativ": "die Mücken",
+        "genitiv": "der Mücken",
+        "dativ": "den Mücken",
+        "akkusativ": "die Mücken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mosquito"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moustique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sivrisinek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بعوضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mückenspray"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mückenstich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fliege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    }
+  ],
+  "fehlschreibungen": [
+    "Muke",
+    "Müke",
+    "Mücka",
+    "Mükke",
+    "Mücker"
+  ]
+}

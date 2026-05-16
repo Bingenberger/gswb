@@ -1,0 +1,76 @@
+{
+  "lemma": "Teddybär",
+  "wortart": "Nomen",
+  "silben": "Ted-dy-bär",
+  "begriffserklaerung": "Ein Teddybär ist ein weiches Kuscheltier in Form eines Bären, mit dem Kinder gerne spielen und schlafen.",
+  "beispielsatz": "Abends nehme ich meinen Teddybären mit ins Bett.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Teddy\" und „Bär\". Der erste Teil „Teddy\" kommt aus dem Englischen und wird mit doppeltem „d\" geschrieben. „Bär\" schreibt man mit dem Umlaut ä.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Bär"
+  ],
+  "bild_datei": "Teddybär.webp",
+  "audio_datei": "Teddybär.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teddy bear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nounours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncak ayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُبُّ لُعْبَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuscheltier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teddybär",
+    "plural": "die Teddybären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teddybär",
+        "genitiv": "des Teddybären",
+        "dativ": "dem Teddybären",
+        "akkusativ": "den Teddybären"
+      },
+      "plural": {
+        "nominativ": "die Teddybären",
+        "genitiv": "der Teddybären",
+        "dativ": "den Teddybären",
+        "akkusativ": "die Teddybären"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Teddibär",
+    "Tedybär",
+    "Teddybeer",
+    "Teddybähr",
+    "Tediebär",
+    "Teddybear"
+  ]
+}

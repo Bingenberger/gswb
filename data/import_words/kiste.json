@@ -1,0 +1,89 @@
+{
+  "lemma": "Kiste",
+  "wortart": "Nomen",
+  "silben": "Kis-te",
+  "begriffserklaerung": "Eine Kiste ist ein viereckiger Behälter aus Holz, Pappe oder Plastik, in dem man Dinge aufbewahren oder transportieren kann.",
+  "beispielsatz": "Wir packen die Bücher in eine große Kiste.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt ein Doppel-S: Kis-te. Sprich die Silben laut: „Kis\" – „te\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kiste"
+  ],
+  "bild_datei": "Kiste.webp",
+  "audio_datei": "Kiste.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kiste",
+    "plural": "die Kisten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kiste",
+        "genitiv": "der Kiste",
+        "dativ": "der Kiste",
+        "akkusativ": "die Kiste"
+      },
+      "plural": {
+        "nominativ": "die Kisten",
+        "genitiv": "der Kisten",
+        "dativ": "den Kisten",
+        "akkusativ": "die Kisten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "box / crate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caisse / boîte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sandık / kutu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holzkiste"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Obstkiste"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kasten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Box"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behälter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Truhe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kiste",
+    "Kißte",
+    "Kist",
+    "Kyste"
+  ]
+}

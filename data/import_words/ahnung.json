@@ -1,0 +1,92 @@
+{
+  "lemma": "Ahnung",
+  "wortart": "Nomen",
+  "silben": "Ah-nung",
+  "begriffserklaerung": "Eine Ahnung ist ein Gefühl oder ein Gedanke, dass etwas so sein könnte – auch wenn man es nicht genau weiß.",
+  "beispielsatz": "Ich habe keine Ahnung, wo mein Radiergummi hingekommen ist.",
+  "rechtschreibstrategie": "Denk an das lange „A\" am Anfang: Es wird mit „Ah\" geschrieben, weil das h den Vokal dehnt.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ahnung",
+    "plural": "die Ahnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ahnung",
+        "genitiv": "der Ahnung",
+        "dativ": "der Ahnung",
+        "akkusativ": "die Ahnung"
+      },
+      "plural": {
+        "nominativ": "die Ahnungen",
+        "genitiv": "der Ahnungen",
+        "dativ": "den Ahnungen",
+        "akkusativ": "die Ahnungen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "ahn"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ahnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ahnungslos"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vermutung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gedanke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geheimnis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anung",
+    "Aanung",
+    "Ahnnug",
+    "Ahnung",
+    "Annung",
+    "Aahnung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "idea, hunch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "idée, pressentiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fikir, his"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فكرة، حدس"
+    }
+  ],
+  "bild_datei": "Ahnung.webp",
+  "audio_datei": "Ahnung.mp3"
+}

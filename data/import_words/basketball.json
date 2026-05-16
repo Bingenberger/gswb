@@ -1,0 +1,78 @@
+{
+  "lemma": "Basketball",
+  "wortart": "Nomen",
+  "silben": "Bas-ket-ball",
+  "begriffserklaerung": "Basketball ist ein Mannschaftsspiel, bei dem zwei Teams versuchen, einen großen Ball in den Korb des gegnerischen Teams zu werfen.",
+  "beispielsatz": "Nach der Schule spielen wir Basketball auf dem Sportplatz.",
+  "rechtschreibstrategie": "Basketball ist ein zusammengesetztes Wort aus zwei Teilen: „Basket\" (englisch für Korb) und „Ball\". Sprich beide Teile deutlich: BAS-KET-BALL.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Ball"
+  ],
+  "bild_datei": "Basketball.webp",
+  "audio_datei": "Basketball.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "basketball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "basket-ball"
+    },
+    {
+      "language_code": "tr",
+      "translation": "basketbol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة السلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Volleyball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Basketball",
+    "plural": "die Basketbälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Basketball",
+        "genitiv": "des Basketballs",
+        "dativ": "dem Basketball",
+        "akkusativ": "den Basketball"
+      },
+      "plural": {
+        "nominativ": "die Basketbälle",
+        "genitiv": "der Basketbälle",
+        "dativ": "den Basketbällen",
+        "akkusativ": "die Basketbälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Basketbal",
+    "Bascketball",
+    "Basketbahl",
+    "Baskedball",
+    "Basktball"
+  ]
+}

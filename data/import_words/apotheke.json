@@ -1,0 +1,83 @@
+{
+  "lemma": "Apotheke",
+  "wortart": "Nomen",
+  "silben": "A-po-the-ke",
+  "begriffserklaerung": "Eine Apotheke ist ein Geschäft, in dem du Medikamente und Mittel gegen Krankheiten kaufen kannst. Dort arbeiten Fachleute, die dir erklären, welches Mittel bei deinem Husten oder Bauchschmerzen hilft.",
+  "beispielsatz": "Mama holt in der Apotheke einen Hustensaft für mich.",
+  "rechtschreibstrategie": "Das Wort „Apotheke\" kommt aus dem Griechischen. Es ist ein Merkwort – sprich es genau in Silben: A-po-the-ke. Achte besonders auf das „th\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Apotheke"
+  ],
+  "bild_datei": "Apotheke.webp",
+  "audio_datei": "Apotheke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pharmacy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pharmacie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eczane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيدلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apotheker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apothekerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medikament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Apotheke",
+    "plural": "die Apotheken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Apotheke",
+        "genitiv": "der Apotheke",
+        "dativ": "der Apotheke",
+        "akkusativ": "die Apotheke"
+      },
+      "plural": {
+        "nominativ": "die Apotheken",
+        "genitiv": "der Apotheken",
+        "dativ": "den Apotheken",
+        "akkusativ": "die Apotheken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Apoteke",
+    "Appotheke",
+    "Aphoteke",
+    "Apothecke",
+    "Apohteke",
+    "Apothehke"
+  ]
+}

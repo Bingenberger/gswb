@@ -1,0 +1,81 @@
+{
+  "lemma": "Hahn",
+  "wortart": "Nomen",
+  "silben": "Hahn",
+  "begriffserklaerung": "Ein Hahn ist ein männliches Huhn. Er hat oft bunte Federn, einen roten Kamm auf dem Kopf und kräht laut am Morgen.",
+  "beispielsatz": "Der Hahn kräht jeden Morgen laut auf dem Bauernhof.",
+  "rechtschreibstrategie": "Das Wort „Hahn\" hat ein Dehnungs-h nach dem langen „a\". Sprich es laut: Haaa-hn – das „h\" hörst du nicht, aber du schreibst es!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hahn"
+  ],
+  "bild_datei": "Hahn.webp",
+  "audio_datei": "Hahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rooster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coq"
+    },
+    {
+      "language_code": "tr",
+      "translation": "horoz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ديك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hühnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Henne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hahn",
+    "plural": "die Hähne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hahn",
+        "genitiv": "des Hahnes",
+        "dativ": "dem Hahn",
+        "akkusativ": "den Hahn"
+      },
+      "plural": {
+        "nominativ": "die Hähne",
+        "genitiv": "der Hähne",
+        "dativ": "den Hähnen",
+        "akkusativ": "die Hähne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Han",
+    "Hann",
+    "Haan",
+    "Hahn"
+  ]
+}

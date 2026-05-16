@@ -1,0 +1,88 @@
+{
+  "lemma": "Fassung",
+  "wortart": "Nomen",
+  "silben": "Fas-sung",
+  "begriffserklaerung": "Eine Fassung ist eine Halterung, zum Beispiel für eine Glühbirne. Das Wort bedeutet auch, ruhig und beherrscht zu sein – man sagt dann, jemand behält die Fassung.",
+  "beispielsatz": "Die Glühbirne passt genau in die Fassung der Lampe.",
+  "rechtschreibstrategie": "Das Wort „Fassung\" kommt von „fassen\". Du hörst das kurze „a\", deshalb folgt ein Doppel-s. Sprich es laut: Fas-sung!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fass"
+  ],
+  "bild_datei": "Fassung.webp",
+  "audio_datei": "Fassung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fassung",
+    "plural": "die Fassungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fassung",
+        "genitiv": "der Fassung",
+        "dativ": "der Fassung",
+        "akkusativ": "die Fassung"
+      },
+      "plural": {
+        "nominativ": "die Fassungen",
+        "genitiv": "der Fassungen",
+        "dativ": "den Fassungen",
+        "akkusativ": "die Fassungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "socket / composure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "douille / sang-froid"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soket / soğukkanlılık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاعدة المصباح / رباطة الجأش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fassen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefasst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erfassen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glühbirne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Halterung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fassung",
+    "Fassunk",
+    "Fasunk",
+    "Fazung",
+    "Faszung"
+  ]
+}

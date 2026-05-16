@@ -1,0 +1,94 @@
+{
+  "lemma": "Abstammung",
+  "wortart": "Nomen",
+  "silben": "Ab-stam-mung",
+  "begriffserklaerung": "Die Abstammung sagt, von wem jemand oder etwas abstammt – also von welcher Familie, welchem Volk oder welchen Vorfahren jemand kommt.",
+  "beispielsatz": "Meine Abstammung ist türkisch, weil meine Großeltern aus der Türkei kommen.",
+  "rechtschreibstrategie": "Das Wort „Abstammung\" hat zwei m, weil der Stamm „Stamm\" schon mit mm geschrieben wird. Denk an das Wort „Stamm\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stamm",
+    "stammen"
+  ],
+  "bild_datei": "Abstammung.webp",
+  "audio_datei": "Abstammung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Abstammung",
+    "plural": "die Abstammungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Abstammung",
+        "genitiv": "der Abstammung",
+        "dativ": "der Abstammung",
+        "akkusativ": "die Abstammung"
+      },
+      "plural": {
+        "nominativ": "die Abstammungen",
+        "genitiv": "der Abstammungen",
+        "dativ": "den Abstammungen",
+        "akkusativ": "die Abstammungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "descent, origin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "origine, descendance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köken, soy"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أصل، نسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stamm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stammen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herkunft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ursprung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heimat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abstamung",
+    "Abstahmung",
+    "Abstammunk",
+    "Abshtammung",
+    "Abstammmung"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Postamt",
+  "wortart": "Nomen",
+  "silben": "Post-amt",
+  "begriffserklaerung": "Ein Postamt ist ein Gebäude, in dem man Briefe und Pakete abschicken oder abholen kann.",
+  "beispielsatz": "Mama geht zum Postamt, um das Paket für Oma abzuschicken.",
+  "rechtschreibstrategie": "„Postamt\" ist ein zusammengesetztes Wort aus „Post\" und „Amt\". Schreibe beide Teile einfach hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Post",
+    "Amt"
+  ],
+  "bild_datei": "Postamt.webp",
+  "audio_datei": "Postamt.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Postamt",
+    "plural": "die Postämter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Postamt",
+        "genitiv": "des Postamtes",
+        "dativ": "dem Postamt",
+        "akkusativ": "das Postamt"
+      },
+      "plural": {
+        "nominativ": "die Postämter",
+        "genitiv": "der Postämter",
+        "dativ": "den Postämtern",
+        "akkusativ": "die Postämter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "post office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau de poste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "postane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكتب البريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Amt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Poststelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefkasten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Postammt",
+    "Postamdt",
+    "Postahmt",
+    "Posttamt",
+    "Postambt"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "Mittwoch",
+  "wortart": "Nomen",
+  "silben": "Mitt-woch",
+  "beispielsatz": "Am Mittwoch haben wir Sportunterricht in der Schule.",
+  "begriffserklaerung": "Der Mittwoch ist der dritte Wochentag. Er liegt genau in der Mitte der Woche, zwischen Dienstag und Donnerstag.",
+  "rechtschreibstrategie": "Das Wort „Mittwoch\" steckt aus „Mitte\" und „Woche\" zusammen. Denk an die Mitte der Woche – deshalb schreibt man es mit doppeltem „t\": Mitt-woch.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Woche"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mittwoch",
+    "plural": "die Mittwoche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mittwoch",
+        "genitiv": "des Mittwochs",
+        "dativ": "dem Mittwoch",
+        "akkusativ": "den Mittwoch"
+      },
+      "plural": {
+        "nominativ": "die Mittwoche",
+        "genitiv": "der Mittwoche",
+        "dativ": "den Mittwochen",
+        "akkusativ": "die Mittwoche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitwoch",
+    "Mittwog",
+    "Mitwog",
+    "Mittwooch",
+    "Mitwoche"
+  ],
+  "bild_datei": "Mittwoch.webp",
+  "audio_datei": "Mittwoch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Wednesday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mercredi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Çarşamba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الأربعاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Montag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Donnerstag"
+    }
+  ]
+}

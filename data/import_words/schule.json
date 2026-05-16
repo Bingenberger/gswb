@@ -1,0 +1,87 @@
+{
+  "lemma": "Schule",
+  "wortart": "Nomen",
+  "silben": "Schu-le",
+  "begriffserklaerung": "Eine Schule ist ein Gebäude, in dem Kinder gemeinsam lernen und von Lehrerinnen und Lehrern unterrichtet werden.",
+  "beispielsatz": "Jeden Morgen gehe ich gerne in die Schule, weil ich dort meine Freunde treffe.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Schu-le\". Du hörst ein langes „u\" – da schreibst du nur ein „l\", kein Doppel-l!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schul"
+  ],
+  "bild_datei": "Schule.webp",
+  "audio_datei": "Schule.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school"
+    },
+    {
+      "language_code": "fr",
+      "translation": "école"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schulisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulkind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klasse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schule",
+    "plural": "die Schulen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schule",
+        "genitiv": "der Schule",
+        "dativ": "der Schule",
+        "akkusativ": "die Schule"
+      },
+      "plural": {
+        "nominativ": "die Schulen",
+        "genitiv": "der Schulen",
+        "dativ": "den Schulen",
+        "akkusativ": "die Schulen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schuule",
+    "Schuhle",
+    "Schuelle",
+    "Schule",
+    "Shuле",
+    "Schull"
+  ]
+}

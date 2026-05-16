@@ -1,0 +1,82 @@
+{
+  "lemma": "Puls",
+  "wortart": "Nomen",
+  "silben": "Puls",
+  "begriffserklaerung": "Der Puls ist das Klopfen, das du spürst, wenn dein Herz Blut durch deinen Körper pumpt. Du kannst ihn zum Beispiel am Handgelenk fühlen.",
+  "beispielsatz": "Nach dem Rennen spürte Lisa ihren Puls ganz schnell an ihrem Handgelenk.",
+  "rechtschreibstrategie": "Das Wort „Puls\" endet auf -ls. Sprich es laut: Puls – du hörst den kurzen „u\"-Laut. Denk daran: Nach dem kurzen Vokal folgt direkt das l und das s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "puls"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Puls",
+    "plural": "die Pulse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Puls",
+        "genitiv": "des Pulses",
+        "dativ": "dem Puls",
+        "akkusativ": "den Puls"
+      },
+      "plural": {
+        "nominativ": "die Pulse",
+        "genitiv": "der Pulse",
+        "dativ": "den Pulsen",
+        "akkusativ": "die Pulse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pulß",
+    "Puhls",
+    "Pulls",
+    "Bulz",
+    "Pulz"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pulse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pouls"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nabız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pulsschlag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pulsieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herzschlag"
+    }
+  ],
+  "bild_datei": "Puls.webp",
+  "audio_datei": "Puls.mp3"
+}

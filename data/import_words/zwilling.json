@@ -1,0 +1,80 @@
+{
+  "lemma": "Zwilling",
+  "wortart": "Nomen",
+  "silben": "Zwil-ling",
+  "begriffserklaerung": "Ein Zwilling ist ein Kind, das zusammen mit einem anderen Kind zur gleichen Zeit von derselben Mutter geboren wurde.",
+  "beispielsatz": "Mia und Tom sind Zwillinge – sie sehen sich fast genau gleich aus!",
+  "rechtschreibstrategie": "Höre genau hin: Das „i\" in „Zwil-ling\" ist kurz. Deshalb schreibt man ein Doppel-l und am Ende „-ing\" – wie bei „Ring\" oder „König\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zwill"
+  ],
+  "bild_datei": "Zwilling.webp",
+  "audio_datei": "Zwilling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zwilling",
+    "plural": "die Zwillinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zwilling",
+        "genitiv": "des Zwillings",
+        "dativ": "dem Zwilling",
+        "akkusativ": "den Zwilling"
+      },
+      "plural": {
+        "nominativ": "die Zwillinge",
+        "genitiv": "der Zwillinge",
+        "dativ": "den Zwillingen",
+        "akkusativ": "die Zwillinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "twin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jumeau / jumelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ikiz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توأم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zwillinge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschwister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drilling"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Doppelkind"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zwiling",
+    "Zwillink",
+    "Zvilliing",
+    "Zwillig",
+    "Zwillin",
+    "Tswilling"
+  ]
+}

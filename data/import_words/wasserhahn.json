@@ -1,0 +1,83 @@
+{
+  "lemma": "Wasserhahn",
+  "wortart": "Nomen",
+  "silben": "Was-ser-hahn",
+  "begriffserklaerung": "Ein Wasserhahn ist ein Gerät am Waschbecken oder in der Küche, mit dem man Wasser aufdrehen und abstellen kann.",
+  "beispielsatz": "Vergiss nicht, den Wasserhahn nach dem Händewaschen zuzudrehen!",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Wasser\" und „Hahn\". Schreibe beide Wörter einfach zusammen. Das Dehnungs-h in „Hahn\" hilft dir, das lange „a\" zu hören.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Hahn"
+  ],
+  "bild_datei": "Wasserhahn.webp",
+  "audio_datei": "Wasserhahn.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wasserhahn",
+    "plural": "die Wasserhähne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wasserhahn",
+        "genitiv": "des Wasserhahns",
+        "dativ": "dem Wasserhahn",
+        "akkusativ": "den Wasserhahn"
+      },
+      "plural": {
+        "nominativ": "die Wasserhähne",
+        "genitiv": "der Wasserhähne",
+        "dativ": "den Wasserhähnen",
+        "akkusativ": "die Wasserhähne"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "faucet / tap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "robinet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "musluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صنبور الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wasserhann",
+    "Waserhahn",
+    "Wasserhaan",
+    "Wässerhahn"
+  ]
+}

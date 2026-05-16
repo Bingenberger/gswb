@@ -1,0 +1,82 @@
+{
+  "lemma": "Feile",
+  "wortart": "Nomen",
+  "silben": "Fei-le",
+  "begriffserklaerung": "Eine Feile ist ein Werkzeug mit einer rauen Oberfläche. Man benutzt sie, um Metall, Holz oder Nägel glatt zu machen oder in Form zu bringen.",
+  "beispielsatz": "Papa benutzt die Feile, um die scharfe Kante des Metallstücks glatt zu schleifen.",
+  "rechtschreibstrategie": "Das Wort „Feile\" hat den langen ei-Laut. Sprich es laut: „Fei-le\". Denke daran: ei schreibt man mit e und i.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "feil"
+  ],
+  "bild_datei": "Feile.webp",
+  "audio_datei": "Feile.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Feile",
+    "plural": "die Feilen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Feile",
+        "genitiv": "der Feile",
+        "dativ": "der Feile",
+        "akkusativ": "die Feile"
+      },
+      "plural": {
+        "nominativ": "die Feilen",
+        "genitiv": "der Feilen",
+        "dativ": "den Feilen",
+        "akkusativ": "die Feilen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "file"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lime"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِبْرَد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "feilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nagelfeile"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Feille",
+    "Veile",
+    "Fiele",
+    "Feiel",
+    "Feyle"
+  ]
+}

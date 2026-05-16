@@ -1,0 +1,84 @@
+{
+  "lemma": "Leinwand",
+  "wortart": "Nomen",
+  "silben": "Lein-wand",
+  "begriffserklaerung": "Eine Leinwand ist ein großes, weißes Tuch oder eine glatte Fläche, auf die man Bilder malt oder Filme zeigt.",
+  "beispielsatz": "Im Kino leuchten bunte Bilder auf der großen Leinwand.",
+  "rechtschreibstrategie": "Das Wort „Leinwand\" besteht aus zwei Teilen: „Lein\" und „Wand\". Sprich beide Teile deutlich, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Lein",
+    "Wand"
+  ],
+  "bild_datei": "Leinwand.webp",
+  "audio_datei": "Leinwand.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leinwand",
+    "plural": "die Leinwände",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leinwand",
+        "genitiv": "der Leinwand",
+        "dativ": "der Leinwand",
+        "akkusativ": "die Leinwand"
+      },
+      "plural": {
+        "nominativ": "die Leinwände",
+        "genitiv": "der Leinwände",
+        "dativ": "den Leinwänden",
+        "akkusativ": "die Leinwände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "canvas / screen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toile / écran"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuval / perde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوحة قماشية / شاشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kino"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemälde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Leinvand",
+    "Lainwand",
+    "Leinwant",
+    "Leinwannt",
+    "Leiwand"
+  ]
+}

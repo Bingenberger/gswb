@@ -1,0 +1,86 @@
+{
+  "lemma": "Öl",
+  "wortart": "Nomen",
+  "silben": "Öl",
+  "begriffserklaerung": "Öl ist eine fettige, glatte Flüssigkeit, die sich nicht mit Wasser vermischt. Es gibt Speiseöl zum Kochen und Maschinenöl für Motoren.",
+  "beispielsatz": "Mama gibt einen Löffel Öl in die Pfanne, bevor sie das Gemüse brät.",
+  "rechtschreibstrategie": "„Öl\" ist ein kurzes Merkwort – es hat nur eine Silbe und schreibt sich genau so, wie man es spricht: Ö-l.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "öl"
+  ],
+  "bild_datei": "Öl.webp",
+  "audio_datei": "Öl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "huile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زيت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ölen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ölig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Olivenöl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Öl",
+    "plural": "die Öle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Öl",
+        "genitiv": "des Öls",
+        "dativ": "dem Öl",
+        "akkusativ": "das Öl"
+      },
+      "plural": {
+        "nominativ": "die Öle",
+        "genitiv": "der Öle",
+        "dativ": "den Ölen",
+        "akkusativ": "die Öle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Öhl",
+    "Ehl",
+    "Öll",
+    "Oel",
+    "Öel"
+  ]
+}

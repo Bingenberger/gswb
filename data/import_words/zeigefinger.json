@@ -1,0 +1,82 @@
+{
+  "lemma": "Zeigefinger",
+  "wortart": "Nomen",
+  "silben": "Zei-ge-fin-ger",
+  "begriffserklaerung": "Der Zeigefinger ist der zweite Finger an deiner Hand, der neben dem Daumen liegt. Mit ihm kannst du auf Dinge zeigen oder tippen.",
+  "beispielsatz": "Lisa streckt den Zeigefinger aus und zeigt auf den bunten Schmetterling.",
+  "rechtschreibstrategie": "Das Wort „Zeigefinger\" ist aus zwei Wörtern zusammengebaut: „zeigen\" und „Finger\". Sprich beide Teile einzeln: ZEIGE + FINGER. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "zeigen",
+    "Finger"
+  ],
+  "bild_datei": "Zeigefinger.webp",
+  "audio_datei": "Zeigefinger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "index finger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "index"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işaret parmağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "السبابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Finger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Daumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faust"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zeigefinger",
+    "plural": "die Zeigefinger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zeigefinger",
+        "genitiv": "des Zeigefingers",
+        "dativ": "dem Zeigefinger",
+        "akkusativ": "den Zeigefinger"
+      },
+      "plural": {
+        "nominativ": "die Zeigefinger",
+        "genitiv": "der Zeigefinger",
+        "dativ": "den Zeigefingern",
+        "akkusativ": "die Zeigefinger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeigfinger",
+    "Zeiegefinger",
+    "Zeigefingger",
+    "Ziegefinger"
+  ]
+}

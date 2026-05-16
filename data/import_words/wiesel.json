@@ -1,0 +1,72 @@
+{
+  "lemma": "Wiesel",
+  "wortart": "Nomen",
+  "silben": "Wie-sel",
+  "begriffserklaerung": "Ein Wiesel ist ein kleines, schlankes Raubtier mit kurzem Fell, das sehr flink ist und in Wäldern, Feldern und Wiesen lebt.",
+  "beispielsatz": "Das Wiesel huscht blitzschnell durch das hohe Gras.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" im Wort – sprich es deutlich: „Wie-sel\". Das „ie\" klingt wie ein langer i-Laut.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Wiesel.webp",
+  "audio_datei": "Wiesel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weasel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "belette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gelincik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابن عرس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Iltis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wiesel",
+    "plural": "die Wiesel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wiesel",
+        "genitiv": "des Wiesels",
+        "dativ": "dem Wiesel",
+        "akkusativ": "das Wiesel"
+      },
+      "plural": {
+        "nominativ": "die Wiesel",
+        "genitiv": "der Wiesel",
+        "dativ": "den Wieseln",
+        "akkusativ": "die Wiesel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wisel",
+    "Wießel",
+    "Wiessel",
+    "Wiezsel",
+    "Wiehsel"
+  ]
+}

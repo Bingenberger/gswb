@@ -1,0 +1,89 @@
+{
+  "lemma": "Fernseher",
+  "wortart": "Nomen",
+  "silben": "Fern-se-her",
+  "begriffserklaerung": "Ein Fernseher ist ein elektrisches Gerät mit einem Bildschirm, auf dem man Filme, Serien und Sendungen anschauen kann.",
+  "beispielsatz": "Am Abend schaut die Familie gemeinsam einen Film auf dem Fernseher.",
+  "rechtschreibstrategie": "Das Wort „Fernseher\" ist aus „fern\" und „sehen\" zusammengesetzt. Sprich es in Teile auf: FERN – SE – HER. Denke an das h in „sehen\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fern",
+    "seh"
+  ],
+  "bild_datei": "Fernseher.webp",
+  "audio_datei": "Fernseher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fernseher",
+    "plural": "die Fernseher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fernseher",
+        "genitiv": "des Fernsehers",
+        "dativ": "dem Fernseher",
+        "akkusativ": "den Fernseher"
+      },
+      "plural": {
+        "nominativ": "die Fernseher",
+        "genitiv": "der Fernseher",
+        "dativ": "den Fernsehern",
+        "akkusativ": "die Fernseher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "television / TV"
+    },
+    {
+      "language_code": "fr",
+      "translation": "télévision / téléviseur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "televizyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تلفاز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fernsehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fernsehsendung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flimmerkiste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernbedienung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fernseer",
+    "Fernseeer",
+    "Fernsäher",
+    "Fernsäer",
+    "Fernseier",
+    "Fernsehher"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Anzünder",
+  "wortart": "Nomen",
+  "silben": "An-zünd-er",
+  "begriffserklaerung": "Ein Anzünder ist ein kleines Hilfsmittel, mit dem man Feuer machen kann, zum Beispiel um eine Kerze oder einen Grill anzuzünden.",
+  "beispielsatz": "Papa benutzt den Anzünder, um die Kerzen auf dem Geburtstagskuchen anzuzünden.",
+  "rechtschreibstrategie": "Das Wort „Anzünder\" steckt das Verb „zünden\" drin. Denk daran: „zünd\" – mit ü und d am Ende. Du kannst es verlängern: zünden → zündet, dann hörst du das d deutlich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zünd"
+  ],
+  "bild_datei": "Anzünder.webp",
+  "audio_datei": "Anzünder.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anzünder",
+    "plural": "die Anzünder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anzünder",
+        "genitiv": "des Anzünders",
+        "dativ": "dem Anzünder",
+        "akkusativ": "den Anzünder"
+      },
+      "plural": {
+        "nominativ": "die Anzünder",
+        "genitiv": "der Anzünder",
+        "dativ": "den Anzündern",
+        "akkusativ": "die Anzünder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lighter / fire starter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allume-feu / briquet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çakmak / tutuşturucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قداحة / أداة إشعال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zünden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zündholz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streichholz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuerzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anzinder",
+    "Antzünder",
+    "Anzünter",
+    "Anzünnder",
+    "Anzündter",
+    "Antzinder"
+  ]
+}

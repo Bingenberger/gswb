@@ -1,0 +1,84 @@
+{
+  "lemma": "Handzeichen",
+  "wortart": "Nomen",
+  "silben": "Hand-zei-chen",
+  "begriffserklaerung": "Ein Handzeichen ist eine Bewegung oder Stellung der Hand, mit der man etwas zeigt oder mitteilt – zum Beispiel wenn du in der Schule die Hand hebst.",
+  "beispielsatz": "Lena gibt ein Handzeichen, damit die Lehrerin weiß, dass sie die Antwort kennt.",
+  "rechtschreibstrategie": "„Handzeichen\" ist ein zusammengesetztes Wort aus „Hand\" und „Zeichen\". Schreibe einfach beide Wörter hintereinander: Hand + Zeichen = Handzeichen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "zeichen"
+  ],
+  "bild_datei": "Handzeichen.webp",
+  "audio_datei": "Handzeichen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hand signal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "signe de la main"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشارة باليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Signal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Handzeichen",
+    "plural": "die Handzeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Handzeichen",
+        "genitiv": "des Handzeichens",
+        "dativ": "dem Handzeichen",
+        "akkusativ": "das Handzeichen"
+      },
+      "plural": {
+        "nominativ": "die Handzeichen",
+        "genitiv": "der Handzeichen",
+        "dativ": "den Handzeichen",
+        "akkusativ": "die Handzeichen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hantzeichen",
+    "Handzeigen",
+    "Hanzeichen",
+    "Handzeichen",
+    "Handzeichnen"
+  ]
+}

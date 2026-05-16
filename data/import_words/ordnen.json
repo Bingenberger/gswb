@@ -1,0 +1,98 @@
+{
+  "lemma": "ordnen",
+  "wortart": "Verb",
+  "silben": "ord-nen",
+  "begriffserklaerung": "Wenn du etwas ordnest, bringst du Dinge in eine bestimmte Reihenfolge oder räumst sie an den richtigen Platz.",
+  "beispielsatz": "Lena ordnet ihre Buntstifte nach Farben.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „ord-nen\". Du hörst das „d\" am Ende von „ord\" – schreibe es mit d, denn wenn du „Ordnung\" sagst, hörst du das d deutlich.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Ord"
+  ],
+  "bild_datei": "ordnen.webp",
+  "audio_datei": "ordnen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "ordnen",
+    "praesens": {
+      "ich": "ordne",
+      "du": "ordnest",
+      "er_sie_es": "ordnet",
+      "wir": "ordnen",
+      "ihr": "ordnet",
+      "sie": "ordnen"
+    },
+    "perfekt": {
+      "ich": "habe geordnet",
+      "du": "hast geordnet",
+      "er_sie_es": "hat geordnet",
+      "wir": "haben geordnet",
+      "ihr": "habt geordnet",
+      "sie": "haben geordnet"
+    },
+    "praeteritum": {
+      "ich": "ordnete",
+      "du": "ordnetest",
+      "er_sie_es": "ordnete",
+      "wir": "ordneten",
+      "ihr": "ordnetet",
+      "sie": "ordneten"
+    }
+  },
+  "fehlschreibungen": [
+    "ordten",
+    "orndnen",
+    "ordnnen",
+    "ortten",
+    "ordenen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sort / to arrange"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ranger / classer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düzenlemek / sıralamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرتِّب / يُنظِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ordnung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Orden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sortieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufräumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufräumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sortieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stapeln"
+    }
+  ]
+}

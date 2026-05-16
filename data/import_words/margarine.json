@@ -1,0 +1,72 @@
+{
+  "lemma": "Margarine",
+  "wortart": "Nomen",
+  "silben": "Mar-ga-ri-ne",
+  "begriffserklaerung": "Margarine ist ein streichfähiger Aufstrich aus pflanzlichen Fetten, den man ähnlich wie Butter auf Brot schmieren kann.",
+  "beispielsatz": "Mama streicht Margarine auf mein Frühstücksbrot.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Mar-ga-ri-ne. Jede Silbe hat einen eigenen Vokal – kein Vokal wird doppelt geschrieben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Margarine.webp",
+  "audio_datei": "Margarine.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "margarine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "margarine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "margarin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مارغرين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pflanzenfett"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Margarine",
+    "plural": "die Margarinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Margarine",
+        "genitiv": "der Margarine",
+        "dativ": "der Margarine",
+        "akkusativ": "die Margarine"
+      },
+      "plural": {
+        "nominativ": "die Margarinen",
+        "genitiv": "der Margarinen",
+        "dativ": "den Margarinen",
+        "akkusativ": "die Margarinen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Margerine",
+    "Margariene",
+    "Margarrine",
+    "Margerin",
+    "Marggarine"
+  ]
+}

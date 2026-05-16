@@ -1,0 +1,96 @@
+{
+  "lemma": "gehören",
+  "wortart": "Verb",
+  "silben": "ge-hö-ren",
+  "begriffserklaerung": "Wenn etwas jemandem gehört, dann ist es sein Eigentum oder es ist ein Teil davon.",
+  "beispielsatz": "Das rote Fahrrad gehört meiner großen Schwester.",
+  "rechtschreibstrategie": "Denk an das Wort „Ohr\" – wir hören mit dem Ohr. In „gehören\" steckt das Wort „hören\". Schreib es deshalb mit ö und h: ge-hö-ren.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hör"
+  ],
+  "bild_datei": "gehören.webp",
+  "audio_datei": "gehören.mp3",
+  "grammatische_formen": {
+    "infinitiv": "gehören",
+    "praesens": {
+      "ich": "gehöre",
+      "du": "gehörst",
+      "er_sie_es": "gehört",
+      "wir": "gehören",
+      "ihr": "gehört",
+      "sie": "gehören"
+    },
+    "perfekt": {
+      "ich": "habe gehört",
+      "du": "hast gehört",
+      "er_sie_es": "hat gehört",
+      "wir": "haben gehört",
+      "ihr": "habt gehört",
+      "sie": "haben gehört"
+    },
+    "praeteritum": {
+      "ich": "gehörte",
+      "du": "gehörtest",
+      "er_sie_es": "gehörte",
+      "wir": "gehörten",
+      "ihr": "gehörtet",
+      "sie": "gehörten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to belong to"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appartenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ait olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينتمي إلى / يخص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gehör"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zählen zu"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "besitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "eigen"
+    }
+  ],
+  "fehlschreibungen": [
+    "gehörren",
+    "gehöhren",
+    "gehhören",
+    "gehöen",
+    "geören",
+    "gehörn"
+  ]
+}

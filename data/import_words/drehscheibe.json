@@ -1,0 +1,84 @@
+{
+  "lemma": "Drehscheibe",
+  "wortart": "Nomen",
+  "silben": "Dreh-schei-be",
+  "begriffserklaerung": "Eine Drehscheibe ist eine runde Scheibe, die man drehen kann. Man benutzt sie zum Beispiel beim Töpfern, als Spielzeug oder um Dinge zu sortieren.",
+  "beispielsatz": "Die Töpferin formt einen Krug auf der Drehscheibe.",
+  "rechtschreibstrategie": "Das Wort „Drehscheibe\" besteht aus zwei Teilen: „dreh-\" (vom Verb „drehen\") und „-scheibe\". Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "dreh",
+    "scheib"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Drehscheibe",
+    "plural": "die Drehscheiben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Drehscheibe",
+        "genitiv": "der Drehscheibe",
+        "dativ": "der Drehscheibe",
+        "akkusativ": "die Drehscheibe"
+      },
+      "plural": {
+        "nominativ": "die Drehscheiben",
+        "genitiv": "der Drehscheiben",
+        "dativ": "den Drehscheiben",
+        "akkusativ": "die Drehscheiben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Drehsheibe",
+    "Drehscheipe",
+    "Dreischeibe",
+    "Dreschheibe",
+    "Drehschaibe"
+  ],
+  "bild_datei": "Drehscheibe.webp",
+  "audio_datei": "Drehscheibe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "turntable / pottery wheel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plateau tournant / tour de potier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "döner tabla / çömlekçi çarkı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرص دوار / عجلة الفخار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Scheibe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Töpferei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karussell"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Drehteller"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Kratzer",
+  "wortart": "Nomen",
+  "silben": "Krat-zer",
+  "begriffserklaerung": "Ein Kratzer ist eine kleine, schmale Verletzung oder Beschädigung auf der Haut oder auf einer Oberfläche, die durch Kratzen entsteht.",
+  "beispielsatz": "Beim Spielen im Garten hat sich Lena einen Kratzer am Arm geholt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Krat-zer\". Nach dem kurzen „a\" hörst du das „t\" – deshalb schreibt man „tz\". Merke: kurzer Vokal + tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kratz"
+  ],
+  "bild_datei": "Kratzer.webp",
+  "audio_datei": "Kratzer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scratch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "égratignure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خدش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kratzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kratzwunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schramme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schramme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kratzer",
+    "plural": "die Kratzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kratzer",
+        "genitiv": "des Kratzers",
+        "dativ": "dem Kratzer",
+        "akkusativ": "den Kratzer"
+      },
+      "plural": {
+        "nominativ": "die Kratzer",
+        "genitiv": "der Kratzer",
+        "dativ": "den Kratzern",
+        "akkusativ": "die Kratzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kratzter",
+    "Kratser",
+    "Krazter",
+    "Cratzter",
+    "Kratzzer"
+  ]
+}

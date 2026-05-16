@@ -1,0 +1,87 @@
+{
+  "lemma": "Schein",
+  "wortart": "Nomen",
+  "silben": "Schein",
+  "begriffserklaerung": "Ein Schein ist ein helles Licht, das leuchtet. Ein Schein kann auch ein wichtiges Papier sein, zum Beispiel ein Geldschein oder ein Zeugnis.",
+  "beispielsatz": "Der Schein der Lampe erhellt das ganze Zimmer.",
+  "rechtschreibstrategie": "Das Wort „Schein\" hat ein langes ei. Denk an das Licht, das scheint: sch-ei-n. Das „ei\" sprichst du wie in „Eis\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schein"
+  ],
+  "bild_datei": "Schein.webp",
+  "audio_datei": "Schein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shine / certificate / banknote"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lueur / billet / certificat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ışık / kağıt para / belge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضوء / ورقة نقدية / شهادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonnenschein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheinbar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leuchten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schein",
+    "plural": "die Scheine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schein",
+        "genitiv": "des Scheins",
+        "dativ": "dem Schein",
+        "akkusativ": "den Schein"
+      },
+      "plural": {
+        "nominativ": "die Scheine",
+        "genitiv": "der Scheine",
+        "dativ": "den Scheinen",
+        "akkusativ": "die Scheine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schein",
+    "Schain",
+    "Shein",
+    "Scein",
+    "Schien",
+    "Scheen"
+  ]
+}

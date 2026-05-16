@@ -1,0 +1,82 @@
+{
+  "lemma": "Klick",
+  "wortart": "Nomen",
+  "silben": "Klick",
+  "begriffserklaerung": "Ein Klick ist das kurze, knackige Geräusch oder die Bewegung, die entsteht, wenn man zum Beispiel eine Maustaste oder einen Knopf drückt.",
+  "beispielsatz": "Mit einem Klick öffnet sich das Spiel auf dem Computer.",
+  "rechtschreibstrategie": "Das Wort „Klick\" hat nach dem kurzen „i\" ein Doppel-k, das als „ck\" geschrieben wird. Sprich es kurz und knackig: Kl-ick!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "klick"
+  ],
+  "bild_datei": "Klick.webp",
+  "audio_datei": "Klick.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "click"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clic"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Doppelklick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knacklaut"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klick",
+    "plural": "die Klicks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klick",
+        "genitiv": "des Klicks",
+        "dativ": "dem Klick",
+        "akkusativ": "den Klick"
+      },
+      "plural": {
+        "nominativ": "die Klicks",
+        "genitiv": "der Klicks",
+        "dativ": "den Klicks",
+        "akkusativ": "die Klicks"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klik",
+    "Klick",
+    "Click",
+    "Klicck",
+    "Klikk"
+  ]
+}

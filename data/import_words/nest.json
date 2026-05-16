@@ -1,0 +1,82 @@
+{
+  "lemma": "Nest",
+  "wortart": "Nomen",
+  "silben": "Nest",
+  "begriffserklaerung": "Ein Nest ist ein kleines, weiches Zuhause, das Vögel und andere Tiere aus Zweigen, Gras und Federn bauen. Dort legen sie ihre Eier und ziehen ihre Jungen auf.",
+  "beispielsatz": "Die Amsel hat ein Nest im Apfelbaum gebaut.",
+  "rechtschreibstrategie": "„Nest\" schreibt du genau so, wie du es sprichst: N-e-s-t. Höre beim Sprechen alle vier Buchstaben deutlich heraus!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "nest"
+  ],
+  "bild_datei": "Nest.webp",
+  "audio_datei": "Nest.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nid"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yuva"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عُشّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nisten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nistkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nest",
+    "plural": "die Nester",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nest",
+        "genitiv": "des Nestes",
+        "dativ": "dem Nest",
+        "akkusativ": "das Nest"
+      },
+      "plural": {
+        "nominativ": "die Nester",
+        "genitiv": "der Nester",
+        "dativ": "den Nestern",
+        "akkusativ": "die Nester"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Näst",
+    "Nst",
+    "Nesst",
+    "Nesd",
+    "Neest"
+  ]
+}

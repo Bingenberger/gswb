@@ -1,0 +1,83 @@
+{
+  "lemma": "Muschel",
+  "wortart": "Nomen",
+  "silben": "Mu-schel",
+  "begriffserklaerung": "Eine Muschel ist ein kleines Tier, das im Meer oder in Flüssen lebt und von einer harten Schale aus zwei Hälften geschützt wird. Die bunten Schalen findet man oft am Strand.",
+  "beispielsatz": "Am Strand habe ich eine schöne, bunte Muschel gefunden und sie mit nach Hause genommen.",
+  "rechtschreibstrategie": "Höre genau hin: Mu-schel. Das „sch\" klingt wie ein einziger Laut – schreibe immer „sch\" und nicht „sh\" oder „s\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Muschel"
+  ],
+  "bild_datei": "Muschel.webp",
+  "audio_datei": "Muschel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shell / mussel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coquillage / moule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "midye / deniz kabuğu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Muschelschale"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Muschelsammler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnecke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Muschel",
+    "plural": "die Muscheln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Muschel",
+        "genitiv": "der Muschel",
+        "dativ": "der Muschel",
+        "akkusativ": "die Muschel"
+      },
+      "plural": {
+        "nominativ": "die Muscheln",
+        "genitiv": "der Muscheln",
+        "dativ": "den Muscheln",
+        "akkusativ": "die Muscheln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mushel",
+    "Muschell",
+    "Mušel",
+    "Muscel",
+    "Mussel",
+    "Mußel"
+  ]
+}

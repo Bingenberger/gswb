@@ -1,0 +1,86 @@
+{
+  "lemma": "Zweck",
+  "wortart": "Nomen",
+  "silben": "Zweck",
+  "begriffserklaerung": "Ein Zweck ist das Ziel oder der Grund, warum man etwas tut oder warum etwas da ist.",
+  "beispielsatz": "Der Zweck des Regenschirms ist es, dich vor dem Regen zu schützen.",
+  "rechtschreibstrategie": "Das Wort „Zweck\" endet auf -ck, weil davor ein kurzer Vokal „e\" steht. Nach einem kurzen Vokal schreibt man immer ck statt kk!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zweck",
+    "plural": "die Zwecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zweck",
+        "genitiv": "des Zweckes / des Zwecks",
+        "dativ": "dem Zweck / dem Zwecke",
+        "akkusativ": "den Zweck"
+      },
+      "plural": {
+        "nominativ": "die Zwecke",
+        "genitiv": "der Zwecke",
+        "dativ": "den Zwecken",
+        "akkusativ": "die Zwecke"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "zweck"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zwecklos"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zweckmäßig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ziel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sinn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zwek",
+    "Zwekk",
+    "Zwick",
+    "Zwekc",
+    "Tsweck"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "purpose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "but"
+    },
+    {
+      "language_code": "tr",
+      "translation": "amaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرض"
+    }
+  ],
+  "bild_datei": "Zweck.webp",
+  "audio_datei": "Zweck.mp3"
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "servieren",
+  "wortart": "Verb",
+  "silben": "ser-vie-ren",
+  "begriffserklaerung": "Essen oder Getränke zu jemandem bringen und es vor ihm auf den Tisch stellen.",
+  "beispielsatz": "Die Kellnerin serviert uns die heiße Suppe.",
+  "rechtschreibstrategie": "Das Wort „servieren\" kommt aus dem Französischen. Achte auf das „ie\" in der Mitte: ser-vie-ren. Das „ie\" sprichst du wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "servier"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "servieren",
+    "praesens": {
+      "ich": "serviere",
+      "du": "servierst",
+      "er_sie_es": "serviert",
+      "wir": "servieren",
+      "ihr": "serviert",
+      "sie": "servieren"
+    },
+    "perfekt": {
+      "ich": "habe serviert",
+      "du": "hast serviert",
+      "er_sie_es": "hat serviert",
+      "wir": "haben serviert",
+      "ihr": "habt serviert",
+      "sie": "haben serviert"
+    },
+    "praeteritum": {
+      "ich": "servierte",
+      "du": "serviertest",
+      "er_sie_es": "servierte",
+      "wir": "servierten",
+      "ihr": "serviertet",
+      "sie": "servierten"
+    }
+  },
+  "fehlschreibungen": [
+    "serfieren",
+    "serviehren",
+    "serviren",
+    "zerviern"
+  ],
+  "bild_datei": "servieren.webp",
+  "audio_datei": "servieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to serve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "servir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "servis yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُقدِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Serviererin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Serviertablett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "anrichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "auftragen"
+    }
+  ]
+}

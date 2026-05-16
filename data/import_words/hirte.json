@@ -1,0 +1,78 @@
+{
+  "lemma": "Hirte",
+  "wortart": "Nomen",
+  "silben": "Hir-te",
+  "begriffserklaerung": "Ein Hirte ist ein Mensch, der Tiere wie Schafe, Ziegen oder Kühe auf der Weide hütet und auf sie aufpasst.",
+  "beispielsatz": "Der Hirte treibt seine Schafe abends sicher in den Stall.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Hir-te. Denk daran: Nach dem „i\" kommt ein „r\", dann ein „t\" und ein „e\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hirt"
+  ],
+  "bild_datei": "Hirte.webp",
+  "audio_datei": "Hirte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shepherd"
+    },
+    {
+      "language_code": "fr",
+      "translation": "berger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çoban"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راعٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hirt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schäfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weide"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schäfer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hirte",
+    "plural": "die Hirten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hirte",
+        "genitiv": "des Hirten",
+        "dativ": "dem Hirten",
+        "akkusativ": "den Hirten"
+      },
+      "plural": {
+        "nominativ": "die Hirten",
+        "genitiv": "der Hirten",
+        "dativ": "den Hirten",
+        "akkusativ": "die Hirten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hirtte",
+    "Hihrte",
+    "Hierte",
+    "Hirde",
+    "Hirt"
+  ]
+}

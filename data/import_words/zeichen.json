@@ -1,0 +1,95 @@
+{
+  "lemma": "Zeichen",
+  "wortart": "Nomen",
+  "silben": "Zei-chen",
+  "begriffserklaerung": "Ein Zeichen ist ein Symbol oder eine Markierung, die etwas bedeutet oder auf etwas hinweist – zum Beispiel ein Buchstabe, ein Pfeil oder ein Ausrufezeichen.",
+  "beispielsatz": "Das Ausrufezeichen ist ein wichtiges Zeichen am Ende eines Satzes.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Zei-chen\". Das „ei\" klingt wie in „Eis\". Das „ch\" am Ende sprichst du weich, wie in „ich\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "zeichen",
+    "zeig"
+  ],
+  "bild_datei": "Zeichen.webp",
+  "audio_datei": "Zeichen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zeichen",
+    "plural": "die Zeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zeichen",
+        "genitiv": "des Zeichens",
+        "dativ": "dem Zeichen",
+        "akkusativ": "das Zeichen"
+      },
+      "plural": {
+        "nominativ": "die Zeichen",
+        "genitiv": "der Zeichen",
+        "dativ": "den Zeichen",
+        "akkusativ": "die Zeichen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeigen",
+    "Zeichen",
+    "Zeychen",
+    "Zeicen",
+    "Zeicchen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sign / symbol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "signe / symbole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işaret / sembol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علامة / رمز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeichnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichnung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bezeichnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Symbol"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Markierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buchstabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Signal"
+    }
+  ]
+}

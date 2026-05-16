@@ -1,0 +1,79 @@
+{
+  "lemma": "Bürgerin",
+  "wortart": "Nomen",
+  "silben": "Bür-ge-rin",
+  "begriffserklaerung": "Eine Bürgerin ist eine Frau, die zu einem bestimmten Land oder einer Stadt gehört und dort Rechte und Pflichten hat.",
+  "beispielsatz": "Die Bürgerin wählt mit, wer die Stadt leitet.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Bür-ge-rin. Das ü klingt kurz, deshalb schreibst du nur ein r – aber Achtung: Das Wort leitet sich von „Bürger\" ab, das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bürger"
+  ],
+  "bild_datei": "Bürgerin.webp",
+  "audio_datei": "Bürgerin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "female citizen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "citoyenne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vatandaş (kadın)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مواطِنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bürger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bürgerlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einwohnerin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bürgerin",
+    "plural": "die Bürgerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bürgerin",
+        "genitiv": "der Bürgerin",
+        "dativ": "der Bürgerin",
+        "akkusativ": "die Bürgerin"
+      },
+      "plural": {
+        "nominativ": "die Bürgerinnen",
+        "genitiv": "der Bürgerinnen",
+        "dativ": "den Bürgerinnen",
+        "akkusativ": "die Bürgerinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bürgerin",
+    "Birgerin"
+  ]
+}

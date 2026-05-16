@@ -1,0 +1,87 @@
+{
+  "lemma": "Fahrgast",
+  "wortart": "Nomen",
+  "silben": "Fahr-gast",
+  "begriffserklaerung": "Ein Fahrgast ist eine Person, die in einem Bus, einer Bahn oder einem Taxi mitfährt und dafür bezahlt.",
+  "beispielsatz": "Der Fahrgast steigt an der Haltestelle in den Bus ein.",
+  "rechtschreibstrategie": "„Fahrgast\" ist aus zwei Wörtern zusammengebaut: „fahren\" und „Gast\". Sprich beide Teile deutlich: FAHR + GAST.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "gast"
+  ],
+  "bild_datei": "Fahrgast.webp",
+  "audio_datei": "Fahrgast.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "passenger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "passager"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yolcu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راكب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ticket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fahrgast",
+    "plural": "die Fahrgäste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fahrgast",
+        "genitiv": "des Fahrgastes",
+        "dativ": "dem Fahrgast",
+        "akkusativ": "den Fahrgast"
+      },
+      "plural": {
+        "nominativ": "die Fahrgäste",
+        "genitiv": "der Fahrgäste",
+        "dativ": "den Fahrgästen",
+        "akkusativ": "die Fahrgäste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fargast",
+    "Fahrgasst",
+    "Fahrkast",
+    "Fargasst",
+    "Fahrgahst"
+  ]
+}

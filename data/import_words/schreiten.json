@@ -1,0 +1,100 @@
+{
+  "lemma": "schreiten",
+  "wortart": "Verb",
+  "silben": "schrei-ten",
+  "begriffserklaerung": "Schreiten bedeutet, langsam und mit großen Schritten zu gehen, oft feierlich oder würdevoll.",
+  "beispielsatz": "Der König schreitet langsam durch den großen Saal.",
+  "rechtschreibstrategie": "Denk an das Wort „schreien\" – beide fangen mit „schrei-\" an. Das lange ei hörst du deutlich, also schreibst du ei und kein ai.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schreiten",
+    "Schritt"
+  ],
+  "bild_datei": "schreiten.webp",
+  "audio_datei": "schreiten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schreiten",
+    "praesens": {
+      "ich": "schreite",
+      "du": "schreitest",
+      "er_sie_es": "schreitet",
+      "wir": "schreiten",
+      "ihr": "schreitet",
+      "sie": "schreiten"
+    },
+    "perfekt": {
+      "ich": "bin geschritten",
+      "du": "bist geschritten",
+      "er_sie_es": "ist geschritten",
+      "wir": "sind geschritten",
+      "ihr": "seid geschritten",
+      "sie": "sind geschritten"
+    },
+    "praeteritum": {
+      "ich": "schritt",
+      "du": "schrittest",
+      "er_sie_es": "schritt",
+      "wir": "schritten",
+      "ihr": "schrittet",
+      "sie": "schritten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stride"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marcher à grands pas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "adım adım yürümek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمشي بخطوات واسعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schritt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fortschritt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stapfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "marschieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wandern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "spazieren"
+    }
+  ],
+  "fehlschreibungen": [
+    "shreiten",
+    "schraiten",
+    "schreiten",
+    "screiten",
+    "schreitten",
+    "schreißen"
+  ]
+}

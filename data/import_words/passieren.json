@@ -1,0 +1,96 @@
+{
+  "lemma": "passieren",
+  "wortart": "Verb",
+  "silben": "pas-sie-ren",
+  "begriffserklaerung": "Wenn etwas passiert, dann geschieht oder ereignet es sich. Man kann auch sagen, dass jemand an einem Ort vorbeigeht oder vorbeifährt.",
+  "beispielsatz": "Was ist dir heute in der Schule passiert?",
+  "rechtschreibstrategie": "Das Wort hat ein Doppel-s in der Mitte: pas-sie-ren. Sprich es laut in Silben, dann hörst du das „ss\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "pass"
+  ],
+  "bild_datei": "passieren.webp",
+  "audio_datei": "passieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to happen / to pass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se passer / traverser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olmak / geçmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحدث / يمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Passierschein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "unpassierbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "geschehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vorkommen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ereignen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erleben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "passieren",
+    "praesens": {
+      "ich": "passiere",
+      "du": "passierst",
+      "er_sie_es": "passiert",
+      "wir": "passieren",
+      "ihr": "passiert",
+      "sie": "passieren"
+    },
+    "perfekt": {
+      "ich": "bin/habe passiert",
+      "du": "bist/hast passiert",
+      "er_sie_es": "ist/hat passiert",
+      "wir": "sind/haben passiert",
+      "ihr": "seid/habt passiert",
+      "sie": "sind/haben passiert"
+    },
+    "praeteritum": {
+      "ich": "passierte",
+      "du": "passiertest",
+      "er_sie_es": "passierte",
+      "wir": "passierten",
+      "ihr": "passiertet",
+      "sie": "passierten"
+    }
+  },
+  "fehlschreibungen": [
+    "pasieren",
+    "passiren",
+    "passieren",
+    "paßieren",
+    "passirren",
+    "passiehren"
+  ]
+}

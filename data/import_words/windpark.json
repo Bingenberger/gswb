@@ -1,0 +1,83 @@
+{
+  "lemma": "Windpark",
+  "wortart": "Nomen",
+  "silben": "Wind-park",
+  "begriffserklaerung": "Ein Windpark ist ein Gebiet, auf dem viele Windräder zusammenstehen und gemeinsam Strom erzeugen.",
+  "beispielsatz": "Vom Hügel aus können wir den großen Windpark in der Ferne sehen.",
+  "rechtschreibstrategie": "„Windpark\" ist ein zusammengesetztes Wort aus „Wind\" und „Park\". Sprich beide Teile deutlich: WIND + PARK.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wind",
+    "Park"
+  ],
+  "bild_datei": "Windpark.webp",
+  "audio_datei": "Windpark.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Windpark",
+    "plural": "die Windparks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Windpark",
+        "genitiv": "des Windparks",
+        "dativ": "dem Windpark",
+        "akkusativ": "den Windpark"
+      },
+      "plural": {
+        "nominativ": "die Windparks",
+        "genitiv": "der Windparks",
+        "dativ": "den Windparks",
+        "akkusativ": "die Windparks"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wind farm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parc éolien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rüzgar çiftliği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزرعة رياح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Park"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Windparg",
+    "Wintpark",
+    "Windpak",
+    "Windbarc",
+    "Windparkk"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Drehung",
+  "wortart": "Nomen",
+  "silben": "Dre-hung",
+  "begriffserklaerung": "Eine Drehung ist eine Bewegung, bei der sich etwas im Kreis dreht – zum Beispiel ein Rad oder ein Kreisel.",
+  "beispielsatz": "Der Kreisel macht viele schnelle Drehungen auf dem Tisch.",
+  "rechtschreibstrategie": "Denk an das Verb „drehen\" – daraus wird „Drehung\". Das „h\" bleibt erhalten, weil es zum Wortstamm „dreh-\" gehört.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "dreh"
+  ],
+  "bild_datei": "Drehung.webp",
+  "audio_datei": "Drehung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Drehung",
+    "plural": "die Drehungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Drehung",
+        "genitiv": "der Drehung",
+        "dativ": "der Drehung",
+        "akkusativ": "die Drehung"
+      },
+      "plural": {
+        "nominativ": "die Drehungen",
+        "genitiv": "der Drehungen",
+        "dativ": "den Drehungen",
+        "akkusativ": "die Drehungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rotation / turn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rotation / tour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dönüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دوران"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dreher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rotation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreisel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drehnung",
+    "Drähung",
+    "Dräung",
+    "Drehhung",
+    "Drehun"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Rasse",
+  "wortart": "Nomen",
+  "silben": "Ras-se",
+  "begriffserklaerung": "Eine Rasse ist eine Gruppe von Tieren (zum Beispiel Hunden oder Katzen), die bestimmte gemeinsame Merkmale haben, etwa Größe, Fell oder Farbe.",
+  "beispielsatz": "Unser Hund ist ein Golden Retriever – das ist eine freundliche Rasse.",
+  "rechtschreibstrategie": "Das Wort „Rasse\" hat zwei s-Buchstaben hintereinander, weil das „a\" kurz gesprochen wird: Ras-se. Du hörst den kurzen Vokal und weißt: Da kommt ein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Rasse"
+  ],
+  "bild_datei": "Rasse.webp",
+  "audio_datei": "Rasse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "breed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "race"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cins"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rassetier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reinrassig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sorte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rasse",
+    "plural": "die Rassen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rasse",
+        "genitiv": "der Rasse",
+        "dativ": "der Rasse",
+        "akkusativ": "die Rasse"
+      },
+      "plural": {
+        "nominativ": "die Rassen",
+        "genitiv": "der Rassen",
+        "dativ": "den Rassen",
+        "akkusativ": "die Rassen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raße",
+    "Rase",
+    "Rasse",
+    "Rahsse",
+    "Rassse"
+  ]
+}

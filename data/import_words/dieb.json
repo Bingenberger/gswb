@@ -1,0 +1,83 @@
+{
+  "lemma": "Dieb",
+  "wortart": "Nomen",
+  "silben": "Dieb",
+  "begriffserklaerung": "Ein Dieb ist jemand, der anderen Menschen etwas wegnimmt, was ihm nicht gehört.",
+  "beispielsatz": "Der Dieb hat die Tasche gestohlen und ist schnell weggelaufen.",
+  "rechtschreibstrategie": "Das Wort „Dieb\" hat das ie wie in „Tier\". Merke: Langes i klingt wie „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "dieb"
+  ],
+  "bild_datei": "Dieb.webp",
+  "audio_datei": "Dieb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thief"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hırsız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Diebstahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strafe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Räuber"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dieb",
+    "plural": "die Diebe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dieb",
+        "genitiv": "des Diebes",
+        "dativ": "dem Dieb",
+        "akkusativ": "den Dieb"
+      },
+      "plural": {
+        "nominativ": "die Diebe",
+        "genitiv": "der Diebe",
+        "dativ": "den Dieben",
+        "akkusativ": "die Diebe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dib",
+    "Diep",
+    "Diebb",
+    "Dieeb",
+    "Diehb"
+  ]
+}

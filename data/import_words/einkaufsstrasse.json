@@ -1,0 +1,85 @@
+{
+  "lemma": "Einkaufsstraße",
+  "wortart": "Nomen",
+  "silben": "Ein-kaufs-stra-ße",
+  "begriffserklaerung": "Eine Einkaufsstraße ist eine Straße in der Stadt, in der viele Geschäfte nebeneinander stehen. Dort kann man bummeln und viele verschiedene Dinge kaufen.",
+  "beispielsatz": "Am Samstag gehen wir mit Mama in die Einkaufsstraße und schauen uns die bunten Schaufenster an.",
+  "rechtschreibstrategie": "Das Wort steckt aus drei Teilen: „Ein\" + „kauf\" + „Straße\". Denk daran, dass „Straße\" ein Merkwort mit ß ist – nach dem langen „a\" schreibt man ß und nicht ss!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "Straße"
+  ],
+  "bild_datei": "Einkaufsstraße.webp",
+  "audio_datei": "Einkaufsstraße.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping street"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rue commerçante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş caddesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شارع التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marktplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fußgängerzone"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einkaufsstraße",
+    "plural": "die Einkaufsstraßen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einkaufsstraße",
+        "genitiv": "der Einkaufsstraße",
+        "dativ": "der Einkaufsstraße",
+        "akkusativ": "die Einkaufsstraße"
+      },
+      "plural": {
+        "nominativ": "die Einkaufsstraßen",
+        "genitiv": "der Einkaufsstraßen",
+        "dativ": "den Einkaufsstraßen",
+        "akkusativ": "die Einkaufsstraßen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einkaufsstrasse",
+    "Einkaufsstraase",
+    "Einkaufsstrße",
+    "Einkaufsstraze",
+    "Einkaufsstraße",
+    "Einkaufstraße"
+  ]
+}

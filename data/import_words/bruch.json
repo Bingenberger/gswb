@@ -1,0 +1,91 @@
+{
+  "lemma": "Bruch",
+  "wortart": "Nomen",
+  "silben": "Bruch",
+  "begriffserklaerung": "Ein Bruch ist ein gebrochenes Stück von etwas – zum Beispiel wenn ein Knochen bricht oder wenn man in der Mathematik eine Zahl wie ½ schreibt.",
+  "beispielsatz": "Tim hat beim Fußballspielen einen Bruch im Arm, deshalb muss er zum Arzt.",
+  "rechtschreibstrategie": "Das Wort „Bruch\" klingt kurz. Du kannst es verlängern: „Brü-che\" – so hörst du, dass nach dem „ü\" kein zweiter Konsonant nötig ist, weil das „ch\" das Kürzezeichen ist. Denk daran: kurzes „u\", dann kommt „ch\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "brech",
+    "bruch"
+  ],
+  "bild_datei": "Bruch.webp",
+  "audio_datei": "Bruch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fracture / fraction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fracture / fraction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kırık / kesir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كسر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zerbrechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bruchstück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Riss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bruch",
+    "plural": "die Brüche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bruch",
+        "genitiv": "des Bruch(e)s",
+        "dativ": "dem Bruch",
+        "akkusativ": "den Bruch"
+      },
+      "plural": {
+        "nominativ": "die Brüche",
+        "genitiv": "der Brüche",
+        "dativ": "den Brüchen",
+        "akkusativ": "die Brüche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brucch",
+    "Brugh",
+    "Bruk",
+    "Bruhch",
+    "Bruchs"
+  ]
+}

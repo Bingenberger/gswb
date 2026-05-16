@@ -1,0 +1,72 @@
+{
+  "lemma": "Pasta",
+  "wortart": "Nomen",
+  "silben": "Pas-ta",
+  "begriffserklaerung": "Pasta ist ein Gericht aus Teig, das in vielen verschiedenen Formen vorkommt – zum Beispiel als Nudeln, Spaghetti oder Penne. Man kocht Pasta in Wasser und isst sie oft mit einer leckeren Soße.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Pasta mit Tomatensoße.",
+  "rechtschreibstrategie": "Pasta kommt aus dem Italienischen. Denke daran: nach dem „a\" folgt ein „s\" und dann wieder „ta\" – sprich das Wort deutlich: Pas-ta.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pasta.webp",
+  "audio_datei": "Pasta.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pasta"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâtes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makarna"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكرونة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nudel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spaghetti"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pasta",
+    "plural": "die Pastas",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pasta",
+        "genitiv": "der Pasta",
+        "dativ": "der Pasta",
+        "akkusativ": "die Pasta"
+      },
+      "plural": {
+        "nominativ": "die Pastas",
+        "genitiv": "der Pastas",
+        "dativ": "den Pastas",
+        "akkusativ": "die Pastas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Paster",
+    "Basta",
+    "Pasta",
+    "Pahsta",
+    "Pata"
+  ]
+}

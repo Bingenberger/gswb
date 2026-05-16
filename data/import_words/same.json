@@ -1,0 +1,87 @@
+{
+  "lemma": "Same",
+  "wortart": "Nomen",
+  "silben": "Sa-me",
+  "begriffserklaerung": "Ein Same ist ein kleines Körnchen einer Pflanze. Aus ihm wächst eine neue Pflanze, wenn man ihn in die Erde legt und er Wasser und Licht bekommt.",
+  "beispielsatz": "Lena legt einen Samen in die Erde und gießt ihn jeden Tag.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Sa-me. Du hörst am Ende ein „e\" – das schreibst du auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sä-en",
+    "Saat"
+  ],
+  "bild_datei": "Same.webp",
+  "audio_datei": "Same.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Same",
+    "plural": "die Samen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Same",
+        "genitiv": "des Samens",
+        "dativ": "dem Samen",
+        "akkusativ": "den Samen"
+      },
+      "plural": {
+        "nominativ": "die Samen",
+        "genitiv": "der Samen",
+        "dativ": "den Samen",
+        "akkusativ": "die Samen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "graine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tohum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بذرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Saat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Korn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sahme",
+    "Zame",
+    "Sammer",
+    "Saame",
+    "Sahmen"
+  ]
+}

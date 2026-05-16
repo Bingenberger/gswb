@@ -1,0 +1,73 @@
+{
+  "lemma": "Verb",
+  "wortart": "Nomen",
+  "silben": "Verb",
+  "begriffserklaerung": "Ein Verb ist ein Tunwort. Es sagt uns, was jemand tut, fühlt oder erlebt – zum Beispiel laufen, schlafen oder lachen.",
+  "beispielsatz": "„Laufen\" ist ein Verb, denn es sagt uns, was jemand tut.",
+  "rechtschreibstrategie": "Schreibe Verb mit V am Anfang – das V klingt wie ein F, aber du merkst es dir: Verb beginnt mit V wie Vokabel!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Verb.webp",
+  "audio_datei": "Verb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "verb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verbe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فعل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nomen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adjektiv"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wortart"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verb",
+    "plural": "die Verben",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verb",
+        "genitiv": "des Verbs",
+        "dativ": "dem Verb",
+        "akkusativ": "das Verb"
+      },
+      "plural": {
+        "nominativ": "die Verben",
+        "genitiv": "der Verben",
+        "dativ": "den Verben",
+        "akkusativ": "die Verben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferb",
+    "Wärb",
+    "Värb",
+    "Verp",
+    "Werb"
+  ]
+}

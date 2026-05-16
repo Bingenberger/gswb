@@ -1,0 +1,85 @@
+{
+  "lemma": "Fotoapparat",
+  "wortart": "Nomen",
+  "silben": "Fo-to-ap-pa-rat",
+  "begriffserklaerung": "Ein Fotoapparat ist ein Gerät, mit dem man Fotos machen kann. Man drückt auf einen Knopf und das Gerät speichert ein Bild.",
+  "beispielsatz": "Zum Geburtstag habe ich einen neuen Fotoapparat bekommen und gleich viele Fotos gemacht.",
+  "rechtschreibstrategie": "Das Wort Fotoapparat besteht aus zwei Teilen: „Foto\" und „Apparat\". Im Mittelteil schreibt man zwei „p\", weil man sie beide deutlich hören kann: Ap-pa-rat.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Foto",
+    "Apparat"
+  ],
+  "bild_datei": "Fotoapparat.webp",
+  "audio_datei": "Fotoapparat.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fotoapparat",
+    "plural": "die Fotoapparate",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fotoapparat",
+        "genitiv": "des Fotoapparats",
+        "dativ": "dem Fotoapparat",
+        "akkusativ": "den Fotoapparat"
+      },
+      "plural": {
+        "nominativ": "die Fotoapparate",
+        "genitiv": "der Fotoapparate",
+        "dativ": "den Fotoapparaten",
+        "akkusativ": "die Fotoapparate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "camera"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareil photo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fotoğraf makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاميرا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fotografie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fotoapparat",
+    "Fotoaparat",
+    "Fotoaapparat",
+    "Fotoabarat",
+    "Photoapparat",
+    "Fottoaparat"
+  ]
+}

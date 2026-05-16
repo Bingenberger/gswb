@@ -1,0 +1,83 @@
+{
+  "lemma": "Postauto",
+  "wortart": "Nomen",
+  "silben": "Post-au-to",
+  "begriffserklaerung": "Ein Postauto ist ein gelbes Auto oder Bus, das Briefe und Pakete von der Post zu den Menschen bringt.",
+  "beispielsatz": "Das gelbe Postauto hält vor unserem Haus und bringt ein Paket für mich.",
+  "rechtschreibstrategie": "Das Wort „Postauto\" besteht aus zwei Teilen: „Post\" und „Auto\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Post",
+    "Auto"
+  ],
+  "bild_datei": "Postauto.webp",
+  "audio_datei": "Postauto.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "postal van / post bus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture postale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "posta arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة البريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefträger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Postamt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Postauto",
+    "plural": "die Postautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Postauto",
+        "genitiv": "des Postautos",
+        "dativ": "dem Postauto",
+        "akkusativ": "das Postauto"
+      },
+      "plural": {
+        "nominativ": "die Postautos",
+        "genitiv": "der Postautos",
+        "dativ": "den Postautos",
+        "akkusativ": "die Postautos"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Posdauto",
+    "Postautto",
+    "Postautu",
+    "Postaudo",
+    "Post-Auto"
+  ]
+}

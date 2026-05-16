@@ -1,0 +1,83 @@
+{
+  "lemma": "Geschirr",
+  "wortart": "Nomen",
+  "silben": "Ge-schirr",
+  "begriffserklaerung": "Geschirr sind alle Teller, Tassen, Schüsseln und Töpfe, die man in der Küche zum Essen und Kochen benutzt.",
+  "beispielsatz": "Nach dem Mittagessen spülen wir das Geschirr ab.",
+  "rechtschreibstrategie": "Das Wort „Geschirr\" hat am Ende ein doppeltes „r\". Denk daran: Ge-schirr – das „rr\" hörst du, wenn du es laut sprichst!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Geschirr"
+  ],
+  "bild_datei": "Geschirr.webp",
+  "audio_datei": "Geschirr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dishes / crockery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vaisselle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mutfak takımı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أواني المطبخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschirrspüler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschirrspülmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geschirr",
+    "plural": "die Geschirrteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geschirr",
+        "genitiv": "des Geschirrs",
+        "dativ": "dem Geschirr",
+        "akkusativ": "das Geschirr"
+      },
+      "plural": {
+        "nominativ": "die Geschirrteile",
+        "genitiv": "der Geschirrteile",
+        "dativ": "den Geschirrteilen",
+        "akkusativ": "die Geschirrteile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geschir",
+    "Geshirr",
+    "Geschirr",
+    "Geschihr",
+    "Gechirr",
+    "Geschirht"
+  ]
+}

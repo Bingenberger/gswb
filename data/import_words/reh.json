@@ -1,0 +1,82 @@
+{
+  "lemma": "Reh",
+  "wortart": "Nomen",
+  "silben": "Reh",
+  "begriffserklaerung": "Ein Reh ist ein schlankes, wildes Tier, das im Wald lebt. Es hat große Augen, lange Beine und ein braunes Fell. Das Männchen trägt ein Geweih.",
+  "beispielsatz": "Am Waldrand steht ein Reh und schaut uns neugierig an.",
+  "rechtschreibstrategie": "Das Wort „Reh\" hat ein langes „e\" und wird mit „h\" am Ende geschrieben – das „h\" macht den Vokal lang, aber man hört es nicht. Merke: R-E-H!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Reh"
+  ],
+  "bild_datei": "Reh.webp",
+  "audio_datei": "Reh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "roe deer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chevreuil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karaca"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الغزال الأوروبي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rehkitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rehbock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hirsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Reh",
+    "plural": "die Rehe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Reh",
+        "genitiv": "des Rehes",
+        "dativ": "dem Reh",
+        "akkusativ": "das Reh"
+      },
+      "plural": {
+        "nominativ": "die Rehe",
+        "genitiv": "der Rehe",
+        "dativ": "den Rehen",
+        "akkusativ": "die Rehe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Re",
+    "Ree",
+    "Räh",
+    "Reeh",
+    "Rhe"
+  ]
+}

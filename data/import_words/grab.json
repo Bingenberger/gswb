@@ -1,0 +1,78 @@
+{
+  "lemma": "Grab",
+  "wortart": "Nomen",
+  "silben": "Grab",
+  "begriffserklaerung": "Ein Grab ist ein Ort in der Erde, wo ein Mensch oder ein Tier nach dem Tod beerdigt wird. Auf einem Friedhof gibt es viele Gräber.",
+  "beispielsatz": "Auf dem Friedhof legen wir Blumen auf das Grab von Oma.",
+  "rechtschreibstrategie": "Wenn du „Grab\" verlängerst, hörst du das b am Ende deutlich: „Grä-ber\". Deshalb schreibt man am Ende ein b und kein p.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "grab"
+  ],
+  "bild_datei": "Grab.webp",
+  "audio_datei": "Grab.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tombe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mezar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "graben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grabstein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Friedhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beerdigung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Grab",
+    "plural": "die Gräber",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Grab",
+        "genitiv": "des Grabes",
+        "dativ": "dem Grab",
+        "akkusativ": "das Grab"
+      },
+      "plural": {
+        "nominativ": "die Gräber",
+        "genitiv": "der Gräber",
+        "dativ": "den Gräbern",
+        "akkusativ": "die Gräber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grap",
+    "Grabb",
+    "Graab",
+    "Grahb",
+    "Grabe"
+  ]
+}

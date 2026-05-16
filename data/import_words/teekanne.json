@@ -1,0 +1,85 @@
+{
+  "lemma": "Teekanne",
+  "wortart": "Nomen",
+  "silben": "Tee-kan-ne",
+  "begriffserklaerung": "Eine Teekanne ist ein Gefäß mit einem Griff und einer Tülle, in dem man Tee zubereitet und einschenkt.",
+  "beispielsatz": "Mama gießt den heißen Tee aus der Teekanne in die Tasse.",
+  "rechtschreibstrategie": "Das Wort „Teekanne\" besteht aus zwei Wörtern: „Tee\" (mit doppeltem e) und „Kanne\" (mit Doppel-n). Sprich beide Teile laut: TEE – KAN – NE!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tee",
+    "Kanne"
+  ],
+  "bild_datei": "Teekanne.webp",
+  "audio_datei": "Teekanne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Teekanne",
+    "plural": "die Teekannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Teekanne",
+        "genitiv": "der Teekanne",
+        "dativ": "der Teekanne",
+        "akkusativ": "die Teekanne"
+      },
+      "plural": {
+        "nominativ": "die Teekannen",
+        "genitiv": "der Teekannen",
+        "dativ": "den Teekannen",
+        "akkusativ": "die Teekannen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teapot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "théière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çaydanlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إبريق الشاي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserkocher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaffeekanne"
+    }
+  ],
+  "fehlschreibungen": [
+    "Teekane",
+    "Tekanne",
+    "Tiekanne",
+    "Teecanne",
+    "Tee-Kanne"
+  ]
+}

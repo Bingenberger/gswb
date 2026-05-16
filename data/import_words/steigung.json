@@ -1,0 +1,91 @@
+{
+  "lemma": "Steigung",
+  "wortart": "Nomen",
+  "silben": "Stei-gung",
+  "begriffserklaerung": "Eine Steigung ist eine Stelle, an der ein Weg, eine Straße oder ein Berg nach oben geht und steiler wird.",
+  "beispielsatz": "Der Radweg hat eine steile Steigung, deshalb muss ich kräftig in die Pedale treten.",
+  "rechtschreibstrategie": "Denk an das Wort „steigen\" – davon kommt „Steigung\". Das „ei\" sprichst du wie in „Eis\" aus.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steig"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Steigung",
+    "plural": "die Steigungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Steigung",
+        "genitiv": "der Steigung",
+        "dativ": "der Steigung",
+        "akkusativ": "die Steigung"
+      },
+      "plural": {
+        "nominativ": "die Steigungen",
+        "genitiv": "der Steigungen",
+        "dativ": "den Steigungen",
+        "akkusativ": "die Steigungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Steignung",
+    "Steikung",
+    "Steigung",
+    "Steygung",
+    "Steiigung"
+  ],
+  "bild_datei": "Steigung.webp",
+  "audio_datei": "Steigung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "incline / gradient"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yokuş / eğim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منحدر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufsteigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ]
+}

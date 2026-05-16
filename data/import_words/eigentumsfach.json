@@ -1,0 +1,84 @@
+{
+  "lemma": "Eigentumsfach",
+  "wortart": "Nomen",
+  "silben": "Ei-gen-tums-fach",
+  "begriffserklaerung": "Ein Eigentumsfach ist ein kleines Fach oder Schränkchen, das nur dir gehört. Dort kannst du deine eigenen Sachen sicher aufbewahren.",
+  "beispielsatz": "In der Schule hat jedes Kind ein eigenes Eigentumsfach, in dem es seine Jacke und seine Bücher verstauen kann.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Eigen\" + „tums\" + „fach\". Sprich alle Teile laut mit: Ei-gen-tums-fach!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "eigen",
+    "Fach"
+  ],
+  "bild_datei": "Eigentumsfach.webp",
+  "audio_datei": "Eigentumsfach.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eigentumsfach",
+    "plural": "die Eigentumsfächer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eigentumsfach",
+        "genitiv": "des Eigentumsfachs",
+        "dativ": "dem Eigentumsfach",
+        "akkusativ": "das Eigentumsfach"
+      },
+      "plural": {
+        "nominativ": "die Eigentumsfächer",
+        "genitiv": "der Eigentumsfächer",
+        "dativ": "den Eigentumsfächern",
+        "akkusativ": "die Eigentumsfächer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "personal locker / storage compartment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casier personnel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kişisel dolap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة شخصية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schließfach"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schließfach"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eigentumsfacht",
+    "Eigenthumsfach",
+    "Eigentumsfachs",
+    "Eigentuhmsfach",
+    "Eigentumfach",
+    "Eigendumsfach"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Laufschuhe",
+  "wortart": "Nomen",
+  "silben": "Lauf-schu-he",
+  "begriffserklaerung": "Laufschuhe sind besondere Schuhe, die man beim Laufen, Joggen oder Sport treiben trägt. Sie sind leicht und haben eine weiche Sohle, damit die Füße gut geschützt sind.",
+  "beispielsatz": "Zum Sportunterricht brauche ich meine neuen Laufschuhe.",
+  "rechtschreibstrategie": "Laufschuhe ist ein zusammengesetztes Wort aus „laufen\" und „Schuhe\". Schreibe beide Teile einfach hintereinander: LAUF + SCHUHE = Laufschuhe.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lauf",
+    "schuh"
+  ],
+  "bild_datei": "Laufschuhe.webp",
+  "audio_datei": "Laufschuhe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "running shoes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussures de course"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşu ayakkabıları"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أحذية الجري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnschuhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Joggingschuhe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Laufschuh",
+    "plural": "die Laufschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Laufschuh",
+        "genitiv": "des Laufschuhs",
+        "dativ": "dem Laufschuh",
+        "akkusativ": "den Laufschuh"
+      },
+      "plural": {
+        "nominativ": "die Laufschuhe",
+        "genitiv": "der Laufschuhe",
+        "dativ": "den Laufschuhen",
+        "akkusativ": "die Laufschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laufscue",
+    "Laufshue",
+    "Laufschuhe",
+    "Laufsschuhe",
+    "Laufscuhe",
+    "Laufschue",
+    "Laufshuhe"
+  ]
+}

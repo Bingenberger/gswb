@@ -1,0 +1,90 @@
+{
+  "lemma": "Probe",
+  "wortart": "Nomen",
+  "silben": "Pro-be",
+  "begriffserklaerung": "Eine Probe ist ein Versuch oder eine Übung, bei der man etwas ausprobiert oder zeigt, ob man etwas kann. Zum Beispiel übt eine Theatergruppe bei einer Probe ihr Stück.",
+  "beispielsatz": "Heute hat unsere Schulband ihre erste Probe im Musikraum.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Pro-be. Das „o\" klingt lang, deshalb steht kein Doppelkonsonant dahinter. Merke: nach langem Vokal folgt nur ein Mitlaut!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "prob"
+  ],
+  "bild_datei": "Probe.webp",
+  "audio_datei": "Probe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Probe",
+    "plural": "die Proben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Probe",
+        "genitiv": "der Probe",
+        "dativ": "der Probe",
+        "akkusativ": "die Probe"
+      },
+      "plural": {
+        "nominativ": "die Proben",
+        "genitiv": "der Proben",
+        "dativ": "den Proben",
+        "akkusativ": "die Proben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rehearsal / test"
+    },
+    {
+      "language_code": "fr",
+      "translation": "répétition / épreuve"
+    },
+    {
+      "language_code": "tr",
+      "translation": "prova / deneme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بروفة / اختبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "proben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "probieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Test"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufführung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    }
+  ],
+  "fehlschreibungen": [
+    "Probbe",
+    "Prohbe",
+    "Prope",
+    "Proppe",
+    "Prohpe"
+  ]
+}

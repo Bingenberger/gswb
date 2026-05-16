@@ -1,0 +1,86 @@
+{
+  "lemma": "Gewitter",
+  "wortart": "Nomen",
+  "silben": "Ge-wit-ter",
+  "begriffserklaerung": "Ein Gewitter ist ein starkes Unwetter mit Blitzen, Donner und oft heftigem Regen.",
+  "beispielsatz": "Bei dem lauten Gewitter versteckte sich die Katze unter dem Bett.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-wit-ter. Nach dem kurzen „i\" kommt ein Doppel-t – das zeigt das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wetter"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewitter",
+    "plural": "die Gewitter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewitter",
+        "genitiv": "des Gewitters",
+        "dativ": "dem Gewitter",
+        "akkusativ": "das Gewitter"
+      },
+      "plural": {
+        "nominativ": "die Gewitter",
+        "genitiv": "der Gewitter",
+        "dativ": "den Gewittern",
+        "akkusativ": "die Gewitter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewitther",
+    "Gewiter",
+    "Gevitter",
+    "Gewitder",
+    "Gewitterr"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wetter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wettern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Donner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unwetter"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thunderstorm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "orage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırtına"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عاصفة رعدية"
+    }
+  ],
+  "bild_datei": "Gewitter.webp",
+  "audio_datei": "Gewitter.mp3"
+}

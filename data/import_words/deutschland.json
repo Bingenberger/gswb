@@ -1,0 +1,83 @@
+{
+  "lemma": "Deutschland",
+  "wortart": "Nomen",
+  "silben": "Deutsch-land",
+  "begriffserklaerung": "Deutschland ist ein Land in der Mitte von Europa. Es ist unser Heimatland, in dem wir Deutsch sprechen.",
+  "beispielsatz": "Ich wohne in Deutschland und lerne in der Schule Deutsch.",
+  "rechtschreibstrategie": "Deutschland setzt sich aus zwei Teilen zusammen: „Deutsch\" und „Land\". Sprich beide Teile laut: DEUTSCH – LAND. So schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "deutsch"
+  ],
+  "bild_datei": "Deutschland.webp",
+  "audio_datei": "Deutschland.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Deutschland",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Deutschland",
+        "genitiv": "Deutschlands",
+        "dativ": "Deutschland",
+        "akkusativ": "Deutschland"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Germany"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Allemagne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Almanya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألمانيا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "deutsch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutschstunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Europa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heimat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Land"
+    }
+  ],
+  "fehlschreibungen": [
+    "Deutschlend",
+    "Deitschland",
+    "Teutschland",
+    "Deutschand",
+    "Deutchland"
+  ]
+}

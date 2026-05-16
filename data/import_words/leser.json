@@ -1,0 +1,90 @@
+{
+  "lemma": "Leser",
+  "wortart": "Nomen",
+  "silben": "Le-ser",
+  "begriffserklaerung": "Ein Leser ist jemand, der ein Buch, eine Zeitung oder einen Text liest.",
+  "beispielsatz": "Der Leser sitzt gemütlich auf dem Sofa und liest sein Lieblingsbuch.",
+  "rechtschreibstrategie": "Denk an das Verb „lesen\" – daraus wird „Leser\". Das lange „e\" sprichst du deutlich, deshalb steht kein Dehnungs-h dahinter.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "les"
+  ],
+  "bild_datei": "Leser.webp",
+  "audio_datei": "Leser.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Leser",
+    "plural": "die Leser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Leser",
+        "genitiv": "des Lesers",
+        "dativ": "dem Leser",
+        "akkusativ": "den Leser"
+      },
+      "plural": {
+        "nominativ": "die Leser",
+        "genitiv": "der Leser",
+        "dativ": "den Lesern",
+        "akkusativ": "die Leser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reader"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lecteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okuyucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leserin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lektüre"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bücherwurm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Leeser",
+    "Lehser",
+    "Leßer",
+    "Lezer",
+    "Läser"
+  ]
+}

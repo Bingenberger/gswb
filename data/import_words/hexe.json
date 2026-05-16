@@ -1,0 +1,86 @@
+{
+  "lemma": "Hexe",
+  "wortart": "Nomen",
+  "silben": "He-xe",
+  "begriffserklaerung": "Eine Hexe ist eine Zauberin aus Märchen und Geschichten. Sie trägt oft einen spitzen Hut, fliegt auf einem Besen und kann zaubern.",
+  "beispielsatz": "Die Hexe fliegt auf ihrem Besen durch die Nacht.",
+  "rechtschreibstrategie": "Schreibe am Ende ein „e\": He-xe. Das x klingt wie „ks\" – denk daran, wenn du das Wort laut sprichst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Hex"
+  ],
+  "bild_datei": "Hexe.webp",
+  "audio_datei": "Hexe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "witch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sorcière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cadı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساحرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hexen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hexerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaubertrank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zauberin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hexe",
+    "plural": "die Hexen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hexe",
+        "genitiv": "der Hexe",
+        "dativ": "der Hexe",
+        "akkusativ": "die Hexe"
+      },
+      "plural": {
+        "nominativ": "die Hexen",
+        "genitiv": "der Hexen",
+        "dativ": "den Hexen",
+        "akkusativ": "die Hexen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hecse",
+    "Hekse",
+    "Häxe",
+    "Hekxe",
+    "Hexse"
+  ]
+}

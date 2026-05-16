@@ -1,0 +1,84 @@
+{
+  "lemma": "Rollbahn",
+  "wortart": "Nomen",
+  "silben": "Roll-bahn",
+  "begriffserklaerung": "Eine Rollbahn ist der befestigte Weg auf einem Flughafen, auf dem Flugzeuge fahren, um zur Startbahn oder zum Terminal zu gelangen.",
+  "beispielsatz": "Das große Flugzeug rollte langsam über die Rollbahn zum Abfluggate.",
+  "rechtschreibstrategie": "„Rollbahn\" ist ein zusammengesetztes Wort aus „rollen\" und „Bahn\". Das Doppel-l kommt von „rollen\" – sprich es laut mit: Roll-bahn!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll",
+    "Bahn"
+  ],
+  "bild_datei": "Rollbahn.webp",
+  "audio_datei": "Rollbahn.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rollbahn",
+    "plural": "die Rollbahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rollbahn",
+        "genitiv": "der Rollbahn",
+        "dativ": "der Rollbahn",
+        "akkusativ": "die Rollbahn"
+      },
+      "plural": {
+        "nominativ": "die Rollbahnen",
+        "genitiv": "der Rollbahnen",
+        "dativ": "den Rollbahnen",
+        "akkusativ": "die Rollbahnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "taxiway"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voie de circulation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taksi yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار الإقلاع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Startbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flughafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landebahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rolbahn",
+    "Rollban",
+    "Rollbann",
+    "Roolbahn",
+    "Rollbahnn"
+  ]
+}

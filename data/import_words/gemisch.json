@@ -1,0 +1,82 @@
+{
+  "lemma": "Gemisch",
+  "wortart": "Nomen",
+  "silben": "Ge-misch",
+  "begriffserklaerung": "Ein Gemisch entsteht, wenn man zwei oder mehr Dinge miteinander vermischt, zum Beispiel Sand und Wasser.",
+  "beispielsatz": "Der Koch rührt ein buntes Gemisch aus verschiedenen Gewürzen zusammen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ge-misch. Am Ende hörst du „sch\" – das schreibt man immer mit s-c-h!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "misch"
+  ],
+  "bild_datei": "Gemisch.webp",
+  "audio_datei": "Gemisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mixture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mélange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karışım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خليط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mischung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mischung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lösung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zutaten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gemisch",
+    "plural": "die Gemische",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gemisch",
+        "genitiv": "des Gemisches",
+        "dativ": "dem Gemisch",
+        "akkusativ": "das Gemisch"
+      },
+      "plural": {
+        "nominativ": "die Gemische",
+        "genitiv": "der Gemische",
+        "dativ": "den Gemischen",
+        "akkusativ": "die Gemische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gemich",
+    "Gemisch",
+    "Gemischt",
+    "Gemiß",
+    "Gemissh"
+  ]
+}

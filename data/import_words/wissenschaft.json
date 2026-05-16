@@ -1,0 +1,83 @@
+{
+  "lemma": "Wissenschaft",
+  "wortart": "Nomen",
+  "silben": "Wis-sen-schaft",
+  "begriffserklaerung": "Die Wissenschaft ist das genaue Erforschen und Untersuchen der Welt, um neue Dinge zu entdecken und zu verstehen.",
+  "beispielsatz": "Die Wissenschaft hilft uns zu verstehen, warum der Himmel blau ist.",
+  "rechtschreibstrategie": "Das Wort steckt aus zwei Teilen: „Wissen\" und „-schaft\". Denk an das Wort „wissen\" – dann schreibst du den Anfang richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wissen"
+  ],
+  "bild_datei": "Wissenschaft.webp",
+  "audio_datei": "Wissenschaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "science"
+    },
+    {
+      "language_code": "fr",
+      "translation": "science"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wissen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Forschung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wissenschaft",
+    "plural": "die Wissenschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wissenschaft",
+        "genitiv": "der Wissenschaft",
+        "dativ": "der Wissenschaft",
+        "akkusativ": "die Wissenschaft"
+      },
+      "plural": {
+        "nominativ": "die Wissenschaften",
+        "genitiv": "der Wissenschaften",
+        "dativ": "den Wissenschaften",
+        "akkusativ": "die Wissenschaften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wissenscaft",
+    "Wisenschafft",
+    "Wißenschaft",
+    "Wissenschaft",
+    "Wisssenschaft"
+  ]
+}

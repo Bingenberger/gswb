@@ -1,0 +1,95 @@
+{
+  "lemma": "frisieren",
+  "wortart": "Verb",
+  "silben": "fri-sie-ren",
+  "begriffserklaerung": "Frisieren bedeutet, Haare zu kämmen, zu bürsten oder zu stylen, damit sie schön aussehen.",
+  "beispielsatz": "Mama frisiert meine Haare jeden Morgen vor der Schule.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Französischen. Das „ie\" in „-sie-\" klingt lang – merke dir: Hier steht immer „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Frisur",
+    "Friseur"
+  ],
+  "bild_datei": "frisieren.webp",
+  "audio_datei": "frisieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to style (hair)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coiffer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصفيف الشعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frisur"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Friseur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kämmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haare"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "frisieren",
+    "praesens": {
+      "ich": "frisiere",
+      "du": "frisierst",
+      "er_sie_es": "frisiert",
+      "wir": "frisieren",
+      "ihr": "frisiert",
+      "sie": "frisieren"
+    },
+    "perfekt": {
+      "ich": "habe frisiert",
+      "du": "hast frisiert",
+      "er_sie_es": "hat frisiert",
+      "wir": "haben frisiert",
+      "ihr": "habt frisiert",
+      "sie": "haben frisiert"
+    },
+    "praeteritum": {
+      "ich": "frisierte",
+      "du": "frisiertest",
+      "er_sie_es": "frisierte",
+      "wir": "frisierten",
+      "ihr": "frisiertet",
+      "sie": "frisierten"
+    }
+  },
+  "fehlschreibungen": [
+    "friesieren",
+    "frizieren",
+    "frissieren",
+    "frisiehren",
+    "frisiren"
+  ]
+}

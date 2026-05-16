@@ -1,0 +1,84 @@
+{
+  "lemma": "Nasenbär",
+  "wortart": "Nomen",
+  "silben": "Na-sen-bär",
+  "begriffserklaerung": "Ein Nasenbär ist ein kleines Tier aus dem Regenwald. Es hat eine lange, bewegliche Nase und einen geringelten Schwanz. Nasenbären gehören zur Familie der Waschbären.",
+  "beispielsatz": "Der Nasenbär streckt seine lange Nase neugierig in die Luft.",
+  "rechtschreibstrategie": "Das Wort „Nasenbär\" ist zusammengesetzt aus „Nase\" und „Bär\". Schreib beide Wörter einfach zusammen – du kannst sie beim Lesen deutlich heraushören!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Nase",
+    "Bär"
+  ],
+  "bild_datei": "Nasenbär.webp",
+  "audio_datei": "Nasenbär.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nasenbär",
+    "plural": "die Nasenbären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nasenbär",
+        "genitiv": "des Nasenbären",
+        "dativ": "dem Nasenbären",
+        "akkusativ": "den Nasenbären"
+      },
+      "plural": {
+        "nominativ": "die Nasenbären",
+        "genitiv": "der Nasenbären",
+        "dativ": "den Nasenbären",
+        "akkusativ": "die Nasenbären"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coati"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coati"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كواتي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nase"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenwald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rüssel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nasenbeer",
+    "Nahsenbär",
+    "Nasenbähr",
+    "Naßenbär",
+    "Nasenbear"
+  ]
+}

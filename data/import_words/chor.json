@@ -1,0 +1,82 @@
+{
+  "lemma": "Chor",
+  "wortart": "Nomen",
+  "silben": "Chor",
+  "begriffserklaerung": "Ein Chor ist eine Gruppe von Menschen, die gemeinsam singen.",
+  "beispielsatz": "In unserer Schule gibt es einen Chor, der jeden Dienstag probt.",
+  "rechtschreibstrategie": "Das Wort „Chor\" schreibt man mit Ch am Anfang – das klingt wie ein „K\", aber man schreibt es mit C und h. Merke dir: Ch-or!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "chor"
+  ],
+  "bild_datei": "Chor.webp",
+  "audio_datei": "Chor.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Chor",
+    "plural": "die Chöre",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Chor",
+        "genitiv": "des Chores",
+        "dativ": "dem Chor",
+        "akkusativ": "den Chor"
+      },
+      "plural": {
+        "nominativ": "die Chöre",
+        "genitiv": "der Chöre",
+        "dativ": "den Chören",
+        "akkusativ": "die Chöre"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "choir"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chœur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koro"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chorleiter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chorgesang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orchester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konzert"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gesangsgruppe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kor",
+    "Kohr",
+    "Khor",
+    "Chore",
+    "Cor"
+  ]
+}

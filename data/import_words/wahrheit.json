@@ -1,0 +1,87 @@
+{
+  "lemma": "Wahrheit",
+  "wortart": "Nomen",
+  "silben": "Wahr-heit",
+  "begriffserklaerung": "Die Wahrheit ist das, was wirklich stimmt und nicht gelogen ist.",
+  "beispielsatz": "Anna sagt immer die Wahrheit, auch wenn es schwer ist.",
+  "rechtschreibstrategie": "Denk an das Wort „wahr\" – das steckt in „Wahrheit\" drin. Sprich es laut: WAHR-heit. Das „h\" nach dem „a\" schreibst du mit, auch wenn man es kaum hört.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wahr"
+  ],
+  "bild_datei": "Wahrheit.webp",
+  "audio_datei": "Wahrheit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wahrheit",
+    "plural": "die Wahrheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wahrheit",
+        "genitiv": "der Wahrheit",
+        "dativ": "der Wahrheit",
+        "akkusativ": "die Wahrheit"
+      },
+      "plural": {
+        "nominativ": "die Wahrheiten",
+        "genitiv": "der Wahrheiten",
+        "dativ": "den Wahrheiten",
+        "akkusativ": "die Wahrheiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "truth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vérité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الحقيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahrhaftig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tatsache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lüge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vertrauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ehrlichkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Warheit",
+    "Wahrheit",
+    "Vahrhheit",
+    "Waheit",
+    "Wharheit"
+  ]
+}

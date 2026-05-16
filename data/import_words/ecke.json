@@ -1,0 +1,82 @@
+{
+  "lemma": "Ecke",
+  "wortart": "Nomen",
+  "silben": "E-cke",
+  "begriffserklaerung": "Eine Ecke ist die Stelle, wo zwei Linien, Kanten oder Wände zusammentreffen und einen Winkel bilden.",
+  "beispielsatz": "Das Spielzeug liegt in der Ecke des Zimmers.",
+  "rechtschreibstrategie": "Nach dem kurzen „E\" schreibt man „ck\" – das ist das Kürzezeichen: E-cke.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Eck"
+  ],
+  "bild_datei": "Ecke.webp",
+  "audio_datei": "Ecke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "corner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köşe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زاوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eckig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kante"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Winkel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ecke",
+    "plural": "die Ecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ecke",
+        "genitiv": "der Ecke",
+        "dativ": "der Ecke",
+        "akkusativ": "die Ecke"
+      },
+      "plural": {
+        "nominativ": "die Ecken",
+        "genitiv": "der Ecken",
+        "dativ": "den Ecken",
+        "akkusativ": "die Ecken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ekke",
+    "Eke",
+    "Äcke",
+    "Ecken",
+    "Egge"
+  ]
+}

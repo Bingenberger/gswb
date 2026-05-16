@@ -1,0 +1,85 @@
+{
+  "lemma": "Bad",
+  "wortart": "Nomen",
+  "silben": "Bad",
+  "begriffserklaerung": "Ein Bad ist ein Raum im Haus mit Waschbecken, Toilette und Dusche oder Badewanne. Bad bedeutet auch das Waschen oder Baden des Körpers.",
+  "beispielsatz": "Nach dem Sport nimmt Lena ein warmes Bad.",
+  "rechtschreibstrategie": "Verlängere das Wort: Bad → Bä-der. Am Ende hörst du dann das D deutlich. Deshalb schreibt man „Bad\" mit D und nicht mit T.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bad"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bad",
+    "plural": "die Bäder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bad",
+        "genitiv": "des Bades",
+        "dativ": "dem Bad",
+        "akkusativ": "das Bad"
+      },
+      "plural": {
+        "nominativ": "die Bäder",
+        "genitiv": "der Bäder",
+        "dativ": "den Bädern",
+        "akkusativ": "die Bäder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bat",
+    "Baht",
+    "Baad",
+    "Bahd"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bath / bathroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bain / salle de bain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banyo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمّام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "baden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Badeanzug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Badezimmer"
+    }
+  ],
+  "bild_datei": "Bad.webp",
+  "audio_datei": "Bad.mp3"
+}

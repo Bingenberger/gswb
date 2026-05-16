@@ -1,0 +1,95 @@
+{
+  "lemma": "abziehen",
+  "wortart": "Verb",
+  "silben": "ab-zie-hen",
+  "begriffserklaerung": "Etwas abziehen bedeutet, es wegzunehmen oder herunterzureißen – zum Beispiel eine Hülle oder eine Zahl von einer anderen.",
+  "beispielsatz": "Ich ziehe die Schale von der Banane ab.",
+  "rechtschreibstrategie": "Denk an das Stammwort „ziehen\" – darin steckt ein langes i, das man als „ie\" schreibt. Der Vorsilbe „ab-\" einfach voranstellen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "zieh"
+  ],
+  "bild_datei": "abziehen.webp",
+  "audio_datei": "abziehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "abziehen",
+    "praesens": {
+      "ich": "ziehe ab",
+      "du": "ziehst ab",
+      "er_sie_es": "zieht ab",
+      "wir": "ziehen ab",
+      "ihr": "zieht ab",
+      "sie": "ziehen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgezogen",
+      "du": "hast abgezogen",
+      "er_sie_es": "hat abgezogen",
+      "wir": "haben abgezogen",
+      "ihr": "habt abgezogen",
+      "sie": "haben abgezogen"
+    },
+    "praeteritum": {
+      "ich": "zog ab",
+      "du": "zogst ab",
+      "er_sie_es": "zog ab",
+      "wir": "zogen ab",
+      "ihr": "zogt ab",
+      "sie": "zogen ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pull off / to subtract"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enlever / soustraire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çıkarmak / soymak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يخصم / يسحب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abzug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wegnehmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abstreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "subtrahieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ablösen"
+    }
+  ],
+  "fehlschreibungen": [
+    "abziehn",
+    "abzichen",
+    "abzihen",
+    "abzieen",
+    "abziechen"
+  ]
+}

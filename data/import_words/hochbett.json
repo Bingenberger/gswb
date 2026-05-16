@@ -1,0 +1,84 @@
+{
+  "lemma": "Hochbett",
+  "wortart": "Nomen",
+  "silben": "Hoch-bett",
+  "begriffserklaerung": "Ein Hochbett ist ein Bett, das hoch oben steht. Man klettert eine Leiter hinauf, um hineinzusteigen. Darunter ist oft Platz zum Spielen oder für einen Schreibtisch.",
+  "beispielsatz": "Lea schläft in ihrem Hochbett und hat darunter eine gemütliche Spielecke.",
+  "rechtschreibstrategie": "Das Wort „Hochbett\" besteht aus zwei Teilen: „hoch\" und „Bett\". Das „tt\" am Ende kommt vom Wort „Bett\" – dort hört man den kurzen Vokal, deshalb schreibt man zwei „t\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "hoch",
+    "Bett"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hochbett",
+    "plural": "die Hochbetten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hochbett",
+        "genitiv": "des Hochbetts",
+        "dativ": "dem Hochbett",
+        "akkusativ": "das Hochbett"
+      },
+      "plural": {
+        "nominativ": "die Hochbetten",
+        "genitiv": "der Hochbetten",
+        "dativ": "den Hochbetten",
+        "akkusativ": "die Hochbetten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hochbet",
+    "Hochbed",
+    "Hockbett",
+    "Hochbät",
+    "Hochbett"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bunk bed / loft bed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lit en hauteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ranza / yüksek yatak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرير بطابقين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hoch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kinderzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Etagenbett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlafzimmer"
+    }
+  ],
+  "bild_datei": "Hochbett.webp",
+  "audio_datei": "Hochbett.mp3"
+}

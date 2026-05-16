@@ -1,0 +1,82 @@
+{
+  "lemma": "Hirsch",
+  "wortart": "Nomen",
+  "silben": "Hirsch",
+  "begriffserklaerung": "Ein Hirsch ist ein großes, wildes Tier, das im Wald lebt. Das Männchen hat ein beeindruckendes Geweih auf dem Kopf.",
+  "beispielsatz": "Der Hirsch steht am Waldrand und schaut neugierig herüber.",
+  "rechtschreibstrategie": "Das Wort „Hirsch\" klingt genau so, wie man es schreibt – sprich es laut: Hirsch. Denk daran: Am Ende steht „sch\", nicht nur „sh\" oder „s\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Hirsch"
+  ],
+  "bild_datei": "Hirsch.webp",
+  "audio_datei": "Hirsch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "deer / stag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cerf"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geyik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hirschkuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hirschgeweih"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geweih"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hirsch",
+    "plural": "die Hirsche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hirsch",
+        "genitiv": "des Hirsches",
+        "dativ": "dem Hirsch",
+        "akkusativ": "den Hirsch"
+      },
+      "plural": {
+        "nominativ": "die Hirsche",
+        "genitiv": "der Hirsche",
+        "dativ": "den Hirschen",
+        "akkusativ": "die Hirsche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hirsh",
+    "Hirch",
+    "Hisch",
+    "Hirrsch",
+    "Hirs"
+  ]
+}

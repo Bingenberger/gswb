@@ -1,0 +1,102 @@
+{
+  "lemma": "packen",
+  "wortart": "Verb",
+  "silben": "pa-cken",
+  "begriffserklaerung": "Etwas packen bedeutet, Sachen in einen Koffer, eine Tasche oder einen Rucksack zu legen. Packen kann auch bedeuten, etwas fest zu greifen.",
+  "beispielsatz": "Lea packt ihren Rucksack für die Schule.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „ck\" – man hört, dass das „a\" kurz klingt. Deshalb kommt das Kürzezeichen „ck\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "pack"
+  ],
+  "bild_datei": "packen.webp",
+  "audio_datei": "packen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "packen",
+    "praesens": {
+      "ich": "packe",
+      "du": "packst",
+      "er_sie_es": "packt",
+      "wir": "packen",
+      "ihr": "packt",
+      "sie": "packen"
+    },
+    "perfekt": {
+      "ich": "habe gepackt",
+      "du": "hast gepackt",
+      "er_sie_es": "hat gepackt",
+      "wir": "haben gepackt",
+      "ihr": "habt gepackt",
+      "sie": "haben gepackt"
+    },
+    "praeteritum": {
+      "ich": "packte",
+      "du": "packtest",
+      "er_sie_es": "packte",
+      "wir": "packten",
+      "ihr": "packtet",
+      "sie": "packten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emballer / faire ses bagages"
+    },
+    {
+      "language_code": "tr",
+      "translation": "paketlemek / bavul yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُحزِّم / يُرتِّب الأمتعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "auspacken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einpacken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "einpacken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verstauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    }
+  ],
+  "fehlschreibungen": [
+    "pacen",
+    "pakken",
+    "paken",
+    "paccen",
+    "packken"
+  ]
+}

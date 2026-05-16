@@ -1,0 +1,89 @@
+{
+  "lemma": "niesen",
+  "wortart": "Verb",
+  "silben": "nie-sen",
+  "begriffserklaerung": "Niesen ist, wenn Luft sehr schnell und laut aus Nase und Mund herauskommt – meistens weil die Nase kitzelt.",
+  "beispielsatz": "Leon muss niesen, weil er eine Erkältung hat.",
+  "rechtschreibstrategie": "Das Wort „niesen\" hat ein langes „i\", das wie „ie\" geschrieben wird. Denk daran: „nie-sen\" – das „ie\" klingt lang, darum schreibt man es mit „ie\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "nies"
+  ],
+  "bild_datei": "niesen.webp",
+  "audio_datei": "niesen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "niesen",
+    "praesens": {
+      "ich": "niese",
+      "du": "niest",
+      "er_sie_es": "niest",
+      "wir": "niesen",
+      "ihr": "niest",
+      "sie": "niesen"
+    },
+    "perfekt": {
+      "ich": "habe geniest",
+      "du": "hast geniest",
+      "er_sie_es": "hat geniest",
+      "wir": "haben geniest",
+      "ihr": "habt geniest",
+      "sie": "haben geniest"
+    },
+    "praeteritum": {
+      "ich": "nieste",
+      "du": "niestest",
+      "er_sie_es": "nieste",
+      "wir": "niesten",
+      "ihr": "nieste",
+      "sie": "niesten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sneeze"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éternuer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hapşırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يعطس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Niesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nieser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "husten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnäuzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erkältung"
+    }
+  ],
+  "fehlschreibungen": [
+    "nießen",
+    "niessen",
+    "nisen",
+    "niesen"
+  ]
+}

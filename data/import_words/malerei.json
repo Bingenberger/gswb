@@ -1,0 +1,82 @@
+{
+  "lemma": "Malerei",
+  "wortart": "Nomen",
+  "silben": "Ma-le-rei",
+  "begriffserklaerung": "Malerei ist die Kunst, mit Farben und Pinseln Bilder zu gestalten. Manche Malereien hängen in Museen.",
+  "beispielsatz": "In der Kunststunde haben wir uns mit Malerei beschäftigt und bunte Bilder gemalt.",
+  "rechtschreibstrategie": "Denk an das Verb „malen\": Ma-ler → Ma-le-rei. Das Wort wird mit einem langen „a\" gesprochen, daher nur ein „l\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "mal"
+  ],
+  "bild_datei": "Malerei.webp",
+  "audio_datei": "Malerei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "painting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peinture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "resim sanatı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فن الرسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "malen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bildkunst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Malerei",
+    "plural": "die Malereien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Malerei",
+        "genitiv": "der Malerei",
+        "dativ": "der Malerei",
+        "akkusativ": "die Malerei"
+      },
+      "plural": {
+        "nominativ": "die Malereien",
+        "genitiv": "der Malereien",
+        "dativ": "den Malereien",
+        "akkusativ": "die Malereien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mallerei",
+    "Maalerei",
+    "Malerey",
+    "Mallerai",
+    "Mahlerei"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "lemma": "bauen",
+  "wortart": "Verb",
+  "silben": "bau-en",
+  "begriffserklaerung": "Wenn du baust, stellst du etwas her, zum Beispiel ein Haus oder einen Turm.",
+  "beispielsatz": "Die Kinder bauen eine Sandburg am Strand.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „bau-en\". Du hörst das „au\" deutlich – schreib es genau so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bau"
+  ],
+  "bild_datei": "bauen.webp",
+  "audio_datei": "bauen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to build"
+    },
+    {
+      "language_code": "fr",
+      "translation": "construire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inşa etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baustein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "errichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zusammenbauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bauen",
+    "praesens": {
+      "ich": "baue",
+      "du": "baust",
+      "er_sie_es": "baut",
+      "wir": "bauen",
+      "ihr": "baut",
+      "sie": "bauen"
+    },
+    "perfekt": {
+      "ich": "habe gebaut",
+      "du": "hast gebaut",
+      "er_sie_es": "hat gebaut",
+      "wir": "haben gebaut",
+      "ihr": "habt gebaut",
+      "sie": "haben gebaut"
+    },
+    "praeteritum": {
+      "ich": "baute",
+      "du": "bautest",
+      "er_sie_es": "baute",
+      "wir": "bauten",
+      "ihr": "bautet",
+      "sie": "bauten"
+    }
+  },
+  "fehlschreibungen": [
+    "baun",
+    "bauwen",
+    "baven",
+    "bouen",
+    "bauen"
+  ]
+}

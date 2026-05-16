@@ -1,0 +1,74 @@
+{
+  "lemma": "Lurch",
+  "wortart": "Nomen",
+  "silben": "Lurch",
+  "begriffserklaerung": "Ein Lurch ist ein Tier, das sowohl im Wasser als auch an Land leben kann. Frösche, Kröten und Salamander sind bekannte Lurche.",
+  "beispielsatz": "Der Lurch sitzt still am Teich und wartet auf eine Fliege.",
+  "rechtschreibstrategie": "„Lurch\" endet auf -rch. Sprich das Wort laut: Du hörst nur ein „u\" – deshalb schreibt man nur ein „u\" und keinen Doppelvokal.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Lurch"
+  ],
+  "bild_datei": "Lurch.webp",
+  "audio_datei": "Lurch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "amphibian"
+    },
+    {
+      "language_code": "fr",
+      "translation": "amphibien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "amfibi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برمائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salamander"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kröte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lurch",
+    "plural": "die Lurche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lurch",
+        "genitiv": "des Lurches",
+        "dativ": "dem Lurch",
+        "akkusativ": "den Lurch"
+      },
+      "plural": {
+        "nominativ": "die Lurche",
+        "genitiv": "der Lurche",
+        "dativ": "den Lurchen",
+        "akkusativ": "die Lurche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lursch",
+    "Lurh",
+    "Lurck",
+    "Lurrch",
+    "Luhrch"
+  ]
+}

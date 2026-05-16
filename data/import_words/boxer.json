@@ -1,0 +1,82 @@
+{
+  "lemma": "Boxer",
+  "wortart": "Nomen",
+  "silben": "Bo-xer",
+  "begriffserklaerung": "Ein Boxer ist ein Sportler, der beim Boxen kämpft. Boxer tragen Handschuhe und versuchen, den Gegner mit Fäusten zu treffen. „Boxer\" ist auch eine Hunderasse mit einer flachen Schnauze.",
+  "beispielsatz": "Der Boxer zieht seine roten Handschuhe an und betritt den Ring.",
+  "rechtschreibstrategie": "Das Wort „Boxer\" enthält ein X. Das X spricht sich wie „ks\". Merke: Bo-xer – das X steckt genau in der Mitte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Box"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Boxer",
+    "plural": "die Boxer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Boxer",
+        "genitiv": "des Boxers",
+        "dativ": "dem Boxer",
+        "akkusativ": "den Boxer"
+      },
+      "plural": {
+        "nominativ": "die Boxer",
+        "genitiv": "der Boxer",
+        "dativ": "den Boxern",
+        "akkusativ": "die Boxer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bokser",
+    "Boxser",
+    "Boxter",
+    "Bocser",
+    "Bockser"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boxer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boxeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boksör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملاكم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "boxen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Boxhandschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ring"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kampfsport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handschuh"
+    }
+  ],
+  "bild_datei": "Boxer.webp",
+  "audio_datei": "Boxer.mp3"
+}

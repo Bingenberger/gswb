@@ -1,0 +1,84 @@
+{
+  "lemma": "Werkstatt",
+  "wortart": "Nomen",
+  "silben": "Werk-statt",
+  "begriffserklaerung": "Eine Werkstatt ist ein Raum oder ein Gebäude, in dem Menschen mit Werkzeug arbeiten und Dinge bauen, reparieren oder basteln.",
+  "beispielsatz": "Papa repariert das Fahrrad in seiner Werkstatt.",
+  "rechtschreibstrategie": "Das Wort „Werkstatt\" besteht aus zwei Teilen: „Werk\" und „Statt\". Am Ende hörst du ein kurzes „a\", deshalb schreibt man „tt\" – das ist ein Kürzezeichen. Außerdem ist es ein zusammengesetztes Wort (Bausteinwort).",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Werk",
+    "Statt"
+  ],
+  "bild_datei": "Werkstatt.webp",
+  "audio_datei": "Werkstatt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Werkstatt",
+    "plural": "die Werkstätten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Werkstatt",
+        "genitiv": "der Werkstatt",
+        "dativ": "der Werkstatt",
+        "akkusativ": "die Werkstatt"
+      },
+      "plural": {
+        "nominativ": "die Werkstätten",
+        "genitiv": "der Werkstätten",
+        "dativ": "den Werkstätten",
+        "akkusativ": "die Werkstätten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "workshop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "atelier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atölye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورشة عمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Atelier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Werkstat",
+    "Wärkstatt",
+    "Werkstadt",
+    "Werkstatt",
+    "Wercstatt"
+  ]
+}

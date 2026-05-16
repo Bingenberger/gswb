@@ -1,0 +1,90 @@
+{
+  "lemma": "Fernbedienung",
+  "wortart": "Nomen",
+  "silben": "Fern-be-die-nung",
+  "begriffserklaerung": "Eine Fernbedienung ist ein kleines Gerät, mit dem du zum Beispiel den Fernseher oder eine Spielzeugauto aus der Entfernung steuern kannst, ohne es direkt anzufassen.",
+  "beispielsatz": "Mama, hast du die Fernbedienung für den Fernseher gesehen?",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „fern\" + „be\" + „dienung\". Sprich alle Teile deutlich nach: FERN-BE-DIE-NUNG. Achte auf das lange „ie\" in „dienung\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fern",
+    "bedienen"
+  ],
+  "bild_datei": "Fernbedienung.webp",
+  "audio_datei": "Fernbedienung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fernbedienung",
+    "plural": "die Fernbedienungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fernbedienung",
+        "genitiv": "der Fernbedienung",
+        "dativ": "der Fernbedienung",
+        "akkusativ": "die Fernbedienung"
+      },
+      "plural": {
+        "nominativ": "die Fernbedienungen",
+        "genitiv": "der Fernbedienungen",
+        "dativ": "den Fernbedienungen",
+        "akkusativ": "die Fernbedienungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "remote control"
+    },
+    {
+      "language_code": "fr",
+      "translation": "télécommande"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzaktan kumanda"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز التحكم عن بُعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bedienen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernseher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Steuergerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fernbediehnug",
+    "Fermbedienung",
+    "Fernbediehnung",
+    "Fernbedingung",
+    "Fernbediennung",
+    "Fernbedieung"
+  ]
+}

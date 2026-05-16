@@ -1,0 +1,82 @@
+{
+  "lemma": "Hügel",
+  "wortart": "Nomen",
+  "silben": "Hü-gel",
+  "begriffserklaerung": "Ein Hügel ist eine kleine Erhebung in der Landschaft, die nicht so hoch wie ein Berg ist.",
+  "beispielsatz": "Wir sind den Hügel hochgelaufen und haben von oben die ganze Stadt gesehen.",
+  "rechtschreibstrategie": "Denk an das Wort „hügelig\" – du hörst das ü deutlich. Schreib: H-ü-g-e-l.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hügel"
+  ],
+  "bild_datei": "Hügel.webp",
+  "audio_datei": "Hügel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colline"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tepe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hügelig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hügelland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anhöhe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hügel",
+    "plural": "die Hügel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hügel",
+        "genitiv": "des Hügels",
+        "dativ": "dem Hügel",
+        "akkusativ": "den Hügel"
+      },
+      "plural": {
+        "nominativ": "die Hügel",
+        "genitiv": "der Hügel",
+        "dativ": "den Hügeln",
+        "akkusativ": "die Hügel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hügell",
+    "Hügal",
+    "Hüggel",
+    "Higel",
+    "Hügl"
+  ]
+}

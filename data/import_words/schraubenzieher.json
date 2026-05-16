@@ -1,0 +1,85 @@
+{
+  "lemma": "Schraubenzieher",
+  "wortart": "Nomen",
+  "silben": "Schrau-ben-zie-her",
+  "begriffserklaerung": "Ein Schraubenzieher ist ein Werkzeug, mit dem man Schrauben in etwas hineindrehen oder herausdrehen kann.",
+  "beispielsatz": "Papa benutzt den Schraubenzieher, um das Regal zu bauen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Schraube\" + „n\" + „Zieher\". Sprich es in Silben: Schrau-ben-zie-her. Achte auf das ie in „zie-her\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Schraube",
+    "ziehen"
+  ],
+  "bild_datei": "Schraubenzieher.webp",
+  "audio_datei": "Schraubenzieher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "screwdriver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tournevis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tornavida"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفك البراغي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schraubendreher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schraubenzieher",
+    "plural": "die Schraubenzieher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schraubenzieher",
+        "genitiv": "des Schraubenziehers",
+        "dativ": "dem Schraubenzieher",
+        "akkusativ": "den Schraubenzieher"
+      },
+      "plural": {
+        "nominativ": "die Schraubenzieher",
+        "genitiv": "der Schraubenzieher",
+        "dativ": "den Schraubenziehern",
+        "akkusativ": "die Schraubenzieher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schraubenzieher",
+    "Scraubenzieher",
+    "Schraupenzieher",
+    "Schraubensieher",
+    "Schraubenziefer",
+    "Schraubenziher"
+  ]
+}

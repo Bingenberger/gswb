@@ -1,0 +1,89 @@
+{
+  "lemma": "Aufstieg",
+  "wortart": "Nomen",
+  "silben": "Auf-stieg",
+  "begriffserklaerung": "Ein Aufstieg ist der Weg nach oben – zum Beispiel wenn man einen Berg hinaufklettert oder in der Schule immer besser wird.",
+  "beispielsatz": "Der Aufstieg auf den Berg war anstrengend, aber das Ausblick war wunderschön.",
+  "rechtschreibstrategie": "Denk an das Wort „stieg\" – es kommt von „steigen\". Schreib „ie\" wie in „stieg\": A-u-f-s-t-i-e-g.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steig"
+  ],
+  "bild_datei": "Aufstieg.webp",
+  "audio_datei": "Aufstieg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Aufstieg",
+    "plural": "die Aufstiege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Aufstieg",
+        "genitiv": "des Aufstiegs",
+        "dativ": "dem Aufstieg",
+        "akkusativ": "den Aufstieg"
+      },
+      "plural": {
+        "nominativ": "die Aufstiege",
+        "genitiv": "der Aufstiege",
+        "dativ": "den Aufstiegen",
+        "akkusativ": "die Aufstiege"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ascent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "montée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tırmanış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صعود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anstieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aufstik",
+    "Aufstick",
+    "Aufstieg",
+    "Aufsteig",
+    "Aufstihg",
+    "Aufstig"
+  ]
+}

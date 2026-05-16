@@ -1,0 +1,83 @@
+{
+  "lemma": "Reibung",
+  "wortart": "Nomen",
+  "silben": "Rei-bung",
+  "begriffserklaerung": "Reibung entsteht, wenn zwei Dinge aneinander reiben. Sie bremst Bewegungen ab oder erzeugt Wärme.",
+  "beispielsatz": "Wenn du deine Hände schnell aneinander reibst, werden sie warm – das ist Reibung!",
+  "rechtschreibstrategie": "Denk an das Verb „reiben\": Rei-bung. Das „ei\" hörst du deutlich, und das „b\" kommt vom Stamm „reib-\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "reib"
+  ],
+  "bild_datei": "Reibung.webp",
+  "audio_datei": "Reibung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "friction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frottement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürtünme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "احتكاك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reibfläche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reibung",
+    "plural": "die Reibungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reibung",
+        "genitiv": "der Reibung",
+        "dativ": "der Reibung",
+        "akkusativ": "die Reibung"
+      },
+      "plural": {
+        "nominativ": "die Reibungen",
+        "genitiv": "der Reibungen",
+        "dativ": "den Reibungen",
+        "akkusativ": "die Reibungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reybung",
+    "Reibsung",
+    "Reibbung",
+    "Reipung",
+    "Raibung"
+  ]
+}

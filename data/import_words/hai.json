@@ -1,0 +1,72 @@
+{
+  "lemma": "Hai",
+  "wortart": "Nomen",
+  "silben": "Hai",
+  "begriffserklaerung": "Ein Hai ist ein großer Fisch, der im Meer lebt. Er hat viele scharfe Zähne und eine dreieckige Rückenflosse.",
+  "beispielsatz": "Der Hai schwimmt schnell durch das Meer.",
+  "rechtschreibstrategie": "Das Wort „Hai\" klingt wie „hei\" – aber man schreibt es mit „ai\". Denk daran: Ein Hai hat ein „ai\" im Namen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Hai.webp",
+  "audio_datei": "Hai.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shark"
+    },
+    {
+      "language_code": "fr",
+      "translation": "requin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köpekbalığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمكة القرش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flosse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hai",
+    "plural": "die Haie",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hai",
+        "genitiv": "des Hais",
+        "dativ": "dem Hai",
+        "akkusativ": "den Hai"
+      },
+      "plural": {
+        "nominativ": "die Haie",
+        "genitiv": "der Haie",
+        "dativ": "den Haien",
+        "akkusativ": "die Haie"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hei",
+    "Hay",
+    "Heie",
+    "Haij",
+    "Haie (Singular)"
+  ]
+}

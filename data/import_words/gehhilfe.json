@@ -1,0 +1,84 @@
+{
+  "lemma": "Gehhilfe",
+  "wortart": "Nomen",
+  "silben": "Geh-hil-fe",
+  "begriffserklaerung": "Eine Gehhilfe ist ein Hilfsmittel, das Menschen beim Gehen unterstützt, wenn sie Schmerzen haben oder nicht gut laufen können. Bekannte Gehhilfen sind zum Beispiel Krücken oder ein Rollator.",
+  "beispielsatz": "Oma benutzt eine Gehhilfe, damit sie sicher durch den Park spazieren kann.",
+  "rechtschreibstrategie": "„Gehhilfe\" ist ein zusammengesetztes Wort aus „gehen\" und „Hilfe\". Schreibe beide Teile hintereinander: Geh + Hilfe = Gehhilfe. Achte auf das doppelte „h\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "geh",
+    "hilf"
+  ],
+  "bild_datei": "Gehhilfe.webp",
+  "audio_datei": "Gehhilfe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gehhilfe",
+    "plural": "die Gehhilfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gehhilfe",
+        "genitiv": "der Gehhilfe",
+        "dativ": "der Gehhilfe",
+        "akkusativ": "die Gehhilfe"
+      },
+      "plural": {
+        "nominativ": "die Gehhilfen",
+        "genitiv": "der Gehhilfen",
+        "dativ": "den Gehhilfen",
+        "akkusativ": "die Gehhilfen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "walking aid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aide à la marche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüme yardımcısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُعِينَة المشي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rollator"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rollstuhl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gehilfe",
+    "Gehhillfe",
+    "Gähilfe",
+    "Gehhilffe",
+    "Gehhülfe"
+  ]
+}

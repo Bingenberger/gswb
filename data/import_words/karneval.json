@@ -1,0 +1,80 @@
+{
+  "lemma": "Karneval",
+  "wortart": "Nomen",
+  "silben": "Kar-ne-val",
+  "begriffserklaerung": "Karneval ist ein fröhliches Fest, bei dem sich Menschen verkleiden, tanzen und feiern. Es findet meistens im Winter statt, kurz vor der Fastenzeit.",
+  "beispielsatz": "Zu Karneval verkleidet sich Lena als Prinzessin und geht mit ihren Freunden auf die bunte Parade.",
+  "rechtschreibstrategie": "Das Wort „Karneval\" ist ein Merkwort – sprich es laut in drei Silben: Kar-ne-val. Achte auf das v am Ende, das wie ein f klingt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Karneval",
+    "plural": "die Karnevale",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Karneval",
+        "genitiv": "des Karnevals",
+        "dativ": "dem Karneval",
+        "akkusativ": "den Karneval"
+      },
+      "plural": {
+        "nominativ": "die Karnevale",
+        "genitiv": "der Karnevale",
+        "dativ": "den Karnevalen",
+        "akkusativ": "die Karnevale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Karnaval",
+    "Carneval",
+    "Karnefal",
+    "Karnevall",
+    "Karneval"
+  ],
+  "bild_datei": "Karneval.webp",
+  "audio_datei": "Karneval.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carnival"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carnaval"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karnaval"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرنفال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fasching"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fastnacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kostüm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konfetti"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Feld",
+  "wortart": "Nomen",
+  "silben": "Feld",
+  "begriffserklaerung": "Ein Feld ist eine große, flache Fläche auf dem Land, auf der Bauern Getreide, Gemüse oder andere Pflanzen anbauen.",
+  "beispielsatz": "Auf dem Feld wächst goldgelbes Getreide, das bald geerntet wird.",
+  "rechtschreibstrategie": "Das Wort „Feld\" endet auf -ld. Wenn du es verlängerst, hörst du das d deutlich: Fel-der!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Feld"
+  ],
+  "bild_datei": "Feld.webp",
+  "audio_datei": "Feld.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "field"
+    },
+    {
+      "language_code": "fr",
+      "translation": "champ"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feldweg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feldarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Acker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feld",
+    "plural": "die Felder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feld",
+        "genitiv": "des Feldes",
+        "dativ": "dem Feld",
+        "akkusativ": "das Feld"
+      },
+      "plural": {
+        "nominativ": "die Felder",
+        "genitiv": "der Felder",
+        "dativ": "den Feldern",
+        "akkusativ": "die Felder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Felt",
+    "Fellt",
+    "Feldt",
+    "Veld"
+  ]
+}

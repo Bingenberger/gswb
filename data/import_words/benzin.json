@@ -1,0 +1,73 @@
+{
+  "lemma": "Benzin",
+  "wortart": "Nomen",
+  "silben": "Ben-zin",
+  "begriffserklaerung": "Benzin ist eine Flüssigkeit, die aus Erdöl hergestellt wird. Autos, Motorräder und viele Maschinen brauchen Benzin, damit ihr Motor läuft.",
+  "beispielsatz": "Papa tankt an der Tankstelle Benzin, damit das Auto wieder fahren kann.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ben-zin. Denke daran: Nach dem „e\" kommt ein „n\", dann ein „z\" – das hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Benzin.webp",
+  "audio_datei": "Benzin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "petrol / gasoline"
+    },
+    {
+      "language_code": "fr",
+      "translation": "essence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "benzin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بنزين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tankstelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraftstoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Benzin",
+    "plural": "die Benzine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Benzin",
+        "genitiv": "des Benzins",
+        "dativ": "dem Benzin",
+        "akkusativ": "das Benzin"
+      },
+      "plural": {
+        "nominativ": "die Benzine",
+        "genitiv": "der Benzine",
+        "dativ": "den Benzinen",
+        "akkusativ": "die Benzine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bänzin",
+    "Benzien",
+    "Bensien",
+    "Bensing",
+    "Benzinn",
+    "Benzin"
+  ]
+}

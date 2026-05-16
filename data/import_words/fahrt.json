@@ -1,0 +1,96 @@
+{
+  "lemma": "Fahrt",
+  "wortart": "Nomen",
+  "silben": "Fahrt",
+  "begriffserklaerung": "Eine Fahrt ist eine Reise oder ein Weg, den man mit einem Fahrzeug zurücklegt, zum Beispiel mit dem Bus, dem Auto oder dem Zug.",
+  "beispielsatz": "Die Fahrt mit dem Zug in die Stadt hat eine halbe Stunde gedauert.",
+  "rechtschreibstrategie": "Denke an das Wort „fahren\" – daraus kommt „Fahrt\". Das „h\" nach dem „a\" gehört zum langen „a\"-Laut. Sprich laut: fah-ren → Fahrt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Fahrt.webp",
+  "audio_datei": "Fahrt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "journey, trip, ride"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trajet, voyage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yolculuk, seyahat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fahrt",
+    "plural": "die Fahrten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fahrt",
+        "genitiv": "der Fahrt",
+        "dativ": "der Fahrt",
+        "akkusativ": "die Fahrt"
+      },
+      "plural": {
+        "nominativ": "die Fahrten",
+        "genitiv": "der Fahrten",
+        "dativ": "den Fahrten",
+        "akkusativ": "die Fahrten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fart",
+    "Fhard",
+    "Fahrd",
+    "Fahrt",
+    "Vaht",
+    "Faahrt"
+  ]
+}

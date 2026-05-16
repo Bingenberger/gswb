@@ -1,0 +1,83 @@
+{
+  "lemma": "Strömung",
+  "wortart": "Nomen",
+  "silben": "Strö-mung",
+  "begriffserklaerung": "Eine Strömung ist Wasser oder Luft, das sich in eine bestimmte Richtung bewegt – zum Beispiel in einem Fluss oder im Meer.",
+  "beispielsatz": "Die starke Strömung im Fluss trug das Boot schnell davon.",
+  "rechtschreibstrategie": "Denke an das Verb „strömen\" – davon kommt „Strömung\". Das ö bleibt erhalten, und du hängst einfach „-ung\" dran.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "ström"
+  ],
+  "bild_datei": "Strömung.webp",
+  "audio_datei": "Strömung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Strömung",
+    "plural": "die Strömungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Strömung",
+        "genitiv": "der Strömung",
+        "dativ": "der Strömung",
+        "akkusativ": "die Strömung"
+      },
+      "plural": {
+        "nominativ": "die Strömungen",
+        "genitiv": "der Strömungen",
+        "dativ": "den Strömungen",
+        "akkusativ": "die Strömungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "current"
+    },
+    {
+      "language_code": "fr",
+      "translation": "courant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akıntı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "strömen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fließen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Strömming",
+    "Stroömung",
+    "Strömunk",
+    "Stroemung",
+    "Strömmung"
+  ]
+}

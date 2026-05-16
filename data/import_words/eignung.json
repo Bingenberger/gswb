@@ -1,0 +1,88 @@
+{
+  "lemma": "Eignung",
+  "wortart": "Nomen",
+  "silben": "Eig-nung",
+  "begriffserklaerung": "Die Eignung sagt, ob jemand gut zu einer Aufgabe oder einem Beruf passt und die nötigen Fähigkeiten dafür hat.",
+  "beispielsatz": "Die Lehrerin prüfte die Eignung der Kinder für den Schwimmkurs.",
+  "rechtschreibstrategie": "Denk an das Verb „eignen\". Aus „eignen\" wird „Eignung\" – der Stamm „eign\" bleibt gleich. Das g bleibt hörbar, wenn du „eignen\" sagst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "eigen",
+    "eign"
+  ],
+  "bild_datei": "Eignung.webp",
+  "audio_datei": "Eignung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eignung",
+    "plural": "die Eignungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eignung",
+        "genitiv": "der Eignung",
+        "dativ": "der Eignung",
+        "akkusativ": "die Eignung"
+      },
+      "plural": {
+        "nominativ": "die Eignungen",
+        "genitiv": "der Eignungen",
+        "dativ": "den Eignungen",
+        "akkusativ": "die Eignungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "suitability"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aptitude"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uygunluk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أهلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eignen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geeignet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tauglichkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fähigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Talent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Begabung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aignung",
+    "Eiknung",
+    "Eignug",
+    "Eignnug",
+    "Eigung"
+  ]
+}

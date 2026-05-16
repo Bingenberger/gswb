@@ -1,0 +1,87 @@
+{
+  "lemma": "Wohnraum",
+  "wortart": "Nomen",
+  "silben": "Wohn-raum",
+  "begriffserklaerung": "Ein Wohnraum ist ein Zimmer in einer Wohnung oder einem Haus, in dem Menschen leben, sich ausruhen oder zusammensitzen.",
+  "beispielsatz": "Im Wohnraum steht ein großes Sofa, auf dem die ganze Familie fernsieht.",
+  "rechtschreibstrategie": "„Wohnraum\" ist ein zusammengesetztes Wort aus „wohnen\" und „Raum\". Sprich beide Teile deutlich: WOHN + RAUM.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wohn",
+    "raum"
+  ],
+  "bild_datei": "Wohnraum.webp",
+  "audio_datei": "Wohnraum.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wohnraum",
+    "plural": "die Wohnräume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wohnraum",
+        "genitiv": "des Wohnraums",
+        "dativ": "dem Wohnraum",
+        "akkusativ": "den Wohnraum"
+      },
+      "plural": {
+        "nominativ": "die Wohnräume",
+        "genitiv": "der Wohnräume",
+        "dativ": "den Wohnräumen",
+        "akkusativ": "die Wohnräume"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "living room"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salle de séjour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturma odası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة المعيشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "raum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wohnzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wohnraume",
+    "Wohnrauhm",
+    "Wonraum",
+    "Wohnrau",
+    "Wohnraumb"
+  ]
+}

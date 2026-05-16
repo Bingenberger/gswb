@@ -1,0 +1,89 @@
+{
+  "lemma": "Verarbeitung",
+  "wortart": "Nomen",
+  "silben": "Ver-ar-bei-tung",
+  "begriffserklaerung": "Eine Verarbeitung ist das Umwandeln oder Bearbeiten von etwas, zum Beispiel wenn ein Computer Daten verarbeitet oder wenn aus Holz ein Stuhl gebaut wird.",
+  "beispielsatz": "Der Computer braucht ein paar Sekunden für die Verarbeitung der Aufgabe.",
+  "rechtschreibstrategie": "Das Wort steckt voller Bausteine: „ver-\" + „arbeiten\" + „-ung\". Wenn du das Grundwort „Arbeit\" erkennst, schreibst du „Verarbeitung\" richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "arbeit"
+  ],
+  "bild_datei": "Verarbeitung.webp",
+  "audio_datei": "Verarbeitung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "processing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "traitement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معالجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verarbeiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herstellung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Produktion"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bearbeitung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verarbeitung",
+    "plural": "die Verarbeitungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verarbeitung",
+        "genitiv": "der Verarbeitung",
+        "dativ": "der Verarbeitung",
+        "akkusativ": "die Verarbeitung"
+      },
+      "plural": {
+        "nominativ": "die Verarbeitungen",
+        "genitiv": "der Verarbeitungen",
+        "dativ": "den Verarbeitungen",
+        "akkusativ": "die Verarbeitungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferarbeitung",
+    "Verarbeidung",
+    "Verarbeittung",
+    "Verarbaitung",
+    "Verabeitung",
+    "Verarbeitlung"
+  ]
+}

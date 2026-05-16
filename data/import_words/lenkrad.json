@@ -1,0 +1,84 @@
+{
+  "lemma": "Lenkrad",
+  "wortart": "Nomen",
+  "silben": "Lenk-rad",
+  "begriffserklaerung": "Das Lenkrad ist ein rundes Rad im Auto oder anderen Fahrzeugen. Der Fahrer dreht daran, um das Auto in die richtige Richtung zu lenken.",
+  "beispielsatz": "Der Fahrer hält das Lenkrad fest und biegt um die Kurve.",
+  "rechtschreibstrategie": "„Lenkrad\" ist aus zwei Wörtern zusammengebaut: „lenken\" und „Rad\". Sprich beide Teile einzeln: LENK + RAD. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lenk",
+    "Rad"
+  ],
+  "bild_datei": "Lenkrad.webp",
+  "audio_datei": "Lenkrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "steering wheel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "volant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "direksiyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجلة القيادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lenken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lenkrad",
+    "plural": "die Lenkräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lenkrad",
+        "genitiv": "des Lenkrades",
+        "dativ": "dem Lenkrad",
+        "akkusativ": "das Lenkrad"
+      },
+      "plural": {
+        "nominativ": "die Lenkräder",
+        "genitiv": "der Lenkräder",
+        "dativ": "den Lenkrädern",
+        "akkusativ": "die Lenkräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lenkrat",
+    "Lenckrad",
+    "Lenkratt",
+    "Lencrad",
+    "Lenkrahd"
+  ]
+}

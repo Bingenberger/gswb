@@ -1,0 +1,83 @@
+{
+  "lemma": "Gericht",
+  "wortart": "Nomen",
+  "silben": "Ge-richt",
+  "begriffserklaerung": "Ein Gericht ist entweder eine Speise, die man isst (z. B. Nudelgericht), oder ein Ort, an dem Richter entscheiden, wer recht hat.",
+  "beispielsatz": "Das Lieblingsgericht meiner Oma ist Kartoffelsuppe.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ge-RICHT. Am Ende hörst du „richt\" – denk an „Richter\", dann weißt du, wie man es schreibt!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "richt"
+  ],
+  "bild_datei": "Gericht.webp",
+  "audio_datei": "Gericht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dish / court"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plat / tribunal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yemek / mahkeme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبق / محكمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Richter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Speise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gericht",
+    "plural": "die Gerichte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gericht",
+        "genitiv": "des Gerichts",
+        "dativ": "dem Gericht",
+        "akkusativ": "das Gericht"
+      },
+      "plural": {
+        "nominativ": "die Gerichte",
+        "genitiv": "der Gerichte",
+        "dativ": "den Gerichten",
+        "akkusativ": "die Gerichte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gericht",
+    "Gerricht",
+    "Gerichd",
+    "Gerigt",
+    "Gerichtt",
+    "Gerischt"
+  ]
+}

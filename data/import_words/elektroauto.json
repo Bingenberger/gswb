@@ -1,0 +1,84 @@
+{
+  "lemma": "Elektroauto",
+  "wortart": "Nomen",
+  "silben": "E-lek-tro-au-to",
+  "begriffserklaerung": "Ein Elektroauto ist ein Auto, das keinen Benzin- oder Dieselmotor hat. Es fährt mit Strom, der in einer großen Batterie gespeichert ist.",
+  "beispielsatz": "Mamas neues Elektroauto muss man nicht an der Tankstelle, sondern an der Steckdose aufladen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Elektro\" und „Auto\". Sprich beide Teile laut: E-lek-tro – Au-to. So schreibst du es richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "Auto"
+  ],
+  "bild_datei": "Elektroauto.webp",
+  "audio_datei": "Elektroauto.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electric car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli araba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektro"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ladestation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Elektroauto",
+    "plural": "die Elektroautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Elektroauto",
+        "genitiv": "des Elektroautos",
+        "dativ": "dem Elektroauto",
+        "akkusativ": "das Elektroauto"
+      },
+      "plural": {
+        "nominativ": "die Elektroautos",
+        "genitiv": "der Elektroautos",
+        "dativ": "den Elektroautos",
+        "akkusativ": "die Elektroautos"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elecktroauto",
+    "Elektroautto",
+    "Elektrooto",
+    "Electroauto",
+    "Elektrouato",
+    "Elektroauto"
+  ]
+}

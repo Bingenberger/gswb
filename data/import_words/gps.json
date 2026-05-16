@@ -1,0 +1,71 @@
+{
+  "lemma": "GPS",
+  "wortart": "Nomen",
+  "silben": "GPS",
+  "begriffserklaerung": "GPS ist ein System, das mithilfe von Satelliten im Weltall genau bestimmt, wo du dich auf der Erde befindest. Viele Navis und Smartphones nutzen GPS, um dir den Weg zu zeigen.",
+  "beispielsatz": "Das Navi im Auto benutzt GPS, damit wir den richtigen Weg finden.",
+  "rechtschreibstrategie": "GPS ist eine Abkürzung für englische Wörter. Schreibe alle drei Buchstaben groß: G – P – S.",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "GPS.webp",
+  "audio_datei": "GPS.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "GPS (Global Positioning System)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "GPS (système de positionnement mondial)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "GPS (küresel konumlama sistemi)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نظام تحديد المواقع العالمي (GPS)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Navi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satellit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Standort"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das GPS",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das GPS",
+        "genitiv": "des GPS",
+        "dativ": "dem GPS",
+        "akkusativ": "das GPS"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gps",
+    "Gips",
+    "Gpes",
+    "GBS"
+  ]
+}

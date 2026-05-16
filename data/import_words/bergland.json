@@ -1,0 +1,88 @@
+{
+  "lemma": "Bergland",
+  "wortart": "Nomen",
+  "silben": "Berg-land",
+  "begriffserklaerung": "Ein Bergland ist eine Landschaft mit vielen Hügeln und Bergen, die nicht ganz so hoch sind wie ein richtiges Gebirge.",
+  "beispielsatz": "Im Bergland gibt es viele schöne Wanderwege und kleine Täler.",
+  "rechtschreibstrategie": "Das Wort „Bergland\" besteht aus zwei Teilen: „Berg\" und „Land\". Sprich beide Bausteine deutlich: BERG – LAND. So weißt du, wie du es schreibst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Berg",
+    "Land"
+  ],
+  "bild_datei": "Bergland.webp",
+  "audio_datei": "Bergland.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "highland"
+    },
+    {
+      "language_code": "fr",
+      "translation": "région montagneuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağlık bölge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرض جبلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebirge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hügelland"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bergland",
+    "plural": "die Bergländer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bergland",
+        "genitiv": "des Berglandes",
+        "dativ": "dem Bergland",
+        "akkusativ": "das Bergland"
+      },
+      "plural": {
+        "nominativ": "die Bergländer",
+        "genitiv": "der Bergländer",
+        "dativ": "den Bergländern",
+        "akkusativ": "die Bergländer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Berckland",
+    "Bergklant",
+    "Berkland",
+    "Berglant",
+    "Bergllnd"
+  ]
+}

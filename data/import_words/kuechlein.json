@@ -1,0 +1,84 @@
+{
+  "lemma": "Küchlein",
+  "wortart": "Nomen",
+  "silben": "Küch-lein",
+  "begriffserklaerung": "Ein Küchlein ist ein kleiner, süßer Kuchen – oft rund und weich gebacken.",
+  "beispielsatz": "Oma hat heute ein leckeres Küchlein für mich gebacken.",
+  "rechtschreibstrategie": "Denke an das Wort „Kuchen\" – das Küchlein ist ein kleiner Kuchen. Sprich es laut: Küch-lein. Das „ch\" schreibst du wie in „Kuchen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kuchen"
+  ],
+  "bild_datei": "Küchlein.webp",
+  "audio_datei": "Küchlein.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Küchlein",
+    "plural": "die Küchlein",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Küchlein",
+        "genitiv": "des Küchleins",
+        "dativ": "dem Küchlein",
+        "akkusativ": "das Küchlein"
+      },
+      "plural": {
+        "nominativ": "die Küchlein",
+        "genitiv": "der Küchlein",
+        "dativ": "den Küchlein",
+        "akkusativ": "die Küchlein"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "small cake / cupcake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit gâteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük pasta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كعكة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Törtchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Torte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süßigkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Küchslein",
+    "Küchlein",
+    "Küchlain",
+    "Küchelin",
+    "Küchlen",
+    "Küchlien",
+    "Küchelein"
+  ]
+}

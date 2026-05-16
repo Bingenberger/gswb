@@ -1,0 +1,84 @@
+{
+  "lemma": "Augenbraue",
+  "wortart": "Nomen",
+  "silben": "Au-gen-brau-e",
+  "begriffserklaerung": "Die Augenbraue ist ein bogenförmiger Streifen aus Haaren über deinem Auge. Sie schützt das Auge vor Schweiß und Regen.",
+  "beispielsatz": "Wenn Lena überrascht ist, zieht sie eine Augenbraue hoch.",
+  "rechtschreibstrategie": "Das Wort „Augenbraue\" ist aus zwei Teilen zusammengebaut: „Augen\" und „Braue\". Sprich beide Teile einzeln, dann schreibst du sie richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Auge",
+    "Braue"
+  ],
+  "bild_datei": "Augenbraue.webp",
+  "audio_datei": "Augenbraue.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Augenbraue",
+    "plural": "die Augenbrauen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Augenbraue",
+        "genitiv": "der Augenbraue",
+        "dativ": "der Augenbraue",
+        "akkusativ": "die Augenbraue"
+      },
+      "plural": {
+        "nominativ": "die Augenbrauen",
+        "genitiv": "der Augenbrauen",
+        "dativ": "den Augenbrauen",
+        "akkusativ": "die Augenbrauen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "eyebrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sourcil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاجب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Braue"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wimper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Augenlid"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesicht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Augenbraue",
+    "Augenbrauhe",
+    "Augenbrawe",
+    "Augenbrau",
+    "Augenbrauwe",
+    "Augenbrauen"
+  ]
+}

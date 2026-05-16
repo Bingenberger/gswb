@@ -1,0 +1,85 @@
+{
+  "lemma": "Sammlung",
+  "wortart": "Nomen",
+  "silben": "Samm-lung",
+  "begriffserklaerung": "Eine Sammlung ist eine Gruppe von Dingen, die jemand zusammengestellt und aufbewahrt hat, weil sie ihm wichtig oder interessant sind.",
+  "beispielsatz": "Mia zeigt stolz ihre Sammlung bunter Steine.",
+  "rechtschreibstrategie": "Denk an das Verb „sammeln\" – aus „sammeln\" wird „Sammlung\", deshalb schreibt man zwei m.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sammel"
+  ],
+  "bild_datei": "Sammlung.webp",
+  "audio_datei": "Sammlung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "collection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collection"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koleksiyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجموعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sammeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sammler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kollektion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausstellung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sammlung",
+    "plural": "die Sammlungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sammlung",
+        "genitiv": "der Sammlung",
+        "dativ": "der Sammlung",
+        "akkusativ": "die Sammlung"
+      },
+      "plural": {
+        "nominativ": "die Sammlungen",
+        "genitiv": "der Sammlungen",
+        "dativ": "den Sammlungen",
+        "akkusativ": "die Sammlungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Samlung",
+    "Samllung",
+    "Sammluung",
+    "Sammlung",
+    "Zammlung",
+    "Sammelung"
+  ]
+}

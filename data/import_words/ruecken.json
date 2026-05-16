@@ -1,0 +1,83 @@
+{
+  "lemma": "Rücken",
+  "wortart": "Nomen",
+  "silben": "Rü-cken",
+  "begriffserklaerung": "Der Rücken ist der hintere Teil deines Körpers, zwischen Schultern und Po.",
+  "beispielsatz": "Mein Rücken tut weh, weil ich den schweren Rucksack lange getragen habe.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" schreibst du „ck\" – kein einfaches „k\"! Denk daran: kurzer Vokal → ck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "rück"
+  ],
+  "bild_datei": "Rücken.webp",
+  "audio_datei": "Rücken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "back"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dos"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sırt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ظهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rücken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rücken",
+    "plural": "die Rücken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rücken",
+        "genitiv": "des Rückens",
+        "dativ": "dem Rücken",
+        "akkusativ": "den Rücken"
+      },
+      "plural": {
+        "nominativ": "die Rücken",
+        "genitiv": "der Rücken",
+        "dativ": "den Rücken",
+        "akkusativ": "die Rücken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rücen",
+    "Rükken",
+    "Rüken",
+    "Rücken",
+    "Rücckен",
+    "Rückon"
+  ]
+}

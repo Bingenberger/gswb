@@ -1,0 +1,82 @@
+{
+  "lemma": "Nachrichten",
+  "wortart": "Nomen",
+  "silben": "Nach-rich-ten",
+  "begriffserklaerung": "Nachrichten sind Meldungen oder Informationen über etwas, das passiert ist. Man kann sie im Fernsehen, Radio, in der Zeitung oder im Internet sehen und lesen.",
+  "beispielsatz": "Meine Eltern schauen jeden Abend die Nachrichten im Fernsehen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Nach-rich-ten. Achte auf das „ch\" in der Mitte – das hörst du deutlich, wenn du laut sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nachricht"
+  ],
+  "bild_datei": "Nachrichten.webp",
+  "audio_datei": "Nachrichten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "news"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nouvelles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haberler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أخبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "benachrichtigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meldungen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachricht",
+    "plural": "die Nachrichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachricht",
+        "genitiv": "der Nachricht",
+        "dativ": "der Nachricht",
+        "akkusativ": "die Nachricht"
+      },
+      "plural": {
+        "nominativ": "die Nachrichten",
+        "genitiv": "der Nachrichten",
+        "dativ": "den Nachrichten",
+        "akkusativ": "die Nachrichten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachriten",
+    "Nachrichtten",
+    "Nachrichen",
+    "Nachricten",
+    "Nachriichten"
+  ]
+}

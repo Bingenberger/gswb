@@ -1,0 +1,82 @@
+{
+  "lemma": "Lunge",
+  "wortart": "Nomen",
+  "silben": "Lun-ge",
+  "begriffserklaerung": "Die Lunge ist ein Organ in deiner Brust. Mit ihr atmest du Luft ein und aus. Sie bringt Sauerstoff in dein Blut.",
+  "beispielsatz": "Beim Sport arbeitet deine Lunge besonders fleißig.",
+  "rechtschreibstrategie": "Sprich das Wort genau: Lun-ge. Du hörst ein kurzes „u\" – danach kommt ein „n\" und dann ein weiches „g\". Schreib, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lung"
+  ],
+  "bild_datei": "Lunge.webp",
+  "audio_datei": "Lunge.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lunge",
+    "plural": "die Lungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lunge",
+        "genitiv": "der Lunge",
+        "dativ": "der Lunge",
+        "akkusativ": "die Lunge"
+      },
+      "plural": {
+        "nominativ": "die Lungen",
+        "genitiv": "der Lungen",
+        "dativ": "den Lungen",
+        "akkusativ": "die Lungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lung"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poumon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akciğer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رئة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lungenentzündung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lungengesund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atem"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Organ"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lunke",
+    "Lunge",
+    "Lungge",
+    "Longe",
+    "Lünge"
+  ]
+}

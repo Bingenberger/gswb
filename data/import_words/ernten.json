@@ -1,0 +1,98 @@
+{
+  "lemma": "ernten",
+  "wortart": "Verb",
+  "silben": "ern-ten",
+  "begriffserklaerung": "Ernten bedeutet, reife Früchte, Gemüse oder Getreide vom Feld oder aus dem Garten einzusammeln.",
+  "beispielsatz": "Im Herbst helfen wir dem Bauern, die Äpfel zu ernten.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: ern-ten. Du hörst beide Silben deutlich – schreib, was du sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ernte"
+  ],
+  "bild_datei": "ernten.webp",
+  "audio_datei": "ernten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to harvest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "récolter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hasat etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحصد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ernte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erntedankfest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "einsammeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "pflücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "ernten",
+    "praesens": {
+      "ich": "ernte",
+      "du": "erntest",
+      "er_sie_es": "erntet",
+      "wir": "ernten",
+      "ihr": "erntet",
+      "sie": "ernten"
+    },
+    "perfekt": {
+      "ich": "habe geerntet",
+      "du": "hast geerntet",
+      "er_sie_es": "hat geerntet",
+      "wir": "haben geerntet",
+      "ihr": "habt geerntet",
+      "sie": "haben geerntet"
+    },
+    "praeteritum": {
+      "ich": "erntete",
+      "du": "erntetest",
+      "er_sie_es": "erntete",
+      "wir": "ernteten",
+      "ihr": "erntetet",
+      "sie": "ernteten"
+    }
+  },
+  "fehlschreibungen": [
+    "erndten",
+    "ärnten",
+    "ernnten",
+    "erntten",
+    "ernden"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "malen",
+  "wortart": "Verb",
+  "silben": "ma-len",
+  "begriffserklaerung": "Malen bedeutet, mit Farbe oder Stiften Bilder auf Papier oder eine andere Fläche zu bringen.",
+  "beispielsatz": "Im Kunstunterricht malen wir bunte Bilder mit Wasserfarben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „ma-len\". Das lange „a\" schreibst du einfach mit nur einem „a\" – kein Dehnungs-h, kein Doppelvokal. Denke an das Nomen „Mal\" – so erkennst du den Stamm.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mal"
+  ],
+  "bild_datei": "malen.webp",
+  "audio_datei": "malen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "malen",
+    "praesens": {
+      "ich": "male",
+      "du": "malst",
+      "er_sie_es": "malt",
+      "wir": "malen",
+      "ihr": "malt",
+      "sie": "malen"
+    },
+    "perfekt": {
+      "ich": "habe gemalt",
+      "du": "hast gemalt",
+      "er_sie_es": "hat gemalt",
+      "wir": "haben gemalt",
+      "ihr": "habt gemalt",
+      "sie": "haben gemalt"
+    },
+    "praeteritum": {
+      "ich": "malte",
+      "du": "maltest",
+      "er_sie_es": "malte",
+      "wir": "malten",
+      "ihr": "maltet",
+      "sie": "malten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to paint / to draw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peindre / dessiner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "resim yapmak / boyamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرسم / يلوّن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Malerei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zeichnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Farbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    }
+  ],
+  "fehlschreibungen": [
+    "mahlen",
+    "maalen",
+    "mallen",
+    "malen"
+  ]
+}

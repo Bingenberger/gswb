@@ -1,0 +1,82 @@
+{
+  "lemma": "Laden",
+  "wortart": "Nomen",
+  "silben": "La-den",
+  "begriffserklaerung": "Ein Laden ist ein Geschäft, in dem man Dinge kaufen kann, zum Beispiel Lebensmittel, Spielzeug oder Kleidung.",
+  "beispielsatz": "Wir gehen in den Laden und kaufen frisches Brot.",
+  "rechtschreibstrategie": "Sprich das Wort laut: La-den. Der kurze „a\"-Laut wird durch das einzelne „d\" gefolgt – das „e\" in der zweiten Silbe hörst du beim Sprechen mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Laden"
+  ],
+  "bild_datei": "Laden.webp",
+  "audio_datei": "Laden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shop / store"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magasin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dükkan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ladenbesitzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Laden",
+    "plural": "die Läden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Laden",
+        "genitiv": "des Ladens",
+        "dativ": "dem Laden",
+        "akkusativ": "den Laden"
+      },
+      "plural": {
+        "nominativ": "die Läden",
+        "genitiv": "der Läden",
+        "dativ": "den Läden",
+        "akkusativ": "die Läden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lahden",
+    "Laaden",
+    "Ladden",
+    "laden",
+    "Ladan"
+  ]
+}

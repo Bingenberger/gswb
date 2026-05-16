@@ -1,0 +1,82 @@
+{
+  "lemma": "Gurke",
+  "wortart": "Nomen",
+  "silben": "Gur-ke",
+  "begriffserklaerung": "Eine Gurke ist ein langes, grünes Gemüse. Sie wächst an einer Pflanze und schmeckt frisch und leicht. Man kann sie roh essen oder einlegen.",
+  "beispielsatz": "Mama schneidet eine Gurke in Scheiben für den Salat.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Gur-ke. Am Ende hörst du ein weiches „ke\" – das schreibt man mit „ke\", nicht mit „ge\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Gurke"
+  ],
+  "bild_datei": "Gurke.webp",
+  "audio_datei": "Gurke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cucumber"
+    },
+    {
+      "language_code": "fr",
+      "translation": "concombre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "salatalık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gurkensalat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salatgurke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tomate"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gurke",
+    "plural": "die Gurken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gurke",
+        "genitiv": "der Gurke",
+        "dativ": "der Gurke",
+        "akkusativ": "die Gurke"
+      },
+      "plural": {
+        "nominativ": "die Gurken",
+        "genitiv": "der Gurken",
+        "dativ": "den Gurken",
+        "akkusativ": "die Gurken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gurge",
+    "Gurck",
+    "Gureke",
+    "Gurrke",
+    "Gurcke"
+  ]
+}

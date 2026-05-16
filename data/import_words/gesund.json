@@ -1,0 +1,76 @@
+{
+  "lemma": "gesund",
+  "wortart": "Adjektiv",
+  "silben": "ge-sund",
+  "begriffserklaerung": "Wer gesund ist, dem geht es gut. Sein Körper und sein Geist funktionieren richtig und er ist nicht krank.",
+  "beispielsatz": "Nach einer Woche im Bett ist Mia endlich wieder gesund und kann in die Schule gehen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ge-SUND. Am Ende hörst du „d\", aber beim Verlängern (gesunde, gesunder) bleibt das „d\" – also schreibst du es mit d.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "positiv": "gesund",
+    "komparativ": "gesünder",
+    "superlativ": "am gesündesten"
+  },
+  "wortfamilie_basen": [
+    "gesund"
+  ],
+  "fehlschreibungen": [
+    "gesunt",
+    "gesung",
+    "gessund",
+    "gezund",
+    "gesundt"
+  ],
+  "bild_datei": "gesund.webp",
+  "audio_datei": "gesund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "healthy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "en bonne santé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sağlıklı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بصحة جيدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gesunden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "fit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wohlauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ]
+}

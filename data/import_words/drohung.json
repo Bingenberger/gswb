@@ -1,0 +1,89 @@
+{
+  "lemma": "Drohung",
+  "wortart": "Nomen",
+  "silben": "Dro-hung",
+  "begriffserklaerung": "Eine Drohung ist, wenn jemand einem anderen sagt, dass er ihm etwas Schlimmes antun will, wenn er nicht tut, was man von ihm verlangt.",
+  "beispielsatz": "Der Bösewicht im Film machte eine Drohung, aber die Heldin ließ sich nicht einschüchtern.",
+  "rechtschreibstrategie": "Denk an das Verb „drohen\" – davon kommt „Drohung\". Das h bleibt erhalten: droh-en → Droh-ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "droh"
+  ],
+  "bild_datei": "Drohung.webp",
+  "audio_datei": "Drohung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Drohung",
+    "plural": "die Drohungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Drohung",
+        "genitiv": "der Drohung",
+        "dativ": "der Drohung",
+        "akkusativ": "die Drohung"
+      },
+      "plural": {
+        "nominativ": "die Drohungen",
+        "genitiv": "der Drohungen",
+        "dativ": "den Drohungen",
+        "akkusativ": "die Drohungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "threat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "menace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tehdit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تهديد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drohen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bedrohlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Warnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drohung",
+    "Drooung",
+    "Drohunk",
+    "Drohuing",
+    "Drouhng",
+    "Dröhung"
+  ]
+}

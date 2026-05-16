@@ -1,0 +1,89 @@
+{
+  "lemma": "Kartenzeichen",
+  "wortart": "Nomen",
+  "silben": "Kar-ten-zei-chen",
+  "begriffserklaerung": "Ein Kartenzeichen ist ein kleines Symbol oder eine Farbe auf einer Landkarte. Es zeigt dir, was an einem bestimmten Ort zu finden ist – zum Beispiel eine Straße, einen Wald oder einen See.",
+  "beispielsatz": "Das Kartenzeichen für einen Wald sieht aus wie ein kleiner grüner Baum.",
+  "rechtschreibstrategie": "Das Wort „Kartenzeichen\" besteht aus zwei Teilen: „Karten\" und „Zeichen\". Sprich beide Teile laut: Kar-ten-zei-chen. Das hilft dir, es richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Karte",
+    "Zeichen"
+  ],
+  "bild_datei": "Kartenzeichen.webp",
+  "audio_datei": "Kartenzeichen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kartenzeichen",
+    "plural": "die Kartenzeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kartenzeichen",
+        "genitiv": "des Kartenzeichens",
+        "dativ": "dem Kartenzeichen",
+        "akkusativ": "das Kartenzeichen"
+      },
+      "plural": {
+        "nominativ": "die Kartenzeichen",
+        "genitiv": "der Kartenzeichen",
+        "dativ": "den Kartenzeichen",
+        "akkusativ": "die Kartenzeichen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "map symbol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "symbole cartographique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "harita işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمز الخريطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Legende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Symbol"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kartensymbol"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kardenzeichen",
+    "Kartenzeigen",
+    "Kartenzaichen",
+    "Cartenzeichen",
+    "Kartenzeichen",
+    "Kartenzeicen"
+  ]
+}

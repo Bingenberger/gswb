@@ -1,0 +1,82 @@
+{
+  "lemma": "Techniker",
+  "wortart": "Nomen",
+  "silben": "Tech-ni-ker",
+  "begriffserklaerung": "Ein Techniker ist jemand, der Maschinen, Geräte oder technische Anlagen repariert, wartet oder baut.",
+  "beispielsatz": "Der Techniker repariert den kaputten Computer in der Schule.",
+  "rechtschreibstrategie": "Schreibe „Tech-ni-ker\" in drei Silben. Das „ch\" klingt wie in „ich\" – denk einfach daran!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Technik"
+  ],
+  "bild_datei": "Techniker.webp",
+  "audio_datei": "Techniker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "technician"
+    },
+    {
+      "language_code": "fr",
+      "translation": "technicien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teknisyen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فَنِّي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Technik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "technisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mechaniker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ingenieur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fachmann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Techniker",
+    "plural": "die Techniker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Techniker",
+        "genitiv": "des Technikers",
+        "dativ": "dem Techniker",
+        "akkusativ": "den Techniker"
+      },
+      "plural": {
+        "nominativ": "die Techniker",
+        "genitiv": "der Techniker",
+        "dativ": "den Technikern",
+        "akkusativ": "die Techniker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tegniker",
+    "Technicker",
+    "Technniker",
+    "Tehniker",
+    "Technikker"
+  ]
+}

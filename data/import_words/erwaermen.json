@@ -1,0 +1,101 @@
+{
+  "lemma": "erwärmen",
+  "wortart": "Verb",
+  "silben": "er-wär-men",
+  "begriffserklaerung": "Etwas erwärmen bedeutet, dass man es wärmer macht, zum Beispiel eine Suppe auf dem Herd oder die Hände am Feuer.",
+  "beispielsatz": "Mama erwärmt die Milch für den Kakao auf dem Herd.",
+  "rechtschreibstrategie": "Das Wort steckt in „warm\" – daraus wird „wärmen\" mit Umlaut ä. Der Vorsilbe „er-\" einfach voranstellen: er-wär-men.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "warm",
+    "Wärme"
+  ],
+  "bild_datei": "erwärmen.webp",
+  "audio_datei": "erwärmen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to warm (up)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réchauffer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ısıtmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسخِّن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "warm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufwärmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erhitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "heizen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schmelzen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "erwärmen",
+    "praesens": {
+      "ich": "erwärme",
+      "du": "erwärmst",
+      "er_sie_es": "erwärmt",
+      "wir": "erwärmen",
+      "ihr": "erwärmt",
+      "sie": "erwärmen"
+    },
+    "perfekt": {
+      "ich": "habe erwärmt",
+      "du": "hast erwärmt",
+      "er_sie_es": "hat erwärmt",
+      "wir": "haben erwärmt",
+      "ihr": "habt erwärmt",
+      "sie": "haben erwärmt"
+    },
+    "praeteritum": {
+      "ich": "erwärmte",
+      "du": "erwärmtest",
+      "er_sie_es": "erwärmte",
+      "wir": "erwärmten",
+      "ihr": "erwärmtet",
+      "sie": "erwärmten"
+    }
+  },
+  "fehlschreibungen": [
+    "erwarmen",
+    "erwermen",
+    "erwärmen",
+    "erwärmmen",
+    "erwärmten",
+    "erwaermen",
+    "erwärmt"
+  ]
+}

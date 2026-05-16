@@ -1,0 +1,71 @@
+{
+  "lemma": "Ziffer",
+  "wortart": "Nomen",
+  "silben": "Zif-fer",
+  "begriffserklaerung": "Eine Ziffer ist ein Schriftzeichen für eine Zahl, zum Beispiel 0, 1, 2 oder 9. Zahlen bestehen aus einer oder mehreren Ziffern.",
+  "beispielsatz": "Die Zahl 25 besteht aus den Ziffern 2 und 5.",
+  "rechtschreibstrategie": "Schreibe „Ziffer\" mit Doppel-f in der Mitte, weil der Vokal „i\" kurz gesprochen wird: Zif-fer.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Ziffer.webp",
+  "audio_datei": "Ziffer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "digit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chiffre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rakam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zahl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ziffer",
+    "plural": "die Ziffern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ziffer",
+        "genitiv": "der Ziffer",
+        "dativ": "der Ziffer",
+        "akkusativ": "die Ziffer"
+      },
+      "plural": {
+        "nominativ": "die Ziffern",
+        "genitiv": "der Ziffern",
+        "dativ": "den Ziffern",
+        "akkusativ": "die Ziffern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zifer",
+    "Ziffern",
+    "Tzifer",
+    "Tzifferr"
+  ]
+}

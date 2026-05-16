@@ -1,0 +1,89 @@
+{
+  "lemma": "Schnellzug",
+  "wortart": "Nomen",
+  "silben": "Schnell-zug",
+  "begriffserklaerung": "Ein Schnellzug ist ein Zug, der besonders schnell fährt und nur an wichtigen Bahnhöfen hält.",
+  "beispielsatz": "Der Schnellzug brachte uns in nur zwei Stunden von Hamburg nach Berlin.",
+  "rechtschreibstrategie": "Das Wort „Schnellzug\" ist aus zwei Teilen zusammengesetzt: „schnell\" und „Zug\". Das Doppel-l in „schnell\" kommt vom kurzen e-Laut davor – kurzer Vokal, doppelter Konsonant!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schnell",
+    "Zug"
+  ],
+  "bild_datei": "Schnellzug.webp",
+  "audio_datei": "Schnellzug.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schnellzug",
+    "plural": "die Schnellzüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schnellzug",
+        "genitiv": "des Schnellzuges",
+        "dativ": "dem Schnellzug",
+        "akkusativ": "den Schnellzug"
+      },
+      "plural": {
+        "nominativ": "die Schnellzüge",
+        "genitiv": "der Schnellzüge",
+        "dativ": "den Schnellzügen",
+        "akkusativ": "die Schnellzüge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "express train"
+    },
+    {
+      "language_code": "fr",
+      "translation": "train express"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekspres tren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطار سريع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schnell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Expresszug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lokomotive"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schnelzug",
+    "Schnelltzug",
+    "Schnellzuck",
+    "Scnellzug",
+    "Schnellsug"
+  ]
+}

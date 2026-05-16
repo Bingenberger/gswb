@@ -1,0 +1,78 @@
+{
+  "lemma": "Tulpe",
+  "wortart": "Nomen",
+  "silben": "Tul-pe",
+  "begriffserklaerung": "Eine Tulpe ist eine bunte Blume mit einem langen grünen Stiel und einem großen, kelchförmigen Blütenblatt. Sie blüht meistens im Frühling.",
+  "beispielsatz": "Im Garten wächst eine rote Tulpe.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Tul-pe. Nach dem kurzen „u\" kommt ein „l\", dann ein „p\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tulpe"
+  ],
+  "bild_datei": "Tulpe.webp",
+  "audio_datei": "Tulpe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tulip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tulipe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زنبق الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tulpenfeld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Narzisse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tulpe",
+    "plural": "die Tulpen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tulpe",
+        "genitiv": "der Tulpe",
+        "dativ": "der Tulpe",
+        "akkusativ": "die Tulpe"
+      },
+      "plural": {
+        "nominativ": "die Tulpen",
+        "genitiv": "der Tulpen",
+        "dativ": "den Tulpen",
+        "akkusativ": "die Tulpen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tulppe",
+    "Tulbe",
+    "Tolpe",
+    "Tulpee",
+    "Tulp"
+  ]
+}

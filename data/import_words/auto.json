@@ -1,0 +1,86 @@
+{
+  "lemma": "Auto",
+  "wortart": "Nomen",
+  "silben": "Au-to",
+  "begriffserklaerung": "Ein Auto ist ein Fahrzeug mit Motor und vier Rädern, mit dem Menschen von einem Ort zum anderen fahren können.",
+  "beispielsatz": "Meine Mama fährt mich jeden Morgen mit dem Auto zur Schule.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Au-to. Du hörst zwei Silben. Schreibe, was du hörst: A-u-t-o.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Auto"
+  ],
+  "bild_datei": "Auto.webp",
+  "audio_datei": "Auto.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Auto",
+    "plural": "die Autos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Auto",
+        "genitiv": "des Autos",
+        "dativ": "dem Auto",
+        "akkusativ": "das Auto"
+      },
+      "plural": {
+        "nominativ": "die Autos",
+        "genitiv": "der Autos",
+        "dativ": "den Autos",
+        "akkusativ": "die Autos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Autofahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Autobahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Autto",
+    "Ato",
+    "Auuto",
+    "Autoo",
+    "auto"
+  ]
+}

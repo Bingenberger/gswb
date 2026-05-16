@@ -1,0 +1,88 @@
+{
+  "lemma": "Einkaufsmeile",
+  "wortart": "Nomen",
+  "silben": "Ein-kaufs-mei-le",
+  "begriffserklaerung": "Eine Einkaufsmeile ist eine lange Straße oder ein Bereich in einer Stadt, wo es viele Geschäfte nebeneinander gibt. Dort kann man prima einkaufen gehen!",
+  "beispielsatz": "Am Samstag schlenderte die ganze Familie über die bunte Einkaufsmeile in der Stadt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Ein\" + „kauf\" + „meile\". Sprich es in Silben: Ein-kaufs-mei-le. Denk daran, dass „ei\" in „Einkauf\" und „mei\" in „Meile\" gleich klingen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "Meile"
+  ],
+  "bild_datei": "Einkaufsmeile.webp",
+  "audio_datei": "Einkaufsmeile.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einkaufsmeile",
+    "plural": "die Einkaufsmeilen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einkaufsmeile",
+        "genitiv": "der Einkaufsmeile",
+        "dativ": "der Einkaufsmeile",
+        "akkusativ": "die Einkaufsmeile"
+      },
+      "plural": {
+        "nominativ": "die Einkaufsmeilen",
+        "genitiv": "der Einkaufsmeilen",
+        "dativ": "den Einkaufsmeilen",
+        "akkusativ": "die Einkaufsmeilen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping mile / high street"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rue commerçante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş caddesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شارع التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufsstraße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufszentrum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Einkaufsmaile",
+    "Einkaufsmeille",
+    "Einkaufsmaielle",
+    "Einkaufsmeil",
+    "Einkhaufsmeile",
+    "Einkaufsmeile"
+  ]
+}

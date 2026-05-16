@@ -1,0 +1,93 @@
+{
+  "lemma": "lügen",
+  "wortart": "Verb",
+  "silben": "lü-gen",
+  "begriffserklaerung": "Lügen bedeutet, dass jemand absichtlich etwas Falsches sagt, um andere zu täuschen.",
+  "beispielsatz": "Es ist nicht schön zu lügen – sag immer die Wahrheit!",
+  "rechtschreibstrategie": "Denk an das Wort „die Lüge\" – der lange ü-Laut wird mit nur einem „g\" geschrieben: lü-gen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lüg"
+  ],
+  "bild_datei": "lügen.webp",
+  "audio_datei": "lügen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "lügen",
+    "praesens": {
+      "ich": "lüge",
+      "du": "lügst",
+      "er_sie_es": "lügt",
+      "wir": "lügen",
+      "ihr": "lügt",
+      "sie": "lügen"
+    },
+    "perfekt": {
+      "ich": "habe gelogen",
+      "du": "hast gelogen",
+      "er_sie_es": "hat gelogen",
+      "wir": "haben gelogen",
+      "ihr": "habt gelogen",
+      "sie": "haben gelogen"
+    },
+    "praeteritum": {
+      "ich": "log",
+      "du": "logst",
+      "er_sie_es": "log",
+      "wir": "logen",
+      "ihr": "logt",
+      "sie": "logen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to lie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mentir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalan söylemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكذب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lüge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lügner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schwindeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "flunkern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "täuschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "betrügen"
+    }
+  ],
+  "fehlschreibungen": [
+    "lügen",
+    "lüggen",
+    "lühen",
+    "lüegenm"
+  ]
+}

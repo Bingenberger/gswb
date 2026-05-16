@@ -1,0 +1,88 @@
+{
+  "lemma": "Rechnung",
+  "wortart": "Nomen",
+  "silben": "Rech-nung",
+  "begriffserklaerung": "Eine Rechnung zeigt, wie viel Geld du für etwas bezahlen musst. Auch in der Schule löst du Rechnungen, zum Beispiel beim Addieren oder Subtrahieren.",
+  "beispielsatz": "Mama bezahlt die Rechnung im Supermarkt an der Kasse.",
+  "rechtschreibstrategie": "Denke an das Wort „rechnen\" – daraus wurde „Rechnung\" abgeleitet. Das „ch\" hörst du deutlich, und das „ck\" ist hier keins!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "rechn"
+  ],
+  "bild_datei": "Rechnung.webp",
+  "audio_datei": "Rechnung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rechnung",
+    "plural": "die Rechnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rechnung",
+        "genitiv": "der Rechnung",
+        "dativ": "der Rechnung",
+        "akkusativ": "die Rechnung"
+      },
+      "plural": {
+        "nominativ": "die Rechnungen",
+        "genitiv": "der Rechnungen",
+        "dativ": "den Rechnungen",
+        "akkusativ": "die Rechnungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bill / calculation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "facture / calcul"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesap / fatura"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فاتورة / حساب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mathematik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rechung",
+    "Rächnung",
+    "Recknung",
+    "Rechhnung",
+    "Rechnug"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Käsebrot",
+  "wortart": "Nomen",
+  "silben": "Kä-se-brot",
+  "begriffserklaerung": "Ein Käsebrot ist eine Scheibe Brot, auf die Käse gelegt oder gestrichen wird. Man isst es zum Frühstück oder als Pausenbrot.",
+  "beispielsatz": "Zum Frühstück esse ich am liebsten ein Käsebrot mit Gouda.",
+  "rechtschreibstrategie": "Käsebrot ist ein zusammengesetztes Wort aus „Käse\" und „Brot\". Schreibe einfach beide Wörter hintereinander: Käse + Brot = Käsebrot.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Käse",
+    "Brot"
+  ],
+  "bild_datei": "Käsebrot.webp",
+  "audio_datei": "Käsebrot.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Käsebrot",
+    "plural": "die Käsebrote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Käsebrot",
+        "genitiv": "des Käsebrotes",
+        "dativ": "dem Käsebrot",
+        "akkusativ": "das Käsebrot"
+      },
+      "plural": {
+        "nominativ": "die Käsebrote",
+        "genitiv": "der Käsebrote",
+        "dativ": "den Käsebroten",
+        "akkusativ": "die Käsebrote"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cheese sandwich / bread with cheese"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tartine au fromage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "peynirli ekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبز بالجبن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butterbrot"
+    }
+  ],
+  "fehlschreibungen": [
+    "Käsebrod",
+    "Keesebrot",
+    "Käsebroot",
+    "Kässbrot",
+    "Käsebroth"
+  ]
+}

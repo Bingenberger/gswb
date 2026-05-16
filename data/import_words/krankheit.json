@@ -1,0 +1,88 @@
+{
+  "lemma": "Krankheit",
+  "wortart": "Nomen",
+  "silben": "Krank-heit",
+  "begriffserklaerung": "Eine Krankheit ist, wenn der Körper oder die Seele nicht gesund ist und man sich schlecht fühlt.",
+  "beispielsatz": "Wegen seiner Krankheit musste Leon eine Woche zuhause bleiben.",
+  "rechtschreibstrategie": "Denk an das Wort „krank\" – davon kommt „Krankheit\". Das ank am Ende von „krank\" hörst du deutlich: k-r-a-n-k. Dann hängst du einfach „-heit\" dran.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "krank"
+  ],
+  "bild_datei": "Krankheit.webp",
+  "audio_datei": "Krankheit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Krankheit",
+    "plural": "die Krankheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Krankheit",
+        "genitiv": "der Krankheit",
+        "dativ": "der Krankheit",
+        "akkusativ": "die Krankheit"
+      },
+      "plural": {
+        "nominativ": "die Krankheiten",
+        "genitiv": "der Krankheiten",
+        "dativ": "den Krankheiten",
+        "akkusativ": "die Krankheiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "illness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maladie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hastalık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fieber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Grankheit",
+    "Krankheit",
+    "Crankeit",
+    "Krankait",
+    "Krancheit",
+    "Kronkheit"
+  ]
+}

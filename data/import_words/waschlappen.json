@@ -1,0 +1,84 @@
+{
+  "lemma": "Waschlappen",
+  "wortart": "Nomen",
+  "silben": "Wasch-lap-pen",
+  "begriffserklaerung": "Ein Waschlappen ist ein kleines, weiches Tuch aus Stoff. Man benutzt ihn, um sich damit zu waschen, zum Beispiel das Gesicht oder die Hände.",
+  "beispielsatz": "Morgens nimmt Emma ihren Waschlappen und wäscht sich das Gesicht.",
+  "rechtschreibstrategie": "Das Wort „Waschlappen\" ist aus zwei Wörtern zusammengesetzt: „waschen\" und „Lappen\". Schreibe einfach beide Teile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wasch",
+    "lapp"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Waschlappen",
+    "plural": "die Waschlappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Waschlappen",
+        "genitiv": "des Waschlappens",
+        "dativ": "dem Waschlappen",
+        "akkusativ": "den Waschlappen"
+      },
+      "plural": {
+        "nominativ": "die Waschlappen",
+        "genitiv": "der Waschlappen",
+        "dativ": "den Waschlappen",
+        "akkusativ": "die Waschlappen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waaschlappen",
+    "Waschlapen",
+    "Washlappen",
+    "Waschlappe",
+    "Waaschlapen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washcloth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gant de toilette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüz bezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفاز الاستحمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "bild_datei": "Waschlappen.webp",
+  "audio_datei": "Waschlappen.mp3"
+}

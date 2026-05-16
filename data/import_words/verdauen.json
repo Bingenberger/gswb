@@ -1,0 +1,90 @@
+{
+  "lemma": "verdauen",
+  "wortart": "Verb",
+  "silben": "ver-dau-en",
+  "begriffserklaerung": "Wenn dein Körper die Nahrung, die du gegessen hast, in kleine Teile zerlegt und daraus Energie gewinnt, nennt man das verdauen.",
+  "beispielsatz": "Der Magen braucht einige Stunden, um das Mittagessen zu verdauen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ver-dau-en. Der Anlaut „v\" klingt wie „f\" – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "dau"
+  ],
+  "bild_datei": "verdauen.webp",
+  "audio_datei": "verdauen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verdauen",
+    "praesens": {
+      "ich": "verdaue",
+      "du": "verdaust",
+      "er_sie_es": "verdaut",
+      "wir": "verdauen",
+      "ihr": "verdaut",
+      "sie": "verdauen"
+    },
+    "perfekt": {
+      "ich": "habe verdaut",
+      "du": "hast verdaut",
+      "er_sie_es": "hat verdaut",
+      "wir": "haben verdaut",
+      "ihr": "habt verdaut",
+      "sie": "haben verdaut"
+    },
+    "praeteritum": {
+      "ich": "verdaute",
+      "du": "verdautest",
+      "er_sie_es": "verdaute",
+      "wir": "verdauten",
+      "ihr": "verdautet",
+      "sie": "verdauten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to digest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "digérer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sindirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يهضم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verdauung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verdaulich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Magen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Darm"
+    }
+  ],
+  "fehlschreibungen": [
+    "ferdauen",
+    "verdauhen",
+    "verdauwen",
+    "verdaun",
+    "virdauen"
+  ]
+}

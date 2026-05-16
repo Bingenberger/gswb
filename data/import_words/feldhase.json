@@ -1,0 +1,83 @@
+{
+  "lemma": "Feldhase",
+  "wortart": "Nomen",
+  "silben": "Feld-ha-se",
+  "begriffserklaerung": "Ein Feldhase ist ein wildes Tier mit langen Ohren und schnellen Beinen. Er lebt auf Feldern und Wiesen und kann sehr schnell rennen.",
+  "beispielsatz": "Der Feldhase flitzte blitzschnell über die Wiese und verschwand im hohen Gras.",
+  "rechtschreibstrategie": "„Feldhase\" ist ein zusammengesetztes Wort aus „Feld\" und „Hase\". Schreib beide Teile einfach zusammen: Feld + Hase = Feldhase.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hase",
+    "Feld"
+  ],
+  "bild_datei": "Feldhase.webp",
+  "audio_datei": "Feldhase.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feldhase",
+    "plural": "die Feldhasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feldhase",
+        "genitiv": "des Feldhasen",
+        "dativ": "dem Feldhasen",
+        "akkusativ": "den Feldhasen"
+      },
+      "plural": {
+        "nominativ": "die Feldhasen",
+        "genitiv": "der Feldhasen",
+        "dativ": "den Feldhasen",
+        "akkusativ": "die Feldhasen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hare"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lièvre des champs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla tavşanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرنب الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hase"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    }
+  ],
+  "fehlschreibungen": [
+    "Felthase",
+    "Feldhaze",
+    "Veldhase",
+    "Feldhaase",
+    "Feldhasse"
+  ]
+}

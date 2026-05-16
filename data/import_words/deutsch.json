@@ -1,0 +1,64 @@
+{
+  "lemma": "deutsch",
+  "wortart": "Adjektiv",
+  "silben": "deutsch",
+  "begriffserklaerung": "„Deutsch\" bedeutet, dass etwas aus Deutschland kommt oder zur deutschen Sprache und Kultur gehört.",
+  "beispielsatz": "In der Schule lernen wir die deutsche Sprache.",
+  "rechtschreibstrategie": "Schreibe am Ende „tsch\" – sprich es laut mit: deu-tsch. Das „t\" und das „sch\" gehören zusammen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Deutsch"
+  ],
+  "bild_datei": "deutsch.webp",
+  "audio_datei": "deutsch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "German"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allemand"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Alman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألماني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutschland"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "europäisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "österreichisch"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "deutsch",
+    "komparativ": "deutscher",
+    "superlativ": "deutschsten"
+  },
+  "fehlschreibungen": [
+    "deusch",
+    "deutch",
+    "deutsh",
+    "deustch",
+    "teutsch"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Gefrierfach",
+  "wortart": "Nomen",
+  "silben": "Ge-frier-fach",
+  "begriffserklaerung": "Das Gefrierfach ist ein kleines Abteil im Kühlschrank, in dem es sehr kalt ist. Dort werden Lebensmittel eingefroren und haltbar gemacht.",
+  "beispielsatz": "Mama legt das Eis in das Gefrierfach, damit es nicht schmilzt.",
+  "rechtschreibstrategie": "Das Wort „Gefrierfach\" ist aus zwei Teilen zusammengesetzt: „Gefrier\" (von gefrieren) und „Fach\". Sprich beide Teile laut mit: Ge-frier-fach!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "frieren",
+    "Fach"
+  ],
+  "bild_datei": "Gefrierfach.webp",
+  "audio_datei": "Gefrierfach.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefrierfach",
+    "plural": "die Gefrierfächer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefrierfach",
+        "genitiv": "des Gefrierfachs",
+        "dativ": "dem Gefrierfach",
+        "akkusativ": "das Gefrierfach"
+      },
+      "plural": {
+        "nominativ": "die Gefrierfächer",
+        "genitiv": "der Gefrierfächer",
+        "dativ": "den Gefrierfächern",
+        "akkusativ": "die Gefrierfächer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "freezer compartment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compartiment congélateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dondurucu bölmesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درج التجميد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefrieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kühlschrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiefkühltruhe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefrierabteil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gefriehrfach",
+    "Gefrirfach",
+    "Gefrierfacch",
+    "Gefrierfak",
+    "Gefrierfahc",
+    "Gefrirfack"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Backofen",
+  "wortart": "Nomen",
+  "silben": "Back-o-fen",
+  "begriffserklaerung": "Ein Backofen ist ein Gerät in der Küche, in dem man Brot, Kuchen oder Pizza backen kann. Er wird sehr heiß und hat meistens eine Tür aus Glas.",
+  "beispielsatz": "Mama schiebt den Kuchen in den Backofen und bald duftet die ganze Küche.",
+  "rechtschreibstrategie": "„Backofen\" ist ein zusammengesetztes Wort aus „backen\" und „Ofen\". Sprich beide Teile einzeln: BACK – OFEN. Das „ck\" kommt vom Verb „backen\" – nach dem kurzen „a\" steht immer „ck\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "back",
+    "ofen"
+  ],
+  "bild_datei": "Backofen.webp",
+  "audio_datei": "Backofen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oven"
+    },
+    {
+      "language_code": "fr",
+      "translation": "four"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ofen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Backofen",
+    "plural": "die Backöfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Backofen",
+        "genitiv": "des Backofens",
+        "dativ": "dem Backofen",
+        "akkusativ": "den Backofen"
+      },
+      "plural": {
+        "nominativ": "die Backöfen",
+        "genitiv": "der Backöfen",
+        "dativ": "den Backöfen",
+        "akkusativ": "die Backöfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Backhofen",
+    "Bakofen",
+    "Backoffen",
+    "Bacghofen",
+    "Backophen"
+  ]
+}

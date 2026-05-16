@@ -1,0 +1,95 @@
+{
+  "lemma": "reiten",
+  "wortart": "Verb",
+  "silben": "rei-ten",
+  "begriffserklaerung": "Reiten bedeutet, auf dem Rücken eines Pferdes zu sitzen und sich von ihm tragen zu lassen.",
+  "beispielsatz": "Jeden Samstag darf Lisa auf dem Bauernhof ein Pferd reiten.",
+  "rechtschreibstrategie": "Das Wort „reiten\" hat ein langes „ei\". Sprich es laut: r-ei-ten. Das „ei\" hörst du deutlich, also schreibst du es auch so.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "reit"
+  ],
+  "bild_datei": "reiten.webp",
+  "audio_datei": "reiten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "reiten",
+    "praesens": {
+      "ich": "reite",
+      "du": "reitest",
+      "er_sie_es": "reitet",
+      "wir": "reiten",
+      "ihr": "reitet",
+      "sie": "reiten"
+    },
+    "perfekt": {
+      "ich": "bin geritten",
+      "du": "bist geritten",
+      "er_sie_es": "ist geritten",
+      "wir": "sind geritten",
+      "ihr": "seid geritten",
+      "sie": "sind geritten"
+    },
+    "praeteritum": {
+      "ich": "ritt",
+      "du": "rittst",
+      "er_sie_es": "ritt",
+      "wir": "ritten",
+      "ihr": "rittet",
+      "sie": "ritten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to ride"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monter à cheval"
+    },
+    {
+      "language_code": "tr",
+      "translation": "at sürmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يركب الحصان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reiter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reiterin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sattel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stall"
+    }
+  ],
+  "fehlschreibungen": [
+    "reiten",
+    "reißen",
+    "riten",
+    "raiten",
+    "reitan",
+    "reitten"
+  ]
+}

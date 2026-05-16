@@ -1,0 +1,90 @@
+{
+  "lemma": "treten",
+  "wortart": "Verb",
+  "silben": "tre-ten",
+  "begriffserklaerung": "Mit dem Fuß gegen etwas oder jemanden stoßen oder einen Schritt machen.",
+  "beispielsatz": "Tom tritt den Ball mit voller Kraft ins Tor.",
+  "rechtschreibstrategie": "Sprich das Wort laut: tre-ten. Du hörst zwei Silben. Das „e\" in der ersten Silbe ist lang, darum schreibst du nur ein „t\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tret"
+  ],
+  "bild_datei": "treten.webp",
+  "audio_datei": "treten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to kick / to step"
+    },
+    {
+      "language_code": "fr",
+      "translation": "donner un coup de pied / marcher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekmelemek / adım atmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَرْكُل / يَخْطُو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tritt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auftritt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schießen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stoßen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kicken"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "treten",
+    "praesens": {
+      "ich": "trete",
+      "du": "trittst",
+      "er_sie_es": "tritt",
+      "wir": "treten",
+      "ihr": "tretet",
+      "sie": "treten"
+    },
+    "perfekt": {
+      "ich": "bin getreten",
+      "du": "bist getreten",
+      "er_sie_es": "ist getreten",
+      "wir": "sind getreten",
+      "ihr": "seid getreten",
+      "sie": "sind getreten"
+    },
+    "praeteritum": {
+      "ich": "trat",
+      "du": "tratst",
+      "er_sie_es": "trat",
+      "wir": "traten",
+      "ihr": "tratet",
+      "sie": "traten"
+    }
+  },
+  "fehlschreibungen": [
+    "tretten",
+    "treeten",
+    "träten",
+    "tritten",
+    "trethen"
+  ]
+}

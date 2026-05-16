@@ -1,0 +1,83 @@
+{
+  "lemma": "Rinne",
+  "wortart": "Nomen",
+  "silben": "Rin-ne",
+  "begriffserklaerung": "Eine Rinne ist eine lange, schmale Vertiefung oder ein schmaler Kanal, durch den Wasser fließen kann.",
+  "beispielsatz": "Das Regenwasser fließt durch die Rinne vom Dach in die Tonne.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „n\": Rin-ne. Sprich die beiden „n\" deutlich mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Rinne",
+    "rinn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rinne",
+    "plural": "die Rinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rinne",
+        "genitiv": "der Rinne",
+        "dativ": "der Rinne",
+        "akkusativ": "die Rinne"
+      },
+      "plural": {
+        "nominativ": "die Rinnen",
+        "genitiv": "der Rinnen",
+        "dativ": "den Rinnen",
+        "akkusativ": "die Rinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rine",
+    "Riene",
+    "Rinnen",
+    "Rhinne",
+    "Rinhe"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rinnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rinnsal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gosse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Graben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kanal"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gutter / channel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rigole / gouttière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oluk / kanal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قناة / مجرى"
+    }
+  ],
+  "bild_datei": "Rinne.webp",
+  "audio_datei": "Rinne.mp3"
+}

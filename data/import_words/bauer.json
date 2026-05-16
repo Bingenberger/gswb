@@ -1,0 +1,82 @@
+{
+  "lemma": "Bauer",
+  "wortart": "Nomen",
+  "silben": "Bau-er",
+  "begriffserklaerung": "Ein Bauer ist ein Mensch, der auf einem Bauernhof Tiere hält und Pflanzen anbaut, damit wir Lebensmittel zu essen haben.",
+  "beispielsatz": "Der Bauer füttert jeden Morgen seine Kühe und Schweine.",
+  "rechtschreibstrategie": "Denk an „bauen\" – ein Bauer baut an, was auf dem Feld wächst. Schreib „Bauer\" mit „au\" wie in „bauen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "bau"
+  ],
+  "bild_datei": "Bauer.webp",
+  "audio_datei": "Bauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agriculteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزارع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Landwirt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauer",
+    "plural": "die Bauern",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauer",
+        "genitiv": "des Bauers",
+        "dativ": "dem Bauer",
+        "akkusativ": "den Bauer"
+      },
+      "plural": {
+        "nominativ": "die Bauern",
+        "genitiv": "der Bauern",
+        "dativ": "den Bauern",
+        "akkusativ": "die Bauern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baur",
+    "Bawer",
+    "Baoer",
+    "Bauer",
+    "Bauher"
+  ]
+}

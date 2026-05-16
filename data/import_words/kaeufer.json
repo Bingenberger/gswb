@@ -1,0 +1,87 @@
+{
+  "lemma": "Käufer",
+  "wortart": "Nomen",
+  "silben": "Käu-fer",
+  "begriffserklaerung": "Ein Käufer ist jemand, der etwas kauft – also Geld gibt und dafür eine Ware bekommt.",
+  "beispielsatz": "Der Käufer bezahlt das Buch an der Kasse.",
+  "rechtschreibstrategie": "Denke an das Wort „kaufen\" – daraus wird „Käufer\". Das äu kommt vom au in „kaufen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "kauf"
+  ],
+  "bild_datei": "Käufer.webp",
+  "audio_datei": "Käufer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "buyer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "acheteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشترٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkäufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Käufer",
+    "plural": "die Käufer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Käufer",
+        "genitiv": "des Käufers",
+        "dativ": "dem Käufer",
+        "akkusativ": "den Käufer"
+      },
+      "plural": {
+        "nominativ": "die Käufer",
+        "genitiv": "der Käufer",
+        "dativ": "den Käufern",
+        "akkusativ": "die Käufer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Keifer",
+    "Käuffer",
+    "Käufer",
+    "Keufer",
+    "Kaufer",
+    "Käuver"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Raute",
+  "wortart": "Nomen",
+  "silben": "Rau-te",
+  "begriffserklaerung": "Eine Raute ist eine geometrische Figur mit vier gleich langen Seiten, die schief wie ein Karo aussieht.",
+  "beispielsatz": "Die Raute auf dem Drachen hat vier gleich lange Seiten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Rau-te. Du hörst das „au\" wie in „Baum\" – schreib es genau so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Raute.webp",
+  "audio_datei": "Raute.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rhombus / diamond"
+    },
+    {
+      "language_code": "fr",
+      "translation": "losange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eşkenar dörtgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quadrat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechteck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Raute",
+    "plural": "die Rauten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Raute",
+        "genitiv": "der Raute",
+        "dativ": "der Raute",
+        "akkusativ": "die Raute"
+      },
+      "plural": {
+        "nominativ": "die Rauten",
+        "genitiv": "der Rauten",
+        "dativ": "den Rauten",
+        "akkusativ": "die Rauten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raute",
+    "Roaute",
+    "Raude",
+    "Rawte",
+    "Rauten"
+  ]
+}

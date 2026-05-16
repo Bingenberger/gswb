@@ -1,0 +1,83 @@
+{
+  "lemma": "Nähmaschine",
+  "wortart": "Nomen",
+  "silben": "Näh-ma-schi-ne",
+  "begriffserklaerung": "Eine Nähmaschine ist ein Gerät, mit dem man Stoff zusammennähen kann. Sie macht das Nähen viel schneller als mit der Hand.",
+  "beispielsatz": "Meine Oma näht mit ihrer Nähmaschine bunte Kissen.",
+  "rechtschreibstrategie": "Das Wort „Nähmaschine\" ist aus „nähen\" und „Maschine\" zusammengesetzt. Das lange „ä\" in „näh-\" erkennst du am Dehnungs-h – sprich es langsam: „nää-en\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "näh"
+  ],
+  "bild_datei": "Nähmaschine.webp",
+  "audio_datei": "Nähmaschine.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nähmaschine",
+    "plural": "die Nähmaschinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nähmaschine",
+        "genitiv": "der Nähmaschine",
+        "dativ": "der Nähmaschine",
+        "akkusativ": "die Nähmaschine"
+      },
+      "plural": {
+        "nominativ": "die Nähmaschinen",
+        "genitiv": "der Nähmaschinen",
+        "dativ": "den Nähmaschinen",
+        "akkusativ": "die Nähmaschinen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sewing machine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "machine à coudre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dikiş makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة الخياطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nähen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nähnadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nehmaschine",
+    "Nähmaschiine",
+    "Nähmashine",
+    "Naehmaschinne",
+    "Nähmaschiene"
+  ]
+}

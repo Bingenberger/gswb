@@ -1,0 +1,82 @@
+{
+  "lemma": "Konsum",
+  "wortart": "Nomen",
+  "silben": "Kon-sum",
+  "begriffserklaerung": "Konsum bedeutet, dass Menschen Dinge kaufen und benutzen, zum Beispiel Lebensmittel, Kleidung oder Spielzeug.",
+  "beispielsatz": "Durch den Konsum von Plastikprodukten entsteht viel Müll.",
+  "rechtschreibstrategie": "Sprich das Wort laut in zwei Silben: Kon – sum. Achte auf das „K\" am Anfang und das „s\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "konsum"
+  ],
+  "bild_datei": "Konsum.webp",
+  "audio_datei": "Konsum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "consumption"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consommation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüketim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استهلاك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "konsumieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Konsument"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verbrauch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verbrauch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Konsum",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Konsum",
+        "genitiv": "des Konsums",
+        "dativ": "dem Konsum",
+        "akkusativ": "den Konsum"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Consum",
+    "Konsumm",
+    "Konzum",
+    "Kohnsum",
+    "Konsoom"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Geschwindigkeit",
+  "wortart": "Nomen",
+  "silben": "Ge-schwin-dig-keit",
+  "begriffserklaerung": "Die Geschwindigkeit sagt uns, wie schnell sich etwas oder jemand bewegt – zum Beispiel ein Auto, ein Fahrrad oder ein Läufer.",
+  "beispielsatz": "Das Fahrrad fährt mit hoher Geschwindigkeit den Berg hinunter.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-schwin-dig-keit. Denk daran: Am Ende steht -keit, nicht -kait oder -keid!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "geschwind",
+    "schwind"
+  ],
+  "bild_datei": "Geschwindigkeit.webp",
+  "audio_datei": "Geschwindigkeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "speed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vitesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschwind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschleunigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tempo"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnelligkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geschwindigkeit",
+    "plural": "die Geschwindigkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geschwindigkeit",
+        "genitiv": "der Geschwindigkeit",
+        "dativ": "der Geschwindigkeit",
+        "akkusativ": "die Geschwindigkeit"
+      },
+      "plural": {
+        "nominativ": "die Geschwindigkeiten",
+        "genitiv": "der Geschwindigkeiten",
+        "dativ": "den Geschwindigkeiten",
+        "akkusativ": "die Geschwindigkeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geschwindigkait",
+    "Geschwindigkeid",
+    "Geschwindikkeit",
+    "Geschwinnigkeit",
+    "Geschwindigkeigt",
+    "Gschwindigkeit"
+  ]
+}

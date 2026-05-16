@@ -1,0 +1,83 @@
+{
+  "lemma": "Modell",
+  "wortart": "Nomen",
+  "silben": "Mo-dell",
+  "begriffserklaerung": "Ein Modell ist ein verkleinertes Nachbild von etwas – zum Beispiel ein kleines Auto oder ein kleines Flugzeug. Ein Modell kann auch ein Vorbild oder ein Muster sein, nach dem man etwas baut oder gestaltet.",
+  "beispielsatz": "Tim baut ein Modell eines alten Segelschiffs aus Holz.",
+  "rechtschreibstrategie": "Das Wort „Modell\" endet auf -ll, weil der Vokal davor kurz gesprochen wird: Mo-dell. Höre genau hin: Das „e\" ist kurz, deshalb kommen zwei „l\" am Ende.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Modell"
+  ],
+  "bild_datei": "Modell.webp",
+  "audio_datei": "Modell.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Modell",
+    "plural": "die Modelle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Modell",
+        "genitiv": "des Modells",
+        "dativ": "dem Modell",
+        "akkusativ": "das Modell"
+      },
+      "plural": {
+        "nominativ": "die Modelle",
+        "genitiv": "der Modelle",
+        "dativ": "den Modellen",
+        "akkusativ": "die Modelle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "model"
+    },
+    {
+      "language_code": "fr",
+      "translation": "modèle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "model"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نموذج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "modellieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Modellbau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baukasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Miniatur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorbild"
+    }
+  ],
+  "fehlschreibungen": [
+    "Model",
+    "Moddell",
+    "Modell",
+    "Mödell",
+    "Modäll",
+    "Moodel"
+  ]
+}

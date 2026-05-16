@@ -1,0 +1,73 @@
+{
+  "lemma": "Qualle",
+  "wortart": "Nomen",
+  "silben": "Qual-le",
+  "begriffserklaerung": "Eine Qualle ist ein weiches, gallertartiges Meerestier ohne Knochen. Sie lebt im Wasser und hat oft lange Tentakel. Manche Quallen können brennen, wenn man sie berührt.",
+  "beispielsatz": "Am Strand haben wir eine durchsichtige Qualle im Wasser entdeckt.",
+  "rechtschreibstrategie": "Das Wort „Qualle\" beginnt immer mit „Qu\" – das Q steht nie ohne das u! Außerdem hörst du das „l\" doppelt, weil der Vokal davor kurz gesprochen wird: Qual-le.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Qualle.webp",
+  "audio_datei": "Qualle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Qualle",
+    "plural": "die Quallen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Qualle",
+        "genitiv": "der Qualle",
+        "dativ": "der Qualle",
+        "akkusativ": "die Qualle"
+      },
+      "plural": {
+        "nominativ": "die Quallen",
+        "genitiv": "der Quallen",
+        "dativ": "den Quallen",
+        "akkusativ": "die Quallen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jellyfish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "méduse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denizanası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قنديل البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tentakel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kalle",
+    "Kwalle",
+    "Quale",
+    "Quahle",
+    "Qalle"
+  ]
+}

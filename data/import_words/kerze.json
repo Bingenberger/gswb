@@ -1,0 +1,82 @@
+{
+  "lemma": "Kerze",
+  "wortart": "Nomen",
+  "silben": "Ker-ze",
+  "begriffserklaerung": "Eine Kerze ist ein Stab aus Wachs mit einem Docht in der Mitte. Wenn man den Docht anzündet, leuchtet die Kerze und gibt Licht.",
+  "beispielsatz": "Am Geburtstag stecken bunte Kerzen auf dem Kuchen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ker-ze. Das „e\" am Ende hörst du deutlich – vergiss es nicht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kerz"
+  ],
+  "bild_datei": "Kerze.webp",
+  "audio_datei": "Kerze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "candle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bougie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شمعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kerzenförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kerzenlicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Docht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laterne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kerze",
+    "plural": "die Kerzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kerze",
+        "genitiv": "der Kerze",
+        "dativ": "der Kerze",
+        "akkusativ": "die Kerze"
+      },
+      "plural": {
+        "nominativ": "die Kerzen",
+        "genitiv": "der Kerzen",
+        "dativ": "den Kerzen",
+        "akkusativ": "die Kerzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kerse",
+    "Kärze",
+    "Kertz",
+    "Kertze",
+    "Kersa"
+  ]
+}

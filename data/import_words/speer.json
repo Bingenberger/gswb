@@ -1,0 +1,82 @@
+{
+  "lemma": "Speer",
+  "wortart": "Nomen",
+  "silben": "Speer",
+  "begriffserklaerung": "Ein Speer ist eine lange, dünne Stange mit einer spitzen Spitze. Früher wurde er als Waffe benutzt. Heute wirft man ihn beim Sport.",
+  "beispielsatz": "Der Athlet warf den Speer weit über das Spielfeld.",
+  "rechtschreibstrategie": "Das Wort „Speer\" hat einen langen „ee\"-Laut – denk an die zwei E wie zwei Speerspitzen: ee!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Speer"
+  ],
+  "bild_datei": "Speer.webp",
+  "audio_datei": "Speer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mızrak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "speeren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Speerwerfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lanze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Speer",
+    "plural": "die Speere",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Speer",
+        "genitiv": "des Speers",
+        "dativ": "dem Speer",
+        "akkusativ": "den Speer"
+      },
+      "plural": {
+        "nominativ": "die Speere",
+        "genitiv": "der Speere",
+        "dativ": "den Speeren",
+        "akkusativ": "die Speere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sper",
+    "Spehr",
+    "Speer",
+    "Spier",
+    "Spear"
+  ]
+}

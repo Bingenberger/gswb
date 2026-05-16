@@ -1,0 +1,82 @@
+{
+  "lemma": "Beute",
+  "wortart": "Nomen",
+  "silben": "Beu-te",
+  "begriffserklaerung": "Beute ist das, was jemand bei einem Raub oder einer Jagd erbeutet – also Dinge, die ein Tier gefangen hat oder die jemand gestohlen hat.",
+  "beispielsatz": "Der Fuchs schleppt seine Beute stolz in den Bau.",
+  "rechtschreibstrategie": "Das Wort „Beute\" hat den Doppelvokal „eu\". Sprich es laut: Beu-te. Das „e\" am Ende ist ein leises Schwa-Laut.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "beut"
+  ],
+  "bild_datei": "Beute.webp",
+  "audio_datei": "Beute.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prey / loot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "proie / butin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "av / ganimet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فريسة / غنيمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erbeuten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Räuber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jagd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Räuber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Beute",
+    "plural": "die Beuten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Beute",
+        "genitiv": "der Beute",
+        "dativ": "der Beute",
+        "akkusativ": "die Beute"
+      },
+      "plural": {
+        "nominativ": "die Beuten",
+        "genitiv": "der Beuten",
+        "dativ": "den Beuten",
+        "akkusativ": "die Beuten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beude",
+    "Beuta",
+    "Böute",
+    "Beutte",
+    "Beut"
+  ]
+}

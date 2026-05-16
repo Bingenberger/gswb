@@ -1,0 +1,86 @@
+{
+  "lemma": "Knopf",
+  "wortart": "Nomen",
+  "silben": "Knopf",
+  "begriffserklaerung": "Ein Knopf ist ein kleines, rundes Ding aus Plastik, Holz oder Metall. Er hält Kleidung zusammen oder kann gedrückt werden, um etwas einzuschalten.",
+  "beispielsatz": "Der Knopf an meiner Jacke ist abgefallen.",
+  "rechtschreibstrategie": "Verlängere das Wort: Knopf → Knöpfe. Am Ende hörst du das „pf\" deutlich. So weißt du, dass du „pf\" schreibst und nicht nur „f\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Knopf"
+  ],
+  "bild_datei": "Knopf.webp",
+  "audio_datei": "Knopf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "button"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düğme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Knöpfe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knöpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufknöpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reißverschluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Knopf",
+    "plural": "die Knöpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Knopf",
+        "genitiv": "des Knopfes",
+        "dativ": "dem Knopf",
+        "akkusativ": "den Knopf"
+      },
+      "plural": {
+        "nominativ": "die Knöpfe",
+        "genitiv": "der Knöpfe",
+        "dativ": "den Knöpfen",
+        "akkusativ": "die Knöpfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Knof",
+    "Knoff",
+    "Knopff",
+    "Knobf",
+    "Knoopf"
+  ]
+}

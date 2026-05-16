@@ -1,0 +1,72 @@
+{
+  "lemma": "Giraffe",
+  "wortart": "Nomen",
+  "silben": "Gi-raf-fe",
+  "begriffserklaerung": "Eine Giraffe ist ein sehr großes Tier aus Afrika. Sie hat einen langen Hals und lange Beine. Ihr Fell hat braune Flecken auf gelbem Grund. Giraffen fressen Blätter von hohen Bäumen.",
+  "beispielsatz": "Die Giraffe reckt ihren langen Hals, um die Blätter vom Baum zu fressen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Gi-raf-fe. Nach dem kurzen „a\" hörst du ein doppeltes „f\" – deshalb schreibt man „ff\". Denk daran: zwei f und ein e am Ende!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Giraffe.webp",
+  "audio_datei": "Giraffe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "giraffe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "girafe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zürafa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زرافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebra"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elefant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Giraffe",
+    "plural": "die Giraffen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Giraffe",
+        "genitiv": "der Giraffe",
+        "dativ": "der Giraffe",
+        "akkusativ": "die Giraffe"
+      },
+      "plural": {
+        "nominativ": "die Giraffen",
+        "genitiv": "der Giraffen",
+        "dativ": "den Giraffen",
+        "akkusativ": "die Giraffen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Giraffe",
+    "Girafe",
+    "Girrafe",
+    "Girafffe",
+    "Giräffe"
+  ]
+}

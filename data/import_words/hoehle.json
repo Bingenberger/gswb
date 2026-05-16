@@ -1,0 +1,82 @@
+{
+  "lemma": "Höhle",
+  "wortart": "Nomen",
+  "silben": "Höh-le",
+  "begriffserklaerung": "Eine Höhle ist ein großer, dunkler Hohlraum in einem Berg oder im Boden. Tiere wie Bären oder Fledermäuse leben dort oft drin.",
+  "beispielsatz": "Die Kinder leuchten mit einer Taschenlampe in die dunkle Höhle.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Nach dem „ö\" kommt ein „h\", das man nicht hört – Höhle. Sprich das Wort laut: „Höö-le\" – das lange ö zeigt dir, dass ein Dehnungs-h versteckt ist!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "höhl"
+  ],
+  "bild_datei": "Höhle.webp",
+  "audio_datei": "Höhle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Höhle",
+    "plural": "die Höhlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Höhle",
+        "genitiv": "der Höhle",
+        "dativ": "der Höhle",
+        "akkusativ": "die Höhle"
+      },
+      "plural": {
+        "nominativ": "die Höhlen",
+        "genitiv": "der Höhlen",
+        "dativ": "den Höhlen",
+        "akkusativ": "die Höhlen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mağara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كهف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aushöhlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Höhlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fels"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grotte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Höle",
+    "Hoehle",
+    "Höhlle",
+    "Hölle",
+    "Höhel"
+  ]
+}

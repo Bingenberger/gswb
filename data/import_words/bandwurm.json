@@ -1,0 +1,83 @@
+{
+  "lemma": "Bandwurm",
+  "wortart": "Nomen",
+  "silben": "Band-wurm",
+  "begriffserklaerung": "Ein Bandwurm ist ein sehr langer, flacher Wurm, der im Bauch von Menschen oder Tieren leben kann. Er sieht aus wie ein langes Band.",
+  "beispielsatz": "Der Tierarzt hat festgestellt, dass der Hund einen Bandwurm hat.",
+  "rechtschreibstrategie": "„Bandwurm\" ist ein zusammengesetztes Wort aus „Band\" und „Wurm\". Sprich beide Teile einzeln: BAND + WURM. Das „d\" am Ende von „Band\" hörst du besser, wenn du „Bänder\" sagst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wurm",
+    "Band"
+  ],
+  "bild_datei": "Bandwurm.webp",
+  "audio_datei": "Bandwurm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bandwurm",
+    "plural": "die Bandwürmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bandwurm",
+        "genitiv": "des Bandwurms",
+        "dativ": "dem Bandwurm",
+        "akkusativ": "den Bandwurm"
+      },
+      "plural": {
+        "nominativ": "die Bandwürmer",
+        "genitiv": "der Bandwürmer",
+        "dativ": "den Bandwürmern",
+        "akkusativ": "die Bandwürmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tapeworm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ténia"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tenya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دودة شريطية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parasit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spulwurm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenwurm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bantwurm",
+    "Bandwurrm",
+    "Bandworm",
+    "Bandwurms"
+  ]
+}

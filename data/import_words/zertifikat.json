@@ -1,0 +1,78 @@
+{
+  "lemma": "Zertifikat",
+  "wortart": "Nomen",
+  "silben": "Zer-ti-fi-kat",
+  "begriffserklaerung": "Ein Zertifikat ist eine Urkunde oder ein Dokument, das bescheinigt, dass jemand etwas gelernt oder geschafft hat.",
+  "beispielsatz": "Nach dem Schwimmkurs bekam Lena ein Zertifikat, das zeigt, dass sie jetzt schwimmen kann.",
+  "rechtschreibstrategie": "Das Wort „Zertifikat\" ist ein Merkwort – schreib es dir gut ein! Es kommt aus dem Lateinischen und hat am Ende „-kat\", nicht „-cat\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "zertifizier"
+  ],
+  "bild_datei": "Zertifikat.webp",
+  "audio_datei": "Zertifikat.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zertifikat",
+    "plural": "die Zertifikate",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zertifikat",
+        "genitiv": "des Zertifikats",
+        "dativ": "dem Zertifikat",
+        "akkusativ": "das Zertifikat"
+      },
+      "plural": {
+        "nominativ": "die Zertifikate",
+        "genitiv": "der Zertifikate",
+        "dativ": "den Zertifikaten",
+        "akkusativ": "die Zertifikate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "certificate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "certificat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sertifika"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شهادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zertifizieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urkunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeugnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bescheinigung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zertifikkat",
+    "Zärtifikat",
+    "Zertifigat",
+    "Zertificat",
+    "Zertifkat"
+  ]
+}

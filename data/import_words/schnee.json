@@ -1,0 +1,86 @@
+{
+  "lemma": "Schnee",
+  "wortart": "Nomen",
+  "silben": "Schnee",
+  "begriffserklaerung": "Schnee sind weiße, weiche Flocken aus gefrorenem Wasser, die im Winter vom Himmel fallen und die Erde bedecken.",
+  "beispielsatz": "Im Winter liegt dicker Schnee im Garten, und wir bauen einen Schneemann.",
+  "rechtschreibstrategie": "Schnee endet auf zwei „e\" – sprich beide laut mit: Schne-ee! Das hilft dir, das doppelte e nicht zu vergessen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schnee",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schnee",
+        "genitiv": "des Schnees",
+        "dativ": "dem Schnee",
+        "akkusativ": "den Schnee"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Schnee"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneien"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneeball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneemann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schne",
+    "Schnie",
+    "Schneh",
+    "Shnee",
+    "Schnee"
+  ],
+  "bild_datei": "Schnee.webp",
+  "audio_datei": "Schnee.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "neige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثلج"
+    }
+  ]
+}

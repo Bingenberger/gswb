@@ -1,0 +1,86 @@
+{
+  "lemma": "Kind",
+  "wortart": "Nomen",
+  "silben": "Kind",
+  "begriffserklaerung": "Ein Kind ist ein Mensch, der noch jung ist und aufwächst. Kinder gehen in den Kindergarten oder in die Schule.",
+  "beispielsatz": "Das Kind spielt fröhlich auf dem Spielplatz.",
+  "rechtschreibstrategie": "Wenn du „Kind\" verlängerst, bekommst du „Kinder\" – dann hörst du das „d\" am Ende deutlich. Deshalb schreibt man „Kind\" mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kind",
+    "plural": "die Kinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kind",
+        "genitiv": "des Kindes",
+        "dativ": "dem Kind",
+        "akkusativ": "das Kind"
+      },
+      "plural": {
+        "nominativ": "die Kinder",
+        "genitiv": "der Kinder",
+        "dativ": "den Kindern",
+        "akkusativ": "die Kinder"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kind"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kindheit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kindlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kindergarten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugendlicher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Junge oder Mädchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kint",
+    "Khind",
+    "Kihnd",
+    "Kinde",
+    "Kynd"
+  ],
+  "bild_datei": "Kind.webp",
+  "audio_datei": "Kind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "child"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enfant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çocuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طفل"
+    }
+  ]
+}

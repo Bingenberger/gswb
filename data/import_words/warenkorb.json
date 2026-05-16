@@ -1,0 +1,84 @@
+{
+  "lemma": "Warenkorb",
+  "wortart": "Nomen",
+  "silben": "Wa-ren-korb",
+  "begriffserklaerung": "Ein Warenkorb ist ein Behälter oder eine Liste, in der man Dinge sammelt, die man kaufen möchte – zum Beispiel im Supermarkt oder beim Einkaufen im Internet.",
+  "beispielsatz": "Mama legt das Brot und die Äpfel in den Warenkorb.",
+  "rechtschreibstrategie": "„Warenkorb\" ist aus zwei Wörtern zusammengesetzt: „Waren\" und „Korb\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Ware",
+    "Korb"
+  ],
+  "bild_datei": "Warenkorb.webp",
+  "audio_datei": "Warenkorb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping cart / shopping basket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panier (d'achat)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş sepeti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ware"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Korb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufskorb"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Warenkorb",
+    "plural": "die Warenkörbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Warenkorb",
+        "genitiv": "des Warenkorb(e)s",
+        "dativ": "dem Warenkorb",
+        "akkusativ": "den Warenkorb"
+      },
+      "plural": {
+        "nominativ": "die Warenkörbe",
+        "genitiv": "der Warenkörbe",
+        "dativ": "den Warenkörben",
+        "akkusativ": "die Warenkörbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wahrenkorb",
+    "Warenkorpp",
+    "Warrenkorb",
+    "Warenkorbt",
+    "Warenkorbe"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "kochen",
+  "wortart": "Verb",
+  "silben": "ko-chen",
+  "begriffserklaerung": "Kochen bedeutet, Essen mit Hitze zuzubereiten, zum Beispiel auf dem Herd in einem Topf.",
+  "beispielsatz": "Mama kocht heute Abend eine leckere Suppe.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ko-chen. Nach dem langen „o\" schreibst du nur ein „c\" – und dann kommt „-chen\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "koch"
+  ],
+  "bild_datei": "kochen.webp",
+  "audio_datei": "kochen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "kochen",
+    "praesens": {
+      "ich": "koche",
+      "du": "kochst",
+      "er_sie_es": "kocht",
+      "wir": "kochen",
+      "ihr": "kocht",
+      "sie": "kochen"
+    },
+    "perfekt": {
+      "ich": "habe gekocht",
+      "du": "hast gekocht",
+      "er_sie_es": "hat gekocht",
+      "wir": "haben gekocht",
+      "ihr": "habt gekocht",
+      "sie": "haben gekocht"
+    },
+    "praeteritum": {
+      "ich": "kochte",
+      "du": "kochtest",
+      "er_sie_es": "kochte",
+      "wir": "kochten",
+      "ihr": "kochtet",
+      "sie": "kochten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to cook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuisiner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pişirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يطبخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zubereiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "braten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rezept"
+    }
+  ],
+  "fehlschreibungen": [
+    "kohen",
+    "kochhen",
+    "gochen",
+    "kohchen",
+    "kochn"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Hundehütte",
+  "wortart": "Nomen",
+  "silben": "Hun-de-hüt-te",
+  "begriffserklaerung": "Eine Hundehütte ist ein kleines Häuschen für Hunde. Dort kann der Hund schlafen und sich vor Regen und Kälte schützen.",
+  "beispielsatz": "Unser Hund Rex schläft jede Nacht gemütlich in seiner Hundehütte im Garten.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Hunde\" und „Hütte\". Bei „Hütte\" hörst du das kurze ü – deshalb schreibt man zwei t. Sprich die Silben laut: Hun-de-hüt-te!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Hund",
+    "Hütte"
+  ],
+  "bild_datei": "Hundehütte.webp",
+  "audio_datei": "Hundehütte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hundehütte",
+    "plural": "die Hundehütten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hundehütte",
+        "genitiv": "der Hundehütte",
+        "dativ": "der Hundehütte",
+        "akkusativ": "die Hundehütte"
+      },
+      "plural": {
+        "nominativ": "die Hundehütten",
+        "genitiv": "der Hundehütten",
+        "dativ": "den Hundehütten",
+        "akkusativ": "die Hundehütten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dog kennel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "niche pour chien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köpek kulübesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوخ الكلب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hütte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hundekorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zwinger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leine"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hundehüte",
+    "Hundehütt",
+    "Hundhütte",
+    "Hunde-Hütte",
+    "Hundehüttte"
+  ]
+}

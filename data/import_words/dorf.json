@@ -1,0 +1,80 @@
+{
+  "lemma": "Dorf",
+  "wortart": "Nomen",
+  "silben": "Dorf",
+  "begriffserklaerung": "Ein Dorf ist ein kleiner Ort auf dem Land, in dem weniger Menschen wohnen als in einer Stadt.",
+  "beispielsatz": "In unserem Dorf kennt jeder jeden.",
+  "rechtschreibstrategie": "Verlängere das Wort: Dorf → Dör-fer. Am Ende hörst du das „f\" deutlich – also kein „v\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Dorf",
+    "plural": "die Dörfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Dorf",
+        "genitiv": "des Dorfes",
+        "dativ": "dem Dorf",
+        "akkusativ": "das Dorf"
+      },
+      "plural": {
+        "nominativ": "die Dörfer",
+        "genitiv": "der Dörfer",
+        "dativ": "den Dörfern",
+        "akkusativ": "die Dörfer"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Dorf"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dörflich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dorfbewohner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ortschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dorf",
+    "Torff",
+    "Dorff"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "village"
+    },
+    {
+      "language_code": "fr",
+      "translation": "village"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köy"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرية"
+    }
+  ],
+  "bild_datei": "Dorf.webp",
+  "audio_datei": "Dorf.mp3"
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Vorbeugung",
+  "wortart": "Nomen",
+  "silben": "Vor-beu-gung",
+  "begriffserklaerung": "Eine Vorbeugung ist alles, was man tut, damit etwas Schlechtes gar nicht erst passiert – zum Beispiel krank zu werden oder sich zu verletzen.",
+  "beispielsatz": "Das regelmäßige Händewaschen ist eine gute Vorbeugung gegen Erkältungen.",
+  "rechtschreibstrategie": "Das Wort besteht aus den Bausteinen „vor-\" und „Beugung\". Sprich alle Teile deutlich mit: VOR-BEU-GUNG. Das „eu\" klingt wie in „Eule\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "beugen"
+  ],
+  "bild_datei": "Vorbeugung.webp",
+  "audio_datei": "Vorbeugung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Vorbeugung",
+    "plural": "die Vorbeugungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Vorbeugung",
+        "genitiv": "der Vorbeugung",
+        "dativ": "der Vorbeugung",
+        "akkusativ": "die Vorbeugung"
+      },
+      "plural": {
+        "nominativ": "die Vorbeugungen",
+        "genitiv": "der Vorbeugungen",
+        "dativ": "den Vorbeugungen",
+        "akkusativ": "die Vorbeugungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prevention"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prévention"
+    },
+    {
+      "language_code": "tr",
+      "translation": "önleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beugen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorbeugen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Impfung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hygiene"
+    }
+  ],
+  "fehlschreibungen": [
+    "Forbaugung",
+    "Vorbäugung",
+    "Vorbeigung",
+    "Vorbeuggung",
+    "Vorbaugung",
+    "Vorbegung"
+  ]
+}

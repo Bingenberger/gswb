@@ -1,0 +1,98 @@
+{
+  "lemma": "fallen",
+  "wortart": "Verb",
+  "silben": "fal-len",
+  "begriffserklaerung": "Wenn etwas oder jemand fallen, bewegen sie sich nach unten, weil sie das Gleichgewicht verlieren oder losgelassen werden.",
+  "beispielsatz": "Das Blatt fällt langsam vom Baum.",
+  "rechtschreibstrategie": "Das Wort „fallen\" hat zwei l, weil das a kurz gesprochen wird. Kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fall"
+  ],
+  "bild_datei": "fallen.webp",
+  "audio_datei": "fallen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "fallen",
+    "praesens": {
+      "ich": "falle",
+      "du": "fällst",
+      "er_sie_es": "fällt",
+      "wir": "fallen",
+      "ihr": "fallt",
+      "sie": "fallen"
+    },
+    "perfekt": {
+      "ich": "bin gefallen",
+      "du": "bist gefallen",
+      "er_sie_es": "ist gefallen",
+      "wir": "sind gefallen",
+      "ihr": "seid gefallen",
+      "sie": "sind gefallen"
+    },
+    "praeteritum": {
+      "ich": "fiel",
+      "du": "fielst",
+      "er_sie_es": "fiel",
+      "wir": "fielen",
+      "ihr": "fielt",
+      "sie": "fielen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tomber"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسقط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fällen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefallen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stürzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinfallen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rutschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stolpern"
+    }
+  ],
+  "fehlschreibungen": [
+    "falen",
+    "fahn",
+    "falln",
+    "fahlen",
+    "fallen"
+  ]
+}

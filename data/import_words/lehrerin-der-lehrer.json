@@ -1,0 +1,85 @@
+{
+  "lemma": "Lehrerin / der Lehrer",
+  "wortart": "Nomen",
+  "silben": "Leh-re-rin / Leh-rer",
+  "begriffserklaerung": "Eine Lehrerin oder ein Lehrer arbeitet in der Schule und bringt Kindern viele neue Dinge bei, zum Beispiel Lesen, Schreiben und Rechnen.",
+  "beispielsatz": "Unsere Lehrerin erklärt uns jeden Tag etwas Neues.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Leh-re-rin. Das „h\" nach dem „e\" dehnt den Vokal – es ist ein Dehnungs-h. Merke: lehren → Lehrer → Lehrerin.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "Lehrerin / der Lehrer.webp",
+  "audio_datei": "Lehrerin / der Lehrer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teacher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enseignante / enseignant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğretmen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُعَلِّمة / مُعَلِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pädagogin / der Pädagoge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die / der",
+    "singular": "die Lehrerin / der Lehrer",
+    "plural": "die Lehrerinnen / die Lehrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lehrerin / der Lehrer",
+        "genitiv": "der Lehrerin / des Lehrers",
+        "dativ": "der Lehrerin / dem Lehrer",
+        "akkusativ": "die Lehrerin / den Lehrer"
+      },
+      "plural": {
+        "nominativ": "die Lehrerinnen / die Lehrer",
+        "genitiv": "der Lehrerinnen / der Lehrer",
+        "dativ": "den Lehrerinnen / den Lehrern",
+        "akkusativ": "die Lehrerinnen / die Lehrer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lererin",
+    "Lerererin",
+    "Läherin",
+    "Lehrerin",
+    "Lehrerinnen",
+    "Lehrrer",
+    "Lerer"
+  ]
+}

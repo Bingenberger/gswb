@@ -1,0 +1,84 @@
+{
+  "lemma": "Tankstelle",
+  "wortart": "Nomen",
+  "silben": "Tank-stel-le",
+  "begriffserklaerung": "Eine Tankstelle ist ein Ort, an dem Autos, Motorräder und andere Fahrzeuge Benzin oder Diesel bekommen. Dort kann man auch oft Snacks und Getränke kaufen.",
+  "beispielsatz": "Papa hält an der Tankstelle an, weil das Auto fast kein Benzin mehr hat.",
+  "rechtschreibstrategie": "Das Wort „Tankstelle\" besteht aus zwei Teilen: „Tank\" und „Stelle\". Sprich beide Teile einzeln: TANK – STEL – LE. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tank",
+    "Stelle"
+  ],
+  "bild_datei": "Tankstelle.webp",
+  "audio_datei": "Tankstelle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "petrol station / gas station"
+    },
+    {
+      "language_code": "fr",
+      "translation": "station-service"
+    },
+    {
+      "language_code": "tr",
+      "translation": "benzin istasyonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة وقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tanken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Benzin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zapfsäule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tankstelle",
+    "plural": "die Tankstellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tankstelle",
+        "genitiv": "der Tankstelle",
+        "dativ": "der Tankstelle",
+        "akkusativ": "die Tankstelle"
+      },
+      "plural": {
+        "nominativ": "die Tankstellen",
+        "genitiv": "der Tankstellen",
+        "dativ": "den Tankstellen",
+        "akkusativ": "die Tankstellen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dankstelle",
+    "Tankstelle",
+    "Tangstelle",
+    "Tankstele",
+    "Tankställe",
+    "Tanckstelle"
+  ]
+}

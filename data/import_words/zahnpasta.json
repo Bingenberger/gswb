@@ -1,0 +1,87 @@
+{
+  "lemma": "Zahnpasta",
+  "wortart": "Nomen",
+  "silben": "Zahn-pas-ta",
+  "begriffserklaerung": "Zahnpasta ist eine weiche, cremige Masse, die du beim Zähneputzen auf die Zahnbürste gibst. Sie reinigt deine Zähne und hält sie gesund.",
+  "beispielsatz": "Morgens und abends putze ich mir mit Zahnpasta die Zähne.",
+  "rechtschreibstrategie": "Zahnpasta ist aus zwei Teilen zusammengesetzt: „Zahn\" und „Pasta\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn",
+    "Pasta"
+  ],
+  "bild_datei": "Zahnpasta.webp",
+  "audio_datei": "Zahnpasta.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zahnpasta",
+    "plural": "die Zahnpasten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zahnpasta",
+        "genitiv": "der Zahnpasta",
+        "dativ": "der Zahnpasta",
+        "akkusativ": "die Zahnpasta"
+      },
+      "plural": {
+        "nominativ": "die Zahnpasten",
+        "genitiv": "der Zahnpasten",
+        "dativ": "den Zahnpasten",
+        "akkusativ": "die Zahnpasten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toothpaste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dentifrice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diş macunu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معجون الأسنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zähneputzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mundwasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zahncreme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zahnpaster",
+    "Zahnbasta",
+    "Zanpasta",
+    "Zahmpasta",
+    "Zahnpata"
+  ]
+}

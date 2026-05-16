@@ -1,0 +1,72 @@
+{
+  "lemma": "Konsole",
+  "wortart": "Nomen",
+  "silben": "Kon-so-le",
+  "begriffserklaerung": "Eine Konsole ist ein Gerät, mit dem man Videospiele spielen kann. Man schließt sie an einen Fernseher an und spielt mit einem Controller.",
+  "beispielsatz": "Lena und ihr Bruder spielen am Wochenende zusammen auf der Konsole.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Kon-so-le. Achte auf das „K\" am Anfang – man hört ein hartes „K\", aber es ist kein „C\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Konsole.webp",
+  "audio_datei": "Konsole.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "console"
+    },
+    {
+      "language_code": "fr",
+      "translation": "console"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konsol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز ألعاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Controller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Videospiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Konsole",
+    "plural": "die Konsolen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Konsole",
+        "genitiv": "der Konsole",
+        "dativ": "der Konsole",
+        "akkusativ": "die Konsole"
+      },
+      "plural": {
+        "nominativ": "die Konsolen",
+        "genitiv": "der Konsolen",
+        "dativ": "den Konsolen",
+        "akkusativ": "die Konsolen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Console",
+    "Konsohle",
+    "Konsolle",
+    "Konzole",
+    "Konsohl"
+  ]
+}

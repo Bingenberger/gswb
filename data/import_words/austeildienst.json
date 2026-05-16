@@ -1,0 +1,84 @@
+{
+  "lemma": "Austeildienst",
+  "wortart": "Nomen",
+  "silben": "Aus-teil-dienst",
+  "begriffserklaerung": "Der Austeildienst ist eine Aufgabe in der Schule. Das Kind, das Austeildienst hat, verteilt Hefte, Blätter oder andere Sachen an die Mitschüler.",
+  "beispielsatz": "Heute hat Lena Austeildienst und gibt jedem Kind ein Arbeitsblatt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „aus\" + „teil\" + „dienst\". Sprich alle Teile laut mit: AUS-TEIL-DIENST!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "teilen",
+    "Dienst"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Austeildienst",
+    "plural": "die Austeildienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Austeildienst",
+        "genitiv": "des Austeildienst(e)s",
+        "dativ": "dem Austeildienst",
+        "akkusativ": "den Austeildienst"
+      },
+      "plural": {
+        "nominativ": "die Austeildienste",
+        "genitiv": "der Austeildienste",
+        "dativ": "den Austeildiensten",
+        "akkusativ": "die Austeildienste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Austeildiensd",
+    "Austeildienst",
+    "Austeildinst",
+    "Austheildienst",
+    "Austeieldienst",
+    "Austeil-Dienst"
+  ],
+  "bild_datei": "Austeildienst.webp",
+  "audio_datei": "Austeildienst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "distribution duty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "service de distribution"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağıtım görevi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خدمة التوزيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassendienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafeldienst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verteilerdienst"
+    }
+  ]
+}

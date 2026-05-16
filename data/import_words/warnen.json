@@ -1,0 +1,103 @@
+{
+  "lemma": "warnen",
+  "wortart": "Verb",
+  "silben": "war-nen",
+  "begriffserklaerung": "Wenn du jemanden warnst, sagst du ihm, dass etwas Gefährliches oder Schlechtes passieren könnte, damit er aufpasst.",
+  "beispielsatz": "Die Lehrerin warnt die Kinder davor, auf der nassen Treppe zu rennen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: war-nen. Das „a\" klingt lang, deshalb schreibt man nur ein „r\" – kein Doppel-r!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "warn"
+  ],
+  "bild_datei": "warnen.webp",
+  "audio_datei": "warnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to warn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avertir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُحَذِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "warn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Warnung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Warnzeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufmerksam machen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinweisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufpassen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "warnen",
+    "praesens": {
+      "ich": "warne",
+      "du": "warnst",
+      "er_sie_es": "warnt",
+      "wir": "warnen",
+      "ihr": "warnt",
+      "sie": "warnen"
+    },
+    "perfekt": {
+      "ich": "habe gewarnt",
+      "du": "hast gewarnt",
+      "er_sie_es": "hat gewarnt",
+      "wir": "haben gewarnt",
+      "ihr": "habt gewarnt",
+      "sie": "haben gewarnt"
+    },
+    "praeteritum": {
+      "ich": "warnte",
+      "du": "warntest",
+      "er_sie_es": "warnte",
+      "wir": "warnten",
+      "ihr": "warntet",
+      "sie": "warnten"
+    }
+  },
+  "fehlschreibungen": [
+    "wahrnen",
+    "wahnen",
+    "warnnen",
+    "warren",
+    "varnnen",
+    "varnen"
+  ]
+}

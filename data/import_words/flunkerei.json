@@ -1,0 +1,90 @@
+{
+  "lemma": "Flunkerei",
+  "wortart": "Nomen",
+  "silben": "Flun-ke-rei",
+  "begriffserklaerung": "Eine Flunkerei ist eine kleine Lüge oder ein erfundenes Märchen, das jemand erzählt – oft um sich selbst besser dastehen zu lassen oder um aus einer unangenehmen Situation herauszukommen.",
+  "beispielsatz": "Tim hat wieder eine Flunkerei erzählt – er war gar nicht bei dem Rockkonzert dabei!",
+  "rechtschreibstrategie": "Denk an das Verb „flunkern\": Flunker + ei = Flunkerei. Das „k\" kommt vom Stamm „flunker-\", und die Endung „-ei\" macht aus dem Verb ein Nomen.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "flunker"
+  ],
+  "bild_datei": "Flunkerei.webp",
+  "audio_datei": "Flunkerei.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flunkerei",
+    "plural": "die Flunkereien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flunkerei",
+        "genitiv": "der Flunkerei",
+        "dativ": "der Flunkerei",
+        "akkusativ": "die Flunkerei"
+      },
+      "plural": {
+        "nominativ": "die Flunkereien",
+        "genitiv": "der Flunkereien",
+        "dativ": "den Flunkereien",
+        "akkusativ": "die Flunkereien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fib / tall tale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mensonge (petit) / bobard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalan / uydurma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كذبة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flunkern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flunker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lüge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unwahrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwindel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Prahlerei"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flunkerei",
+    "Flunkerey",
+    "Flunkery",
+    "Flunckerei",
+    "Flunkerrei"
+  ]
+}

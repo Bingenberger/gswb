@@ -1,0 +1,83 @@
+{
+  "lemma": "debuggen",
+  "wortart": "Verb",
+  "silben": "de-bug-gen",
+  "begriffserklaerung": "Debuggen bedeutet, Fehler in einem Computerprogramm zu suchen und zu beheben.",
+  "beispielsatz": "Die Programmiererin muss den Code debuggen, weil das Spiel nicht startet.",
+  "rechtschreibstrategie": "Das Wort „debuggen\" kommt aus dem Englischen. Nach dem kurzen „u\" steht ein Doppel-g – das zeigt den kurzen Vokal an. Merke: „Bug\" heißt auf Englisch „Käfer\" – stell dir vor, du jagst Käfer aus dem Computer!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "bug",
+    "debug"
+  ],
+  "bild_datei": "debuggen.webp",
+  "audio_datei": "debuggen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to debug"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déboguer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hata ayıklamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصحيح الأخطاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "programmieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fehler"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "debuggen",
+    "praesens": {
+      "ich": "debugge",
+      "du": "debuggst",
+      "er_sie_es": "debuggt",
+      "wir": "debuggen",
+      "ihr": "debuggt",
+      "sie": "debuggen"
+    },
+    "perfekt": {
+      "ich": "habe gedebugged",
+      "du": "hast gedebugged",
+      "er_sie_es": "hat gedebugged",
+      "wir": "haben gedebugged",
+      "ihr": "habt gedebugged",
+      "sie": "haben gedebugged"
+    },
+    "praeteritum": {
+      "ich": "debuggte",
+      "du": "debuggtest",
+      "er_sie_es": "debuggte",
+      "wir": "debuggten",
+      "ihr": "debuggtet",
+      "sie": "debuggten"
+    }
+  },
+  "fehlschreibungen": [
+    "debugen",
+    "debbuggen",
+    "de-buggen",
+    "debüggen"
+  ]
+}

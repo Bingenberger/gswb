@@ -1,0 +1,85 @@
+{
+  "lemma": "Teelöffel",
+  "wortart": "Nomen",
+  "silben": "Tee-löf-fel",
+  "begriffserklaerung": "Ein Teelöffel ist ein kleiner Löffel, den man zum Umrühren von Getränken oder zum Abmessen von kleinen Mengen benutzt.",
+  "beispielsatz": "Mama rührt mit einem Teelöffel den Zucker in ihren Tee.",
+  "rechtschreibstrategie": "Das Wort „Teelöffel\" besteht aus zwei Teilen: „Tee\" und „Löffel\". Bei „Tee\" schreibst du zwei e's, weil man es lang spricht. Bei „Löffel\" schreibst du zwei f's, weil das ö kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tee",
+    "Löffel"
+  ],
+  "bild_datei": "Teelöffel.webp",
+  "audio_datei": "Teelöffel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teelöffel",
+    "plural": "die Teelöffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teelöffel",
+        "genitiv": "des Teelöffels",
+        "dativ": "dem Teelöffel",
+        "akkusativ": "den Teelöffel"
+      },
+      "plural": {
+        "nominativ": "die Teelöffel",
+        "genitiv": "der Teelöffel",
+        "dativ": "den Teelöffeln",
+        "akkusativ": "die Teelöffel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teaspoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuillère à café"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çay kaşığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملعقة شاي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Esslöffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Teeloeffel",
+    "Teelöfel",
+    "Telöffel",
+    "Teelöffell",
+    "Thelöffel"
+  ]
+}

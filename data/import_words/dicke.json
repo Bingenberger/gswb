@@ -1,0 +1,84 @@
+{
+  "lemma": "Dicke",
+  "wortart": "Nomen",
+  "silben": "Di-cke",
+  "begriffserklaerung": "Die Dicke beschreibt, wie dick etwas ist – also wie viel Platz etwas von einer Seite zur anderen hat.",
+  "beispielsatz": "Die Dicke des Buches beträgt fünf Zentimeter.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ck\" – das zeigt das Kürzezeichen: Di-cke.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "dick"
+  ],
+  "bild_datei": "Dicke.webp",
+  "audio_datei": "Dicke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thickness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épaisseur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalınlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "السُّمك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verdicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Breite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stärke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stärke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Dicke",
+    "plural": "die Dicken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Dicke",
+        "genitiv": "der Dicke",
+        "dativ": "der Dicke",
+        "akkusativ": "die Dicke"
+      },
+      "plural": {
+        "nominativ": "die Dicken",
+        "genitiv": "der Dicken",
+        "dativ": "den Dicken",
+        "akkusativ": "die Dicken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dike",
+    "Dikke",
+    "Dicce",
+    "Dicke",
+    "Dücke",
+    "Dieke"
+  ]
+}

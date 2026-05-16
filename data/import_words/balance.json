@@ -1,0 +1,82 @@
+{
+  "lemma": "Balance",
+  "wortart": "Nomen",
+  "silben": "Ba-lan-ce",
+  "begriffserklaerung": "Die Balance ist das Gleichgewicht – wenn etwas so ausgewogen ist, dass es nicht kippt oder fällt.",
+  "beispielsatz": "Die Seiltänzerin hält die Balance, indem sie die Arme ausstreckt.",
+  "rechtschreibstrategie": "Balance kommt aus dem Französischen. Das Ende „-ce\" spricht man wie „-se\". Merke: Ba-lan-ce – schreib es so, wie du es in Silben zerlegst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "balanc"
+  ],
+  "bild_datei": "Balance.webp",
+  "audio_datei": "Balance.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "balance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "équilibre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توازن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "balancieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gleichgewicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gleichgewicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koordination"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Balance",
+    "plural": "die Balancen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Balance",
+        "genitiv": "der Balance",
+        "dativ": "der Balance",
+        "akkusativ": "die Balance"
+      },
+      "plural": {
+        "nominativ": "die Balancen",
+        "genitiv": "der Balancen",
+        "dativ": "den Balancen",
+        "akkusativ": "die Balancen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ballance",
+    "Balanze",
+    "Balanse",
+    "Ballanze",
+    "Balansse"
+  ]
+}

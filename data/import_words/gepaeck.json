@@ -1,0 +1,82 @@
+{
+  "lemma": "Gepäck",
+  "wortart": "Nomen",
+  "silben": "Ge-päck",
+  "begriffserklaerung": "Gepäck sind alle Taschen, Koffer und Rucksäcke, die man mitnimmt, wenn man verreist.",
+  "beispielsatz": "Wir haben unser Gepäck schon am Abend vorher gepackt.",
+  "rechtschreibstrategie": "Nach dem kurzen „ä\" kommt „ck\" – das ist das Kürzezeichen! Schreibe: Ge-päck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "pack"
+  ],
+  "bild_datei": "Gepäck.webp",
+  "audio_datei": "Gepäck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "luggage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bagage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bagaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمتعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "packen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisegepäck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gepäck",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gepäck",
+        "genitiv": "des Gepäcks",
+        "dativ": "dem Gepäck",
+        "akkusativ": "das Gepäck"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gepäk",
+    "Gepeck",
+    "Gepaeck",
+    "Gepäkk",
+    "Gepäckt"
+  ]
+}

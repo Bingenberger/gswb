@@ -1,0 +1,95 @@
+{
+  "lemma": "vergessen",
+  "wortart": "Verb",
+  "silben": "ver-ges-sen",
+  "begriffserklaerung": "Wenn du dir etwas nicht mehr merken kannst oder etwas nicht mitgenommen hast, hast du es vergessen.",
+  "beispielsatz": "Ich habe heute mein Heft in der Schule vergessen.",
+  "rechtschreibstrategie": "Das Wort „vergessen\" hat ein doppeltes „s\" in der Mitte – das erkennst du, weil der Vokal „e\" davor kurz gesprochen wird: ver-GES-sen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "vergessen",
+    "Vergesslichkeit"
+  ],
+  "bild_datei": "vergessen.webp",
+  "audio_datei": "vergessen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to forget"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oublier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "unutmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنْسى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergesslich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vergesslichkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nicht mehr wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erinnern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "merken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verlieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "vergessen",
+    "praesens": {
+      "ich": "vergesse",
+      "du": "vergisst",
+      "er_sie_es": "vergisst",
+      "wir": "vergessen",
+      "ihr": "vergesst",
+      "sie": "vergessen"
+    },
+    "perfekt": {
+      "ich": "habe vergessen",
+      "du": "hast vergessen",
+      "er_sie_es": "hat vergessen",
+      "wir": "haben vergessen",
+      "ihr": "habt vergessen",
+      "sie": "haben vergessen"
+    },
+    "praeteritum": {
+      "ich": "vergaß",
+      "du": "vergaßt",
+      "er_sie_es": "vergaß",
+      "wir": "vergaßen",
+      "ihr": "vergaßt",
+      "sie": "vergaßen"
+    }
+  },
+  "fehlschreibungen": [
+    "fergessen",
+    "vergesen",
+    "vergesssen",
+    "vorgessen",
+    "vergessen"
+  ]
+}

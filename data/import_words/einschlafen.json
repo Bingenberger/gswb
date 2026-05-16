@@ -1,0 +1,103 @@
+{
+  "lemma": "einschlafen",
+  "wortart": "Verb",
+  "silben": "ein-schla-fen",
+  "begriffserklaerung": "Wenn du einschläfst, hörst du auf wach zu sein und beginnst zu schlafen.",
+  "beispielsatz": "Das kleine Kind schläft nach dem Vorlesen schnell ein.",
+  "rechtschreibstrategie": "„einschlafen\" ist aus „ein-\" und „schlafen\" zusammengesetzt. Höre beide Teile beim Sprechen: ein-schla-fen. Das lange „a\" in „schlafen\" schreibst du einfach mit „a\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schlafen",
+    "Schlaf"
+  ],
+  "bild_datei": "einschlafen.webp",
+  "audio_datei": "einschlafen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "einschlafen",
+    "praesens": {
+      "ich": "schlafe ein",
+      "du": "schläfst ein",
+      "er_sie_es": "schläft ein",
+      "wir": "schlafen ein",
+      "ihr": "schlaft ein",
+      "sie": "schlafen ein"
+    },
+    "perfekt": {
+      "ich": "bin eingeschlafen",
+      "du": "bist eingeschlafen",
+      "er_sie_es": "ist eingeschlafen",
+      "wir": "sind eingeschlafen",
+      "ihr": "seid eingeschlafen",
+      "sie": "sind eingeschlafen"
+    },
+    "praeteritum": {
+      "ich": "schlief ein",
+      "du": "schliefst ein",
+      "er_sie_es": "schlief ein",
+      "wir": "schliefen ein",
+      "ihr": "schlieft ein",
+      "sie": "schliefen ein"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fall asleep"
+    },
+    {
+      "language_code": "fr",
+      "translation": "s'endormir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uykuya dalmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنَامُ / يَغفو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschlafen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "einnicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "eindösen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "träumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufwachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnarchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "einschlaffen",
+    "einschlafen",
+    "einschlaefen",
+    "einschläffen",
+    "einschlafeen"
+  ]
+}

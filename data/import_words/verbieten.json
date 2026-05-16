@@ -1,0 +1,95 @@
+{
+  "lemma": "verbieten",
+  "wortart": "Verb",
+  "silben": "ver-bie-ten",
+  "begriffserklaerung": "Wenn jemand etwas verbietet, darf man es nicht tun. Eine Erwachsene oder eine Regel sagt: „Das ist nicht erlaubt!\"",
+  "beispielsatz": "Die Lehrerin verbietet es, während des Unterrichts zu rennen.",
+  "rechtschreibstrategie": "Das Wort „verbieten\" hat ein langes „ie\" in der Mitte – merke dir: „ie\" spricht man wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "bieten",
+    "Verbot"
+  ],
+  "bild_datei": "verbieten.webp",
+  "audio_datei": "verbieten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verbieten",
+    "praesens": {
+      "ich": "verbiete",
+      "du": "verbietest",
+      "er_sie_es": "verbietet",
+      "wir": "verbieten",
+      "ihr": "verbietet",
+      "sie": "verbieten"
+    },
+    "perfekt": {
+      "ich": "habe verboten",
+      "du": "hast verboten",
+      "er_sie_es": "hat verboten",
+      "wir": "haben verboten",
+      "ihr": "habt verboten",
+      "sie": "haben verboten"
+    },
+    "praeteritum": {
+      "ich": "verbot",
+      "du": "verbotest",
+      "er_sie_es": "verbot",
+      "wir": "verboten",
+      "ihr": "verbotet",
+      "sie": "verboten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to forbid / to prohibit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interdire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yasaklamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَحْظُر / يَمْنَع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verbot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verboten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "untersagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erlauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bestrafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    }
+  ],
+  "fehlschreibungen": [
+    "vierbieten",
+    "ferbieten",
+    "verbiten",
+    "verbiehten",
+    "verbieden"
+  ]
+}

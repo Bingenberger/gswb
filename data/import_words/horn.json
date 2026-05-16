@@ -1,0 +1,82 @@
+{
+  "lemma": "Horn",
+  "wortart": "Nomen",
+  "silben": "Horn",
+  "begriffserklaerung": "Ein Horn ist ein hartes, spitzes Gebilde auf dem Kopf mancher Tiere, zum Beispiel bei Kühen oder Ziegen. Horn kann auch ein Musikinstrument sein, das man bläst.",
+  "beispielsatz": "Die Kuh hat ein langes, gebogenes Horn auf dem Kopf.",
+  "rechtschreibstrategie": "„Horn\" hat nur eine Silbe. Nach dem kurzen „o\" kommt kein Doppelkonsonant – du schreibst einfach r-n. Merke dir: Das Wort bleibt beim Verlängern gleich: Horn – Hörner.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Horn"
+  ],
+  "bild_datei": "Horn.webp",
+  "audio_datei": "Horn.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Horn",
+    "plural": "die Hörner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Horn",
+        "genitiv": "des Horns",
+        "dativ": "dem Horn",
+        "akkusativ": "das Horn"
+      },
+      "plural": {
+        "nominativ": "die Hörner",
+        "genitiv": "der Hörner",
+        "dativ": "den Hörnern",
+        "akkusativ": "die Hörner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "horn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boynuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hörnchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hornig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geweih"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klaue"
+    }
+  ],
+  "fehlschreibungen": [
+    "Horrn",
+    "Hohrn",
+    "Horen",
+    "Horhn",
+    "Hohren"
+  ]
+}

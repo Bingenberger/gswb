@@ -1,0 +1,78 @@
+{
+  "lemma": "Kauz",
+  "wortart": "Nomen",
+  "silben": "Kauz",
+  "begriffserklaerung": "Ein Kauz ist eine kleine Eule, die vor allem nachts aktiv ist. Das Wort „Kauz\" kann auch einen eigenartigen, merkwürdigen Menschen beschreiben.",
+  "beispielsatz": "Der Kauz sitzt auf dem alten Ast und ruft laut in die Nacht.",
+  "rechtschreibstrategie": "Nach dem kurzen „au\" kommt das „z\" – wie bei „Satz\" oder „Witz\". Denk an das Kürzezeichen tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kauz"
+  ],
+  "bild_datei": "Kauz.webp",
+  "audio_datei": "Kauz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "owl (little owl)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chouette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baykuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بومة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kauzig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kauz",
+    "plural": "die Käuze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kauz",
+        "genitiv": "des Kauzes",
+        "dativ": "dem Kauz",
+        "akkusativ": "den Kauz"
+      },
+      "plural": {
+        "nominativ": "die Käuze",
+        "genitiv": "der Käuze",
+        "dativ": "den Käuzen",
+        "akkusativ": "die Käuze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kautz",
+    "Kaus",
+    "Kauss",
+    "Cautz",
+    "Caus"
+  ]
+}

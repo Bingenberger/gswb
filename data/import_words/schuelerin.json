@@ -1,0 +1,84 @@
+{
+  "lemma": "Schülerin",
+  "wortart": "Nomen",
+  "silben": "Schü-le-rin",
+  "begriffserklaerung": "Eine Schülerin ist ein Mädchen oder eine Frau, die eine Schule besucht und dort lernt.",
+  "beispielsatz": "Die Schülerin liest ein spannendes Buch in der Klasse.",
+  "rechtschreibstrategie": "Denk an das lange „ü\" – sprich das Wort langsam: Schü-le-rin. Das „ü\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Schüler"
+  ],
+  "bild_datei": "Schülerin.webp",
+  "audio_datei": "Schülerin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schülerin",
+    "plural": "die Schülerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schülerin",
+        "genitiv": "der Schülerin",
+        "dativ": "der Schülerin",
+        "akkusativ": "die Schülerin"
+      },
+      "plural": {
+        "nominativ": "die Schülerinnen",
+        "genitiv": "der Schülerinnen",
+        "dativ": "den Schülerinnen",
+        "akkusativ": "die Schülerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "female student / schoolgirl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élève (fille)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğrenci (kız)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طالبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schüler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lernende"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schüllerin",
+    "Schülerin",
+    "Schühlerin",
+    "Shülerin",
+    "Schülerien",
+    "Schülerinn"
+  ]
+}

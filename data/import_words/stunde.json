@@ -1,0 +1,80 @@
+{
+  "lemma": "Stunde",
+  "wortart": "Nomen",
+  "silben": "Stun-de",
+  "begriffserklaerung": "Eine Stunde ist eine Zeitspanne von 60 Minuten. Der Tag hat 24 Stunden.",
+  "beispielsatz": "Die Schulstunde dauert 45 Minuten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Stun-de\". Du hörst ein kurzes „u\" – danach kommt nur ein „n\", kein Doppelbuchstabe. Denk daran: Stunde schreibt man mit „nd\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Stund"
+  ],
+  "bild_datei": "Stunde.webp",
+  "audio_datei": "Stunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "heure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stündlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulstunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stunde",
+    "plural": "die Stunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stunde",
+        "genitiv": "der Stunde",
+        "dativ": "der Stunde",
+        "akkusativ": "die Stunde"
+      },
+      "plural": {
+        "nominativ": "die Stunden",
+        "genitiv": "der Stunden",
+        "dativ": "den Stunden",
+        "akkusativ": "die Stunden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stunde",
+    "Shtunde",
+    "Stunnde"
+  ]
+}

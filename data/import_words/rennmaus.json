@@ -1,0 +1,84 @@
+{
+  "lemma": "Rennmaus",
+  "wortart": "Nomen",
+  "silben": "Renn-maus",
+  "begriffserklaerung": "Eine Rennmaus ist ein kleines, schnelles Nagetier, das oft als Haustier gehalten wird. Sie ist sehr neugierig und bewegt sich blitzschnell.",
+  "beispielsatz": "Unsere Rennmaus dreht den ganzen Tag ihre Runden im Laufrad.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Renn\" und „Maus\". Bei „Renn\" hörst du ein kurzes „e\", deshalb schreibt man doppeltes „n\". Das „M\" in „Maus\" schreibst du groß, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "rennen",
+    "Maus"
+  ],
+  "bild_datei": "Rennmaus.webp",
+  "audio_datei": "Rennmaus.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rennmaus",
+    "plural": "die Rennmäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rennmaus",
+        "genitiv": "der Rennmaus",
+        "dativ": "der Rennmaus",
+        "akkusativ": "die Rennmaus"
+      },
+      "plural": {
+        "nominativ": "die Rennmäuse",
+        "genitiv": "der Rennmäuse",
+        "dativ": "den Rennmäusen",
+        "akkusativ": "die Rennmäuse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gerbil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gerbille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerbil faresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جربوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meerschweinchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Renmaus",
+    "Rennmauß",
+    "Rennmhaus",
+    "Renmauß",
+    "Renmmaus"
+  ]
+}

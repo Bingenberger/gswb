@@ -1,0 +1,83 @@
+{
+  "lemma": "Riss",
+  "wortart": "Nomen",
+  "silben": "Riss",
+  "begriffserklaerung": "Ein Riss ist eine schmale Spalte oder ein Bruch in einem Material, zum Beispiel in einer Wand, einem Stoff oder im Eis.",
+  "beispielsatz": "In der alten Mauer ist ein langer Riss.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ss\" – das ist das Kürzezeichen. Denk daran: kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "reiß",
+    "riss"
+  ],
+  "bild_datei": "Riss.webp",
+  "audio_datei": "Riss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Riss",
+    "plural": "die Risse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Riss",
+        "genitiv": "des Risses",
+        "dativ": "dem Riss",
+        "akkusativ": "den Riss"
+      },
+      "plural": {
+        "nominativ": "die Risse",
+        "genitiv": "der Risse",
+        "dativ": "den Rissen",
+        "akkusativ": "die Risse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fissure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çatlak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شَقّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zerrissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spalte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sprung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ris",
+    "Riß",
+    "Riss",
+    "Rihss"
+  ]
+}

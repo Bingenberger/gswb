@@ -1,0 +1,86 @@
+{
+  "lemma": "Arm",
+  "wortart": "Nomen",
+  "silben": "Arm",
+  "begriffserklaerung": "Der Arm ist ein Körperteil, der von der Schulter bis zur Hand reicht. Mit den Armen können wir greifen, tragen und umarmen.",
+  "beispielsatz": "Mia streckt ihren Arm aus und winkt ihrer Freundin zu.",
+  "rechtschreibstrategie": "Das Wort „Arm\" hat nur eine Silbe. Sprich es laut: Du hörst am Ende ein „m\". Schreibe es genau so, wie du es hörst: A-r-m.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Arm"
+  ],
+  "bild_datei": "Arm.webp",
+  "audio_datei": "Arm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "arm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bras"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذراع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Unterarm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Oberarm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Armband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Arm",
+    "plural": "die Arme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Arm",
+        "genitiv": "des Armes",
+        "dativ": "dem Arm",
+        "akkusativ": "den Arm"
+      },
+      "plural": {
+        "nominativ": "die Arme",
+        "genitiv": "der Arme",
+        "dativ": "den Armen",
+        "akkusativ": "die Arme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ahm",
+    "Arem",
+    "Arrm",
+    "Arme",
+    "Ärm"
+  ]
+}

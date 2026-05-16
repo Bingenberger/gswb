@@ -1,0 +1,83 @@
+{
+  "lemma": "Heimatort",
+  "wortart": "Nomen",
+  "silben": "Hei-mat-ort",
+  "begriffserklaerung": "Der Heimatort ist der Ort, an dem man geboren wurde oder aufgewachsen ist und wo man sich zu Hause fühlt.",
+  "beispielsatz": "Mein Heimatort ist ein kleines Dorf mit einem schönen Spielplatz.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Heimat\" und „Ort\". Sprich beide Teile einzeln: Hei-mat-ort. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Heimat",
+    "Ort"
+  ],
+  "bild_datei": "Heimatort.webp",
+  "audio_datei": "Heimatort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hometown"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ville natale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "memleket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسقط الرأس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heimat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtsort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geburtsort"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Heimatort",
+    "plural": "die Heimatorte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Heimatort",
+        "genitiv": "des Heimatortes",
+        "dativ": "dem Heimatort",
+        "akkusativ": "den Heimatort"
+      },
+      "plural": {
+        "nominativ": "die Heimatorte",
+        "genitiv": "der Heimatorte",
+        "dativ": "den Heimatorten",
+        "akkusativ": "die Heimatorte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Heimatord",
+    "Haimatort",
+    "Heimatohrt",
+    "Heymatort",
+    "Heimatot"
+  ]
+}

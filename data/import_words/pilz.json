@@ -1,0 +1,82 @@
+{
+  "lemma": "Pilz",
+  "wortart": "Nomen",
+  "silben": "Pilz",
+  "begriffserklaerung": "Ein Pilz ist ein Lebewesen, das weder Tier noch Pflanze ist. Pilze wachsen oft im Wald und sehen aus wie ein Hut auf einem Stiel. Manche Pilze kann man essen, andere sind giftig.",
+  "beispielsatz": "Im Herbst findet man im Wald viele bunte Pilze.",
+  "rechtschreibstrategie": "Das Wort „Pilz\" hat nur eine Silbe. Du hörst am Ende ein scharfes „z\" – schreib einfach z, nicht tz, denn vor dem z steht kein kurzer Vokal mit Kürzezeichen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pilz"
+  ],
+  "bild_datei": "Pilz.webp",
+  "audio_datei": "Pilz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mushroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "champignon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mantar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pilzförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pilzsammler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pilz",
+    "plural": "die Pilze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pilz",
+        "genitiv": "des Pilzes",
+        "dativ": "dem Pilz",
+        "akkusativ": "den Pilz"
+      },
+      "plural": {
+        "nominativ": "die Pilze",
+        "genitiv": "der Pilze",
+        "dativ": "den Pilzen",
+        "akkusativ": "die Pilze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Piltz",
+    "Pils",
+    "Pylz",
+    "Pilzz",
+    "Bilz"
+  ]
+}

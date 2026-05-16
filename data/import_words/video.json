@@ -1,0 +1,82 @@
+{
+  "lemma": "Video",
+  "wortart": "Nomen",
+  "silben": "Vi-de-o",
+  "begriffserklaerung": "Ein Video ist eine bewegte Bilderfolge mit Ton, die man auf einem Bildschirm anschauen kann – zum Beispiel ein Film, ein Musikclip oder eine Aufnahme.",
+  "beispielsatz": "Wir haben im Unterricht ein lustiges Video über Tiere geschaut.",
+  "rechtschreibstrategie": "„Video\" beginnt mit einem V – das spricht sich wie ein „W\" an, aber man schreibt es mit V. Merke: Vi-de-o – alle drei Silben deutlich mitsprechen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Video"
+  ],
+  "bild_datei": "Video.webp",
+  "audio_datei": "Video.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Video",
+    "plural": "die Videos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Video",
+        "genitiv": "des Videos",
+        "dativ": "dem Video",
+        "akkusativ": "das Video"
+      },
+      "plural": {
+        "nominativ": "die Videos",
+        "genitiv": "der Videos",
+        "dativ": "den Videos",
+        "akkusativ": "die Videos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "video"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vidéo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "video"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيديو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Videokamera"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Videoclip"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufnahme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wideo",
+    "Fideo",
+    "Vidio",
+    "Viedeo",
+    "Videoo"
+  ]
+}

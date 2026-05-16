@@ -1,0 +1,81 @@
+{
+  "lemma": "Netz",
+  "wortart": "Nomen",
+  "silben": "Netz",
+  "begriffserklaerung": "Ein Netz ist ein Geflecht aus Fäden oder Schnüren, die miteinander verbunden sind und dabei viele Löcher lassen. Man benutzt es zum Fangen von Fischen oder Schmetterlingen. Das Wort kann auch das Internet bedeuten.",
+  "beispielsatz": "Der Fischer wirft sein Netz ins Wasser, um Fische zu fangen.",
+  "rechtschreibstrategie": "Das Netz hat ein kurzes „e\" – deshalb kommt nach dem „e\" gleich „tz\". Kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Netz"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Netz",
+    "plural": "die Netze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Netz",
+        "genitiv": "des Netzes",
+        "dativ": "dem Netz",
+        "akkusativ": "das Netz"
+      },
+      "plural": {
+        "nominativ": "die Netze",
+        "genitiv": "der Netze",
+        "dativ": "den Netzen",
+        "akkusativ": "die Netze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nets",
+    "Nez",
+    "Netts",
+    "Nätz"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "net"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شبكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Netzwerk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vernetzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fischernetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geflecht"
+    }
+  ],
+  "bild_datei": "Netz.webp",
+  "audio_datei": "Netz.mp3"
+}

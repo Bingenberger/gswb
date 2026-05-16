@@ -1,0 +1,92 @@
+{
+  "lemma": "Hausschuh",
+  "wortart": "Nomen",
+  "silben": "Haus-schuh",
+  "begriffserklaerung": "Ein Hausschuh ist ein weicher, bequemer Schuh, den man zu Hause trägt, damit die Füße warm und geschützt sind.",
+  "beispielsatz": "Nach der Schule zieht Tim seine Hausschuhe an und läuft damit gemütlich durch die Wohnung.",
+  "rechtschreibstrategie": "„Hausschuh\" ist aus zwei Wörtern zusammengesetzt: „Haus\" und „Schuh\". Deshalb schreibt man in der Mitte zwei s hintereinander – je ein s kommt von jedem Wort.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Schuh"
+  ],
+  "bild_datei": "Hausschuh.webp",
+  "audio_datei": "Hausschuh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slipper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chausson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev terliği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شبشب منزلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pantoffel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Slipper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Socke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stiefel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hausschuh",
+    "plural": "die Hausschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hausschuh",
+        "genitiv": "des Hausschuhs",
+        "dativ": "dem Hausschuh",
+        "akkusativ": "den Hausschuh"
+      },
+      "plural": {
+        "nominativ": "die Hausschuhe",
+        "genitiv": "der Hausschuhe",
+        "dativ": "den Hausschuhen",
+        "akkusativ": "die Hausschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hausschuch",
+    "Hauschuh",
+    "Hausschue",
+    "Haußschuh",
+    "Hausschuu",
+    "Hausschu"
+  ]
+}

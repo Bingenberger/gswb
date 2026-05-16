@@ -1,0 +1,79 @@
+{
+  "lemma": "Geschwister",
+  "wortart": "Nomen",
+  "silben": "Ge-schwis-ter",
+  "begriffserklaerung": "Geschwister sind Brüder und Schwestern zusammen. Wenn du einen Bruder oder eine Schwester hast, sind das deine Geschwister.",
+  "beispielsatz": "Meine Geschwister und ich spielen jeden Nachmittag zusammen im Garten.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-schwis-ter. Achte auf das „sch\" am Anfang von „schwis\" – das klingt wie ein einziger Laut!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schwester",
+    "Bruder"
+  ],
+  "bild_datei": "Geschwister.webp",
+  "audio_datei": "Geschwister.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "siblings"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frères et sœurs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kardeşler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إخوة وأخوات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwester"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bruder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Geschwister",
+    "plural": "die Geschwister",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geschwister",
+        "genitiv": "des Geschwister",
+        "dativ": "dem Geschwister",
+        "akkusativ": "das Geschwister"
+      },
+      "plural": {
+        "nominativ": "die Geschwister",
+        "genitiv": "der Geschwister",
+        "dativ": "den Geschwistern",
+        "akkusativ": "die Geschwister"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geschwiester",
+    "Geschwisster",
+    "Geshwister",
+    "Geschwiter",
+    "Geswister"
+  ]
+}

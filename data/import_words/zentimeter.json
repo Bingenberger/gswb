@@ -1,0 +1,75 @@
+{
+  "lemma": "Zentimeter",
+  "wortart": "Nomen",
+  "silben": "Zen-ti-me-ter",
+  "begriffserklaerung": "Ein Zentimeter ist eine Maßeinheit für Längen. Ein Zentimeter ist ein Hundertstel von einem Meter. Auf einem Lineal kannst du Zentimeter ablesen.",
+  "beispielsatz": "Mein Radiergummi ist fünf Zentimeter lang.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Zen-ti-me-ter. Achte auf das Z am Anfang – es klingt wie „Ts\". Das Wort kommt aus dem Lateinischen und wird so geschrieben, wie man es hört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Meter"
+  ],
+  "bild_datei": "Zentimeter.webp",
+  "audio_datei": "Zentimeter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "centimeter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centimètre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "santimetre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سنتيمتر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Millimeter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zentimeter",
+    "plural": "die Zentimeter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zentimeter",
+        "genitiv": "des Zentimeters",
+        "dativ": "dem Zentimeter",
+        "akkusativ": "den Zentimeter"
+      },
+      "plural": {
+        "nominativ": "die Zentimeter",
+        "genitiv": "der Zentimeter",
+        "dativ": "den Zentimetern",
+        "akkusativ": "die Zentimeter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zentimeder",
+    "Zentimetre",
+    "Zentimeter",
+    "Sentimeter",
+    "Zentimiter",
+    "Zentimäter"
+  ]
+}

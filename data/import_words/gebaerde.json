@@ -1,0 +1,87 @@
+{
+  "lemma": "Gebärde",
+  "wortart": "Nomen",
+  "silben": "Ge-bär-de",
+  "begriffserklaerung": "Eine Gebärde ist eine Bewegung mit den Händen, dem Gesicht oder dem Körper, mit der man etwas ausdrückt oder mitteilt – ohne Worte zu sprechen.",
+  "beispielsatz": "Die Lehrerin zeigte mit einer Gebärde, dass alle leise sein sollen.",
+  "rechtschreibstrategie": "Hör genau hin: Ge-bär-de. Das ä in „bär\" schreibst du mit Umlaut-a. Denk an das Wort „Gebärdensprache\" – es hilft dir, die Schreibung zu merken.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "gebärd"
+  ],
+  "bild_datei": "Gebärde.webp",
+  "audio_datei": "Gebärde.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gebärde",
+    "plural": "die Gebärden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gebärde",
+        "genitiv": "der Gebärde",
+        "dativ": "der Gebärde",
+        "akkusativ": "die Gebärde"
+      },
+      "plural": {
+        "nominativ": "die Gebärden",
+        "genitiv": "der Gebärden",
+        "dativ": "den Gebärden",
+        "akkusativ": "die Gebärden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gesture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "geste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "jest"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إيماءة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebärden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebärdensprache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mimik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprache"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geberde",
+    "Gebärte",
+    "Gebeärde",
+    "Gebärrd",
+    "Gebearde"
+  ]
+}

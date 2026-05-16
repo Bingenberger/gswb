@@ -1,0 +1,101 @@
+{
+  "lemma": "leuchten",
+  "wortart": "Verb",
+  "silben": "leuch-ten",
+  "begriffserklaerung": "Leuchten bedeutet, dass etwas helles Licht abgibt, zum Beispiel eine Lampe oder ein Stern.",
+  "beispielsatz": "Die Sterne leuchten heute Nacht ganz hell am Himmel.",
+  "rechtschreibstrategie": "Denk an das Wort „Licht\" – daraus kommt „leuchten\". Das „eu\" sprichst du wie in „heute\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "leuchт",
+    "Licht"
+  ],
+  "bild_datei": "leuchten.webp",
+  "audio_datei": "leuchten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to shine / to glow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "briller / luire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parlamak / ışıldamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يضيء / يسطع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leuchte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "strahlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "glänzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "leuchten",
+    "praesens": {
+      "ich": "leuchte",
+      "du": "leuchtest",
+      "er_sie_es": "leuchtet",
+      "wir": "leuchten",
+      "ihr": "leuchtet",
+      "sie": "leuchten"
+    },
+    "perfekt": {
+      "ich": "habe geleuchtet",
+      "du": "hast geleuchtet",
+      "er_sie_es": "hat geleuchtet",
+      "wir": "haben geleuchtet",
+      "ihr": "habt geleuchtet",
+      "sie": "haben geleuchtet"
+    },
+    "praeteritum": {
+      "ich": "leuchtete",
+      "du": "leuchtetest",
+      "er_sie_es": "leuchtete",
+      "wir": "leuchteten",
+      "ihr": "leuchtetet",
+      "sie": "leuchteten"
+    }
+  },
+  "fehlschreibungen": [
+    "leuchden",
+    "leuchten",
+    "luchten",
+    "leuschten",
+    "leuchtern",
+    "löchten",
+    "leuchthen"
+  ]
+}

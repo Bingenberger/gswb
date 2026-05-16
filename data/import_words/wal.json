@@ -1,0 +1,82 @@
+{
+  "lemma": "Wal",
+  "wortart": "Nomen",
+  "silben": "Wal",
+  "begriffserklaerung": "Ein Wal ist ein sehr großes Tier, das im Meer lebt. Wale sehen aus wie Fische, aber sie sind Säugetiere und müssen zum Atmen an die Wasseroberfläche kommen.",
+  "beispielsatz": "Der riesige Wal tauchte langsam aus dem Meer auf und spritzte Wasser in die Luft.",
+  "rechtschreibstrategie": "Das Wort „Wal\" hat nur eine Silbe. Höre genau hin: Der Vokal „a\" klingt lang, deshalb schreibt man nur ein „l\" – also „Wal\" und nicht „Wall\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wal"
+  ],
+  "bild_datei": "Wal.webp",
+  "audio_datei": "Wal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "whale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baleine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Walhai"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blauwal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wal",
+    "plural": "die Wale",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wal",
+        "genitiv": "des Wal(e)s",
+        "dativ": "dem Wal",
+        "akkusativ": "den Wal"
+      },
+      "plural": {
+        "nominativ": "die Wale",
+        "genitiv": "der Wale",
+        "dativ": "den Walen",
+        "akkusativ": "die Wale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wall",
+    "Vahl",
+    "Wahl",
+    "Waal",
+    "Vall"
+  ]
+}

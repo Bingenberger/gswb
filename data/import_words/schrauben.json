@@ -1,0 +1,95 @@
+{
+  "lemma": "schrauben",
+  "wortart": "Verb",
+  "silben": "schrau-ben",
+  "begriffserklaerung": "Etwas mit einer Schraube befestigen oder etwas durch Drehen fest- oder losmachen.",
+  "beispielsatz": "Papa schraubt das Regal an die Wand.",
+  "rechtschreibstrategie": "Sprich das Wort laut: schrau-ben. Du hörst ein langes „au\" – da kommt kein Doppelkonsonant. Denk an das Nomen „die Schraube\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schraub"
+  ],
+  "bild_datei": "schrauben.webp",
+  "audio_datei": "schrauben.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schrauben",
+    "praesens": {
+      "ich": "schraube",
+      "du": "schraubst",
+      "er_sie_es": "schraubt",
+      "wir": "schrauben",
+      "ihr": "schraubt",
+      "sie": "schrauben"
+    },
+    "perfekt": {
+      "ich": "habe geschraubt",
+      "du": "hast geschraubt",
+      "er_sie_es": "hat geschraubt",
+      "wir": "haben geschraubt",
+      "ihr": "habt geschraubt",
+      "sie": "haben geschraubt"
+    },
+    "praeteritum": {
+      "ich": "schraubte",
+      "du": "schraubtest",
+      "er_sie_es": "schraubte",
+      "wir": "schraubten",
+      "ihr": "schraubtet",
+      "sie": "schraubten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to screw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "visser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vidalamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُبرغي / يلوّل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrauber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraubenzieher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bohren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hämmern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "befestigen"
+    }
+  ],
+  "fehlschreibungen": [
+    "scrauben",
+    "shrauben",
+    "schrauen",
+    "schraupen",
+    "schrawben",
+    "schraiben"
+  ]
+}

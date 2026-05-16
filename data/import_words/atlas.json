@@ -1,0 +1,72 @@
+{
+  "lemma": "Atlas",
+  "wortart": "Nomen",
+  "silben": "At-las",
+  "begriffserklaerung": "Ein Atlas ist ein Buch mit vielen Landkarten. Darin kannst du Länder, Städte, Meere und Berge auf der ganzen Welt finden.",
+  "beispielsatz": "Im Erdkundeunterricht schlagen wir den Atlas auf, um Deutschland auf der Karte zu suchen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: At-las. Nach dem kurzen „a\" kommt ein „t\", dann „las\". Denk daran: Atlas schreibt man mit großem „A\", denn es ist ein Nomen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Atlas.webp",
+  "audio_datei": "Atlas.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "atlas"
+    },
+    {
+      "language_code": "fr",
+      "translation": "atlas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atlas"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أطلس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Globus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kartenwerk"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Atlas",
+    "plural": "die Atlanten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Atlas",
+        "genitiv": "des Atlas",
+        "dativ": "dem Atlas",
+        "akkusativ": "den Atlas"
+      },
+      "plural": {
+        "nominativ": "die Atlanten",
+        "genitiv": "der Atlanten",
+        "dativ": "den Atlanten",
+        "akkusativ": "die Atlanten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Atlass",
+    "Atllas",
+    "Atles",
+    "atlas",
+    "Attlas"
+  ]
+}

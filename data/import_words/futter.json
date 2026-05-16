@@ -1,0 +1,82 @@
+{
+  "lemma": "Futter",
+  "wortart": "Nomen",
+  "silben": "Fut-ter",
+  "begriffserklaerung": "Futter ist das Essen für Tiere. Zum Beispiel fressen Hunde, Katzen und Vögel ihr Futter aus einem Napf oder von einem Teller.",
+  "beispielsatz": "Die Katze wartet ungeduldig vor ihrem Napf auf das Futter.",
+  "rechtschreibstrategie": "Das Wort „Futter\" hat ein kurzes „u\", deshalb schreibt man zwei „t\": Fut-ter. Sprich die Silben deutlich: Fut – ter!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fütt"
+  ],
+  "bild_datei": "Futter.webp",
+  "audio_datei": "Futter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "food (for animals) / fodder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nourriture (pour animaux)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yem / hayvan yiyeceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علف / طعام الحيوانات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "füttern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tierfutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Napf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nahrung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Futter",
+    "plural": "die Futter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Futter",
+        "genitiv": "des Futters",
+        "dativ": "dem Futter",
+        "akkusativ": "das Futter"
+      },
+      "plural": {
+        "nominativ": "die Futter",
+        "genitiv": "der Futter",
+        "dativ": "den Futtern",
+        "akkusativ": "die Futter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Futer",
+    "Futher",
+    "Fudder",
+    "Fotter",
+    "futther"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Gipfel",
+  "wortart": "Nomen",
+  "silben": "Gip-fel",
+  "begriffserklaerung": "Der Gipfel ist der höchste Punkt eines Berges.",
+  "beispielsatz": "Nach einer langen Wanderung standen wir endlich auf dem Gipfel des Berges.",
+  "rechtschreibstrategie": "Schreibe „Gipfel\" mit doppeltem p, weil das i kurz gesprochen wird: Gip-fel.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gipfel",
+    "plural": "die Gipfel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gipfel",
+        "genitiv": "des Gipfels",
+        "dativ": "dem Gipfel",
+        "akkusativ": "den Gipfel"
+      },
+      "plural": {
+        "nominativ": "die Gipfel",
+        "genitiv": "der Gipfel",
+        "dativ": "den Gipfeln",
+        "akkusativ": "die Gipfel"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Gipfel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gipfeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Berggipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gipffel",
+    "Gipfeln",
+    "Giepfel",
+    "Gippfel",
+    "Gipfell"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "summit / peak"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sommet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zirve"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قمة"
+    }
+  ],
+  "bild_datei": "Gipfel.webp",
+  "audio_datei": "Gipfel.mp3"
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Reiter",
+  "wortart": "Nomen",
+  "silben": "Rei-ter",
+  "begriffserklaerung": "Ein Reiter ist eine Person, die auf einem Pferd sitzt und reitet.",
+  "beispielsatz": "Der Reiter galoppiert mit seinem Pferd über die Wiese.",
+  "rechtschreibstrategie": "Denk an das Verb „reiten\" – ein Reiter ist jemand, der reitet. Das Wort leitet sich direkt von „reiten\" ab.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "reit"
+  ],
+  "bild_datei": "Reiter.webp",
+  "audio_datei": "Reiter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reiter",
+    "plural": "die Reiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reiter",
+        "genitiv": "des Reiters",
+        "dativ": "dem Reiter",
+        "akkusativ": "den Reiter"
+      },
+      "plural": {
+        "nominativ": "die Reiter",
+        "genitiv": "der Reiter",
+        "dativ": "den Reitern",
+        "akkusativ": "die Reiter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rider"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cavalier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "binici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فارس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reiterin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reiterhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sattel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reitsportler"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reitter",
+    "Reider",
+    "Raiter",
+    "Reidter"
+  ]
+}

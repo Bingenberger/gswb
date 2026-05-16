@@ -1,0 +1,86 @@
+{
+  "lemma": "Autor",
+  "wortart": "Nomen",
+  "silben": "Au-tor",
+  "begriffserklaerung": "Ein Autor ist eine Person, die Bücher, Geschichten oder Texte schreibt.",
+  "beispielsatz": "Der Autor hat ein spannendes Kinderbuch geschrieben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Au-tor\". Am Ende hörst du ein helles „o\" – schreib es einfach so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Autor"
+  ],
+  "bild_datei": "Autor.webp",
+  "audio_datei": "Autor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "author"
+    },
+    {
+      "language_code": "fr",
+      "translation": "auteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مؤلف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Autorin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Autorschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schriftsteller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Autor",
+    "plural": "die Autoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Autor",
+        "genitiv": "des Autors",
+        "dativ": "dem Autor",
+        "akkusativ": "den Autor"
+      },
+      "plural": {
+        "nominativ": "die Autoren",
+        "genitiv": "der Autoren",
+        "dativ": "den Autoren",
+        "akkusativ": "die Autoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Auktor",
+    "Autoor",
+    "Autor",
+    "Auther",
+    "Authur"
+  ]
+}

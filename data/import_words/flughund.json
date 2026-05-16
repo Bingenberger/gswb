@@ -1,0 +1,85 @@
+{
+  "lemma": "Flughund",
+  "wortart": "Nomen",
+  "silben": "Flug-hund",
+  "begriffserklaerung": "Ein Flughund ist ein großes Fledertier, das wie eine Fledermaus aussieht. Er hat lange Flügel aus Haut und lebt vor allem in warmen Ländern. Flughunde fressen meistens Früchte.",
+  "beispielsatz": "Der Flughund hängt tagsüber kopfüber an einem Ast und schläft.",
+  "rechtschreibstrategie": "Das Wort „Flughund\" ist zusammengesetzt aus „Flug\" und „Hund\". Sprich beide Teile laut: FLUG + HUND. Das „d\" am Ende hörst du beim Verlängern: Flug-hun-de → das „d\" bleibt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fliegen",
+    "Hund"
+  ],
+  "bild_datei": "Flughund.webp",
+  "audio_datei": "Flughund.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flughund",
+    "plural": "die Flughunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flughund",
+        "genitiv": "des Flughundes",
+        "dativ": "dem Flughund",
+        "akkusativ": "den Flughund"
+      },
+      "plural": {
+        "nominativ": "die Flughunde",
+        "genitiv": "der Flughunde",
+        "dativ": "den Flughunden",
+        "akkusativ": "die Flughunde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flying fox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roussette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçan tilki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خفاش الفاكهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fledermaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flukhund",
+    "Fluckhund",
+    "Flughundt",
+    "Flughunt",
+    "Flughumd",
+    "Fluughund"
+  ]
+}

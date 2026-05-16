@@ -1,0 +1,84 @@
+{
+  "lemma": "Ballspiel",
+  "wortart": "Nomen",
+  "silben": "Ball-spiel",
+  "beispielsatz": "Auf dem Schulhof machen wir jeden Tag ein lustiges Ballspiel.",
+  "begriffserklaerung": "Ein Ballspiel ist ein Spiel, bei dem man einen Ball benutzt, zum Beispiel Fußball oder Basketball.",
+  "rechtschreibstrategie": "Das Wort „Ballspiel\" besteht aus zwei Teilen: „Ball\" und „Spiel\". Bei „Ball\" hörst du den kurzen Vokal „a\" – deshalb schreibt man zwei „l\". Sprich beide Teile einzeln, dann kannst du das Wort gut schreiben!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Ball",
+    "Spiel"
+  ],
+  "bild_datei": "Ballspiel.webp",
+  "audio_datei": "Ballspiel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ball game"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeu de ballon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "top oyunu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة الكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ballsport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ballspiel",
+    "plural": "die Ballspiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ballspiel",
+        "genitiv": "des Ballspiels",
+        "dativ": "dem Ballspiel",
+        "akkusativ": "das Ballspiel"
+      },
+      "plural": {
+        "nominativ": "die Ballspiele",
+        "genitiv": "der Ballspiele",
+        "dativ": "den Ballspielen",
+        "akkusativ": "die Ballspiele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Balspiel",
+    "Ballspil",
+    "Ballspiell",
+    "Ballschpiel",
+    "Balspill"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Helfer",
+  "wortart": "Nomen",
+  "silben": "Hel-fer",
+  "begriffserklaerung": "Ein Helfer ist jemand, der anderen Menschen hilft und sie unterstützt.",
+  "beispielsatz": "Der freundliche Helfer hat dem kleinen Mädchen den Weg gezeigt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Hel-fer. Höre das doppelte „l\" – es zeigt dir, dass das „e\" davor kurz gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "helfen"
+  ],
+  "bild_datei": "Helfer.webp",
+  "audio_datei": "Helfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "helper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assistant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yardımcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterstützer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehrmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sanitäter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freiwilliger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Helfer",
+    "plural": "die Helfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Helfer",
+        "genitiv": "des Helfers",
+        "dativ": "dem Helfer",
+        "akkusativ": "den Helfer"
+      },
+      "plural": {
+        "nominativ": "die Helfer",
+        "genitiv": "der Helfer",
+        "dativ": "den Helfern",
+        "akkusativ": "die Helfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Helffer",
+    "Hälfer",
+    "Helfer",
+    "Hellfer",
+    "Hälfär",
+    "Helfär"
+  ]
+}

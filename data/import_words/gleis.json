@@ -1,0 +1,79 @@
+{
+  "lemma": "Gleis",
+  "wortart": "Nomen",
+  "silben": "Gleis",
+  "begriffserklaerung": "Ein Gleis ist eine Schiene aus Metall, auf der Züge, Straßenbahnen oder U-Bahnen fahren. Gleise liegen immer paarweise nebeneinander.",
+  "beispielsatz": "Der Zug fährt langsam auf das Gleis ein.",
+  "rechtschreibstrategie": "Das Wort „Gleis\" endet auf -eis. Schreibe es mit ei und s – nicht mit ß! Denke daran: Glei-s!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Gleis"
+  ],
+  "bild_datei": "Gleis.webp",
+  "audio_datei": "Gleis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "track"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voie ferrée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ray"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قضيب السكة الحديدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gleisanlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnsteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiene"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gleis",
+    "plural": "die Gleise",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gleis",
+        "genitiv": "des Gleises",
+        "dativ": "dem Gleis",
+        "akkusativ": "das Gleis"
+      },
+      "plural": {
+        "nominativ": "die Gleise",
+        "genitiv": "der Gleise",
+        "dativ": "den Gleisen",
+        "akkusativ": "die Gleise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gleiß",
+    "Gleis",
+    "Glajs",
+    "Gleiss",
+    "Glais",
+    "Kgleis"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Zündung",
+  "wortart": "Nomen",
+  "silben": "Zün-dung",
+  "begriffserklaerung": "Die Zündung ist der Vorgang, bei dem etwas in Brand gesetzt oder ein Motor gestartet wird. Bei einem Auto sorgt die Zündung dafür, dass der Motor anspringt.",
+  "beispielsatz": "Papa dreht den Schlüssel um, und die Zündung startet den Motor.",
+  "rechtschreibstrategie": "Denk an das Verb „zünden\" – davon kommt „Zündung\". Das ü klingt kurz, aber es gibt hier keine Doppelung, weil das „nd\" schon zwei Konsonanten sind. Leite das Wort von „zünden\" ab!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zünd"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zündung",
+    "plural": "die Zündungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zündung",
+        "genitiv": "der Zündung",
+        "dativ": "der Zündung",
+        "akkusativ": "die Zündung"
+      },
+      "plural": {
+        "nominativ": "die Zündungen",
+        "genitiv": "der Zündungen",
+        "dativ": "den Zündungen",
+        "akkusativ": "die Zündungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zünduing",
+    "Zünndung",
+    "Züngdung",
+    "Zienduung",
+    "Zündunk"
+  ],
+  "bild_datei": "Zündung.webp",
+  "audio_datei": "Zündung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ignition"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateşleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشعال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zünden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zündstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Start"
+    }
+  ]
+}

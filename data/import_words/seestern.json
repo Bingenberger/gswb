@@ -1,0 +1,84 @@
+{
+  "lemma": "Seestern",
+  "wortart": "Nomen",
+  "silben": "See-stern",
+  "begriffserklaerung": "Ein Seestern ist ein Meerestier mit meist fünf Armen, das wie ein Stern aussieht und auf dem Meeresgrund lebt.",
+  "beispielsatz": "Am Strand haben wir einen bunten Seestern im flachen Wasser entdeckt.",
+  "rechtschreibstrategie": "„Seestern\" ist ein zusammengesetztes Wort aus „See\" und „Stern\". Sprich beide Teile einzeln: SEE + STERN – so schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Stern"
+  ],
+  "bild_datei": "Seestern.webp",
+  "audio_datei": "Seestern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "starfish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étoile de mer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denizyıldızı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجم البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krabbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Muschel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tintenfisch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seestern",
+    "plural": "die Seesterne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seestern",
+        "genitiv": "des Seesterns",
+        "dativ": "dem Seestern",
+        "akkusativ": "den Seestern"
+      },
+      "plural": {
+        "nominativ": "die Seesterne",
+        "genitiv": "der Seesterne",
+        "dativ": "den Seesternen",
+        "akkusativ": "die Seesterne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Seestern",
+    "Seästern",
+    "Sehstern",
+    "Seesternn",
+    "Zestern",
+    "Seesätern"
+  ]
+}

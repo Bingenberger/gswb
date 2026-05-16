@@ -1,0 +1,86 @@
+{
+  "lemma": "Mund",
+  "wortart": "Nomen",
+  "silben": "Mund",
+  "begriffserklaerung": "Der Mund ist die Öffnung im Gesicht, mit der du isst, trinkst und sprichst.",
+  "beispielsatz": "Ich öffne den Mund weit, damit der Arzt meine Zähne sehen kann.",
+  "rechtschreibstrategie": "Wenn du „Mund\" verlängerst, sagst du „Mün-der\" – da hörst du das d am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "mund"
+  ],
+  "bild_datei": "Mund.webp",
+  "audio_datei": "Mund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mouth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mundlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mundart"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mundstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lippe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mund",
+    "plural": "die Münder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mund",
+        "genitiv": "des Mundes",
+        "dativ": "dem Mund",
+        "akkusativ": "den Mund"
+      },
+      "plural": {
+        "nominativ": "die Münder",
+        "genitiv": "der Münder",
+        "dativ": "den Mündern",
+        "akkusativ": "die Münder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Munt",
+    "Mundt",
+    "Mound",
+    "Mund",
+    "Mont"
+  ]
+}

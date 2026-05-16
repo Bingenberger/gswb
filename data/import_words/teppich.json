@@ -1,0 +1,78 @@
+{
+  "lemma": "Teppich",
+  "wortart": "Nomen",
+  "silben": "Tep-pich",
+  "begriffserklaerung": "Ein Teppich ist ein dicker, weicher Bodenbelag aus Wolle oder anderen Fasern, der in Zimmern auf den Boden gelegt wird.",
+  "beispielsatz": "Der bunte Teppich im Wohnzimmer ist sehr weich und kuschelig.",
+  "rechtschreibstrategie": "Trenne das Wort in Silben: Tep-pich. Nach dem kurzen „e\" kommt ein Doppel-p. So erkennst du, dass du zwei p schreibst.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Teppich"
+  ],
+  "bild_datei": "Teppich.webp",
+  "audio_datei": "Teppich.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carpet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tapis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "halı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سجادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teppichboden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorhang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußmatte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Läufer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teppich",
+    "plural": "die Teppiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teppich",
+        "genitiv": "des Teppichs",
+        "dativ": "dem Teppich",
+        "akkusativ": "den Teppich"
+      },
+      "plural": {
+        "nominativ": "die Teppiche",
+        "genitiv": "der Teppiche",
+        "dativ": "den Teppichen",
+        "akkusativ": "die Teppiche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tepich",
+    "Teppig",
+    "Tepig",
+    "Teppisch",
+    "Tebich"
+  ]
+}

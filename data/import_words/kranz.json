@@ -1,0 +1,82 @@
+{
+  "lemma": "Kranz",
+  "wortart": "Nomen",
+  "silben": "Kranz",
+  "begriffserklaerung": "Ein Kranz ist ein runder Ring aus Zweigen, Blumen oder Blättern. Man hängt ihn als Schmuck auf oder legt ihn auf etwas drauf.",
+  "beispielsatz": "Zu Weihnachten hängt Mama einen schönen Kranz aus Tannenzweigen an die Tür.",
+  "rechtschreibstrategie": "Wenn du „Kränze\" sagst, hörst du das „z\" am Ende deutlich. Daher schreibt man „Kranz\" mit z – nicht mit s!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kranz"
+  ],
+  "bild_datei": "Kranz.webp",
+  "audio_datei": "Kranz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wreath"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couronne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çelenk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إكليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bekränzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kränzchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Girlande"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blumenstrauß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ring"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kranz",
+    "plural": "die Kränze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kranz",
+        "genitiv": "des Kranzes",
+        "dativ": "dem Kranz",
+        "akkusativ": "den Kranz"
+      },
+      "plural": {
+        "nominativ": "die Kränze",
+        "genitiv": "der Kränze",
+        "dativ": "den Kränzen",
+        "akkusativ": "die Kränze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Crans",
+    "Krans",
+    "Cranz",
+    "Krantz",
+    "Krannz"
+  ]
+}

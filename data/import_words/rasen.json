@@ -1,0 +1,82 @@
+{
+  "lemma": "Rasen",
+  "wortart": "Nomen",
+  "silben": "Ra-sen",
+  "begriffserklaerung": "Der Rasen ist eine Fläche, auf der ganz viel kurzes, grünes Gras wächst. Man findet ihn im Garten, im Park oder auf einem Fußballfeld.",
+  "beispielsatz": "Die Kinder spielen barfuß auf dem weichen Rasen im Garten.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ra – sen. Nach dem langen „a\" kommt nur ein „s\" – kein Doppel-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Rasen"
+  ],
+  "bild_datei": "Rasen.webp",
+  "audio_datei": "Rasen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lawn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pelouse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çimen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rasenmähen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rasenmäher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wiese"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rasen",
+    "plural": "die Rasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rasen",
+        "genitiv": "des Rasens",
+        "dativ": "dem Rasen",
+        "akkusativ": "den Rasen"
+      },
+      "plural": {
+        "nominativ": "die Rasen",
+        "genitiv": "der Rasen",
+        "dativ": "den Rasen",
+        "akkusativ": "die Rasen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rassen",
+    "Raßen",
+    "Razen",
+    "Rasenn",
+    "Rahsen"
+  ]
+}

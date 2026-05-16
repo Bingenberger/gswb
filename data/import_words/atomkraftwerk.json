@@ -1,0 +1,89 @@
+{
+  "lemma": "Atomkraftwerk",
+  "wortart": "Nomen",
+  "silben": "A-tom-kraft-werk",
+  "begriffserklaerung": "Ein Atomkraftwerk ist eine sehr große Fabrik, die aus der Energie von winzigen Teilchen (Atomen) Strom erzeugt. Dabei entsteht auch gefährlicher Abfall, der lange aufbewahrt werden muss.",
+  "beispielsatz": "Das Atomkraftwerk am Fluss liefert Strom für viele Haushalte.",
+  "rechtschreibstrategie": "Das Wort „Atomkraftwerk\" ist aus drei Teilen zusammengesetzt: „Atom\" + „Kraft\" + „Werk\". Sprich alle drei Teile nacheinander laut: A-tom – kraft – werk. Achte darauf, dass „Kraft\" mit „ft\" endet und kein „d\" hat!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Atom",
+    "Kraft",
+    "Werk"
+  ],
+  "bild_datei": "Atomkraftwerk.webp",
+  "audio_datei": "Atomkraftwerk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Atomkraftwerk",
+    "plural": "die Atomkraftwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Atomkraftwerk",
+        "genitiv": "des Atomkraftwerks",
+        "dativ": "dem Atomkraftwerk",
+        "akkusativ": "das Atomkraftwerk"
+      },
+      "plural": {
+        "nominativ": "die Atomkraftwerke",
+        "genitiv": "der Atomkraftwerke",
+        "dativ": "den Atomkraftwerken",
+        "akkusativ": "die Atomkraftwerke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nuclear power plant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centrale nucléaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nükleer enerji santrali"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة الطاقة النووية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Atom"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraftwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Atomkrafwerk",
+    "Atomkraftwerc",
+    "Atomkrafftwerk",
+    "Atoomkraftwerk",
+    "Atomkratwerk",
+    "Atomkraftwerck"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Seite",
+  "wortart": "Nomen",
+  "silben": "Sei-te",
+  "begriffserklaerung": "Eine Seite ist eine der beiden Flächen eines Blattes Papier. Das Wort kann auch die rechte oder linke Richtung bedeuten.",
+  "beispielsatz": "Lies bitte die erste Seite des Buches!",
+  "rechtschreibstrategie": "Das „ei\" in „Seite\" sprichst du wie in „Ei\" – merk dir: Ein Ei liegt auf der Seite!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "seit",
+    "Seite"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Seite",
+    "plural": "die Seiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Seite",
+        "genitiv": "der Seite",
+        "dativ": "der Seite",
+        "akkusativ": "die Seite"
+      },
+      "plural": {
+        "nominativ": "die Seiten",
+        "genitiv": "der Seiten",
+        "dativ": "den Seiten",
+        "akkusativ": "die Seiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Seitte",
+    "Saite",
+    "Seide",
+    "Seyte",
+    "Seite"
+  ],
+  "bild_datei": "Seite.webp",
+  "audio_datei": "Seite.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "page / side"
+    },
+    {
+      "language_code": "fr",
+      "translation": "page / côté"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sayfa / taraf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صفحة / جانب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "seitlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beiseite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blatt"
+    }
+  ]
+}

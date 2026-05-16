@@ -1,0 +1,82 @@
+{
+  "lemma": "Advent",
+  "wortart": "Nomen",
+  "silben": "Ad-vent",
+  "begriffserklaerung": "Der Advent ist die Zeit vor Weihnachten. Sie dauert vier Wochen und beginnt am ersten Adventssonntag.",
+  "beispielsatz": "Im Advent zünden wir jede Woche eine Kerze am Adventskranz an.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich: Ad-vent. Am Ende hörst du ein weiches „d\" – schreibe es trotzdem mit „d\": A-d-v-e-n-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Advent"
+  ],
+  "bild_datei": "Advent.webp",
+  "audio_datei": "Advent.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Advent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Avent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Advent"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أدفنت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Adventskranz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Adventskalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dezember"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Advent",
+    "plural": "die Advente",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Advent",
+        "genitiv": "des Advents",
+        "dativ": "dem Advent",
+        "akkusativ": "den Advent"
+      },
+      "plural": {
+        "nominativ": "die Advente",
+        "genitiv": "der Advente",
+        "dativ": "den Adventen",
+        "akkusativ": "die Advente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Afent",
+    "Adwent",
+    "Addvent",
+    "Adfent",
+    "Adwvent"
+  ]
+}

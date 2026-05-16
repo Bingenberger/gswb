@@ -1,0 +1,95 @@
+{
+  "lemma": "fegen",
+  "wortart": "Verb",
+  "silben": "fe-gen",
+  "begriffserklaerung": "Fegen bedeutet, den Boden mit einem Besen sauber zu machen, indem man den Schmutz zusammenkehrt.",
+  "beispielsatz": "Mama fegt die Küche, weil Krümel auf dem Boden liegen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „fe-gen\". Du hörst ein weiches „g\" am Ende. Denk daran: „fegen\" – du „fe-gst\", also bleibt das „g\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "feg"
+  ],
+  "bild_datei": "fegen.webp",
+  "audio_datei": "fegen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sweep"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balayer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süpürmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kehren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kehren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kehren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "fegen",
+    "praesens": {
+      "ich": "fege",
+      "du": "fegst",
+      "er_sie_es": "fegt",
+      "wir": "fegen",
+      "ihr": "fegt",
+      "sie": "fegen"
+    },
+    "perfekt": {
+      "ich": "habe gefegt",
+      "du": "hast gefegt",
+      "er_sie_es": "hat gefegt",
+      "wir": "haben gefegt",
+      "ihr": "habt gefegt",
+      "sie": "haben gefegt"
+    },
+    "praeteritum": {
+      "ich": "fegte",
+      "du": "fegtest",
+      "er_sie_es": "fegte",
+      "wir": "fegten",
+      "ihr": "fegtet",
+      "sie": "fegten"
+    }
+  },
+  "fehlschreibungen": [
+    "fegen",
+    "fehgen",
+    "veegen",
+    "feegen",
+    "feggen",
+    "fägen"
+  ]
+}

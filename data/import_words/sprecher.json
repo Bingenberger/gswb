@@ -1,0 +1,86 @@
+{
+  "lemma": "Sprecher",
+  "wortart": "Nomen",
+  "silben": "Spre-cher",
+  "begriffserklaerung": "Ein Sprecher ist jemand, der vor anderen Menschen laut und deutlich spricht, zum Beispiel im Radio, im Fernsehen oder in der Schule.",
+  "beispielsatz": "Der Sprecher im Radio sagt uns, wie das Wetter morgen wird.",
+  "rechtschreibstrategie": "Denk an das Verb „sprechen\" – daraus wird „Sprecher\". Du hörst beide Wörter: SPRECH-en → SPRECH-er.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sprech"
+  ],
+  "bild_datei": "Sprecher.webp",
+  "audio_datei": "Sprecher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sprecher",
+    "plural": "die Sprecher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sprecher",
+        "genitiv": "des Sprechers",
+        "dativ": "dem Sprecher",
+        "akkusativ": "den Sprecher"
+      },
+      "plural": {
+        "nominativ": "die Sprecher",
+        "genitiv": "der Sprecher",
+        "dativ": "den Sprechern",
+        "akkusativ": "die Sprecher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "speaker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "présentateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konuşmacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُتَحَدِّث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Redner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Moderator"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachrichten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spreeker",
+    "Schprecher",
+    "Spracher",
+    "Sprächer",
+    "Sprecer"
+  ]
+}

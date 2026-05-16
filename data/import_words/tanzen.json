@@ -1,0 +1,98 @@
+{
+  "lemma": "tanzen",
+  "wortart": "Verb",
+  "silben": "tan-zen",
+  "begriffserklaerung": "Tanzen bedeutet, sich zur Musik rhythmisch zu bewegen. Man bewegt dabei den Körper und die Beine im Takt.",
+  "beispielsatz": "Lena tanzt fröhlich zur Musik auf der Bühne.",
+  "rechtschreibstrategie": "Das Wort „tanzen\" endet auf -zen. Nach dem kurzen „a\" kommt tz – das erkennt man gut, wenn man „Tanz\" verlängert: Tanz → tanzen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tanz"
+  ],
+  "bild_datei": "tanzen.webp",
+  "audio_datei": "tanzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to dance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "danser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dans etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرقص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tanz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tänzer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tänzerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich bewegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "singen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "springen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "tanzen",
+    "praesens": {
+      "ich": "tanze",
+      "du": "tanzt",
+      "er_sie_es": "tanzt",
+      "wir": "tanzen",
+      "ihr": "tanzt",
+      "sie": "tanzen"
+    },
+    "perfekt": {
+      "ich": "habe getanzt",
+      "du": "hast getanzt",
+      "er_sie_es": "hat getanzt",
+      "wir": "haben getanzt",
+      "ihr": "habt getanzt",
+      "sie": "haben getanzt"
+    },
+    "praeteritum": {
+      "ich": "tanzte",
+      "du": "tanztest",
+      "er_sie_es": "tanzte",
+      "wir": "tanzten",
+      "ihr": "tanztet",
+      "sie": "tanzten"
+    }
+  },
+  "fehlschreibungen": [
+    "danzen",
+    "tanzten",
+    "tantzen",
+    "tancen",
+    "tanssen"
+  ]
+}

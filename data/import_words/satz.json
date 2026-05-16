@@ -1,0 +1,87 @@
+{
+  "lemma": "Satz",
+  "wortart": "Nomen",
+  "silben": "Satz",
+  "begriffserklaerung": "Ein Satz ist eine Gruppe von Wörtern, die zusammen eine vollständige Aussage, eine Frage oder eine Aufforderung ergeben. Er beginnt mit einem großen Buchstaben und endet mit einem Satzzeichen.",
+  "beispielsatz": "Die Lehrerin liest den Satz laut vor.",
+  "rechtschreibstrategie": "Das Wort „Satz\" hat nach dem kurzen „a\" ein „tz\" – das zeigt dir, dass der Vokal kurz gesprochen wird. Merke: kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "satz",
+    "setz"
+  ],
+  "bild_datei": "Satz.webp",
+  "audio_datei": "Satz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Satz",
+    "plural": "die Sätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Satz",
+        "genitiv": "des Satzes",
+        "dativ": "dem Satz",
+        "akkusativ": "den Satz"
+      },
+      "plural": {
+        "nominativ": "die Sätze",
+        "genitiv": "der Sätze",
+        "dativ": "den Sätzen",
+        "akkusativ": "die Sätze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sentence"
+    },
+    {
+      "language_code": "fr",
+      "translation": "phrase"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cümle"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جُملة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "setzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Absatz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufsatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Text"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aussage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Saz",
+    "Sats",
+    "Sattz",
+    "Saatz",
+    "Ssatz"
+  ]
+}

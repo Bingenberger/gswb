@@ -1,0 +1,91 @@
+{
+  "lemma": "einnehmen",
+  "wortart": "Verb",
+  "silben": "ein-neh-men",
+  "begriffserklaerung": "Etwas einnehmen bedeutet, ein Medikament zu schlucken oder einen Platz zu besetzen.",
+  "beispielsatz": "Der kranke Junge muss jeden Morgen seine Tablette einnehmen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „ein\" und „nehmen\". Schreibe beide Teile zusammen: einnehmen. Achte auf das doppelte n in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "nehm"
+  ],
+  "bild_datei": "einnehmen.webp",
+  "audio_datei": "einnehmen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "einnehmen",
+    "praesens": {
+      "ich": "nehme ein",
+      "du": "nimmst ein",
+      "er_sie_es": "nimmt ein",
+      "wir": "nehmen ein",
+      "ihr": "nehmt ein",
+      "sie": "nehmen ein"
+    },
+    "perfekt": {
+      "ich": "habe eingenommen",
+      "du": "hast eingenommen",
+      "er_sie_es": "hat eingenommen",
+      "wir": "haben eingenommen",
+      "ihr": "habt eingenommen",
+      "sie": "haben eingenommen"
+    },
+    "praeteritum": {
+      "ich": "nahm ein",
+      "du": "nahmst ein",
+      "er_sie_es": "nahm ein",
+      "wir": "nahmen ein",
+      "ihr": "nahmt ein",
+      "sie": "nahmen ein"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to take (in)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prendre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "almak / içmek (ilaç)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يأخذ (دواءً) / يشغل (مكانًا)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einnahme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schlucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medikament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablette"
+    }
+  ],
+  "fehlschreibungen": [
+    "einehmen",
+    "einenehmen",
+    "einnemen",
+    "einhnehmen",
+    "einnehmen"
+  ]
+}

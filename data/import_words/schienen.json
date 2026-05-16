@@ -1,0 +1,78 @@
+{
+  "lemma": "Schienen",
+  "wortart": "Nomen",
+  "silben": "Schie-nen",
+  "begriffserklaerung": "Schienen sind lange, glatte Metallstäbe, auf denen Züge und Straßenbahnen fahren. Sie liegen paarweise auf dem Boden und bilden zusammen ein Gleis.",
+  "beispielsatz": "Der Zug rollt schnell über die glänzenden Schienen.",
+  "rechtschreibstrategie": "In „Schienen\" steckt das lange „ie\" – sprich es deutlich: schi-ie-nen. Das „ie\" schreibt man mit i und e, nicht nur mit i.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Schiene"
+  ],
+  "bild_datei": "Schienen.webp",
+  "audio_datei": "Schienen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rails"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rails"
+    },
+    {
+      "language_code": "tr",
+      "translation": "raylar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قضبان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schiene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gleis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schiene",
+    "plural": "die Schienen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schiene",
+        "genitiv": "der Schiene",
+        "dativ": "der Schiene",
+        "akkusativ": "die Schiene"
+      },
+      "plural": {
+        "nominativ": "die Schienen",
+        "genitiv": "der Schienen",
+        "dativ": "den Schienen",
+        "akkusativ": "die Schienen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schinen",
+    "Schiennen",
+    "Schihnen",
+    "Schynen",
+    "Schiehnen"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Versteck",
+  "wortart": "Nomen",
+  "silben": "Ver-steck",
+  "begriffserklaerung": "Ein Versteck ist ein Ort, an dem man sich oder etwas verbirgt, sodass andere es nicht finden können.",
+  "beispielsatz": "Das Eichhörnchen hat sein Versteck voller Nüsse im hohlen Baum.",
+  "rechtschreibstrategie": "Höre das kurze „e\" vor dem „ck\" – nach einem kurzen Vokal schreibt man immer „ck\" statt „k\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "steck",
+    "versteck"
+  ],
+  "bild_datei": "Versteck.webp",
+  "audio_datei": "Versteck.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Versteck",
+    "plural": "die Verstecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Versteck",
+        "genitiv": "des Verstecks",
+        "dativ": "dem Versteck",
+        "akkusativ": "das Versteck"
+      },
+      "plural": {
+        "nominativ": "die Verstecke",
+        "genitiv": "der Verstecke",
+        "dativ": "den Verstecken",
+        "akkusativ": "die Verstecke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hiding place"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cachette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saklanma yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخبأ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verstecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versteckt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlupfwinkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geheimnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versteckspiel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fersteck",
+    "Verstekk",
+    "Verstec",
+    "Verstäck",
+    "Verstehck"
+  ]
+}

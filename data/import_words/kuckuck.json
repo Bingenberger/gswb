@@ -1,0 +1,74 @@
+{
+  "lemma": "Kuckuck",
+  "wortart": "Nomen",
+  "silben": "Kuk-kuck",
+  "begriffserklaerung": "Der Kuckuck ist ein Vogel, der seinen eigenen Namen ruft: „Ku-kuck!\" Er legt seine Eier in die Nester anderer Vögel.",
+  "beispielsatz": "Im Frühling höre ich den Kuckuck im Wald rufen.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt „ck\" – das ist das Kürzezeichen. Schreibe also „Kuckuck\" mit „ck\" in der Mitte und am Ende.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kuckuck"
+  ],
+  "bild_datei": "Kuckuck.webp",
+  "audio_datei": "Kuckuck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cuckoo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coucou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "guguk kuşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقواق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kuckuck",
+    "plural": "die Kuckucke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kuckuck",
+        "genitiv": "des Kuckucks",
+        "dativ": "dem Kuckuck",
+        "akkusativ": "den Kuckuck"
+      },
+      "plural": {
+        "nominativ": "die Kuckucke",
+        "genitiv": "der Kuckucke",
+        "dativ": "den Kuckucken",
+        "akkusativ": "die Kuckucke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kukuck",
+    "Kuckkuck",
+    "Kuckuk",
+    "Cuckuck",
+    "Kukuk"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Spieler",
+  "wortart": "Nomen",
+  "silben": "Spie-ler",
+  "begriffserklaerung": "Ein Spieler ist eine Person, die an einem Spiel teilnimmt – zum Beispiel beim Fußball, beim Brettspiel oder am Computer.",
+  "beispielsatz": "Der Spieler schießt den Ball direkt ins Tor.",
+  "rechtschreibstrategie": "Denk an das Wort „spielen\" – davon kommt „Spieler\". Sprich es laut: Spie-ler. Das „ie\" klingt lang, deshalb schreibst du ie und nicht nur i.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spiel"
+  ],
+  "bild_datei": "Spieler.webp",
+  "audio_datei": "Spieler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spieler",
+    "plural": "die Spieler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spieler",
+        "genitiv": "des Spielers",
+        "dativ": "dem Spieler",
+        "akkusativ": "den Spieler"
+      },
+      "plural": {
+        "nominativ": "die Spieler",
+        "genitiv": "der Spieler",
+        "dativ": "den Spielern",
+        "akkusativ": "die Spieler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "player"
+    },
+    {
+      "language_code": "fr",
+      "translation": "joueur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لاعب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spielen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teilnehmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trainer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spiler",
+    "Spieller",
+    "Spieeler",
+    "Spiela"
+  ]
+}

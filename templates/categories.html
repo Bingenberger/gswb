@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Rechtschreibkategorien | Grundschul-Wörterbuch{% endblock %}
+
+{% block content %}
+<article class="word-page">
+    <section class="card detail-card card-accent">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/pencil-line.svg') }}" alt="">
+            <h1 style="font-size: 1.6rem;">Rechtschreibkategorien</h1>
+        </div>
+        <p class="muted-hint">Klicke auf eine Kategorie, um alle Wörter dieser Kategorie zu sehen.</p>
+        {% if categories %}
+        <ul class="categories-index-list">
+            {% for cat in categories %}
+            <li class="categories-index-item">
+                <a class="categories-index-link" href="{{ url_for('main.category_words', category=cat.category) }}">
+                    <span class="categories-index-name">{{ cat.category }}</span>
+                    <span class="categories-index-count">{{ cat.word_count }} Wörter</span>
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p class="muted">Noch keine Kategorien vorhanden.</p>
+        {% endif %}
+    </section>
+</article>
+{% endblock %}

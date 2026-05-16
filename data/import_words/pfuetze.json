@@ -1,0 +1,78 @@
+{
+  "lemma": "Pfütze",
+  "wortart": "Nomen",
+  "silben": "Pfüt-ze",
+  "begriffserklaerung": "Eine Pfütze ist eine kleine Ansammlung von Wasser auf dem Boden, die meist nach dem Regen entsteht.",
+  "beispielsatz": "Nach dem Regen hüpfte Leon fröhlich durch jede Pfütze auf dem Schulweg.",
+  "rechtschreibstrategie": "In „Pfütze\" hörst du ein kurzes „ü\". Nach einem kurzen Vokal schreibt man „tz\" – deshalb: Pfüt-ze!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Pfütz"
+  ],
+  "bild_datei": "Pfütze.webp",
+  "audio_datei": "Pfütze.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pfütze",
+    "plural": "die Pfützen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pfütze",
+        "genitiv": "der Pfütze",
+        "dativ": "der Pfütze",
+        "akkusativ": "die Pfütze"
+      },
+      "plural": {
+        "nominativ": "die Pfützen",
+        "genitiv": "der Pfützen",
+        "dativ": "den Pfützen",
+        "akkusativ": "die Pfützen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "puddle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flaque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su birikintisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بركة ماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pfützenreich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfad"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lache"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pfütse",
+    "Pfüze",
+    "Pfütze",
+    "Pfüttze",
+    "Pfützze"
+  ]
+}

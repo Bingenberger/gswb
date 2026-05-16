@@ -1,0 +1,86 @@
+{
+  "lemma": "Muster",
+  "wortart": "Nomen",
+  "silben": "Mus-ter",
+  "begriffserklaerung": "Ein Muster ist eine Vorlage oder ein sich wiederholendes Bild, das zeigt, wie etwas aussehen oder gemacht werden soll.",
+  "beispielsatz": "Das Kleid hat ein schönes buntes Muster aus Blumen und Sternen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Mus-ter. Das „s\" und das „t\" gehören zu verschiedenen Silben – schreib beide!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Muster"
+  ],
+  "bild_datei": "Muster.webp",
+  "audio_datei": "Muster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pattern"
+    },
+    {
+      "language_code": "fr",
+      "translation": "modèle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "desen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نمط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mustern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Musterbuch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Farbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Muster",
+    "plural": "die Muster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Muster",
+        "genitiv": "des Musters",
+        "dativ": "dem Muster",
+        "akkusativ": "das Muster"
+      },
+      "plural": {
+        "nominativ": "die Muster",
+        "genitiv": "der Muster",
+        "dativ": "den Mustern",
+        "akkusativ": "die Muster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mußter",
+    "Musster",
+    "Muter",
+    "Mustar",
+    "Muster"
+  ]
+}

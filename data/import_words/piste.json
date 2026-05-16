@@ -1,0 +1,73 @@
+{
+  "lemma": "Piste",
+  "wortart": "Nomen",
+  "silben": "Pis-te",
+  "begriffserklaerung": "Eine Piste ist eine lange, glatte Strecke, auf der man zum Beispiel Ski fahren oder Flugzeuge landen kann.",
+  "beispielsatz": "Im Winter fahren wir auf der verschneiten Piste Ski.",
+  "rechtschreibstrategie": "Das Wort „Piste\" endet auf -e. Das s in der Mitte wird einfach geschrieben, weil der Vokal davor lang klingt: Pi-ste.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Piste.webp",
+  "audio_datei": "Piste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slope / runway"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pist"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار / مدرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ski"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Piste",
+    "plural": "die Pisten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Piste",
+        "genitiv": "der Piste",
+        "dativ": "der Piste",
+        "akkusativ": "die Piste"
+      },
+      "plural": {
+        "nominativ": "die Pisten",
+        "genitiv": "der Pisten",
+        "dativ": "den Pisten",
+        "akkusativ": "die Pisten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Biste",
+    "Pieste",
+    "Pißte",
+    "Piste",
+    "Pist",
+    "Pizzte"
+  ]
+}

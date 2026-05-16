@@ -1,0 +1,88 @@
+{
+  "lemma": "Bescheid",
+  "wortart": "Nomen",
+  "silben": "Be-scheid",
+  "begriffserklaerung": "Eine Nachricht oder Antwort, die jemandem sagt, was er wissen muss.",
+  "beispielsatz": "Die Lehrerin gibt uns Bescheid, wann der Ausflug stattfindet.",
+  "rechtschreibstrategie": "Denke an das Wort „scheiden\" – darin steckt das „ei\" und das „sch\". So schreibst du „Bescheid\" richtig!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "scheid"
+  ],
+  "bild_datei": "Bescheid.webp",
+  "audio_datei": "Bescheid.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bescheid",
+    "plural": "die Bescheide",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bescheid",
+        "genitiv": "des Bescheids",
+        "dativ": "dem Bescheid",
+        "akkusativ": "den Bescheid"
+      },
+      "plural": {
+        "nominativ": "die Bescheide",
+        "genitiv": "der Bescheide",
+        "dativ": "den Bescheiden",
+        "akkusativ": "die Bescheide"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "notice / information"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avis / notification"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilgi / haber"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشعار / إخطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bescheiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entscheiden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitteilung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Information"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bescheit",
+    "Besceid",
+    "Beshceid",
+    "Beschaid",
+    "Beschied"
+  ]
+}

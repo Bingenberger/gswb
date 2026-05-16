@@ -1,0 +1,91 @@
+{
+  "lemma": "geboren",
+  "wortart": "Verb",
+  "silben": "ge-bo-ren",
+  "begriffserklaerung": "„Geboren\" bedeutet, dass ein Mensch oder ein Tier auf die Welt gekommen ist. Jeder Mensch hat einen Geburtstag – das ist der Tag, an dem er geboren wurde.",
+  "beispielsatz": "Meine kleine Schwester wurde im Frühling geboren.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ge-bo-ren. Nach dem langen „o\" kommt nur ein „r\" – du brauchst kein Doppel-r!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "gebären",
+    "Geburt"
+  ],
+  "bild_datei": "geboren.webp",
+  "audio_datei": "geboren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "born"
+    },
+    {
+      "language_code": "fr",
+      "translation": "né / née"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وُلِدَ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zur Welt kommen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "werden geboren / gebären",
+    "praesens": {
+      "ich": "werde geboren",
+      "du": "wirst geboren",
+      "er_sie_es": "wird geboren",
+      "wir": "werden geboren",
+      "ihr": "werdet geboren",
+      "sie": "werden geboren"
+    },
+    "perfekt": {
+      "ich": "bin geboren worden",
+      "du": "bist geboren worden",
+      "er_sie_es": "ist geboren worden",
+      "wir": "sind geboren worden",
+      "ihr": "seid geboren worden",
+      "sie": "sind geboren worden"
+    },
+    "praeteritum": {
+      "ich": "wurde geboren",
+      "du": "wurdest geboren",
+      "er_sie_es": "wurde geboren",
+      "wir": "wurden geboren",
+      "ihr": "wurdet geboren",
+      "sie": "wurden geboren"
+    }
+  },
+  "fehlschreibungen": [
+    "geborren",
+    "gebohren",
+    "gebuoren",
+    "gebboren",
+    "geborän"
+  ]
+}

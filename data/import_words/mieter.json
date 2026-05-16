@@ -1,0 +1,85 @@
+{
+  "lemma": "Mieter",
+  "wortart": "Nomen",
+  "silben": "Mie-ter",
+  "begriffserklaerung": "Ein Mieter ist eine Person, die in einer Wohnung oder einem Haus wohnt und dafür jeden Monat Geld bezahlt – die Miete.",
+  "beispielsatz": "Der Mieter klingelt beim Vermieter, weil die Heizung kaputt ist.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Miete\" – daher schreibt man auch „Mieter\" mit ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "miet"
+  ],
+  "bild_datei": "Mieter.webp",
+  "audio_datei": "Mieter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tenant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "locataire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kiracı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستأجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Miete"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mieten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vermieterin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermieter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bewohner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mieter",
+    "plural": "die Mieter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mieter",
+        "genitiv": "des Mieters",
+        "dativ": "dem Mieter",
+        "akkusativ": "den Mieter"
+      },
+      "plural": {
+        "nominativ": "die Mieter",
+        "genitiv": "der Mieter",
+        "dativ": "den Mietern",
+        "akkusativ": "die Mieter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mietter",
+    "Mieder",
+    "Miter",
+    "Mieeter"
+  ]
+}

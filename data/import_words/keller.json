@@ -1,0 +1,81 @@
+{
+  "lemma": "Keller",
+  "wortart": "Nomen",
+  "silben": "Kel-ler",
+  "begriffserklaerung": "Ein Keller ist ein Raum unter einem Haus. Er liegt unter der Erde und ist oft kühl und dunkel.",
+  "beispielsatz": "Im Keller lagert Papa die alten Fahrräder.",
+  "rechtschreibstrategie": "Das Wort „Keller\" hat ein kurzes „e\" – deshalb schreibst du zwei „l\": Kel-ler.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Keller"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Keller",
+    "plural": "die Keller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Keller",
+        "genitiv": "des Kellers",
+        "dativ": "dem Keller",
+        "akkusativ": "den Keller"
+      },
+      "plural": {
+        "nominativ": "die Keller",
+        "genitiv": "der Keller",
+        "dativ": "den Kellern",
+        "akkusativ": "die Keller"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Keler",
+    "Keller",
+    "Köller",
+    "Celler"
+  ],
+  "bild_datei": "Keller.webp",
+  "audio_datei": "Keller.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cellar / basement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cave"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bodrum katı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kellertür"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kellerraum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachboden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Untergeschoss"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kastanienblatt",
+  "wortart": "Nomen",
+  "silben": "Kas-ta-ni-en-blatt",
+  "begriffserklaerung": "Ein Kastanienblatt ist das Blatt eines Kastanienbaums. Es hat mehrere gezackte Teilblätter, die zusammen wie eine Hand aussehen.",
+  "beispielsatz": "Im Herbst sammeln wir bunte Kastanienblätter im Park.",
+  "rechtschreibstrategie": "Das Wort „Kastanienblatt\" ist zusammengesetzt aus „Kastanie\" und „Blatt\". Das „tt\" am Ende kommt vom Wort „Blatt\" – wenn du es verlängerst, hörst du: „Blät-ter\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kastanie",
+    "Blatt"
+  ],
+  "bild_datei": "Kastanienblatt.webp",
+  "audio_datei": "Kastanienblatt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chestnut leaf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feuille de châtaignier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kestane yaprağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة شجرة الكستناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kastanie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kastanienbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laubblatt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kastanienblatt",
+    "plural": "die Kastanienblätter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kastanienblatt",
+        "genitiv": "des Kastanienblattes",
+        "dativ": "dem Kastanienblatt",
+        "akkusativ": "das Kastanienblatt"
+      },
+      "plural": {
+        "nominativ": "die Kastanienblätter",
+        "genitiv": "der Kastanienblätter",
+        "dativ": "den Kastanienblättern",
+        "akkusativ": "die Kastanienblätter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kastanienblat",
+    "Kastanienblad",
+    "Kastanienbladt",
+    "Kastanienblatt",
+    "Castanieblatt",
+    "Kastanieblatt"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Fisch",
+  "wortart": "Nomen",
+  "silben": "Fisch",
+  "begriffserklaerung": "Ein Fisch ist ein Tier, das im Wasser lebt, mit Flossen schwimmt und Kiemen zum Atmen hat.",
+  "beispielsatz": "Der bunte Fisch schwimmt schnell durch das klare Wasser.",
+  "rechtschreibstrategie": "Das „sch\" am Ende sprichst du als einen Laut – achte darauf, dass du alle drei Buchstaben s-c-h schreibst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fisch"
+  ],
+  "bild_datei": "Fisch.webp",
+  "audio_datei": "Fisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fischer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aquarium"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Fisch",
+    "plural": "Fische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fisch",
+        "genitiv": "des Fisches",
+        "dativ": "dem Fisch",
+        "akkusativ": "den Fisch"
+      },
+      "plural": {
+        "nominativ": "die Fische",
+        "genitiv": "der Fische",
+        "dativ": "den Fischen",
+        "akkusativ": "die Fische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fisch",
+    "Fich",
+    "Fish",
+    "Fisc"
+  ]
+}

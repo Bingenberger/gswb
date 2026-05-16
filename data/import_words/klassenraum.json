@@ -1,0 +1,88 @@
+{
+  "lemma": "Klassenraum",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-raum",
+  "begriffserklaerung": "Ein Klassenraum ist das Zimmer in der Schule, in dem eine Klasse zusammen lernt und unterrichtet wird.",
+  "beispielsatz": "In unserem Klassenraum hängen bunte Bilder an der Wand.",
+  "rechtschreibstrategie": "Das Wort „Klassenraum\" ist aus zwei Teilen zusammengesetzt: „Klassen\" und „Raum\". Bei „Klassen\" schreibt man zwei s, weil der Vokal „a\" kurz gesprochen wird. Sprich das Wort in Bausteine: KLAS-SEN-RAUM.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "Raum"
+  ],
+  "bild_datei": "Klassenraum.webp",
+  "audio_datei": "Klassenraum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "classroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salle de classe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة الصف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulbank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrerpult"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulzimmer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klassenraum",
+    "plural": "die Klassenräume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klassenraum",
+        "genitiv": "des Klassenraums",
+        "dativ": "dem Klassenraum",
+        "akkusativ": "den Klassenraum"
+      },
+      "plural": {
+        "nominativ": "die Klassenräume",
+        "genitiv": "der Klassenräume",
+        "dativ": "den Klassenräumen",
+        "akkusativ": "die Klassenräume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klasenraum",
+    "Klasssenraum",
+    "Klassenraumb",
+    "Klassänraum",
+    "Classenraum"
+  ]
+}

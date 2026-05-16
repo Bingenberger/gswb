@@ -1,0 +1,86 @@
+{
+  "lemma": "Leuchte",
+  "wortart": "Nomen",
+  "silben": "Leuch-te",
+  "begriffserklaerung": "Eine Leuchte ist ein Gerät, das Licht macht. Sie kann an der Decke hängen, auf dem Tisch stehen oder draußen leuchten.",
+  "beispielsatz": "Die Leuchte im Flur geht automatisch an, wenn jemand vorbeiläuft.",
+  "rechtschreibstrategie": "Denke an das Wort „leuchten\" – die Leuchte leuchtet! Das „eu\" sprichst du wie in „neu\". Am Ende hörst du ein weiches „te\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "leuch"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leuchte",
+    "plural": "die Leuchten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leuchte",
+        "genitiv": "der Leuchte",
+        "dativ": "der Leuchte",
+        "akkusativ": "die Leuchte"
+      },
+      "plural": {
+        "nominativ": "die Leuchten",
+        "genitiv": "der Leuchten",
+        "dativ": "den Leuchten",
+        "akkusativ": "die Leuchten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leuchtte",
+    "Leuchde",
+    "Leukte",
+    "Löchte",
+    "Leucte"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lamp / light"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lampe / luminaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lamba / aydınlatma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح / إضاءة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leuchten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leuchter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laterne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    }
+  ],
+  "bild_datei": "Leuchte.webp",
+  "audio_datei": "Leuchte.mp3"
+}

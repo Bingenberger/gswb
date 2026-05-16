@@ -1,0 +1,98 @@
+{
+  "lemma": "blicken",
+  "wortart": "Verb",
+  "silben": "bli-cken",
+  "begriffserklaerung": "Blicken bedeutet, die Augen auf etwas oder jemanden zu richten und hinzuschauen.",
+  "beispielsatz": "Die Kinder blicken neugierig aus dem Fenster.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ck\" – das ist das Kürzezeichen. Also: bli-cken, nicht „blikken\" oder „bligen\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Blick"
+  ],
+  "bild_datei": "blicken.webp",
+  "audio_datei": "blicken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "blicken",
+    "praesens": {
+      "ich": "blicke",
+      "du": "blickst",
+      "er_sie_es": "blickt",
+      "wir": "blicken",
+      "ihr": "blickt",
+      "sie": "blicken"
+    },
+    "perfekt": {
+      "ich": "habe geblickt",
+      "du": "hast geblickt",
+      "er_sie_es": "hat geblickt",
+      "wir": "haben geblickt",
+      "ihr": "habt geblickt",
+      "sie": "haben geblickt"
+    },
+    "praeteritum": {
+      "ich": "blickte",
+      "du": "blicktest",
+      "er_sie_es": "blickte",
+      "wir": "blickten",
+      "ihr": "blicktet",
+      "sie": "blickten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to look, to glance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "regarder, jeter un coup d'œil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينظر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erblicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schauen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beobachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "starren"
+    }
+  ],
+  "fehlschreibungen": [
+    "bligen",
+    "blikken",
+    "blicen",
+    "bliken",
+    "blickt (Infinitiv)"
+  ]
+}

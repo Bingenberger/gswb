@@ -1,0 +1,84 @@
+{
+  "lemma": "Lied",
+  "wortart": "Nomen",
+  "silben": "Lied",
+  "begriffserklaerung": "Ein Lied ist eine Melodie mit Text, die man singt. Lieder gibt es zum Beispiel als Schlaflieder, Kinderlieder oder Weihnachtslieder.",
+  "beispielsatz": "Wir singen in der Schule ein schönes Lied.",
+  "rechtschreibstrategie": "Das Wort „Lied\" hat ein langes „i\", das man als „ie\" schreibt. Denk daran: Das „ie\" klingt wie ein langes „i\" – Lied!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lied",
+    "sing"
+  ],
+  "bild_datei": "Lied.webp",
+  "audio_datei": "Lied.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "song"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chanson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarkı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أغنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "singen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Liederbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Melodie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Song"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lied",
+    "plural": "die Lieder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lied",
+        "genitiv": "des Liedes",
+        "dativ": "dem Lied",
+        "akkusativ": "das Lied"
+      },
+      "plural": {
+        "nominativ": "die Lieder",
+        "genitiv": "der Lieder",
+        "dativ": "den Liedern",
+        "akkusativ": "die Lieder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lid",
+    "Liед",
+    "Liet",
+    "Lied",
+    "Lieed"
+  ]
+}

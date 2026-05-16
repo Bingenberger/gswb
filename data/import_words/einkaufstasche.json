@@ -1,0 +1,88 @@
+{
+  "lemma": "Einkaufstasche",
+  "wortart": "Nomen",
+  "silben": "Ein-kaufs-ta-sche",
+  "begriffserklaerung": "Eine Einkaufstasche ist eine Tasche, die man beim Einkaufen benutzt, um Sachen darin zu tragen.",
+  "beispielsatz": "Mama packt das Gemüse und die Äpfel in die große Einkaufstasche.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Ein\" + „kauf\" + „Tasche\". Schreibe alle drei Teile zusammen und denke daran, dass das Nomen groß geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "tasch"
+  ],
+  "bild_datei": "Einkaufstasche.webp",
+  "audio_datei": "Einkaufstasche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping bag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sac de courses"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş çantası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufsbeutel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufswagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einkaufstasche",
+    "plural": "die Einkaufstaschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einkaufstasche",
+        "genitiv": "der Einkaufstasche",
+        "dativ": "der Einkaufstasche",
+        "akkusativ": "die Einkaufstasche"
+      },
+      "plural": {
+        "nominativ": "die Einkaufstaschen",
+        "genitiv": "der Einkaufstaschen",
+        "dativ": "den Einkaufstaschen",
+        "akkusativ": "die Einkaufstaschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einkaufstasche",
+    "Einkauftasche",
+    "Einkaufftasche",
+    "Einkaufsdasche",
+    "Ainkaufstasche",
+    "Einkäufstasche"
+  ]
+}

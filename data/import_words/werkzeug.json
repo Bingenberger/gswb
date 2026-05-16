@@ -1,0 +1,88 @@
+{
+  "lemma": "Werkzeug",
+  "wortart": "Nomen",
+  "silben": "Werk-zeug",
+  "begriffserklaerung": "Ein Werkzeug ist ein Gegenstand, den Menschen benutzen, um etwas zu bauen, zu reparieren oder herzustellen – zum Beispiel ein Hammer oder eine Säge.",
+  "beispielsatz": "Papa holt das Werkzeug aus dem Keller, um das Regal zu befestigen.",
+  "rechtschreibstrategie": "„Werkzeug\" besteht aus zwei Wörtern: „Werk\" und „Zeug\". Sprich beide Teile einzeln: WERK – ZEUG. So schreibst du beide richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Werk",
+    "zeug"
+  ],
+  "bild_datei": "Werkzeug.webp",
+  "audio_datei": "Werkzeug.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Werkzeug",
+    "plural": "die Werkzeuge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Werkzeug",
+        "genitiv": "des Werkzeugs",
+        "dativ": "dem Werkzeug",
+        "akkusativ": "das Werkzeug"
+      },
+      "plural": {
+        "nominativ": "die Werkzeuge",
+        "genitiv": "der Werkzeuge",
+        "dativ": "den Werkzeugen",
+        "akkusativ": "die Werkzeuge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tool"
+    },
+    {
+      "language_code": "fr",
+      "translation": "outil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أداة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraubenzieher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Werkzeuck",
+    "Wärkzeug",
+    "Werckzeug",
+    "Werkzug",
+    "Werkzäug"
+  ]
+}

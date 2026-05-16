@@ -1,0 +1,80 @@
+{
+  "lemma": "Brustkorb",
+  "wortart": "Nomen",
+  "silben": "Brust-korb",
+  "begriffserklaerung": "Der Brustkorb ist das Knochengerüst in deiner Brust. Er schützt dein Herz und deine Lungen.",
+  "beispielsatz": "Der Arzt hört dem Kind am Brustkorb ab, ob die Lunge gesund ist.",
+  "rechtschreibstrategie": "Brustkorb ist ein zusammengesetztes Wort aus „Brust\" und „Korb\". Sprich beide Teile einzeln: BRUST + KORB.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Brust",
+    "Korb"
+  ],
+  "bild_datei": "Brustkorb.webp",
+  "audio_datei": "Brustkorb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rib cage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cage thoracique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göğüs kafesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القفص الصدري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brust"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rippe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brustkorb",
+    "plural": "die Brustkörbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brustkorb",
+        "genitiv": "des Brustkorbs",
+        "dativ": "dem Brustkorb",
+        "akkusativ": "den Brustkorb"
+      },
+      "plural": {
+        "nominativ": "die Brustkörbe",
+        "genitiv": "der Brustkörbe",
+        "dativ": "den Brustkörben",
+        "akkusativ": "die Brustkörbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brustkorpp",
+    "Bruskorb",
+    "Brußtkorb",
+    "Brustkorbt",
+    "Brustkorp"
+  ]
+}

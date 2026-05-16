@@ -1,0 +1,82 @@
+{
+  "lemma": "Strick",
+  "wortart": "Nomen",
+  "silben": "Strick",
+  "begriffserklaerung": "Ein Strick ist ein dickes, festes Seil, das aus vielen Fäden zusammengedreht ist. Man kann damit etwas festbinden oder zusammenhalten.",
+  "beispielsatz": "Der Bauer bindet die Ziege mit einem langen Strick an den Zaun.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Strick\" – nach dem kurzen „i\" hörst du „ck\". Nach einem kurzen Vokal schreibt man immer „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "strick"
+  ],
+  "bild_datei": "Strick.webp",
+  "audio_datei": "Strick.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stricken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strickleiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Seil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strick",
+    "plural": "die Stricke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strick",
+        "genitiv": "des Stricks",
+        "dativ": "dem Strick",
+        "akkusativ": "den Strick"
+      },
+      "plural": {
+        "nominativ": "die Stricke",
+        "genitiv": "der Stricke",
+        "dativ": "den Stricken",
+        "akkusativ": "die Stricke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Strik",
+    "Strig",
+    "Strikk",
+    "Shtrick",
+    "Stric"
+  ]
+}

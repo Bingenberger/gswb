@@ -1,0 +1,82 @@
+{
+  "lemma": "Stirn",
+  "wortart": "Nomen",
+  "silben": "Stirn",
+  "begriffserklaerung": "Die Stirn ist der obere Teil des Gesichts, der zwischen den Augenbrauen und dem Haaransatz liegt.",
+  "beispielsatz": "Wenn Tom nachdenkt, runzelt er die Stirn.",
+  "rechtschreibstrategie": "Das Wort „Stirn\" hat nur eine Silbe. Achte auf das „i\" am Anfang – es klingt kurz, aber es steht kein Doppelbuchstabe dahinter. Schreib es genau so, wie du es hörst: S-t-i-r-n.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Stirn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stirn",
+    "plural": "die Stirnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stirn",
+        "genitiv": "der Stirn",
+        "dativ": "der Stirn",
+        "akkusativ": "die Stirn"
+      },
+      "plural": {
+        "nominativ": "die Stirnen",
+        "genitiv": "der Stirnen",
+        "dativ": "den Stirnen",
+        "akkusativ": "die Stirnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stirhn",
+    "Strin",
+    "Stiern",
+    "Stirnn",
+    "Shtirn"
+  ],
+  "bild_datei": "Stirn.webp",
+  "audio_datei": "Stirn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "forehead"
+    },
+    {
+      "language_code": "fr",
+      "translation": "front"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جبهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stirnrunzeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stirnband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Augenbraue"
+    }
+  ]
+}

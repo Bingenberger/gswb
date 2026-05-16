@@ -1,0 +1,76 @@
+{
+  "lemma": "Kapitän",
+  "wortart": "Nomen",
+  "silben": "Ka-pi-tän",
+  "begriffserklaerung": "Ein Kapitän ist der Chef auf einem Schiff oder Flugzeug. Er sorgt dafür, dass alle sicher ans Ziel kommen.",
+  "beispielsatz": "Der Kapitän steht auf der Brücke und steuert das große Schiff sicher in den Hafen.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Französischen. Merke dir: Am Ende steht -ään mit Umlaut – Kapi-TÄN! Sprich es laut mit: Ka-pi-tän.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Kapitän"
+  ],
+  "bild_datei": "Kapitän.webp",
+  "audio_datei": "Kapitän.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kapitän",
+    "plural": "die Kapitäne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kapitän",
+        "genitiv": "des Kapitäns",
+        "dativ": "dem Kapitän",
+        "akkusativ": "den Kapitän"
+      },
+      "plural": {
+        "nominativ": "die Kapitäne",
+        "genitiv": "der Kapitäne",
+        "dativ": "den Kapitänen",
+        "akkusativ": "die Kapitäne"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "captain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "capitaine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaptan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبطان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Matrose"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kapiteen",
+    "Kapitähn",
+    "Kapittän",
+    "Kabitän",
+    "Kapitän",
+    "Cabitän",
+    "Capitan"
+  ]
+}

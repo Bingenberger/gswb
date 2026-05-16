@@ -1,0 +1,82 @@
+{
+  "lemma": "Frost",
+  "wortart": "Nomen",
+  "silben": "Frost",
+  "begriffserklaerung": "Frost ist sehr kaltes Wetter, bei dem die Temperatur unter null Grad sinkt und Wasser zu Eis wird.",
+  "beispielsatz": "Im Winter liegt Frost auf den Wiesen, und alles glitzert weiß.",
+  "rechtschreibstrategie": "Das Wort „Frost\" endet auf -st. Wenn du es verlängerst, hörst du alle Buchstaben deutlich: „frös-tig\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "frost"
+  ],
+  "bild_datei": "Frost.webp",
+  "audio_datei": "Frost.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "frost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "don"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صقيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frostig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einfrieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kälte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frost",
+    "plural": "die Fröste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frost",
+        "genitiv": "des Frostes",
+        "dativ": "dem Frost",
+        "akkusativ": "den Frost"
+      },
+      "plural": {
+        "nominativ": "die Fröste",
+        "genitiv": "der Fröste",
+        "dativ": "den Frösten",
+        "akkusativ": "die Fröste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frosst",
+    "Vrost",
+    "Frosd",
+    "Fros",
+    "Frост"
+  ]
+}

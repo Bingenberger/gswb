@@ -1,0 +1,86 @@
+{
+  "lemma": "Sonntag",
+  "wortart": "Nomen",
+  "silben": "Sonn-tag",
+  "begriffserklaerung": "Der Sonntag ist der siebte und letzte Tag der Woche. Er ist ein Ruhetag, an dem die meisten Menschen nicht arbeiten oder zur Schule gehen.",
+  "beispielsatz": "Am Sonntag schläft unsere Familie gerne lange und wir frühstücken zusammen.",
+  "rechtschreibstrategie": "Das Wort „Sonntag\" besteht aus zwei Teilen: „Sonn\" (wie Sonne) und „tag\". Das doppelte „n\" in der Mitte gehört zu beiden Teilen – merke: Sonn + tag = Sonntag!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Tag"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sonntag",
+    "plural": "die Sonntage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sonntag",
+        "genitiv": "des Sonntags",
+        "dativ": "dem Sonntag",
+        "akkusativ": "den Sonntag"
+      },
+      "plural": {
+        "nominativ": "die Sonntage",
+        "genitiv": "der Sonntage",
+        "dativ": "den Sonntagen",
+        "akkusativ": "die Sonntage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sontag",
+    "Sonntag",
+    "Sunnntag",
+    "Sonntach",
+    "Sontach",
+    "Sunntag"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Sunday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dimanche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Pazar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الأحد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Montag"
+    }
+  ],
+  "bild_datei": "Sonntag.webp",
+  "audio_datei": "Sonntag.mp3"
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Bauklotz",
+  "wortart": "Nomen",
+  "silben": "Bau-klotz",
+  "begriffserklaerung": "Ein Bauklotz ist ein kleiner, fester Block aus Holz oder Kunststoff, mit dem Kinder Türme und andere Bauwerke stapeln können.",
+  "beispielsatz": "Lisa stapelt einen Bauklotz auf den anderen und baut einen riesigen Turm.",
+  "rechtschreibstrategie": "„Bauklotz\" ist aus zwei Wörtern zusammengesetzt: „Bau\" und „Klotz\". Das „tz\" am Ende schreibst du so, weil der Vokal „o\" kurz gesprochen wird – nach kurzem Vokal schreibst du tz!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bau",
+    "klotz"
+  ],
+  "bild_datei": "Bauklotz.webp",
+  "audio_datei": "Bauklotz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building block"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cube de construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapı taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكعب بناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klotz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Baustein"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauklotz",
+    "plural": "die Bauklötze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauklotz",
+        "genitiv": "des Bauklotzes",
+        "dativ": "dem Bauklotz",
+        "akkusativ": "den Bauklotz"
+      },
+      "plural": {
+        "nominativ": "die Bauklötze",
+        "genitiv": "der Bauklötze",
+        "dativ": "den Bauklötzen",
+        "akkusativ": "die Bauklötze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baukloz",
+    "Bauklotz",
+    "Bauklots",
+    "Baukloß",
+    "Bauklottz"
+  ]
+}

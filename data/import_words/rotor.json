@@ -1,0 +1,83 @@
+{
+  "lemma": "Rotor",
+  "wortart": "Nomen",
+  "silben": "Ro-tor",
+  "begriffserklaerung": "Ein Rotor ist ein sich drehendes Teil in einer Maschine, zum Beispiel die großen Flügel eines Hubschraubers oder einer Windkraftanlage.",
+  "beispielsatz": "Der Rotor des Hubschraubers dreht sich sehr schnell.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ro-tor. Beide Silben klingen gleich – mit einem langen „o\". Denk dir: Ein Rotor dreht sich im Kreis, und das Wort klingt auch vorwärts und rückwärts fast gleich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "rotier"
+  ],
+  "bild_datei": "Rotor.webp",
+  "audio_datei": "Rotor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rotor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rotor"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rotor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دوّار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rotieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rotation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hubschrauber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Propeller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rotor",
+    "plural": "die Rotoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rotor",
+        "genitiv": "des Rotors",
+        "dativ": "dem Rotor",
+        "akkusativ": "den Rotor"
+      },
+      "plural": {
+        "nominativ": "die Rotoren",
+        "genitiv": "der Rotoren",
+        "dativ": "den Rotoren",
+        "akkusativ": "die Rotoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rootor",
+    "Rotor",
+    "Rohtor",
+    "Rottor",
+    "Rodar",
+    "Rodor"
+  ]
+}

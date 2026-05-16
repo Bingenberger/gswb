@@ -1,0 +1,87 @@
+{
+  "lemma": "Anlauf",
+  "wortart": "Nomen",
+  "silben": "An-lauf",
+  "begriffserklaerung": "Ein Anlauf ist, wenn man sich Schwung holt, indem man vor einem Sprung oder einer Aufgabe läuft oder sich vorbereitet.",
+  "beispielsatz": "Tom nimmt einen langen Anlauf und springt weit über den Bach.",
+  "rechtschreibstrategie": "Das Wort „Anlauf\" ist ein Bausteinwort aus „an\" und „Lauf\". Schreibe es einfach zusammen: An-lauf.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lauf",
+    "an"
+  ],
+  "bild_datei": "Anlauf.webp",
+  "audio_datei": "Anlauf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anlauf",
+    "plural": "die Anläufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anlauf",
+        "genitiv": "des Anlaufs",
+        "dativ": "dem Anlauf",
+        "akkusativ": "den Anlauf"
+      },
+      "plural": {
+        "nominativ": "die Anläufe",
+        "genitiv": "der Anläufe",
+        "dativ": "den Anläufen",
+        "akkusativ": "die Anläufe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "run-up"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşu başlangıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "助走 (助走)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auflauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anlaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tempo"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anlauft",
+    "Anlauff",
+    "Annlauf",
+    "anlauf",
+    "Anloufe"
+  ]
+}

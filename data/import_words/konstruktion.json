@@ -1,0 +1,89 @@
+{
+  "lemma": "Konstruktion",
+  "wortart": "Nomen",
+  "silben": "Kon-struk-ti-on",
+  "begriffserklaerung": "Eine Konstruktion ist ein Bauwerk oder ein Gegenstand, den Menschen geplant und zusammengebaut haben – zum Beispiel eine Brücke, ein Gebäude oder eine Maschine.",
+  "beispielsatz": "Die Konstruktion der neuen Brücke hat viele Monate gedauert.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Kon-struk-ti-on. Das „k\" am Anfang und das „ck\" in „struk\" helfen dir beim Schreiben – merke: nach dem kurzen „u\" kommt „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "konstruieren",
+    "Konstrukt"
+  ],
+  "bild_datei": "Konstruktion.webp",
+  "audio_datei": "Konstruktion.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Konstruktion",
+    "plural": "die Konstruktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Konstruktion",
+        "genitiv": "der Konstruktion",
+        "dativ": "der Konstruktion",
+        "akkusativ": "die Konstruktion"
+      },
+      "plural": {
+        "nominativ": "die Konstruktionen",
+        "genitiv": "der Konstruktionen",
+        "dativ": "den Konstruktionen",
+        "akkusativ": "die Konstruktionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "construction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inşaat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "konstruieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Konstrukteur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    }
+  ],
+  "fehlschreibungen": [
+    "Konstrucktion",
+    "Konstriktion",
+    "Konstruktion",
+    "Constuktion",
+    "Kostruktion",
+    "Konstrukzion",
+    "Konstruction"
+  ]
+}

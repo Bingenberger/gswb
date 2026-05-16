@@ -1,0 +1,91 @@
+{
+  "lemma": "Duft",
+  "wortart": "Nomen",
+  "silben": "Duft",
+  "begriffserklaerung": "Ein Duft ist ein angenehmer Geruch, den zum Beispiel Blumen, frisches Brot oder Parfüm verbreiten.",
+  "beispielsatz": "Der Duft der Rosen ist wunderschön.",
+  "rechtschreibstrategie": "„Duft\" hat am Ende ein -ft. Sprich das Wort laut aus: Du hörst beide Buchstaben – f und t. Schreib sie einfach so, wie du sie hörst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "duft"
+  ],
+  "bild_datei": "Duft.webp",
+  "audio_datei": "Duft.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Duft",
+    "plural": "die Düfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Duft",
+        "genitiv": "des Duftes",
+        "dativ": "dem Duft",
+        "akkusativ": "den Duft"
+      },
+      "plural": {
+        "nominativ": "die Düfte",
+        "genitiv": "der Düfte",
+        "dativ": "den Düften",
+        "akkusativ": "die Düfte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fragrance / scent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parfum"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "duften"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "duftig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geruch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aroma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parfüm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    }
+  ],
+  "fehlschreibungen": [
+    "Duft",
+    "Dufft",
+    "Duftd",
+    "Dufth",
+    "Duph",
+    "Dufet"
+  ]
+}

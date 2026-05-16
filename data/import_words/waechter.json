@@ -1,0 +1,91 @@
+{
+  "lemma": "Wächter",
+  "wortart": "Nomen",
+  "silben": "Wäch-ter",
+  "begriffserklaerung": "Ein Wächter ist eine Person, die etwas oder jemanden bewacht und beschützt, damit nichts Schlimmes passiert.",
+  "beispielsatz": "Der Wächter passt nachts gut auf das Museum auf.",
+  "rechtschreibstrategie": "Denk an das Wort „wachen\" – daraus kommt „Wächter\". Das ä erkennst du, wenn du an „wachen\" denkst. Nach dem kurzen ä kommt ck… nein: ch! Sprich das Wort laut: Wääch-ter.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wach"
+  ],
+  "bild_datei": "Wächter.webp",
+  "audio_datei": "Wächter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wächter",
+    "plural": "die Wächter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wächter",
+        "genitiv": "des Wächters",
+        "dativ": "dem Wächter",
+        "akkusativ": "den Wächter"
+      },
+      "plural": {
+        "nominativ": "die Wächter",
+        "genitiv": "der Wächter",
+        "dativ": "den Wächtern",
+        "akkusativ": "die Wächter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "guard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gardien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bekçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wachen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufpasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hüter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sicherheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wechter",
+    "Wäkter",
+    "Wächktor",
+    "Wechktor",
+    "Wäcter",
+    "Wächder"
+  ]
+}

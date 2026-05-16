@@ -1,0 +1,91 @@
+{
+  "lemma": "Flamme",
+  "wortart": "Nomen",
+  "silben": "Flam-me",
+  "begriffserklaerung": "Eine Flamme ist das leuchtende, heiße Feuer, das zum Beispiel an einer Kerze oder einem Streichholz brennt.",
+  "beispielsatz": "Die Flamme der Kerze flackert im Wind.",
+  "rechtschreibstrategie": "Das Wort „Flamme\" hat zwei m, weil der Vokal a kurz gesprochen wird – sprich laut: Flam-me!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "flamm"
+  ],
+  "bild_datei": "Flamme.webp",
+  "audio_datei": "Flamme.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flamme",
+    "plural": "die Flammen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flamme",
+        "genitiv": "der Flamme",
+        "dativ": "der Flamme",
+        "akkusativ": "die Flamme"
+      },
+      "plural": {
+        "nominativ": "die Flammen",
+        "genitiv": "der Flammen",
+        "dativ": "den Flammen",
+        "akkusativ": "die Flammen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flame"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flamme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لهب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flammen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flammend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flammenwerfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flame",
+    "Flamme",
+    "Flaame",
+    "Phlamme",
+    "Flamm",
+    "Fllamme"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Linse",
+  "wortart": "Nomen",
+  "silben": "Lin-se",
+  "begriffserklaerung": "Eine Linse ist eine kleine, flache, runde Hülsenfrucht, die man kochen und essen kann. Das Wort bedeutet auch ein rundes Glas in einer Brille oder einem Fernrohr, das das Sehen verändert.",
+  "beispielsatz": "Mama kocht heute eine leckere Linsensuppe.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Lin-se. Nach dem kurzen „i\" kommt nur ein „n\" – merke dir: Lin-se wird mit einem „n\" geschrieben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Linse"
+  ],
+  "bild_datei": "Linse.webp",
+  "audio_datei": "Linse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lentil / lens"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lentille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mercimek / lens"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Linsensuppe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Linsengericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erbse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bohne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hülsenfrucht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Linse",
+    "plural": "die Linsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Linse",
+        "genitiv": "der Linse",
+        "dativ": "der Linse",
+        "akkusativ": "die Linse"
+      },
+      "plural": {
+        "nominativ": "die Linsen",
+        "genitiv": "der Linsen",
+        "dativ": "den Linsen",
+        "akkusativ": "die Linsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Linnse",
+    "Linsе",
+    "Linze",
+    "Lince",
+    "Lynse"
+  ]
+}

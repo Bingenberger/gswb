@@ -1,0 +1,84 @@
+{
+  "lemma": "Kenntnis",
+  "wortart": "Nomen",
+  "silben": "Kennt-nis",
+  "begriffserklaerung": "Eine Kenntnis ist etwas, das du weißt oder gelernt hast. Wenn du etwas über ein Thema weißt, hast du Kenntnisse darüber.",
+  "beispielsatz": "Lisa hat gute Kenntnisse in Mathematik, weil sie viel geübt hat.",
+  "rechtschreibstrategie": "Das Wort „Kenntnis\" hat zwei n und ein t hintereinander: k-e-n-n-t. Sprich es langsam: „kennt-nis\" – dann hörst du fast alle Buchstaben.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kennen",
+    "Kenn"
+  ],
+  "bild_datei": "Kenntnis.webp",
+  "audio_datei": "Kenntnis.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kenntnis",
+    "plural": "die Kenntnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kenntnis",
+        "genitiv": "der Kenntnis",
+        "dativ": "der Kenntnis",
+        "akkusativ": "die Kenntnis"
+      },
+      "plural": {
+        "nominativ": "die Kenntnisse",
+        "genitiv": "der Kenntnisse",
+        "dativ": "den Kenntnissen",
+        "akkusativ": "die Kenntnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "knowledge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "connaissance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erkennen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fähigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erfahrung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kentnis",
+    "Kentniss",
+    "Kenntniß",
+    "Kenntiss",
+    "Kennis",
+    "Kenntniss"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "tun",
+  "wortart": "Verb",
+  "silben": "tun",
+  "begriffserklaerung": "Etwas tun bedeutet, eine Handlung oder Tätigkeit ausführen.",
+  "beispielsatz": "Was kannst du heute Gutes tun?",
+  "rechtschreibstrategie": "„tun\" hat nur drei Buchstaben – sprich es laut: t-u-n. Das u ist kurz, aber es gibt kein Kürzezeichen. Merke dir das Wort einfach so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tun"
+  ],
+  "bild_datei": "tun.webp",
+  "audio_datei": "tun.mp3",
+  "grammatische_formen": {
+    "infinitiv": "tun",
+    "praesens": {
+      "ich": "tue",
+      "du": "tust",
+      "er_sie_es": "tut",
+      "wir": "tun",
+      "ihr": "tut",
+      "sie": "tun"
+    },
+    "perfekt": {
+      "ich": "habe getan",
+      "du": "hast getan",
+      "er_sie_es": "hat getan",
+      "wir": "haben getan",
+      "ihr": "habt getan",
+      "sie": "haben getan"
+    },
+    "praeteritum": {
+      "ich": "tat",
+      "du": "tatst",
+      "er_sie_es": "tat",
+      "wir": "taten",
+      "ihr": "tatet",
+      "sie": "taten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to do"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يفعل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tätig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "machen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "handeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "arbeiten"
+    }
+  ],
+  "fehlschreibungen": [
+    "thun",
+    "tuen",
+    "dun",
+    "tohn"
+  ]
+}

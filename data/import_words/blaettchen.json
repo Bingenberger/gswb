@@ -1,0 +1,83 @@
+{
+  "lemma": "Blättchen",
+  "wortart": "Nomen",
+  "silben": "Blätt-chen",
+  "begriffserklaerung": "Ein Blättchen ist ein sehr kleines Blatt, zum Beispiel von einer Pflanze oder einem Baum.",
+  "beispielsatz": "Das kleine Blättchen fiel sanft vom Ast auf den Boden.",
+  "rechtschreibstrategie": "Denk an das große Wort „Blatt\" – wenn du es verlängerst, hörst du das Doppel-t: Blät-ter. Deshalb schreibt man „Blättchen\" mit tt und Umlaut ä.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Blatt"
+  ],
+  "bild_datei": "Blättchen.webp",
+  "audio_datei": "Blättchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Blättchen",
+    "plural": "die Blättchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Blättchen",
+        "genitiv": "des Blättchens",
+        "dativ": "dem Blättchen",
+        "akkusativ": "das Blättchen"
+      },
+      "plural": {
+        "nominativ": "die Blättchen",
+        "genitiv": "der Blättchen",
+        "dativ": "den Blättchen",
+        "akkusativ": "die Blättchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little leaf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite feuille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük yaprak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وُرَيْقَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blätter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blättlein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blettchen",
+    "Blaettchen",
+    "Blätchen",
+    "Blätschen",
+    "Blättgen"
+  ]
+}

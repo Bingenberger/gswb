@@ -1,0 +1,91 @@
+{
+  "lemma": "Schauspiel",
+  "wortart": "Nomen",
+  "silben": "Schau-spiel",
+  "begriffserklaerung": "Ein Schauspiel ist ein Theaterstück, das von Schauspielerinnen und Schauspielern auf einer Bühne aufgeführt wird. Die Menschen im Publikum schauen zu und erleben eine Geschichte.",
+  "beispielsatz": "In der Schule haben wir ein tolles Schauspiel über die vier Jahreszeiten aufgeführt.",
+  "rechtschreibstrategie": "Das Wort „Schauspiel\" ist aus zwei Teilen zusammengesetzt: „Schau\" und „Spiel\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schau",
+    "spiel"
+  ],
+  "bild_datei": "Schauspiel.webp",
+  "audio_datei": "Schauspiel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schauspiel",
+    "plural": "die Schauspiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schauspiel",
+        "genitiv": "des Schauspiels",
+        "dativ": "dem Schauspiel",
+        "akkusativ": "das Schauspiel"
+      },
+      "plural": {
+        "nominativ": "die Schauspiele",
+        "genitiv": "der Schauspiele",
+        "dativ": "den Schauspielen",
+        "akkusativ": "die Schauspiele"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "play / spectacle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pièce de théâtre / spectacle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tiyatro oyunu / gösteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسرحية / عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Theaterstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorstellung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schauspiell",
+    "Schausspiel",
+    "Schauschpiel",
+    "Schauspil",
+    "Schausspill"
+  ]
+}

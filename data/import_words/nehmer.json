@@ -1,0 +1,83 @@
+{
+  "lemma": "Nehmer",
+  "wortart": "Nomen",
+  "silben": "Neh-mer",
+  "begriffserklaerung": "Ein Nehmer ist jemand, der etwas entgegennimmt oder bekommt. Das Gegenteil ist der Geber.",
+  "beispielsatz": "Der Nehmer des Preises strahlte vor Freude.",
+  "rechtschreibstrategie": "Denk an das Verb „nehmen\" – daraus wird „Nehmer\". Das lange „e\" schreibt man mit Dehnungs-h: neh-men → Neh-mer.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "nehm"
+  ],
+  "bild_datei": "Nehmer.webp",
+  "audio_datei": "Nehmer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nehmer",
+    "plural": "die Nehmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nehmer",
+        "genitiv": "des Nehmers",
+        "dativ": "dem Nehmer",
+        "akkusativ": "den Nehmer"
+      },
+      "plural": {
+        "nominativ": "die Nehmer",
+        "genitiv": "der Nehmer",
+        "dativ": "den Nehmern",
+        "akkusativ": "die Nehmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "taker / recipient"
+    },
+    {
+      "language_code": "fr",
+      "translation": "preneur / receveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alan kişi / alıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آخذ / مستلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einnahme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Empfänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Empfänger"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nemer",
+    "Nehmar",
+    "Nemmer",
+    "Neehmer",
+    "Nähmer"
+  ]
+}

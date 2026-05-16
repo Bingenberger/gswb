@@ -1,0 +1,84 @@
+{
+  "lemma": "Wildtier",
+  "wortart": "Nomen",
+  "silben": "Wild-tier",
+  "begriffserklaerung": "Ein Wildtier ist ein Tier, das frei in der Natur lebt und nicht von Menschen gehalten wird.",
+  "beispielsatz": "Der Wolf ist ein Wildtier, das in Wäldern lebt.",
+  "rechtschreibstrategie": "„Wildtier\" ist aus zwei Wörtern zusammengesetzt: „wild\" und „Tier\". Sprich beide Teile deutlich: WILD – TIER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wild",
+    "Tier"
+  ],
+  "bild_datei": "Wildtier.webp",
+  "audio_datei": "Wildtier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wild animal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animal sauvage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yabani hayvan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان بري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wildtier",
+    "plural": "die Wildtiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wildtier",
+        "genitiv": "des Wildtieres",
+        "dativ": "dem Wildtier",
+        "akkusativ": "das Wildtier"
+      },
+      "plural": {
+        "nominativ": "die Wildtiere",
+        "genitiv": "der Wildtiere",
+        "dativ": "den Wildtieren",
+        "akkusativ": "die Wildtiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wiltier",
+    "Wildtir",
+    "Wilttier",
+    "Wildtiere",
+    "Wieldtier",
+    "Wildetier"
+  ]
+}

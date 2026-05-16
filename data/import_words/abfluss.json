@@ -1,0 +1,87 @@
+{
+  "lemma": "Abfluss",
+  "wortart": "Nomen",
+  "silben": "Ab-fluss",
+  "begriffserklaerung": "Ein Abfluss ist eine Öffnung, durch die Wasser abfließen und verschwinden kann, zum Beispiel in der Badewanne oder im Waschbecken.",
+  "beispielsatz": "Das Wasser läuft durch den Abfluss in das Rohr.",
+  "rechtschreibstrategie": "Das Wort „Abfluss\" ist ein Bausteinwort aus „ab\" und „Fluss\". Das „ss\" am Ende kommt vom Stamm „fließen\" → „Fluss\" – nach kurzem Vokal schreibt man „ss\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fließ",
+    "Fluss"
+  ],
+  "bild_datei": "Abfluss.webp",
+  "audio_datei": "Abfluss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "évacuation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gider"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصرف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abfließen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badewanne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abfluss",
+    "plural": "die Abflüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abfluss",
+        "genitiv": "des Abflusses",
+        "dativ": "dem Abfluss",
+        "akkusativ": "den Abfluss"
+      },
+      "plural": {
+        "nominativ": "die Abflüsse",
+        "genitiv": "der Abflüsse",
+        "dativ": "den Abflüssen",
+        "akkusativ": "die Abflüsse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abfluß",
+    "Abflus",
+    "Abflusse",
+    "Abpfluss"
+  ]
+}

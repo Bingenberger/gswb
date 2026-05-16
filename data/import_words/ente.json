@@ -1,0 +1,83 @@
+{
+  "lemma": "Ente",
+  "wortart": "Nomen",
+  "silben": "En-te",
+  "begriffserklaerung": "Eine Ente ist ein Vogel, der schwimmen kann. Enten leben an Teichen, Flüssen und Seen. Sie haben ein weiches Gefieder, einen flachen Schnabel und Schwimmhäute zwischen den Zehen.",
+  "beispielsatz": "Die Ente schwimmt mit ihren Küken auf dem Teich.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „En-te\". Du hörst zwei Silben. Das „t\" in der Mitte schreibst du einfach, weil kein Kürzezeichen nötig ist – der erste Vokal „E\" ist kurz, aber das „t\" kommt aus der zweiten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ent"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ente",
+    "plural": "die Enten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ente",
+        "genitiv": "der Ente",
+        "dativ": "der Ente",
+        "akkusativ": "die Ente"
+      },
+      "plural": {
+        "nominativ": "die Enten",
+        "genitiv": "der Enten",
+        "dativ": "den Enten",
+        "akkusativ": "die Enten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ände",
+    "Änte",
+    "Ennde",
+    "Ente",
+    "Entte",
+    "Ende"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "duck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ördek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Enterich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Entchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gans"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    }
+  ],
+  "bild_datei": "Ente.webp",
+  "audio_datei": "Ente.mp3"
+}

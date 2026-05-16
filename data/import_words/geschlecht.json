@@ -1,0 +1,79 @@
+{
+  "lemma": "Geschlecht",
+  "wortart": "Nomen",
+  "silben": "Ge-schlecht",
+  "begriffserklaerung": "Das Geschlecht sagt, ob jemand ein Mädchen oder ein Junge ist – oder bei Tieren und Wörtern, ob sie weiblich, männlich oder sächlich sind.",
+  "beispielsatz": "Im Deutschunterricht lernen wir, welches Geschlecht ein Nomen hat – also ob es der, die oder das heißt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ge-schlecht. Am Ende hörst du „cht\" – das schreibst du auch so. Denk dran: Das kurze „e\" in „schlecht\" zeigt dir, dass kein Dehnungs-h kommt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schlecht",
+    "Geschlecht"
+  ],
+  "bild_datei": "Geschlecht.webp",
+  "audio_datei": "Geschlecht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gender / sex"
+    },
+    {
+      "language_code": "fr",
+      "translation": "genre / sexe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cinsiyet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschlechtlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mädchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Junge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nomen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geschlecht",
+    "plural": "die Geschlechter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geschlecht",
+        "genitiv": "des Geschlechts",
+        "dativ": "dem Geschlecht",
+        "akkusativ": "das Geschlecht"
+      },
+      "plural": {
+        "nominativ": "die Geschlechter",
+        "genitiv": "der Geschlechter",
+        "dativ": "den Geschlechtern",
+        "akkusativ": "die Geschlechter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gschlecht",
+    "Geschlect",
+    "Geschlächt",
+    "Gesclecht",
+    "Geschlecht"
+  ]
+}

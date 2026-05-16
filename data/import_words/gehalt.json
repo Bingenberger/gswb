@@ -1,0 +1,84 @@
+{
+  "lemma": "Gehalt",
+  "wortart": "Nomen",
+  "silben": "Ge-halt",
+  "begriffserklaerung": "Das Gehalt ist das Geld, das jemand jeden Monat für seine Arbeit bekommt.",
+  "beispielsatz": "Meine Mama bekommt jeden Monat ihr Gehalt von der Firma überwiesen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ge-halt. Du hörst zwei Silben. Denke an „halten\" – das steckt im Wort drin!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "halt",
+    "halten"
+  ],
+  "bild_datei": "Gehalt.webp",
+  "audio_datei": "Gehalt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راتب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lohn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lohn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gehalt",
+    "plural": "die Gehälter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gehalt",
+        "genitiv": "des Gehalts",
+        "dativ": "dem Gehalt",
+        "akkusativ": "das Gehalt"
+      },
+      "plural": {
+        "nominativ": "die Gehälter",
+        "genitiv": "der Gehälter",
+        "dativ": "den Gehältern",
+        "akkusativ": "die Gehälter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gehalt",
+    "Gehallt",
+    "Gehahlt",
+    "Gehald",
+    "Gahalt",
+    "Gehaldt"
+  ]
+}

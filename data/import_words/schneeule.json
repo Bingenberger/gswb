@@ -1,0 +1,86 @@
+{
+  "lemma": "Schneeule",
+  "wortart": "Nomen",
+  "silben": "Schnee-u-le",
+  "begriffserklaerung": "Die Schneeeule ist ein großer, weißer Vogel. Sie lebt in sehr kalten Gegenden und jagt Mäuse und andere kleine Tiere. Ihr weißes Gefieder hilft ihr, sich im Schnee zu verstecken.",
+  "beispielsatz": "Die Schneeeule sitzt still auf einem Felsen und wartet auf ihre Beute.",
+  "rechtschreibstrategie": "Das Wort „Schneeeule\" besteht aus zwei Teilen: „Schnee\" und „Eule\". Wenn du beide Teile zusammensetzt, triffst du drei e hintereinander – aber im normalen Schreiben schreibt man nur zwei: Schnee + Eule = Schneeeule. Denk einfach an Schnee und an Eule!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Eule"
+  ],
+  "bild_datei": "Schneeule.webp",
+  "audio_datei": "Schneeule.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snowy owl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "harfang des neiges"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar baykuşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بومة الثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arktis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schneeeule",
+    "plural": "die Schneeeulen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schneeeule",
+        "genitiv": "der Schneeeule",
+        "dativ": "der Schneeeule",
+        "akkusativ": "die Schneeeule"
+      },
+      "plural": {
+        "nominativ": "die Schneeeulen",
+        "genitiv": "der Schneeeulen",
+        "dativ": "den Schneeeulen",
+        "akkusativ": "die Schneeeulen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schneuele",
+    "Schneeeule",
+    "Schneeule",
+    "Schne-Eule",
+    "Schnéeule",
+    "Schneule",
+    "Schnieule"
+  ]
+}

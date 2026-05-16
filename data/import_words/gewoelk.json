@@ -1,0 +1,86 @@
+{
+  "lemma": "Gewölk",
+  "wortart": "Nomen",
+  "silben": "Ge-wölk",
+  "begriffserklaerung": "Gewölk ist eine Ansammlung von vielen Wolken am Himmel. Wenn viele Wolken zusammen den Himmel bedecken, nennt man das Gewölk.",
+  "beispielsatz": "Dunkles Gewölk zog am Himmel auf und bald begann es zu regnen.",
+  "rechtschreibstrategie": "Das Wort Gewölk beginnt mit der Vorsilbe „Ge-\". Das ö klingt kurz, aber es steht kein Doppelkonsonant dahinter – merke dir die Schreibung einfach.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wolke"
+  ],
+  "bild_datei": "Gewölk.webp",
+  "audio_datei": "Gewölk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewölk",
+    "plural": "die Gewölke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewölk",
+        "genitiv": "des Gewölks",
+        "dativ": "dem Gewölk",
+        "akkusativ": "das Gewölk"
+      },
+      "plural": {
+        "nominativ": "die Gewölke",
+        "genitiv": "der Gewölke",
+        "dativ": "den Gewölken",
+        "akkusativ": "die Gewölke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clouds / cloud cover"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuages / couverture nuageuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulutlar / bulut örtüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غيوم / غطاء سحابي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewölkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bewölkung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gewoelk",
+    "Gewelk",
+    "Gewölck",
+    "Gevölk",
+    "Gewöhlk"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Vergleich",
+  "wortart": "Nomen",
+  "silben": "Ver-gleich",
+  "begriffserklaerung": "Ein Vergleich zeigt, was zwei oder mehr Dinge gemeinsam haben oder wie sie sich unterscheiden.",
+  "beispielsatz": "Im Vergleich zu meinem Bruder bin ich viel größer.",
+  "rechtschreibstrategie": "Denk an das Verb „vergleichen\" – so hörst du das „gl\" und das „ei\" ganz deutlich.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "gleich"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vergleich",
+    "plural": "die Vergleiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vergleich",
+        "genitiv": "des Vergleichs",
+        "dativ": "dem Vergleich",
+        "akkusativ": "den Vergleich"
+      },
+      "plural": {
+        "nominativ": "die Vergleiche",
+        "genitiv": "der Vergleiche",
+        "dativ": "den Vergleichen",
+        "akkusativ": "die Vergleiche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vergleich",
+    "Fergleich",
+    "Verglech",
+    "Vergleisch",
+    "Verglei",
+    "Verglaich"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "comparison"
+    },
+    {
+      "language_code": "fr",
+      "translation": "comparaison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karşılaştırma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقارنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gleich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergleichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegenüberstellung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterschied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ähnlichkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beurteilung"
+    }
+  ],
+  "bild_datei": "Vergleich.webp",
+  "audio_datei": "Vergleich.mp3"
+}

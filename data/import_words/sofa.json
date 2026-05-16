@@ -1,0 +1,76 @@
+{
+  "lemma": "Sofa",
+  "wortart": "Nomen",
+  "silben": "So-fa",
+  "begriffserklaerung": "Ein Sofa ist ein weiches, bequemes Möbelstück mit Lehnen, auf dem mehrere Menschen sitzen oder liegen können.",
+  "beispielsatz": "Wir kuscheln uns zusammen auf das Sofa und schauen einen Film.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: So-fa. Beide Silben klingen genau so, wie man sie schreibt!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Sofa.webp",
+  "audio_datei": "Sofa.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sofa"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canapé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanepe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أريكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Couch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sessel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Möbel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Couch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sofa",
+    "plural": "die Sofas",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sofa",
+        "genitiv": "des Sofas",
+        "dativ": "dem Sofa",
+        "akkusativ": "das Sofa"
+      },
+      "plural": {
+        "nominativ": "die Sofas",
+        "genitiv": "der Sofas",
+        "dativ": "den Sofas",
+        "akkusativ": "die Sofas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sopha",
+    "Soffa",
+    "Zoffa",
+    "Zofa",
+    "Sofah"
+  ]
+}

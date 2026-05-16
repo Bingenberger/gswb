@@ -1,0 +1,76 @@
+{
+  "lemma": "groß",
+  "wortart": "Adjektiv",
+  "silben": "groß",
+  "begriffserklaerung": "Etwas ist groß, wenn es viel Platz einnimmt oder höher, länger oder weiter als andere Dinge ist.",
+  "beispielsatz": "Der Elefant ist ein sehr großes Tier.",
+  "rechtschreibstrategie": "Das Wort „groß\" endet mit ß – das schreibt man so, weil der Vokal davor lang gesprochen wird: grooß. Nach einem langen Vokal schreibt man ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "grammatische_formen": {
+    "positiv": "groß",
+    "komparativ": "größer",
+    "superlativ": "am größten"
+  },
+  "fehlschreibungen": [
+    "gross",
+    "groos",
+    "gros",
+    "grosz",
+    "gróß"
+  ],
+  "wortfamilie_basen": [
+    "groß"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Größe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergrößern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "riesig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "weit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "klein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hoch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "breit"
+    }
+  ],
+  "bild_datei": "groß.webp",
+  "audio_datei": "groß.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "big / large / tall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grand / grande"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كبير"
+    }
+  ]
+}

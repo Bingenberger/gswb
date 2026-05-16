@@ -1,0 +1,84 @@
+{
+  "lemma": "Feuerwehr",
+  "wortart": "Nomen",
+  "silben": "Feu-er-wehr",
+  "begriffserklaerung": "Die Feuerwehr ist eine Gruppe von Menschen, die bei Bränden und anderen Notfällen schnell helfen. Sie löschen Feuer und retten Menschen in Gefahr.",
+  "beispielsatz": "Die Feuerwehr kam mit lautem Sirenengeheul und löschte das Feuer schnell.",
+  "rechtschreibstrategie": "„Feuerwehr\" ist ein zusammengesetztes Wort aus „Feuer\" und „Wehr\". Sprich beide Teile deutlich: FEU-ER + WEHR. Das „eu\" klingt wie in „neu\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Wehr"
+  ],
+  "bild_datei": "Feuerwehr.webp",
+  "audio_datei": "Feuerwehr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire brigade / fire department"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pompiers"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itfaiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إطفاء الحرائق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rettungswagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Feuerwehr",
+    "plural": "die Feuerwehren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Feuerwehr",
+        "genitiv": "der Feuerwehr",
+        "dativ": "der Feuerwehr",
+        "akkusativ": "die Feuerwehr"
+      },
+      "plural": {
+        "nominativ": "die Feuerwehren",
+        "genitiv": "der Feuerwehren",
+        "dativ": "den Feuerwehren",
+        "akkusativ": "die Feuerwehren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuervehr",
+    "Feuerweehr",
+    "Feuerwer",
+    "Foierwehr",
+    "Feuerwear",
+    "Feuerweher"
+  ]
+}

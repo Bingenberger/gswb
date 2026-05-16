@@ -1,0 +1,81 @@
+{
+  "lemma": "Plastik",
+  "wortart": "Nomen",
+  "silben": "Plas-tik",
+  "begriffserklaerung": "Plastik ist ein künstlicher Stoff, der aus Erdöl hergestellt wird. Man kann daraus viele Dinge formen, zum Beispiel Flaschen, Tüten oder Spielzeug.",
+  "beispielsatz": "Die Trinkflasche meiner Schwester ist aus Plastik.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Plas-tik. Am Ende hörst du klar das „k\" – schreibe es auch so.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Plastik"
+  ],
+  "bild_datei": "Plastik.webp",
+  "audio_datei": "Plastik.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plastic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plastique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "plastik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلاستيك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plastiktüte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plastikmüll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verpackung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Plastik",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Plastik",
+        "genitiv": "des Plastiks",
+        "dativ": "dem Plastik",
+        "akkusativ": "das Plastik"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blastik",
+    "Plastick",
+    "Plastig",
+    "Plästik"
+  ]
+}

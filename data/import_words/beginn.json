@@ -1,0 +1,87 @@
+{
+  "lemma": "Beginn",
+  "wortart": "Nomen",
+  "silben": "Be-ginn",
+  "begriffserklaerung": "Der Beginn ist der Moment, in dem etwas anfängt oder losgeht.",
+  "beispielsatz": "Zu Beginn der Stunde begrüßt die Lehrerin alle Kinder.",
+  "rechtschreibstrategie": "Das Wort „Beginn\" endet mit einem doppelten n – denn nach dem kurzen „i\" verdoppelst du den Buchstaben n: Be-ginn.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "beginn"
+  ],
+  "bild_datei": "Beginn.webp",
+  "audio_datei": "Beginn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beginning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "début"
+    },
+    {
+      "language_code": "tr",
+      "translation": "başlangıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بداية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beginnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beginner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anfang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Start"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ablauf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beginn",
+    "plural": "die Beginne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beginn",
+        "genitiv": "des Beginns",
+        "dativ": "dem Beginn",
+        "akkusativ": "den Beginn"
+      },
+      "plural": {
+        "nominativ": "die Beginne",
+        "genitiv": "der Beginne",
+        "dativ": "den Beginnen",
+        "akkusativ": "die Beginne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beggin",
+    "Begginn",
+    "Begun",
+    "Begien",
+    "Beginn",
+    "Beging"
+  ]
+}

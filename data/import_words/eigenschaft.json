@@ -1,0 +1,86 @@
+{
+  "lemma": "Eigenschaft",
+  "wortart": "Nomen",
+  "silben": "Ei-gen-schaft",
+  "begriffserklaerung": "Eine Eigenschaft sagt, wie jemand oder etwas ist. Zum Beispiel kann eine Katze weich, schnell oder neugierig sein – das sind ihre Eigenschaften.",
+  "beispielsatz": "Freundlichkeit ist eine tolle Eigenschaft von meiner besten Freundin.",
+  "rechtschreibstrategie": "Denke an das Wort „eigen\" – das steckt am Anfang drin! Dann kommt „-schaft\" wie bei „Freundschaft\". Bau das Wort Stück für Stück zusammen: ei-gen-schaft.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "eigen"
+  ],
+  "bild_datei": "Eigenschaft.webp",
+  "audio_datei": "Eigenschaft.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eigenschaft",
+    "plural": "die Eigenschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eigenschaft",
+        "genitiv": "der Eigenschaft",
+        "dativ": "der Eigenschaft",
+        "akkusativ": "die Eigenschaft"
+      },
+      "plural": {
+        "nominativ": "die Eigenschaften",
+        "genitiv": "der Eigenschaften",
+        "dativ": "den Eigenschaften",
+        "akkusativ": "die Eigenschaften"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "property / characteristic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caractéristique / propriété"
+    },
+    {
+      "language_code": "tr",
+      "translation": "özellik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خاصية / صفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigentlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Merkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beschreibung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Charakter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Merkmal"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eigentschaft",
+    "Aigenschaft",
+    "Eigenschafft",
+    "Eigennschaft",
+    "Eigenscahft"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Tacker",
+  "wortart": "Nomen",
+  "silben": "Ta-cker",
+  "begriffserklaerung": "Ein Tacker ist ein Gerät, mit dem man Blätter oder Papiere zusammenheftet. Er schießt kleine Metallklammern durch das Papier.",
+  "beispielsatz": "Die Lehrerin heftet die Zettel mit dem Tacker zusammen.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „ck\" – das ist das Kürzezeichen: Ta-cker.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tack"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tacker",
+    "plural": "die Tacker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tacker",
+        "genitiv": "des Tackers",
+        "dativ": "dem Tacker",
+        "akkusativ": "den Tacker"
+      },
+      "plural": {
+        "nominativ": "die Tacker",
+        "genitiv": "der Tacker",
+        "dativ": "den Tackern",
+        "akkusativ": "die Tacker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Taker",
+    "Takker",
+    "Dacker",
+    "Taccker",
+    "Taca"
+  ],
+  "bild_datei": "Tacker.webp",
+  "audio_datei": "Tacker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stapler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agrafeuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zımba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دباسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tackern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tackernadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hefter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Locher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heftgerät"
+    }
+  ]
+}

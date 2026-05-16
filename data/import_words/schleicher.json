@@ -1,0 +1,83 @@
+{
+  "lemma": "Schleicher",
+  "wortart": "Nomen",
+  "silben": "Schlei-cher",
+  "begriffserklaerung": "Ein Schleicher ist jemand, der sich leise und vorsichtig fortbewegt, um nicht aufzufallen – so wie eine Katze auf der Jagd.",
+  "beispielsatz": "Unser Kater ist ein echter Schleicher – man hört ihn kaum, wenn er durch die Wohnung läuft.",
+  "rechtschreibstrategie": "Das Wort „Schleicher\" kommt von „schleichen\". Das ei sprichst du wie in „Eis\" – merke dir: ei-ei, der Schleicher kommt herbei!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schleich"
+  ],
+  "bild_datei": "Schleicher.webp",
+  "audio_datei": "Schleicher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schleicher",
+    "plural": "die Schleicher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schleicher",
+        "genitiv": "des Schleichers",
+        "dativ": "dem Schleicher",
+        "akkusativ": "den Schleicher"
+      },
+      "plural": {
+        "nominativ": "die Schleicher",
+        "genitiv": "der Schleicher",
+        "dativ": "den Schleichern",
+        "akkusativ": "die Schleicher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sneak / creeper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "celui qui se faufile / le rampant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinsice yürüyen kişi / sinsi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "المتسلل / الزاحق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schleichen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schleichweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleichweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leisetreter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leisetreter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schleiccher",
+    "Schleigher",
+    "Schlicher",
+    "Schlaicher",
+    "Schleucher"
+  ]
+}

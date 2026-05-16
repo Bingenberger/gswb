@@ -1,0 +1,98 @@
+{
+  "lemma": "schweben",
+  "wortart": "Verb",
+  "silben": "schwe-ben",
+  "begriffserklaerung": "Wenn etwas schwebt, hängt oder bewegt es sich in der Luft, ohne zu fallen.",
+  "beispielsatz": "Der bunte Luftballon schwebt hoch oben am Himmel.",
+  "rechtschreibstrategie": "Sprich das Wort laut: schwe-ben. Du hörst ein weiches „b\" in der Mitte – das schreibst du auch so.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schweb"
+  ],
+  "bild_datei": "schweben.webp",
+  "audio_datei": "schweben.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schweben",
+    "praesens": {
+      "ich": "schwebe",
+      "du": "schwebst",
+      "er_sie_es": "schwebt",
+      "wir": "schweben",
+      "ihr": "schwebt",
+      "sie": "schweben"
+    },
+    "perfekt": {
+      "ich": "bin geschwebt",
+      "du": "bist geschwebt",
+      "er_sie_es": "ist geschwebt",
+      "wir": "sind geschwebt",
+      "ihr": "seid geschwebt",
+      "sie": "sind geschwebt"
+    },
+    "praeteritum": {
+      "ich": "schwebte",
+      "du": "schwebtest",
+      "er_sie_es": "schwebte",
+      "wir": "schwebten",
+      "ihr": "schwebtet",
+      "sie": "schwebten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to float / to hover"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flotter / planer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçmak / havada süzülmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحلّق / يطفو في الهواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwebeflug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwebend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gleiten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "treiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sinken"
+    }
+  ],
+  "fehlschreibungen": [
+    "schwäben",
+    "schweben",
+    "shweben",
+    "schwebben",
+    "schwevben"
+  ]
+}

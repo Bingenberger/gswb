@@ -1,0 +1,83 @@
+{
+  "lemma": "Schlauch",
+  "wortart": "Nomen",
+  "silben": "Schlauch",
+  "begriffserklaerung": "Ein Schlauch ist ein langes, biegsames Rohr aus Gummi oder Kunststoff, durch das Wasser oder Luft fließen kann.",
+  "beispielsatz": "Der Gärtner benutzt den Schlauch, um die Blumen zu gießen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Schlauch\". Das „au\" klingt wie in „Haus\". Schreibe: SCH-L-AU-CH.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schlauch"
+  ],
+  "bild_datei": "Schlauch.webp",
+  "audio_datei": "Schlauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tuyau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hortum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خرطوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schläuchlein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlauchboot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rohr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlauch",
+    "plural": "die Schläuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlauch",
+        "genitiv": "des Schlauchs",
+        "dativ": "dem Schlauch",
+        "akkusativ": "den Schlauch"
+      },
+      "plural": {
+        "nominativ": "die Schläuche",
+        "genitiv": "der Schläuche",
+        "dativ": "den Schläuchen",
+        "akkusativ": "die Schläuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlaug",
+    "Schloch",
+    "Schlauh",
+    "Schlouch",
+    "Slauch",
+    "Schlauc"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Abfall",
+  "wortart": "Nomen",
+  "silben": "Ab-fall",
+  "begriffserklaerung": "Abfall sind Dinge, die man nicht mehr braucht und wegwirft, zum Beispiel leere Flaschen, alte Zeitungen oder Essensreste.",
+  "beispielsatz": "Wirf den Abfall bitte in den Mülleimer!",
+  "rechtschreibstrategie": "„Abfall\" ist ein Bausteinwort aus „ab\" und „Fall\". Denk beim Schreiben an das Wort „fallen\" – dann weißt du, dass da zwei „l\" stehen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fall"
+  ],
+  "bild_datei": "Abfall.webp",
+  "audio_datei": "Abfall.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waste / rubbish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déchet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نفايات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unrat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülleimer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abfall",
+    "plural": "die Abfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abfall",
+        "genitiv": "des Abfalls",
+        "dativ": "dem Abfall",
+        "akkusativ": "den Abfall"
+      },
+      "plural": {
+        "nominativ": "die Abfälle",
+        "genitiv": "der Abfälle",
+        "dativ": "den Abfällen",
+        "akkusativ": "die Abfälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abfal",
+    "Abpfall",
+    "abfall",
+    "Apfall",
+    "Abbfall",
+    "Abfahl"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Körperteil",
+  "wortart": "Nomen",
+  "silben": "Kör-per-teil",
+  "begriffserklaerung": "Ein Körperteil ist ein bestimmter Abschnitt oder ein Bereich des menschlichen oder tierischen Körpers, zum Beispiel der Arm, das Bein oder der Kopf.",
+  "beispielsatz": "Der Arm ist ein wichtiger Körperteil, den wir zum Greifen brauchen.",
+  "rechtschreibstrategie": "„Körperteil\" ist aus zwei Wörtern zusammengesetzt: „Körper\" und „Teil\". Sprich beide Teile laut: KÖR-per + TEIL. Achte auf das Umlaut-Ö in „Körper\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Körper",
+    "Teil"
+  ],
+  "bild_datei": "Körperteil.webp",
+  "audio_datei": "Körperteil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "body part"
+    },
+    {
+      "language_code": "fr",
+      "translation": "partie du corps"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vücut bölümü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزء من الجسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Körperteil",
+    "plural": "die Körperteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Körperteil",
+        "genitiv": "des Körperteils",
+        "dativ": "dem Körperteil",
+        "akkusativ": "das Körperteil"
+      },
+      "plural": {
+        "nominativ": "die Körperteile",
+        "genitiv": "der Körperteile",
+        "dativ": "den Körperteilen",
+        "akkusativ": "die Körperteile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Körpeteil",
+    "Köpертeil",
+    "Koerperteil",
+    "Körper-teil",
+    "Körperteil",
+    "Körpärteil",
+    "Körpreteil",
+    "Körperteill"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Märchen",
+  "wortart": "Nomen",
+  "silben": "Mär-chen",
+  "beispielsatz": "Abends liest mir meine Oma ein schönes Märchen vor.",
+  "begriffserklaerung": "Ein Märchen ist eine erfundene Geschichte mit Zauberei, mutigen Helden und oft einem guten Ende.",
+  "rechtschreibstrategie": "Denk an „Mär\" – sprich es laut: Das ä klingt hell. Und das „-chen\" am Ende macht das Wort klein und niedlich.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Mär",
+    "Märchen"
+  ],
+  "bild_datei": "Märchen.webp",
+  "audio_datei": "Märchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fairy tale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conte de fées"
+    },
+    {
+      "language_code": "tr",
+      "translation": "masal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حكاية خرافية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mär"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "märchenhaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Märchen",
+    "plural": "die Märchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Märchen",
+        "genitiv": "des Märchens",
+        "dativ": "dem Märchen",
+        "akkusativ": "das Märchen"
+      },
+      "plural": {
+        "nominativ": "die Märchen",
+        "genitiv": "der Märchen",
+        "dativ": "den Märchen",
+        "akkusativ": "die Märchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maerchen",
+    "Märschen",
+    "Mährchen",
+    "Märchen",
+    "Mächen",
+    "Merchen"
+  ]
+}

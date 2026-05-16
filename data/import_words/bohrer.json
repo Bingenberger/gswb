@@ -1,0 +1,83 @@
+{
+  "lemma": "Bohrer",
+  "wortart": "Nomen",
+  "silben": "Boh-rer",
+  "begriffserklaerung": "Ein Bohrer ist ein spitzes Werkzeug, mit dem man Löcher in Holz, Wand oder Metall bohren kann.",
+  "beispielsatz": "Papa benutzt den Bohrer, um ein Loch in die Wand zu machen.",
+  "rechtschreibstrategie": "Denk an das Wort „bohren\" – daraus wird „Bohr-er\". Das lange „o\" schreibt man hier mit „oh\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "bohr"
+  ],
+  "bild_datei": "Bohrer.webp",
+  "audio_datei": "Bohrer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bohrer",
+    "plural": "die Bohrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bohrer",
+        "genitiv": "des Bohrers",
+        "dativ": "dem Bohrer",
+        "akkusativ": "den Bohrer"
+      },
+      "plural": {
+        "nominativ": "die Bohrer",
+        "genitiv": "der Bohrer",
+        "dativ": "den Bohrern",
+        "akkusativ": "die Bohrer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perceuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "matkap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِثقَب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bohren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bohrung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraubenzieher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Borer",
+    "Bohhrer",
+    "Bohrrer",
+    "Bohrar",
+    "Boherer"
+  ]
+}

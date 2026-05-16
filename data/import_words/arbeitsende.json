@@ -1,0 +1,83 @@
+{
+  "lemma": "Arbeitsende",
+  "wortart": "Nomen",
+  "silben": "Ar-beits-en-de",
+  "begriffserklaerung": "Das Arbeitsende ist der Zeitpunkt, an dem die Arbeit aufhört und man nach Hause gehen kann.",
+  "beispielsatz": "Nach dem Arbeitsende kommt Papa endlich nach Hause.",
+  "rechtschreibstrategie": "Das Wort „Arbeitsende\" besteht aus zwei Teilen: „Arbeit\" und „Ende\". Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit",
+    "Ende"
+  ],
+  "bild_datei": "Arbeitsende.webp",
+  "audio_datei": "Arbeitsende.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "end of work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fin du travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iş sonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهاية العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feierabend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeitszeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feierabend"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Arbeitsende",
+    "plural": "die Arbeitsenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Arbeitsende",
+        "genitiv": "des Arbeitsendes",
+        "dativ": "dem Arbeitsende",
+        "akkusativ": "das Arbeitsende"
+      },
+      "plural": {
+        "nominativ": "die Arbeitsenden",
+        "genitiv": "der Arbeitsenden",
+        "dativ": "den Arbeitsenden",
+        "akkusativ": "die Arbeitsenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arbeizende",
+    "Arbeitsände",
+    "Arbaitsende",
+    "Arbeitsente",
+    "Arbeitsennte"
+  ]
+}

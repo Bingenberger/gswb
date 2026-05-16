@@ -1,0 +1,91 @@
+{
+  "lemma": "Feuer",
+  "wortart": "Nomen",
+  "silben": "Feu-er",
+  "begriffserklaerung": "Feuer entsteht, wenn etwas brennt. Es leuchtet, wärmt und kann sehr heiß sein.",
+  "beispielsatz": "Das Feuer im Kamin wärmt das ganze Zimmer.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Feu-er. Das „eu\" klingt wie in „Eule\". Merke: Feuer hat keine Verlängerung – schreib es einfach so, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer"
+  ],
+  "bild_datei": "Feuer.webp",
+  "audio_datei": "Feuer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "feuern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "feurig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flamme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feuer",
+    "plural": "die Feuer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feuer",
+        "genitiv": "des Feuers",
+        "dativ": "dem Feuer",
+        "akkusativ": "das Feuer"
+      },
+      "plural": {
+        "nominativ": "die Feuer",
+        "genitiv": "der Feuer",
+        "dativ": "den Feuern",
+        "akkusativ": "die Feuer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feier",
+    "Feuuer",
+    "Feuer",
+    "Feuur",
+    "Feuar",
+    "Foier"
+  ]
+}

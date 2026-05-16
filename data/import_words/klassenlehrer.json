@@ -1,0 +1,85 @@
+{
+  "lemma": "Klassenlehrer",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-leh-rer",
+  "begriffserklaerung": "Ein Klassenlehrer ist der Lehrer, der für eine bestimmte Schulklasse zuständig ist. Er unterrichtet die Kinder und kümmert sich um alles, was in der Klasse wichtig ist.",
+  "beispielsatz": "Unser Klassenlehrer erklärt uns jeden Morgen, was wir heute lernen werden.",
+  "rechtschreibstrategie": "Das Wort „Klassenlehrer\" ist aus zwei Wörtern zusammengesetzt: „Klasse\" und „Lehrer\". Achte auf das Dehnungs-h in „Lehrer\" und auf das Doppel-s in „Klasse\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "lehren"
+  ],
+  "bild_datei": "Klassenlehrer.webp",
+  "audio_datei": "Klassenlehrer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klassenlehrer",
+    "plural": "die Klassenlehrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klassenlehrer",
+        "genitiv": "des Klassenlehrers",
+        "dativ": "dem Klassenlehrer",
+        "akkusativ": "den Klassenlehrer"
+      },
+      "plural": {
+        "nominativ": "die Klassenlehrer",
+        "genitiv": "der Klassenlehrer",
+        "dativ": "den Klassenlehrern",
+        "akkusativ": "die Klassenlehrer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "class teacher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "professeur principal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf öğretmeni"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معلم الفصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klassenlehrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenleiter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klasenlehrer",
+    "Klassenleere",
+    "Klassenlerher",
+    "Klassen-Lehrer",
+    "Klasenlerher"
+  ]
+}

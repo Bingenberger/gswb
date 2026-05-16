@@ -1,0 +1,84 @@
+{
+  "lemma": "Lautsprecher",
+  "wortart": "Nomen",
+  "silben": "Laut-spre-cher",
+  "begriffserklaerung": "Ein Lautsprecher ist ein Gerät, das Töne und Musik laut macht, damit viele Menschen sie hören können.",
+  "beispielsatz": "Aus dem Lautsprecher kommt laute Musik.",
+  "rechtschreibstrategie": "Das Wort „Lautsprecher\" ist aus drei Teilen zusammengesetzt: „laut\" + „sprech\" + „er\". Sprich alle Teile deutlich: LAUT-SPRECH-ER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "laut",
+    "sprechen"
+  ],
+  "bild_datei": "Lautsprecher.webp",
+  "audio_datei": "Lautsprecher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lautsprecher",
+    "plural": "die Lautsprecher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lautsprecher",
+        "genitiv": "des Lautsprechers",
+        "dativ": "dem Lautsprecher",
+        "akkusativ": "den Lautsprecher"
+      },
+      "plural": {
+        "nominativ": "die Lautsprecher",
+        "genitiv": "der Lautsprecher",
+        "dativ": "den Lautsprechern",
+        "akkusativ": "die Lautsprecher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "loudspeaker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "haut-parleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hoparlör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكبر الصوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikrofon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Box"
+    }
+  ],
+  "fehlschreibungen": [
+    "Loutsprecher",
+    "Laudsprecher",
+    "Lautsprächer",
+    "Lautsprejer",
+    "Lautspreche",
+    "Lautspreccher"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "lemma": "speisen",
+  "wortart": "Verb",
+  "silben": "spei-sen",
+  "begriffserklaerung": "Speisen bedeutet, eine Mahlzeit zu essen, meistens etwas Feines oder Besonderes.",
+  "beispielsatz": "Die Familie speist jeden Sonntag gemeinsam am großen Tisch.",
+  "rechtschreibstrategie": "Das Wort „speisen\" hat ein langes ei, das du deutlich hörst: sp-EI-sen. Denke an „Speise\" – das ei bleibt immer gleich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Speis"
+  ],
+  "bild_datei": "speisen.webp",
+  "audio_datei": "speisen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to dine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dîner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yemek yemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتناول الطعام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Speise"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Speisesaal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "tafeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "speisen",
+    "praesens": {
+      "ich": "speise",
+      "du": "speist",
+      "er_sie_es": "speist",
+      "wir": "speisen",
+      "ihr": "speist",
+      "sie": "speisen"
+    },
+    "perfekt": {
+      "ich": "habe gespeist",
+      "du": "hast gespeist",
+      "er_sie_es": "hat gespeist",
+      "wir": "haben gespeist",
+      "ihr": "habt gespeist",
+      "sie": "haben gespeist"
+    },
+    "praeteritum": {
+      "ich": "speiste",
+      "du": "speistest",
+      "er_sie_es": "speiste",
+      "wir": "speisten",
+      "ihr": "speistet",
+      "sie": "speisten"
+    }
+  },
+  "fehlschreibungen": [
+    "speißen",
+    "speysen",
+    "speizen",
+    "speissen",
+    "speisssen"
+  ]
+}

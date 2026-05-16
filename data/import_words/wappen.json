@@ -1,0 +1,81 @@
+{
+  "lemma": "Wappen",
+  "wortart": "Nomen",
+  "silben": "Wap-pen",
+  "begriffserklaerung": "Ein Wappen ist ein besonderes Zeichen oder Bild, das für eine Familie, eine Stadt oder ein Land steht. Es zeigt oft Tiere, Farben oder Symbole.",
+  "beispielsatz": "Das Wappen unserer Stadt zeigt einen goldenen Löwen auf rotem Grund.",
+  "rechtschreibstrategie": "Das Wort „Wappen\" hat ein kurzes „a\", deshalb wird der Mitlaut p verdoppelt: Wap-pen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wappen",
+    "plural": "die Wappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wappen",
+        "genitiv": "des Wappens",
+        "dativ": "dem Wappen",
+        "akkusativ": "das Wappen"
+      },
+      "plural": {
+        "nominativ": "die Wappen",
+        "genitiv": "der Wappen",
+        "dativ": "den Wappen",
+        "akkusativ": "die Wappen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Wappen"
+  ],
+  "fehlschreibungen": [
+    "Wapen",
+    "Wapppen",
+    "Vappen",
+    "Wapен"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coat of arms"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blason"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شعار النبالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wappentier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wappenschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flagge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Symbol"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abzeichen"
+    }
+  ],
+  "bild_datei": "Wappen.webp",
+  "audio_datei": "Wappen.mp3"
+}

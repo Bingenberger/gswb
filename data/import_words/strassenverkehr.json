@@ -1,0 +1,86 @@
+{
+  "lemma": "Straßenverkehr",
+  "wortart": "Nomen",
+  "silben": "Stra-ßen-ver-kehr",
+  "begriffserklaerung": "Der Straßenverkehr ist alles, was sich auf der Straße bewegt: Autos, Fahrräder, Busse und Fußgänger.",
+  "beispielsatz": "Im Straßenverkehr müssen alle aufpassen und die Regeln befolgen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Straße\" + „en\" + „Verkehr\". Denke an das ß in „Straße\" und das Dehnungs-h in „Verkehr\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Straße",
+    "Verkehr"
+  ],
+  "bild_datei": "Straßenverkehr.webp",
+  "audio_datei": "Straßenverkehr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "road traffic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "circulation routière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yol trafiği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حركة المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrbahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Straßenverkehr",
+    "plural": "die Straßenverkehre",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Straßenverkehr",
+        "genitiv": "des Straßenverkehrs",
+        "dativ": "dem Straßenverkehr",
+        "akkusativ": "den Straßenverkehr"
+      },
+      "plural": {
+        "nominativ": "die Straßenverkehre",
+        "genitiv": "der Straßenverkehre",
+        "dativ": "den Straßenverkehren",
+        "akkusativ": "die Straßenverkehre"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Strassenverkehr",
+    "Straßenverkeer",
+    "Straßenferker",
+    "Straßenverkear",
+    "Straßenvercehr",
+    "Straßenverkähr"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Quadrat",
+  "wortart": "Nomen",
+  "silben": "Quad-rat",
+  "begriffserklaerung": "Ein Quadrat ist eine geometrische Figur mit vier gleich langen Seiten und vier rechten Winkeln.",
+  "beispielsatz": "Das rote Quadrat auf meinem Arbeitsblatt hat vier gleich lange Seiten.",
+  "rechtschreibstrategie": "Das Wort „Quadrat\" beginnt mit Qu – das Q steht fast immer zusammen mit dem u. Sprich es laut: Qu-a-d-r-a-t!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [
+    "quadrat"
+  ],
+  "bild_datei": "Quadrat.webp",
+  "audio_datei": "Quadrat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "square"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carré"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kare"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مربع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "quadratisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Quadratwurzel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechteck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Quadrat",
+    "plural": "die Quadrate",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Quadrat",
+        "genitiv": "des Quadrats",
+        "dativ": "dem Quadrat",
+        "akkusativ": "das Quadrat"
+      },
+      "plural": {
+        "nominativ": "die Quadrate",
+        "genitiv": "der Quadrate",
+        "dativ": "den Quadraten",
+        "akkusativ": "die Quadrate"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Quadrad",
+    "Kwadrat",
+    "Quadratt",
+    "Quaddrat",
+    "Quadraat"
+  ]
+}

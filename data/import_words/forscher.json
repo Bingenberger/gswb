@@ -1,0 +1,82 @@
+{
+  "lemma": "Forscher",
+  "wortart": "Nomen",
+  "silben": "For-scher",
+  "begriffserklaerung": "Ein Forscher ist eine Person, die etwas genau untersucht und herausfinden möchte, wie etwas funktioniert oder warum etwas so ist, wie es ist.",
+  "beispielsatz": "Der Forscher schaut jeden Tag durch sein Mikroskop und entdeckt dabei winzige Lebewesen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: For-scher. Höre das „sch\" in der zweiten Silbe – das schreibt man immer mit s-c-h.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "forsch"
+  ],
+  "bild_datei": "Forscher.webp",
+  "audio_datei": "Forscher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "researcher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chercheur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araştırmacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باحث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "forschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Forschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wissenschaftler"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Forscher",
+    "plural": "die Forscher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Forscher",
+        "genitiv": "des Forschers",
+        "dativ": "dem Forscher",
+        "akkusativ": "den Forscher"
+      },
+      "plural": {
+        "nominativ": "die Forscher",
+        "genitiv": "der Forscher",
+        "dativ": "den Forschern",
+        "akkusativ": "die Forscher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Forscer",
+    "Forscher",
+    "Forcher",
+    "Forsher",
+    "Vorscher"
+  ]
+}

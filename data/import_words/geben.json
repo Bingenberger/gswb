@@ -1,0 +1,104 @@
+{
+  "lemma": "geben",
+  "wortart": "Verb",
+  "silben": "ge-ben",
+  "begriffserklaerung": "Wenn du jemandem etwas gibst, übergibst du ihm etwas, damit er es hat oder benutzen kann.",
+  "beispielsatz": "Lena gibt ihrem Freund ein Stück Kuchen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ge-ben. Das „e\" in der ersten Silbe ist lang, deshalb schreibt man nur ein „b\" – kein Doppel-b.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "geb",
+    "gib"
+  ],
+  "bild_datei": "geben.webp",
+  "audio_datei": "geben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to give"
+    },
+    {
+      "language_code": "fr",
+      "translation": "donner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُعطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gabe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Angabe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergeben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "überreichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bringen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "geben",
+    "praesens": {
+      "ich": "gebe",
+      "du": "gibst",
+      "er_sie_es": "gibt",
+      "wir": "geben",
+      "ihr": "gebt",
+      "sie": "geben"
+    },
+    "perfekt": {
+      "ich": "habe gegeben",
+      "du": "hast gegeben",
+      "er_sie_es": "hat gegeben",
+      "wir": "haben gegeben",
+      "ihr": "habt gegeben",
+      "sie": "haben gegeben"
+    },
+    "praeteritum": {
+      "ich": "gab",
+      "du": "gabst",
+      "er_sie_es": "gab",
+      "wir": "gaben",
+      "ihr": "gabt",
+      "sie": "gaben"
+    }
+  },
+  "fehlschreibungen": [
+    "geben",
+    "gebn",
+    "geeben",
+    "gebben",
+    "gieben",
+    "giben"
+  ]
+}

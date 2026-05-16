@@ -1,0 +1,99 @@
+{
+  "lemma": "radeln",
+  "wortart": "Verb",
+  "silben": "ra-deln",
+  "begriffserklaerung": "Radeln bedeutet, mit dem Fahrrad fahren. Man tritt in die Pedale und rollt auf zwei Rädern vorwärts.",
+  "beispielsatz": "Jeden Morgen radelt Lena fröhlich zur Schule.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ra-deln. Du hörst das „d\" in der Mitte – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Rad"
+  ],
+  "bild_datei": "radeln.webp",
+  "audio_datei": "radeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to cycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire du vélo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bisiklete binmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يركب الدراجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rad fahren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "radfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "radeln",
+    "praesens": {
+      "ich": "radle",
+      "du": "radelst",
+      "er_sie_es": "radelt",
+      "wir": "radeln",
+      "ihr": "radelt",
+      "sie": "radeln"
+    },
+    "perfekt": {
+      "ich": "bin geradelt",
+      "du": "bist geradelt",
+      "er_sie_es": "ist geradelt",
+      "wir": "sind geradelt",
+      "ihr": "seid geradelt",
+      "sie": "sind geradelt"
+    },
+    "praeteritum": {
+      "ich": "radelte",
+      "du": "radeltest",
+      "er_sie_es": "radelte",
+      "wir": "radelten",
+      "ihr": "radeltet",
+      "sie": "radelten"
+    }
+  },
+  "fehlschreibungen": [
+    "ratteln",
+    "raddeln",
+    "radeln",
+    "rädern",
+    "radlen",
+    "radelln"
+  ]
+}

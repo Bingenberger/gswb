@@ -1,0 +1,86 @@
+{
+  "lemma": "Rand",
+  "wortart": "Nomen",
+  "silben": "Rand",
+  "begriffserklaerung": "Der Rand ist die äußerste Stelle eines Gegenstands oder einer Fläche – also genau da, wo etwas aufhört.",
+  "beispielsatz": "Der Stift liegt am Rand des Tisches und fällt gleich herunter.",
+  "rechtschreibstrategie": "Wenn du „Rand\" verlängerst, sagst du „Rän-der\" – dann hörst du das D am Ende ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rand"
+  ],
+  "bild_datei": "Rand.webp",
+  "audio_datei": "Rand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "edge, rim"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bord"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kenar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Randstreifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kante"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Saum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grenze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rand",
+    "plural": "die Ränder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rand",
+        "genitiv": "des Randes",
+        "dativ": "dem Rand",
+        "akkusativ": "den Rand"
+      },
+      "plural": {
+        "nominativ": "die Ränder",
+        "genitiv": "der Ränder",
+        "dativ": "den Rändern",
+        "akkusativ": "die Ränder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rant",
+    "Randt",
+    "Rahnd",
+    "Rend",
+    "Rand"
+  ]
+}

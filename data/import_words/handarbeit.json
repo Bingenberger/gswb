@@ -1,0 +1,87 @@
+{
+  "lemma": "Handarbeit",
+  "wortart": "Nomen",
+  "silben": "Hand-ar-beit",
+  "begriffserklaerung": "Eine Handarbeit ist etwas, das man mit den Händen herstellt – zum Beispiel Stricken, Nähen oder Basteln.",
+  "beispielsatz": "In der Schule macht Lena gerne Handarbeit und strickt einen bunten Schal.",
+  "rechtschreibstrategie": "Das Wort „Handarbeit\" besteht aus zwei Teilen: „Hand\" und „Arbeit\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Arbeit"
+  ],
+  "bild_datei": "Handarbeit.webp",
+  "audio_datei": "Handarbeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handicraft"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travail manuel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el işi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل يدوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nähen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stricken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Basteln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bastelarbeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Handarbeit",
+    "plural": "die Handarbeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Handarbeit",
+        "genitiv": "der Handarbeit",
+        "dativ": "der Handarbeit",
+        "akkusativ": "die Handarbeit"
+      },
+      "plural": {
+        "nominativ": "die Handarbeiten",
+        "genitiv": "der Handarbeiten",
+        "dativ": "den Handarbeiten",
+        "akkusativ": "die Handarbeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handarbeid",
+    "Hantarbeit",
+    "Handarbaid",
+    "Handarbait",
+    "HandArbeit"
+  ]
+}

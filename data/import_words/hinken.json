@@ -1,0 +1,93 @@
+{
+  "lemma": "hinken",
+  "wortart": "Verb",
+  "silben": "hin-ken",
+  "begriffserklaerung": "Wenn jemand hinkt, geht er ungleichmäßig, weil ein Bein wehtut oder kürzer ist.",
+  "beispielsatz": "Nach dem Sturz vom Fahrrad musste Tom ein paar Tage lang hinken.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „k\": hin-ken. Sprich die Silben laut mit – du hörst das doppelte „k\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "hink"
+  ],
+  "bild_datei": "hinken.webp",
+  "audio_datei": "hinken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to limp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boiter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "topallamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يعرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hinkend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lahmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stolpern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schleppen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "hinken",
+    "praesens": {
+      "ich": "hinke",
+      "du": "hinkst",
+      "er_sie_es": "hinkt",
+      "wir": "hinken",
+      "ihr": "hinkt",
+      "sie": "hinken"
+    },
+    "perfekt": {
+      "ich": "bin gehinkt",
+      "du": "bist gehinkt",
+      "er_sie_es": "ist gehinkt",
+      "wir": "sind gehinkt",
+      "ihr": "seid gehinkt",
+      "sie": "sind gehinkt"
+    },
+    "praeteritum": {
+      "ich": "hinkte",
+      "du": "hinktest",
+      "er_sie_es": "hinkte",
+      "wir": "hinkten",
+      "ihr": "hinktet",
+      "sie": "hinkten"
+    }
+  },
+  "fehlschreibungen": [
+    "hinken",
+    "hinkken",
+    "hincken",
+    "hingen"
+  ]
+}

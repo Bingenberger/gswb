@@ -1,0 +1,91 @@
+{
+  "lemma": "flechten",
+  "wortart": "Verb",
+  "silben": "flech-ten",
+  "begriffserklaerung": "Beim Flechten verkreuzt man mehrere Strähnen, Äste oder Fäden so miteinander, dass ein Muster entsteht – zum Beispiel ein Zopf oder ein Korb.",
+  "beispielsatz": "Mama flicht mir jeden Morgen einen langen Zopf.",
+  "rechtschreibstrategie": "Das Wort „flechten\" hat nach dem kurzen „e\" die Buchstabengruppe „ch\" – sprich es laut mit: flech-ten. Das „ch\" nach „e\" klingt weich, wie in „Licht\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "flecht"
+  ],
+  "bild_datei": "flechten.webp",
+  "audio_datei": "flechten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "flechten",
+    "praesens": {
+      "ich": "flechte",
+      "du": "flichtst",
+      "er_sie_es": "flicht",
+      "wir": "flechten",
+      "ihr": "flechtet",
+      "sie": "flechten"
+    },
+    "perfekt": {
+      "ich": "habe geflochten",
+      "du": "hast geflochten",
+      "er_sie_es": "hat geflochten",
+      "wir": "haben geflochten",
+      "ihr": "habt geflochten",
+      "sie": "haben geflochten"
+    },
+    "praeteritum": {
+      "ich": "flocht",
+      "du": "flochtest",
+      "er_sie_es": "flocht",
+      "wir": "flochten",
+      "ihr": "flochtet",
+      "sie": "flochten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to braid / to weave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tresser / natter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "örmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يضفر / ينسج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geflecht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "knüpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "binden"
+    }
+  ],
+  "fehlschreibungen": [
+    "flechden",
+    "fleckten",
+    "flechtен",
+    "flächtеn",
+    "flechen",
+    "fleschten"
+  ]
+}

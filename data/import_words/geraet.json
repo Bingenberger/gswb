@@ -1,0 +1,93 @@
+{
+  "lemma": "Gerät",
+  "wortart": "Nomen",
+  "silben": "Ge-rät",
+  "begriffserklaerung": "Ein Gerät ist ein Werkzeug oder eine Maschine, mit der man etwas Bestimmtes tun kann.",
+  "beispielsatz": "Die Lehrerin benutzt ein Gerät, um den Film an die Wand zu projizieren.",
+  "rechtschreibstrategie": "Verlängere das Wort: ein Gerät – viele Geräte. Am Ende hörst du deutlich das „t\", und das ä schreibst du mit Umlaut.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "rät",
+    "Rat"
+  ],
+  "bild_datei": "Gerät.webp",
+  "audio_datei": "Gerät.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gerät",
+    "plural": "die Geräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gerät",
+        "genitiv": "des Gerätes",
+        "dativ": "dem Gerät",
+        "akkusativ": "das Gerät"
+      },
+      "plural": {
+        "nominativ": "die Geräte",
+        "genitiv": "der Geräte",
+        "dativ": "den Geräten",
+        "akkusativ": "die Geräte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "device / appliance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alet / cihaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geraten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Apparat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Technik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gerät",
+    "Gerähd",
+    "Gerähdt",
+    "Geraedt",
+    "Geraet",
+    "Geräd"
+  ]
+}

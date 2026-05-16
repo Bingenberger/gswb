@@ -1,0 +1,86 @@
+{
+  "lemma": "Gestank",
+  "wortart": "Nomen",
+  "silben": "Ge-stank",
+  "begriffserklaerung": "Ein Gestank ist ein sehr unangenehmer, schlimmer Geruch, der einem die Nase rümpfen lässt.",
+  "beispielsatz": "Aus dem Mülleimer kam ein furchtbarer Gestank.",
+  "rechtschreibstrategie": "Denk an das Verb „stinken\": Ge-stank kommt von „stank\" – der Vergangenheitsform von stinken. Das „st\" sprichst du klar mit!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "stink"
+  ],
+  "bild_datei": "Gestank.webp",
+  "audio_datei": "Gestank.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gestank",
+    "plural": "die Gestänke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gestank",
+        "genitiv": "des Gestanks",
+        "dativ": "dem Gestank",
+        "akkusativ": "den Gestank"
+      },
+      "plural": {
+        "nominativ": "die Gestänke",
+        "genitiv": "der Gestänke",
+        "dativ": "den Gestänken",
+        "akkusativ": "die Gestänke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stench"
+    },
+    {
+      "language_code": "fr",
+      "translation": "puanteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pis koku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رائحة كريهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stinkend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gestanck",
+    "Gestangk",
+    "Gestannk",
+    "Gestand",
+    "Gestankt"
+  ]
+}

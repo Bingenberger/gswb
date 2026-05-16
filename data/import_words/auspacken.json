@@ -1,0 +1,98 @@
+{
+  "lemma": "auspacken",
+  "wortart": "Verb",
+  "silben": "aus-pa-cken",
+  "begriffserklaerung": "Auspacken bedeutet, etwas aus einer Tasche, einem Koffer oder einem Paket herauszunehmen.",
+  "beispielsatz": "An Weihnachten darf ich meine Geschenke auspacken.",
+  "rechtschreibstrategie": "Das Wort „auspacken\" endet auf -cken. Nach dem kurzen Vokal „a\" schreibt man „ck\" statt nur „k\". Sprich es laut: aus-pa-cken!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "pack"
+  ],
+  "bild_datei": "auspacken.webp",
+  "audio_datei": "auspacken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "auspacken",
+    "praesens": {
+      "ich": "packe aus",
+      "du": "packst aus",
+      "er_sie_es": "packt aus",
+      "wir": "packen aus",
+      "ihr": "packt aus",
+      "sie": "packen aus"
+    },
+    "perfekt": {
+      "ich": "habe ausgepackt",
+      "du": "hast ausgepackt",
+      "er_sie_es": "hat ausgepackt",
+      "wir": "haben ausgepackt",
+      "ihr": "habt ausgepackt",
+      "sie": "haben ausgepackt"
+    },
+    "praeteritum": {
+      "ich": "packte aus",
+      "du": "packtest aus",
+      "er_sie_es": "packte aus",
+      "wir": "packten aus",
+      "ihr": "packtet aus",
+      "sie": "packten aus"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to unpack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déballer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "paketi açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يفتح الحقيبة / يفك التغليف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einpacken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verpacken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "herausnehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einpacken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verschenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "überraschen"
+    }
+  ],
+  "fehlschreibungen": [
+    "auspaken",
+    "auspackken",
+    "auspackn",
+    "auspacen"
+  ]
+}

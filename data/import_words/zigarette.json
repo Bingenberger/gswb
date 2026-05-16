@@ -1,0 +1,74 @@
+{
+  "lemma": "Zigarette",
+  "wortart": "Nomen",
+  "silben": "Zi-ga-ret-te",
+  "begriffserklaerung": "Eine Zigarette ist ein dünnes Röllchen aus getrocknetem Tabak, das Erwachsene rauchen. Rauchen ist ungesund und schadet dem Körper.",
+  "beispielsatz": "Auf der Schachtel der Zigaretten steht ein Warnhinweis, dass Rauchen sehr ungesund ist.",
+  "rechtschreibstrategie": "Das Wort hat am Ende eine Doppelkonsonant: „tt\". Sprich beide T deutlich: Zi-ga-RET-te!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Zigarette"
+  ],
+  "bild_datei": "Zigarette.webp",
+  "audio_datei": "Zigarette.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cigarette"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cigarette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sigara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيجارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tabak"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zigarillo"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zigarette",
+    "plural": "die Zigaretten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zigarette",
+        "genitiv": "der Zigarette",
+        "dativ": "der Zigarette",
+        "akkusativ": "die Zigarette"
+      },
+      "plural": {
+        "nominativ": "die Zigaretten",
+        "genitiv": "der Zigaretten",
+        "dativ": "den Zigaretten",
+        "akkusativ": "die Zigaretten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zigarete",
+    "Zigarrette",
+    "Zigarrete",
+    "Tzigarette",
+    "Sigarette"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Papier",
+  "wortart": "Nomen",
+  "silben": "Pa-pier",
+  "begriffserklaerung": "Papier ist ein dünnes, flaches Material, auf das man schreiben, malen oder drucken kann.",
+  "beispielsatz": "Ich male ein buntes Bild auf das weiße Papier.",
+  "rechtschreibstrategie": "Das Wort „Papier\" endet auf -ier – denk daran: Das „ie\" spricht man lang, und es gibt kein Dehnungs-h. Merk dir einfach: Pa-pier!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Papier",
+    "plural": "die Papiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Papier",
+        "genitiv": "des Papiers",
+        "dativ": "dem Papier",
+        "akkusativ": "das Papier"
+      },
+      "plural": {
+        "nominativ": "die Papiere",
+        "genitiv": "der Papiere",
+        "dativ": "den Papieren",
+        "akkusativ": "die Papiere"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Papier"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papierfabrik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papierkorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blatt"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kâğıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة"
+    }
+  ],
+  "fehlschreibungen": [
+    "Papier",
+    "Paipier",
+    "Papir",
+    "Pappier"
+  ],
+  "bild_datei": "Papier.webp",
+  "audio_datei": "Papier.mp3"
+}

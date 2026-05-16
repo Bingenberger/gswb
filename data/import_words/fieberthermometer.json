@@ -1,0 +1,85 @@
+{
+  "lemma": "Fieberthermometer",
+  "wortart": "Nomen",
+  "silben": "Fie-ber-ther-mo-me-ter",
+  "begriffserklaerung": "Ein Fieberthermometer ist ein Messgerät, mit dem man die Körpertemperatur eines Menschen messen kann. So kann man herausfinden, ob jemand Fieber hat.",
+  "beispielsatz": "Die Mama steckte das Fieberthermometer unter Lenas Arm, um zu sehen, ob sie krank war.",
+  "rechtschreibstrategie": "Das Wort ist zusammengesetzt aus drei Teilen: „Fieber\" + „Thermo\" + „Meter\". Schreib es Stück für Stück: Fie-ber-ther-mo-me-ter. Achte auf das ie in „Fieber\" und das th in „Thermo\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fieber",
+    "Thermometer"
+  ],
+  "bild_datei": "Fieberthermometer.webp",
+  "audio_datei": "Fieberthermometer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fever thermometer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thermomètre médical"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateş termometresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقياس حرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fieber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Thermometer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medikament"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fieberthermometer",
+    "plural": "die Fieberthermometer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fieberthermometer",
+        "genitiv": "des Fieberthermometers",
+        "dativ": "dem Fieberthermometer",
+        "akkusativ": "das Fieberthermometer"
+      },
+      "plural": {
+        "nominativ": "die Fieberthermometer",
+        "genitiv": "der Fieberthermometer",
+        "dativ": "den Fieberthermometern",
+        "akkusativ": "die Fieberthermometer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fiebertermometer",
+    "Fiberthermometer",
+    "Fieberthermomether",
+    "Fieberthermomter",
+    "Fiebertemometer",
+    "Fieberthermmometer"
+  ]
+}

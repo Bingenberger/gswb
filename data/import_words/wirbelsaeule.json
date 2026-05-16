@@ -1,0 +1,87 @@
+{
+  "lemma": "Wirbelsäule",
+  "wortart": "Nomen",
+  "silben": "Wir-bel-säu-le",
+  "begriffserklaerung": "Die Wirbelsäule ist das lange Knochengerüst in deinem Rücken. Sie besteht aus vielen kleinen Knochen, den Wirbeln, und hält deinen Körper aufrecht.",
+  "beispielsatz": "Die Ärztin sagt, eine gerade Wirbelsäule ist wichtig, damit dein Rücken nicht wehtut.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Wirbel\" und „Säule\". Sprich beide Teile deutlich: Wir-bel-säu-le. Das „ä\" in „Säule\" klingt wie ein langes A mit Pünktchen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Wirbel",
+    "Säule"
+  ],
+  "bild_datei": "Wirbelsäule.webp",
+  "audio_datei": "Wirbelsäule.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colonne vertébrale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "omurga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "العمود الفقري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirbel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Säule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Skelett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wirbelsäule",
+    "plural": "die Wirbelsäulen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wirbelsäule",
+        "genitiv": "der Wirbelsäule",
+        "dativ": "der Wirbelsäule",
+        "akkusativ": "die Wirbelsäule"
+      },
+      "plural": {
+        "nominativ": "die Wirbelsäulen",
+        "genitiv": "der Wirbelsäulen",
+        "dativ": "den Wirbelsäulen",
+        "akkusativ": "die Wirbelsäulen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wirbelsäulle",
+    "Wirbelseule",
+    "Wirbelseulle",
+    "Wirbelsäule",
+    "Wirrbelsäule",
+    "Wirbelsäul",
+    "Wibelsäule",
+    "Wirbelsäulen"
+  ]
+}

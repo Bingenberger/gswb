@@ -1,0 +1,83 @@
+{
+  "lemma": "Stromkreis",
+  "wortart": "Nomen",
+  "silben": "Strom-kreis",
+  "begriffserklaerung": "Ein Stromkreis ist ein geschlossener Weg, auf dem elektrischer Strom fließen kann – zum Beispiel von einer Batterie durch eine Lampe und wieder zurück.",
+  "beispielsatz": "Wenn wir den Stromkreis schließen, leuchtet die Glühbirne auf.",
+  "rechtschreibstrategie": "Das Wort „Stromkreis\" ist aus zwei Wörtern zusammengebaut: „Strom\" und „Kreis\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Strom",
+    "Kreis"
+  ],
+  "bild_datei": "Stromkreis.webp",
+  "audio_datei": "Stromkreis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electric circuit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "circuit électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik devresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دائرة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schalter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glühbirne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stromkreis",
+    "plural": "die Stromkreise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stromkreis",
+        "genitiv": "des Stromkreises",
+        "dativ": "dem Stromkreis",
+        "akkusativ": "den Stromkreis"
+      },
+      "plural": {
+        "nominativ": "die Stromkreise",
+        "genitiv": "der Stromkreise",
+        "dativ": "den Stromkreisen",
+        "akkusativ": "die Stromkreise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stromkreis",
+    "Stormkreis",
+    "Strom-Kreis",
+    "Stromkreiß",
+    "Stromkrais"
+  ]
+}

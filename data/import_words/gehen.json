@@ -1,0 +1,104 @@
+{
+  "lemma": "gehen",
+  "wortart": "Verb",
+  "silben": "ge-hen",
+  "begriffserklaerung": "Wenn du gehst, bewegst du dich auf deinen Beinen von einem Ort zum anderen.",
+  "beispielsatz": "Ich gehe jeden Morgen zu Fuß in die Schule.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Nach dem langen „e\" kommt ein „h\", das man nicht hört – g-E-H-en. Sprich das Wort langsam: „ge-hen\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "geh",
+    "gang"
+  ],
+  "bild_datei": "gehen.webp",
+  "audio_datei": "gehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "gehen",
+    "praesens": {
+      "ich": "gehe",
+      "du": "gehst",
+      "er_sie_es": "geht",
+      "wir": "gehen",
+      "ihr": "geht",
+      "sie": "gehen"
+    },
+    "perfekt": {
+      "ich": "bin gegangen",
+      "du": "bist gegangen",
+      "er_sie_es": "ist gegangen",
+      "wir": "sind gegangen",
+      "ihr": "seid gegangen",
+      "sie": "sind gegangen"
+    },
+    "praeteritum": {
+      "ich": "ging",
+      "du": "gingst",
+      "er_sie_es": "ging",
+      "wir": "gingen",
+      "ihr": "gingt",
+      "sie": "gingen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to go / to walk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aller / marcher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gitmek / yürümek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَذْهَبُ / يَمْشِي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gehweg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schreiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "spazieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wandern"
+    }
+  ],
+  "fehlschreibungen": [
+    "geen",
+    "gehn",
+    "gehen",
+    "geehn",
+    "gän",
+    "geehen"
+  ]
+}

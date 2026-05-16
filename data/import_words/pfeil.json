@@ -1,0 +1,82 @@
+{
+  "lemma": "Pfeil",
+  "wortart": "Nomen",
+  "silben": "Pfeil",
+  "begriffserklaerung": "Ein Pfeil ist ein langer, dünner Stab mit einer Spitze vorne, der mit einem Bogen abgeschossen wird.",
+  "beispielsatz": "Der Bogenschütze schießt einen Pfeil auf die Zielscheibe.",
+  "rechtschreibstrategie": "Das Wort „Pfeil\" hat den langen Vokal „ei\" – sprich es laut: Pf-ei-l. Das „ei\" schreibst du immer mit e und i zusammen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pfeil"
+  ],
+  "bild_datei": "Pfeil.webp",
+  "audio_datei": "Pfeil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "arrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flèche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ok"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سهم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pfeilspitze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pfeilschnell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Köcher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zielscheibe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pfeil",
+    "plural": "die Pfeile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pfeil",
+        "genitiv": "des Pfeiles",
+        "dativ": "dem Pfeil",
+        "akkusativ": "den Pfeil"
+      },
+      "plural": {
+        "nominativ": "die Pfeile",
+        "genitiv": "der Pfeile",
+        "dativ": "den Pfeilen",
+        "akkusativ": "die Pfeile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pfail",
+    "Pheil",
+    "Pfeill",
+    "Vfeil",
+    "Pfeiel"
+  ]
+}

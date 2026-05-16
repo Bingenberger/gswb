@@ -1,0 +1,83 @@
+{
+  "lemma": "Zeiger",
+  "wortart": "Nomen",
+  "silben": "Zei-ger",
+  "begriffserklaerung": "Ein Zeiger ist ein dünner Stab oder Pfeil, der auf etwas hinzeigt – zum Beispiel die Stunden und Minuten auf einer Uhr.",
+  "beispielsatz": "Der große Zeiger der Uhr steht auf der zwölf.",
+  "rechtschreibstrategie": "Denke an das Verb „zeigen\": Zeiger kommt von „zeigen\", daher schreibt man es mit „ei\" und nicht mit „ai\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "zeig"
+  ],
+  "bild_datei": "Zeiger.webp",
+  "audio_datei": "Zeiger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hand (of a clock) / pointer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aiguille / pointeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akrep / ibre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقرب (الساعة) / مؤشر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anzeige"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pfeil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zeiger",
+    "plural": "die Zeiger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zeiger",
+        "genitiv": "des Zeigers",
+        "dativ": "dem Zeiger",
+        "akkusativ": "den Zeiger"
+      },
+      "plural": {
+        "nominativ": "die Zeiger",
+        "genitiv": "der Zeiger",
+        "dativ": "den Zeigern",
+        "akkusativ": "die Zeiger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zaiger",
+    "Zeigger",
+    "Zeigher",
+    "Zeyger",
+    "Zeigär"
+  ]
+}

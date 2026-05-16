@@ -1,0 +1,88 @@
+{
+  "lemma": "Abfalleimer",
+  "wortart": "Nomen",
+  "silben": "Ab-fall-ei-mer",
+  "begriffserklaerung": "Ein Abfalleimer ist ein Behälter, in den man alte oder nicht mehr gebrauchte Sachen und Müll wirft.",
+  "beispielsatz": "Bitte wirf die leere Flasche in den Abfalleimer!",
+  "rechtschreibstrategie": "Das Wort „Abfalleimer\" besteht aus zwei Teilen: „Abfall\" und „Eimer\". Wenn du es in diese Bausteine zerlegst, kannst du es leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fall",
+    "Eimer"
+  ],
+  "bild_datei": "Abfalleimer.webp",
+  "audio_datei": "Abfalleimer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trash can"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poubelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp kovası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة المهملات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abfall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eimer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mülleimer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abfalleimer",
+    "plural": "die Abfalleimer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abfalleimer",
+        "genitiv": "des Abfalleimers",
+        "dativ": "dem Abfalleimer",
+        "akkusativ": "den Abfalleimer"
+      },
+      "plural": {
+        "nominativ": "die Abfalleimer",
+        "genitiv": "der Abfalleimer",
+        "dativ": "den Abfalleimern",
+        "akkusativ": "die Abfalleimer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abfaleimer",
+    "Abfall-Eimer",
+    "Abfalleimmer",
+    "Abfälleimer",
+    "Apfalleimer",
+    "Abfallaimer"
+  ]
+}

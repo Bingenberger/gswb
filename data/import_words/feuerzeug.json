@@ -1,0 +1,85 @@
+{
+  "lemma": "Feuerzeug",
+  "wortart": "Nomen",
+  "silben": "Feu-er-zeug",
+  "begriffserklaerung": "Ein Feuerzeug ist ein kleines Gerät, mit dem man Feuer machen kann. Es gibt Funken oder eine kleine Flamme, die zum Beispiel eine Kerze anzündet.",
+  "beispielsatz": "Papa benutzt das Feuerzeug, um die Kerzen auf dem Geburtstagskuchen anzuzünden.",
+  "rechtschreibstrategie": "Das Wort „Feuerzeug\" ist ein zusammengesetztes Wort aus „Feuer\" und „Zeug\". Sprich beide Teile einzeln: FEUER + ZEUG. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Zeug"
+  ],
+  "bild_datei": "Feuerzeug.webp",
+  "audio_datei": "Feuerzeug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lighter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "briquet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çakmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ولاعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streichholz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anzünder"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feuerzeug",
+    "plural": "die Feuerzeuge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feuerzeug",
+        "genitiv": "des Feuerzeugs",
+        "dativ": "dem Feuerzeug",
+        "akkusativ": "das Feuerzeug"
+      },
+      "plural": {
+        "nominativ": "die Feuerzeuge",
+        "genitiv": "der Feuerzeuge",
+        "dativ": "den Feuerzeugen",
+        "akkusativ": "die Feuerzeuge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuerzeichug",
+    "Feuerseug",
+    "Feurzeug",
+    "Feuerzoig",
+    "Feuerszeug",
+    "Feuerszug"
+  ]
+}

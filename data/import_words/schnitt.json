@@ -1,0 +1,87 @@
+{
+  "lemma": "Schnitt",
+  "wortart": "Nomen",
+  "silben": "Schnitt",
+  "begriffserklaerung": "Ein Schnitt entsteht, wenn man etwas mit einer Schere oder einem Messer durchschneidet. Man sagt auch Schnitt, wenn man beschreibt, wie etwas aussieht, nachdem man es abgetrennt hat.",
+  "beispielsatz": "Mit der Schere macht Lisa einen sauberen Schnitt durch das Papier.",
+  "rechtschreibstrategie": "Das Wort „Schnitt\" hat zwei t am Ende – das erkennst du daran, dass das i ganz kurz klingt. Nach einem kurzen Vokal verdoppelst du den Konsonanten!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schneid",
+    "schnitt"
+  ],
+  "bild_datei": "Schnitt.webp",
+  "audio_datei": "Schnitt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kesim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abschnitt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einschnitt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schnitt",
+    "plural": "die Schnitte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schnitt",
+        "genitiv": "des Schnittes",
+        "dativ": "dem Schnitt",
+        "akkusativ": "den Schnitt"
+      },
+      "plural": {
+        "nominativ": "die Schnitte",
+        "genitiv": "der Schnitte",
+        "dativ": "den Schnitten",
+        "akkusativ": "die Schnitte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schnit",
+    "Shnitt",
+    "Chnitt",
+    "Schnidd",
+    "Schnidt"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Großmutter",
+  "wortart": "Nomen",
+  "silben": "Groß-mut-ter",
+  "begriffserklaerung": "Die Großmutter ist die Mutter von deinem Vater oder deiner Mutter. Sie gehört zur Familie und ist oft die Oma.",
+  "beispielsatz": "Meine Großmutter backt die besten Kekse der Welt!",
+  "rechtschreibstrategie": "Das Wort „Großmutter\" besteht aus zwei Teilen: „groß\" und „Mutter\". Denk daran: „groß\" schreibt man mit ß, weil der Vokal davor lang ist.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "groß",
+    "Mutter"
+  ],
+  "bild_datei": "Großmutter.webp",
+  "audio_datei": "Großmutter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grandmother"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grand-mère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyükanne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "groß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Oma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Großvater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Enkelin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Großmutter",
+    "plural": "die Großmütter",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Großmutter",
+        "genitiv": "der Großmutter",
+        "dativ": "der Großmutter",
+        "akkusativ": "die Großmutter"
+      },
+      "plural": {
+        "nominativ": "die Großmütter",
+        "genitiv": "der Großmütter",
+        "dativ": "den Großmüttern",
+        "akkusativ": "die Großmütter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grossmutter",
+    "Großmuter",
+    "Großmutther",
+    "Grosmutter",
+    "Großmutер"
+  ]
+}

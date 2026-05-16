@@ -1,0 +1,88 @@
+{
+  "lemma": "Elastikband",
+  "wortart": "Nomen",
+  "silben": "E-las-tik-band",
+  "begriffserklaerung": "Ein Elastikband ist ein dehnbarer Streifen oder Ring aus Gummi, der Dinge zusammenhalten oder festhalten kann.",
+  "beispielsatz": "Lisa spannt ein Elastikband um ihre Bücher, damit sie nicht auseinanderfallen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Elastik\" und „Band\". Sprich beide Teile einzeln: E-las-tik – Band!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Elastik",
+    "Band"
+  ],
+  "bild_datei": "Elastikband.webp",
+  "audio_datei": "Elastikband.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "elastic band"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élastique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lastik bant"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شريط مطاطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elastik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gummiband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gummiband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haarband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klebeband"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Elastikband",
+    "plural": "die Elastikbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Elastikband",
+        "genitiv": "des Elastikbands",
+        "dativ": "dem Elastikband",
+        "akkusativ": "das Elastikband"
+      },
+      "plural": {
+        "nominativ": "die Elastikbänder",
+        "genitiv": "der Elastikbänder",
+        "dativ": "den Elastikbändern",
+        "akkusativ": "die Elastikbänder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elastikbant",
+    "Elasticband",
+    "Ellastikband",
+    "Elastigband",
+    "Elastikbannt"
+  ]
+}

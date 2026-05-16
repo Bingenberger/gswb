@@ -1,0 +1,89 @@
+{
+  "lemma": "Fußballer",
+  "wortart": "Nomen",
+  "silben": "Fuß-bal-ler",
+  "begriffserklaerung": "Ein Fußballer ist eine Person, die Fußball spielt – meistens in einer Mannschaft auf einem Spielfeld.",
+  "beispielsatz": "Der Fußballer schießt den Ball ins Tor.",
+  "rechtschreibstrategie": "„Fußballer\" ist ein Bausteinwort aus „Fuß\" und „Ball\" und „-er\". Das ß in „Fuß\" schreibst du, weil der Vokal „u\" lang gesprochen wird. Denk dran: langer Vokal → ß!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Ball"
+  ],
+  "bild_datei": "Fußballer.webp",
+  "audio_datei": "Fußballer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußballer",
+    "plural": "die Fußballer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußballer",
+        "genitiv": "des Fußballers",
+        "dativ": "dem Fußballer",
+        "akkusativ": "den Fußballer"
+      },
+      "plural": {
+        "nominativ": "die Fußballer",
+        "genitiv": "der Fußballer",
+        "dativ": "den Fußballern",
+        "akkusativ": "die Fußballer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "football player / soccer player"
+    },
+    {
+      "language_code": "fr",
+      "translation": "footballeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "futbolcu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لاعب كرة القدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußballerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kicker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Torwart"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadion"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fußbaler",
+    "Fussball er",
+    "Fußballä",
+    "Fußballer",
+    "Fußbäller",
+    "Fusballer"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Transport",
+  "wortart": "Nomen",
+  "silben": "Trans-port",
+  "begriffserklaerung": "Ein Transport bedeutet, dass Dinge oder Menschen von einem Ort zu einem anderen gebracht werden – zum Beispiel mit einem Auto, einem Zug oder einem Schiff.",
+  "beispielsatz": "Der Transport der Pakete dauerte zwei Tage.",
+  "rechtschreibstrategie": "Sprich das Wort in zwei Teile: „Trans\" und „port\". Beide Teile sprichst du deutlich mit – so schreibst du es auch!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "transport"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Transport",
+    "plural": "die Transporte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Transport",
+        "genitiv": "des Transports",
+        "dativ": "dem Transport",
+        "akkusativ": "den Transport"
+      },
+      "plural": {
+        "nominativ": "die Transporte",
+        "genitiv": "der Transporte",
+        "dativ": "den Transporten",
+        "akkusativ": "die Transporte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Transsport",
+    "Transpost",
+    "Tranport",
+    "Transpord",
+    "Tranzport"
+  ],
+  "bild_datei": "Transport.webp",
+  "audio_datei": "Transport.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "transport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "transport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taşıma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "transportieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Transportmittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beförderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lieferung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "Schwalbe",
+  "wortart": "Nomen",
+  "silben": "Schwal-be",
+  "begriffserklaerung": "Eine Schwalbe ist ein kleiner Zugvogel mit einem gegabelten Schwanz. Schwalben fliegen sehr schnell und fangen Insekten in der Luft. Im Herbst fliegen sie in wärmere Länder.",
+  "beispielsatz": "Die Schwalbe fliegt blitzschnell durch die Luft und fängt Mücken.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Schwal-be. Denke an den langen „a\"-Laut in der ersten Silbe – hier steht kein Dehnungs-h, aber das „al\" klingt gedehnt. Merke: Schwalbe endet auf -be.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schwalb"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schwalbe",
+    "plural": "die Schwalben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schwalbe",
+        "genitiv": "der Schwalbe",
+        "dativ": "der Schwalbe",
+        "akkusativ": "die Schwalbe"
+      },
+      "plural": {
+        "nominativ": "die Schwalben",
+        "genitiv": "der Schwalben",
+        "dativ": "den Schwalben",
+        "akkusativ": "die Schwalben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Shwalbe",
+    "Swalbe",
+    "Schwalppe",
+    "Schwalp",
+    "Schvwalbe",
+    "Schwalben"
+  ],
+  "bild_datei": "Schwalbe.webp",
+  "audio_datei": "Schwalbe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swallow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hirondelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kırlangıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سنونو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwalbennest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zugvogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Landwirtschaft",
+  "wortart": "Nomen",
+  "silben": "Land-wirt-schaft",
+  "begriffserklaerung": "Die Landwirtschaft ist die Arbeit, bei der Menschen das Land bebauen, Pflanzen anbauen und Tiere halten, um Nahrung zu erzeugen.",
+  "beispielsatz": "In der Landwirtschaft arbeiten Bauern und Bäuerinnen täglich auf dem Feld und im Stall.",
+  "rechtschreibstrategie": "Das Wort „Landwirtschaft\" ist ein langes zusammengesetztes Wort. Zerlege es in seine Bausteine: Land + Wirt + schaft. Wenn du die Teile einzeln kennst, kannst du das ganze Wort leicht schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Land",
+    "Wirt"
+  ],
+  "bild_datei": "Landwirtschaft.webp",
+  "audio_datei": "Landwirtschaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "agriculture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agriculture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زراعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Acker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Landwirtschaft",
+    "plural": "die Landwirtschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Landwirtschaft",
+        "genitiv": "der Landwirtschaft",
+        "dativ": "der Landwirtschaft",
+        "akkusativ": "die Landwirtschaft"
+      },
+      "plural": {
+        "nominativ": "die Landwirtschaften",
+        "genitiv": "der Landwirtschaften",
+        "dativ": "den Landwirtschaften",
+        "akkusativ": "die Landwirtschaften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Landwirtchaft",
+    "Lantwirtschaft",
+    "Landwirschaft",
+    "Landwirtshaft",
+    "Lantwirtschafft",
+    "Landwirtschaaft"
+  ]
+}

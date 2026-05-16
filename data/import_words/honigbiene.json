@@ -1,0 +1,85 @@
+{
+  "lemma": "Honigbiene",
+  "wortart": "Nomen",
+  "silben": "Ho-nig-bie-ne",
+  "begriffserklaerung": "Eine Honigbiene ist ein kleines, geflügeltes Insekt mit gelb-schwarzen Streifen. Sie sammelt Blütennektar und macht daraus Honig. Honigbienen leben in großen Gruppen, den sogenannten Bienenvölkern.",
+  "beispielsatz": "Die Honigbiene fliegt von Blüte zu Blüte und sammelt fleißig Nektar.",
+  "rechtschreibstrategie": "„Honigbiene\" ist ein zusammengesetztes Wort aus „Honig\" und „Biene\". Schreibe beide Teile einfach hintereinander: Ho-nig + Bie-ne. Achte auf das ie in „Biene\" – es spricht sich lang wie „ie\" in „viel\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Honig",
+    "Biene"
+  ],
+  "bild_datei": "Honigbiene.webp",
+  "audio_datei": "Honigbiene.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Honigbiene",
+    "plural": "die Honigbienen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Honigbiene",
+        "genitiv": "der Honigbiene",
+        "dativ": "der Honigbiene",
+        "akkusativ": "die Honigbiene"
+      },
+      "plural": {
+        "nominativ": "die Honigbienen",
+        "genitiv": "der Honigbienen",
+        "dativ": "den Honigbienen",
+        "akkusativ": "die Honigbienen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "honey bee"
+    },
+    {
+      "language_code": "fr",
+      "translation": "abeille mellifère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bal arısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نحلة العسل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Honig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hummel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nektar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bienenstock"
+    }
+  ],
+  "fehlschreibungen": [
+    "Honigbiene",
+    "Honnigbiene",
+    "Honigbinne",
+    "Honigbienhe",
+    "Honigebiene",
+    "Honigbieene"
+  ]
+}

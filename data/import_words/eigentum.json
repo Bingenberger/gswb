@@ -1,0 +1,91 @@
+{
+  "lemma": "Eigentum",
+  "wortart": "Nomen",
+  "silben": "Ei-gen-tum",
+  "begriffserklaerung": "Eigentum sind alle Dinge, die jemandem gehören – zum Beispiel ein Fahrrad, ein Buch oder ein Haus. Wer etwas besitzt, darf damit machen, was er möchte.",
+  "beispielsatz": "Das Fahrrad ist mein Eigentum, deshalb muss ich gut darauf aufpassen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „eigen\" + „tum\". Sprich es laut in Silben: Ei-gen-tum. Das „ei\" klingt wie in „Ei\" und das „g\" klingt weich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "eigen"
+  ],
+  "bild_datei": "Eigentum.webp",
+  "audio_datei": "Eigentum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "property"
+    },
+    {
+      "language_code": "fr",
+      "translation": "propriété"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mülkiyet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملكية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eigentümer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigentlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Besitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besitzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermögen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eigentum",
+    "plural": "die Eigentümer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eigentum",
+        "genitiv": "des Eigentums",
+        "dativ": "dem Eigentum",
+        "akkusativ": "das Eigentum"
+      },
+      "plural": {
+        "nominativ": "die Eigentümer",
+        "genitiv": "der Eigentümer",
+        "dativ": "den Eigentümern",
+        "akkusativ": "die Eigentümer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eigendum",
+    "Aiegentum",
+    "Eigentuhm",
+    "Eigentumm",
+    "Aigentum",
+    "Eigendumm"
+  ]
+}

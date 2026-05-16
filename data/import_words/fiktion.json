@@ -1,0 +1,83 @@
+{
+  "lemma": "Fiktion",
+  "wortart": "Nomen",
+  "silben": "Fik-ti-on",
+  "begriffserklaerung": "Eine Fiktion ist etwas, das sich jemand ausgedacht hat und das nicht wirklich existiert. Geschichten, die erfunden sind, nennt man Fiktion.",
+  "beispielsatz": "Der sprechende Drache in dem Buch ist eine Fiktion – so etwas gibt es in der Wirklichkeit nicht.",
+  "rechtschreibstrategie": "Das Wort „Fiktion\" schreibt man mit V-Laut am Anfang, aber mit einem „F\". Merke dir: Fik-ti-on – sprich alle drei Silben deutlich mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "fiktiv",
+    "Fiktion"
+  ],
+  "bild_datei": "Fiktion.webp",
+  "audio_datei": "Fiktion.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fiktion",
+    "plural": "die Fiktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fiktion",
+        "genitiv": "der Fiktion",
+        "dativ": "der Fiktion",
+        "akkusativ": "die Fiktion"
+      },
+      "plural": {
+        "nominativ": "die Fiktionen",
+        "genitiv": "der Fiktionen",
+        "dativ": "den Fiktionen",
+        "akkusativ": "die Fiktionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fiction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fiction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurgu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خيال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fiktiv"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erfindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fantasie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roman"
+    }
+  ],
+  "fehlschreibungen": [
+    "Viktion",
+    "Fikzion",
+    "Fikttion",
+    "Ficion",
+    "Fikcion"
+  ]
+}

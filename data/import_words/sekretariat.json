@@ -1,0 +1,83 @@
+{
+  "lemma": "Sekretariat",
+  "wortart": "Nomen",
+  "silben": "Se-kre-ta-ri-at",
+  "begriffserklaerung": "Das Sekretariat ist ein Büro in einer Schule oder einem Betrieb, wo man Briefe schreibt, Anrufe entgegennimmt und anderen Menschen hilft.",
+  "beispielsatz": "Wenn du krank bist, melden deine Eltern dich im Sekretariat der Schule ab.",
+  "rechtschreibstrategie": "Das Wort klingt fast so, wie man es schreibt – sprich es laut in Silben: Se-kre-ta-ri-at. Achte darauf, dass am Ende „at\" steht und nicht „aat\" oder „ad\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Sekretär"
+  ],
+  "bild_datei": "Sekretariat.webp",
+  "audio_datei": "Sekretariat.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sekretariat",
+    "plural": "die Sekretariate",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sekretariat",
+        "genitiv": "des Sekretariats",
+        "dativ": "dem Sekretariat",
+        "akkusativ": "das Sekretariat"
+      },
+      "plural": {
+        "nominativ": "die Sekretariate",
+        "genitiv": "der Sekretariate",
+        "dativ": "den Sekretariaten",
+        "akkusativ": "die Sekretariate"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "secretary's office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secrétariat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sekreterlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمانة السر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekretär"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekretärin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Büro"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sekretarriat",
+    "Sekretariad",
+    "Sekretariat",
+    "Sekretariaat",
+    "Sekreteriat",
+    "Sekretareat"
+  ]
+}

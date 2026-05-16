@@ -1,0 +1,82 @@
+{
+  "lemma": "Maschine",
+  "wortart": "Nomen",
+  "silben": "Ma-schi-ne",
+  "begriffserklaerung": "Eine Maschine ist ein Gerät, das Menschen bei der Arbeit hilft und viele Dinge schneller und einfacher erledigt.",
+  "beispielsatz": "Die Waschmaschine wäscht unsere schmutzigen Kleider ganz von alleine.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ma-schi-ne. Das „sch\" klingt wie in „Schule\" – merke dir: sch bleibt immer zusammen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Maschine"
+  ],
+  "bild_datei": "Maschine.webp",
+  "audio_datei": "Maschine.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "machine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "machine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makine"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "maschinell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maschinerie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerät"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Apparat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Maschine",
+    "plural": "die Maschinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Maschine",
+        "genitiv": "der Maschine",
+        "dativ": "der Maschine",
+        "akkusativ": "die Maschine"
+      },
+      "plural": {
+        "nominativ": "die Maschinen",
+        "genitiv": "der Maschinen",
+        "dativ": "den Maschinen",
+        "akkusativ": "die Maschinen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maschiene",
+    "Mashcine",
+    "Mashine",
+    "Maschinne",
+    "Mashiene"
+  ]
+}

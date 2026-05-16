@@ -1,0 +1,94 @@
+{
+  "lemma": "irren",
+  "wortart": "Verb",
+  "silben": "ir-ren",
+  "begriffserklaerung": "Irren bedeutet, dass man sich täuscht oder etwas falsch denkt. Man glaubt, etwas stimmt, aber es ist nicht richtig.",
+  "beispielsatz": "Jeder kann sich mal irren – das ist ganz normal!",
+  "rechtschreibstrategie": "Das Wort „irren\" hat ein kurzes „i\" am Anfang. Deshalb verdoppelst du das „r\": ir-ren. Sprich es laut, dann hörst du das doppelte „r\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "irr"
+  ],
+  "bild_datei": "irren.webp",
+  "audio_datei": "irren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "irren",
+    "praesens": {
+      "ich": "irre",
+      "du": "irrst",
+      "er_sie_es": "irrt",
+      "wir": "irren",
+      "ihr": "irrt",
+      "sie": "irren"
+    },
+    "perfekt": {
+      "ich": "habe geirrt",
+      "du": "hast geirrt",
+      "er_sie_es": "hat geirrt",
+      "wir": "haben geirrt",
+      "ihr": "habt geirrt",
+      "sie": "haben geirrt"
+    },
+    "praeteritum": {
+      "ich": "irrte",
+      "du": "irrtest",
+      "er_sie_es": "irrte",
+      "wir": "irrten",
+      "ihr": "irrtet",
+      "sie": "irrten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be wrong / to err"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se tromper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanılmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُخطئ / يَضِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Irrtum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "irrig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich täuschen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "falsch liegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vergessen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verwechseln"
+    }
+  ],
+  "fehlschreibungen": [
+    "iren",
+    "ihren",
+    "irren",
+    "irern",
+    "irrn"
+  ]
+}

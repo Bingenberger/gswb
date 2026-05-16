@@ -1,0 +1,75 @@
+{
+  "lemma": "Bakterium / die Bakterien",
+  "wortart": "Nomen",
+  "silben": "Bak-te-ri-um",
+  "begriffserklaerung": "Ein Bakterium ist ein winzig kleines Lebewesen, das man nur unter dem Mikroskop sehen kann. Bakterien leben überall: in der Erde, im Wasser, auf der Haut und sogar im Bauch. Manche Bakterien machen uns krank, viele andere sind aber nützlich, zum Beispiel beim Herstellen von Joghurt.",
+  "beispielsatz": "Der Arzt erklärte, dass ein Bakterium die Halsentzündung von Lisa ausgelöst hat.",
+  "rechtschreibstrategie": "Das Wort „Bakterium\" kommt aus dem Lateinischen und schreibt sich immer mit „k\" und „iu\" am Ende. In der Mehrzahl heißt es „Bakterien\" – das „ium\" wird zu „ien\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Bakterium"
+  ],
+  "bild_datei": "Bakterium / die Bakterien.webp",
+  "audio_datei": "Bakterium / die Bakterien.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bacterium"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bactérie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بكتيريا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Virus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikrobe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheitserreger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bakterium",
+    "plural": "die Bakterien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bakterium",
+        "genitiv": "des Bakteriums",
+        "dativ": "dem Bakterium",
+        "akkusativ": "das Bakterium"
+      },
+      "plural": {
+        "nominativ": "die Bakterien",
+        "genitiv": "der Bakterien",
+        "dativ": "den Bakterien",
+        "akkusativ": "die Bakterien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bacterium",
+    "Baktarium",
+    "Bakteium",
+    "Bakteriem",
+    "Baktrium",
+    "Bakteriom"
+  ]
+}

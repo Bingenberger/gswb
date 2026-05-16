@@ -1,0 +1,83 @@
+{
+  "lemma": "Büro",
+  "wortart": "Nomen",
+  "silben": "Bü-ro",
+  "begriffserklaerung": "Ein Büro ist ein Raum oder ein Gebäude, in dem Menschen arbeiten. Dort stehen meistens ein Schreibtisch, ein Computer und viele Ordner.",
+  "beispielsatz": "Meine Mutter geht jeden Morgen in ihr Büro und arbeitet dort am Computer.",
+  "rechtschreibstrategie": "Das Wort „Büro\" kommt aus dem Französischen und endet auf -o. Merke dir: Büro schreibt man mit ü und am Ende steht ein -o – kein -eau oder -ow!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Büro"
+  ],
+  "bild_datei": "Büro.webp",
+  "audio_datei": "Büro.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ofis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكتب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Büroarbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bürostuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeitszimmer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Büro",
+    "plural": "die Büros",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Büro",
+        "genitiv": "des Büros",
+        "dativ": "dem Büro",
+        "akkusativ": "das Büro"
+      },
+      "plural": {
+        "nominativ": "die Büros",
+        "genitiv": "der Büros",
+        "dativ": "den Büros",
+        "akkusativ": "die Büros"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bühro",
+    "Büroe",
+    "Buro",
+    "Bürow",
+    "Biüro",
+    "Büro's"
+  ]
+}

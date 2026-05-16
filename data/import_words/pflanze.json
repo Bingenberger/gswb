@@ -1,0 +1,86 @@
+{
+  "lemma": "Pflanze",
+  "wortart": "Nomen",
+  "silben": "Pflan-ze",
+  "begriffserklaerung": "Eine Pflanze ist ein lebendes Wesen, das in der Erde wurzelt, Wasser und Sonnenlicht braucht und meistens grüne Blätter hat.",
+  "beispielsatz": "Die Pflanze auf dem Fensterbrett braucht jeden Tag ein bisschen Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Pflan-ze. Am Anfang hörst du das schwierige „Pf\". Denk daran: erst P, dann f!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "pflanz"
+  ],
+  "bild_datei": "Pflanze.webp",
+  "audio_datei": "Pflanze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bitki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflanzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflanzung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflänzchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewächs"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pflanze",
+    "plural": "die Pflanzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pflanze",
+        "genitiv": "der Pflanze",
+        "dativ": "der Pflanze",
+        "akkusativ": "die Pflanze"
+      },
+      "plural": {
+        "nominativ": "die Pflanzen",
+        "genitiv": "der Pflanzen",
+        "dativ": "den Pflanzen",
+        "akkusativ": "die Pflanzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pflantze",
+    "Flanze",
+    "Phlanze",
+    "Pflansze",
+    "Pflanse"
+  ]
+}

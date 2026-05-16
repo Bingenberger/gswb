@@ -1,0 +1,84 @@
+{
+  "lemma": "Taschentuch",
+  "wortart": "Nomen",
+  "silben": "Ta-schen-tuch",
+  "begriffserklaerung": "Ein Taschentuch ist ein kleines, weiches Tuch, das man in der Tasche trägt. Man benutzt es, um sich die Nase zu putzen oder Tränen abzuwischen.",
+  "beispielsatz": "Wenn ich Schnupfen habe, nehme ich ein Taschentuch aus meiner Jackentasche.",
+  "rechtschreibstrategie": "Das Wort „Taschentuch\" besteht aus zwei Wörtern: „Tasche\" und „Tuch\". Wenn du es in seine Bausteine zerlegst, kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tasche",
+    "Tuch"
+  ],
+  "bild_datei": "Taschentuch.webp",
+  "audio_datei": "Taschentuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handkerchief"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mouchoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mendil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منديل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnupfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nastuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Taschentuch",
+    "plural": "die Taschentücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Taschentuch",
+        "genitiv": "des Taschentuchs",
+        "dativ": "dem Taschentuch",
+        "akkusativ": "das Taschentuch"
+      },
+      "plural": {
+        "nominativ": "die Taschentücher",
+        "genitiv": "der Taschentücher",
+        "dativ": "den Taschentüchern",
+        "akkusativ": "die Taschentücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Taschentug",
+    "Taschentuech",
+    "Taschentüch",
+    "Daschetuch",
+    "Taschentuck",
+    "Taschetuch"
+  ]
+}

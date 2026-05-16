@@ -1,0 +1,82 @@
+{
+  "lemma": "Ohren",
+  "wortart": "Nomen",
+  "silben": "Oh-ren",
+  "begriffserklaerung": "Ohren sind die zwei Körperteile an beiden Seiten des Kopfes, mit denen wir hören.",
+  "beispielsatz": "Mit meinen Ohren höre ich die Musik ganz laut.",
+  "rechtschreibstrategie": "Denk an das lange „O\" am Anfang – sprich es dehnen: „Ooo-ren\". Das Dehnungs-h nach dem „O\" macht das „O\" lang.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Ohr"
+  ],
+  "bild_datei": "Ohren.webp",
+  "audio_datei": "Ohren.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Ohr",
+    "plural": "die Ohren",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ohr",
+        "genitiv": "des Ohres",
+        "dativ": "dem Ohr",
+        "akkusativ": "das Ohr"
+      },
+      "plural": {
+        "nominativ": "die Ohren",
+        "genitiv": "der Ohren",
+        "dativ": "den Ohren",
+        "akkusativ": "die Ohren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ears"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oreilles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kulaklar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آذان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ohrring"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hören"
+    }
+  ],
+  "fehlschreibungen": [
+    "Oren",
+    "Ohren",
+    "Ohrren",
+    "Ohern",
+    "Orren"
+  ]
+}

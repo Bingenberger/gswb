@@ -1,0 +1,78 @@
+{
+  "lemma": "Zwinger",
+  "wortart": "Nomen",
+  "silben": "Zwin-ger",
+  "begriffserklaerung": "Ein Zwinger ist ein eingezäunter Bereich oder ein Käfig, in dem Hunde oder andere Tiere sicher gehalten werden.",
+  "beispielsatz": "Der Hund wartet im Zwinger, bis sein Besitzer ihn abholt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Zwin-ger. Du hörst beide Teile deutlich. Denk daran: Nach dem kurzen „i\" kommt „ng\" – das klingt wie ein einziger Laut!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "zwingen"
+  ],
+  "bild_datei": "Zwinger.webp",
+  "audio_datei": "Zwinger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zwinger",
+    "plural": "die Zwinger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zwinger",
+        "genitiv": "des Zwingers",
+        "dativ": "dem Zwinger",
+        "akkusativ": "den Zwinger"
+      },
+      "plural": {
+        "nominativ": "die Zwinger",
+        "genitiv": "der Zwinger",
+        "dativ": "den Zwingern",
+        "akkusativ": "die Zwinger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kennel / dog run"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chenil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köpek kulübesi / köpek kafesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حظيرة الكلاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zwingen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tierheim"
+    }
+  ],
+  "fehlschreibungen": [
+    "Swinger",
+    "Zwinker",
+    "Zwingger",
+    "Zvinger",
+    "Zwingher"
+  ]
+}

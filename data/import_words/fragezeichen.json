@@ -1,0 +1,85 @@
+{
+  "lemma": "Fragezeichen",
+  "wortart": "Nomen",
+  "silben": "Fra-ge-zei-chen",
+  "begriffserklaerung": "Ein Fragezeichen ist ein Satzzeichen (?). Es steht am Ende eines Satzes, wenn jemand etwas wissen möchte.",
+  "beispielsatz": "Am Ende jeder Frage steht ein Fragezeichen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Frage\" und „Zeichen\". Sprich beide Teile laut: Fra-ge-zei-chen. Das „ei\" in „Zeichen\" klingt wie in „Eimer\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "frag",
+    "zeich"
+  ],
+  "bild_datei": "Fragezeichen.webp",
+  "audio_datei": "Fragezeichen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fragezeichen",
+    "plural": "die Fragezeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fragezeichen",
+        "genitiv": "des Fragezeichens",
+        "dativ": "dem Fragezeichen",
+        "akkusativ": "das Fragezeichen"
+      },
+      "plural": {
+        "nominativ": "die Fragezeichen",
+        "genitiv": "der Fragezeichen",
+        "dativ": "den Fragezeichen",
+        "akkusativ": "die Fragezeichen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "question mark"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point d'interrogation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soru işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علامة الاستفهام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fragen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Punkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausrufezeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satzzeichen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fragzeichen",
+    "Fragezeigen",
+    "Fragezeichen",
+    "Fragezeichnen",
+    "Fraagezeichen",
+    "Fragzeigen"
+  ]
+}

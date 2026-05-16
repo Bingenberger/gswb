@@ -1,0 +1,81 @@
+{
+  "lemma": "Gold",
+  "wortart": "Nomen",
+  "silben": "Gold",
+  "begriffserklaerung": "Gold ist ein glänzendes, gelbes Metall, das sehr wertvoll ist. Es kommt in der Erde vor und wird für Schmuck, Münzen und viele andere Dinge verwendet.",
+  "beispielsatz": "Der Ring meiner Oma ist aus echtem Gold.",
+  "rechtschreibstrategie": "„Gold\" schreibt man mit einem großen G, weil es ein Nomen ist. Das „o\" ist lang, und am Ende hörst du deutlich das „d\" – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gold"
+  ],
+  "bild_datei": "Gold.webp",
+  "audio_datei": "Gold.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "or"
+    },
+    {
+      "language_code": "tr",
+      "translation": "altın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذهب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "golden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergolden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Silber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gold",
+    "plural": "die Golde",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gold",
+        "genitiv": "des Goldes",
+        "dativ": "dem Gold",
+        "akkusativ": "das Gold"
+      },
+      "plural": {
+        "nominativ": "die Golde",
+        "genitiv": "der Golde",
+        "dativ": "den Golden",
+        "akkusativ": "die Golde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Golt",
+    "Goldt",
+    "gold",
+    "Ghold"
+  ]
+}

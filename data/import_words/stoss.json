@@ -1,0 +1,96 @@
+{
+  "lemma": "Stoß",
+  "wortart": "Nomen",
+  "silben": "Stoß",
+  "begriffserklaerung": "Ein Stoß ist eine schnelle, kräftige Berührung, bei der jemand oder etwas gegen einen anderen Gegenstand oder eine Person gedrückt oder geschoben wird.",
+  "beispielsatz": "Der Ball flog weit, weil Tim ihm einen kräftigen Stoß gegeben hatte.",
+  "rechtschreibstrategie": "„Stoß\" schreibt man mit ß, weil der Vokal „o\" lang gesprochen wird. Bei langen Vokalen vor dem „s\"-Laut schreibt man ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stoß"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stoß",
+    "plural": "die Stöße",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stoß",
+        "genitiv": "des Stoßes",
+        "dativ": "dem Stoß",
+        "akkusativ": "den Stoß"
+      },
+      "plural": {
+        "nominativ": "die Stöße",
+        "genitiv": "der Stöße",
+        "dativ": "den Stößen",
+        "akkusativ": "die Stöße"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stoss",
+    "Stohs",
+    "Stoß",
+    "Stos",
+    "Stohß",
+    "Stoosz"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "push / shove"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coup / poussée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itme / darbe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دفعة / ضربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stoßen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anstoß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstoßen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schubs"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berührung"
+    }
+  ],
+  "bild_datei": "Stoß.webp",
+  "audio_datei": "Stoß.mp3"
+}

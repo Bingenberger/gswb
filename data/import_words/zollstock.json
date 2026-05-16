@@ -1,0 +1,84 @@
+{
+  "lemma": "Zollstock",
+  "wortart": "Nomen",
+  "silben": "Zoll-stock",
+  "begriffserklaerung": "Ein Zollstock ist ein zusammenklappbares Messgerät aus Holz oder Kunststoff. Damit kann man Längen und Abstände messen, zum Beispiel wie breit ein Tisch ist.",
+  "beispielsatz": "Der Handwerker misst die Wand mit dem Zollstock.",
+  "rechtschreibstrategie": "Zollstock ist ein Zusammengesetztes Wort aus „Zoll\" und „Stock\". Bei „Zoll\" hörst du ein kurzes „o\" – deshalb schreibt man doppel-l: Zoll. Denk dir: Zoll – toll – voll, alle mit Doppel-l!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zoll",
+    "Stock"
+  ],
+  "bild_datei": "Zollstock.webp",
+  "audio_datei": "Zollstock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zollstock",
+    "plural": "die Zollstöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zollstock",
+        "genitiv": "des Zollstocks",
+        "dativ": "dem Zollstock",
+        "akkusativ": "den Zollstock"
+      },
+      "plural": {
+        "nominativ": "die Zollstöcke",
+        "genitiv": "der Zollstöcke",
+        "dativ": "den Zollstöcken",
+        "akkusativ": "die Zollstöcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "folding ruler"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mètre pliant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katlanır metre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسطرة قابلة للطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gliedermaßstab"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maßband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messgerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zolstock",
+    "Zollstok",
+    "Zolstok",
+    "Zollstoch",
+    "Zolschtock"
+  ]
+}

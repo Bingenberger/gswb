@@ -1,0 +1,82 @@
+{
+  "lemma": "Wippe",
+  "wortart": "Nomen",
+  "silben": "Wip-pe",
+  "begriffserklaerung": "Eine Wippe ist ein langes Brett, das in der Mitte auf einer Stütze liegt. Wenn eine Person auf eine Seite sitzt, geht sie runter – und die andere Seite geht hoch.",
+  "beispielsatz": "Lena und Tim schaukeln fröhlich auf der Wippe im Park.",
+  "rechtschreibstrategie": "Das Wort „Wippe\" hat ein kurzes i. Nach einem kurzen Vokal verdoppelt man den Mitlaut: Wip-pe – darum schreibt man zwei p!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wipp"
+  ],
+  "bild_datei": "Wippe.webp",
+  "audio_datei": "Wippe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wippe",
+    "plural": "die Wippen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wippe",
+        "genitiv": "der Wippe",
+        "dativ": "der Wippe",
+        "akkusativ": "die Wippe"
+      },
+      "plural": {
+        "nominativ": "die Wippen",
+        "genitiv": "der Wippen",
+        "dativ": "den Wippen",
+        "akkusativ": "die Wippen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seesaw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balançoire à bascule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahterevalli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرجوحة الترجيح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wippen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wipphewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rutsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wipe",
+    "Whippe",
+    "Vippe",
+    "Wipp",
+    "Wipppe"
+  ]
+}

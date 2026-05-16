@@ -1,0 +1,83 @@
+{
+  "lemma": "Tatsache",
+  "wortart": "Nomen",
+  "silben": "Tat-sa-che",
+  "begriffserklaerung": "Eine Tatsache ist etwas, das wirklich passiert ist oder wirklich existiert. Man kann es beweisen – es ist keine Meinung und kein Wunsch.",
+  "beispielsatz": "Es ist eine Tatsache, dass die Erde rund ist.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Tat\" und „Sache\". Sprich beide Teile laut: TAT – SA – CHE. Das „ch\" klingt weich wie in „machen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tat",
+    "Sache"
+  ],
+  "bild_datei": "Tatsache.webp",
+  "audio_datei": "Tatsache.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tatsache",
+    "plural": "die Tatsachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tatsache",
+        "genitiv": "der Tatsache",
+        "dativ": "der Tatsache",
+        "akkusativ": "die Tatsache"
+      },
+      "plural": {
+        "nominativ": "die Tatsachen",
+        "genitiv": "der Tatsachen",
+        "dativ": "den Tatsachen",
+        "akkusativ": "die Tatsachen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fact"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wahrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wirklichkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tadsache",
+    "Tatzsache",
+    "Tatsashe",
+    "Tatsasche",
+    "Tadsasche"
+  ]
+}

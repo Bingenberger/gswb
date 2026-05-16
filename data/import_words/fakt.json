@@ -1,0 +1,82 @@
+{
+  "lemma": "Fakt",
+  "wortart": "Nomen",
+  "silben": "Fakt",
+  "begriffserklaerung": "Ein Fakt ist etwas, das wirklich wahr ist und bewiesen werden kann. Fakten sind keine Meinungen, sondern gesicherte Tatsachen.",
+  "beispielsatz": "Es ist ein Fakt, dass die Erde rund ist.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: Fakt. Du hörst am Ende ein „kt\" – schreibe beide Buchstaben: k und t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fakt"
+  ],
+  "bild_datei": "Fakt.webp",
+  "audio_datei": "Fakt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fact"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "faktisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tatsache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fakt",
+    "plural": "die Fakten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fakt",
+        "genitiv": "des Fakts",
+        "dativ": "dem Fakt",
+        "akkusativ": "den Fakt"
+      },
+      "plural": {
+        "nominativ": "die Fakten",
+        "genitiv": "der Fakten",
+        "dativ": "den Fakten",
+        "akkusativ": "die Fakten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fact",
+    "Fakt",
+    "Fahkt",
+    "Fackt",
+    "Fackт"
+  ]
+}

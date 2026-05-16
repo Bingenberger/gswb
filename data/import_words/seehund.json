@@ -1,0 +1,84 @@
+{
+  "lemma": "Seehund",
+  "wortart": "Nomen",
+  "silben": "See-hund",
+  "begriffserklaerung": "Ein Seehund ist ein Tier, das im Meer lebt. Er hat einen runden Körper, kurze Flossen und ein weiches Fell. Seehunde sind sehr gute Schwimmer.",
+  "beispielsatz": "Der Seehund liegt auf dem Felsen und sonnt sich in der Sonne.",
+  "rechtschreibstrategie": "„Seehund\" besteht aus zwei Wörtern: „See\" und „Hund\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Hund"
+  ],
+  "bild_datei": "Seehund.webp",
+  "audio_datei": "Seehund.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seehund",
+    "plural": "die Seehunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seehund",
+        "genitiv": "des Seehundes",
+        "dativ": "dem Seehund",
+        "akkusativ": "den Seehund"
+      },
+      "plural": {
+        "nominativ": "die Seehunde",
+        "genitiv": "der Seehunde",
+        "dativ": "den Seehunden",
+        "akkusativ": "die Seehunde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "phoque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fok"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فقمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Robbe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seehunt",
+    "Seehundt",
+    "Seahund",
+    "Sehund",
+    "Seehunnd"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Schraubstock",
+  "wortart": "Nomen",
+  "silben": "Schraub-stock",
+  "begriffserklaerung": "Ein Schraubstock ist ein Werkzeug in der Werkstatt. Man spannt damit Gegenstände fest ein, damit sie beim Sägen, Feilen oder Bohren nicht wegrollen oder verrutschen.",
+  "beispielsatz": "Papa spannt das Holzstück in den Schraubstock, damit es beim Sägen nicht wackelt.",
+  "rechtschreibstrategie": "Das Wort „Schraubstock\" besteht aus zwei Teilen: „Schraub\" und „Stock\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schraub",
+    "Stock"
+  ],
+  "bild_datei": "Schraubstock.webp",
+  "audio_datei": "Schraubstock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schraubstock",
+    "plural": "die Schraubstöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schraubstock",
+        "genitiv": "des Schraubstocks",
+        "dativ": "dem Schraubstock",
+        "akkusativ": "den Schraubstock"
+      },
+      "plural": {
+        "nominativ": "die Schraubstöcke",
+        "genitiv": "der Schraubstöcke",
+        "dativ": "den Schraubstöcken",
+        "akkusativ": "die Schraubstöcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vice / vise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mengene"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِلزَمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schraube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkbank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zange"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schraubstok",
+    "Scraubstock",
+    "Schraupstock",
+    "Schraaubstock",
+    "Schraubstoch"
+  ]
+}

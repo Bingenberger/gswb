@@ -1,0 +1,87 @@
+{
+  "lemma": "Guss",
+  "wortart": "Nomen",
+  "silben": "Guss",
+  "begriffserklaerung": "Ein Guss ist eine große Menge Flüssigkeit, die auf einmal ausgeschüttet wird. Man sagt auch Guss, wenn zum Beispiel Regen plötzlich sehr stark fällt.",
+  "beispielsatz": "Ein heftiger Guss Regen überraschte uns auf dem Schulweg.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" verdoppelt sich das „s\" zu „ss\" – das zeigt dir, dass der Vokal kurz gesprochen wird. Schreibe also „ss\" und nicht nur „s\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gieß"
+  ],
+  "bild_datei": "Guss.webp",
+  "audio_datei": "Guss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Guss",
+    "plural": "die Güsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Guss",
+        "genitiv": "des Gusses",
+        "dativ": "dem Guss",
+        "akkusativ": "den Guss"
+      },
+      "plural": {
+        "nominativ": "die Güsse",
+        "genitiv": "der Güsse",
+        "dativ": "den Güssen",
+        "akkusativ": "die Güsse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pour / downpour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "averse / jet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sağanak / döküm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صَبّ / وابِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gießen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufguss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erguss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schauer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gus",
+    "Guß",
+    "Güss",
+    "Guhss",
+    "Gusz"
+  ]
+}

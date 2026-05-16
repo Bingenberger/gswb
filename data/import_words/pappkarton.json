@@ -1,0 +1,88 @@
+{
+  "lemma": "Pappkarton",
+  "wortart": "Nomen",
+  "silben": "Papp-kar-ton",
+  "begriffserklaerung": "Ein Pappkarton ist eine stabile Schachtel aus dickem Papier (Pappe). Man nutzt ihn zum Verpacken und Transportieren von Dingen.",
+  "beispielsatz": "Wir haben unsere Bücher in einen großen Pappkarton gepackt.",
+  "rechtschreibstrategie": "Pappkarton ist ein zusammengesetztes Wort: Pappe + Karton. Das „pp\" schreibst du, weil der Vokal davor kurz ist – du hörst es beim Sprechen: „Papp\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pappe",
+    "Karton"
+  ],
+  "bild_datei": "Pappkarton.webp",
+  "audio_datei": "Pappkarton.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cardboard box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karton kutu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق كرتوني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pappe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pappschachtel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Karton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verpackung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kiste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pappkarton",
+    "plural": "die Pappkartons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pappkarton",
+        "genitiv": "des Pappkartons",
+        "dativ": "dem Pappkarton",
+        "akkusativ": "den Pappkarton"
+      },
+      "plural": {
+        "nominativ": "die Pappkartons",
+        "genitiv": "der Pappkartons",
+        "dativ": "den Pappkartons",
+        "akkusativ": "die Pappkartons"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Papkarton",
+    "Pabkarton",
+    "Papkardon",
+    "Pappkardon",
+    "Pappcarton"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Schluck",
+  "wortart": "Nomen",
+  "silben": "Schluck",
+  "begriffserklaerung": "Ein Schluck ist eine kleine Menge Flüssigkeit, die man auf einmal trinkt.",
+  "beispielsatz": "Darf ich bitte einen Schluck Wasser trinken?",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird: Schluck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schluck",
+    "plural": "die Schlucke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schluck",
+        "genitiv": "des Schluckes",
+        "dativ": "dem Schluck",
+        "akkusativ": "den Schluck"
+      },
+      "plural": {
+        "nominativ": "die Schlucke",
+        "genitiv": "der Schlucke",
+        "dativ": "den Schlucken",
+        "akkusativ": "die Schlucke"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "schluck"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlucken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schluckauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sip"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trunk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nippen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schluk",
+    "Schlug",
+    "Scluck",
+    "Schlugg",
+    "Schlukk"
+  ],
+  "bild_datei": "Schluck.webp",
+  "audio_datei": "Schluck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sip / gulp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gorgée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yudum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رشفة"
+    }
+  ]
+}

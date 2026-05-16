@@ -1,0 +1,81 @@
+{
+  "lemma": "Hühnerstall",
+  "wortart": "Nomen",
+  "silben": "Hüh-ner-stall",
+  "begriffserklaerung": "Ein Hühnerstall ist ein kleines Gebäude auf einem Bauernhof, in dem Hühner schlafen, leben und ihre Eier legen.",
+  "beispielsatz": "Die Hühner laufen den ganzen Tag auf der Wiese und gehen abends in den Hühnerstall.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Hühner\" und „Stall\". Am Ende steht „-stall\" – das erkennt du, wenn du das Wort verlängerst: „die Ställe\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Huhn",
+    "Stall"
+  ],
+  "bild_datei": "Hühnerstall.webp",
+  "audio_datei": "Hühnerstall.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chicken coop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poulailler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavuk kümesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حظيرة الدجاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Scheune"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hühnerstall",
+    "plural": "die Hühnerställe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hühnerstall",
+        "genitiv": "des Hühnerstalls",
+        "dativ": "dem Hühnerstall",
+        "akkusativ": "den Hühnerstall"
+      },
+      "plural": {
+        "nominativ": "die Hühnerställe",
+        "genitiv": "der Hühnerställe",
+        "dativ": "den Hühnerställen",
+        "akkusativ": "die Hühnerställe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hünertstall",
+    "Hühnerstahl",
+    "Hünerstall",
+    "Hühnerstall",
+    "Hühnershtall",
+    "Hühnerstal"
+  ]
+}

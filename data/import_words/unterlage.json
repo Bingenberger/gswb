@@ -1,0 +1,95 @@
+{
+  "lemma": "Unterlage",
+  "wortart": "Nomen",
+  "silben": "Un-ter-la-ge",
+  "begriffserklaerung": "Eine Unterlage ist etwas, das man unter einen Gegenstand legt, damit er nicht wegrutscht oder damit man darauf schreiben oder arbeiten kann.",
+  "beispielsatz": "Lea legt eine Unterlage auf den Tisch, bevor sie mit dem Malen beginnt.",
+  "rechtschreibstrategie": "Das Wort „Unterlage\" ist zusammengesetzt aus „unter\" und „Lage\". Sprich beide Bausteine laut mit: UN-ter-LA-ge. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "legen",
+    "Lage"
+  ],
+  "bild_datei": "Unterlage.webp",
+  "audio_datei": "Unterlage.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Unterlage",
+    "plural": "die Unterlagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Unterlage",
+        "genitiv": "der Unterlage",
+        "dativ": "der Unterlage",
+        "akkusativ": "die Unterlage"
+      },
+      "plural": {
+        "nominativ": "die Unterlagen",
+        "genitiv": "der Unterlagen",
+        "dativ": "den Unterlagen",
+        "akkusativ": "die Unterlagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mat / document"
+    },
+    {
+      "language_code": "fr",
+      "translation": "support / document"
+    },
+    {
+      "language_code": "tr",
+      "translation": "altlık / belge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وثيقة / قاعدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "legen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auflage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Matte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dokument"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Unterlahge",
+    "Unterlakge",
+    "unterlage",
+    "Unterlagge",
+    "Unterlaje"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Mechanik",
+  "wortart": "Nomen",
+  "silben": "Me-cha-nik",
+  "begriffserklaerung": "Die Mechanik ist ein Teil der Physik. Sie erklärt, wie sich Dinge bewegen und welche Kräfte dabei wirken – zum Beispiel bei Zahnrädern, Hebeln oder Maschinen.",
+  "beispielsatz": "Im Unterricht lernen wir, wie die Mechanik eines Fahrrads funktioniert.",
+  "rechtschreibstrategie": "Das Wort „Mechanik\" kommt aus dem Griechischen. Merke dir: Es beginnt mit „Mech-\" – sprich es laut mit: Me-cha-nik. Das „ch\" klingt wie in „Bach\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mechan"
+  ],
+  "bild_datei": "Mechanik.webp",
+  "audio_datei": "Mechanik.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mechanik",
+    "plural": "die Mechaniken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mechanik",
+        "genitiv": "der Mechanik",
+        "dativ": "der Mechanik",
+        "akkusativ": "die Mechanik"
+      },
+      "plural": {
+        "nominativ": "die Mechaniken",
+        "genitiv": "der Mechaniken",
+        "dativ": "den Mechaniken",
+        "akkusativ": "die Mechaniken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mechanics"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mécanique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mekanik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميكانيكا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mechaniker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mechanisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getriebe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Physik"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mechanik",
+    "Mechaniik",
+    "Mekanik",
+    "Mecahnik",
+    "Mechnick",
+    "Mechannick"
+  ]
+}

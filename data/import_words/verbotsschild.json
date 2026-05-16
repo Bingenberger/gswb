@@ -1,0 +1,84 @@
+{
+  "lemma": "Verbotsschild",
+  "wortart": "Nomen",
+  "silben": "Ver-bots-schild",
+  "begriffserklaerung": "Ein Verbotsschild ist ein Schild mit einem Zeichen oder einem Text, das zeigt, dass man etwas nicht tun darf.",
+  "beispielsatz": "Das rote Verbotsschild zeigt, dass man hier nicht parken darf.",
+  "rechtschreibstrategie": "„Verbotsschild\" ist aus drei Bausteinen zusammengesetzt: „Verbots\" + „schild\". Sprich alle Teile laut mit und schreibe jeden Baustein für sich: Ver-bots-schild.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "verboten",
+    "Schild"
+  ],
+  "bild_datei": "Verbotsschild.webp",
+  "audio_datei": "Verbotsschild.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verbotsschild",
+    "plural": "die Verbotsschilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verbotsschild",
+        "genitiv": "des Verbotsschilds",
+        "dativ": "dem Verbotsschild",
+        "akkusativ": "das Verbotsschild"
+      },
+      "plural": {
+        "nominativ": "die Verbotsschilder",
+        "genitiv": "der Verbotsschilder",
+        "dativ": "den Verbotsschildern",
+        "akkusativ": "die Verbotsschilder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prohibition sign"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau d'interdiction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yasak tabelası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة الحظر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verboten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Warnschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verbotstafel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferbotsschild",
+    "Verbodsschild",
+    "Verbotschild",
+    "Verbotsshild",
+    "Verbozschild"
+  ]
+}

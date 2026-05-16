@@ -1,0 +1,83 @@
+{
+  "lemma": "Pflug",
+  "wortart": "Nomen",
+  "silben": "Pflug",
+  "begriffserklaerung": "Ein Pflug ist ein Gerät, das Bauern benutzen, um die Erde umzugraben und den Boden für das Einpflanzen von Samen vorzubereiten.",
+  "beispielsatz": "Der Bauer zieht den Pflug über das Feld, damit die Erde locker wird.",
+  "rechtschreibstrategie": "Das Wort „Pflug\" endet auf -ug. Wenn du es verlängerst, hörst du das g deutlich: Pflü-ge. Deshalb schreibt man am Ende ein g und kein k!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "pflüg",
+    "pflug"
+  ],
+  "bild_datei": "Pflug.webp",
+  "audio_datei": "Pflug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plough"
+    },
+    {
+      "language_code": "fr",
+      "translation": "charrue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saban"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محراث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflügen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflüger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traktor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Acker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pflug",
+    "plural": "die Pflüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pflug",
+        "genitiv": "des Pfluges",
+        "dativ": "dem Pflug",
+        "akkusativ": "den Pflug"
+      },
+      "plural": {
+        "nominativ": "die Pflüge",
+        "genitiv": "der Pflüge",
+        "dativ": "den Pflügen",
+        "akkusativ": "die Pflüge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pfluck",
+    "Pfluk",
+    "Pflugh",
+    "Flug",
+    "Phlug"
+  ]
+}

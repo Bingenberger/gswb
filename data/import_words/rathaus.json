@@ -1,0 +1,84 @@
+{
+  "lemma": "Rathaus",
+  "wortart": "Nomen",
+  "silben": "Rat-haus",
+  "beispielsatz": "Der Bürgermeister arbeitet im Rathaus.",
+  "begriffserklaerung": "Das Rathaus ist ein wichtiges Gebäude in einer Stadt oder Gemeinde. Dort arbeiten der Bürgermeister und andere Menschen, die sich um die Gemeinde kümmern.",
+  "rechtschreibstrategie": "Das Wort „Rathaus\" besteht aus zwei Teilen: „Rat\" und „Haus\". Sprich beide Teile laut mit: RAT – HAUS. Wenn du beide Bausteine kennst, kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Rat",
+    "Haus"
+  ],
+  "bild_datei": "Rathaus.webp",
+  "audio_datei": "Rathaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "town hall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mairie / hôtel de ville"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belediye binası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دار البلدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgermeister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marktplatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rathaus",
+    "plural": "die Rathäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rathaus",
+        "genitiv": "des Rathauses",
+        "dativ": "dem Rathaus",
+        "akkusativ": "das Rathaus"
+      },
+      "plural": {
+        "nominativ": "die Rathäuser",
+        "genitiv": "der Rathäuser",
+        "dativ": "den Rathäusern",
+        "akkusativ": "die Rathäuser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rathause",
+    "Rathauss",
+    "Raathaus",
+    "Rathauß",
+    "Ratthaus",
+    "Ratshaus"
+  ]
+}

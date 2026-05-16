@@ -1,0 +1,83 @@
+{
+  "lemma": "Spitzer",
+  "wortart": "Nomen",
+  "silben": "Spit-zer",
+  "begriffserklaerung": "Ein Spitzer ist ein kleines Gerät, mit dem man Bleistifte oder Buntstifte scharf machen kann.",
+  "beispielsatz": "Ich lege meinen Spitzer immer ins Mäppchen, damit meine Stifte scharf bleiben.",
+  "rechtschreibstrategie": "Das Wort kommt von „spitz\". Das „tz\" zeigt, dass das „i\" kurz gesprochen wird – also kein langes „i\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spitz"
+  ],
+  "bild_datei": "Spitzer.webp",
+  "audio_datei": "Spitzer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spitzer",
+    "plural": "die Spitzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spitzer",
+        "genitiv": "des Spitzers",
+        "dativ": "dem Spitzer",
+        "akkusativ": "den Spitzer"
+      },
+      "plural": {
+        "nominativ": "die Spitzer",
+        "genitiv": "der Spitzer",
+        "dativ": "den Spitzern",
+        "akkusativ": "die Spitzer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pencil sharpener"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taille-crayon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalemtraş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "براية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bleistift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mäppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radiergummi"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spizer",
+    "Spitser",
+    "Spizter",
+    "Spittzer",
+    "Spitze"
+  ]
+}

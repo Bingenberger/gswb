@@ -1,0 +1,84 @@
+{
+  "lemma": "Monatsblatt",
+  "wortart": "Nomen",
+  "silben": "Mo-nats-blatt",
+  "begriffserklaerung": "Ein Monatsblatt ist ein Heft oder eine Zeitung, die einmal im Monat erscheint und über bestimmte Themen berichtet.",
+  "beispielsatz": "In der Schule bekommen wir jeden Monat ein Monatsblatt mit Neuigkeiten aus unserer Klasse.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Monat\" und „Blatt\". Schreibe beide Teile einfach zusammen – und denke daran, dass „Blatt\" mit zwei t am Ende geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Monat",
+    "Blatt"
+  ],
+  "bild_datei": "Monatsblatt.webp",
+  "audio_datei": "Monatsblatt.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Monatsblatt",
+    "plural": "die Monatsblätter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Monatsblatt",
+        "genitiv": "des Monatsblattes",
+        "dativ": "dem Monatsblatt",
+        "akkusativ": "das Monatsblatt"
+      },
+      "plural": {
+        "nominativ": "die Monatsblätter",
+        "genitiv": "der Monatsblätter",
+        "dativ": "den Monatsblättern",
+        "akkusativ": "die Monatsblätter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "monthly newsletter / monthly sheet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feuille mensuelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aylık bülten"
+    },
+    {
+      "language_code": "ar",
+      "translation": "النشرة الشهرية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Monat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Monatszeitung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Monadtsblatt",
+    "Monatsblat",
+    "Monatzblatt",
+    "Monadsblatt",
+    "Monatssblatt"
+  ]
+}

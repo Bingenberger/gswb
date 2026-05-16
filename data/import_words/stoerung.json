@@ -1,0 +1,83 @@
+{
+  "lemma": "Störung",
+  "wortart": "Nomen",
+  "silben": "Stö-rung",
+  "begriffserklaerung": "Eine Störung ist etwas, das einen Ablauf unterbricht oder durcheinanderbringt – zum Beispiel ein Geräusch, das vom Lernen ablenkt.",
+  "beispielsatz": "Die Störung im Unterricht ärgerte die Lehrerin sehr.",
+  "rechtschreibstrategie": "Denke an das Verb „stören\" – davon kommt „Störung\". Das ö bleibt, und am Ende schreibst du -ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stör"
+  ],
+  "bild_datei": "Störung.webp",
+  "audio_datei": "Störung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "disturbance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perturbation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rahatsızlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إزعاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gestört"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterbrechung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterbrechung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Störung",
+    "plural": "die Störungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Störung",
+        "genitiv": "der Störung",
+        "dativ": "der Störung",
+        "akkusativ": "die Störung"
+      },
+      "plural": {
+        "nominativ": "die Störungen",
+        "genitiv": "der Störungen",
+        "dativ": "den Störungen",
+        "akkusativ": "die Störungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stöhrung",
+    "Störrung",
+    "Steurung",
+    "Stöhrunge",
+    "Störuung"
+  ]
+}

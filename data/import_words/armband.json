@@ -1,0 +1,85 @@
+{
+  "lemma": "Armband",
+  "wortart": "Nomen",
+  "silben": "Arm-band",
+  "begriffserklaerung": "Ein Armband ist ein Ring oder eine Kette, die man um das Handgelenk trägt. Es kann aus Metall, Leder oder Stoff sein und sieht hübsch aus.",
+  "beispielsatz": "Lea trägt ein buntes Armband aus Perlen.",
+  "rechtschreibstrategie": "Das Wort „Armband\" besteht aus zwei Teilen: „Arm\" und „Band\". Sprich beide Teile einzeln, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Arm",
+    "Band"
+  ],
+  "bild_datei": "Armband.webp",
+  "audio_datei": "Armband.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bracelet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bracelet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bileklik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halskette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ring"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reif"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Armband",
+    "plural": "die Armbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Armband",
+        "genitiv": "des Armbandes",
+        "dativ": "dem Armband",
+        "akkusativ": "das Armband"
+      },
+      "plural": {
+        "nominativ": "die Armbänder",
+        "genitiv": "der Armbänder",
+        "dativ": "den Armbändern",
+        "akkusativ": "die Armbänder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Armebrand",
+    "Armbant",
+    "Armbannd",
+    "Armband",
+    "Ahrmband",
+    "Armbend"
+  ]
+}

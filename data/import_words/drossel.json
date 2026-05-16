@@ -1,0 +1,74 @@
+{
+  "lemma": "Drossel",
+  "wortart": "Nomen",
+  "silben": "Dros-sel",
+  "begriffserklaerung": "Eine Drossel ist ein mittelgroßer Singvogel mit einem gefleckten Bauch. Sie lebt in Wäldern und Gärten und singt sehr schön.",
+  "beispielsatz": "Die Drossel sitzt auf dem Ast und singt ein fröhliches Lied.",
+  "rechtschreibstrategie": "Das Wort „Dros-sel\" hat zwei Silben. Nach dem kurzen „o\" verdoppelt sich das „s\" zu „ss\". Sprich es laut: Dros – sel!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Drossel"
+  ],
+  "bild_datei": "Drossel.webp",
+  "audio_datei": "Drossel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Drossel",
+    "plural": "die Drosseln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Drossel",
+        "genitiv": "der Drossel",
+        "dativ": "der Drossel",
+        "akkusativ": "die Drossel"
+      },
+      "plural": {
+        "nominativ": "die Drosseln",
+        "genitiv": "der Drosseln",
+        "dativ": "den Drosseln",
+        "akkusativ": "die Drosseln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thrush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grive"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ardıç kuşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر السمنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Singvogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Amsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rotkehlchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drosel",
+    "Drossell",
+    "Droßel",
+    "Drozel",
+    "Drossle"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "Pedal",
+  "wortart": "Nomen",
+  "silben": "Pe-dal",
+  "begriffserklaerung": "Ein Pedal ist ein Trittbrett an einem Fahrrad, Klavier oder Auto, das du mit dem Fuß drückst oder trittst.",
+  "beispielsatz": "Lena tritt kräftig in die Pedale, damit ihr Fahrrad schneller wird.",
+  "rechtschreibstrategie": "Das Wort „Pedal\" kommt aus dem Lateinischen und schreibt sich mit einem „P\" am Anfang und einem „d\" in der Mitte – sprich es laut: Pe-dal!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Pedal"
+  ],
+  "bild_datei": "Pedal.webp",
+  "audio_datei": "Pedal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pedal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pédale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pedal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دواسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lenker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sattel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pedal",
+    "plural": "die Pedale",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pedal",
+        "genitiv": "des Pedals",
+        "dativ": "dem Pedal",
+        "akkusativ": "das Pedal"
+      },
+      "plural": {
+        "nominativ": "die Pedale",
+        "genitiv": "der Pedale",
+        "dativ": "den Pedalen",
+        "akkusativ": "die Pedale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Peddal",
+    "Pedahl",
+    "Pedal",
+    "Bedral",
+    "Pedall",
+    "Petal"
+  ]
+}

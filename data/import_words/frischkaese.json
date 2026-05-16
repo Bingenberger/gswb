@@ -1,0 +1,83 @@
+{
+  "lemma": "Frischkäse",
+  "wortart": "Nomen",
+  "silben": "Frisch-kä-se",
+  "begriffserklaerung": "Frischkäse ist ein weicher, cremiger Käse, der nicht lange gereift ist. Man kann ihn gut aufs Brot streichen.",
+  "beispielsatz": "Mama streicht Frischkäse auf mein Frühstücksbrot.",
+  "rechtschreibstrategie": "Frischkäse ist aus zwei Teilen zusammengesetzt: „frisch\" und „Käse\". Denk daran, dass „Käse\" mit einem großen K und dem Umlaut ä geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "frisch",
+    "Käse"
+  ],
+  "bild_datei": "Frischkäse.webp",
+  "audio_datei": "Frischkäse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cream cheese"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fromage frais"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krem peynir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جبن طازج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quark"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joghurt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frischkäse",
+    "plural": "die Frischkäse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frischkäse",
+        "genitiv": "des Frischkäses",
+        "dativ": "dem Frischkäse",
+        "akkusativ": "den Frischkäse"
+      },
+      "plural": {
+        "nominativ": "die Frischkäse",
+        "genitiv": "der Frischkäse",
+        "dativ": "den Frischkäsen",
+        "akkusativ": "die Frischkäse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frischkese",
+    "Frischkäße",
+    "Frischkäze",
+    "Frischkässe",
+    "Frischkäse"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Buchstabe",
+  "wortart": "Nomen",
+  "silben": "Buch-sta-be",
+  "begriffserklaerung": "Ein Buchstabe ist ein einzelnes Zeichen aus dem Alphabet, zum Beispiel A, B oder C. Aus Buchstaben baut man Wörter.",
+  "beispielsatz": "Das Wort „Katze\" hat sechs Buchstaben.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Buch – sta – be. Denk an das kleine Wort „Buch\" am Anfang!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "buchstab"
+  ],
+  "bild_datei": "Buchstabe.webp",
+  "audio_datei": "Buchstabe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "letter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lettre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "harf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حرف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "buchstabieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "buchstäblich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Alphabet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Buchstabe",
+    "plural": "die Buchstaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Buchstabe",
+        "genitiv": "des Buchstabens",
+        "dativ": "dem Buchstaben",
+        "akkusativ": "den Buchstaben"
+      },
+      "plural": {
+        "nominativ": "die Buchstaben",
+        "genitiv": "der Buchstaben",
+        "dativ": "den Buchstaben",
+        "akkusativ": "die Buchstaben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Buchstap",
+    "Buchstabe",
+    "Buchstappen",
+    "Buchstab",
+    "Buchschtabe",
+    "Buchstahbe"
+  ]
+}

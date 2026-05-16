@@ -1,0 +1,86 @@
+{
+  "lemma": "Hefter",
+  "wortart": "Nomen",
+  "silben": "Hef-ter",
+  "begriffserklaerung": "Ein Hefter ist eine Mappe mit Ringen oder Klammern, in der du Blätter und Hefte ordentlich aufbewahrst.",
+  "beispielsatz": "Leon holt seinen roten Hefter aus dem Schulranzen und legt das Arbeitsblatt hinein.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Hef-ter\". Du hörst ein kurzes „e\" – deshalb schreibt man „ft\" hintereinander. Merke: kurzer Vokal, Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "heft"
+  ],
+  "bild_datei": "Hefter.webp",
+  "audio_datei": "Hefter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hefter",
+    "plural": "die Hefter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hefter",
+        "genitiv": "des Hefters",
+        "dativ": "dem Hefter",
+        "akkusativ": "den Hefter"
+      },
+      "plural": {
+        "nominativ": "die Hefter",
+        "genitiv": "der Hefter",
+        "dativ": "den Heftern",
+        "akkusativ": "die Hefter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "folder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "classeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dosya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heften"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mappe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeitsblatt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hefder",
+    "Häfter",
+    "Hepter",
+    "Heftar",
+    "Hefft"
+  ]
+}

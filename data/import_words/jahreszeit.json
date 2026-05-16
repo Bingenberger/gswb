@@ -1,0 +1,85 @@
+{
+  "lemma": "Jahreszeit",
+  "wortart": "Nomen",
+  "silben": "Jah-res-zeit",
+  "begriffserklaerung": "Eine Jahreszeit ist ein Abschnitt des Jahres mit bestimmtem Wetter. Es gibt vier Jahreszeiten: Frühling, Sommer, Herbst und Winter.",
+  "beispielsatz": "Der Frühling ist meine liebste Jahreszeit, weil dann die Blumen blühen.",
+  "rechtschreibstrategie": "„Jahreszeit\" ist aus zwei Wörtern zusammengesetzt: „Jahr\" und „Zeit\". Schreib beide Teile einfach zusammen – und denk ans Dehnungs-h in „Jahr\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Jahr",
+    "Zeit"
+  ],
+  "bild_datei": "Jahreszeit.webp",
+  "audio_datei": "Jahreszeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "season"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mevsim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فصل من فصول السنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jahreszeit",
+    "plural": "die Jahreszeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jahreszeit",
+        "genitiv": "der Jahreszeit",
+        "dativ": "der Jahreszeit",
+        "akkusativ": "die Jahreszeit"
+      },
+      "plural": {
+        "nominativ": "die Jahreszeiten",
+        "genitiv": "der Jahreszeiten",
+        "dativ": "den Jahreszeiten",
+        "akkusativ": "die Jahreszeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jareszeit",
+    "Jahreszeitt",
+    "Jahrezzeit",
+    "Jahreßzeit",
+    "Jahreszeid",
+    "Jahresseite"
+  ]
+}

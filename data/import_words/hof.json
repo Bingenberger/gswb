@@ -1,0 +1,85 @@
+{
+  "lemma": "Hof",
+  "wortart": "Nomen",
+  "silben": "Hof",
+  "begriffserklaerung": "Ein Hof ist ein freier Platz, der oft von Gebäuden oder Mauern umgeben ist. Es kann ein Schulhof, ein Bauernhof oder der Innenhof eines Hauses sein.",
+  "beispielsatz": "In der Pause spielen wir auf dem Hof der Schule Fangen.",
+  "rechtschreibstrategie": "Das Wort „Hof\" hat nur eine Silbe. Wenn du es verlängerst, heißt es „Höfe\" – so hörst du den Vokal deutlich. Am Ende steht ein f, kein v!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hof"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hof",
+    "plural": "die Höfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hof",
+        "genitiv": "des Hofes",
+        "dativ": "dem Hof",
+        "akkusativ": "den Hof"
+      },
+      "plural": {
+        "nominativ": "die Höfe",
+        "genitiv": "der Höfe",
+        "dativ": "den Höfen",
+        "akkusativ": "die Höfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hoff",
+    "hof",
+    "Hov",
+    "Hofe"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "yard / farm / courtyard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cour / ferme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avlu / çiftlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فناء / مزرعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulhof"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Innenhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Platz"
+    }
+  ],
+  "bild_datei": "Hof.webp",
+  "audio_datei": "Hof.mp3"
+}

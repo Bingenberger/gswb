@@ -1,0 +1,89 @@
+{
+  "lemma": "war",
+  "wortart": "Verb",
+  "silben": "war",
+  "begriffserklaerung": "„War\" ist die Vergangenheitsform von „sein\". Man benutzt es, wenn man erzählt, wie etwas früher war oder wo jemand früher gewesen ist.",
+  "beispielsatz": "Gestern war ich bei meiner Oma zu Besuch.",
+  "rechtschreibstrategie": "Das Wort „war\" klingt wie es geschrieben wird – sprich es laut: w-a-r. Denke daran: kein doppeltes r am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "war.webp",
+  "audio_datei": "war.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "was / were"
+    },
+    {
+      "language_code": "fr",
+      "translation": "était / étais"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vardı / idi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wurde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existierte"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "fehlschreibungen": [
+    "wahr",
+    "war",
+    "warr",
+    "va"
+  ]
+}

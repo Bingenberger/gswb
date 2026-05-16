@@ -1,0 +1,87 @@
+{
+  "lemma": "Warnung",
+  "wortart": "Nomen",
+  "silben": "War-nung",
+  "begriffserklaerung": "Eine Warnung sagt dir, dass etwas gefährlich sein könnte. Sie soll dich schützen, damit dir nichts Schlimmes passiert.",
+  "beispielsatz": "Das Schild am Fluss war eine Warnung, weil das Wasser dort sehr tief ist.",
+  "rechtschreibstrategie": "Denk an das Verb „warnen\" – davon kommt „Warnung\". Das Wort fängt mit War- an, wie in „warm\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "warn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Warnung",
+    "plural": "die Warnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Warnung",
+        "genitiv": "der Warnung",
+        "dativ": "der Warnung",
+        "akkusativ": "die Warnung"
+      },
+      "plural": {
+        "nominativ": "die Warnungen",
+        "genitiv": "der Warnungen",
+        "dativ": "den Warnungen",
+        "akkusativ": "die Warnungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Varnung",
+    "Warnnung",
+    "Wahnung",
+    "Warnuung",
+    "Warnong"
+  ],
+  "bild_datei": "Warnung.webp",
+  "audio_datei": "Warnung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "warning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avertissement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تحذير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "warnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verwarnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Alarm"
+    }
+  ]
+}

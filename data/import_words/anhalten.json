@@ -1,0 +1,104 @@
+{
+  "lemma": "anhalten",
+  "wortart": "Verb",
+  "silben": "an-hal-ten",
+  "begriffserklaerung": "Anhalten bedeutet, dass sich etwas oder jemand bewegt und dann aufhört, sich zu bewegen – also stehen bleibt. Man kann auch jemanden bitten, kurz zu warten.",
+  "beispielsatz": "Der Bus hält an der Haltestelle an.",
+  "rechtschreibstrategie": "Das Wort „anhalten\" besteht aus zwei Bausteinen: „an\" und „halten\". Sprich beide Teile laut vor: AN – HAL – TEN. Denk daran, dass „halten\" ein langes „a\" hat – kein Dehnungs-h, aber ein langes „a\" vor „l\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "halt",
+    "halten"
+  ],
+  "bild_datei": "anhalten.webp",
+  "audio_datei": "anhalten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to stop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "s'arrêter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتوقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stoppen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stehen bleiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bremsen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "losfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "warten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "anhalten",
+    "praesens": {
+      "ich": "halte an",
+      "du": "hältst an",
+      "er_sie_es": "hält an",
+      "wir": "halten an",
+      "ihr": "haltet an",
+      "sie": "halten an"
+    },
+    "perfekt": {
+      "ich": "habe angehalten",
+      "du": "hast angehalten",
+      "er_sie_es": "hat angehalten",
+      "wir": "haben angehalten",
+      "ihr": "habt angehalten",
+      "sie": "haben angehalten"
+    },
+    "praeteritum": {
+      "ich": "hielt an",
+      "du": "hieltst an",
+      "er_sie_es": "hielt an",
+      "wir": "hielten an",
+      "ihr": "hieltet an",
+      "sie": "hielten an"
+    }
+  },
+  "fehlschreibungen": [
+    "annhalten",
+    "anhaltten",
+    "anhalden",
+    "Anhalten",
+    "anhlaten",
+    "anhallten"
+  ]
+}

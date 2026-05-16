@@ -1,0 +1,81 @@
+{
+  "lemma": "Kleber",
+  "wortart": "Nomen",
+  "silben": "Kle-ber",
+  "begriffserklaerung": "Ein Kleber ist ein Stoff, mit dem man zwei Dinge zusammenkleben kann, damit sie fest zusammenhalten.",
+  "beispielsatz": "Ich brauche den Kleber, um die Papierschnipsel auf das Blatt zu kleben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kle-ber. Das e in „Kle\" ist lang, darum schreibst du nur ein „b\" – also kein Doppel-b!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kleb"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kleber",
+    "plural": "die Kleber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kleber",
+        "genitiv": "des Klebers",
+        "dativ": "dem Kleber",
+        "akkusativ": "den Kleber"
+      },
+      "plural": {
+        "nominativ": "die Kleber",
+        "genitiv": "der Kleber",
+        "dativ": "den Klebern",
+        "akkusativ": "die Kleber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kleber",
+    "Kleeber",
+    "Kläber",
+    "Klepper"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapıştırıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غراء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kleben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klebstoff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klebstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bastelzeug"
+    }
+  ],
+  "bild_datei": "Kleber.webp",
+  "audio_datei": "Kleber.mp3"
+}

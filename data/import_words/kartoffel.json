@@ -1,0 +1,86 @@
+{
+  "lemma": "Kartoffel",
+  "wortart": "Nomen",
+  "silben": "Kar-tof-fel",
+  "begriffserklaerung": "Die Kartoffel ist eine Pflanze, die essbare, runde oder längliche Knollen in der Erde wachsen lässt. Sie gehört zu den wichtigsten Nahrungsmitteln und kann als Pommes, Brei oder Salzkartoffel gegessen werden.",
+  "beispielsatz": "Mama kocht heute Abend leckere Kartoffeln mit Butter.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Kar-tof-fel. Das „ff\" in der Mitte schreibt man doppelt, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kartoffel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kartoffel",
+    "plural": "die Kartoffeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kartoffel",
+        "genitiv": "der Kartoffel",
+        "dativ": "der Kartoffel",
+        "akkusativ": "die Kartoffel"
+      },
+      "plural": {
+        "nominativ": "die Kartoffeln",
+        "genitiv": "der Kartoffeln",
+        "dativ": "den Kartoffeln",
+        "akkusativ": "die Kartoffeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kartofel",
+    "Kartophel",
+    "Kartofell",
+    "Cartoffel",
+    "Kartuffel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "potato"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pomme de terre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patates"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاطس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kartoffelbrei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kartoffelsalat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tomate"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Möhre"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erdapfel"
+    }
+  ],
+  "bild_datei": "Kartoffel.webp",
+  "audio_datei": "Kartoffel.mp3"
+}

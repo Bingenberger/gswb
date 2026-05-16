@@ -1,0 +1,86 @@
+{
+  "lemma": "Retter",
+  "wortart": "Nomen",
+  "silben": "Ret-ter",
+  "begriffserklaerung": "Ein Retter ist eine Person, die jemanden aus einer gefährlichen Situation befreit und ihm hilft.",
+  "beispielsatz": "Der mutige Retter sprang ins Wasser und holte das Kind sicher ans Ufer.",
+  "rechtschreibstrategie": "Das Wort „Retter\" hat ein doppeltes t. Das erkennst du, weil der Vokal e vor dem t kurz gesprochen wird – also schreibst du tt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "retten"
+  ],
+  "bild_datei": "Retter.webp",
+  "audio_datei": "Retter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Retter",
+    "plural": "die Retter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Retter",
+        "genitiv": "des Retters",
+        "dativ": "dem Retter",
+        "akkusativ": "den Retter"
+      },
+      "plural": {
+        "nominativ": "die Retter",
+        "genitiv": "der Retter",
+        "dativ": "den Rettern",
+        "akkusativ": "die Retter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rescuer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sauveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurtarıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منقذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rettung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Helfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Held"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notarzt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reter",
+    "Räter",
+    "Retter",
+    "Rehter"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Portion",
+  "wortart": "Nomen",
+  "silben": "Por-ti-on",
+  "begriffserklaerung": "Eine Portion ist eine bestimmte Menge von Essen oder Trinken, die für eine Person gedacht ist.",
+  "beispielsatz": "Ich esse eine große Portion Nudeln zum Mittagessen.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich in Silben: Por-ti-on. Das „ti\" klingt wie „zi\" – aber du schreibst es mit einem „t\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Portion.webp",
+  "audio_datei": "Portion.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "portion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "portion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "porsiyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Menge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anteil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Portion",
+    "plural": "die Portionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Portion",
+        "genitiv": "der Portion",
+        "dativ": "der Portion",
+        "akkusativ": "die Portion"
+      },
+      "plural": {
+        "nominativ": "die Portionen",
+        "genitiv": "der Portionen",
+        "dativ": "den Portionen",
+        "akkusativ": "die Portionen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Porzion",
+    "Porsion",
+    "Portzion",
+    "Potion",
+    "Portjon"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "heißen",
+  "wortart": "Verb",
+  "silben": "hei-ßen",
+  "begriffserklaerung": "„Heißen\" bedeutet, einen Namen haben oder genannt werden. Man sagt zum Beispiel, wie jemand heißt, also welchen Namen er trägt.",
+  "beispielsatz": "Wie heißt du? – Ich heiße Lena!",
+  "rechtschreibstrategie": "Schreibe „heißen\" mit ß, weil das ei davor lang gesprochen wird. Nach einem langen Vokal oder Doppelvokal kommt immer ß, nicht ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "heiß"
+  ],
+  "bild_datei": "heißen.webp",
+  "audio_datei": "heißen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be called / to be named"
+    },
+    {
+      "language_code": "fr",
+      "translation": "s'appeler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "adı olmak / adını taşımak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسمَّى / اسمه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heiß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "genannt werden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Name"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "heißen",
+    "praesens": {
+      "ich": "heiße",
+      "du": "heißt",
+      "er_sie_es": "heißt",
+      "wir": "heißen",
+      "ihr": "heißt",
+      "sie": "heißen"
+    },
+    "perfekt": {
+      "ich": "habe geheißen",
+      "du": "hast geheißen",
+      "er_sie_es": "hat geheißen",
+      "wir": "haben geheißen",
+      "ihr": "habt geheißen",
+      "sie": "haben geheißen"
+    },
+    "praeteritum": {
+      "ich": "hieß",
+      "du": "hießt",
+      "er_sie_es": "hieß",
+      "wir": "hießen",
+      "ihr": "hießt",
+      "sie": "hießen"
+    }
+  },
+  "fehlschreibungen": [
+    "heisen",
+    "heissen",
+    "heißsen",
+    "hiesen",
+    "haißen",
+    "heißt"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Zickzack",
+  "wortart": "Nomen",
+  "silben": "Zick-zack",
+  "begriffserklaerung": "Ein Zickzack ist eine Linie oder ein Weg, der immer abwechselnd scharf nach links und nach rechts knickt – wie ein Blitz oder ein Zackenmuster.",
+  "beispielsatz": "Der Blitz leuchtete als Zickzack am Himmel auf.",
+  "rechtschreibstrategie": "Das Wort hat zwei gleiche Teile: „Zick\" und „zack\". Nach dem kurzen „i\" schreibt man „ck\" und nach dem kurzen „a\" schreibt man „ck\" – also zweimal „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zickzack"
+  ],
+  "bild_datei": "Zickzack.webp",
+  "audio_datei": "Zickzack.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zickzack",
+    "plural": "die Zickzacks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zickzack",
+        "genitiv": "des Zickzacks",
+        "dativ": "dem Zickzack",
+        "akkusativ": "den Zickzack"
+      },
+      "plural": {
+        "nominativ": "die Zickzacks",
+        "genitiv": "der Zickzacks",
+        "dativ": "den Zickzacks",
+        "akkusativ": "die Zickzacks"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "zigzag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "zigzag"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zikzak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متعرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zickzackförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zickzacken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Muster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zackenlinie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zikzak",
+    "Zikzack",
+    "Zickzak",
+    "Ziczack",
+    "Zikzag",
+    "Zig-Zag"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Schöpfkelle",
+  "wortart": "Nomen",
+  "silben": "Schöpf-kel-le",
+  "begriffserklaerung": "Eine Schöpfkelle ist ein großer, tiefer Löffel mit einem langen Stiel. Man benutzt sie zum Schöpfen und Verteilen von Suppe oder anderen flüssigen Speisen.",
+  "beispielsatz": "Mama nimmt die Schöpfkelle und verteilt die heiße Suppe in die Teller.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „schöpf\" und „Kelle\". Denk daran: Nach dem kurzen „e\" in „Kelle\" wird das „l\" verdoppelt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schöpf",
+    "Kelle"
+  ],
+  "bild_datei": "Schöpfkelle.webp",
+  "audio_datei": "Schöpfkelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schöpfkelle",
+    "plural": "die Schöpfkellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schöpfkelle",
+        "genitiv": "der Schöpfkelle",
+        "dativ": "der Schöpfkelle",
+        "akkusativ": "die Schöpfkelle"
+      },
+      "plural": {
+        "nominativ": "die Schöpfkellen",
+        "genitiv": "der Schöpfkellen",
+        "dativ": "den Schöpfkellen",
+        "akkusativ": "die Schöpfkellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ladle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "louche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kepçe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schöpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Suppenkelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Suppe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schöpfkele",
+    "Schöpfkell",
+    "Schepfkelle",
+    "Schöpfkelle",
+    "Schöpfkälle",
+    "Schoepfkelle"
+  ]
+}

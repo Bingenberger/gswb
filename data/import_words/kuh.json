@@ -1,0 +1,82 @@
+{
+  "lemma": "Kuh",
+  "wortart": "Nomen",
+  "silben": "Kuh",
+  "begriffserklaerung": "Eine Kuh ist ein großes Haustier auf dem Bauernhof. Sie gibt uns Milch und sagt „Muh\".",
+  "beispielsatz": "Die Kuh steht auf der grünen Wiese und frisst Gras.",
+  "rechtschreibstrategie": "Das Wort „Kuh\" hat nur eine Silbe. Das lange U wird mit einem Dehnungs-h geschrieben: K-u-h. Denk daran: Das h sprichst du nicht mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kuh",
+    "plural": "die Kühe",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kuh",
+        "genitiv": "der Kuh",
+        "dativ": "der Kuh",
+        "akkusativ": "die Kuh"
+      },
+      "plural": {
+        "nominativ": "die Kühe",
+        "genitiv": "der Kühe",
+        "dativ": "den Kühen",
+        "akkusativ": "die Kühe"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kuh"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kuhstall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kuhmilch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vache"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بقرة"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ku",
+    "Kuu",
+    "Cuh",
+    "Coo",
+    "Kuw"
+  ],
+  "bild_datei": "Kuh.webp",
+  "audio_datei": "Kuh.mp3"
+}

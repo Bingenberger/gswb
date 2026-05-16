@@ -1,0 +1,83 @@
+{
+  "lemma": "Tiefe",
+  "wortart": "Nomen",
+  "silben": "Tie-fe",
+  "begriffserklaerung": "Die Tiefe sagt uns, wie weit etwas nach unten geht – zum Beispiel wie tief ein See oder ein Loch ist.",
+  "beispielsatz": "Der Taucher staunte über die Tiefe des Meeres.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Tiefe\" – sprich es deutlich: „Tiiefe\". Das „ie\" schreibt man mit i und e zusammen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "tief"
+  ],
+  "bild_datei": "Tiefe.webp",
+  "audio_datei": "Tiefe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "depth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "profondeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "derinlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tief"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tiefen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abgrund"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tiefgang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tiefe",
+    "plural": "die Tiefen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tiefe",
+        "genitiv": "der Tiefe",
+        "dativ": "der Tiefe",
+        "akkusativ": "die Tiefe"
+      },
+      "plural": {
+        "nominativ": "die Tiefen",
+        "genitiv": "der Tiefen",
+        "dativ": "den Tiefen",
+        "akkusativ": "die Tiefen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tife",
+    "Tiefe",
+    "Thife",
+    "Tyfe",
+    "Tiiefe",
+    "Tieffe"
+  ]
+}

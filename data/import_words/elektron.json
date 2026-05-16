@@ -1,0 +1,84 @@
+{
+  "lemma": "Elektron",
+  "wortart": "Nomen",
+  "silben": "E-lek-tron",
+  "begriffserklaerung": "Ein Elektron ist ein winzig kleines Teilchen, das Teil jedes Atoms ist. Elektronen sind so klein, dass man sie nicht sehen kann. Sie tragen elektrische Ladung und sind wichtig für Strom und Licht.",
+  "beispielsatz": "Der Lehrer erklärt, dass ein Atom aus einem Kern und vielen Elektronen besteht.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: E – lek – tron. Denk an das Wort „Elektro\", das du vielleicht schon kennst – zum Beispiel aus „Elektromotor\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "elektr"
+  ],
+  "bild_datei": "Elektron.webp",
+  "audio_datei": "Elektron.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electron"
+    },
+    {
+      "language_code": "fr",
+      "translation": "électron"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektron"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إلكترون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektrizität"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "elektrisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Proton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Elektron",
+    "plural": "die Elektronen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Elektron",
+        "genitiv": "des Elektrons",
+        "dativ": "dem Elektron",
+        "akkusativ": "das Elektron"
+      },
+      "plural": {
+        "nominativ": "die Elektronen",
+        "genitiv": "der Elektronen",
+        "dativ": "den Elektronen",
+        "akkusativ": "die Elektronen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elekktron",
+    "Elecktron",
+    "Elektohn",
+    "Elektrohn",
+    "Elekton",
+    "Elaektron"
+  ]
+}

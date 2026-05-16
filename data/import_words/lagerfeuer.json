@@ -1,0 +1,83 @@
+{
+  "lemma": "Lagerfeuer",
+  "wortart": "Nomen",
+  "silben": "La-ger-feu-er",
+  "begriffserklaerung": "Ein Lagerfeuer ist ein großes Feuer, das man draußen in der Natur anzündet. Menschen sitzen darum herum, um sich zu wärmen, Geschichten zu erzählen oder Stockbrot zu backen.",
+  "beispielsatz": "Am Abend saßen wir alle zusammen um das Lagerfeuer und sangen Lieder.",
+  "rechtschreibstrategie": "Das Wort „Lagerfeuer\" besteht aus zwei Bausteinen: „Lager\" und „Feuer\". Sprich beide Teile laut: LA-GER und FEU-ER. Denke daran, dass „Feuer\" mit „eu\" geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lager",
+    "Feuer"
+  ],
+  "bild_datei": "Lagerfeuer.webp",
+  "audio_datei": "Lagerfeuer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lagerfeuer",
+    "plural": "die Lagerfeuer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lagerfeuer",
+        "genitiv": "des Lagerfeuers",
+        "dativ": "dem Lagerfeuer",
+        "akkusativ": "das Lagerfeuer"
+      },
+      "plural": {
+        "nominativ": "die Lagerfeuer",
+        "genitiv": "der Lagerfeuer",
+        "dativ": "den Lagerfeuern",
+        "akkusativ": "die Lagerfeuer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "campfire"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feu de camp"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamp ateşi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نار المخيم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lager"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Camping"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Laagerfeuer",
+    "Lagerfeier",
+    "Lagerfeur",
+    "Lagerföuer",
+    "Laggerfeuer"
+  ]
+}

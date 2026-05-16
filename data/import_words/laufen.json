@@ -1,0 +1,98 @@
+{
+  "lemma": "laufen",
+  "wortart": "Verb",
+  "silben": "lau-fen",
+  "begriffserklaerung": "Laufen bedeutet, sich schnell auf den Beinen fortzubewegen – schneller als Gehen, aber langsamer als Sprinten.",
+  "beispielsatz": "Die Kinder laufen fröhlich über den Schulhof.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: lau – fen. Das „au\" klingt wie in „Haus\". Nach dem langen „au\" kommt nur ein „f\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lauf"
+  ],
+  "bild_datei": "laufen.webp",
+  "audio_datei": "laufen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "laufen",
+    "praesens": {
+      "ich": "laufe",
+      "du": "läufst",
+      "er_sie_es": "läuft",
+      "wir": "laufen",
+      "ihr": "lauft",
+      "sie": "laufen"
+    },
+    "perfekt": {
+      "ich": "bin gelaufen",
+      "du": "bist gelaufen",
+      "er_sie_es": "ist gelaufen",
+      "wir": "sind gelaufen",
+      "ihr": "seid gelaufen",
+      "sie": "sind gelaufen"
+    },
+    "praeteritum": {
+      "ich": "lief",
+      "du": "liefst",
+      "er_sie_es": "lief",
+      "wir": "liefen",
+      "ihr": "lieft",
+      "sie": "liefen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to run"
+    },
+    {
+      "language_code": "fr",
+      "translation": "courir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَجْرِي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Läufer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "joggen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "springen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sport treiben"
+    }
+  ],
+  "fehlschreibungen": [
+    "loufen",
+    "lauffen",
+    "lafen",
+    "lauven",
+    "laufen"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Reihe",
+  "wortart": "Nomen",
+  "silben": "Rei-he",
+  "begriffserklaerung": "Eine Reihe ist eine Gruppe von Dingen oder Personen, die hintereinander oder nebeneinander angeordnet sind.",
+  "beispielsatz": "Die Kinder stehen in einer langen Reihe vor dem Klassenzimmer.",
+  "rechtschreibstrategie": "Das Wort „Reihe\" hat ein langes ei und endet auf -he. Denk daran: Nach dem „ei\" kommt noch ein stilles „h\" am Ende!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "reih"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reihe",
+    "plural": "die Reihen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reihe",
+        "genitiv": "der Reihe",
+        "dativ": "der Reihe",
+        "akkusativ": "die Reihe"
+      },
+      "plural": {
+        "nominativ": "die Reihen",
+        "genitiv": "der Reihen",
+        "dativ": "den Reihen",
+        "akkusativ": "die Reihen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reihe",
+    "Reie",
+    "Reiche",
+    "Reiye",
+    "Räihe",
+    "Rehe"
+  ],
+  "bild_datei": "Reihe.webp",
+  "audio_datei": "Reihe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "row / line"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rangée / file"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıra"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reihen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reihenfolge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeile"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ordnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Linie"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Stellung",
+  "wortart": "Nomen",
+  "silben": "Stel-lung",
+  "begriffserklaerung": "Eine Stellung ist der Platz oder die Lage, an dem sich jemand oder etwas befindet. Es kann auch bedeuten, welche Aufgabe oder welchen Job jemand hat.",
+  "beispielsatz": "Der Torwart nimmt seine Stellung vor dem Tor ein.",
+  "rechtschreibstrategie": "Höre genau hin: Nach dem kurzen „e\" in „Stel-\" hörst du das „l\" doppelt. Deshalb schreibt man „ll\": Stellung.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stell"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stellung",
+    "plural": "die Stellungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stellung",
+        "genitiv": "der Stellung",
+        "dativ": "der Stellung",
+        "akkusativ": "die Stellung"
+      },
+      "plural": {
+        "nominativ": "die Stellungen",
+        "genitiv": "der Stellungen",
+        "dativ": "den Stellungen",
+        "akkusativ": "die Stellungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stelung",
+    "Stelllung",
+    "Stelüng",
+    "Stelluing",
+    "Stellunng"
+  ],
+  "bild_datei": "Stellung.webp",
+  "audio_datei": "Stellung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "position"
+    },
+    {
+      "language_code": "fr",
+      "translation": "position"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pozisyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Position"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Posten"
+    }
+  ]
+}

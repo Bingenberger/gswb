@@ -1,0 +1,88 @@
+{
+  "lemma": "Lebensabschnitt",
+  "wortart": "Nomen",
+  "silben": "Le-bens-ab-schnitt",
+  "begriffserklaerung": "Ein Lebensabschnitt ist ein bestimmter Teil des Lebens, zum Beispiel die Kindheit, die Schulzeit oder das Erwachsenenleben.",
+  "beispielsatz": "Die Grundschulzeit ist ein schöner Lebensabschnitt, den man nie vergisst.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: LEBEN + S + ABSCHNITT. Achte auf das Doppel-t am Ende von „Schnitt\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "leben",
+    "schneiden"
+  ],
+  "bild_datei": "Lebensabschnitt.webp",
+  "audio_datei": "Lebensabschnitt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lebensabschnitt",
+    "plural": "die Lebensabschnitte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lebensabschnitt",
+        "genitiv": "des Lebensabschnitts",
+        "dativ": "dem Lebensabschnitt",
+        "akkusativ": "den Lebensabschnitt"
+      },
+      "plural": {
+        "nominativ": "die Lebensabschnitte",
+        "genitiv": "der Lebensabschnitte",
+        "dativ": "den Lebensabschnitten",
+        "akkusativ": "die Lebensabschnitte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "phase of life"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étape de la vie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayat dönemi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرحلة من الحياة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kindheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulzeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebensphase"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lebensabschnit",
+    "Lebensabschnid",
+    "Lebensabschnidt",
+    "Lebensabschnitt",
+    "Lebenssabschnitt"
+  ]
+}

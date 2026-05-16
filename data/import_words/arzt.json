@@ -1,0 +1,82 @@
+{
+  "lemma": "Arzt",
+  "wortart": "Nomen",
+  "silben": "Arzt",
+  "begriffserklaerung": "Ein Arzt ist ein Mensch, der eine lange Ausbildung gemacht hat und anderen Menschen hilft, wenn sie krank sind oder Schmerzen haben.",
+  "beispielsatz": "Wenn ich Fieber habe, geht meine Mama mit mir zum Arzt.",
+  "rechtschreibstrategie": "Das Wort „Arzt\" endet auf -zt. Wenn du es verlängerst, hörst du beide Buchstaben deutlich: Ärz-te. So weißt du, dass am Ende ein z und ein t stehen.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Arzt",
+    "plural": "die Ärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Arzt",
+        "genitiv": "des Arztes",
+        "dativ": "dem Arzt",
+        "akkusativ": "den Arzt"
+      },
+      "plural": {
+        "nominativ": "die Ärzte",
+        "genitiv": "der Ärzte",
+        "dativ": "den Ärzten",
+        "akkusativ": "die Ärzte"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Arzt"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ärztin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ärztlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Doktor"
+    }
+  ],
+  "fehlschreibungen": [
+    "Artz",
+    "Arst",
+    "Arsd",
+    "Arct",
+    "Arts"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "doctor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médecin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doktor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب"
+    }
+  ],
+  "bild_datei": "Arzt.webp",
+  "audio_datei": "Arzt.mp3"
+}

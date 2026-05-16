@@ -1,0 +1,91 @@
+{
+  "lemma": "Vorhaben",
+  "wortart": "Nomen",
+  "silben": "Vor-ha-ben",
+  "begriffserklaerung": "Ein Vorhaben ist etwas, das man plant oder tun möchte. Es ist ein Ziel oder eine Idee, die man verwirklichen will.",
+  "beispielsatz": "Mein größtes Vorhaben in den Ferien ist es, endlich schwimmen zu lernen.",
+  "rechtschreibstrategie": "Das Wort „Vorhaben\" besteht aus zwei Bausteinen: „vor\" und „haben\". Sprich beide Teile deutlich: VOR-HA-BEN. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "haben",
+    "vor"
+  ],
+  "bild_datei": "Vorhaben.webp",
+  "audio_datei": "Vorhaben.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Vorhaben",
+    "plural": "die Vorhaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vorhaben",
+        "genitiv": "des Vorhabens",
+        "dativ": "dem Vorhaben",
+        "akkusativ": "das Vorhaben"
+      },
+      "plural": {
+        "nominativ": "die Vorhaben",
+        "genitiv": "der Vorhaben",
+        "dativ": "den Vorhaben",
+        "akkusativ": "die Vorhaben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plan / intention"
+    },
+    {
+      "language_code": "fr",
+      "translation": "projet / intention"
+    },
+    {
+      "language_code": "tr",
+      "translation": "niyet / plan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطة / نية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorhaben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Absicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Idee"
+    }
+  ],
+  "fehlschreibungen": [
+    "Forhaaben",
+    "Vorhapen",
+    "Vorhaaben",
+    "Forhaben",
+    "Vorhabben"
+  ]
+}

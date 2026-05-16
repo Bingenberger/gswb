@@ -1,0 +1,91 @@
+{
+  "lemma": "Entfernung",
+  "wortart": "Nomen",
+  "silben": "Ent-fer-nung",
+  "begriffserklaerung": "Die Entfernung gibt an, wie weit zwei Dinge oder Orte voneinander weg sind.",
+  "beispielsatz": "Die Entfernung von unserer Schule zum Park beträgt nur fünf Minuten zu Fuß.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ent-fer-nung. Achte auf das „fer\" in der Mitte – da hörst du nur ein „r\", aber es steckt das Wort „fern\" drin!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fern"
+  ],
+  "bild_datei": "Entfernung.webp",
+  "audio_datei": "Entfernung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "distance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mesafe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entfernen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abstand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Entfernung",
+    "plural": "die Entfernungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Entfernung",
+        "genitiv": "der Entfernung",
+        "dativ": "der Entfernung",
+        "akkusativ": "die Entfernung"
+      },
+      "plural": {
+        "nominativ": "die Entfernungen",
+        "genitiv": "der Entfernungen",
+        "dativ": "den Entfernungen",
+        "akkusativ": "die Entfernungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Entferung",
+    "Entfehrnung",
+    "Entfernnung",
+    "Enfernung",
+    "Entfärnung"
+  ]
+}

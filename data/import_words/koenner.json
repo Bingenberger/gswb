@@ -1,0 +1,86 @@
+{
+  "lemma": "Könner",
+  "wortart": "Nomen",
+  "silben": "Kön-ner",
+  "begriffserklaerung": "Ein Könner ist jemand, der etwas sehr gut kann und darin geübt ist.",
+  "beispielsatz": "Lea ist eine echte Könnerin auf dem Fahrrad – sie fährt sogar ohne Hände!",
+  "rechtschreibstrategie": "Nach dem kurzen „ö\" verdoppelst du das „n\": Kön-ner. Sprich die Silben laut mit: „Kön\" – „ner\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "können"
+  ],
+  "bild_datei": "Könner.webp",
+  "audio_datei": "Könner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "expert, master"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expert, as"
+    },
+    {
+      "language_code": "tr",
+      "translation": "usta, uzman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبير، متمكن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "können"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Können"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meister"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Experte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Talent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fähigkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Könner",
+    "plural": "die Könner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Könner",
+        "genitiv": "des Könnners",
+        "dativ": "dem Könner",
+        "akkusativ": "den Könner"
+      },
+      "plural": {
+        "nominativ": "die Könner",
+        "genitiv": "der Könner",
+        "dativ": "den Könnern",
+        "akkusativ": "die Könner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Köner",
+    "Könner",
+    "Conner",
+    "Könnner",
+    "Könnar"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "Sternschnuppe",
+  "wortart": "Nomen",
+  "silben": "Stern-schnu-ppe",
+  "begriffserklaerung": "Eine Sternschnuppe ist ein kleines Gesteinsstück aus dem Weltall, das in die Erdatmosphäre fliegt und dabei hell aufleuchtet. Dabei entsteht ein kurzer, leuchtender Streifen am Nachthimmel.",
+  "beispielsatz": "Als wir in der Nacht in den Himmel schauten, sahen wir eine Sternschnuppe und wünschten uns etwas.",
+  "rechtschreibstrategie": "Das Wort „Sternschnuppe\" ist zusammengesetzt aus „Stern\" und „Schnuppe\". Im zweiten Teil steckt ein kurzes „u\", deshalb kommt danach ein Doppel-p: Schnu-ppe.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stern",
+    "Schnuppe"
+  ],
+  "bild_datei": "Sternschnuppe.webp",
+  "audio_datei": "Sternschnuppe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sternschnuppe",
+    "plural": "die Sternschnuppen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sternschnuppe",
+        "genitiv": "der Sternschnuppe",
+        "dativ": "der Sternschnuppe",
+        "akkusativ": "die Sternschnuppe"
+      },
+      "plural": {
+        "nominativ": "die Sternschnuppen",
+        "genitiv": "der Sternschnuppen",
+        "dativ": "den Sternschnuppen",
+        "akkusativ": "die Sternschnuppen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shooting star"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étoile filante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kayan yıldız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجم ساقط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meteor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Komet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachthimmel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sternschnupe",
+    "Sternschnnuppe",
+    "Sternschnuppe",
+    "Sternschnupppe",
+    "Sternnschnuppe"
+  ]
+}

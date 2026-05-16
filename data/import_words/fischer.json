@@ -1,0 +1,82 @@
+{
+  "lemma": "Fischer",
+  "wortart": "Nomen",
+  "silben": "Fi-scher",
+  "begriffserklaerung": "Ein Fischer ist ein Mensch, der Fische fängt – meistens mit einer Angel oder einem Netz im Fluss, im See oder im Meer.",
+  "beispielsatz": "Der Fischer sitzt früh morgens am See und wartet geduldig auf einen großen Fisch.",
+  "rechtschreibstrategie": "Denk an das Wort „Fisch\" – daraus wird „Fischer\". Sprich das Wort in Silben: Fi-scher. Das „sch\" klingt wie ein langer Zischlaut.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Fisch"
+  ],
+  "bild_datei": "Fischer.webp",
+  "audio_datei": "Fischer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fischer",
+    "plural": "die Fischer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fischer",
+        "genitiv": "des Fischers",
+        "dativ": "dem Fischer",
+        "akkusativ": "den Fischer"
+      },
+      "plural": {
+        "nominativ": "die Fischer",
+        "genitiv": "der Fischer",
+        "dativ": "den Fischern",
+        "akkusativ": "die Fischer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fisherman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pêcheur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balıkçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صياد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fischen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boot"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fisscher",
+    "Fisser",
+    "Fsicher",
+    "Fischher",
+    "Visscher"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "frösteln",
+  "wortart": "Verb",
+  "silben": "frös-teln",
+  "begriffserklaerung": "Wenn jemand fröstet, zittert er ein bisschen vor Kälte oder weil ihm nicht gut ist.",
+  "beispielsatz": "Auf dem Heimweg fröstelt Mia, weil sie ihre Jacke vergessen hat.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: frös-teln. Das ö klingt kurz, und danach kommt gleich das st – sprich alles deutlich mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Frost",
+    "fröst"
+  ],
+  "bild_datei": "frösteln.webp",
+  "audio_datei": "frösteln.mp3",
+  "grammatische_formen": {
+    "infinitiv": "frösteln",
+    "praesens": {
+      "ich": "fröstele",
+      "du": "fröstelst",
+      "er_sie_es": "fröstet",
+      "wir": "frösteln",
+      "ihr": "fröstet",
+      "sie": "frösteln"
+    },
+    "perfekt": {
+      "ich": "habe gefröstelt",
+      "du": "hast gefröstelt",
+      "er_sie_es": "hat gefröstelt",
+      "wir": "haben gefröstelt",
+      "ihr": "habt gefröstelt",
+      "sie": "haben gefröstelt"
+    },
+    "praeteritum": {
+      "ich": "fröstelte",
+      "du": "fröstetest",
+      "er_sie_es": "fröstelte",
+      "wir": "fröstetten",
+      "ihr": "fröstetet",
+      "sie": "fröstetten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to shiver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frissonner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "titremek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرتجف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frostig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zittern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "frieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schaudern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "fehlschreibungen": [
+    "frösteln",
+    "fröstteln",
+    "fröseln",
+    "fröstlen",
+    "fröstern"
+  ]
+}

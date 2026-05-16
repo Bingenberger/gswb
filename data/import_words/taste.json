@@ -1,0 +1,86 @@
+{
+  "lemma": "Taste",
+  "wortart": "Nomen",
+  "silben": "Tas-te",
+  "begriffserklaerung": "Eine Taste ist ein kleiner Knopf, den man drückt – zum Beispiel auf einer Tastatur, einem Telefon oder einem Klavier.",
+  "beispielsatz": "Leon drückt die große rote Taste, und die Musik beginnt zu spielen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Tas-te\". Du hörst ein kurzes „a\" und dann ein weiches „s\". Das „t\" am Ende kommt vom Stamm – denk an „tasten\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tast"
+  ],
+  "bild_datei": "Taste.webp",
+  "audio_datei": "Taste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "key / button"
+    },
+    {
+      "language_code": "fr",
+      "translation": "touche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tasten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klavier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knopf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Taste",
+    "plural": "die Tasten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Taste",
+        "genitiv": "der Taste",
+        "dativ": "der Taste",
+        "akkusativ": "die Taste"
+      },
+      "plural": {
+        "nominativ": "die Tasten",
+        "genitiv": "der Tasten",
+        "dativ": "den Tasten",
+        "akkusativ": "die Tasten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tase",
+    "Tasste",
+    "Tahste",
+    "Tasde",
+    "Taaste"
+  ]
+}

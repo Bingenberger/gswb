@@ -1,0 +1,89 @@
+{
+  "lemma": "Mittagessen",
+  "wortart": "Nomen",
+  "silben": "Mit-tag-es-sen",
+  "begriffserklaerung": "Das Mittagessen ist die Mahlzeit, die man mittags – also ungefähr zur Mitte des Tages – zu sich nimmt. Oft ist es die größte Mahlzeit des Tages.",
+  "beispielsatz": "In der Schule freue ich mich immer auf das leckere Mittagessen in der Mensa.",
+  "rechtschreibstrategie": "„Mittagessen\" ist ein zusammengesetztes Wort aus „Mittag\" und „Essen\". Wenn du es in seine Bausteine zerlegst, kannst du es leicht richtig schreiben: Mit-tag + Es-sen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mittag",
+    "essen"
+  ],
+  "bild_datei": "Mittagessen.webp",
+  "audio_datei": "Mittagessen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lunch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déjeuner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğle yemeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غداء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mittag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mittagsmahlzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abendessen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mittagessen",
+    "plural": "die Mittagessen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mittagessen",
+        "genitiv": "des Mittagessens",
+        "dativ": "dem Mittagessen",
+        "akkusativ": "das Mittagessen"
+      },
+      "plural": {
+        "nominativ": "die Mittagessen",
+        "genitiv": "der Mittagessen",
+        "dativ": "den Mittagessen",
+        "akkusativ": "die Mittagessen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitagessen",
+    "Mittagesssen",
+    "Mittakessen",
+    "Miettagessen",
+    "Mittag-essen",
+    "Mittagsessen"
+  ]
+}

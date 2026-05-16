@@ -1,0 +1,83 @@
+{
+  "lemma": "Waldtier",
+  "wortart": "Nomen",
+  "silben": "Wald-tier",
+  "begriffserklaerung": "Ein Waldtier ist ein Tier, das im Wald lebt, zum Beispiel ein Reh, ein Fuchs oder ein Eichhörnchen.",
+  "beispielsatz": "Im Herbst suchen viele Waldtiere Futter für den langen Winter.",
+  "rechtschreibstrategie": "„Waldtier\" ist aus zwei Wörtern zusammengesetzt: „Wald\" und „Tier\". Schreibe beide Teile einfach zusammen – ohne Leerzeichen und ohne Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wald",
+    "Tier"
+  ],
+  "bild_datei": "Waldtier.webp",
+  "audio_datei": "Waldtier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "forest animal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animal de la forêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman hayvanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان الغابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Waldtier",
+    "plural": "die Waldtiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Waldtier",
+        "genitiv": "des Waldtieres",
+        "dativ": "dem Waldtier",
+        "akkusativ": "das Waldtier"
+      },
+      "plural": {
+        "nominativ": "die Waldtiere",
+        "genitiv": "der Waldtiere",
+        "dativ": "den Waldtieren",
+        "akkusativ": "die Waldtiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waldtier",
+    "Walttier",
+    "Waldtir",
+    "Waltier",
+    "Waldtiere"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Stamm",
+  "wortart": "Nomen",
+  "silben": "Stamm",
+  "begriffserklaerung": "Der Stamm ist der dicke, feste Teil eines Baumes, der aus der Erde wächst und die Äste trägt. Das Wort „Stamm\" kann auch für eine Gruppe von Menschen stehen, die zusammengehören.",
+  "beispielsatz": "Der Stamm des alten Eichenbaums ist so dick, dass ich ihn kaum umarmen kann.",
+  "rechtschreibstrategie": "Das Wort „Stamm\" hat am Ende zwei gleiche Buchstaben: mm. Das erkennst du, wenn du es verlängerst: „Stämme\" – du hörst den kurzen Vokal, deshalb wird das m verdoppelt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stamm"
+  ],
+  "bild_datei": "Stamm.webp",
+  "audio_datei": "Stamm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trunk / tribe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tronc / tribu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gövde / kabile"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جذع / قبيلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stämmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstammen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurzel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Baumstamm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stamm",
+    "plural": "die Stämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stamm",
+        "genitiv": "des Stammes",
+        "dativ": "dem Stamm",
+        "akkusativ": "den Stamm"
+      },
+      "plural": {
+        "nominativ": "die Stämme",
+        "genitiv": "der Stämme",
+        "dativ": "den Stämmen",
+        "akkusativ": "die Stämme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stam",
+    "Stamb",
+    "Shtamm",
+    "Stahm",
+    "Stammt"
+  ]
+}

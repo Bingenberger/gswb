@@ -1,0 +1,90 @@
+{
+  "lemma": "Knoten",
+  "wortart": "Nomen",
+  "silben": "Kno-ten",
+  "begriffserklaerung": "Ein Knoten ist eine Verschlingung aus einem oder mehreren Fäden, Schnüren oder Seilen, die so zusammengebunden werden, dass sie fest zusammenhalten.",
+  "beispielsatz": "Lena bindet einen Knoten in ihre Schnürsenkel, damit die Schuhe nicht aufgehen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kno-ten\". Das „t\" in der Mitte gehört zur zweiten Silbe. Denk daran: kein Doppel-t, weil das „o\" lang gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "knot"
+  ],
+  "bild_datei": "Knoten.webp",
+  "audio_datei": "Knoten.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Knoten",
+    "plural": "die Knoten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Knoten",
+        "genitiv": "des Knotens",
+        "dativ": "dem Knoten",
+        "akkusativ": "den Knoten"
+      },
+      "plural": {
+        "nominativ": "die Knoten",
+        "genitiv": "der Knoten",
+        "dativ": "den Knoten",
+        "akkusativ": "die Knoten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "knot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nœud"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düğüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knoten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verknoten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Knotenarbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlaufe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleife"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cknoten",
+    "Knotten",
+    "Gknoten",
+    "Knooten",
+    "Knoден"
+  ]
+}

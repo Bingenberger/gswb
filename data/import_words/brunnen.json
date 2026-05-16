@@ -1,0 +1,83 @@
+{
+  "lemma": "Brunnen",
+  "wortart": "Nomen",
+  "silben": "Brun-nen",
+  "begriffserklaerung": "Ein Brunnen ist ein tiefer Schacht im Boden, aus dem man Wasser schöpfen kann.",
+  "beispielsatz": "Auf dem Marktplatz steht ein alter Brunnen, aus dem früher die Menschen ihr Wasser geholt haben.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Brun-nen. Nach dem kurzen „u\" hörst du „n\" zweimal – deshalb schreibt man „nn\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Brunn"
+  ],
+  "bild_datei": "Brunnen.webp",
+  "audio_datei": "Brunnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "well"
+    },
+    {
+      "language_code": "fr",
+      "translation": "puits"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بِئْر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brunnenwasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dorfbrunnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wasserschacht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brunnen",
+    "plural": "die Brunnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brunnen",
+        "genitiv": "des Brunnens",
+        "dativ": "dem Brunnen",
+        "akkusativ": "den Brunnen"
+      },
+      "plural": {
+        "nominativ": "die Brunnen",
+        "genitiv": "der Brunnen",
+        "dativ": "den Brunnen",
+        "akkusativ": "die Brunnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brunen",
+    "Brunenn",
+    "Brunnen",
+    "Bronnen",
+    "Brunon",
+    "Brunnnen"
+  ]
+}

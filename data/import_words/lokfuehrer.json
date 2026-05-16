@@ -1,0 +1,85 @@
+{
+  "lemma": "Lokführer",
+  "wortart": "Nomen",
+  "silben": "Lok-füh-rer",
+  "begriffserklaerung": "Ein Lokführer ist eine Person, die eine Lokomotive oder einen Zug fährt und dabei alle Fahrgäste sicher ans Ziel bringt.",
+  "beispielsatz": "Der Lokführer hupt, bevor der Zug den Bahnhof verlässt.",
+  "rechtschreibstrategie": "Das Wort „Lokführer\" besteht aus zwei Bausteinen: „Lok\" und „Führer\". Denk daran, dass „führen\" ein Dehnungs-h hat – sprich es laut: füh-ren!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "führ",
+    "Lok"
+  ],
+  "bild_datei": "Lokführer.webp",
+  "audio_datei": "Lokführer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "train driver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conducteur de train"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tren sürücüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائق القطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "führen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lokomotive"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaffner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lokführer",
+    "plural": "die Lokführer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lokführer",
+        "genitiv": "des Lokführers",
+        "dativ": "dem Lokführer",
+        "akkusativ": "den Lokführer"
+      },
+      "plural": {
+        "nominativ": "die Lokführer",
+        "genitiv": "der Lokführer",
+        "dativ": "den Lokführern",
+        "akkusativ": "die Lokführer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lockführer",
+    "Lokfürer",
+    "Lokfüh rer",
+    "Locführer",
+    "Lokführer",
+    "Lokfirer"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "geladen",
+  "wortart": "Verb",
+  "silben": "ge-la-den",
+  "begriffserklaerung": "Geladen bedeutet, dass etwas mit Strom oder Energie gefüllt wurde, oder dass jemand eingeladen wurde. Ein Akku ist geladen, wenn er voll ist.",
+  "beispielsatz": "Mein Handy ist endlich wieder geladen!",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ge-la-den. Nach dem langen „a\" kommt nur ein „d\" – nicht zwei!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "laden"
+  ],
+  "bild_datei": "geladen.webp",
+  "audio_datei": "geladen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "loaded / charged"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chargé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüklenmiş / şarj edilmiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشحون / محمّل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ladung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufladen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akku"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufgeladen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "laden",
+    "praesens": {
+      "ich": "lade",
+      "du": "lädst",
+      "er_sie_es": "lädt",
+      "wir": "laden",
+      "ihr": "ladet",
+      "sie": "laden"
+    },
+    "perfekt": {
+      "ich": "habe geladen",
+      "du": "hast geladen",
+      "er_sie_es": "hat geladen",
+      "wir": "haben geladen",
+      "ihr": "habt geladen",
+      "sie": "haben geladen"
+    },
+    "praeteritum": {
+      "ich": "lud",
+      "du": "ludst",
+      "er_sie_es": "lud",
+      "wir": "luden",
+      "ihr": "ludet",
+      "sie": "luden"
+    }
+  },
+  "fehlschreibungen": [
+    "geladen",
+    "geladden",
+    "gelaaden",
+    "gelahden",
+    "gelatden"
+  ]
+}

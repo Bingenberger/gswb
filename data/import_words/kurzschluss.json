@@ -1,0 +1,84 @@
+{
+  "lemma": "Kurzschluss",
+  "wortart": "Nomen",
+  "silben": "Kurz-schluss",
+  "begriffserklaerung": "Ein Kurzschluss passiert, wenn zwei Drähte in einer elektrischen Leitung sich berühren, die das nicht dürfen. Dabei fließt sehr viel Strom auf einmal, es kann funken, und oft geht das Licht aus oder ein Gerät geht kaputt.",
+  "beispielsatz": "In der Garage gab es einen Kurzschluss, und plötzlich war das ganze Licht aus.",
+  "rechtschreibstrategie": "„Kurzschluss\" ist aus zwei Wörtern zusammengesetzt: „kurz\" und „Schluss\". Das ss am Ende kommt vom Wort „Schluss\" – nach dem kurzen u schreiben wir ss. Denk einfach an „kurzer Schluss\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kurz",
+    "schließen"
+  ],
+  "bild_datei": "Kurzschluss.webp",
+  "audio_datei": "Kurzschluss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "short circuit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "court-circuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kısa devre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دائرة قصيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kurz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elektrizität"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sicherung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kurzschluss",
+    "plural": "die Kurzschlüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kurzschluss",
+        "genitiv": "des Kurzschlusses",
+        "dativ": "dem Kurzschluss",
+        "akkusativ": "den Kurzschluss"
+      },
+      "plural": {
+        "nominativ": "die Kurzschlüsse",
+        "genitiv": "der Kurzschlüsse",
+        "dativ": "den Kurzschlüssen",
+        "akkusativ": "die Kurzschlüsse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kurzschlus",
+    "Kurzschluß",
+    "Kurzsluss",
+    "Kurzschlusse",
+    "Kurtschluss"
+  ]
+}

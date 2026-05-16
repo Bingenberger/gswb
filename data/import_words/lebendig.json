@@ -1,0 +1,74 @@
+{
+  "lemma": "lebendig",
+  "wortart": "Adjektiv",
+  "silben": "le-ben-dig",
+  "begriffserklaerung": "Lebendig bedeutet, dass etwas oder jemand am Leben ist, sich bewegt und voller Energie ist.",
+  "beispielsatz": "Der Frosch, den wir im Teich gefunden haben, war noch lebendig.",
+  "rechtschreibstrategie": "Denk an das Wort „Leben\" – daraus kommt „lebendig\". Am Ende hörst du „dig\", das schreibst du mit d-i-g.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "leben"
+  ],
+  "bild_datei": "lebendig.webp",
+  "audio_datei": "lebendig.mp3",
+  "grammatische_formen": {
+    "positiv": "lebendig",
+    "komparativ": "lebendiger",
+    "superlativ": "am lebendigsten"
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "alive / lively"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vivant / vif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "canlı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lebensvoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "munter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lebensfähig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "quicklebendig"
+    }
+  ],
+  "fehlschreibungen": [
+    "lebändig",
+    "lebedig",
+    "lebbendig",
+    "lebentig",
+    "lebendich",
+    "lebendik"
+  ]
+}

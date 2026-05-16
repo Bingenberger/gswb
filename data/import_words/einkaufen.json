@@ -1,0 +1,95 @@
+{
+  "lemma": "einkaufen",
+  "wortart": "Verb",
+  "silben": "ein-kau-fen",
+  "begriffserklaerung": "Wenn du einkaufst, gehst du in ein Geschäft und kaufst dort Dinge, die du brauchst oder haben möchtest.",
+  "beispielsatz": "Mama geht heute im Supermarkt einkaufen und kauft Brot und Milch.",
+  "rechtschreibstrategie": "Das Wort „einkaufen\" besteht aus den Bausteinen „ein\" und „kaufen\". Schreibe einfach beide Teile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf"
+  ],
+  "bild_datei": "einkaufen.webp",
+  "audio_datei": "einkaufen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "einkaufen",
+    "praesens": {
+      "ich": "kaufe ein",
+      "du": "kaufst ein",
+      "er_sie_es": "kauft ein",
+      "wir": "kaufen ein",
+      "ihr": "kauft ein",
+      "sie": "kaufen ein"
+    },
+    "perfekt": {
+      "ich": "habe eingekauft",
+      "du": "hast eingekauft",
+      "er_sie_es": "hat eingekauft",
+      "wir": "haben eingekauft",
+      "ihr": "habt eingekauft",
+      "sie": "haben eingekauft"
+    },
+    "praeteritum": {
+      "ich": "kaufte ein",
+      "du": "kauftest ein",
+      "er_sie_es": "kaufte ein",
+      "wir": "kauften ein",
+      "ihr": "kauftet ein",
+      "sie": "kauften ein"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to go shopping / to buy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire les courses / acheter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتسوق / يشتري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "shoppen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bezahlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "fehlschreibungen": [
+    "einkauffen",
+    "einkauven",
+    "einkauben",
+    "einkaufen",
+    "einckaufen",
+    "ainkaufen"
+  ]
+}

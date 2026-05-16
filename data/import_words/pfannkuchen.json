@@ -1,0 +1,85 @@
+{
+  "lemma": "Pfannkuchen",
+  "wortart": "Nomen",
+  "silben": "Pfann-ku-chen",
+  "begriffserklaerung": "Ein Pfannkuchen ist ein flacher, runder Teigfladen, den man in der Pfanne mit etwas Fett ausbackt. Er schmeckt süß mit Marmelade oder Zucker – aber auch herzhaft!",
+  "beispielsatz": "Mama backt am Sonntag leckere Pfannkuchen mit Apfelmus.",
+  "rechtschreibstrategie": "Pfannkuchen ist ein Bausteinwort aus „Pfanne\" und „Kuchen\". Das doppelte n kommt vom kurzen a in „Pfann-\" – kurzer Vokal, doppelter Konsonant! Sprich beide Teile deutlich: PFANN + KUCHEN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Pfanne",
+    "Kuchen"
+  ],
+  "bild_datei": "Pfannkuchen.webp",
+  "audio_datei": "Pfannkuchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pancake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crêpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krep"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطيرة مقلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pfanne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Crêpe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eierkuchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pfannkuchen",
+    "plural": "die Pfannkuchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pfannkuchen",
+        "genitiv": "des Pfannkuchens",
+        "dativ": "dem Pfannkuchen",
+        "akkusativ": "den Pfannkuchen"
+      },
+      "plural": {
+        "nominativ": "die Pfannkuchen",
+        "genitiv": "der Pfannkuchen",
+        "dativ": "den Pfannkuchen",
+        "akkusativ": "die Pfannkuchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pfankuchen",
+    "Pfannkuschen",
+    "Fanenkuchen",
+    "Pfanenkuchen",
+    "Pfannkucken",
+    "Pfanncuchen"
+  ]
+}

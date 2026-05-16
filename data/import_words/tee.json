@@ -1,0 +1,81 @@
+{
+  "lemma": "Tee",
+  "wortart": "Nomen",
+  "silben": "Tee",
+  "begriffserklaerung": "Tee ist ein warmes Getränk. Man macht es, indem man getrocknete Blätter oder Kräuter in heißes Wasser legt.",
+  "beispielsatz": "Wenn mir kalt ist, trinke ich eine Tasse heißen Tee.",
+  "rechtschreibstrategie": "Das Wort „Tee\" schreibt man mit zwei e am Ende – sprich beide deutlich: „T-ee\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tee"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tee",
+    "plural": "die Tees",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tee",
+        "genitiv": "des Tees",
+        "dativ": "dem Tee",
+        "akkusativ": "den Tee"
+      },
+      "plural": {
+        "nominativ": "die Tees",
+        "genitiv": "der Tees",
+        "dativ": "den Tees",
+        "akkusativ": "die Tees"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Te",
+    "Teh",
+    "Thee",
+    "Tee"
+  ],
+  "bild_datei": "Tee.webp",
+  "audio_datei": "Tee.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tea"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teekanne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teebeutel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kakao"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaffee"
+    }
+  ]
+}

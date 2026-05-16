@@ -1,0 +1,84 @@
+{
+  "lemma": "Nadelbaum",
+  "wortart": "Nomen",
+  "silben": "Na-del-baum",
+  "begriffserklaerung": "Ein Nadelbaum ist ein Baum, der spitze, schmale Blätter hat. Diese Blätter nennt man Nadeln. Die meisten Nadelbäume sind auch im Winter grün.",
+  "beispielsatz": "Die Tanne im Garten ist ein Nadelbaum und verliert im Winter keine Nadeln.",
+  "rechtschreibstrategie": "Das Wort „Nadelbaum\" besteht aus zwei Teilen: „Nadel\" und „Baum\". Sprich beide Teile laut vor dir hin, dann kannst du das Wort leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Nadel",
+    "Baum"
+  ],
+  "bild_datei": "Nadelbaum.webp",
+  "audio_datei": "Nadelbaum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "conifer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conifère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iğne yapraklı ağaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة صنوبرية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nadel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laubbaum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nadelbaum",
+    "plural": "die Nadelbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nadelbaum",
+        "genitiv": "des Nadelbaums",
+        "dativ": "dem Nadelbaum",
+        "akkusativ": "den Nadelbaum"
+      },
+      "plural": {
+        "nominativ": "die Nadelbäume",
+        "genitiv": "der Nadelbäume",
+        "dativ": "den Nadelbäumen",
+        "akkusativ": "die Nadelbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nadlebaum",
+    "Nadelpaum",
+    "Nattelbau",
+    "Nadelbaumb",
+    "Nadelbaume",
+    "Naddelbum"
+  ]
+}

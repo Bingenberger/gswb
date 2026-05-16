@@ -1,0 +1,84 @@
+{
+  "lemma": "Rechteck",
+  "wortart": "Nomen",
+  "silben": "Recht-eck",
+  "begriffserklaerung": "Ein Rechteck ist eine ebene Figur mit vier Ecken und vier rechten Winkeln. Die gegenüberliegenden Seiten sind gleich lang.",
+  "beispielsatz": "Das Blatt Papier hat die Form eines Rechtecks.",
+  "rechtschreibstrategie": "Das Wort „Rechteck\" besteht aus zwei Teilen: „recht\" und „Eck\". Sprich beide Teile deutlich: RECHT-ECK. Das „ck\" am Ende schreibst du, weil der Vokal davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "recht",
+    "Eck"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rechteck",
+    "plural": "die Rechtecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rechteck",
+        "genitiv": "des Rechtecks",
+        "dativ": "dem Rechteck",
+        "akkusativ": "das Rechteck"
+      },
+      "plural": {
+        "nominativ": "die Rechtecke",
+        "genitiv": "der Rechtecke",
+        "dativ": "den Rechtecken",
+        "akkusativ": "die Rechtecke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Recheck",
+    "Rechtekk",
+    "Rechtek",
+    "Rächteck",
+    "Rechtäck"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rectangle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rectangle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dikdörtgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستطيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "recht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quadrat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    }
+  ],
+  "bild_datei": "Rechteck.webp",
+  "audio_datei": "Rechteck.mp3"
+}

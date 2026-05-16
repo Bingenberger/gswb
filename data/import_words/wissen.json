@@ -1,0 +1,100 @@
+{
+  "lemma": "wissen",
+  "wortart": "Verb",
+  "silben": "wis-sen",
+  "begriffserklaerung": "Etwas wissen bedeutet, dass man eine Information im Kopf hat und sie sich merken kann.",
+  "beispielsatz": "Ich weiß, dass die Erde rund ist.",
+  "rechtschreibstrategie": "Bei „wissen\" hörst du das kurze „i\" – deshalb schreibt man zwei „s\". Sprich laut: wis-sen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wiss",
+    "weis"
+  ],
+  "bild_datei": "wissen.webp",
+  "audio_datei": "wissen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to know"
+    },
+    {
+      "language_code": "fr",
+      "translation": "savoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يعرف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wissenschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wissentlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verstehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erinnern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wissen",
+    "praesens": {
+      "ich": "weiß",
+      "du": "weißt",
+      "er_sie_es": "weiß",
+      "wir": "wissen",
+      "ihr": "wisst",
+      "sie": "wissen"
+    },
+    "perfekt": {
+      "ich": "habe gewusst",
+      "du": "hast gewusst",
+      "er_sie_es": "hat gewusst",
+      "wir": "haben gewusst",
+      "ihr": "habt gewusst",
+      "sie": "haben gewusst"
+    },
+    "praeteritum": {
+      "ich": "wusste",
+      "du": "wusstest",
+      "er_sie_es": "wusste",
+      "wir": "wussten",
+      "ihr": "wusstet",
+      "sie": "wussten"
+    }
+  },
+  "fehlschreibungen": [
+    "wisen",
+    "wißen",
+    "wissen",
+    "weisen",
+    "wisssen",
+    "wissn"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Profil",
+  "wortart": "Nomen",
+  "silben": "Pro-fil",
+  "begriffserklaerung": "Ein Profil ist die Ansicht eines Gesichts oder eines Gegenstands von der Seite. Es kann auch eine Beschreibung von jemandem sein, zum Beispiel im Internet.",
+  "beispielsatz": "Der Künstler zeichnete das Profil des Mädchens ganz genau.",
+  "rechtschreibstrategie": "Das Wort „Profil\" schreibt man mit V am Anfang? Nein – hier klingt das „P\" wie ein normales P! Denk daran: Pro-fil – beide Silben deutlich sprechen hilft dir beim Schreiben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Profil"
+  ],
+  "bild_datei": "Profil.webp",
+  "audio_datei": "Profil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "profile"
+    },
+    {
+      "language_code": "fr",
+      "translation": "profil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "profil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملف شخصي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "profilieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Porträt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Silhouette"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Seitenansicht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Profil",
+    "plural": "die Profile",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Profil",
+        "genitiv": "des Profils",
+        "dativ": "dem Profil",
+        "akkusativ": "das Profil"
+      },
+      "plural": {
+        "nominativ": "die Profile",
+        "genitiv": "der Profile",
+        "dativ": "den Profilen",
+        "akkusativ": "die Profile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Profill",
+    "Profiel",
+    "Proffil",
+    "Profihl",
+    "Proefil"
+  ]
+}

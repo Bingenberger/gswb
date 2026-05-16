@@ -1,0 +1,85 @@
+{
+  "lemma": "Fundstück",
+  "wortart": "Nomen",
+  "silben": "Fund-stück",
+  "begriffserklaerung": "Ein Fundstück ist ein Gegenstand, den jemand gefunden hat und der einem anderen Menschen gehört.",
+  "beispielsatz": "Leon brachte das Fundstück sofort zum Fundbüro.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Fund\" und „Stück\". Das „ü\" in „Stück\" hörst du kurz, daher steht danach „ck\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fund",
+    "stück"
+  ],
+  "bild_datei": "Fundstück.webp",
+  "audio_datei": "Fundstück.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fundstück",
+    "plural": "die Fundstücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fundstück",
+        "genitiv": "des Fundstücks",
+        "dativ": "dem Fundstück",
+        "akkusativ": "das Fundstück"
+      },
+      "plural": {
+        "nominativ": "die Fundstücke",
+        "genitiv": "der Fundstücke",
+        "dativ": "den Fundstücken",
+        "akkusativ": "die Fundstücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "found object / lost item"
+    },
+    {
+      "language_code": "fr",
+      "translation": "objet trouvé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kayıp eşya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شيء مفقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "finden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fundbüro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verloren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fundsache"
+    }
+  ],
+  "fehlschreibungen": [
+    "Funtstück",
+    "Fundshtück",
+    "Fundstuk",
+    "Fundstüc",
+    "Funtstüc",
+    "Funtsstück"
+  ]
+}

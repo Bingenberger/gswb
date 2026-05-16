@@ -1,0 +1,80 @@
+{
+  "lemma": "Heidelbeere",
+  "wortart": "Nomen",
+  "silben": "Hei-del-bee-re",
+  "begriffserklaerung": "Die Heidelbeere ist eine kleine, runde, blau-violette Frucht, die wild im Wald wächst und sehr lecker schmeckt.",
+  "beispielsatz": "Wir haben im Wald viele Heidelbeeren gepflückt und daraus einen Kuchen gebacken.",
+  "rechtschreibstrategie": "Das Wort „Heidelbeere\" besteht aus zwei Teilen: „Heidel\" und „Beere\". Sprich beide Teile deutlich: Hei-del-bee-re. Beachte das Doppel-e in „Beere\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere"
+  ],
+  "bild_datei": "Heidelbeere.webp",
+  "audio_datei": "Heidelbeere.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blueberry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "myrtille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban mersini"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توت أزرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brombeere"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Heidelbeere",
+    "plural": "die Heidelbeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Heidelbeere",
+        "genitiv": "der Heidelbeere",
+        "dativ": "der Heidelbeere",
+        "akkusativ": "die Heidelbeere"
+      },
+      "plural": {
+        "nominativ": "die Heidelbeeren",
+        "genitiv": "der Heidelbeeren",
+        "dativ": "den Heidelbeeren",
+        "akkusativ": "die Heidelbeeren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Heiddelbeere",
+    "Heidelbere",
+    "Heidlbeere",
+    "Heidelbeehre",
+    "Heitelbeere",
+    "Heidelberre"
+  ]
+}

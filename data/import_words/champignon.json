@@ -1,0 +1,74 @@
+{
+  "lemma": "Champignon",
+  "wortart": "Nomen",
+  "silben": "Cham-pig-non",
+  "begriffserklaerung": "Ein Champignon ist ein runder, weißer oder hellbrauner Pilz, den man essen kann. Er wächst auf Wiesen und wird auch in der Küche sehr gerne verwendet.",
+  "beispielsatz": "Mama schneidet den Champignon in Scheiben und brät ihn in der Pfanne.",
+  "rechtschreibstrategie": "Das Wort „Champignon\" kommt aus dem Französischen. Es klingt ganz anders als es aussieht: Man spricht es „Schampinjong\" aus. Merke dir: ch klingt wie „sch\", gn klingt wie „nj\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Champignon.webp",
+  "audio_datei": "Champignon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mushroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "champignon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mantar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pilz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steinpilz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Champignon",
+    "plural": "die Champignons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Champignon",
+        "genitiv": "des Champignons",
+        "dativ": "dem Champignon",
+        "akkusativ": "den Champignon"
+      },
+      "plural": {
+        "nominativ": "die Champignons",
+        "genitiv": "der Champignons",
+        "dativ": "den Champignons",
+        "akkusativ": "die Champignons"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schampignon",
+    "Champinjon",
+    "Champinion",
+    "Schampinjon",
+    "Champignon",
+    "Champigno",
+    "Champinon"
+  ]
+}

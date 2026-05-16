@@ -1,0 +1,89 @@
+{
+  "lemma": "Fluss",
+  "wortart": "Nomen",
+  "silben": "Fluss",
+  "begriffserklaerung": "Ein Fluss ist ein großes, fließendes Gewässer, das durch die Landschaft strömt und meistens ins Meer oder in einen See mündet.",
+  "beispielsatz": "Die Kinder spielen am Ufer des Flusses und beobachten die Enten.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt ein Doppel-s. Am Ende des Wortes hörst du „ss\", aber vor einem Vokal (z. B. Flüsse) siehst du es ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "fließ",
+    "fluss"
+  ],
+  "bild_datei": "Fluss.webp",
+  "audio_datei": "Fluss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fluss",
+    "plural": "die Flüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fluss",
+        "genitiv": "des Flusses",
+        "dativ": "dem Fluss",
+        "akkusativ": "den Fluss"
+      },
+      "plural": {
+        "nominativ": "die Flüsse",
+        "genitiv": "der Flüsse",
+        "dativ": "den Flüssen",
+        "akkusativ": "die Flüsse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "river"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fleuve / rivière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nehir / ırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flüssigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ufer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flus",
+    "Fluß",
+    "fluss",
+    "Flußs",
+    "Flüss"
+  ]
+}

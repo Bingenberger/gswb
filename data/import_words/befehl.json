@@ -1,0 +1,87 @@
+{
+  "lemma": "Befehl",
+  "wortart": "Nomen",
+  "silben": "Be-fehl",
+  "begriffserklaerung": "Ein Befehl ist eine Aufforderung, die jemand einer anderen Person gibt und die befolgt werden soll.",
+  "beispielsatz": "Die Lehrerin gab den Kindern den Befehl, leise zu sein.",
+  "rechtschreibstrategie": "Am Ende hörst du ein langes „e\" – das schreibst du als „ehl\". Denke daran: Be-fehl – das h ist still, aber es muss trotzdem stehen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fehl",
+    "befehlen"
+  ],
+  "bild_datei": "Befehl.webp",
+  "audio_datei": "Befehl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "command"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "emir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "befehlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Befehlshaber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anweisung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auftrag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anordnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Befehl",
+    "plural": "die Befehle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Befehl",
+        "genitiv": "des Befehls",
+        "dativ": "dem Befehl",
+        "akkusativ": "den Befehl"
+      },
+      "plural": {
+        "nominativ": "die Befehle",
+        "genitiv": "der Befehle",
+        "dativ": "den Befehlen",
+        "akkusativ": "die Befehle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Befel",
+    "Befeel",
+    "Befeeld",
+    "Befehll",
+    "Befähl"
+  ]
+}

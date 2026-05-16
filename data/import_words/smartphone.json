@@ -1,0 +1,74 @@
+{
+  "lemma": "Smartphone",
+  "wortart": "Nomen",
+  "silben": "Smart-phone",
+  "begriffserklaerung": "Ein Smartphone ist ein kleines, schlaues Telefon, das man überall mitnehmen kann. Man kann damit telefonieren, Fotos machen, Musik hören und im Internet surfen.",
+  "beispielsatz": "Meine Mutter zeigt mir auf ihrem Smartphone lustige Tiervideos.",
+  "rechtschreibstrategie": "„Smartphone\" kommt aus dem Englischen und wird genauso geschrieben, wie man es im Englischen kennt – merke dir: Smart-phone, zwei Wortteile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Smartphone.webp",
+  "audio_datei": "Smartphone.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smartphone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "smartphone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akıllı telefon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هاتف ذكي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handy"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Smartphone",
+    "plural": "die Smartphones",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Smartphone",
+        "genitiv": "des Smartphones",
+        "dativ": "dem Smartphone",
+        "akkusativ": "das Smartphone"
+      },
+      "plural": {
+        "nominativ": "die Smartphones",
+        "genitiv": "der Smartphones",
+        "dativ": "den Smartphones",
+        "akkusativ": "die Smartphones"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Smartphon",
+    "Smartfon",
+    "Smatphone",
+    "Smartphone",
+    "Schmartphone",
+    "Smartpone"
+  ]
+}

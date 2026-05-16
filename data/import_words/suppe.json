@@ -1,0 +1,82 @@
+{
+  "lemma": "Suppe",
+  "wortart": "Nomen",
+  "silben": "Sup-pe",
+  "begriffserklaerung": "Eine Suppe ist ein warmes, flüssiges Gericht, das man oft mit einem Löffel isst. Sie kann aus Gemüse, Fleisch oder Nudeln gekocht sein.",
+  "beispielsatz": "Wenn ich krank bin, kocht mir meine Oma eine heiße Suppe.",
+  "rechtschreibstrategie": "Das Wort „Suppe\" hat ein doppeltes p. Sprich es laut: Sup-pe. Nach dem kurzen „u\" kommt immer „pp\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Suppe"
+  ],
+  "bild_datei": "Suppe.webp",
+  "audio_datei": "Suppe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "soup"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çorba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suppenküche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suppenlöffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eintopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brühe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brühe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Suppe",
+    "plural": "die Suppen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Suppe",
+        "genitiv": "der Suppe",
+        "dativ": "der Suppe",
+        "akkusativ": "die Suppe"
+      },
+      "plural": {
+        "nominativ": "die Suppen",
+        "genitiv": "der Suppen",
+        "dativ": "den Suppen",
+        "akkusativ": "die Suppen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Supe",
+    "Zuppe",
+    "Suupe",
+    "Supp",
+    "Supen"
+  ]
+}

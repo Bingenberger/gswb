@@ -1,0 +1,53 @@
+{
+  "lemma": "Gesundheit",
+  "wortart": "Nomen",
+  "silben": "Ge-sund-heit",
+  "beispielsatz": "Viel Bewegung und gutes Essen sind wichtig für deine Gesundheit.",
+  "begriffserklaerung": "Gesundheit bedeutet, dass Körper und Seele in Ordnung sind und man sich wohlfühlt – also nicht krank ist.",
+  "rechtschreibstrategie": "Im Wort steckt 'gesund'. Verlängere: 'gesunde' – da hörst du das 'd'. Deshalb schreibt man 'gesund' mit 'd', nicht mit 't'. Dahinter hängt die Nachsilbe '-heit'.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gesund"
+  ],
+  "bild_datei": "Gesundheit.webp",
+  "audio_datei": "Gesundheit.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "health" },
+    { "language_code": "fr", "translation": "santé" },
+    { "language_code": "tr", "translation": "sağlık" },
+    { "language_code": "ar", "translation": "صحة" }
+  ],
+  "beziehungen": [
+    { "relation_type": "word_family", "target_lemma": "gesund" },
+    { "relation_type": "word_family", "target_lemma": "Krankheit" },
+    { "relation_type": "word_field",  "target_lemma": "Arzt" },
+    { "relation_type": "word_field",  "target_lemma": "Sport" }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Gesundheit",
+    "plural": "Gesundheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gesundheit",
+        "genitiv": "der Gesundheit",
+        "dativ": "der Gesundheit",
+        "akkusativ": "die Gesundheit"
+      },
+      "plural": {
+        "nominativ": "die Gesundheiten",
+        "genitiv": "der Gesundheiten",
+        "dativ": "den Gesundheiten",
+        "akkusativ": "die Gesundheiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gesuntheit",
+    "Gesunheit",
+    "Gezundheit"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "Eiweiß",
+  "wortart": "Nomen",
+  "silben": "Ei-weiß",
+  "begriffserklaerung": "Eiweiß ist ein wichtiger Stoff, den unser Körper braucht, um zu wachsen und stark zu werden. Es steckt zum Beispiel in Eiern, Fleisch, Fisch, Milch und Hülsenfrüchten.",
+  "beispielsatz": "Zum Frühstück isst Lena ein gekochtes Ei, weil das Eiweiß sie stark macht.",
+  "rechtschreibstrategie": "Das Wort „Eiweiß\" hat am Ende ein ß, weil das „ei\" davor lang gesprochen wird. Nach einem langen Vokal oder Diphthong schreibt man ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "weiß",
+    "Ei"
+  ],
+  "bild_datei": "Eiweiß.webp",
+  "audio_datei": "Eiweiß.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eiweiß",
+    "plural": "die Eiweiße",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eiweiß",
+        "genitiv": "des Eiweißes",
+        "dativ": "dem Eiweiß",
+        "akkusativ": "das Eiweiß"
+      },
+      "plural": {
+        "nominativ": "die Eiweiße",
+        "genitiv": "der Eiweiße",
+        "dativ": "den Eiweißen",
+        "akkusativ": "die Eiweiße"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "protein"
+    },
+    {
+      "language_code": "fr",
+      "translation": "protéine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "protein"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بروتين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weiß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nährstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Muskel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eiweiss",
+    "Eiweis",
+    "Aiweiß",
+    "Eiweißt",
+    "Eiweiß"
+  ]
+}

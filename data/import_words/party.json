@@ -1,0 +1,72 @@
+{
+  "lemma": "Party",
+  "wortart": "Nomen",
+  "silben": "Par-ty",
+  "begriffserklaerung": "Eine Party ist ein fröhliches Fest, zu dem man Freunde einlädt, um gemeinsam zu feiern, zu spielen und Spaß zu haben.",
+  "beispielsatz": "Zum Geburtstag von Lena kommen alle Freunde zur Party.",
+  "rechtschreibstrategie": "„Party\" kommt aus dem Englischen. Das „P\" am Anfang ist groß, weil es ein Nomen ist. Denk daran: am Ende steht ein „y\" – nicht „ie\" oder „i\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Party.webp",
+  "audio_datei": "Party.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "party"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fête"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parti / eğlence"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حفلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Party",
+    "plural": "die Partys",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Party",
+        "genitiv": "der Party",
+        "dativ": "der Party",
+        "akkusativ": "die Party"
+      },
+      "plural": {
+        "nominativ": "die Partys",
+        "genitiv": "der Partys",
+        "dativ": "den Partys",
+        "akkusativ": "die Partys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Parti",
+    "Partie",
+    "Pardy",
+    "Pary",
+    "Parthy"
+  ]
+}

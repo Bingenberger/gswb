@@ -1,0 +1,85 @@
+{
+  "lemma": "Lamm",
+  "wortart": "Nomen",
+  "silben": "Lamm",
+  "begriffserklaerung": "Ein Lamm ist ein junges Schaf. Lämmer sind noch klein und brauchen ihre Mutter.",
+  "beispielsatz": "Das kleine Lamm hüpft fröhlich über die Wiese.",
+  "rechtschreibstrategie": "Das Wort „Lamm\" hat am Ende zwei m – denn nach dem kurzen „a\" verdoppelst du den Konsonanten: La-mm.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Lamm",
+    "plural": "Lämmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lamm",
+        "genitiv": "des Lammes",
+        "dativ": "dem Lamm",
+        "akkusativ": "das Lamm"
+      },
+      "plural": {
+        "nominativ": "die Lämmer",
+        "genitiv": "der Lämmer",
+        "dativ": "den Lämmern",
+        "akkusativ": "die Lämmer"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Lamm"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lämmer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lammfleisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lammwolle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schäfchen"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lamb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agneau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حَمَل"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lam",
+    "Lahm",
+    "Laam",
+    "Lamn"
+  ],
+  "bild_datei": "Lamm.webp",
+  "audio_datei": "Lamm.mp3"
+}

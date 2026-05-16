@@ -1,0 +1,84 @@
+{
+  "lemma": "Sportschuh",
+  "wortart": "Nomen",
+  "silben": "Sport-schuh",
+  "begriffserklaerung": "Ein Sportschuh ist ein besonderer Schuh, den man beim Sport trägt. Er schützt die Füße und gibt ihnen guten Halt beim Laufen, Springen oder Spielen.",
+  "beispielsatz": "Tim zieht seinen Sportschuh an, bevor er auf den Fußballplatz geht.",
+  "rechtschreibstrategie": "„Sportschuh\" ist ein zusammengesetztes Wort aus „Sport\" und „Schuh\". Schreibe einfach beide Wörter hintereinander: Sport + Schuh = Sportschuh.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schuh",
+    "Sport"
+  ],
+  "bild_datei": "Sportschuh.webp",
+  "audio_datei": "Sportschuh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sports shoe / sneaker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussure de sport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor ayakkabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء رياضي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußballschuh"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Turnschuh"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sportschuh",
+    "plural": "die Sportschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sportschuh",
+        "genitiv": "des Sportschuhs",
+        "dativ": "dem Sportschuh",
+        "akkusativ": "den Sportschuh"
+      },
+      "plural": {
+        "nominativ": "die Sportschuhe",
+        "genitiv": "der Sportschuhe",
+        "dativ": "den Sportschuhen",
+        "akkusativ": "die Sportschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sportschuch",
+    "Spordschuh",
+    "Sportshuh",
+    "Sportschuhe",
+    "Sporttschuh",
+    "Sporthsuh"
+  ]
+}

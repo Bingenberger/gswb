@@ -1,0 +1,81 @@
+{
+  "lemma": "Waage",
+  "wortart": "Nomen",
+  "silben": "Waa-ge",
+  "begriffserklaerung": "Eine Waage ist ein Gerät, mit dem man das Gewicht von Dingen oder Menschen messen kann.",
+  "beispielsatz": "Die Mutter legt das Obst auf die Waage, um zu wissen, wie schwer es ist.",
+  "rechtschreibstrategie": "In „Waage\" stecken zwei „a\" hintereinander – sprich das lange „a\" ganz deutlich und denke an die zwei „a\" wie zwei Waagschalen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "waag"
+  ],
+  "bild_datei": "Waage.webp",
+  "audio_datei": "Waage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scale / balance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "terazi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميزان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waagerecht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abwägen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Messer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Waage",
+    "plural": "die Waagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Waage",
+        "genitiv": "der Waage",
+        "dativ": "der Waage",
+        "akkusativ": "die Waage"
+      },
+      "plural": {
+        "nominativ": "die Waagen",
+        "genitiv": "der Waagen",
+        "dativ": "den Waagen",
+        "akkusativ": "die Waagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wage",
+    "Waege",
+    "Vahge",
+    "Waige"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Land",
+  "wortart": "Nomen",
+  "silben": "Land",
+  "begriffserklaerung": "Ein Land ist ein großes Gebiet mit eigenen Grenzen, einer eigenen Regierung und oft einer eigenen Sprache. Deutschland, Frankreich und die Türkei sind zum Beispiel Länder.",
+  "beispielsatz": "Wir fahren im Sommer in ein anderes Land.",
+  "rechtschreibstrategie": "Wenn du „Land\" verlängerst, sagst du „Länder\" – da hörst du das d am Ende deutlich. Deshalb schreibt man Land mit d.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "land"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Land",
+    "plural": "Länder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Land",
+        "genitiv": "des Landes",
+        "dativ": "dem Land",
+        "akkusativ": "das Land"
+      },
+      "plural": {
+        "nominativ": "die Länder",
+        "genitiv": "der Länder",
+        "dativ": "den Ländern",
+        "akkusativ": "die Länder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lant",
+    "Landt",
+    "Lend"
+  ],
+  "bild_datei": "Land.webp",
+  "audio_datei": "Land.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "country / land"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pays"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ülke"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Landschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "landen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kontinent"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Staat"
+    }
+  ]
+}

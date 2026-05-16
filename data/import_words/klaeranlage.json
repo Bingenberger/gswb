@@ -1,0 +1,85 @@
+{
+  "lemma": "Kläranlage",
+  "wortart": "Nomen",
+  "silben": "Klär-an-la-ge",
+  "begriffserklaerung": "Eine Kläranlage ist eine große Einrichtung, in der schmutziges Wasser gereinigt wird, bevor es wieder in einen Fluss oder Bach fließt.",
+  "beispielsatz": "Das schmutzige Abwasser aus unseren Häusern wird in der Kläranlage sauber gemacht.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „kläre\" (das Wasser wird klar gemacht) und „Anlage\" (eine große Einrichtung). Schreib beide Teile zusammen: Klär-anlage. Das ä kannst du durch Verlängern herleiten: klar → klären → Kläranlage.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "klar",
+    "legen"
+  ],
+  "bild_datei": "Kläranlage.webp",
+  "audio_datei": "Kläranlage.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kläranlage",
+    "plural": "die Kläranlagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kläranlage",
+        "genitiv": "der Kläranlage",
+        "dativ": "der Kläranlage",
+        "akkusativ": "die Kläranlage"
+      },
+      "plural": {
+        "nominativ": "die Kläranlagen",
+        "genitiv": "der Kläranlagen",
+        "dativ": "den Kläranlagen",
+        "akkusativ": "die Kläranlagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sewage treatment plant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "station d'épuration"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arıtma tesisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة معالجة مياه الصرف الصحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abwasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umweltschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserkreislauf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klehranlage",
+    "Kleranlage",
+    "Kläranlahge",
+    "Klaranlage",
+    "Kläranlagge",
+    "Klärannlage"
+  ]
+}

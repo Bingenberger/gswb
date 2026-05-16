@@ -1,0 +1,87 @@
+{
+  "lemma": "Postkarte",
+  "wortart": "Nomen",
+  "silben": "Post-kar-te",
+  "begriffserklaerung": "Eine Postkarte ist eine kleine, feste Karte aus Papier. Auf der Vorderseite ist oft ein schönes Bild. Auf der Rückseite kann man einen kurzen Gruß schreiben und die Karte dann verschicken.",
+  "beispielsatz": "Im Urlaub schreibe ich meiner Oma eine Postkarte mit einem Bild vom Meer.",
+  "rechtschreibstrategie": "Das Wort „Postkarte\" ist aus zwei Wörtern zusammengesetzt: „Post\" und „Karte\". Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Post",
+    "Karte"
+  ],
+  "bild_datei": "Postkarte.webp",
+  "audio_datei": "Postkarte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Postkarte",
+    "plural": "die Postkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Postkarte",
+        "genitiv": "der Postkarte",
+        "dativ": "der Postkarte",
+        "akkusativ": "die Postkarte"
+      },
+      "plural": {
+        "nominativ": "die Postkarten",
+        "genitiv": "der Postkarten",
+        "dativ": "den Postkarten",
+        "akkusativ": "die Postkarten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "postcard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carte postale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kartpostal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاقة بريدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefmarke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grußkarte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Postkarde",
+    "Postkart",
+    "Postkate",
+    "Postkarre",
+    "Brostkarte"
+  ]
+}

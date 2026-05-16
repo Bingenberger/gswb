@@ -1,0 +1,87 @@
+{
+  "lemma": "Pflege",
+  "wortart": "Nomen",
+  "silben": "Pfle-ge",
+  "begriffserklaerung": "Pflege bedeutet, dass man sich um jemanden oder etwas kümmert und dafür sorgt, dass es ihm gut geht.",
+  "beispielsatz": "Die Pflege der kranken Oma ist wichtig, damit sie sich bald besser fühlt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Pfle-ge. Denke an das „Pf\" am Anfang – beide Buchstaben gehören zusammen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "pfleg"
+  ],
+  "bild_datei": "Pflege.webp",
+  "audio_datei": "Pflege.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pflege",
+    "plural": "die Pflegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pflege",
+        "genitiv": "der Pflege",
+        "dativ": "der Pflege",
+        "akkusativ": "die Pflege"
+      },
+      "plural": {
+        "nominativ": "die Pflegen",
+        "genitiv": "der Pflegen",
+        "dativ": "den Pflegen",
+        "akkusativ": "die Pflegen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "care"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رعاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflegerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fürsorge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fürsorge"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flege",
+    "Phflege",
+    "Pflege",
+    "Pfläge",
+    "Phlege",
+    "Pflegge"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Datum",
+  "wortart": "Nomen",
+  "silben": "Da-tum",
+  "begriffserklaerung": "Ein Datum sagt uns, an welchem Tag, in welchem Monat und in welchem Jahr etwas passiert ist oder passieren wird.",
+  "beispielsatz": "Heute ist ein besonderes Datum, denn ich habe Geburtstag!",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Da-tum. Denk daran: Am Ende steht „um\", nicht „om\" oder „am\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Datum",
+    "Dat"
+  ],
+  "bild_datei": "Datum.webp",
+  "audio_datei": "Datum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "date"
+    },
+    {
+      "language_code": "fr",
+      "translation": "date"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarih"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تاريخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "datieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Datei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhrzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Datum",
+    "plural": "die Daten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Datum",
+        "genitiv": "des Datums",
+        "dativ": "dem Datum",
+        "akkusativ": "das Datum"
+      },
+      "plural": {
+        "nominativ": "die Daten",
+        "genitiv": "der Daten",
+        "dativ": "den Daten",
+        "akkusativ": "die Daten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dahttum",
+    "Datom",
+    "Dahtum",
+    "Datuum",
+    "Datam"
+  ]
+}

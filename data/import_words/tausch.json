@@ -1,0 +1,83 @@
+{
+  "lemma": "Tausch",
+  "wortart": "Nomen",
+  "silben": "Tausch",
+  "begriffserklaerung": "Ein Tausch ist, wenn zwei Personen etwas miteinander tauschen – jeder gibt etwas her und bekommt dafür etwas anderes zurück.",
+  "beispielsatz": "Lena macht mit Tom einen Tausch: Sie gibt ihm ihren Apfel und bekommt dafür seinen Keks.",
+  "rechtschreibstrategie": "Das Wort „Tausch\" hat den Doppellaut „au\" – sprich ihn deutlich. Das „sch\" am Ende klingt wie ein einziger Laut. Merke: „au\" wie in „Haus\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tausch"
+  ],
+  "bild_datei": "Tausch.webp",
+  "audio_datei": "Tausch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exchange / swap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "échange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "takas / değiş tokuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تبادل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tauschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tauschhandel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Austausch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tausch",
+    "plural": "die Tausche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tausch",
+        "genitiv": "des Tausches",
+        "dativ": "dem Tausch",
+        "akkusativ": "den Tausch"
+      },
+      "plural": {
+        "nominativ": "die Tausche",
+        "genitiv": "der Tausche",
+        "dativ": "den Tauschen",
+        "akkusativ": "die Tausche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dausch",
+    "Tauusch",
+    "Tauche",
+    "Tausch",
+    "Tauß",
+    "Tousch"
+  ]
+}

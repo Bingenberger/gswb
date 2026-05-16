@@ -1,0 +1,85 @@
+{
+  "lemma": "Herzschlag",
+  "wortart": "Nomen",
+  "silben": "Herz-schlag",
+  "begriffserklaerung": "Der Herzschlag ist das Klopfen deines Herzens in deiner Brust. Jedes Mal, wenn dein Herz schlägt, pumpt es Blut durch deinen Körper.",
+  "beispielsatz": "Nach dem Rennen konnte Lisa ihren schnellen Herzschlag deutlich spüren.",
+  "rechtschreibstrategie": "„Herzschlag\" ist aus zwei Wörtern zusammengebaut: „Herz\" und „Schlag\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Herz",
+    "schlag"
+  ],
+  "bild_datei": "Herzschlag.webp",
+  "audio_datei": "Herzschlag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "heartbeat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "battement de cœur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalp atışı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبضة قلب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Puls"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blutdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herzschlagen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Herzschlag",
+    "plural": "die Herzschläge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Herzschlag",
+        "genitiv": "des Herzschlags",
+        "dativ": "dem Herzschlag",
+        "akkusativ": "den Herzschlag"
+      },
+      "plural": {
+        "nominativ": "die Herzschläge",
+        "genitiv": "der Herzschläge",
+        "dativ": "den Herzschlägen",
+        "akkusativ": "die Herzschläge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Herzslag",
+    "Herzsclag",
+    "Hertzschlag",
+    "Herzschlag",
+    "Herzsschlag",
+    "Herzschak"
+  ]
+}

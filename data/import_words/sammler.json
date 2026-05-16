@@ -1,0 +1,87 @@
+{
+  "lemma": "Sammler",
+  "wortart": "Nomen",
+  "silben": "Samm-ler",
+  "begriffserklaerung": "Ein Sammler ist jemand, der viele Dinge der gleichen Art aufhebt und zusammenträgt, zum Beispiel Briefmarken, Münzen oder Steine.",
+  "beispielsatz": "Mein Onkel ist ein begeisterter Sammler von alten Münzen.",
+  "rechtschreibstrategie": "Das Wort „Sammler\" hat ein doppeltes m – du hörst, dass das a kurz gesprochen wird, deshalb folgen zwei m: samm-ler.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sammeln"
+  ],
+  "bild_datei": "Sammler.webp",
+  "audio_datei": "Sammler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sammler",
+    "plural": "die Sammler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sammler",
+        "genitiv": "des Sammlers",
+        "dativ": "dem Sammler",
+        "akkusativ": "den Sammler"
+      },
+      "plural": {
+        "nominativ": "die Sammler",
+        "genitiv": "der Sammler",
+        "dativ": "den Sammlern",
+        "akkusativ": "die Sammler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "collector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collectionneur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koleksiyoncu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جامع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sammeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sammlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sammlerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefmarke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hobby"
+    }
+  ],
+  "fehlschreibungen": [
+    "Samler",
+    "Samlер",
+    "Sammbler",
+    "Ssammler",
+    "Sammder"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Käse",
+  "wortart": "Nomen",
+  "silben": "Kä-se",
+  "begriffserklaerung": "Käse ist ein Lebensmittel, das aus Milch hergestellt wird. Er kann weich oder hart sein und schmeckt oft würzig oder mild.",
+  "beispielsatz": "Ich lege eine Scheibe Käse auf mein Brot.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Kä-se. Das „ä\" klingt wie ein gedehntes „e\" – denk an die Kuh, die „Mäh\" macht. Das „s\" in der Mitte schreibst du einfach mit einem „s\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Käse"
+  ],
+  "bild_datei": "Käse.webp",
+  "audio_datei": "Käse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cheese"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fromage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "peynir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جبن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käserei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "käsig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joghurt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Käse",
+    "plural": "die Käse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Käse",
+        "genitiv": "des Käses",
+        "dativ": "dem Käse",
+        "akkusativ": "den Käse"
+      },
+      "plural": {
+        "nominativ": "die Käse",
+        "genitiv": "der Käse",
+        "dativ": "den Käsen",
+        "akkusativ": "die Käse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Käße",
+    "Kähse",
+    "Kese",
+    "Käze",
+    "Kaese"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Maske",
+  "wortart": "Nomen",
+  "silben": "Mas-ke",
+  "begriffserklaerung": "Eine Maske ist eine Hülle, die man sich vor das Gesicht hält oder zieht, um sein Gesicht zu verstecken oder zu verkleiden.",
+  "beispielsatz": "Zu Karneval trägt Leon eine bunte Maske.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Mas-ke. Du hörst zwei Silben. Das s klingt klar, und am Ende steht ein -ke.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mask-"
+  ],
+  "bild_datei": "Maske.webp",
+  "audio_datei": "Maske.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Maske",
+    "plural": "die Masken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Maske",
+        "genitiv": "der Maske",
+        "dativ": "der Maske",
+        "akkusativ": "die Maske"
+      },
+      "plural": {
+        "nominativ": "die Masken",
+        "genitiv": "der Masken",
+        "dativ": "den Masken",
+        "akkusativ": "die Masken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mask"
+    },
+    {
+      "language_code": "fr",
+      "translation": "masque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maske"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قناع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "maskieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maskierung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maskerade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kostüm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkleidung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karneval"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verkleidung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Maske",
+    "Maaske",
+    "Masske",
+    "Maßke"
+  ]
+}

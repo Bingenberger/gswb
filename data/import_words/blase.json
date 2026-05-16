@@ -1,0 +1,82 @@
+{
+  "lemma": "Blase",
+  "wortart": "Nomen",
+  "silben": "Bla-se",
+  "begriffserklaerung": "Eine Blase ist eine runde, hohle Kugel aus Luft oder Wasser, die von einer dünnen Haut umschlossen ist. Sie kann auch eine kleine Beule auf der Haut sein, die mit Flüssigkeit gefüllt ist.",
+  "beispielsatz": "Das Kind pustet eine große Seifenblase in die Luft.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Bla-se\". Der erste Teil klingt lang, darum schreibst du nur ein „s\" und kein „ss\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "blas"
+  ],
+  "bild_datei": "Blase.webp",
+  "audio_datei": "Blase.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blase",
+    "plural": "die Blasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blase",
+        "genitiv": "der Blase",
+        "dativ": "der Blase",
+        "akkusativ": "die Blase"
+      },
+      "plural": {
+        "nominativ": "die Blasen",
+        "genitiv": "der Blasen",
+        "dativ": "den Blasen",
+        "akkusativ": "die Blasen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bubble / blister"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bulle / ampoule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kabarcık / su kabarcığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فقاعة / بثرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blasen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seifenblase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beule"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blasse",
+    "Blaze",
+    "Blaße",
+    "Blahse",
+    "Blasße"
+  ]
+}

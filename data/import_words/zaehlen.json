@@ -1,0 +1,93 @@
+{
+  "lemma": "zählen",
+  "wortart": "Verb",
+  "silben": "zäh-len",
+  "begriffserklaerung": "Zählen bedeutet, Dinge oder Zahlen der Reihe nach aufzusagen, um herauszufinden, wie viele es sind.",
+  "beispielsatz": "Emma zählt die Äpfel im Korb und kommt auf sieben.",
+  "rechtschreibstrategie": "Denk an das Wort „Zahl\" – von dort kommt „zählen\". Das ä schreibst du, weil es mit dem a in „Zahl\" verwandt ist.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "zähl",
+    "Zahl"
+  ],
+  "bild_datei": "zählen.webp",
+  "audio_datei": "zählen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to count"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saymak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَعُدّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erzählung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufzählen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "zählen",
+    "praesens": {
+      "ich": "zähle",
+      "du": "zählst",
+      "er_sie_es": "zählt",
+      "wir": "zählen",
+      "ihr": "zählt",
+      "sie": "zählen"
+    },
+    "perfekt": {
+      "ich": "habe gezählt",
+      "du": "hast gezählt",
+      "er_sie_es": "hat gezählt",
+      "wir": "haben gezählt",
+      "ihr": "habt gezählt",
+      "sie": "haben gezählt"
+    },
+    "praeteritum": {
+      "ich": "zählte",
+      "du": "zähltest",
+      "er_sie_es": "zählte",
+      "wir": "zählten",
+      "ihr": "zähltet",
+      "sie": "zählten"
+    }
+  },
+  "fehlschreibungen": [
+    "zelen",
+    "zählen",
+    "zalen",
+    "zeählen",
+    "zähln",
+    "zälhen"
+  ]
+}

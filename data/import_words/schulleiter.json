@@ -1,0 +1,82 @@
+{
+  "lemma": "Schulleiter",
+  "wortart": "Nomen",
+  "silben": "Schul-lei-ter",
+  "begriffserklaerung": "Der Schulleiter ist der Chef einer Schule. Er sorgt dafür, dass alles gut läuft, und ist für alle Lehrerinnen, Lehrer und Schüler verantwortlich.",
+  "beispielsatz": "Der Schulleiter begrüßt jeden Morgen die Kinder vor dem Schulgebäude.",
+  "rechtschreibstrategie": "„Schulleiter\" ist ein zusammengesetztes Wort aus „Schul\" und „Leiter\". Sprich beide Teile einzeln: SCHUL + LEI-TER. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "leiten"
+  ],
+  "bild_datei": "Schulleiter.webp",
+  "audio_datei": "Schulleiter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "headmaster / principal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "directeur d'école"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul müdürü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدير المدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sekretärin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Direktor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulleiter",
+    "plural": "die Schulleiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulleiter",
+        "genitiv": "des Schulleiters",
+        "dativ": "dem Schulleiter",
+        "akkusativ": "den Schulleiter"
+      },
+      "plural": {
+        "nominativ": "die Schulleiter",
+        "genitiv": "der Schulleiter",
+        "dativ": "den Schulleitern",
+        "akkusativ": "die Schulleiter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulleitter",
+    "Schuleiter",
+    "Schulleider",
+    "Schulleiiter"
+  ]
+}

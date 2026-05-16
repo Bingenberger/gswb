@@ -1,0 +1,77 @@
+{
+  "lemma": "Scheren",
+  "wortart": "Nomen",
+  "silben": "Sche-ren",
+  "begriffserklaerung": "Scheren sind Werkzeuge mit zwei langen, spitzen Klingen, die zusammengeklappt werden, um Papier, Stoff oder Haare zu schneiden.",
+  "beispielsatz": "Ich brauche die Scheren aus dem Bastelbedarf, damit wir alle gleichzeitig schneiden können.",
+  "rechtschreibstrategie": "Hör genau hin: Sche-ren. Das Wort klingt so, wie es geschrieben wird – sprich es in Silben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Scher"
+  ],
+  "bild_datei": "Scheren.webp",
+  "audio_datei": "Scheren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scissors"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ciseaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makaslar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقصات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bastelwerkzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schere",
+    "plural": "die Scheren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schere",
+        "genitiv": "der Schere",
+        "dativ": "der Schere",
+        "akkusativ": "die Schere"
+      },
+      "plural": {
+        "nominativ": "die Scheren",
+        "genitiv": "der Scheren",
+        "dativ": "den Scheren",
+        "akkusativ": "die Scheren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sheren",
+    "Schehren",
+    "Schärren",
+    "Scherren"
+  ]
+}

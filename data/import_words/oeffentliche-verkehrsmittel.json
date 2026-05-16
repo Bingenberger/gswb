@@ -1,0 +1,81 @@
+{
+  "lemma": "öffentliche Verkehrsmittel",
+  "wortart": "Nomen",
+  "silben": "öf-fent-li-che Ver-kehrs-mit-tel",
+  "begriffserklaerung": "Öffentliche Verkehrsmittel sind Busse, Bahnen und andere Fahrzeuge, die viele Menschen zusammen benutzen können. Sie fahren nach einem festen Fahrplan und jeder kann mitfahren.",
+  "beispielsatz": "Mit den öffentlichen Verkehrsmitteln fahre ich jeden Tag zur Schule.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „öffent-lich\", „Ver-kehrs\" und „Mit-tel\". Achte auf das Doppel-f in „öffentlich\" und das Doppel-t in „Mittel\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "öffentlich",
+    "Verkehr",
+    "Mittel"
+  ],
+  "bild_datei": "öffentliche Verkehrsmittel.webp",
+  "audio_datei": "öffentliche Verkehrsmittel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "öffentliche Verkehrsmittel",
+    "plural": "öffentliche Verkehrsmittel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das öffentliche Verkehrsmittel",
+        "genitiv": "des öffentlichen Verkehrsmittels",
+        "dativ": "dem öffentlichen Verkehrsmittel",
+        "akkusativ": "das öffentliche Verkehrsmittel"
+      },
+      "plural": {
+        "nominativ": "die öffentlichen Verkehrsmittel",
+        "genitiv": "der öffentlichen Verkehrsmittel",
+        "dativ": "den öffentlichen Verkehrsmitteln",
+        "akkusativ": "die öffentlichen Verkehrsmittel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "public transport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "transports en commun"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplu taşıma araçları"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسائل النقل العام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "U-Bahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "öfentliche Verkehrsmittel",
+    "öffentliche Verkehrsmitel",
+    "öffentliche Vekehrsmittel",
+    "öffendliche Verkehrsmittel",
+    "öffentliche Verkehrsmitttel"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "bergen",
+  "wortart": "Verb",
+  "silben": "ber-gen",
+  "begriffserklaerung": "Bergen bedeutet, jemanden oder etwas aus einer gefährlichen Lage zu retten und in Sicherheit zu bringen.",
+  "beispielsatz": "Die Feuerwehr konnte alle Menschen sicher aus dem Gebäude bergen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „ber-gen\". Nach dem kurzen „e\" kommt ein „r\" und dann „g\". Denke daran: berg-en – wie der Berg, auf dem man in Sicherheit ist!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "berg"
+  ],
+  "bild_datei": "bergen.webp",
+  "audio_datei": "bergen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rescue / to recover"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secourir / récupérer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurtarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إنقاذ / استرداد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bergung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geborgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "retten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bergen",
+    "praesens": {
+      "ich": "berge",
+      "du": "birgst",
+      "er_sie_es": "birgt",
+      "wir": "bergen",
+      "ihr": "bergt",
+      "sie": "bergen"
+    },
+    "perfekt": {
+      "ich": "habe geborgen",
+      "du": "hast geborgen",
+      "er_sie_es": "hat geborgen",
+      "wir": "haben geborgen",
+      "ihr": "habt geborgen",
+      "sie": "haben geborgen"
+    },
+    "praeteritum": {
+      "ich": "barg",
+      "du": "bargst",
+      "er_sie_es": "barg",
+      "wir": "bargen",
+      "ihr": "bargt",
+      "sie": "bargen"
+    }
+  },
+  "fehlschreibungen": [
+    "bärgen",
+    "bergen",
+    "birgen",
+    "berrgen",
+    "berggen",
+    "bärjen"
+  ]
+}

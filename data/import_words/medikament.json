@@ -1,0 +1,79 @@
+{
+  "lemma": "Medikament",
+  "wortart": "Nomen",
+  "silben": "Me-di-ka-ment",
+  "begriffserklaerung": "Ein Medikament ist ein Mittel, das man einnimmt oder aufträgt, um wieder gesund zu werden oder um Schmerzen zu lindern.",
+  "beispielsatz": "Der Arzt hat mir ein Medikament gegen meinen Husten verschrieben.",
+  "rechtschreibstrategie": "Sprich alle vier Silben deutlich: Me-di-ka-ment. Am Ende hörst du klar das „t\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Medikament"
+  ],
+  "bild_datei": "Medikament.webp",
+  "audio_datei": "Medikament.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "medicine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médicament"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دَوَاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arznei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apotheke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Medikament",
+    "plural": "die Medikamente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Medikament",
+        "genitiv": "des Medikaments",
+        "dativ": "dem Medikament",
+        "akkusativ": "das Medikament"
+      },
+      "plural": {
+        "nominativ": "die Medikamente",
+        "genitiv": "der Medikamente",
+        "dativ": "den Medikamenten",
+        "akkusativ": "die Medikamente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Medikamend",
+    "Medikamente",
+    "Meddikament",
+    "Medikamant",
+    "Meadikament",
+    "Medikkament"
+  ]
+}

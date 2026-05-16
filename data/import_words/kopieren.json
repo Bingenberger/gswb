@@ -1,0 +1,100 @@
+{
+  "lemma": "kopieren",
+  "wortart": "Verb",
+  "silben": "ko-pie-ren",
+  "begriffserklaerung": "Etwas kopieren bedeutet, es genau so noch einmal zu machen oder abzuschreiben. Man erstellt eine Kopie, also ein genaues Abbild von etwas.",
+  "beispielsatz": "Tim kopiert das Bild aus dem Buch, damit er es mit nach Hause nehmen kann.",
+  "rechtschreibstrategie": "Das Wort „kopieren\" hat ein langes „ie\" in der Mitte – sprich es deutlich: ko-PIE-ren. Das „ie\" klingt wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Kopie",
+    "kopier"
+  ],
+  "bild_datei": "kopieren.webp",
+  "audio_datei": "kopieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to copy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "copier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kopyalamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نسخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopierer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abschreiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vervielfältigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "drucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "scannen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einfügen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "kopieren",
+    "praesens": {
+      "ich": "kopiere",
+      "du": "kopierst",
+      "er_sie_es": "kopiert",
+      "wir": "kopieren",
+      "ihr": "kopiert",
+      "sie": "kopieren"
+    },
+    "perfekt": {
+      "ich": "habe kopiert",
+      "du": "hast kopiert",
+      "er_sie_es": "hat kopiert",
+      "wir": "haben kopiert",
+      "ihr": "habt kopiert",
+      "sie": "haben kopiert"
+    },
+    "praeteritum": {
+      "ich": "kopierte",
+      "du": "kopiertest",
+      "er_sie_es": "kopierte",
+      "wir": "kopierten",
+      "ihr": "kopiertet",
+      "sie": "kopierten"
+    }
+  },
+  "fehlschreibungen": [
+    "kopiern",
+    "kopiren",
+    "coppieren",
+    "kopieren",
+    "kopyren",
+    "kopyieren"
+  ]
+}

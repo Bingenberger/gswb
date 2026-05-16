@@ -1,0 +1,83 @@
+{
+  "lemma": "Notarzt",
+  "wortart": "Nomen",
+  "silben": "Not-arzt",
+  "begriffserklaerung": "Ein Notarzt ist ein Arzt, der bei einem Notfall sehr schnell kommt und Menschen hilft, die plötzlich krank oder verletzt sind.",
+  "beispielsatz": "Als Opa plötzlich umfiel, rief Mama sofort den Notarzt.",
+  "rechtschreibstrategie": "„Notarzt\" ist aus zwei Wörtern zusammengesetzt: „Not\" und „Arzt\". Schreibe beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "Arzt"
+  ],
+  "bild_datei": "Notarzt.webp",
+  "audio_datei": "Notarzt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency doctor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médecin urgentiste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil doktor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب الطوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Not"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rettungssanitäter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Notarzt",
+    "plural": "die Notärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Notarzt",
+        "genitiv": "des Notarztes",
+        "dativ": "dem Notarzt",
+        "akkusativ": "den Notarzt"
+      },
+      "plural": {
+        "nominativ": "die Notärzte",
+        "genitiv": "der Notärzte",
+        "dativ": "den Notärzten",
+        "akkusativ": "die Notärzte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Notharzd",
+    "Nodarzt",
+    "Notarsd",
+    "Nothartz",
+    "Nodarsd"
+  ]
+}

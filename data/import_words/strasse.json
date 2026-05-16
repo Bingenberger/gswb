@@ -1,0 +1,82 @@
+{
+  "lemma": "Straße",
+  "wortart": "Nomen",
+  "silben": "Stra-ße",
+  "begriffserklaerung": "Eine Straße ist ein befestigter Weg, auf dem Autos, Fahrräder und Menschen fahren oder laufen können.",
+  "beispielsatz": "Schau links und rechts, bevor du die Straße überquerst!",
+  "rechtschreibstrategie": "Das Wort „Straße\" schreibt man mit ß, weil der Vokal „a\" lang gesprochen wird. Nach einem langen Vokal schreibt man ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Straße"
+  ],
+  "bild_datei": "Straße.webp",
+  "audio_datei": "Straße.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Straße",
+    "plural": "die Straßen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Straße",
+        "genitiv": "der Straße",
+        "dativ": "der Straße",
+        "akkusativ": "die Straße"
+      },
+      "plural": {
+        "nominativ": "die Straßen",
+        "genitiv": "der Straßen",
+        "dativ": "den Straßen",
+        "akkusativ": "die Straßen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "street"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sokak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شارع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straßenschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgersteig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Strasse",
+    "Straße",
+    "Strase",
+    "Straase",
+    "Strraße"
+  ]
+}

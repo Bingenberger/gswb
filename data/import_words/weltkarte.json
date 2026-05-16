@@ -1,0 +1,84 @@
+{
+  "lemma": "Weltkarte",
+  "wortart": "Nomen",
+  "silben": "Welt-kar-te",
+  "begriffserklaerung": "Eine Weltkarte ist ein Bild, das die ganze Erde zeigt. Man kann darauf alle Länder, Meere und Kontinente sehen.",
+  "beispielsatz": "Im Klassenzimmer hängt eine große Weltkarte an der Wand.",
+  "rechtschreibstrategie": "Weltkarte ist ein zusammengesetztes Wort aus „Welt\" und „Karte\". Sprich beide Teile einzeln: WELT + KARTE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Welt",
+    "Karte"
+  ],
+  "bild_datei": "Weltkarte.webp",
+  "audio_datei": "Weltkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "world map"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carte du monde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dünya haritası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خريطة العالم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Welt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Globus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atlas"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erdkarte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Weltkarte",
+    "plural": "die Weltkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Weltkarte",
+        "genitiv": "der Weltkarte",
+        "dativ": "der Weltkarte",
+        "akkusativ": "die Weltkarte"
+      },
+      "plural": {
+        "nominativ": "die Weltkarten",
+        "genitiv": "der Weltkarten",
+        "dativ": "den Weltkarten",
+        "akkusativ": "die Weltkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weltkarte",
+    "Weltkkarte",
+    "Weltkart",
+    "Welltcarte",
+    "Weltkate",
+    "Veltkarte"
+  ]
+}

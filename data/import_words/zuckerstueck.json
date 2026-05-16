@@ -1,0 +1,90 @@
+{
+  "lemma": "Zuckerstück",
+  "wortart": "Nomen",
+  "silben": "Zu-cker-stück",
+  "begriffserklaerung": "Ein Zuckerstück ist ein kleiner, fester Würfel aus Zucker. Man kann ihn in Tee oder Kaffee auflösen, damit das Getränk süß wird.",
+  "beispielsatz": "Oma legt immer zwei Zuckerstücke in ihren Tee.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Zucker\" und „Stück\". Bei „Zucker\" hörst du ein kurzes „u\" – daher schreibt man „ck\". Bei „Stück\" hörst du ein kurzes „ü\" – daher schreibt man ebenfalls „ck\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zucker",
+    "Stück"
+  ],
+  "bild_datei": "Zuckerstück.webp",
+  "audio_datei": "Zuckerstück.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zuckerstück",
+    "plural": "die Zuckerstücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zuckerstück",
+        "genitiv": "des Zuckerstücks",
+        "dativ": "dem Zuckerstück",
+        "akkusativ": "das Zuckerstück"
+      },
+      "plural": {
+        "nominativ": "die Zuckerstücke",
+        "genitiv": "der Zuckerstücke",
+        "dativ": "den Zuckerstücken",
+        "akkusativ": "die Zuckerstücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sugar cube"
+    },
+    {
+      "language_code": "fr",
+      "translation": "morceau de sucre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kesme şeker"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة سكر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zucker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Würfelzucker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süßigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tee"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Würfelzucker"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zukerstück",
+    "Zuckerstuk",
+    "Zuckerstück",
+    "Zuckkerstück",
+    "Zukerstüch",
+    "Zuckerstüch",
+    "Zuckerstüeck"
+  ]
+}

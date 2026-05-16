@@ -1,0 +1,88 @@
+{
+  "lemma": "Sitzbank",
+  "wortart": "Nomen",
+  "silben": "Sitz-bank",
+  "begriffserklaerung": "Eine Sitzbank ist ein langer Sitz ohne Rückenlehne, auf dem mehrere Menschen nebeneinander sitzen können.",
+  "beispielsatz": "Im Park setzen sich die Kinder auf die Sitzbank und essen ihr Eis.",
+  "rechtschreibstrategie": "Das Wort „Sitzbank\" besteht aus zwei Teilen: „Sitz\" und „Bank\". Du kannst es in diese zwei Bausteine zerlegen und sie einzeln schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "sitz",
+    "bank"
+  ],
+  "bild_datei": "Sitzbank.webp",
+  "audio_datei": "Sitzbank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bench"
+    },
+    {
+      "language_code": "fr",
+      "translation": "banc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bank"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sofa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hocker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sitzbank",
+    "plural": "die Sitzbänke",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sitzbank",
+        "genitiv": "der Sitzbank",
+        "dativ": "der Sitzbank",
+        "akkusativ": "die Sitzbank"
+      },
+      "plural": {
+        "nominativ": "die Sitzbänke",
+        "genitiv": "der Sitzbänke",
+        "dativ": "den Sitzbänken",
+        "akkusativ": "die Sitzbänke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sizbank",
+    "Sitzpank",
+    "Sitsbank",
+    "Sitzbanck",
+    "Sitzbang"
+  ]
+}

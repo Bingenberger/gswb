@@ -1,0 +1,84 @@
+{
+  "lemma": "Nachtschicht",
+  "wortart": "Nomen",
+  "silben": "Nacht-schicht",
+  "begriffserklaerung": "Eine Nachtschicht ist eine Arbeitszeit, die nachts stattfindet. Manche Menschen arbeiten, während andere schlafen.",
+  "beispielsatz": "Meine Mama hat heute Nachtschicht und kommt erst morgen früh nach Hause.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Nacht\" und „Schicht\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Nacht",
+    "Schicht"
+  ],
+  "bild_datei": "Nachtschicht.webp",
+  "audio_datei": "Nachtschicht.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachtschicht",
+    "plural": "die Nachtschichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachtschicht",
+        "genitiv": "der Nachtschicht",
+        "dativ": "der Nachtschicht",
+        "akkusativ": "die Nachtschicht"
+      },
+      "plural": {
+        "nominativ": "die Nachtschichten",
+        "genitiv": "der Nachtschichten",
+        "dativ": "den Nachtschichten",
+        "akkusativ": "die Nachtschichten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "night shift"
+    },
+    {
+      "language_code": "fr",
+      "translation": "équipe de nuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gece vardiyası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وردية الليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühschicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spätschicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachtarbeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nachtschischt",
+    "Nachtschigt",
+    "Nachtschich",
+    "Nachschicht",
+    "Nachtshicht"
+  ]
+}

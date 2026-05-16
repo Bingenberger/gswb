@@ -1,0 +1,88 @@
+{
+  "lemma": "Verlust",
+  "wortart": "Nomen",
+  "silben": "Ver-lust",
+  "begriffserklaerung": "Ein Verlust bedeutet, dass man etwas oder jemanden nicht mehr hat, den oder das man vorher hatte.",
+  "beispielsatz": "Der Verlust seines Lieblingsspielzeugs machte Tim sehr traurig.",
+  "rechtschreibstrategie": "Sprich das Wort genau: Ver-lust. Am Ende hörst du ein „t\" – das schreibst du auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "verlier",
+    "verlor"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verlust",
+    "plural": "die Verluste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verlust",
+        "genitiv": "des Verlustes",
+        "dativ": "dem Verlust",
+        "akkusativ": "den Verlust"
+      },
+      "plural": {
+        "nominativ": "die Verluste",
+        "genitiv": "der Verluste",
+        "dativ": "den Verlusten",
+        "akkusativ": "die Verluste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferlust",
+    "Verlußt",
+    "Verluhst",
+    "Verlust",
+    "Verlost",
+    "Verlüst"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "loss"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kayıp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خسارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verlieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verloren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einbuße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaden"
+    }
+  ],
+  "bild_datei": "Verlust.webp",
+  "audio_datei": "Verlust.mp3"
+}

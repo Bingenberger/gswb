@@ -1,0 +1,79 @@
+{
+  "lemma": "Mäppchen",
+  "wortart": "Nomen",
+  "silben": "Mäpp-chen",
+  "begriffserklaerung": "Ein Mäppchen ist eine kleine Tasche oder Hülle, in der Kinder ihre Stifte, Buntstifte und Radiergummis aufbewahren.",
+  "beispielsatz": "In meinem Mäppchen sind bunte Stifte und ein Radiergummi.",
+  "rechtschreibstrategie": "Höre genau hin: Das „ä\" klingt kurz, darum kommt danach ein Doppel-p. Merke: Mapp → Mäppchen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Mappe"
+  ],
+  "bild_datei": "Mäppchen.webp",
+  "audio_datei": "Mäppchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pencil case"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trousse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalem kutusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقلمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mappe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radiergummi"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mäppchen",
+    "plural": "die Mäppchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mäppchen",
+        "genitiv": "des Mäppchens",
+        "dativ": "dem Mäppchen",
+        "akkusativ": "das Mäppchen"
+      },
+      "plural": {
+        "nominativ": "die Mäppchen",
+        "genitiv": "der Mäppchen",
+        "dativ": "den Mäppchen",
+        "akkusativ": "die Mäppchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mepchen",
+    "Mäpchen",
+    "Mäppchen",
+    "Meppchen",
+    "Meäppchen"
+  ]
+}

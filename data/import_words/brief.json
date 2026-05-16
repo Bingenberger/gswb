@@ -1,0 +1,90 @@
+{
+  "lemma": "Brief",
+  "wortart": "Nomen",
+  "silben": "Brief",
+  "begriffserklaerung": "Ein Brief ist eine handgeschriebene oder gedruckte Nachricht, die man in einen Umschlag steckt und per Post verschickt oder persönlich übergibt.",
+  "beispielsatz": "Mia schreibt ihrer Oma einen langen Brief und malt bunte Bilder dazu.",
+  "rechtschreibstrategie": "Denk an das ie am Ende: Brief – du hörst ein langes „i\", das wird mit ie geschrieben. Merk dir: Brief hat ein ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "brief"
+  ],
+  "bild_datei": "Brief.webp",
+  "audio_datei": "Brief.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "letter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lettre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mektup"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Briefkasten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Briefmarke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brieflich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreiben"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brief",
+    "plural": "die Briefe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brief",
+        "genitiv": "des Briefes",
+        "dativ": "dem Brief",
+        "akkusativ": "den Brief"
+      },
+      "plural": {
+        "nominativ": "die Briefe",
+        "genitiv": "der Briefe",
+        "dativ": "den Briefen",
+        "akkusativ": "die Briefe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brif",
+    "Brieff",
+    "Briev",
+    "Breif",
+    "Bief"
+  ]
+}

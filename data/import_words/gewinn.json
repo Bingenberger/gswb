@@ -1,0 +1,94 @@
+{
+  "lemma": "Gewinn",
+  "wortart": "Nomen",
+  "silben": "Ge-winn",
+  "begriffserklaerung": "Ein Gewinn ist etwas, das man bekommt, wenn man bei einem Spiel oder Wettbewerb gewinnt – zum Beispiel ein Preis oder Geld.",
+  "beispielsatz": "Lena hat beim Schulfest einen tollen Gewinn gemacht: Sie hat einen Teddy gewonnen!",
+  "rechtschreibstrategie": "Schreibe am Ende „nn\", weil das „i\" kurz klingt: Ge-winn. Sprich das Wort langsam: Ge – winn!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "gewinn",
+    "winn"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gewinn",
+    "plural": "die Gewinne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gewinn",
+        "genitiv": "des Gewinns",
+        "dativ": "dem Gewinn",
+        "akkusativ": "den Gewinn"
+      },
+      "plural": {
+        "nominativ": "die Gewinne",
+        "genitiv": "der Gewinne",
+        "dativ": "den Gewinnen",
+        "akkusativ": "die Gewinne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewien",
+    "Gewin",
+    "Gewinn",
+    "Gevinn"
+  ],
+  "bild_datei": "Gewinn.webp",
+  "audio_datei": "Gewinn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "win / prize"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gain / prix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanç / ödül"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ربح / جائزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewinnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewinnerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewinner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettbewerb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    }
+  ]
+}

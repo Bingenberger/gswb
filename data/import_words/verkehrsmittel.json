@@ -1,0 +1,85 @@
+{
+  "lemma": "Verkehrsmittel",
+  "wortart": "Nomen",
+  "silben": "Ver-kehrs-mit-tel",
+  "begriffserklaerung": "Ein Verkehrsmittel ist etwas, womit man von einem Ort zum anderen fahren oder fliegen kann, zum Beispiel ein Auto, ein Bus oder ein Fahrrad.",
+  "beispielsatz": "Das liebste Verkehrsmittel von Lena ist die Straßenbahn.",
+  "rechtschreibstrategie": "„Verkehrsmittel\" ist ein zusammengesetztes Wort aus „Verkehr\" und „Mittel\". Sprich beide Teile laut: Ver-kehrs-mit-tel. Das „h\" in „Verkehr\" schreibst du mit, obwohl man es nicht hört – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Verkehr",
+    "Mittel"
+  ],
+  "bild_datei": "Verkehrsmittel.webp",
+  "audio_datei": "Verkehrsmittel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verkehrsmittel",
+    "plural": "die Verkehrsmittel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verkehrsmittel",
+        "genitiv": "des Verkehrsmittels",
+        "dativ": "dem Verkehrsmittel",
+        "akkusativ": "das Verkehrsmittel"
+      },
+      "plural": {
+        "nominativ": "die Verkehrsmittel",
+        "genitiv": "der Verkehrsmittel",
+        "dativ": "den Verkehrsmitteln",
+        "akkusativ": "die Verkehrsmittel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "means of transport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moyen de transport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ulaşım aracı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسيلة نقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verkehrsmitel",
+    "Verkehrmittel",
+    "Verkeersmittel",
+    "Ferkehrsmittel",
+    "Verkährsmittel",
+    "Verkehrsmittl"
+  ]
+}

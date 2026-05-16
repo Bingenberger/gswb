@@ -1,0 +1,82 @@
+{
+  "lemma": "Isolation",
+  "wortart": "Nomen",
+  "silben": "I-so-la-ti-on",
+  "begriffserklaerung": "Eine Isolation trennt etwas von seiner Umgebung ab, damit keine Wärme, kein Strom oder kein Lärm durchkommt. Manchmal bedeutet es auch, dass jemand allein ist und keinen Kontakt zu anderen hat.",
+  "beispielsatz": "Die dicke Isolation an der Hauswand sorgt dafür, dass es im Winter schön warm bleibt.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Lateinischen. Achte auf das „ti\", das wie „zi\" klingt – schreibe es aber mit „t\": I-so-la-ti-on.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "isolier"
+  ],
+  "bild_datei": "Isolation.webp",
+  "audio_datei": "Isolation.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Isolation",
+    "plural": "die Isolationen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Isolation",
+        "genitiv": "der Isolation",
+        "dativ": "der Isolation",
+        "akkusativ": "die Isolation"
+      },
+      "plural": {
+        "nominativ": "die Isolationen",
+        "genitiv": "der Isolationen",
+        "dativ": "den Isolationen",
+        "akkusativ": "die Isolationen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "insulation / isolation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "isolation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalıtım / izolasyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "isolieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Isolierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschirmung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Isolazion",
+    "Isohlation",
+    "Isolattion",
+    "Isollation",
+    "Izolaion"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Ernte",
+  "wortart": "Nomen",
+  "silben": "Ern-te",
+  "begriffserklaerung": "Die Ernte ist das Einsammeln von reifen Früchten, Gemüse oder Getreide vom Feld oder aus dem Garten.",
+  "beispielsatz": "Im Herbst helfen wir beim Bauern bei der Ernte der Äpfel.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ern-te. Höre das „n\" und das „t\" genau – beide Buchstaben werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "ernten"
+  ],
+  "bild_datei": "Ernte.webp",
+  "audio_datei": "Ernte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "harvest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "récolte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hasat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ernten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erntezeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ergebnis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ernte",
+    "plural": "die Ernten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ernte",
+        "genitiv": "der Ernte",
+        "dativ": "der Ernte",
+        "akkusativ": "die Ernte"
+      },
+      "plural": {
+        "nominativ": "die Ernten",
+        "genitiv": "der Ernten",
+        "dativ": "den Ernten",
+        "akkusativ": "die Ernten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ernte",
+    "Ärndte",
+    "Erndte",
+    "Arnte",
+    "Ernde"
+  ]
+}

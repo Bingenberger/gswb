@@ -1,0 +1,81 @@
+{
+  "lemma": "Nachbarland",
+  "wortart": "Nomen",
+  "silben": "Nach-bar-land",
+  "begriffserklaerung": "Ein Nachbarland ist ein Land, das direkt neben einem anderen Land liegt und eine gemeinsame Grenze mit ihm hat.",
+  "beispielsatz": "Österreich ist ein Nachbarland von Deutschland.",
+  "rechtschreibstrategie": "Das Wort „Nachbarland\" besteht aus zwei Teilen: „Nachbar\" und „Land\". Sprich beide Teile einzeln, dann kannst du sie richtig zusammenschreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Nachbar",
+    "Land"
+  ],
+  "bild_datei": "Nachbarland.webp",
+  "audio_datei": "Nachbarland.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "neighbouring country"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pays voisin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "komşu ülke"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دولة مجاورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachbar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grenze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nachbarland",
+    "plural": "die Nachbarländer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nachbarland",
+        "genitiv": "des Nachbarlandes",
+        "dativ": "dem Nachbarland",
+        "akkusativ": "das Nachbarland"
+      },
+      "plural": {
+        "nominativ": "die Nachbarländer",
+        "genitiv": "der Nachbarländer",
+        "dativ": "den Nachbarländern",
+        "akkusativ": "die Nachbarländer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachbaarland",
+    "Nachbärland",
+    "Nachbarlan",
+    "Nachtbarland",
+    "Nachbahrland",
+    "Nachbarllnd"
+  ]
+}

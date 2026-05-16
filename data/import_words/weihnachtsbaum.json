@@ -1,0 +1,89 @@
+{
+  "lemma": "Weihnachtsbaum",
+  "wortart": "Nomen",
+  "silben": "Weih-nachts-baum",
+  "begriffserklaerung": "Ein Weihnachtsbaum ist ein geschmückter Tannenbaum, den viele Familien zu Weihnachten aufstellen und mit Kugeln, Lichtern und Sternen verzieren.",
+  "beispielsatz": "Wir haben den Weihnachtsbaum mit bunten Kugeln und goldenen Sternen geschmückt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Weih-nachts-baum\". Sprich alle drei Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Weihnacht",
+    "Baum"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Weihnachtsbaum",
+    "plural": "Weihnachtsbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Weihnachtsbaum",
+        "genitiv": "des Weihnachtsbaums",
+        "dativ": "dem Weihnachtsbaum",
+        "akkusativ": "den Weihnachtsbaum"
+      },
+      "plural": {
+        "nominativ": "die Weihnachtsbäume",
+        "genitiv": "der Weihnachtsbäume",
+        "dativ": "den Weihnachtsbäumen",
+        "akkusativ": "die Weihnachtsbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weihnachtsbaum",
+    "Weinachtsbaum",
+    "Weihnachtspaum",
+    "Weihnachsbaum",
+    "Weinnachtsbaum",
+    "Weihnachtzbaum"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weihnacht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Christbaumkugel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Advent"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Christbaum"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Christmas tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sapin de Noël"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Noel ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة عيد الميلاد"
+    }
+  ],
+  "bild_datei": "Weihnachtsbaum.webp",
+  "audio_datei": "Weihnachtsbaum.mp3"
+}

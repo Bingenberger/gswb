@@ -1,0 +1,78 @@
+{
+  "lemma": "Kohlrabi",
+  "wortart": "Nomen",
+  "silben": "Kohl-ra-bi",
+  "begriffserklaerung": "Der Kohlrabi ist ein Gemüse mit einer runden, dicken Knolle. Er wächst im Garten und schmeckt leicht süßlich. Man kann ihn roh oder gekocht essen.",
+  "beispielsatz": "Mama schneidet den Kohlrabi in Stücke, damit ich ihn als Snack essen kann.",
+  "rechtschreibstrategie": "„Kohlrabi\" ist ein Bausteinwort aus „Kohl\" und „Rabi\". Sprich beide Teile laut: KOHL – RA – BI. Denk an den Kohl im Garten!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kohl"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kohlrabi",
+    "plural": "die Kohlrabis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kohlrabi",
+        "genitiv": "des Kohlrabis",
+        "dativ": "dem Kohlrabi",
+        "akkusativ": "den Kohlrabi"
+      },
+      "plural": {
+        "nominativ": "die Kohlrabis",
+        "genitiv": "der Kohlrabis",
+        "dativ": "den Kohlrabis",
+        "akkusativ": "die Kohlrabis"
+      }
+    }
+  },
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karotte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brokkoli"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kolrabi",
+    "Kohlrabby",
+    "Kohlraby",
+    "Kolhrabi",
+    "Kohlrapis"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kohlrabi"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chou-rave"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alabaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرنب البقدونس"
+    }
+  ],
+  "bild_datei": "Kohlrabi.webp",
+  "audio_datei": "Kohlrabi.mp3"
+}

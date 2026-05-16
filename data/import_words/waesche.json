@@ -1,0 +1,82 @@
+{
+  "lemma": "Wäsche",
+  "wortart": "Nomen",
+  "silben": "Wä-sche",
+  "begriffserklaerung": "Wäsche sind Kleidungsstücke und Bettwäsche, die gewaschen werden oder frisch gewaschen wurden.",
+  "beispielsatz": "Mama hängt die Wäsche nach dem Waschen auf die Leine.",
+  "rechtschreibstrategie": "Denke an das Wort „waschen\" – Wäsche kommt von waschen, daher schreibt man es mit „ä\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wasch"
+  ],
+  "bild_datei": "Wäsche.webp",
+  "audio_datei": "Wäsche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wäsche",
+    "plural": "die Wäschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wäsche",
+        "genitiv": "der Wäsche",
+        "dativ": "der Wäsche",
+        "akkusativ": "die Wäsche"
+      },
+      "plural": {
+        "nominativ": "die Wäschen",
+        "genitiv": "der Wäschen",
+        "dativ": "den Wäschen",
+        "akkusativ": "die Wäschen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "laundry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "linge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çamaşır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غسيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waschmaschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleidung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschmaschine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kleidung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wäshe",
+    "Waesche",
+    "Wässche",
+    "Wesche",
+    "Wäche"
+  ]
+}

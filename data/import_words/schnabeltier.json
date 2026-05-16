@@ -1,0 +1,83 @@
+{
+  "lemma": "Schnabeltier",
+  "wortart": "Nomen",
+  "silben": "Schna-bel-tier",
+  "begriffserklaerung": "Das Schnabeltier ist ein besonderes Tier aus Australien. Es hat einen Schnabel wie eine Ente, einen Schwanz wie ein Biber und legt Eier – obwohl es ein Säugetier ist!",
+  "beispielsatz": "Das Schnabeltier schwimmt geschickt im Fluss und sucht mit seinem Schnabel nach Futter.",
+  "rechtschreibstrategie": "Das Wort „Schnabeltier\" ist zusammengesetzt aus „Schnabel\" und „Tier\". Sprich beide Teile einzeln: SCHNA-BEL + TIER. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schnabel",
+    "Tier"
+  ],
+  "bild_datei": "Schnabeltier.webp",
+  "audio_datei": "Schnabeltier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schnabeltier",
+    "plural": "die Schnabeltiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schnabeltier",
+        "genitiv": "des Schnabeltieres",
+        "dativ": "dem Schnabeltier",
+        "akkusativ": "das Schnabeltier"
+      },
+      "plural": {
+        "nominativ": "die Schnabeltiere",
+        "genitiv": "der Schnabeltiere",
+        "dativ": "den Schnabeltieren",
+        "akkusativ": "die Schnabeltiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "platypus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ornithorynque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ornitorenk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلد الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnabel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ente"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säugetier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schnabeltier",
+    "Schnabltier",
+    "Schnappeltier",
+    "Shnabeltier",
+    "Schnabeltir"
+  ]
+}

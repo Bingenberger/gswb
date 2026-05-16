@@ -1,0 +1,79 @@
+{
+  "lemma": "Eichhörnchen",
+  "wortart": "Nomen",
+  "silben": "Eich-hörn-chen",
+  "begriffserklaerung": "Ein Eichhörnchen ist ein kleines Tier mit einem buschigen Schwanz, das auf Bäume klettert und Nüsse sammelt.",
+  "beispielsatz": "Das Eichhörnchen springt flink von Ast zu Ast und versteckt seine Nüsse im Boden.",
+  "rechtschreibstrategie": "Das Wort „Eichhörnchen\" ist schwierig – merke dir: Es steckt das Wort „Eiche\" drin (der Baum), und danach kommt „Hörnchen\". Sprich es langsam in Silben: Eich-hörn-chen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Eiche"
+  ],
+  "bild_datei": "Eichhörnchen.webp",
+  "audio_datei": "Eichhörnchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eichhörnchen",
+    "plural": "die Eichhörnchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eichhörnchen",
+        "genitiv": "des Eichhörnchens",
+        "dativ": "dem Eichhörnchen",
+        "akkusativ": "das Eichhörnchen"
+      },
+      "plural": {
+        "nominativ": "die Eichhörnchen",
+        "genitiv": "der Eichhörnchen",
+        "dativ": "den Eichhörnchen",
+        "akkusativ": "die Eichhörnchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "squirrel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écureuil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sincap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سنجاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eiche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eule"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eichhörnchen",
+    "Aichhörnchen",
+    "Eichhörchen",
+    "Eichhhörnchen",
+    "Eichhörnschen"
+  ]
+}

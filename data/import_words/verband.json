@@ -1,0 +1,87 @@
+{
+  "lemma": "Verband",
+  "wortart": "Nomen",
+  "silben": "Ver-band",
+  "begriffserklaerung": "Ein Verband ist ein Streifen aus weichem Stoff oder einer Binde, den man um eine Wunde wickelt, damit sie geschützt ist und heilen kann. Das Wort kann auch eine Gruppe von Menschen oder Vereinen meinen, die zusammenarbeiten.",
+  "beispielsatz": "Die Krankenschwester legt Tom einen Verband um das verletzte Knie.",
+  "rechtschreibstrategie": "Denk an das Wort „binden\": Verband kommt von „binden\" – das „d\" am Ende hörst du, wenn du „Verbände\" sagst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "bind"
+  ],
+  "bild_datei": "Verband.webp",
+  "audio_datei": "Verband.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verband",
+    "plural": "die Verbände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verband",
+        "genitiv": "des Verbandes",
+        "dativ": "dem Verband",
+        "akkusativ": "den Verband"
+      },
+      "plural": {
+        "nominativ": "die Verbände",
+        "genitiv": "der Verbände",
+        "dativ": "den Verbänden",
+        "akkusativ": "die Verbände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bandage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bandage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bandaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضمادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Binde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verbinden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erste Hilfe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferpand",
+    "Verbant",
+    "Verpand",
+    "Verbannd",
+    "Verbahnd"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Handel",
+  "wortart": "Nomen",
+  "silben": "Han-del",
+  "begriffserklaerung": "Handel bedeutet, dass Menschen Waren kaufen und verkaufen. Zum Beispiel verkauft ein Bäcker seine Brote, oder ein Markt bietet Obst und Gemüse an.",
+  "beispielsatz": "Auf dem Markt findet jeden Samstag reger Handel statt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Han-del. Nach dem kurzen „a\" kommt ein „n\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "handel",
+    "händl"
+  ],
+  "bild_datei": "Handel.webp",
+  "audio_datei": "Handel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trade"
+    },
+    {
+      "language_code": "fr",
+      "translation": "commerce"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ticaret"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تجارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "handeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Händler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tausch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaufmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ware"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handel",
+    "plural": "die Händel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handel",
+        "genitiv": "des Handels",
+        "dativ": "dem Handel",
+        "akkusativ": "den Handel"
+      },
+      "plural": {
+        "nominativ": "die Händel",
+        "genitiv": "der Händel",
+        "dativ": "den Händeln",
+        "akkusativ": "die Händel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handell",
+    "Hantell",
+    "Hantel",
+    "Handal",
+    "Handel"
+  ]
+}

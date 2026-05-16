@@ -1,0 +1,90 @@
+{
+  "lemma": "mahlen",
+  "wortart": "Verb",
+  "silben": "mah-len",
+  "begriffserklaerung": "Mahlen bedeutet, etwas zerreiben oder zerkleinern, zum Beispiel Getreide zu Mehl oder Kaffeebohnen zu Pulver.",
+  "beispielsatz": "Die Mühle mahlt das Getreide zu feinem Mehl.",
+  "rechtschreibstrategie": "Das „h\" in „mahlen\" hört man nicht – es dehnt das „a\". Denk daran: Auch die Mühle dreht sich langsam, und das „h\" streckt den Vokal schön lang!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "mahl"
+  ],
+  "bild_datei": "mahlen.webp",
+  "audio_datei": "mahlen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to grind"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moudre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğütmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يطحن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mühle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mehl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerreiben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "mahlen",
+    "praesens": {
+      "ich": "mahle",
+      "du": "mahlst",
+      "er_sie_es": "mahlt",
+      "wir": "mahlen",
+      "ihr": "mahlt",
+      "sie": "mahlen"
+    },
+    "perfekt": {
+      "ich": "habe gemahlen",
+      "du": "hast gemahlen",
+      "er_sie_es": "hat gemahlen",
+      "wir": "haben gemahlen",
+      "ihr": "habt gemahlen",
+      "sie": "haben gemahlen"
+    },
+    "praeteritum": {
+      "ich": "mahlte",
+      "du": "mahltest",
+      "er_sie_es": "mahlte",
+      "wir": "mahlten",
+      "ihr": "mahltet",
+      "sie": "mahlten"
+    }
+  },
+  "fehlschreibungen": [
+    "malen",
+    "mahlen",
+    "mahln",
+    "maalen",
+    "malhen"
+  ]
+}

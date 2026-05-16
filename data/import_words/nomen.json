@@ -1,0 +1,74 @@
+{
+  "lemma": "Nomen",
+  "wortart": "Nomen",
+  "silben": "No-men",
+  "begriffserklaerung": "Ein Nomen ist ein Namenwort. Es bezeichnet Dinge, Lebewesen, Orte oder Gefühle – zum Beispiel „Hund\", „Schule\" oder „Freude\". Nomen schreibt man immer mit einem großen Buchstaben.",
+  "beispielsatz": "In dem Satz „Die Katze schläft\" ist „Katze\" ein Nomen.",
+  "rechtschreibstrategie": "Denk daran: Nomen schreibt man immer groß! Das Wort „Nomen\" selbst hat ein langes O am Anfang – sprich es deutlich: „No-men\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nom"
+  ],
+  "bild_datei": "Nomen.webp",
+  "audio_datei": "Nomen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nomen",
+    "plural": "die Nomen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nomen",
+        "genitiv": "des Nomens",
+        "dativ": "dem Nomen",
+        "akkusativ": "das Nomen"
+      },
+      "plural": {
+        "nominativ": "die Nomen",
+        "genitiv": "der Nomen",
+        "dativ": "den Nomen",
+        "akkusativ": "die Nomen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "noun"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nom"
+    },
+    {
+      "language_code": "tr",
+      "translation": "isim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adjektiv"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Namenwort"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nomem",
+    "Nohmen",
+    "Nomen",
+    "Nommen",
+    "Nomenn"
+  ]
+}

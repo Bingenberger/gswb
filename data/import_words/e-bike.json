@@ -1,0 +1,76 @@
+{
+  "lemma": "E-Bike",
+  "wortart": "Nomen",
+  "silben": "E-Bike",
+  "begriffserklaerung": "Ein E-Bike ist ein Fahrrad mit einem elektrischen Motor, der beim Treten hilft. So kommt man auch bergauf ohne große Mühe voran.",
+  "beispielsatz": "Meine Oma fährt mit ihrem E-Bike jeden Morgen zum Bäcker.",
+  "rechtschreibstrategie": "E-Bike ist ein Kunstwort aus dem Buchstaben „E\" (für Elektro) und dem englischen Wort „Bike\" (Fahrrad). Schreibe immer einen Bindestrich zwischen das „E\" und „Bike\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "Bike"
+  ],
+  "bild_datei": "E-Bike.webp",
+  "audio_datei": "E-Bike.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "e-bike"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vélo électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli bisiklet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elektroauto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das E-Bike",
+    "plural": "die E-Bikes",
+    "deklination": {
+      "singular": {
+        "nominativ": "das E-Bike",
+        "genitiv": "des E-Bikes",
+        "dativ": "dem E-Bike",
+        "akkusativ": "das E-Bike"
+      },
+      "plural": {
+        "nominativ": "die E-Bikes",
+        "genitiv": "der E-Bikes",
+        "dativ": "den E-Bikes",
+        "akkusativ": "die E-Bikes"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "E Bike",
+    "EBike",
+    "E-bike",
+    "E-Baik",
+    "Iebike"
+  ]
+}

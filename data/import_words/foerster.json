@@ -1,0 +1,87 @@
+{
+  "lemma": "Förster",
+  "wortart": "Nomen",
+  "silben": "Förs-ter",
+  "begriffserklaerung": "Ein Förster ist ein Mensch, der den Wald pflegt, die Tiere darin schützt und dafür sorgt, dass alles im Gleichgewicht bleibt.",
+  "beispielsatz": "Der Förster geht jeden Morgen durch den Wald und schaut, ob es den Tieren gut geht.",
+  "rechtschreibstrategie": "Das Wort „Förster\" kommt von „Forst\" (= Wald). Denk an den Forst, dann vergisst du das ö nicht!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Forst"
+  ],
+  "bild_datei": "Förster.webp",
+  "audio_datei": "Förster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "forester / forest ranger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "garde forestier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman bekçisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس الغابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Forst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Forstwirtschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holzfäller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Waldhüter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Förster",
+    "plural": "die Förster",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Förster",
+        "genitiv": "des Försters",
+        "dativ": "dem Förster",
+        "akkusativ": "den Förster"
+      },
+      "plural": {
+        "nominativ": "die Förster",
+        "genitiv": "der Förster",
+        "dativ": "den Förstern",
+        "akkusativ": "die Förster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Foerster",
+    "Ferster",
+    "Förßter",
+    "Försder",
+    "Fürster",
+    "Förter"
+  ]
+}

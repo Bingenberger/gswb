@@ -1,0 +1,89 @@
+{
+  "lemma": "Geldbörse",
+  "wortart": "Nomen",
+  "silben": "Geld-bör-se",
+  "begriffserklaerung": "Eine Geldbörse ist eine kleine Tasche, in der man Münzen, Geldscheine und Karten aufbewahrt.",
+  "beispielsatz": "Mama steckt ihre Geldbörse immer in die Handtasche.",
+  "rechtschreibstrategie": "Das Wort „Geldbörse\" ist aus zwei Teilen gebaut: „Geld\" und „Börse\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Geld",
+    "Börse"
+  ],
+  "bild_datei": "Geldbörse.webp",
+  "audio_datei": "Geldbörse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wallet / purse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte-monnaie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cüzdan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محفظة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Portemonnaie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brieftasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Banknote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geldbörse",
+    "plural": "die Geldbörsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geldbörse",
+        "genitiv": "der Geldbörse",
+        "dativ": "der Geldbörse",
+        "akkusativ": "die Geldbörse"
+      },
+      "plural": {
+        "nominativ": "die Geldbörsen",
+        "genitiv": "der Geldbörsen",
+        "dativ": "den Geldbörsen",
+        "akkusativ": "die Geldbörsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geldbörße",
+    "Geltbörse",
+    "Geldbörze",
+    "Geldböhrse",
+    "Geldbörssen",
+    "Geldbörse"
+  ]
+}

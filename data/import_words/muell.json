@@ -1,0 +1,94 @@
+{
+  "lemma": "Müll",
+  "wortart": "Nomen",
+  "silben": "Müll",
+  "begriffserklaerung": "Müll sind Dinge, die man nicht mehr braucht und wegwirft, zum Beispiel leere Flaschen, alte Zeitungen oder Essensreste.",
+  "beispielsatz": "Wirf den Müll bitte in den Mülleimer!",
+  "rechtschreibstrategie": "Müll endet auf zwei „l\", weil das „ü\" kurz gesprochen wird. Kurzer Vokal → Doppelkonsonant: Mü-ll.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Müll",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Müll",
+        "genitiv": "des Mülls",
+        "dativ": "dem Müll",
+        "akkusativ": "den Müll"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mül",
+    "Mull",
+    "Mühl",
+    "Mühll",
+    "Müll"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage / trash"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordures / déchets"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قُمَامَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mülleimer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müllabfuhr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abfall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unrat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompost"
+    }
+  ],
+  "bild_datei": "Müll.webp",
+  "audio_datei": "Müll.mp3"
+}

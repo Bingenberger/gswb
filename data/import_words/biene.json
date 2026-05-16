@@ -1,0 +1,82 @@
+{
+  "lemma": "Biene",
+  "wortart": "Nomen",
+  "silben": "Bie-ne",
+  "begriffserklaerung": "Eine Biene ist ein kleines geflügeltes Insekt, das Blüten besucht, Nektar sammelt und daraus Honig herstellt.",
+  "beispielsatz": "Die Biene summt von Blume zu Blume und sammelt fleißig Nektar.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Bie-ne\" – sprich die Silben deutlich: Bie – ne.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Bien"
+  ],
+  "bild_datei": "Biene.webp",
+  "audio_datei": "Biene.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bee"
+    },
+    {
+      "language_code": "fr",
+      "translation": "abeille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نحلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bienenstock"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bienenhonig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hummel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wespe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Biene",
+    "plural": "die Bienen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Biene",
+        "genitiv": "der Biene",
+        "dativ": "der Biene",
+        "akkusativ": "die Biene"
+      },
+      "plural": {
+        "nominativ": "die Bienen",
+        "genitiv": "der Bienen",
+        "dativ": "den Bienen",
+        "akkusativ": "die Bienen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bine",
+    "Biehne",
+    "Bienne",
+    "Biiene",
+    "Bihne"
+  ]
+}

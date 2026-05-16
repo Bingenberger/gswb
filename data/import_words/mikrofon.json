@@ -1,0 +1,79 @@
+{
+  "lemma": "Mikrofon",
+  "wortart": "Nomen",
+  "silben": "Mi-kro-fon",
+  "begriffserklaerung": "Ein Mikrofon ist ein Gerät, das Töne und Stimmen aufnimmt und lauter macht. Man spricht hinein, damit alle zuhören können.",
+  "beispielsatz": "Die Sängerin hält das Mikrofon fest und singt ihr Lied.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Mi-kro-fon. Denk daran: Am Ende steht „fon\", nicht „phon\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mikrofon"
+  ],
+  "bild_datei": "Mikrofon.webp",
+  "audio_datei": "Mikrofon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "microphone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "microphone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mikrofon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميكروفون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mikro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lautsprecher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufnahme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mikrofon",
+    "plural": "die Mikrofone",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mikrofon",
+        "genitiv": "des Mikrofons",
+        "dativ": "dem Mikrofon",
+        "akkusativ": "das Mikrofon"
+      },
+      "plural": {
+        "nominativ": "die Mikrofone",
+        "genitiv": "der Mikrofone",
+        "dativ": "den Mikrofonen",
+        "akkusativ": "die Mikrofone"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Microfon",
+    "Mikrophon",
+    "Mikrophone",
+    "Microphon",
+    "Mikkrofon",
+    "Mikrofohn"
+  ]
+}

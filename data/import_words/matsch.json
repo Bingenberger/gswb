@@ -1,0 +1,86 @@
+{
+  "lemma": "Matsch",
+  "wortart": "Nomen",
+  "silben": "Matsch",
+  "begriffserklaerung": "Matsch ist eine weiche, feuchte Masse aus Erde und Wasser, die entsteht, wenn es viel geregnet hat.",
+  "beispielsatz": "Nach dem Regen hüpfte Lisa durch den Matsch und bekam ganz dreckige Stiefel.",
+  "rechtschreibstrategie": "Das Wort „Matsch\" hat nach dem kurzen „a\" zwei Konsonanten: t und sch. Sprich es laut: Matsch – du hörst, wie kurz das „a\" klingt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "matsch"
+  ],
+  "bild_datei": "Matsch.webp",
+  "audio_datei": "Matsch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mud"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çamur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وَحْل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "matschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "matschig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Matsch",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Matsch",
+        "genitiv": "des Matsches",
+        "dativ": "dem Matsch",
+        "akkusativ": "den Matsch"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maatsch",
+    "Madsch",
+    "Matsh",
+    "Mätsch",
+    "Matc"
+  ]
+}

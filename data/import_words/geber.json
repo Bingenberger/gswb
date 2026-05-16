@@ -1,0 +1,82 @@
+{
+  "lemma": "Geber",
+  "wortart": "Nomen",
+  "silben": "Ge-ber",
+  "begriffserklaerung": "Ein Geber ist jemand, der etwas verschenkt oder weitergibt, zum Beispiel ein Geschenk oder Geld.",
+  "beispielsatz": "Der großzügige Geber schenkte jedem Kind ein Buch.",
+  "rechtschreibstrategie": "Denk an das Verb „geben\" – ein Geber ist jemand, der gibt. Das „e\" in der Mitte schreibt man genauso wie in „geben\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "geb"
+  ],
+  "bild_datei": "Geber.webp",
+  "audio_datei": "Geber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "giver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "donneur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "veren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مانح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geber",
+    "plural": "die Geber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geber",
+        "genitiv": "des Gebers",
+        "dativ": "dem Geber",
+        "akkusativ": "den Geber"
+      },
+      "plural": {
+        "nominativ": "die Geber",
+        "genitiv": "der Geber",
+        "dativ": "den Gebern",
+        "akkusativ": "die Geber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geeber",
+    "Gäber",
+    "Geebber",
+    "Gebber",
+    "Gieber"
+  ]
+}

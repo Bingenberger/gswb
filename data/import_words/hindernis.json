@@ -1,0 +1,82 @@
+{
+  "lemma": "Hindernis",
+  "wortart": "Nomen",
+  "silben": "Hin-der-nis",
+  "begriffserklaerung": "Ein Hindernis ist etwas, das im Weg steht oder es schwer macht, weiterzukommen.",
+  "beispielsatz": "Der umgefallene Baum war ein großes Hindernis auf dem Weg.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Hin-der-nis. Achte auf das kurze „i\" am Anfang – danach kommt kein Doppelkonsonant, also merke dir einfach: H-i-n-d-e-r-n-i-s.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hindern"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hindernis",
+    "plural": "die Hindernisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hindernis",
+        "genitiv": "des Hindernisses",
+        "dativ": "dem Hindernis",
+        "akkusativ": "das Hindernis"
+      },
+      "plural": {
+        "nominativ": "die Hindernisse",
+        "genitiv": "der Hindernisse",
+        "dativ": "den Hindernissen",
+        "akkusativ": "die Hindernisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hindernniss",
+    "Hinderniss",
+    "Hinderniß",
+    "Hindernnis",
+    "Hinternis"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hindern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Behinderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hürde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sperre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Barrikade"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "obstacle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "obstacle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "engel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقبة"
+    }
+  ],
+  "bild_datei": "Hindernis.webp",
+  "audio_datei": "Hindernis.mp3"
+}

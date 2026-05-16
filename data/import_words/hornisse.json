@@ -1,0 +1,72 @@
+{
+  "lemma": "Hornisse",
+  "wortart": "Nomen",
+  "silben": "Hor-nis-se",
+  "begriffserklaerung": "Eine Hornisse ist ein großes, gestreiftes Insekt, das wie eine Wespe aussieht, aber viel größer ist. Hornissen bauen Nester aus Holzfasern und stechen nur, wenn sie sich bedroht fühlen.",
+  "beispielsatz": "Die Hornisse fliegt summend um den alten Baum herum.",
+  "rechtschreibstrategie": "Schreibe am Ende „-isse\" – denk an das doppelte s wie bei „Nisse\". Das Wort hat drei Silben: Hor-nis-se.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hornisse",
+    "plural": "die Hornissen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hornisse",
+        "genitiv": "der Hornisse",
+        "dativ": "der Hornisse",
+        "akkusativ": "die Hornisse"
+      },
+      "plural": {
+        "nominativ": "die Hornissen",
+        "genitiv": "der Hornissen",
+        "dativ": "den Hornissen",
+        "akkusativ": "die Hornissen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hornise",
+    "Horniße",
+    "Hornißse",
+    "Hornisse",
+    "Harnisse"
+  ],
+  "bild_datei": "Hornisse.webp",
+  "audio_datei": "Hornisse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hornet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frelon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eşekarısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دبور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wespe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    }
+  ]
+}

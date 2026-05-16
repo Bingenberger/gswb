@@ -1,0 +1,74 @@
+{
+  "lemma": "Controller",
+  "wortart": "Nomen",
+  "silben": "Con-trol-ler",
+  "begriffserklaerung": "Ein Controller ist ein Gerät mit Knöpfen und Hebeln, mit dem man Videospiele steuert. Man hält ihn in den Händen und drückt die Tasten, um Figuren im Spiel zu bewegen.",
+  "beispielsatz": "Lena nimmt den Controller und steuert ihre Spielfigur durch das Abenteuer.",
+  "rechtschreibstrategie": "Das Wort „Controller\" kommt aus dem Englischen. Achte auf das doppelte „l\" in der Mitte – sprich es laut mit: Con-trol-ler!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "control"
+  ],
+  "bild_datei": "Controller.webp",
+  "audio_datei": "Controller.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Controller",
+    "plural": "die Controller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Controller",
+        "genitiv": "des Controllers",
+        "dativ": "dem Controller",
+        "akkusativ": "den Controller"
+      },
+      "plural": {
+        "nominativ": "die Controller",
+        "genitiv": "der Controller",
+        "dativ": "den Controllern",
+        "akkusativ": "die Controller"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "controller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kontrolcü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحدة التحكم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Videospiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konsole"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joystick"
+    }
+  ],
+  "fehlschreibungen": [
+    "Controler",
+    "Kontroler",
+    "Contröller",
+    "Conntroller",
+    "Cotroller"
+  ]
+}

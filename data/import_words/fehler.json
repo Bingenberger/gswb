@@ -1,0 +1,86 @@
+{
+  "lemma": "Fehler",
+  "wortart": "Nomen",
+  "silben": "Feh-ler",
+  "begriffserklaerung": "Ein Fehler ist etwas, das falsch gemacht oder falsch geschrieben wurde.",
+  "beispielsatz": "In meinem Aufsatz hatte ich nur einen Fehler.",
+  "rechtschreibstrategie": "Das Wort „Fehler\" hat ein Dehnungs-h nach dem „e\": F-E-H-L-E-R. Das „h\" sprichst du nicht, aber du musst es schreiben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fehl"
+  ],
+  "bild_datei": "Fehler.webp",
+  "audio_datei": "Fehler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mistake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "erreur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hata"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطأ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fehlerhaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fehlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Irrtum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schularbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Korrektur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fehler",
+    "plural": "die Fehler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fehler",
+        "genitiv": "des Fehlers",
+        "dativ": "dem Fehler",
+        "akkusativ": "den Fehler"
+      },
+      "plural": {
+        "nominativ": "die Fehler",
+        "genitiv": "der Fehler",
+        "dativ": "den Fehlern",
+        "akkusativ": "die Fehler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feler",
+    "Feeler",
+    "Feheler",
+    "Fähler",
+    "Fehlar"
+  ]
+}

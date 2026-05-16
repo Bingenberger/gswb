@@ -1,0 +1,83 @@
+{
+  "lemma": "Raubtier",
+  "wortart": "Nomen",
+  "silben": "Raub-tier",
+  "begriffserklaerung": "Ein Raubtier ist ein Tier, das andere Tiere jagt und frisst. Es hat oft scharfe Zähne und Krallen.",
+  "beispielsatz": "Der Löwe ist ein starkes Raubtier, das in der Savanne lebt.",
+  "rechtschreibstrategie": "„Raubtier\" ist ein zusammengesetztes Wort aus „Raub\" und „Tier\". Sprich beide Teile einzeln: RAUB + TIER – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Raub",
+    "Tier"
+  ],
+  "bild_datei": "Raubtier.webp",
+  "audio_datei": "Raubtier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "predator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animal prédateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yırtıcı hayvan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان مفترس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raub"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildtier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Raubtier",
+    "plural": "die Raubtiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Raubtier",
+        "genitiv": "des Raubtiers",
+        "dativ": "dem Raubtier",
+        "akkusativ": "das Raubtier"
+      },
+      "plural": {
+        "nominativ": "die Raubtiere",
+        "genitiv": "der Raubtiere",
+        "dativ": "den Raubtieren",
+        "akkusativ": "die Raubtiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raubtier",
+    "Raubtir",
+    "Raubthier",
+    "Rawbtier",
+    "Raubtear"
+  ]
+}

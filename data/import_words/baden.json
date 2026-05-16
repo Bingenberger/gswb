@@ -1,0 +1,98 @@
+{
+  "lemma": "baden",
+  "wortart": "Verb",
+  "silben": "ba-den",
+  "begriffserklaerung": "Baden bedeutet, den ganzen Körper in einer Badewanne oder in einem See bzw. Schwimmbad zu waschen oder zu schwimmen.",
+  "beispielsatz": "Jeden Abend badet die kleine Lena in der Badewanne.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ba-den. Du hörst ein langes „a\", deshalb schreibt man nur ein „d\" – kein „dd\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bad"
+  ],
+  "bild_datei": "baden.webp",
+  "audio_datei": "baden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bathe / to take a bath"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se baigner / prendre un bain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banyo yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يستحم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Badeanzug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schwimmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "duschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "plantschen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "baden",
+    "praesens": {
+      "ich": "bade",
+      "du": "badest",
+      "er_sie_es": "badet",
+      "wir": "baden",
+      "ihr": "badet",
+      "sie": "baden"
+    },
+    "perfekt": {
+      "ich": "habe gebadet",
+      "du": "hast gebadet",
+      "er_sie_es": "hat gebadet",
+      "wir": "haben gebadet",
+      "ihr": "habt gebadet",
+      "sie": "haben gebadet"
+    },
+    "praeteritum": {
+      "ich": "badete",
+      "du": "badetest",
+      "er_sie_es": "badete",
+      "wir": "badeten",
+      "ihr": "badetet",
+      "sie": "badeten"
+    }
+  },
+  "fehlschreibungen": [
+    "badden",
+    "baaden",
+    "baten",
+    "batten",
+    "bahden"
+  ]
+}

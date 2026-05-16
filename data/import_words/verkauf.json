@@ -1,0 +1,88 @@
+{
+  "lemma": "Verkauf",
+  "wortart": "Nomen",
+  "silben": "Ver-kauf",
+  "begriffserklaerung": "Ein Verkauf ist, wenn jemand etwas gegen Geld an eine andere Person abgibt.",
+  "beispielsatz": "Der Verkauf der Bücher auf dem Schulflohmarkt war ein großer Erfolg.",
+  "rechtschreibstrategie": "Denke an das Verb „kaufen\" – daraus wird „Verkauf\". Das „au\" sprichst du deutlich, genau wie in „Haus\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "kauf"
+  ],
+  "bild_datei": "Verkauf.webp",
+  "audio_datei": "Verkauf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkauf",
+    "plural": "die Verkäufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkauf",
+        "genitiv": "des Verkaufs",
+        "dativ": "dem Verkauf",
+        "akkusativ": "den Verkauf"
+      },
+      "plural": {
+        "nominativ": "die Verkäufe",
+        "genitiv": "der Verkäufe",
+        "dativ": "den Verkäufen",
+        "akkusativ": "die Verkäufe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käufer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferkauf",
+    "Verkauph",
+    "Verkauf",
+    "Vercauf",
+    "Färkauf",
+    "Verkauv"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Vorleser",
+  "wortart": "Nomen",
+  "silben": "Vor-le-ser",
+  "begriffserklaerung": "Ein Vorleser ist eine Person, die anderen Menschen laut aus einem Buch oder Text vorliest.",
+  "beispielsatz": "Der Vorleser in unserer Klasse las uns jeden Morgen eine spannende Geschichte vor.",
+  "rechtschreibstrategie": "Das Wort „Vorleser\" besteht aus zwei Teilen: „vor\" und „lesen\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig: VOR-LESER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lesen",
+    "vor"
+  ],
+  "bild_datei": "Vorleser.webp",
+  "audio_datei": "Vorleser.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vorleser",
+    "plural": "die Vorleser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vorleser",
+        "genitiv": "des Vorlesers",
+        "dativ": "dem Vorleser",
+        "akkusativ": "den Vorleser"
+      },
+      "plural": {
+        "nominativ": "die Vorleser",
+        "genitiv": "der Vorleser",
+        "dativ": "den Vorlesern",
+        "akkusativ": "die Vorleser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reader (aloud)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lecteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sesli okuyucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارئ بصوت عالٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vorleserin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vorlesen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erzähler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fohrleser",
+    "Vorläser",
+    "Vorrleser",
+    "Forleser",
+    "Vohrleser"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "Schornstein",
+  "wortart": "Nomen",
+  "silben": "Schorn-stein",
+  "begriffserklaerung": "Ein Schornstein ist ein langer Kanal aus Stein oder Metall, der den Rauch vom Feuer nach oben durch das Dach nach draußen leitet.",
+  "beispielsatz": "Aus dem Schornstein des alten Hauses steigt dicker, grauer Rauch auf.",
+  "rechtschreibstrategie": "Das Wort „Schornstein\" besteht aus zwei Teilen: „Schorn\" und „Stein\". Sprich beide Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stein"
+  ],
+  "bild_datei": "Schornstein.webp",
+  "audio_datei": "Schornstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chimney"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cheminée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baca"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدخنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dach"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schornstein",
+    "plural": "die Schornsteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schornstein",
+        "genitiv": "des Schornsteins",
+        "dativ": "dem Schornstein",
+        "akkusativ": "den Schornstein"
+      },
+      "plural": {
+        "nominativ": "die Schornsteine",
+        "genitiv": "der Schornsteine",
+        "dativ": "den Schornsteinen",
+        "akkusativ": "die Schornsteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schornsten",
+    "Schonstain",
+    "Schornstain",
+    "Schorstein",
+    "Schornsteing",
+    "Schorrnstein"
+  ]
+}

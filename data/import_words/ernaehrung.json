@@ -1,0 +1,90 @@
+{
+  "lemma": "Ernährung",
+  "wortart": "Nomen",
+  "silben": "Er-näh-rung",
+  "begriffserklaerung": "Die Ernährung ist alles, was wir essen und trinken, damit unser Körper gesund bleibt und wächst.",
+  "beispielsatz": "Eine gesunde Ernährung mit viel Obst und Gemüse hält uns fit und stark.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Er-näh-rung – das „h\" nach dem „ä\" macht den Vokal lang, man hört es aber nicht.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "nähren",
+    "Nahrung"
+  ],
+  "bild_datei": "Ernährung.webp",
+  "audio_datei": "Ernährung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ernährung",
+    "plural": "die Ernährungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ernährung",
+        "genitiv": "der Ernährung",
+        "dativ": "der Ernährung",
+        "akkusativ": "die Ernährung"
+      },
+      "plural": {
+        "nominativ": "die Ernährungen",
+        "genitiv": "der Ernährungen",
+        "dativ": "den Ernährungen",
+        "akkusativ": "die Ernährungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nutrition / diet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "alimentation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beslenme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغذية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nähren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nahrung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lebensmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ernärung",
+    "Ernehring",
+    "Ernähruhng",
+    "Ernärhrung",
+    "Ernärhung",
+    "Ernähruing"
+  ]
+}

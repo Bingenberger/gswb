@@ -1,0 +1,90 @@
+{
+  "lemma": "Lautstärke",
+  "wortart": "Nomen",
+  "silben": "Laut-stär-ke",
+  "begriffserklaerung": "Die Lautstärke sagt uns, wie laut oder leise ein Geräusch, ein Ton oder eine Stimme ist.",
+  "beispielsatz": "Bitte dreh die Lautstärke des Fernsehers etwas leiser, damit das Baby schlafen kann!",
+  "rechtschreibstrategie": "„Lautstärke\" ist ein zusammengesetztes Wort aus „laut\" und „Stärke\". Schreibe beide Teile einfach zusammen: laut + Stärke = Lautstärke. Das ä in „Stärke\" erkennst du, wenn du an das verwandte Wort „stark\" denkst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "laut",
+    "stark"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lautstärke",
+    "plural": "die Lautstärken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lautstärke",
+        "genitiv": "der Lautstärke",
+        "dativ": "der Lautstärke",
+        "akkusativ": "die Lautstärke"
+      },
+      "plural": {
+        "nominativ": "die Lautstärken",
+        "genitiv": "der Lautstärken",
+        "dativ": "den Lautstärken",
+        "akkusativ": "die Lautstärken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lautsterke",
+    "Lautstercke",
+    "Lautstärke",
+    "Loutstärke",
+    "Lautstärck",
+    "Lautshtärke",
+    "Laustärke"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "volume / loudness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "volume / intensité sonore"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses seviyesi / ses şiddeti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستوى الصوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stärke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lautstärkepegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    }
+  ],
+  "bild_datei": "Lautstärke.webp",
+  "audio_datei": "Lautstärke.mp3"
+}

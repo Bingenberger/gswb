@@ -1,0 +1,73 @@
+{
+  "lemma": "Spargel",
+  "wortart": "Nomen",
+  "silben": "Spar-gel",
+  "begriffserklaerung": "Der Spargel ist ein Gemüse mit langen, dünnen Stangen. Er wächst im Frühling und schmeckt leicht bitter. Man kann ihn kochen und essen.",
+  "beispielsatz": "Mama kocht heute weißen Spargel mit Kartoffeln zum Mittagessen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Spar-gel. Du hörst zwei Silben. Das „g\" am Ende der zweiten Silbe klingt weich – schreibe es einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Spargel"
+  ],
+  "bild_datei": "Spargel.webp",
+  "audio_datei": "Spargel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "asparagus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "asperge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuşkonmaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هليون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Möhre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brokkoli"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spargel",
+    "plural": "die Spargel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spargel",
+        "genitiv": "des Spargels",
+        "dativ": "dem Spargel",
+        "akkusativ": "den Spargel"
+      },
+      "plural": {
+        "nominativ": "die Spargel",
+        "genitiv": "der Spargel",
+        "dativ": "den Spargeln",
+        "akkusativ": "die Spargel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spargell",
+    "Spargal",
+    "Spargäl",
+    "Zpargel"
+  ]
+}

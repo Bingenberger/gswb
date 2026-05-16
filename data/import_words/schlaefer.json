@@ -1,0 +1,84 @@
+{
+  "lemma": "Schläfer",
+  "wortart": "Nomen",
+  "silben": "Schlä-fer",
+  "begriffserklaerung": "Ein Schläfer ist jemand, der gerade schläft oder der sehr gerne und viel schläft.",
+  "beispielsatz": "Mein kleiner Bruder ist ein echter Schläfer – er schläft jeden Morgen bis neun Uhr!",
+  "rechtschreibstrategie": "Denke an das Wort „schlafen\" – daraus wird „Schläfer\". Das Ä hörst du beim Verlängern: schla-fen → Schläfer.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlaf",
+    "schläf"
+  ],
+  "bild_datei": "Schläfer.webp",
+  "audio_datei": "Schläfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sleeper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dormeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyuyan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نائم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Langschläfer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schläfer",
+    "plural": "die Schläfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schläfer",
+        "genitiv": "des Schläfers",
+        "dativ": "dem Schläfer",
+        "akkusativ": "den Schläfer"
+      },
+      "plural": {
+        "nominativ": "die Schläfer",
+        "genitiv": "der Schläfer",
+        "dativ": "den Schläfern",
+        "akkusativ": "die Schläfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlefer",
+    "Schläffer",
+    "Schläfer",
+    "Sschläfer",
+    "Schleäfer",
+    "Schlääfer"
+  ]
+}

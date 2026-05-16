@@ -1,0 +1,81 @@
+{
+  "lemma": "Leine",
+  "wortart": "Nomen",
+  "silben": "Lei-ne",
+  "begriffserklaerung": "Eine Leine ist ein langes, dünnes Seil oder Band. Man benutzt sie zum Beispiel, um einen Hund festzuhalten oder Wäsche zum Trocknen aufzuhängen.",
+  "beispielsatz": "Mia hält ihren Hund fest an der Leine, damit er nicht wegläuft.",
+  "rechtschreibstrategie": "Das Wort „Leine\" hat ein langes „ei\" – sprich es laut: „Lei-ne\". Nach dem „ei\" kommt nur ein „n\", kein Doppel-n.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Lein"
+  ],
+  "bild_datei": "Leine.webp",
+  "audio_datei": "Leine.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leine",
+    "plural": "die Leinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leine",
+        "genitiv": "der Leine",
+        "dativ": "der Leine",
+        "akkusativ": "die Leine"
+      },
+      "plural": {
+        "nominativ": "die Leinen",
+        "genitiv": "der Leinen",
+        "dativ": "den Leinen",
+        "akkusativ": "die Leinen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leash / line"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laisse / corde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tasma / ip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حبل / مقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anleinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hundeleine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Seil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Leinne",
+    "Laine",
+    "Leiene",
+    "Leina"
+  ]
+}

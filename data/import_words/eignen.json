@@ -1,0 +1,95 @@
+{
+  "lemma": "eignen",
+  "wortart": "Verb",
+  "silben": "eig-nen",
+  "begriffserklaerung": "Wenn sich etwas für einen bestimmten Zweck eignet, dann passt es genau dafür oder ist gut dafür geeignet.",
+  "beispielsatz": "Dieses Buch eignet sich gut zum Vorlesen für kleine Kinder.",
+  "rechtschreibstrategie": "Das Wort „eignen\" enthält den Doppelvokal „ei\". Denk daran: ei – wie in „Ei\" – sprichst du als langen Laut, ohne Dehnungs-h.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "eigen"
+  ],
+  "bild_datei": "eignen.webp",
+  "audio_datei": "eignen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be suitable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "convenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uygun olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكون مناسبًا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geeignet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "passen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "taugen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nutzen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "eignen",
+    "praesens": {
+      "ich": "eigne",
+      "du": "eignest",
+      "er_sie_es": "eignet",
+      "wir": "eignen",
+      "ihr": "eignet",
+      "sie": "eignen"
+    },
+    "perfekt": {
+      "ich": "habe geeignet",
+      "du": "hast geeignet",
+      "er_sie_es": "hat geeignet",
+      "wir": "haben geeignet",
+      "ihr": "habt geeignet",
+      "sie": "haben geeignet"
+    },
+    "praeteritum": {
+      "ich": "eignete",
+      "du": "eignetest",
+      "er_sie_es": "eignete",
+      "wir": "eigneten",
+      "ihr": "eignetet",
+      "sie": "eigneten"
+    }
+  },
+  "fehlschreibungen": [
+    "eigenen",
+    "eignen",
+    "aygnen",
+    "eignnen",
+    "eingnen",
+    "eignent"
+  ]
+}

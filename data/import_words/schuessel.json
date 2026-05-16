@@ -1,0 +1,72 @@
+{
+  "lemma": "Schüssel",
+  "wortart": "Nomen",
+  "silben": "Schüs-sel",
+  "begriffserklaerung": "Eine Schüssel ist ein rundes, tiefes Gefäß, das man zum Aufbewahren oder Servieren von Speisen benutzt.",
+  "beispielsatz": "Mama rührt den Teig in einer großen Schüssel.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" verdoppelt sich das „s\" zu „ss\" – sprich laut mit: Schüs-sel!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Schüssel.webp",
+  "audio_datei": "Schüssel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schüssel",
+    "plural": "die Schüsseln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schüssel",
+        "genitiv": "der Schüssel",
+        "dativ": "der Schüssel",
+        "akkusativ": "die Schüssel"
+      },
+      "plural": {
+        "nominativ": "die Schüsseln",
+        "genitiv": "der Schüsseln",
+        "dativ": "den Schüsseln",
+        "akkusativ": "die Schüsseln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bowl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kâse"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schale"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schüsel",
+    "Schüßel",
+    "Schüsssel",
+    "Schüzzel",
+    "Schüsell"
+  ]
+}

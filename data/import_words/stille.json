@@ -1,0 +1,86 @@
+{
+  "lemma": "Stille",
+  "wortart": "Nomen",
+  "silben": "Stil-le",
+  "begriffserklaerung": "Die Stille bedeutet, dass es ganz ruhig ist und man fast keinen Lärm hört.",
+  "beispielsatz": "In der Nacht herrscht eine tiefe Stille im Wald.",
+  "rechtschreibstrategie": "Das Wort „Stille\" hat zwei l, weil der Vokal i kurz gesprochen wird. Kurzer Vokal → Doppelkonsonant: Stil-le.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stille",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stille",
+        "genitiv": "der Stille",
+        "dativ": "der Stille",
+        "akkusativ": "die Stille"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "still"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "still"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stillen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ruhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frieden"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stile",
+    "Stielle",
+    "Sthille",
+    "Stille",
+    "Shtille"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "silence"
+    },
+    {
+      "language_code": "fr",
+      "translation": "silence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sessizlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صمت"
+    }
+  ],
+  "bild_datei": "Stille.webp",
+  "audio_datei": "Stille.mp3"
+}

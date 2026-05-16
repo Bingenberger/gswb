@@ -1,0 +1,87 @@
+{
+  "lemma": "Planung",
+  "wortart": "Nomen",
+  "silben": "Pla-nung",
+  "begriffserklaerung": "Eine Planung ist, wenn man vorher überlegt, was man tun möchte und wie man es am besten macht.",
+  "beispielsatz": "Mit guter Planung wird das Schulfest ein voller Erfolg!",
+  "rechtschreibstrategie": "Denk an das Verb „planen\" – daraus wird „Planung\". Das „ng\" am Ende sprichst du wie in „singen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "plan"
+  ],
+  "bild_datei": "Planung.webp",
+  "audio_datei": "Planung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Planung",
+    "plural": "die Planungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Planung",
+        "genitiv": "der Planung",
+        "dativ": "der Planung",
+        "akkusativ": "die Planung"
+      },
+      "plural": {
+        "nominativ": "die Planungen",
+        "genitiv": "der Planungen",
+        "dativ": "den Planungen",
+        "akkusativ": "die Planungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "planning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planification"
+    },
+    {
+      "language_code": "tr",
+      "translation": "planlama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تخطيط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "planen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorbereitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Organisation"
+    }
+  ],
+  "fehlschreibungen": [
+    "Plannung",
+    "Plahnng",
+    "Planuing",
+    "Plamung",
+    "Plahnug"
+  ]
+}

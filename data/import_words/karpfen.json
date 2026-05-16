@@ -1,0 +1,72 @@
+{
+  "lemma": "Karpfen",
+  "wortart": "Nomen",
+  "silben": "Karp-fen",
+  "begriffserklaerung": "Ein Karpfen ist ein großer Süßwasserfisch mit goldbraunen Schuppen. Er lebt in Seen und langsamen Flüssen und kann sehr alt werden.",
+  "beispielsatz": "Im Teich schwimmt ein dicker Karpfen zwischen den Wasserpflanzen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Karp-fen. Du hörst das „p\" und das „f\" – schreib beide genau so, wie du sie hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Karpfen.webp",
+  "audio_datei": "Karpfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sazan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمكة الشبوط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Karpfen",
+    "plural": "die Karpfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Karpfen",
+        "genitiv": "des Karpfens",
+        "dativ": "dem Karpfen",
+        "akkusativ": "den Karpfen"
+      },
+      "plural": {
+        "nominativ": "die Karpfen",
+        "genitiv": "der Karpfen",
+        "dativ": "den Karpfen",
+        "akkusativ": "die Karpfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Carpfen",
+    "Karfen",
+    "Karpffen",
+    "Karphen",
+    "Karbfen"
+  ]
+}

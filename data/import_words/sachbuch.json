@@ -1,0 +1,83 @@
+{
+  "lemma": "Sachbuch",
+  "wortart": "Nomen",
+  "silben": "Sach-buch",
+  "begriffserklaerung": "Ein Sachbuch ist ein Buch, das echte Dinge und Fakten erklärt – zum Beispiel über Tiere, Weltall oder Geschichte.",
+  "beispielsatz": "In der Bücherei habe ich ein spannendes Sachbuch über Dinosaurier gefunden.",
+  "rechtschreibstrategie": "„Sachbuch\" besteht aus zwei Bausteinen: „Sach\" und „Buch\". Sprich beide Teile laut: Sach – Buch. So schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sach",
+    "Buch"
+  ],
+  "bild_datei": "Sachbuch.webp",
+  "audio_datei": "Sachbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "non-fiction book"
+    },
+    {
+      "language_code": "fr",
+      "translation": "livre documentaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilim kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب معلوماتي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roman"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lexikon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sachbuch",
+    "plural": "die Sachbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sachbuch",
+        "genitiv": "des Sachbuches",
+        "dativ": "dem Sachbuch",
+        "akkusativ": "das Sachbuch"
+      },
+      "plural": {
+        "nominativ": "die Sachbücher",
+        "genitiv": "der Sachbücher",
+        "dativ": "den Sachbüchern",
+        "akkusativ": "die Sachbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sachbuchs",
+    "Zachbuch",
+    "Sachbuhch",
+    "Sackbuch",
+    "Sachbucch"
+  ]
+}

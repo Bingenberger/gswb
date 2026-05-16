@@ -1,0 +1,81 @@
+{
+  "lemma": "Herr",
+  "wortart": "Nomen",
+  "silben": "Herr",
+  "begriffserklaerung": "Ein Herr ist ein Mann, dem man mit Respekt begegnet. Das Wort benutzt man auch als Anrede vor dem Namen eines Mannes, zum Beispiel „Herr Müller\".",
+  "beispielsatz": "Unser Lehrer heißt Herr Schmidt und erklärt uns alles ganz genau.",
+  "rechtschreibstrategie": "„Herr\" endet auf -rr – das doppelte r zeigt, dass der Vokal davor kurz gesprochen wird. Merke: Doppel-r am Ende!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Herr"
+  ],
+  "bild_datei": "Herr.webp",
+  "audio_datei": "Herr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mister / sir"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monsieur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bay / efendi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيد (sayyid)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "herrlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herrschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dame"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Herr",
+    "plural": "die Herren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Herr",
+        "genitiv": "des Herrn",
+        "dativ": "dem Herrn",
+        "akkusativ": "den Herrn"
+      },
+      "plural": {
+        "nominativ": "die Herren",
+        "genitiv": "der Herren",
+        "dativ": "den Herren",
+        "akkusativ": "die Herren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Her",
+    "Hehr",
+    "Herr",
+    "Heer"
+  ]
+}

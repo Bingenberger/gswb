@@ -1,0 +1,85 @@
+{
+  "lemma": "Sichtbarkeit",
+  "wortart": "Nomen",
+  "silben": "Sicht-bar-keit",
+  "begriffserklaerung": "Die Sichtbarkeit sagt, wie gut man etwas sehen kann. Bei hellem Wetter ist die Sichtbarkeit gut – man kann weit schauen. Bei Nebel ist die Sichtbarkeit schlecht.",
+  "beispielsatz": "Bei Nebel ist die Sichtbarkeit so schlecht, dass man kaum die Hand vor Augen sieht.",
+  "rechtschreibstrategie": "Das Wort „Sichtbarkeit\" besteht aus drei Bausteinen: „sicht\" + „bar\" + „keit\". Sprich alle drei Teile laut mit und schreibe sie zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sehen",
+    "sicht"
+  ],
+  "bild_datei": "Sichtbarkeit.webp",
+  "audio_datei": "Sichtbarkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sichtbarkeit",
+    "plural": "die Sichtbarkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sichtbarkeit",
+        "genitiv": "der Sichtbarkeit",
+        "dativ": "der Sichtbarkeit",
+        "akkusativ": "die Sichtbarkeit"
+      },
+      "plural": {
+        "nominativ": "die Sichtbarkeiten",
+        "genitiv": "der Sichtbarkeiten",
+        "dativ": "den Sichtbarkeiten",
+        "akkusativ": "die Sichtbarkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "visibility"
+    },
+    {
+      "language_code": "fr",
+      "translation": "visibilité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görünürlük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الرؤية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sichtbar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erkennbarkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sichtbarkheit",
+    "Sichtbarkeit",
+    "Sichbarkeit",
+    "Sichtbarket",
+    "Sichtbarkait",
+    "Sichtbarkeid"
+  ]
+}

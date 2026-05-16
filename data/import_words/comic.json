@@ -1,0 +1,72 @@
+{
+  "lemma": "Comic",
+  "wortart": "Nomen",
+  "silben": "Co-mic",
+  "begriffserklaerung": "Ein Comic ist eine Geschichte, die in Bildern erzählt wird. Die Figuren sprechen meist in Sprechblasen.",
+  "beispielsatz": "Mein Lieblings-Comic handelt von einem mutigen Superhelden.",
+  "rechtschreibstrategie": "„Comic\" kommt aus dem Englischen und wird mit C am Anfang geschrieben – nicht mit K. Denk daran: C-o-m-i-c!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Comic.webp",
+  "audio_datei": "Comic.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "comic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bande dessinée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizgi roman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قصة مصورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildgeschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Manga"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bildgeschichte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Comic",
+    "plural": "die Comics",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Comic",
+        "genitiv": "des Comics",
+        "dativ": "dem Comic",
+        "akkusativ": "den Comic"
+      },
+      "plural": {
+        "nominativ": "die Comics",
+        "genitiv": "der Comics",
+        "dativ": "den Comics",
+        "akkusativ": "die Comics"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Komik",
+    "Komick",
+    "Comick",
+    "Komic",
+    "Comik"
+  ]
+}

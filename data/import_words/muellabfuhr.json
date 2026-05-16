@@ -1,0 +1,88 @@
+{
+  "lemma": "Müllabfuhr",
+  "wortart": "Nomen",
+  "silben": "Müll-ab-fuhr",
+  "begriffserklaerung": "Die Müllabfuhr ist ein Dienst, der regelmäßig den Müll aus Tonnen und Behältern abholt und wegbringt.",
+  "beispielsatz": "Jeden Dienstag kommt die Müllabfuhr und leert unsere Mülltonne.",
+  "rechtschreibstrategie": "„Müllabfuhr\" ist ein zusammengesetztes Wort aus „Müll\" und „Abfuhr\". Das „ll\" in „Müll\" schreibst du doppelt, weil der Vokal davor kurz gesprochen wird. Sprich beide Teile laut: MÜLL – AB – FUHR!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Fuhr"
+  ],
+  "bild_datei": "Müllabfuhr.webp",
+  "audio_datei": "Müllabfuhr.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Müllabfuhr",
+    "plural": "die Müllabfuhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Müllabfuhr",
+        "genitiv": "der Müllabfuhr",
+        "dativ": "der Müllabfuhr",
+        "akkusativ": "die Müllabfuhr"
+      },
+      "plural": {
+        "nominativ": "die Müllabfuhren",
+        "genitiv": "der Müllabfuhren",
+        "dativ": "den Müllabfuhren",
+        "akkusativ": "die Müllabfuhren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage collection / refuse collection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ramassage des ordures"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp toplama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جمع القمامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abfuhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müllwagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müllentsorgung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mülabfuhr",
+    "Müllabfur",
+    "Mülabfur",
+    "Müllabfuhr",
+    "Müllapfuhr"
+  ]
+}

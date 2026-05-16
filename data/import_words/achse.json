@@ -1,0 +1,82 @@
+{
+  "lemma": "Achse",
+  "wortart": "Nomen",
+  "silben": "Ach-se",
+  "begriffserklaerung": "Eine Achse ist eine gerade Stange oder Linie, um die sich etwas dreht – zum Beispiel die Räder eines Autos oder Fahrrads.",
+  "beispielsatz": "Das Rad dreht sich auf der Achse.",
+  "rechtschreibstrategie": "Denk an das „ch\" nach dem „A\" – sprich es deutlich: „Ach-se\". Das „ch\" hörst du, wenn du es laut sagst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Achs"
+  ],
+  "bild_datei": "Achse.webp",
+  "audio_datei": "Achse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "axle / axis"
+    },
+    {
+      "language_code": "fr",
+      "translation": "axe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aks / eksen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِحْوَر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Achslast"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Achsabstand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Drehachse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Achse",
+    "plural": "die Achsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Achse",
+        "genitiv": "der Achse",
+        "dativ": "der Achse",
+        "akkusativ": "die Achse"
+      },
+      "plural": {
+        "nominativ": "die Achsen",
+        "genitiv": "der Achsen",
+        "dativ": "den Achsen",
+        "akkusativ": "die Achsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Akse",
+    "Axe",
+    "Achs",
+    "Achße",
+    "Aksse"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Haare waschen",
+  "wortart": "Verb",
+  "silben": "Haa-re wa-schen",
+  "begriffserklaerung": "Haare waschen bedeutet, die Haare mit Wasser und Shampoo zu reinigen, damit sie sauber und frisch sind.",
+  "beispielsatz": "Jeden Abend wäscht Mama mir die Haare, damit sie schön sauber sind.",
+  "rechtschreibstrategie": "Bei „Haare\" schreibst du zwei a hintereinander, weil man das „a\" lang spricht. Bei „waschen\" hörst du das sch deutlich – sprich es laut mit: wa-schen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Haar",
+    "wasch"
+  ],
+  "bild_datei": "Haare waschen.webp",
+  "audio_datei": "Haare waschen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "Haare waschen",
+    "praesens": {
+      "ich": "ich wasche (mir/jemandem) die Haare",
+      "du": "du wäschst (dir/jemandem) die Haare",
+      "er_sie_es": "er/sie/es wäscht (sich/jemandem) die Haare",
+      "wir": "wir waschen (uns/jemandem) die Haare",
+      "ihr": "ihr wascht (euch/jemandem) die Haare",
+      "sie": "sie waschen (sich/jemandem) die Haare"
+    },
+    "perfekt": {
+      "ich": "ich habe (mir/jemandem) die Haare gewaschen",
+      "du": "du hast (dir/jemandem) die Haare gewaschen",
+      "er_sie_es": "er/sie/es hat (sich/jemandem) die Haare gewaschen",
+      "wir": "wir haben (uns/jemandem) die Haare gewaschen",
+      "ihr": "ihr habt (euch/jemandem) die Haare gewaschen",
+      "sie": "sie haben (sich/jemandem) die Haare gewaschen"
+    },
+    "praeteritum": {
+      "ich": "ich wusch (mir/jemandem) die Haare",
+      "du": "du wuschst (dir/jemandem) die Haare",
+      "er_sie_es": "er/sie/es wusch (sich/jemandem) die Haare",
+      "wir": "wir wuschen (uns/jemandem) die Haare",
+      "ihr": "ihr wuscht (euch/jemandem) die Haare",
+      "sie": "sie wuschen (sich/jemandem) die Haare"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wash (one's) hair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se laver les cheveux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç yıkamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غسل الشعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "duschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Shampoo"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haare shampoonieren"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hare waschen",
+    "Haare washen",
+    "Harre waschen",
+    "Haare wachen",
+    "Haare waaschen"
+  ]
+}

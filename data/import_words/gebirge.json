@@ -1,0 +1,84 @@
+{
+  "lemma": "Gebirge",
+  "wortart": "Nomen",
+  "silben": "Ge-bir-ge",
+  "begriffserklaerung": "Ein Gebirge ist eine große Gruppe von Bergen, die dicht beieinander liegen und zusammen eine Landschaft bilden.",
+  "beispielsatz": "Im Urlaub sind wir durch ein hohes Gebirge gewandert und haben viele Gipfel gesehen.",
+  "rechtschreibstrategie": "Das Wort „Gebirge\" beginnt mit der Vorsilbe „Ge-\". Die Mitte klingt wie „birg\" – denk ans Verb „bergen\"! Am Ende steht nochmal ein „-ge\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "berg",
+    "birg"
+  ],
+  "bild_datei": "Gebirge.webp",
+  "audio_datei": "Gebirge.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebirge",
+    "plural": "die Gebirge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebirge",
+        "genitiv": "des Gebirges",
+        "dativ": "dem Gebirge",
+        "akkusativ": "das Gebirge"
+      },
+      "plural": {
+        "nominativ": "die Gebirge",
+        "genitiv": "der Gebirge",
+        "dativ": "den Gebirgen",
+        "akkusativ": "die Gebirge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mountain range"
+    },
+    {
+      "language_code": "fr",
+      "translation": "massif montagneux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ sırası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلسلة جبال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebirgig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gebirge",
+    "Gebirke",
+    "Gebirgge",
+    "Gebirg",
+    "Gebihrge",
+    "Gebirrge"
+  ]
+}

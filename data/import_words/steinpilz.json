@@ -1,0 +1,78 @@
+{
+  "lemma": "Steinpilz",
+  "wortart": "Nomen",
+  "silben": "Stein-pilz",
+  "begriffserklaerung": "Der Steinpilz ist ein großer, essbarer Pilz mit einem dicken braunen Hut und einem hellen, festen Stiel. Er wächst im Wald und schmeckt sehr lecker.",
+  "beispielsatz": "Im Herbst haben wir im Wald einen riesigen Steinpilz gefunden!",
+  "rechtschreibstrategie": "„Steinpilz\" ist ein zusammengesetztes Wort aus „Stein\" und „Pilz\". Schreib beide Teile einfach zusammen: Stein + Pilz = Steinpilz.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pilz",
+    "Stein"
+  ],
+  "bild_datei": "Steinpilz.webp",
+  "audio_datei": "Steinpilz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Steinpilz",
+    "plural": "die Steinpilze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Steinpilz",
+        "genitiv": "des Steinpilzes",
+        "dativ": "dem Steinpilz",
+        "akkusativ": "den Steinpilz"
+      },
+      "plural": {
+        "nominativ": "die Steinpilze",
+        "genitiv": "der Steinpilze",
+        "dativ": "den Steinpilzen",
+        "akkusativ": "die Steinpilze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "porcini mushroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cèpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "porcini mantarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطر بورتشيني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pilz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfifferling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Champignon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "fehlschreibungen": [
+    "Steinpils",
+    "Steinpiz",
+    "Stainpilz",
+    "Steinpiltz"
+  ]
+}

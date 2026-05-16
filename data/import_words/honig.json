@@ -1,0 +1,82 @@
+{
+  "lemma": "Honig",
+  "wortart": "Nomen",
+  "silben": "Ho-nig",
+  "begriffserklaerung": "Honig ist eine süße, klebrige Flüssigkeit, die Bienen aus Blütennektar herstellen. Er ist goldgelb und schmeckt sehr lecker.",
+  "beispielsatz": "Ich streiche mir morgens Honig auf mein Brot.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ho-nig. Das „g\" am Ende klingt wie ein weiches „ch\" oder „g\" – merke dir: Es bleibt immer ein „g\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Honig"
+  ],
+  "bild_datei": "Honig.webp",
+  "audio_datei": "Honig.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "honey"
+    },
+    {
+      "language_code": "fr",
+      "translation": "miel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عسل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Honigbiene"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "honigsüß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marmelade"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bienenhonig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Honig",
+    "plural": "die Honige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Honig",
+        "genitiv": "des Honigs",
+        "dativ": "dem Honig",
+        "akkusativ": "den Honig"
+      },
+      "plural": {
+        "nominativ": "die Honige",
+        "genitiv": "der Honige",
+        "dativ": "den Honigen",
+        "akkusativ": "die Honige"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Honnig",
+    "Honnik",
+    "Hönig",
+    "Honich",
+    "Honing"
+  ]
+}

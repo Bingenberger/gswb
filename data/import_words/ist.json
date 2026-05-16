@@ -1,0 +1,94 @@
+{
+  "lemma": "ist",
+  "wortart": "Verb",
+  "silben": "ist",
+  "begriffserklaerung": "„Ist\" ist eine Form des Verbs „sein\". Es sagt aus, dass etwas oder jemand so ist oder sich irgendwo befindet.",
+  "beispielsatz": "Die Katze ist sehr niedlich.",
+  "rechtschreibstrategie": "Das Wort „ist\" ist kurz und klingt genau so, wie es geschrieben wird: i – s – t. Lerne es einfach auswendig!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "ist.webp",
+  "audio_datei": "ist.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "is"
+    },
+    {
+      "language_code": "fr",
+      "translation": "est"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dır / dir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هو / هي (يكون)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "war"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existiert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sind"
+    }
+  ],
+  "fehlschreibungen": [
+    "isst",
+    "ist",
+    "ißt",
+    "isd",
+    "isdt"
+  ]
+}

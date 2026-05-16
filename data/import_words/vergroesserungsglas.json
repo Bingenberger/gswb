@@ -1,0 +1,89 @@
+{
+  "lemma": "Vergrößerungsglas",
+  "wortart": "Nomen",
+  "silben": "Ver-grö-ße-rungs-glas",
+  "begriffserklaerung": "Ein Vergrößerungsglas ist ein rundes Glas mit einem Griff, durch das kleine Dinge viel größer aussehen.",
+  "beispielsatz": "Mit dem Vergrößerungsglas kann ich die kleinen Buchstaben auf dem Zettel gut lesen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „ver-größer-ung\" + „s\" + „glas\". Das ß steckt in „größer\" – denk an „groß\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "groß",
+    "Glas"
+  ],
+  "bild_datei": "Vergrößerungsglas.webp",
+  "audio_datei": "Vergrößerungsglas.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Vergrößerungsglas",
+    "plural": "die Vergrößerungsgläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vergrößerungsglas",
+        "genitiv": "des Vergrößerungsglases",
+        "dativ": "dem Vergrößerungsglas",
+        "akkusativ": "das Vergrößerungsglas"
+      },
+      "plural": {
+        "nominativ": "die Vergrößerungsgläser",
+        "genitiv": "der Vergrößerungsgläser",
+        "dativ": "den Vergrößerungsgläsern",
+        "akkusativ": "die Vergrößerungsgläser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magnifying glass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyüteç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدسة مكبِّرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "groß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lupe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikroskop"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernrohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brille"
+    }
+  ],
+  "fehlschreibungen": [
+    "Vergrösserungsglas",
+    "Vergröserungsglas",
+    "Vergrößerungsglass",
+    "Fergrößerungsglas",
+    "Vergrößerungsglaß"
+  ]
+}

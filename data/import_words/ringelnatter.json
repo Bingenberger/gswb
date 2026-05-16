@@ -1,0 +1,84 @@
+{
+  "lemma": "Ringelnatter",
+  "wortart": "Nomen",
+  "silben": "Rin-gel-nat-ter",
+  "begriffserklaerung": "Die Ringelnatter ist eine harmlose Schlange, die in Deutschland vorkommt. Sie hat meist zwei gelbe oder orangefarbene Flecken am Hals und lebt gern in der Nähe von Wasser.",
+  "beispielsatz": "Am Teich haben wir eine Ringelnatter beim Schwimmen beobachtet.",
+  "rechtschreibstrategie": "Das Wort „Ringelnatter\" ist ein zusammengesetztes Wort aus „Ringel\" und „Natter\". Denk daran: Nach dem kurzen „a\" in „Natter\" kommt ein Doppel-t!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ringel",
+    "Natter"
+  ],
+  "bild_datei": "Ringelnatter.webp",
+  "audio_datei": "Ringelnatter.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ringelnatter",
+    "plural": "die Ringelnattern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ringelnatter",
+        "genitiv": "der Ringelnatter",
+        "dativ": "der Ringelnatter",
+        "akkusativ": "die Ringelnatter"
+      },
+      "plural": {
+        "nominativ": "die Ringelnattern",
+        "genitiv": "der Ringelnattern",
+        "dativ": "den Ringelnattern",
+        "akkusativ": "die Ringelnattern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grass snake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couleuvre à collier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "halkalı yılan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثعبان العشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Natter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ringel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reptil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ringelnadder",
+    "Ringelnatther",
+    "Ringelnater",
+    "Ringelnnatter",
+    "Ringelnaatter"
+  ]
+}

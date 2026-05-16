@@ -1,0 +1,72 @@
+{
+  "lemma": "Google",
+  "wortart": "Nomen",
+  "silben": "Goo-gle",
+  "begriffserklaerung": "Google ist eine bekannte Suchmaschine im Internet. Man kann dort Fragen eingeben und findet schnell Antworten, Bilder oder Webseiten.",
+  "beispielsatz": "Mia tippt ihre Frage bei Google ein und findet sofort die passende Antwort.",
+  "rechtschreibstrategie": "Google schreibt man mit doppeltem „o\" am Anfang – wie in „Zoo\". Merke: GOO-gle, das lange „u\"-Laut kommt von den zwei o's!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Google.webp",
+  "audio_datei": "Google.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Google"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Google"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Google"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوجل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Suchmaschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "(kein Artikel)",
+    "singular": "Google",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "Google",
+        "genitiv": "Googles",
+        "dativ": "Google",
+        "akkusativ": "Google"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gugel",
+    "Gugle",
+    "Gogle",
+    "Googel",
+    "Guhgle"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Wühlmaus",
+  "wortart": "Nomen",
+  "silben": "Wühl-maus",
+  "begriffserklaerung": "Eine Wühlmaus ist ein kleines Tier, das unter der Erde lebt und dort lange Gänge gräbt. Sie frisst Wurzeln und Pflanzen.",
+  "beispielsatz": "Die Wühlmaus hat im Garten viele Tunnel gegraben.",
+  "rechtschreibstrategie": "Das Wort „Wühlmaus\" setzt sich aus zwei Teilen zusammen: „wühl-\" (von wühlen) und „Maus\". Schreibe beide Teile einfach hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wühl",
+    "Maus"
+  ],
+  "bild_datei": "Wühlmaus.webp",
+  "audio_datei": "Wühlmaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vole"
+    },
+    {
+      "language_code": "fr",
+      "translation": "campagnol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla faresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فأر الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wühlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maulwurf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Igel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wühlmaus",
+    "plural": "die Wühlmäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wühlmaus",
+        "genitiv": "der Wühlmaus",
+        "dativ": "der Wühlmaus",
+        "akkusativ": "die Wühlmaus"
+      },
+      "plural": {
+        "nominativ": "die Wühlmäuse",
+        "genitiv": "der Wühlmäuse",
+        "dativ": "den Wühlmäusen",
+        "akkusativ": "die Wühlmäuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wühlmauß",
+    "Wülmaus",
+    "Wuhlmaus",
+    "Wühlmouse",
+    "Wühlmauss"
+  ]
+}

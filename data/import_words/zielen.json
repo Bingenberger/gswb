@@ -1,0 +1,94 @@
+{
+  "lemma": "zielen",
+  "wortart": "Verb",
+  "silben": "zie-len",
+  "begriffserklaerung": "Zielen bedeutet, genau auf etwas zu richten, zum Beispiel einen Ball oder einen Pfeil, damit man einen bestimmten Punkt trifft.",
+  "beispielsatz": "Leon zielt mit seinem Pfeil genau auf die Mitte der Zielscheibe.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „zie-len\". Das „ie\" klingt lang wie in „Biene\" – schreib also „ie\" und nicht nur „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "ziel"
+  ],
+  "bild_datei": "zielen.webp",
+  "audio_datei": "zielen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "zielen",
+    "praesens": {
+      "ich": "ich ziele",
+      "du": "du zielst",
+      "er_sie_es": "er/sie/es zielt",
+      "wir": "wir zielen",
+      "ihr": "ihr zielt",
+      "sie": "sie zielen"
+    },
+    "perfekt": {
+      "ich": "ich habe gezielt",
+      "du": "du hast gezielt",
+      "er_sie_es": "er/sie/es hat gezielt",
+      "wir": "wir haben gezielt",
+      "ihr": "ihr habt gezielt",
+      "sie": "sie haben gezielt"
+    },
+    "praeteritum": {
+      "ich": "ich zielte",
+      "du": "du zieltest",
+      "er_sie_es": "er/sie/es zielte",
+      "wir": "wir zielten",
+      "ihr": "ihr zieltet",
+      "sie": "sie zielten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to aim"
+    },
+    {
+      "language_code": "fr",
+      "translation": "viser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nişan almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصوّب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ziel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gezielt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anvisieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "treffen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schießen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "werfen"
+    }
+  ],
+  "fehlschreibungen": [
+    "ziehlen",
+    "zilen",
+    "zihlen",
+    "ziellen",
+    "zylen"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Ersparnis",
+  "wortart": "Nomen",
+  "silben": "Er-spar-nis",
+  "begriffserklaerung": "Eine Ersparnis ist Geld, das man nicht ausgegeben, sondern aufgespart hat. Man spart es, um es später für etwas Besonderes zu nutzen.",
+  "beispielsatz": "Mit meiner Ersparnis kaufe ich mir endlich das Fahrrad, das ich mir so sehr wünsche.",
+  "rechtschreibstrategie": "Denke an das Wort „sparen\": Er-SPAR-nis. Das „spar\" steckt mitten im Wort drin!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spar"
+  ],
+  "bild_datei": "Ersparnis.webp",
+  "audio_datei": "Ersparnis.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ersparnis",
+    "plural": "die Ersparnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ersparnis",
+        "genitiv": "der Ersparnis",
+        "dativ": "der Ersparnis",
+        "akkusativ": "die Ersparnis"
+      },
+      "plural": {
+        "nominativ": "die Ersparnisse",
+        "genitiv": "der Ersparnisse",
+        "dativ": "den Ersparnissen",
+        "akkusativ": "die Ersparnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "savings"
+    },
+    {
+      "language_code": "fr",
+      "translation": "économies"
+    },
+    {
+      "language_code": "tr",
+      "translation": "birikim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدخرات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sparen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sparbüchse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ersparte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschengeld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sparbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ersparnis",
+    "Ersparniss",
+    "Erssparnis",
+    "Ersparniß",
+    "Ersparnies",
+    "Ersparnes"
+  ]
+}

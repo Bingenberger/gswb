@@ -1,0 +1,87 @@
+{
+  "lemma": "Beweis",
+  "wortart": "Nomen",
+  "silben": "Be-weis",
+  "begriffserklaerung": "Ein Beweis zeigt, dass etwas wirklich wahr ist. Mit einem Beweis kann man anderen Menschen zeigen, dass man Recht hat.",
+  "beispielsatz": "Die Detektivin fand einen Beweis, der zeigte, wer das Rätsel gelöst hatte.",
+  "rechtschreibstrategie": "Denk an das Verb „beweisen\" – dann hörst du das „ei\" deutlich: be-WEI-sen → Beweis.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "weis"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Beweis",
+    "plural": "Beweise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beweis",
+        "genitiv": "des Beweises",
+        "dativ": "dem Beweis",
+        "akkusativ": "den Beweis"
+      },
+      "plural": {
+        "nominativ": "die Beweise",
+        "genitiv": "der Beweise",
+        "dativ": "den Beweisen",
+        "akkusativ": "die Beweise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beweiß",
+    "Beweiss",
+    "Bewais",
+    "Bewies",
+    "Beveis"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "proof / evidence"
+    },
+    {
+      "language_code": "fr",
+      "translation": "preuve"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beweisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beweismittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Detektiv"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeuge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    }
+  ],
+  "bild_datei": "Beweis.webp",
+  "audio_datei": "Beweis.mp3"
+}

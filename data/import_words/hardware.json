@@ -1,0 +1,73 @@
+{
+  "lemma": "Hardware",
+  "wortart": "Nomen",
+  "silben": "Hard-ware",
+  "begriffserklaerung": "Die Hardware sind alle Teile eines Computers, die man anfassen kann – zum Beispiel die Tastatur, die Maus und der Bildschirm.",
+  "beispielsatz": "Der Drucker gehört zur Hardware unseres Schulcomputers.",
+  "rechtschreibstrategie": "„Hardware\" kommt aus dem Englischen. Schreibe es so, wie man es liest: Hard-ware – merke dir das „w\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Hardware.webp",
+  "audio_datei": "Hardware.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hardware"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matériel informatique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "donanım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عتاد الحاسوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Software"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hardware",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hardware",
+        "genitiv": "der Hardware",
+        "dativ": "der Hardware",
+        "akkusativ": "die Hardware"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hardwear",
+    "Hardwere",
+    "Hardwahr",
+    "Hardwaare",
+    "Hardvare"
+  ]
+}

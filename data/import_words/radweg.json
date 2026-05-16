@@ -1,0 +1,84 @@
+{
+  "lemma": "Radweg",
+  "wortart": "Nomen",
+  "silben": "Rad-weg",
+  "begriffserklaerung": "Ein Radweg ist ein eigener Weg, der nur für Fahrräder gedacht ist. Autos dürfen dort nicht fahren.",
+  "beispielsatz": "Wir fahren auf dem Radweg sicher zur Schule.",
+  "rechtschreibstrategie": "„Radweg\" besteht aus zwei Wörtern: „Rad\" und „Weg\". Denk an beide Teile, dann schreibst du das Wort richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rad",
+    "Weg"
+  ],
+  "bild_datei": "Radweg.webp",
+  "audio_datei": "Radweg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cycle path"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piste cyclable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bisiklet yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار الدراجات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußweg"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Radweg",
+    "plural": "die Radwege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Radweg",
+        "genitiv": "des Radweges",
+        "dativ": "dem Radweg",
+        "akkusativ": "den Radweg"
+      },
+      "plural": {
+        "nominativ": "die Radwege",
+        "genitiv": "der Radwege",
+        "dativ": "den Radwegen",
+        "akkusativ": "die Radwege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rahtweg",
+    "Raddweg",
+    "Radwäg",
+    "Radweeg",
+    "Ratweg"
+  ]
+}

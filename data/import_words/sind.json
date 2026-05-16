@@ -1,0 +1,90 @@
+{
+  "lemma": "sind",
+  "wortart": "Verb",
+  "silben": "sind",
+  "begriffserklaerung": "„Sind\" ist eine Form des Verbs „sein\". Es sagt aus, dass mehrere Dinge oder Personen so sind, wie beschrieben wird.",
+  "beispielsatz": "Die Kinder sind heute sehr fröhlich.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „sind\". Du hörst am Ende ein „d\". Merke dir: Es wird mit „d\" geschrieben, nicht mit „t\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "sind.webp",
+  "audio_datei": "sind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "are"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sont"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dir (olmak)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هم/هن (يكونون)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "war"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "werden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "fehlschreibungen": [
+    "sint",
+    "sindt",
+    "sinnd",
+    "synd",
+    "siend"
+  ]
+}

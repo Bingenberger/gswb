@@ -1,0 +1,83 @@
+{
+  "lemma": "Atmung",
+  "wortart": "Nomen",
+  "silben": "At-mung",
+  "begriffserklaerung": "Die Atmung ist das Ein- und Ausatmen von Luft. Dabei nimmt dein Körper Sauerstoff auf und gibt Kohlendioxid ab.",
+  "beispielsatz": "Nach dem Laufen wird die Atmung schneller.",
+  "rechtschreibstrategie": "Denk an das Verb „atmen\" – davon kommt „Atmung\". Das t aus „atmen\" bleibt auch in „Atmung\" erhalten.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "atm"
+  ],
+  "bild_datei": "Atmung.webp",
+  "audio_datei": "Atmung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Atmung",
+    "plural": "die Atmungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Atmung",
+        "genitiv": "der Atmung",
+        "dativ": "der Atmung",
+        "akkusativ": "die Atmung"
+      },
+      "plural": {
+        "nominativ": "die Atmungen",
+        "genitiv": "der Atmungen",
+        "dativ": "den Atmungen",
+        "akkusativ": "die Atmungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "breathing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "respiration"
+    },
+    {
+      "language_code": "tr",
+      "translation": "solunum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تنفس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "atmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Atem"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sauerstoff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Atemzug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Adtmung",
+    "Atmunk",
+    "Athmung",
+    "Admung",
+    "Attmung"
+  ]
+}

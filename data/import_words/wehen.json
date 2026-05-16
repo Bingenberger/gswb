@@ -1,0 +1,95 @@
+{
+  "lemma": "wehen",
+  "wortart": "Verb",
+  "silben": "we-hen",
+  "begriffserklaerung": "Wenn der Wind weht, bewegt er die Luft und bläst sie durch die Gegend.",
+  "beispielsatz": "Der Wind weht heute so stark, dass mein Hut wegfliegt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „we-hen\". Du hörst das lange „e\" – danach kommt ein „h\", das den Vokal dehnt. Merke: Dehnungs-h nach dem „e\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "weh"
+  ],
+  "bild_datei": "wehen.webp",
+  "audio_datei": "wehen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to blow (of wind)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souffler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "esmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يهبّ (الريح)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wehn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anwehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verwehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "blasen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blasen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wehen",
+    "praesens": {
+      "ich": "wehe",
+      "du": "wehst",
+      "er_sie_es": "weht",
+      "wir": "wehen",
+      "ihr": "weht",
+      "sie": "wehen"
+    },
+    "perfekt": {
+      "ich": "habe geweht",
+      "du": "hast geweht",
+      "er_sie_es": "hat geweht",
+      "wir": "haben geweht",
+      "ihr": "habt geweht",
+      "sie": "haben geweht"
+    },
+    "praeteritum": {
+      "ich": "wehte",
+      "du": "wehtest",
+      "er_sie_es": "wehte",
+      "wir": "wehten",
+      "ihr": "wehtet",
+      "sie": "wehten"
+    }
+  },
+  "fehlschreibungen": [
+    "ween",
+    "weehen",
+    "wehen",
+    "vehen",
+    "wähen",
+    "wehhen"
+  ]
+}

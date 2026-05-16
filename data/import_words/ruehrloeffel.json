@@ -1,0 +1,85 @@
+{
+  "lemma": "Rührlöffel",
+  "wortart": "Nomen",
+  "silben": "Rühr-löf-fel",
+  "begriffserklaerung": "Ein Rührlöffel ist ein langer Löffel, mit dem man Suppen, Soßen oder Teig in einem Topf oder einer Schüssel umrührt.",
+  "beispielsatz": "Mama rührt die Suppe mit dem Rührlöffel um, damit sie nicht anbrennt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Rühr\" (von rühren) und „Löffel\". Denk daran: Nach dem kurzen „ö\" in „Löffel\" kommt ein Doppel-l – Löf-fel!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "rühr",
+    "löffel"
+  ],
+  "bild_datei": "Rührlöffel.webp",
+  "audio_datei": "Rührlöffel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rührlöffel",
+    "plural": "die Rührlöffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rührlöffel",
+        "genitiv": "des Rührlöffels",
+        "dativ": "dem Rührlöffel",
+        "akkusativ": "den Rührlöffel"
+      },
+      "plural": {
+        "nominativ": "die Rührlöffel",
+        "genitiv": "der Rührlöffel",
+        "dativ": "den Rührlöffeln",
+        "akkusativ": "die Rührlöffel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stirring spoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuillère à mélanger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karıştırma kaşığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملعقة التحريك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rühren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kochlöffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneebesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rührlöfel",
+    "Rürlöffel",
+    "Rührlöfell",
+    "Rührlöffl",
+    "Rierhlöffel",
+    "Rührlöffel"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Einkauf",
+  "wortart": "Nomen",
+  "silben": "Ein-kauf",
+  "begriffserklaerung": "Ein Einkauf ist, wenn man in einem Geschäft etwas kauft und dafür Geld bezahlt.",
+  "beispielsatz": "Mama macht heute den Einkauf im Supermarkt.",
+  "rechtschreibstrategie": "Denk an das Wort „kaufen\" – da hörst du das „au\" ganz deutlich. Ein-kauf = „ein\" + „kauf\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "ein"
+  ],
+  "bild_datei": "Einkauf.webp",
+  "audio_datei": "Einkauf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping / purchase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "achat / courses"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Besorgung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufsliste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Einkauf",
+    "plural": "die Einkäufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Einkauf",
+        "genitiv": "des Einkaufs",
+        "dativ": "dem Einkauf",
+        "akkusativ": "den Einkauf"
+      },
+      "plural": {
+        "nominativ": "die Einkäufe",
+        "genitiv": "der Einkäufe",
+        "dativ": "den Einkäufen",
+        "akkusativ": "die Einkäufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einkauf",
+    "Ainkauf",
+    "Einkouf",
+    "Einckauf",
+    "Einkauph",
+    "Eingauf"
+  ]
+}

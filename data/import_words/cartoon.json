@@ -1,0 +1,72 @@
+{
+  "lemma": "Cartoon",
+  "wortart": "Nomen",
+  "silben": "Car-toon",
+  "begriffserklaerung": "Ein Cartoon ist ein lustiges Trickfilm- oder Zeichentrickbild. Cartoons gibt es als gezeichnete Filme oder als witzige Bilder in Büchern und Zeitschriften.",
+  "beispielsatz": "Am Samstagmorgen schaue ich am liebsten Cartoons im Fernsehen.",
+  "rechtschreibstrategie": "„Cartoon\" kommt aus dem Englischen und wird genauso geschrieben, wie man es auf Englisch liest: C-a-r-t-o-o-n. Merke dir das doppelte „oo\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Cartoon.webp",
+  "audio_datei": "Cartoon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cartoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dessin animé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizgi film"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسوم متحركة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trickfilm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichentrick"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trickfilm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Cartoon",
+    "plural": "die Cartoons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Cartoon",
+        "genitiv": "des Cartoons",
+        "dativ": "dem Cartoon",
+        "akkusativ": "den Cartoon"
+      },
+      "plural": {
+        "nominativ": "die Cartoons",
+        "genitiv": "der Cartoons",
+        "dativ": "den Cartoons",
+        "akkusativ": "die Cartoons"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kartoon",
+    "Cartun",
+    "Carton",
+    "Kartun",
+    "Cartonn"
+  ]
+}

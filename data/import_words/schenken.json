@@ -1,0 +1,99 @@
+{
+  "lemma": "schenken",
+  "wortart": "Verb",
+  "silben": "schen-ken",
+  "begriffserklaerung": "Jemandem etwas geben, ohne etwas dafür zurückzubekommen – zum Beispiel zu einem Geburtstag oder an Weihnachten.",
+  "beispielsatz": "Zum Geburtstag schenke ich meiner besten Freundin ein Buch.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: SCHEN-KEN. Das „sch\" klingt wie ein einziger Laut – schreib es immer mit „s\", „c\" und „h\" zusammen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schenk"
+  ],
+  "bild_datei": "schenken.webp",
+  "audio_datei": "schenken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schenken",
+    "praesens": {
+      "ich": "schenke",
+      "du": "schenkst",
+      "er_sie_es": "schenkt",
+      "wir": "schenken",
+      "ihr": "schenkt",
+      "sie": "schenken"
+    },
+    "perfekt": {
+      "ich": "habe geschenkt",
+      "du": "hast geschenkt",
+      "er_sie_es": "hat geschenkt",
+      "wir": "haben geschenkt",
+      "ihr": "habt geschenkt",
+      "sie": "haben geschenkt"
+    },
+    "praeteritum": {
+      "ich": "schenkte",
+      "du": "schenktest",
+      "er_sie_es": "schenkte",
+      "wir": "schenkten",
+      "ihr": "schenktet",
+      "sie": "schenkten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to give (as a gift)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "offrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hediye etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُهدي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schenkung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verschenken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "überreichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    }
+  ],
+  "fehlschreibungen": [
+    "schenken",
+    "shenken",
+    "scänken",
+    "schänken",
+    "scenken",
+    "schengen"
+  ]
+}

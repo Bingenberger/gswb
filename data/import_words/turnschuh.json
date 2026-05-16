@@ -1,0 +1,83 @@
+{
+  "lemma": "Turnschuh",
+  "wortart": "Nomen",
+  "silben": "Turn-schuh",
+  "begriffserklaerung": "Ein Turnschuh ist ein bequemer Sportschuh, den du beim Turnen, Laufen oder Spielen trägst.",
+  "beispielsatz": "Ich ziehe meine Turnschuhe an, bevor wir in der Sporthalle turnen.",
+  "rechtschreibstrategie": "Turnschuh ist aus zwei Wörtern zusammengesetzt: „Turn\" und „Schuh\". Schreibe beide Teile einfach hintereinander – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "turn",
+    "schuh"
+  ],
+  "bild_datei": "Turnschuh.webp",
+  "audio_datei": "Turnschuh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sneaker / gym shoe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussure de sport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor ayakkabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء رياضي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "turnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sportkleidung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sporthalle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sportschuh"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Turnschuh",
+    "plural": "die Turnschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Turnschuh",
+        "genitiv": "des Turnschuhs",
+        "dativ": "dem Turnschuh",
+        "akkusativ": "den Turnschuh"
+      },
+      "plural": {
+        "nominativ": "die Turnschuhe",
+        "genitiv": "der Turnschuhe",
+        "dativ": "den Turnschuhen",
+        "akkusativ": "die Turnschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Turnschug",
+    "Thurnschuh",
+    "Turnschuhe (als Singular)",
+    "Turnschuch",
+    "Turnshuh"
+  ]
+}

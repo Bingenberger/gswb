@@ -1,0 +1,83 @@
+{
+  "lemma": "Essig",
+  "wortart": "Nomen",
+  "silben": "Es-sig",
+  "begriffserklaerung": "Essig ist eine saure Flüssigkeit, die beim Kochen oder als Salatdressing verwendet wird. Er schmeckt sehr sauer.",
+  "beispielsatz": "Mama gibt einen Schuss Essig in den Salat.",
+  "rechtschreibstrategie": "Nach dem kurzen „E\" verdoppelt sich das „s\" zu „ss\". Sprich das Wort langsam: Es-sig – du hörst das kurze „E\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Essig"
+  ],
+  "bild_datei": "Essig.webp",
+  "audio_datei": "Essig.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vinegar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vinaigre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sirke"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Essigflasche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "essighaltig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Öl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewürz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Essig",
+    "plural": "die Essige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Essig",
+        "genitiv": "des Essigs",
+        "dativ": "dem Essig",
+        "akkusativ": "den Essig"
+      },
+      "plural": {
+        "nominativ": "die Essige",
+        "genitiv": "der Essige",
+        "dativ": "den Essigen",
+        "akkusativ": "die Essige"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Esig",
+    "Ässig",
+    "Essich",
+    "Essick",
+    "Esick"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Gebrauch",
+  "wortart": "Nomen",
+  "silben": "Ge-brauch",
+  "begriffserklaerung": "Der Gebrauch bedeutet, dass man etwas benutzt oder verwendet. Wenn du einen Stift zum Schreiben nimmst, machst du von ihm Gebrauch.",
+  "beispielsatz": "Der Gebrauch eines Wörterbuches hilft dir beim Lernen.",
+  "rechtschreibstrategie": "Denk an das Verb „brauchen\" – Ge-BRAUCH kommt von „brauchen\". Schreib „au\" in der Mitte, genauso wie in „brauchen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "brauch"
+  ],
+  "bild_datei": "Gebrauch.webp",
+  "audio_datei": "Gebrauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "use"
+    },
+    {
+      "language_code": "fr",
+      "translation": "usage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kullanım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استخدام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brauchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebrauchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Benutzung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verwendung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anleitung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gebrauch",
+    "plural": "die Gebräuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gebrauch",
+        "genitiv": "des Gebrauchs",
+        "dativ": "dem Gebrauch",
+        "akkusativ": "den Gebrauch"
+      },
+      "plural": {
+        "nominativ": "die Gebräuche",
+        "genitiv": "der Gebräuche",
+        "dativ": "den Gebräuchen",
+        "akkusativ": "die Gebräuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebraucht",
+    "Gebraug",
+    "Gebrach",
+    "Gebraux",
+    "Gebrauck"
+  ]
+}

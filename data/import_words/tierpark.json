@@ -1,0 +1,87 @@
+{
+  "lemma": "Tierpark",
+  "wortart": "Nomen",
+  "silben": "Tier-park",
+  "begriffserklaerung": "Ein Tierpark ist ein großer Ort, an dem viele verschiedene Tiere leben und von Menschen besucht werden können.",
+  "beispielsatz": "Am Wochenende besuchen wir den Tierpark und schauen uns die Elefanten an.",
+  "rechtschreibstrategie": "Tierpark ist ein Bausteinwort aus „Tier\" und „Park\". Wenn du beide Teile erkennst, kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tier",
+    "Park"
+  ],
+  "bild_datei": "Tierpark.webp",
+  "audio_datei": "Tierpark.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tierpark",
+    "plural": "die Tierparks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tierpark",
+        "genitiv": "des Tierparks",
+        "dativ": "dem Tierpark",
+        "akkusativ": "den Tierpark"
+      },
+      "plural": {
+        "nominativ": "die Tierparks",
+        "genitiv": "der Tierparks",
+        "dativ": "den Tierparks",
+        "akkusativ": "die Tierparks"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "zoo / animal park"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parc animalier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayvanat bahçesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حديقة الحيوانات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Park"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zoo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zootier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildpark"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tirpark",
+    "Thierpark",
+    "Tierparc",
+    "Tiehrpark",
+    "Tierparck"
+  ]
+}

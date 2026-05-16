@@ -1,0 +1,84 @@
+{
+  "lemma": "Kompassnadel",
+  "wortart": "Nomen",
+  "silben": "Kom-pass-na-del",
+  "begriffserklaerung": "Die Kompassnadel ist ein kleiner, drehbarer Zeiger in einem Kompass. Sie zeigt immer in Richtung Norden und hilft uns, den richtigen Weg zu finden.",
+  "beispielsatz": "Die Kompassnadel zeigt genau nach Norden, damit wir uns im Wald nicht verlaufen.",
+  "rechtschreibstrategie": "Das Wort „Kompassnadel\" ist aus zwei Wörtern zusammengebaut: „Kompass\" und „Nadel\". Im Wort „Kompass\" hörst du ein kurzes „a\" – deshalb schreibt man zwei s. Merke: Kom-pass!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kompass",
+    "Nadel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kompassnadel",
+    "plural": "die Kompassnadeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kompassnadel",
+        "genitiv": "der Kompassnadel",
+        "dativ": "der Kompassnadel",
+        "akkusativ": "die Kompassnadel"
+      },
+      "plural": {
+        "nominativ": "die Kompassnadeln",
+        "genitiv": "der Kompassnadeln",
+        "dativ": "den Kompassnadeln",
+        "akkusativ": "die Kompassnadeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kompasnadel",
+    "Kompaßnadel",
+    "Kompassnatel",
+    "Kompasnadell",
+    "Kompassnaddel"
+  ],
+  "bild_datei": "Kompassnadel.webp",
+  "audio_datei": "Kompassnadel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "compass needle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aiguille de boussole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pusula iğnesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إبرة البوصلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Norden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orientierung"
+    }
+  ]
+}

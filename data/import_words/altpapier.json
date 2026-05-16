@@ -1,0 +1,84 @@
+{
+  "lemma": "Altpapier",
+  "wortart": "Nomen",
+  "silben": "Alt-pa-pier",
+  "begriffserklaerung": "Altpapier sind gebrauchte Papiersachen wie alte Zeitungen, Hefte oder Kartons, die man in die Papiertonne wirft, damit sie wiederverwendet werden können.",
+  "beispielsatz": "Wir sammeln das Altpapier und bringen es zur blauen Tonne.",
+  "rechtschreibstrategie": "Altpapier ist aus zwei Wörtern zusammengesetzt: „alt\" und „Papier\". Schreibe beide Teile hintereinander, ohne Leerzeichen. Das ie in „Papier\" sprichst du lang – merk dir: ie klingt wie ein langer i-Laut!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "alt",
+    "Papier"
+  ],
+  "bild_datei": "Altpapier.webp",
+  "audio_datei": "Altpapier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Altpapier",
+    "plural": "die Altpapiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Altpapier",
+        "genitiv": "des Altpapiers",
+        "dativ": "dem Altpapier",
+        "akkusativ": "das Altpapier"
+      },
+      "plural": {
+        "nominativ": "die Altpapiere",
+        "genitiv": "der Altpapiere",
+        "dativ": "den Altpapieren",
+        "akkusativ": "die Altpapiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waste paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vieux papier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atık kâğıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورق مستعمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "alt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltrennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papiertonne"
+    }
+  ],
+  "fehlschreibungen": [
+    "Altpappier",
+    "Altpabier",
+    "Altpapir",
+    "Altpapiehr",
+    "Altpapier"
+  ]
+}

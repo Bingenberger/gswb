@@ -1,0 +1,90 @@
+{
+  "lemma": "Freunde",
+  "wortart": "Nomen",
+  "silben": "Freun-de",
+  "begriffserklaerung": "Freunde sind Menschen, die man sehr mag und mit denen man gerne Zeit verbringt.",
+  "beispielsatz": "Meine Freunde und ich spielen nach der Schule zusammen im Park.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Freun-de\". Denk an „Freund\" – da hörst du das „d\" am Ende. Im Plural bleibt das „d\": Freunde.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Freund"
+  ],
+  "bild_datei": "Freunde.webp",
+  "audio_datei": "Freunde.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Freund",
+    "plural": "die Freunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Freund",
+        "genitiv": "des Freundes",
+        "dativ": "dem Freund",
+        "akkusativ": "den Freund"
+      },
+      "plural": {
+        "nominativ": "die Freunde",
+        "genitiv": "der Freunde",
+        "dativ": "den Freunden",
+        "akkusativ": "die Freunde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "friends"
+    },
+    {
+      "language_code": "fr",
+      "translation": "amis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arkadaşlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أصدقاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Freund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "freundlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kumpel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Freunde",
+    "Frende",
+    "Freünde",
+    "Freuende",
+    "Frunde"
+  ]
+}

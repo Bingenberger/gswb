@@ -1,0 +1,69 @@
+{
+  "lemma": "brennbar",
+  "wortart": "Adjektiv",
+  "silben": "brenn-bar",
+  "begriffserklaerung": "Etwas ist brennbar, wenn es leicht Feuer fangen und brennen kann.",
+  "beispielsatz": "Papier ist sehr brennbar, deshalb darf man es nicht in die Nähe einer Kerze legen.",
+  "rechtschreibstrategie": "Das Wort „brennbar\" kommt von „brennen\". Das doppelte „n\" bleibt erhalten: brenn + bar.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "brenn"
+  ],
+  "bild_datei": "brennbar.webp",
+  "audio_datei": "brennbar.mp3",
+  "grammatische_formen": {
+    "positiv": "brennbar",
+    "komparativ": "brennbarer",
+    "superlativ": "am brennbarsten"
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flammable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "inflammable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قابل للاشتعال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gefährlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "feuergefährlich"
+    }
+  ],
+  "fehlschreibungen": [
+    "brenbar",
+    "brennbaar",
+    "brennbahr",
+    "brenbaar",
+    "brennparr"
+  ]
+}

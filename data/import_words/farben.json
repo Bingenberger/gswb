@@ -1,0 +1,87 @@
+{
+  "lemma": "Farben",
+  "wortart": "Nomen",
+  "silben": "Far-ben",
+  "begriffserklaerung": "Farben sind das, was Dinge bunt macht – zum Beispiel Rot, Blau, Gelb oder Grün. Mit Farben kann man malen und zeichnen.",
+  "beispielsatz": "Im Kunstunterricht mischen wir verschiedene Farben zu neuen Tönen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: FAR-ben. Du hörst zwei Silben. Das „a\" in „Far\" ist kurz, aber es folgt nur ein „r\" – schreib es einfach so, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "farb",
+    "färb"
+  ],
+  "bild_datei": "Farben.webp",
+  "audio_datei": "Farben.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Farbe",
+    "plural": "die Farben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Farbe",
+        "genitiv": "der Farbe",
+        "dativ": "der Farbe",
+        "akkusativ": "die Farbe"
+      },
+      "plural": {
+        "nominativ": "die Farben",
+        "genitiv": "der Farben",
+        "dativ": "den Farben",
+        "akkusativ": "die Farben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "colours / colors"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couleurs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "renkler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "färben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Farbstift"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "farbenfroh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Malkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bunt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Farbn",
+    "Farppen",
+    "Farbben",
+    "Farven",
+    "Pfarben"
+  ]
+}

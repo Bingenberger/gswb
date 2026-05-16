@@ -1,0 +1,103 @@
+{
+  "lemma": "schreiben",
+  "wortart": "Verb",
+  "silben": "schrei-ben",
+  "begriffserklaerung": "Schreiben bedeutet, Buchstaben, Wörter oder Sätze mit einem Stift oder einer Tastatur aufzuzeichnen.",
+  "beispielsatz": "Ich schreibe einen Brief an meine beste Freundin.",
+  "rechtschreibstrategie": "Das Wort „schreiben\" hat ein langes „ei\" – denk daran: Das ei hörst du deutlich, und das „b\" am Ende erkennst du, wenn du verlängerst: er schreibt.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schreib"
+  ],
+  "bild_datei": "schreiben.webp",
+  "audio_datei": "schreiben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to write"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écrire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَكْتُبُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrift"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schreiber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschreiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufschreiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "notieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zeichnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schreiben",
+    "praesens": {
+      "ich": "schreibe",
+      "du": "schreibst",
+      "er_sie_es": "schreibt",
+      "wir": "schreiben",
+      "ihr": "schreibt",
+      "sie": "schreiben"
+    },
+    "perfekt": {
+      "ich": "habe geschrieben",
+      "du": "hast geschrieben",
+      "er_sie_es": "hat geschrieben",
+      "wir": "haben geschrieben",
+      "ihr": "habt geschrieben",
+      "sie": "haben geschrieben"
+    },
+    "praeteritum": {
+      "ich": "schrieb",
+      "du": "schriebst",
+      "er_sie_es": "schrieb",
+      "wir": "schrieben",
+      "ihr": "schriebt",
+      "sie": "schrieben"
+    }
+  },
+  "fehlschreibungen": [
+    "shreiben",
+    "schreiben",
+    "schreieben",
+    "schreibn",
+    "schraiben"
+  ]
+}

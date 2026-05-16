@@ -1,0 +1,80 @@
+{
+  "lemma": "Pickel",
+  "wortart": "Nomen",
+  "silben": "Pi-ckel",
+  "begriffserklaerung": "Ein Pickel ist eine kleine rote Beule auf der Haut, die manchmal wehtut oder juckt. Pickel entstehen oft im Gesicht oder auf dem Rücken.",
+  "beispielsatz": "Heute Morgen hatte Leon einen dicken Pickel auf der Nase.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „ck\" – das zeigt, dass der Vokal kurz ist. Denk daran: kurzes i → Pi-ckel!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "pickelig",
+    "Pickelchen"
+  ],
+  "bild_datei": "Pickel.webp",
+  "audio_datei": "Pickel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pimple"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sivilce"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بثرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pickelig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hautausschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pustel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pustel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pickel",
+    "plural": "die Pickel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pickel",
+        "genitiv": "des Pickels",
+        "dativ": "dem Pickel",
+        "akkusativ": "den Pickel"
+      },
+      "plural": {
+        "nominativ": "die Pickel",
+        "genitiv": "der Pickel",
+        "dativ": "den Pickeln",
+        "akkusativ": "die Pickel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pikel",
+    "Pickell",
+    "Pieckel",
+    "Pickel",
+    "Pickl",
+    "Pikkell"
+  ]
+}

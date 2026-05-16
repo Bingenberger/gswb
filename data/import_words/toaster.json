@@ -1,0 +1,78 @@
+{
+  "lemma": "Toaster",
+  "wortart": "Nomen",
+  "silben": "Toas-ter",
+  "begriffserklaerung": "Ein Toaster ist ein kleines Küchengerät, das Brotscheiben von innen erhitzt und sie knusprig braun macht.",
+  "beispielsatz": "Jeden Morgen lege ich mein Brot in den Toaster, damit es schön knusprig wird.",
+  "rechtschreibstrategie": "Denk an das englische Wort „toast\" – der Toaster macht Toast! Schreibe ihn mit „oa\" in der Mitte: T-o-a-s-t-e-r.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Toast"
+  ],
+  "bild_datei": "Toaster.webp",
+  "audio_datei": "Toaster.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Toaster",
+    "plural": "die Toaster",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Toaster",
+        "genitiv": "des Toasters",
+        "dativ": "dem Toaster",
+        "akkusativ": "den Toaster"
+      },
+      "plural": {
+        "nominativ": "die Toaster",
+        "genitiv": "der Toaster",
+        "dativ": "den Toastern",
+        "akkusativ": "die Toaster"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toaster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grille-pain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekmek kızartma makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محمصة الخبز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Toast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    }
+  ],
+  "fehlschreibungen": [
+    "Toster",
+    "Tooster",
+    "Toastar",
+    "Toasster",
+    "Toastr"
+  ]
+}

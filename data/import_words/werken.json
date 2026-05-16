@@ -1,0 +1,82 @@
+{
+  "lemma": "Werken",
+  "wortart": "Nomen",
+  "silben": "Wer-ken",
+  "begriffserklaerung": "Werken ist ein Schulfach, in dem Kinder mit ihren Händen etwas bauen oder basteln, zum Beispiel aus Holz, Ton oder Pappe.",
+  "beispielsatz": "Im Werken haben wir heute ein kleines Vogelhaus aus Holz gebaut.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Wer-ken. Höre das „er\" am Anfang – so wird es geschrieben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "werk"
+  ],
+  "bild_datei": "Werken.webp",
+  "audio_datei": "Werken.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Werken",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Werken",
+        "genitiv": "des Werkens",
+        "dativ": "dem Werken",
+        "akkusativ": "das Werken"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handicrafts / craft class"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travaux manuels"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el işi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "التربية الحرفية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Basteln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunstunterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handarbeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verken",
+    "Wärken",
+    "Wergen",
+    "Werkken",
+    "Wercken"
+  ]
+}

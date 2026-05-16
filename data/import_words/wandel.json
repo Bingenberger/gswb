@@ -1,0 +1,89 @@
+{
+  "lemma": "Wandel",
+  "wortart": "Nomen",
+  "silben": "Wan-del",
+  "begriffserklaerung": "Ein Wandel bedeutet, dass sich etwas verändert – also anders wird als vorher.",
+  "beispielsatz": "Der Wandel der Jahreszeiten bringt uns Frühling, Sommer, Herbst und Winter.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Wan-del\". Das „a\" ist kurz, deshalb folgt nur ein „n\" – aber das „d\" am Ende kommt vom Stamm „wand-\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wandel"
+  ],
+  "bild_datei": "Wandel.webp",
+  "audio_datei": "Wandel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wandel",
+    "plural": "die Wandel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wandel",
+        "genitiv": "des Wandels",
+        "dativ": "dem Wandel",
+        "akkusativ": "den Wandel"
+      },
+      "plural": {
+        "nominativ": "die Wandel",
+        "genitiv": "der Wandel",
+        "dativ": "den Wandeln",
+        "akkusativ": "die Wandel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "change"
+    },
+    {
+      "language_code": "fr",
+      "translation": "changement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değişim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغيير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wandeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verwandlung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Veränderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wechsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entwicklung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fortschritt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umbruch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wandell",
+    "Vandel",
+    "Wandal",
+    "Wändel"
+  ]
+}

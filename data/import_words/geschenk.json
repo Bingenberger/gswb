@@ -1,0 +1,87 @@
+{
+  "lemma": "Geschenk",
+  "wortart": "Nomen",
+  "silben": "Ge-schenk",
+  "begriffserklaerung": "Ein Geschenk ist etwas, das man jemandem gibt, um ihm eine Freude zu machen – zum Beispiel zum Geburtstag oder zu Weihnachten.",
+  "beispielsatz": "Zum Geburtstag hat Lena ein buntes Geschenk mit einer Schleife bekommen.",
+  "rechtschreibstrategie": "Denk an das Wort „schenken\" – da hörst du das „sch\" und das „enk\" ganz deutlich. Ge-schenk!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schenk"
+  ],
+  "bild_datei": "Geschenk.webp",
+  "audio_datei": "Geschenk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gift / present"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cadeau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hediye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schenkung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Präsent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Überraschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleife"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geschenk",
+    "plural": "die Geschenke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geschenk",
+        "genitiv": "des Geschenks",
+        "dativ": "dem Geschenk",
+        "akkusativ": "das Geschenk"
+      },
+      "plural": {
+        "nominativ": "die Geschenke",
+        "genitiv": "der Geschenke",
+        "dativ": "den Geschenken",
+        "akkusativ": "die Geschenke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geschänk",
+    "Gescenk",
+    "Geschennk",
+    "Gescenck",
+    "Geschehnk",
+    "Geshcenk"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Bäcker",
+  "wortart": "Nomen",
+  "silben": "Bä-cker",
+  "begriffserklaerung": "Ein Bäcker ist ein Mensch, der Brot, Brötchen, Kuchen und andere Backwaren herstellt und verkauft.",
+  "beispielsatz": "Der Bäcker backt jeden Morgen frische Brötchen für uns.",
+  "rechtschreibstrategie": "Nach dem kurzen Vokal „ä\" schreibst du „ck\" – sprich das Wort langsam: Bä-cker!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "back"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bäcker",
+    "plural": "die Bäcker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bäcker",
+        "genitiv": "des Bäckers",
+        "dativ": "dem Bäcker",
+        "akkusativ": "den Bäcker"
+      },
+      "plural": {
+        "nominativ": "die Bäcker",
+        "genitiv": "der Bäcker",
+        "dativ": "den Bäckern",
+        "akkusativ": "die Bäcker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Becker",
+    "Bäker",
+    "Bäkker",
+    "Bäckerr",
+    "Bäckar"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brötchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konditor"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boulanger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırıncı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خَبَّاز"
+    }
+  ],
+  "bild_datei": "Bäcker.webp",
+  "audio_datei": "Bäcker.mp3"
+}

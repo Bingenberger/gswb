@@ -1,0 +1,74 @@
+{
+  "lemma": "Pfeiler",
+  "wortart": "Nomen",
+  "silben": "Pfei-ler",
+  "begriffserklaerung": "Ein Pfeiler ist eine dicke, stabile Säule aus Stein oder Beton, die etwas trägt oder stützt – zum Beispiel eine Brücke oder ein Gebäude.",
+  "beispielsatz": "Die Brücke steht auf vier starken Pfeilern.",
+  "rechtschreibstrategie": "Das Wort „Pfeiler\" hat das lange ei – sprich es deutlich: Pfei-ler. Denke an das „ei\" wie in „Ei\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Pfeiler"
+  ],
+  "bild_datei": "Pfeiler.webp",
+  "audio_datei": "Pfeiler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pillar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pilier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sütun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ركيزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säule"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stütze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pfeiler",
+    "plural": "die Pfeiler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pfeiler",
+        "genitiv": "des Pfeilers",
+        "dativ": "dem Pfeiler",
+        "akkusativ": "den Pfeiler"
+      },
+      "plural": {
+        "nominativ": "die Pfeiler",
+        "genitiv": "der Pfeiler",
+        "dativ": "den Pfeilern",
+        "akkusativ": "die Pfeiler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fpeiler",
+    "Pfeiller",
+    "Pfeiiler",
+    "Pfeier",
+    "Pfeylер"
+  ]
+}

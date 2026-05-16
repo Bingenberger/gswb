@@ -1,0 +1,87 @@
+{
+  "lemma": "Übung",
+  "wortart": "Nomen",
+  "silben": "Ü-bung",
+  "begriffserklaerung": "Eine Übung ist etwas, das du immer wieder machst, damit du besser darin wirst.",
+  "beispielsatz": "Durch viel Übung kann ich jetzt schon sehr gut Fahrrad fahren.",
+  "rechtschreibstrategie": "Denk an das Verb „üben\" – daraus entsteht die „Übung\". Hör genau hin: Ü-bung. Das „b\" kommt von „üben\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "üb"
+  ],
+  "bild_datei": "Übung.webp",
+  "audio_datei": "Übung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exercise / practice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exercice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alıştırma / egzersiz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تمرين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "üben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geübt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Training"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Übung",
+    "plural": "die Übungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Übung",
+        "genitiv": "der Übung",
+        "dativ": "der Übung",
+        "akkusativ": "die Übung"
+      },
+      "plural": {
+        "nominativ": "die Übungen",
+        "genitiv": "der Übungen",
+        "dativ": "den Übungen",
+        "akkusativ": "die Übungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Uebung",
+    "Übbung",
+    "Übunng",
+    "Übunk",
+    "Übuing"
+  ]
+}

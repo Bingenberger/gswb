@@ -1,0 +1,78 @@
+{
+  "lemma": "Spaten",
+  "wortart": "Nomen",
+  "silben": "Spa-ten",
+  "begriffserklaerung": "Ein Spaten ist ein Werkzeug zum Graben. Er hat einen langen Stiel und ein flaches, breites Blatt aus Metall. Mit dem Spaten kannst du Erde umgraben oder Löcher in den Boden stechen.",
+  "beispielsatz": "Papa nimmt den Spaten aus dem Schuppen und gräbt damit ein Loch im Garten.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Spa-ten. Nach dem langen „a\" kommt nur ein „t\" – kein Doppel-t!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "spat"
+  ],
+  "bild_datei": "Spaten.webp",
+  "audio_datei": "Spaten.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spaten",
+    "plural": "die Spaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spaten",
+        "genitiv": "des Spatens",
+        "dativ": "dem Spaten",
+        "akkusativ": "den Spaten"
+      },
+      "plural": {
+        "nominativ": "die Spaten",
+        "genitiv": "der Spaten",
+        "dativ": "den Spaten",
+        "akkusativ": "die Spaten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spade"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bêche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kürek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spatenstich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaufel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Harke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spatten",
+    "Spaden",
+    "Späten",
+    "Spahten",
+    "Spatenn"
+  ]
+}

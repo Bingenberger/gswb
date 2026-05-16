@@ -1,0 +1,91 @@
+{
+  "lemma": "schleifen",
+  "wortart": "Verb",
+  "silben": "schlei-fen",
+  "begriffserklaerung": "Schleifen bedeutet, eine Oberfläche mit einem rauen Gegenstand glatt oder scharf zu machen. Man kann zum Beispiel ein Messer oder eine Holzplatte schleifen.",
+  "beispielsatz": "Papa schleift das alte Brett, damit es schön glatt wird.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: schlei-fen. Du hörst das lange „ei\" – das schreibst du mit „ei\". Kein Dehnungs-h, kein doppelter Buchstabe – einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schleif"
+  ],
+  "bild_datei": "schleifen.webp",
+  "audio_datei": "schleifen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to grind / to sand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poncer / aiguiser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zımparalamak / bilemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصقل / يشحذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schleifer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schleifpapier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "feilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "polieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "glätten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schleifen",
+    "praesens": {
+      "ich": "schleife",
+      "du": "schleifst",
+      "er_sie_es": "schleift",
+      "wir": "schleifen",
+      "ihr": "schleift",
+      "sie": "schleifen"
+    },
+    "perfekt": {
+      "ich": "habe geschliffen",
+      "du": "hast geschliffen",
+      "er_sie_es": "hat geschliffen",
+      "wir": "haben geschliffen",
+      "ihr": "habt geschliffen",
+      "sie": "haben geschliffen"
+    },
+    "praeteritum": {
+      "ich": "schliff",
+      "du": "schliffst",
+      "er_sie_es": "schliff",
+      "wir": "schliffen",
+      "ihr": "schlifft",
+      "sie": "schliffen"
+    }
+  },
+  "fehlschreibungen": [
+    "schleifem",
+    "schleifen",
+    "schleyfen",
+    "schleifn",
+    "schlifen",
+    "schleipfen"
+  ]
+}

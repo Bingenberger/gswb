@@ -1,0 +1,91 @@
+{
+  "lemma": "trocknen",
+  "wortart": "Verb",
+  "silben": "trock-nen",
+  "begriffserklaerung": "Wenn etwas nass ist und das Wasser verdunstet oder weggewischt wird, trocknet es. Man kann auch etwas aktiv trocken machen, zum Beispiel mit einem Tuch.",
+  "beispielsatz": "Nach dem Regen trocknen wir uns mit einem Handtuch ab.",
+  "rechtschreibstrategie": "Das Wort „trocknen\" hat nach dem kurzen „o\" ein „ck\" – das zeigt dir, dass der Vokal kurz gesprochen wird. Merke: Nach kurzem Vokal kommt oft „ck\" statt nur „k\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "trocken"
+  ],
+  "bild_datei": "trocknen.webp",
+  "audio_datei": "trocknen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to dry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sécher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurutmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُجفِّف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trocken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trockenheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abtrocknen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "trocknen",
+    "praesens": {
+      "ich": "trockne",
+      "du": "trocknest",
+      "er_sie_es": "trocknet",
+      "wir": "trocknen",
+      "ihr": "trocknet",
+      "sie": "trocknen"
+    },
+    "perfekt": {
+      "ich": "habe getrocknet",
+      "du": "hast getrocknet",
+      "er_sie_es": "hat getrocknet",
+      "wir": "haben getrocknet",
+      "ihr": "habt getrocknet",
+      "sie": "haben getrocknet"
+    },
+    "praeteritum": {
+      "ich": "trocknete",
+      "du": "trocknest",
+      "er_sie_es": "trocknete",
+      "wir": "trockneten",
+      "ihr": "trocknetet",
+      "sie": "trockneten"
+    }
+  },
+  "fehlschreibungen": [
+    "troknen",
+    "trocknen",
+    "trokcnen",
+    "trockten",
+    "troknnen",
+    "trockenen"
+  ]
+}

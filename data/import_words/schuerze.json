@@ -1,0 +1,83 @@
+{
+  "lemma": "Schürze",
+  "wortart": "Nomen",
+  "silben": "Schür-ze",
+  "begriffserklaerung": "Eine Schürze ist ein Kleidungsstück, das man sich vorne umbindet, damit die eigene Kleidung sauber bleibt – zum Beispiel beim Kochen oder Basteln.",
+  "beispielsatz": "Mama bindet sich eine Schürze um, bevor sie den Kuchen backt.",
+  "rechtschreibstrategie": "Denk an das Ü in „Schürze\" – sprich es laut mit: SCHÜR-ze. Das Ü hörst du klar!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schürz"
+  ],
+  "bild_datei": "Schürze.webp",
+  "audio_datei": "Schürze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apron"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tablier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "önlük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِئزَر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schürzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kochschürze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleidung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kittel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schürze",
+    "plural": "die Schürzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schürze",
+        "genitiv": "der Schürze",
+        "dativ": "der Schürze",
+        "akkusativ": "die Schürze"
+      },
+      "plural": {
+        "nominativ": "die Schürzen",
+        "genitiv": "der Schürzen",
+        "dativ": "den Schürzen",
+        "akkusativ": "die Schürzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schurze",
+    "Schürtze",
+    "Schürse",
+    "Schürtse",
+    "Schirze",
+    "Schürzze"
+  ]
+}

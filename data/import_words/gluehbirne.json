@@ -1,0 +1,85 @@
+{
+  "lemma": "Glühbirne",
+  "wortart": "Nomen",
+  "silben": "Glüh-bir-ne",
+  "begriffserklaerung": "Eine Glühbirne ist eine kleine Lampe aus Glas, die Licht erzeugt, wenn Strom durch sie fließt.",
+  "beispielsatz": "Mama schraubt eine neue Glühbirne in die Lampe, damit es im Zimmer wieder hell ist.",
+  "rechtschreibstrategie": "Das Wort „Glühbirne\" ist ein zusammengesetztes Wort aus „Glüh-\" (von glühen) und „Birne\". Achte auf das Dehnungs-h in „Glüh\" und den Bindestrich hilft dir, die Silben zu erkennen: Glüh-bir-ne.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "glüh",
+    "birn"
+  ],
+  "bild_datei": "Glühbirne.webp",
+  "audio_datei": "Glühbirne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "light bulb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ampoule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ampul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح كهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "glühen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Birne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leuchtmittel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Glühbirne",
+    "plural": "die Glühbirnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Glühbirne",
+        "genitiv": "der Glühbirne",
+        "dativ": "der Glühbirne",
+        "akkusativ": "die Glühbirne"
+      },
+      "plural": {
+        "nominativ": "die Glühbirnen",
+        "genitiv": "der Glühbirnen",
+        "dativ": "den Glühbirnen",
+        "akkusativ": "die Glühbirnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Glühbirre",
+    "Glübirne",
+    "Gluhbirne",
+    "Glübirre",
+    "Glühbirnne",
+    "Glüh-Birne"
+  ]
+}

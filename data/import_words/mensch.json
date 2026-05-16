@@ -1,0 +1,82 @@
+{
+  "lemma": "Mensch",
+  "wortart": "Nomen",
+  "silben": "Mensch",
+  "begriffserklaerung": "Ein Mensch ist ein Lebewesen, das denken, sprechen und fühlen kann. Alle Menschen zusammen bilden die Menschheit.",
+  "beispielsatz": "Jeder Mensch ist einzigartig und besonders.",
+  "rechtschreibstrategie": "Das Wort „Mensch\" hat nur eine Silbe. Am Ende hörst du „sch\" – schreibe es genau so, wie du es sprichst: M-e-n-s-c-h.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mensch",
+    "plural": "die Menschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mensch",
+        "genitiv": "des Menschen",
+        "dativ": "dem Menschen",
+        "akkusativ": "den Menschen"
+      },
+      "plural": {
+        "nominativ": "die Menschen",
+        "genitiv": "der Menschen",
+        "dativ": "den Menschen",
+        "akkusativ": "die Menschen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Mensch"
+  ],
+  "fehlschreibungen": [
+    "Mench",
+    "Mensh",
+    "Mänsch",
+    "Mänsh",
+    "Mensch"
+  ],
+  "bild_datei": "Mensch.webp",
+  "audio_datei": "Mensch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "human / person"
+    },
+    {
+      "language_code": "fr",
+      "translation": "être humain / personne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "insan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إنسان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "menschlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Menschheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Person"
+    }
+  ]
+}

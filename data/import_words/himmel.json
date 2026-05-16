@@ -1,0 +1,86 @@
+{
+  "lemma": "Himmel",
+  "wortart": "Nomen",
+  "silben": "Him-mel",
+  "begriffserklaerung": "Der Himmel ist der große Bereich hoch über uns, den wir sehen, wenn wir nach oben schauen. Tagsüber ist er oft blau, nachts sieht man dort die Sterne.",
+  "beispielsatz": "Am Morgen leuchtet der Himmel in einem wunderschönen Orange und Rosa.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Him-mel. Nach dem kurzen „i\" hörst du ein doppeltes „m\" – das zeigt dir, dass du „mm\" schreibst.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Himmel"
+  ],
+  "bild_datei": "Himmel.webp",
+  "audio_datei": "Himmel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Himmel",
+    "plural": "die Himmel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Himmel",
+        "genitiv": "des Himmels",
+        "dativ": "dem Himmel",
+        "akkusativ": "den Himmel"
+      },
+      "plural": {
+        "nominativ": "die Himmel",
+        "genitiv": "der Himmel",
+        "dativ": "den Himmeln",
+        "akkusativ": "die Himmel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sky / heaven"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ciel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gökyüzü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "himmelblau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Himmelsrichtung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Firmament"
+    }
+  ],
+  "fehlschreibungen": [
+    "Himel",
+    "Hiemel",
+    "Himell",
+    "Hymel",
+    "Himmmel"
+  ]
+}

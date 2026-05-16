@@ -1,0 +1,82 @@
+{
+  "lemma": "Schuhe",
+  "wortart": "Nomen",
+  "silben": "Schu-he",
+  "beispielsatz": "Meine neuen Schuhe sind rot und passen super zu meiner Hose.",
+  "begriffserklaerung": "Schuhe sind Kleidungsstücke für die Füße. Man zieht sie an, damit die Füße warm und geschützt sind.",
+  "rechtschreibstrategie": "Denk an das Einzelwort: ein Schuh – mehrere Schuhe. Das „h\" am Ende von „Schuh\" bleibt auch im Plural erhalten!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Schuh"
+  ],
+  "bild_datei": "Schuhe.webp",
+  "audio_datei": "Schuhe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shoes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussures"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayakkabılar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أحذية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuhband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Socken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stiefel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Schuh",
+    "plural": "die Schuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schuh",
+        "genitiv": "des Schuh(e)s",
+        "dativ": "dem Schuh",
+        "akkusativ": "den Schuh"
+      },
+      "plural": {
+        "nominativ": "die Schuhe",
+        "genitiv": "der Schuhe",
+        "dativ": "den Schuhen",
+        "akkusativ": "die Schuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schuhe",
+    "Schue",
+    "Schuge",
+    "Schuche"
+  ]
+}

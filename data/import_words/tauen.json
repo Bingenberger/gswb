@@ -1,0 +1,94 @@
+{
+  "lemma": "tauen",
+  "wortart": "Verb",
+  "silben": "tau-en",
+  "begriffserklaerung": "Wenn es taut, wird Eis oder Schnee warm und verwandelt sich in Wasser.",
+  "beispielsatz": "Im Frühling taut der Schnee und die Wiesen werden wieder grün.",
+  "rechtschreibstrategie": "Das Wort „tauen\" hat den langen Vokal „au\" – sprich ihn deutlich: tau-en. Nach dem langen „au\" kommt kein Doppelkonsonant.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tau"
+  ],
+  "bild_datei": "tauen.webp",
+  "audio_datei": "tauen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "tauen",
+    "praesens": {
+      "ich": "taue",
+      "du": "taust",
+      "er_sie_es": "taut",
+      "wir": "tauen",
+      "ihr": "taut",
+      "sie": "tauen"
+    },
+    "perfekt": {
+      "ich": "bin/habe getaut",
+      "du": "bist/hast getaut",
+      "er_sie_es": "ist/hat getaut",
+      "wir": "sind/haben getaut",
+      "ihr": "seid/habt getaut",
+      "sie": "sind/haben getaut"
+    },
+    "praeteritum": {
+      "ich": "taute",
+      "du": "tautest",
+      "er_sie_es": "taute",
+      "wir": "tauten",
+      "ihr": "tautet",
+      "sie": "tauten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to thaw / to melt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fondre / dégeler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erimek / çözülmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يذوب / ينحل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tauwetter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schmelzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    }
+  ],
+  "fehlschreibungen": [
+    "tauen",
+    "thauen",
+    "tauhen",
+    "tauwen",
+    "tauuen"
+  ]
+}

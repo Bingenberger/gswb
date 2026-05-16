@@ -1,0 +1,94 @@
+{
+  "lemma": "enden",
+  "wortart": "Verb",
+  "silben": "en-den",
+  "begriffserklaerung": "Wenn etwas endet, ist es fertig oder vorbei. Es hört auf.",
+  "beispielsatz": "Der Film endet um 20 Uhr.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „en-den\". Du hörst beide Silben deutlich. Schreibe, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "End"
+  ],
+  "bild_datei": "enden.webp",
+  "audio_datei": "enden.mp3",
+  "grammatische_formen": {
+    "infinitiv": "enden",
+    "praesens": {
+      "ich": "ende",
+      "du": "endest",
+      "er_sie_es": "endet",
+      "wir": "enden",
+      "ihr": "endet",
+      "sie": "enden"
+    },
+    "perfekt": {
+      "ich": "habe geendet",
+      "du": "hast geendet",
+      "er_sie_es": "hat geendet",
+      "wir": "haben geendet",
+      "ihr": "habt geendet",
+      "sie": "haben geendet"
+    },
+    "praeteritum": {
+      "ich": "endete",
+      "du": "endetest",
+      "er_sie_es": "endete",
+      "wir": "endeten",
+      "ihr": "endetet",
+      "sie": "endeten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to end"
+    },
+    {
+      "language_code": "fr",
+      "translation": "finir / se terminer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bitmek / sona ermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينتهي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "endlos"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufhören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abschließen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beginnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stoppen"
+    }
+  ],
+  "fehlschreibungen": [
+    "änden",
+    "ennden",
+    "endten",
+    "ennten",
+    "eenden"
+  ]
+}

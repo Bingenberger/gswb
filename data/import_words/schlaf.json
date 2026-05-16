@@ -1,0 +1,91 @@
+{
+  "lemma": "Schlaf",
+  "wortart": "Nomen",
+  "silben": "Schlaf",
+  "begriffserklaerung": "Der Schlaf ist die Zeit, in der du die Augen schließt, dich ausruhst und träumst. Dein Körper erholt sich dabei.",
+  "beispielsatz": "Nach einem langen Tag braucht Tim viel Schlaf, damit er morgen wieder fit ist.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Schlaf\". Am Ende hörst du ein „f\", aber wenn du es verlängerst – „schlafen\" – erkennst du das „f\" deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlaf",
+    "schläf"
+  ],
+  "bild_datei": "Schlaf.webp",
+  "audio_datei": "Schlaf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sleep"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sommeil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schläfrig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlafzimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ruhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müdigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlaf",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlaf",
+        "genitiv": "des Schlafes",
+        "dativ": "dem Schlaf",
+        "akkusativ": "den Schlaf"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlav",
+    "Schlapp",
+    "Shlaf",
+    "Schlahf",
+    "Schlaff"
+  ]
+}

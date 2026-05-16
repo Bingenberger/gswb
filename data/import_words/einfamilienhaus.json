@@ -1,0 +1,84 @@
+{
+  "lemma": "Einfamilienhaus",
+  "wortart": "Nomen",
+  "silben": "Ein-fa-mi-li-en-haus",
+  "begriffserklaerung": "Ein Einfamilienhaus ist ein Haus, in dem nur eine Familie wohnt. Es hat meistens einen Garten und eine eigene Haustür.",
+  "beispielsatz": "Unsere Familie wohnt in einem gemütlichen Einfamilienhaus mit einem großen Garten.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „ein\" + „Familien\" + „haus\". Sprich alle Teile laut mit: EIN-FA-MI-LI-EN-HAUS.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Familie"
+  ],
+  "bild_datei": "Einfamilienhaus.webp",
+  "audio_datei": "Einfamilienhaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "single-family house"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maison individuelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müstakil ev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منزل عائلة واحدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mehrfamilienhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eigenheim"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Einfamilienhaus",
+    "plural": "die Einfamilienhäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Einfamilienhaus",
+        "genitiv": "des Einfamilienhauses",
+        "dativ": "dem Einfamilienhaus",
+        "akkusativ": "das Einfamilienhaus"
+      },
+      "plural": {
+        "nominativ": "die Einfamilienhäuser",
+        "genitiv": "der Einfamilienhäuser",
+        "dativ": "den Einfamilienhäusern",
+        "akkusativ": "die Einfamilienhäuser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einfamilienhaus",
+    "Einfamillienhaus",
+    "Einfamienhaus",
+    "Einfamilenhaus",
+    "Einfahmilienhaus",
+    "Einfamilienhauß"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "reichen",
+  "wortart": "Verb",
+  "silben": "rei-chen",
+  "begriffserklaerung": "Etwas reichen bedeutet, es jemandem hinzugeben oder hinzustrecken. Es kann auch bedeuten, dass etwas groß oder lang genug ist, um irgendwohin zu gelangen.",
+  "beispielsatz": "Kannst du mir bitte die Schere reichen?",
+  "rechtschreibstrategie": "Denke an das Wort „Reich\" – dort hörst du das „ei\" ganz deutlich. Also schreibt man auch „reichen\" mit „ei\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "reich"
+  ],
+  "bild_datei": "reichen.webp",
+  "audio_datei": "reichen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pass / to reach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tendre / passer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzatmak / vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُمرِّر / يمتدّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erreichen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausreichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinhalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "strecken"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "reichen",
+    "praesens": {
+      "ich": "reiche",
+      "du": "reichst",
+      "er_sie_es": "reicht",
+      "wir": "reichen",
+      "ihr": "reicht",
+      "sie": "reichen"
+    },
+    "perfekt": {
+      "ich": "habe gereicht",
+      "du": "hast gereicht",
+      "er_sie_es": "hat gereicht",
+      "wir": "haben gereicht",
+      "ihr": "habt gereicht",
+      "sie": "haben gereicht"
+    },
+    "praeteritum": {
+      "ich": "reichte",
+      "du": "reichtest",
+      "er_sie_es": "reichte",
+      "wir": "reichten",
+      "ihr": "reichtet",
+      "sie": "reichten"
+    }
+  },
+  "fehlschreibungen": [
+    "reichen",
+    "raichen"
+  ]
+}

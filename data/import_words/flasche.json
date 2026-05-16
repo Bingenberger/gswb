@@ -1,0 +1,82 @@
+{
+  "lemma": "Flasche",
+  "wortart": "Nomen",
+  "silben": "Fla-sche",
+  "begriffserklaerung": "Eine Flasche ist ein Behälter aus Glas oder Plastik mit einem engen Hals. Man füllt Flaschen mit Wasser, Saft oder anderen Getränken.",
+  "beispielsatz": "Ich trinke meine Flasche Wasser in der Pause leer.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Fla-sche. Höre das „sch\" genau – es klingt wie ein Zischen und wird immer mit „sch\" geschrieben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Flasch"
+  ],
+  "bild_datei": "Flasche.webp",
+  "audio_datei": "Flasche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bottle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouteille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şişe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زجاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fläschchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flaschenpfand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kanne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Behälter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flasche",
+    "plural": "die Flaschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flasche",
+        "genitiv": "der Flasche",
+        "dativ": "der Flasche",
+        "akkusativ": "die Flasche"
+      },
+      "plural": {
+        "nominativ": "die Flaschen",
+        "genitiv": "der Flaschen",
+        "dativ": "den Flaschen",
+        "akkusativ": "die Flaschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flasche",
+    "Flashe",
+    "Flaßche",
+    "Flache",
+    "Flaaschen"
+  ]
+}

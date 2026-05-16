@@ -1,0 +1,93 @@
+{
+  "lemma": "Entspannung",
+  "wortart": "Nomen",
+  "silben": "Ent-span-nung",
+  "begriffserklaerung": "Entspannung bedeutet, dass man sich ausruht und locker lässt – zum Beispiel nach der Schule oder nach dem Sport. Man fühlt sich dann ruhig und wohl.",
+  "beispielsatz": "Nach dem langen Schultag braucht Tim ein bisschen Entspannung und legt sich aufs Sofa.",
+  "rechtschreibstrategie": "Das Wort hat drei Bausteine: „ent-\" + „spann\" + „-ung\". Das doppelte „nn\" kommt vom kurzen „a\" in „spannen\" – nach einem kurzen Vokal schreibt man den Konsonanten doppelt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spann"
+  ],
+  "bild_datei": "Entspannung.webp",
+  "audio_datei": "Entspannung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Entspannung",
+    "plural": "die Entspannungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Entspannung",
+        "genitiv": "der Entspannung",
+        "dativ": "der Entspannung",
+        "akkusativ": "die Entspannung"
+      },
+      "plural": {
+        "nominativ": "die Entspannungen",
+        "genitiv": "der Entspannungen",
+        "dativ": "den Entspannungen",
+        "akkusativ": "die Entspannungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "relaxation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "détente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rahatlama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استرخاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spannen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entspannen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erholung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ruhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    }
+  ],
+  "fehlschreibungen": [
+    "Entsspannung",
+    "Entspannung",
+    "Entspannug",
+    "Enspannung",
+    "Entspanug"
+  ]
+}

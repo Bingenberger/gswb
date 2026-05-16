@@ -1,0 +1,82 @@
+{
+  "lemma": "Theater",
+  "wortart": "Nomen",
+  "silben": "The-a-ter",
+  "begriffserklaerung": "Ein Theater ist ein Gebäude, in dem Schauspieler vor Publikum Stücke aufführen und Geschichten auf der Bühne erzählen.",
+  "beispielsatz": "Unsere Klasse geht heute ins Theater und schaut sich ein lustiges Stück an.",
+  "rechtschreibstrategie": "Das Wort „Theater\" kommt aus dem Griechischen. Denk daran: Es beginnt mit „Th\" – das klingt wie ein weiches „T\". Sprich es laut in Silben: The-a-ter!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Theater"
+  ],
+  "bild_datei": "Theater.webp",
+  "audio_datei": "Theater.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "theatre"
+    },
+    {
+      "language_code": "fr",
+      "translation": "théâtre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tiyatro"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "theatralisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Theaterstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorstellung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Theater",
+    "plural": "die Theater",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Theater",
+        "genitiv": "des Theaters",
+        "dativ": "dem Theater",
+        "akkusativ": "das Theater"
+      },
+      "plural": {
+        "nominativ": "die Theater",
+        "genitiv": "der Theater",
+        "dativ": "den Theatern",
+        "akkusativ": "die Theater"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Teater",
+    "Thater",
+    "Theather",
+    "Thaeter",
+    "Theaater"
+  ]
+}

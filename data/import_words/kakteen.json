@@ -1,0 +1,79 @@
+{
+  "lemma": "Kakteen",
+  "wortart": "Nomen",
+  "silben": "Kak-te-en",
+  "begriffserklaerung": "Kakteen sind stachelige Pflanzen, die vor allem in der Wüste wachsen. Sie können sehr lange ohne Wasser auskommen, weil sie Wasser in ihrem dicken Stamm speichern.",
+  "beispielsatz": "Im Botanischen Garten stehen viele bunte Kakteen.",
+  "rechtschreibstrategie": "Kak-teen: Sprich das Wort in Silben. Nach dem kurzen „a\" kommt ein „k\" – zusammen also „Kak\". Am Ende hörst du deutlich „teen\" mit zwei e.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Kaktus"
+  ],
+  "bild_datei": "Kakteen.webp",
+  "audio_datei": "Kakteen.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Kaktus",
+    "plural": "die Kakteen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kaktus",
+        "genitiv": "des Kaktus",
+        "dativ": "dem Kaktus",
+        "akkusativ": "den Kaktus"
+      },
+      "plural": {
+        "nominativ": "die Kakteen",
+        "genitiv": "der Kakteen",
+        "dativ": "den Kakteen",
+        "akkusativ": "die Kakteen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cacti"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cactus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaktüsler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kaktus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wüste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stachel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kakten",
+    "Kackteen",
+    "Kaktheen",
+    "Kaktäen",
+    "Kackten"
+  ]
+}

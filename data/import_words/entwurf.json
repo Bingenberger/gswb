@@ -1,0 +1,87 @@
+{
+  "lemma": "Entwurf",
+  "wortart": "Nomen",
+  "silben": "Ent-wurf",
+  "begriffserklaerung": "Ein Entwurf ist eine erste, noch nicht fertige Idee oder Zeichnung, die man später noch verbessern kann.",
+  "beispielsatz": "Lea zeigt ihrer Lehrerin den Entwurf für ihr Plakat.",
+  "rechtschreibstrategie": "Denke an das Verb „entwerfen\" – dann hörst du das „w\" ganz deutlich: Ent-wurf.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wurf",
+    "werfen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Entwurf",
+    "plural": "die Entwürfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Entwurf",
+        "genitiv": "des Entwurfs",
+        "dativ": "dem Entwurf",
+        "akkusativ": "den Entwurf"
+      },
+      "plural": {
+        "nominativ": "die Entwürfe",
+        "genitiv": "der Entwürfe",
+        "dativ": "den Entwürfen",
+        "akkusativ": "die Entwürfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Entwurff",
+    "Entwuf",
+    "Entwuurf",
+    "Entwuft",
+    "Entwurv"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "draft"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ébauche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taslak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسودة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "werfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entwerfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Skizze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Idee"
+    }
+  ],
+  "bild_datei": "Entwurf.webp",
+  "audio_datei": "Entwurf.mp3"
+}

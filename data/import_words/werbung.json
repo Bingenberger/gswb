@@ -1,0 +1,82 @@
+{
+  "lemma": "Werbung",
+  "wortart": "Nomen",
+  "silben": "Wer-bung",
+  "begriffserklaerung": "Werbung ist, wenn Firmen oder Geschäfte zeigen, was sie verkaufen möchten – zum Beispiel im Fernsehen, auf Plakaten oder im Internet. Werbung soll Menschen dazu bringen, etwas zu kaufen.",
+  "beispielsatz": "Im Fernsehen kommt vor dem Film oft lange Werbung.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Wer-bung\". Das „W\" am Anfang sprichst du wie ein „W\". Das kurze „e\" in „Wer\" wird nicht gedehnt – einfach mitsprechen!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "werb"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Werbung",
+    "plural": "die Werbungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Werbung",
+        "genitiv": "der Werbung",
+        "dativ": "der Werbung",
+        "akkusativ": "die Werbung"
+      },
+      "plural": {
+        "nominativ": "die Werbungen",
+        "genitiv": "der Werbungen",
+        "dativ": "den Werbungen",
+        "akkusativ": "die Werbungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wärbung",
+    "Werbuhng",
+    "Werbunk",
+    "Wärbunk",
+    "Verbung"
+  ],
+  "bild_datei": "Werbung.webp",
+  "audio_datei": "Werbung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "advertising"
+    },
+    {
+      "language_code": "fr",
+      "translation": "publicité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "reklam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إعلان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "werben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plakat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reklame"
+    }
+  ]
+}

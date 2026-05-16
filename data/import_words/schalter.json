@@ -1,0 +1,82 @@
+{
+  "lemma": "Schalter",
+  "wortart": "Nomen",
+  "silben": "Schal-ter",
+  "begriffserklaerung": "Ein Schalter ist ein kleiner Knopf oder Hebel, mit dem man zum Beispiel das Licht an- und ausschalten kann. Schalter gibt es aber auch an Bahnhöfen oder Ämtern, wo man ansteht und bedient wird.",
+  "beispielsatz": "Lea drückt den Schalter an der Wand, und das Licht geht an.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Schal-ter\". Nach dem kurzen „a\" hörst du das „l\", dann folgt „ter\". Achte auf das „sch\" am Anfang!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schalten"
+  ],
+  "bild_datei": "Schalter.webp",
+  "audio_datei": "Schalter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "switch / counter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interrupteur / guichet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anahtar / gişe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح / شباك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schalten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schaltung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knopf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Knopf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schalter",
+    "plural": "die Schalter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schalter",
+        "genitiv": "des Schalters",
+        "dativ": "dem Schalter",
+        "akkusativ": "den Schalter"
+      },
+      "plural": {
+        "nominativ": "die Schalter",
+        "genitiv": "der Schalter",
+        "dativ": "den Schaltern",
+        "akkusativ": "die Schalter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schalther",
+    "Shalter",
+    "Schaltr",
+    "Schaltet",
+    "Schallder"
+  ]
+}

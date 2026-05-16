@@ -1,0 +1,78 @@
+{
+  "lemma": "Vitamine",
+  "wortart": "Nomen",
+  "silben": "Vi-ta-mi-ne",
+  "begriffserklaerung": "Vitamine sind winzige Stoffe in Lebensmitteln, die dein Körper braucht, um gesund zu bleiben und gut zu wachsen.",
+  "beispielsatz": "In Orangen und Äpfeln stecken viele Vitamine, die uns fit und gesund halten.",
+  "rechtschreibstrategie": "Das Wort „Vitamine\" beginnt mit einem großen V – das ist ein Merkwort! Denk daran: V klingt wie F, wird aber mit V geschrieben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Vitamin"
+  ],
+  "bild_datei": "Vitamine.webp",
+  "audio_datei": "Vitamine.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vitamins"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vitamines"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vitaminler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيتامينات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vitamin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nährstoffe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Vitamin",
+    "plural": "die Vitamine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vitamin",
+        "genitiv": "des Vitamins",
+        "dativ": "dem Vitamin",
+        "akkusativ": "das Vitamin"
+      },
+      "plural": {
+        "nominativ": "die Vitamine",
+        "genitiv": "der Vitamine",
+        "dativ": "den Vitaminen",
+        "akkusativ": "die Vitamine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fitamine",
+    "Vitahmine",
+    "Vitamiene",
+    "Vittamine",
+    "Vitaminne"
+  ]
+}

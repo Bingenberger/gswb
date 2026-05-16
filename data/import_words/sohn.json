@@ -1,0 +1,79 @@
+{
+  "lemma": "Sohn",
+  "wortart": "Nomen",
+  "silben": "Sohn",
+  "begriffserklaerung": "Ein Sohn ist ein männliches Kind. Eltern nennen ihr männliches Kind ihren Sohn.",
+  "beispielsatz": "Der Sohn hilft seiner Mutter beim Einkaufen.",
+  "rechtschreibstrategie": "Das Wort „Sohn\" hat ein stummes h nach dem o – man hört es nicht, aber man schreibt es mit. Merke: So-hn klingt wie ein langes „o\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sohn",
+    "plural": "die Söhne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sohn",
+        "genitiv": "des Sohnes",
+        "dativ": "dem Sohn",
+        "akkusativ": "den Sohn"
+      },
+      "plural": {
+        "nominativ": "die Söhne",
+        "genitiv": "der Söhne",
+        "dativ": "den Söhnen",
+        "akkusativ": "die Söhne"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Sohn"
+  ],
+  "bild_datei": "Sohn.webp",
+  "audio_datei": "Sohn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "son"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fils"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oğul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Söhnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tochter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    }
+  ],
+  "fehlschreibungen": [
+    "Son",
+    "Sonn",
+    "Sohne",
+    "Sohn",
+    "Szon",
+    "Zohn"
+  ]
+}

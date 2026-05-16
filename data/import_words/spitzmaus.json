@@ -1,0 +1,83 @@
+{
+  "lemma": "Spitzmaus",
+  "wortart": "Nomen",
+  "silben": "Spitz-maus",
+  "begriffserklaerung": "Eine Spitzmaus ist ein kleines Tier mit einer langen, spitzen Schnauze. Sie sieht aus wie eine Maus, gehört aber nicht zur Familie der Mäuse.",
+  "beispielsatz": "Die Spitzmaus huscht blitzschnell durch das hohe Gras.",
+  "rechtschreibstrategie": "Das Wort „Spitzmaus\" ist aus zwei Teilen zusammengesetzt: „spitz\" und „Maus\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "spitz",
+    "Maus"
+  ],
+  "bild_datei": "Spitzmaus.webp",
+  "audio_datei": "Spitzmaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shrew"
+    },
+    {
+      "language_code": "fr",
+      "translation": "musaraigne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sivriburunlu fare"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زبابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Igel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maulwurf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiesel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spitzmaus",
+    "plural": "die Spitzmäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spitzmaus",
+        "genitiv": "der Spitzmaus",
+        "dativ": "der Spitzmaus",
+        "akkusativ": "die Spitzmaus"
+      },
+      "plural": {
+        "nominativ": "die Spitzmäuse",
+        "genitiv": "der Spitzmäuse",
+        "dativ": "den Spitzmäusen",
+        "akkusativ": "die Spitzmäuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spitzmauß",
+    "Spitzmauhs",
+    "Spizmaus",
+    "Spitsmaus",
+    "Spitzmauze"
+  ]
+}

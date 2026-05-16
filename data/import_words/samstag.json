@@ -1,0 +1,81 @@
+{
+  "lemma": "Samstag",
+  "wortart": "Nomen",
+  "silben": "Sams-tag",
+  "begriffserklaerung": "Der Samstag ist der sechste Tag der Woche. Er kommt nach dem Freitag und vor dem Sonntag. Der Samstag gehört zum Wochenende.",
+  "beispielsatz": "Am Samstag gehe ich mit meiner Familie auf den Spielplatz.",
+  "rechtschreibstrategie": "Sprich das Wort in zwei Teile: SAMS und TAG. Denke an den Bau-stein „Tag\" – den kennst du schon!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag"
+  ],
+  "bild_datei": "Samstag.webp",
+  "audio_datei": "Samstag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Saturday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "samedi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Cumartesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "السبت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wochenende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freitag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonntag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Samstag",
+    "plural": "die Samstage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Samstag",
+        "genitiv": "des Samstags",
+        "dativ": "dem Samstag",
+        "akkusativ": "den Samstag"
+      },
+      "plural": {
+        "nominativ": "die Samstage",
+        "genitiv": "der Samstage",
+        "dativ": "den Samstagen",
+        "akkusativ": "die Samstage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Samßtag",
+    "Samstach",
+    "Samstahg",
+    "Samstag",
+    "Samstäg",
+    "Zamstag",
+    "Samsdag"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Lager",
+  "wortart": "Nomen",
+  "silben": "La-ger",
+  "begriffserklaerung": "Ein Lager ist ein Ort, an dem Dinge aufbewahrt oder Menschen für eine Zeit untergebracht werden – zum Beispiel ein Zeltlager im Wald.",
+  "beispielsatz": "Unsere Klasse übernachtet drei Tage lang im Lager am See.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „La-ger\". Das „g\" in der Mitte hörst du deutlich – schreib es auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lager"
+  ],
+  "bild_datei": "Lager.webp",
+  "audio_datei": "Lager.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "camp / warehouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camp / entrepôt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamp / depo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخيم / مستودع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lagern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lagerung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorrat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Camp"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lager",
+    "plural": "die Lager",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lager",
+        "genitiv": "des Lagers",
+        "dativ": "dem Lager",
+        "akkusativ": "das Lager"
+      },
+      "plural": {
+        "nominativ": "die Lager",
+        "genitiv": "der Lager",
+        "dativ": "den Lagern",
+        "akkusativ": "die Lager"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laager",
+    "Lagер",
+    "Lagger",
+    "Lahger",
+    "Lagr"
+  ]
+}

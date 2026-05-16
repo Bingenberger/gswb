@@ -1,0 +1,82 @@
+{
+  "lemma": "Westen",
+  "wortart": "Nomen",
+  "silben": "Wes-ten",
+  "begriffserklaerung": "Der Westen ist eine Himmelsrichtung. Dort geht die Sonne jeden Abend unter.",
+  "beispielsatz": "Die Sonne geht im Westen unter.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Wes-ten. Nach dem kurzen „e\" hörst du das „s\" und das „t\" – schreib beide Buchstaben genau so, wie du sie sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "west"
+  ],
+  "bild_datei": "Westen.webp",
+  "audio_datei": "Westen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Westen",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Westen",
+        "genitiv": "des Westens",
+        "dativ": "dem Westen",
+        "akkusativ": "den Westen"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "west"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouest"
+    },
+    {
+      "language_code": "tr",
+      "translation": "batı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "westlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Westwind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Osten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Norden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süden"
+    }
+  ],
+  "fehlschreibungen": [
+    "Vesten",
+    "Wästen",
+    "Westen",
+    "Weasten",
+    "Weten"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Karte",
+  "wortart": "Nomen",
+  "silben": "Kar-te",
+  "begriffserklaerung": "Eine Karte ist ein kleines, flaches Stück Papier oder Pappe. Es kann eine Landkarte, eine Postkarte, eine Spielkarte oder eine Eintrittskarte sein.",
+  "beispielsatz": "Luisa schickt ihrer Oma eine bunte Karte zum Geburtstag.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kar-te\". Du hörst ein kurzes „a\" und dann „r\" – schreib einfach, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kart"
+  ],
+  "bild_datei": "Karte.webp",
+  "audio_datei": "Karte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "card / map"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kart / harita"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاقة / خريطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kartei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karton"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Postkarte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zettel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Karte",
+    "plural": "die Karten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Karte",
+        "genitiv": "der Karte",
+        "dativ": "der Karte",
+        "akkusativ": "die Karte"
+      },
+      "plural": {
+        "nominativ": "die Karten",
+        "genitiv": "der Karten",
+        "dativ": "den Karten",
+        "akkusativ": "die Karten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Carte",
+    "Karte",
+    "Kahte",
+    "Carde",
+    "Kard",
+    "Kharte"
+  ]
+}

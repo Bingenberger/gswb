@@ -1,0 +1,82 @@
+{
+  "lemma": "Gast",
+  "wortart": "Nomen",
+  "silben": "Gast",
+  "begriffserklaerung": "Ein Gast ist jemand, der bei anderen Menschen zu Besuch kommt, zum Beispiel zum Essen oder zum Übernachten.",
+  "beispielsatz": "Heute kommt ein Gast zu uns, und Mama backt einen Kuchen.",
+  "rechtschreibstrategie": "Verlängere das Wort: Gast → Gäste. Du hörst das „st\" am Ende deutlich – schreib es genau so!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Gast"
+  ],
+  "bild_datei": "Gast.webp",
+  "audio_datei": "Gast.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "guest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "invité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "misafir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gastfreundlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gastgeber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einladung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Besucher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gast",
+    "plural": "die Gäste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gast",
+        "genitiv": "des Gastes",
+        "dativ": "dem Gast",
+        "akkusativ": "den Gast"
+      },
+      "plural": {
+        "nominativ": "die Gäste",
+        "genitiv": "der Gäste",
+        "dativ": "den Gästen",
+        "akkusativ": "die Gäste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gast",
+    "Gasd",
+    "Gasdt",
+    "Gahst",
+    "Ghast"
+  ]
+}

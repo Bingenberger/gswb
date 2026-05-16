@@ -1,0 +1,91 @@
+{
+  "lemma": "eislaufen",
+  "wortart": "Verb",
+  "silben": "eis-lau-fen",
+  "begriffserklaerung": "Eislaufen bedeutet, auf einer Eisfläche mit Schlittschuhen zu gleiten und sich fortzubewegen.",
+  "beispielsatz": "Im Winter gehen wir oft eislaufen und drehen Runden auf dem zugefrorenen See.",
+  "rechtschreibstrategie": "Das Wort „eislaufen\" besteht aus zwei Bausteinen: „Eis\" und „laufen\". Sprich beide Teile einzeln, dann schreibst du sie leicht richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Eis",
+    "laufen"
+  ],
+  "bild_datei": "eislaufen.webp",
+  "audio_datei": "eislaufen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to ice skate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire du patin à glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buz pateni yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "التزلج على الجليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlittschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schlittschuhlaufen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "eislaufen",
+    "praesens": {
+      "ich": "laufe eis",
+      "du": "läufst eis",
+      "er_sie_es": "läuft eis",
+      "wir": "laufen eis",
+      "ihr": "lauft eis",
+      "sie": "laufen eis"
+    },
+    "perfekt": {
+      "ich": "bin eisgelaufen",
+      "du": "bist eisgelaufen",
+      "er_sie_es": "ist eisgelaufen",
+      "wir": "sind eisgelaufen",
+      "ihr": "seid eisgelaufen",
+      "sie": "sind eisgelaufen"
+    },
+    "praeteritum": {
+      "ich": "lief eis",
+      "du": "liefst eis",
+      "er_sie_es": "lief eis",
+      "wir": "liefen eis",
+      "ihr": "lieft eis",
+      "sie": "liefen eis"
+    }
+  },
+  "fehlschreibungen": [
+    "eißlaufen",
+    "eislauffen",
+    "eislaufen",
+    "eis laufen",
+    "eißläufen"
+  ]
+}

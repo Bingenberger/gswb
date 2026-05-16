@@ -1,0 +1,87 @@
+{
+  "lemma": "Rettungsdienst",
+  "wortart": "Nomen",
+  "silben": "Ret-tungs-dienst",
+  "begriffserklaerung": "Der Rettungsdienst hilft Menschen, die plötzlich krank werden oder einen Unfall haben. Die Helfer kommen schnell mit einem Krankenwagen und bringen die Person ins Krankenhaus.",
+  "beispielsatz": "Als Opa hinfiel und sich sehr wehtat, rief Mama sofort den Rettungsdienst.",
+  "rechtschreibstrategie": "Das Wort „Rettungsdienst\" ist ein Bausteinwort aus „Rettung\" und „Dienst\". Bei „Rettung\" hörst du das kurze „e\", deshalb schreibt man „tt\" – merke dir: kurzer Vokal, doppelter Konsonant!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "retten",
+    "Dienst"
+  ],
+  "bild_datei": "Rettungsdienst.webp",
+  "audio_datei": "Rettungsdienst.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rettungsdienst",
+    "plural": "die Rettungsdienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rettungsdienst",
+        "genitiv": "des Rettungsdienstes",
+        "dativ": "dem Rettungsdienst",
+        "akkusativ": "den Rettungsdienst"
+      },
+      "plural": {
+        "nominativ": "die Rettungsdienste",
+        "genitiv": "der Rettungsdienste",
+        "dativ": "den Rettungsdiensten",
+        "akkusativ": "die Rettungsdienste"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency medical service"
+    },
+    {
+      "language_code": "fr",
+      "translation": "service de secours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil servis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خدمة الإنقاذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rettung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notarzt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notfalldienst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Retungsdienst",
+    "Rettunsdienst",
+    "Rettungsdiensd",
+    "Rättungsdienst"
+  ]
+}

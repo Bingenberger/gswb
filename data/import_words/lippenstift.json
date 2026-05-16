@@ -1,0 +1,83 @@
+{
+  "lemma": "Lippenstift",
+  "wortart": "Nomen",
+  "silben": "Lip-pen-stift",
+  "begriffserklaerung": "Ein Lippenstift ist ein bunter Stift, mit dem man sich die Lippen anmalt. Er gibt es in vielen Farben, zum Beispiel Rot oder Rosa.",
+  "beispielsatz": "Meine Mama trägt heute einen roten Lippenstift.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Lippe\" und „Stift\". Denk daran, dass „Lippe\" ein Doppel-p hat – lip-pen. Sprich das Wort in Silben: Lip-pen-stift!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lippe",
+    "Stift"
+  ],
+  "bild_datei": "Lippenstift.webp",
+  "audio_datei": "Lippenstift.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lippenstift",
+    "plural": "die Lippenstifte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lippenstift",
+        "genitiv": "des Lippenstifts",
+        "dativ": "dem Lippenstift",
+        "akkusativ": "den Lippenstift"
+      },
+      "plural": {
+        "nominativ": "die Lippenstifte",
+        "genitiv": "der Lippenstifte",
+        "dativ": "den Lippenstiften",
+        "akkusativ": "die Lippenstifte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lipstick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rouge à lèvres"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ruj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أحمر الشفاه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lippe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schminke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Make-up"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagellack"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lipenstift",
+    "Lippenstif",
+    "Lippenstifft",
+    "Lipenstif"
+  ]
+}

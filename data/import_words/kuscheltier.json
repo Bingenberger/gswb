@@ -1,0 +1,84 @@
+{
+  "lemma": "Kuscheltier",
+  "wortart": "Nomen",
+  "silben": "Ku-schel-tier",
+  "begriffserklaerung": "Ein Kuscheltier ist ein weiches Stofftier, das man gerne umarmt und mit dem man schläft oder spielt.",
+  "beispielsatz": "Abends nimmt Lena ihr Kuscheltier mit ins Bett.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „kuschel\" und „Tier\". Sprich beide Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kuschel",
+    "Tier"
+  ],
+  "bild_datei": "Kuscheltier.webp",
+  "audio_datei": "Kuscheltier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stuffed animal / cuddly toy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peluche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "peluş oyuncak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة محشوة / دمية قطيفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kuscheln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stofftier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stofftier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kuscheltier",
+    "plural": "die Kuscheltiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kuscheltier",
+        "genitiv": "des Kuscheltiers",
+        "dativ": "dem Kuscheltier",
+        "akkusativ": "das Kuscheltier"
+      },
+      "plural": {
+        "nominativ": "die Kuscheltiere",
+        "genitiv": "der Kuscheltiere",
+        "dativ": "den Kuscheltieren",
+        "akkusativ": "die Kuscheltiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kuschelthier",
+    "Kuscheltier",
+    "Cusheltier",
+    "Kuschletier",
+    "Kuscheltire",
+    "Kuscheltiehr"
+  ]
+}

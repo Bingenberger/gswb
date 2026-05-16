@@ -1,0 +1,85 @@
+{
+  "lemma": "Schulkind",
+  "wortart": "Nomen",
+  "silben": "Schul-kind",
+  "begriffserklaerung": "Ein Schulkind ist ein Kind, das in die Schule geht und dort liest, schreibt und rechnet.",
+  "beispielsatz": "Jedes Schulkind trägt morgens seinen Ranzen auf dem Rücken.",
+  "rechtschreibstrategie": "„Schulkind\" ist aus zwei Wörtern zusammengesetzt: „Schule\" und „Kind\". Schreibe einfach beide Teile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schul",
+    "Kind"
+  ],
+  "bild_datei": "Schulkind.webp",
+  "audio_datei": "Schulkind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "schoolchild"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écolier / écolière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul çocuğu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طفل مدرسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schüler"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schulkind",
+    "plural": "die Schulkinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schulkind",
+        "genitiv": "des Schulkindes",
+        "dativ": "dem Schulkind",
+        "akkusativ": "das Schulkind"
+      },
+      "plural": {
+        "nominativ": "die Schulkinder",
+        "genitiv": "der Schulkinder",
+        "dativ": "den Schulkindern",
+        "akkusativ": "die Schulkinder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulkint",
+    "Schulkindt",
+    "Schullkind",
+    "Schulkind",
+    "Schuhkind",
+    "Sculkind"
+  ]
+}

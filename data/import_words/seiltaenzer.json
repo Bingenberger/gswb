@@ -1,0 +1,85 @@
+{
+  "lemma": "Seiltänzer",
+  "wortart": "Nomen",
+  "silben": "Seil-tän-zer",
+  "begriffserklaerung": "Ein Seiltänzer ist ein Künstler, der auf einem gespannten Seil balanciert und dabei kunstvoll tanzt oder turnt – oft im Zirkus.",
+  "beispielsatz": "Der Seiltänzer balanciert mutig hoch oben auf dem Seil, ohne herunterzufallen.",
+  "rechtschreibstrategie": "Das Wort „Seiltänzer\" ist aus zwei Teilen zusammengesetzt: „Seil\" und „Tänzer\". Schreibe beide Teile hintereinander – und denk an das Umlaut-ä in „Tänzer\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Seil",
+    "Tanz"
+  ],
+  "bild_datei": "Seiltänzer.webp",
+  "audio_datei": "Seiltänzer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seiltänzer",
+    "plural": "die Seiltänzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seiltänzer",
+        "genitiv": "des Seiltänzers",
+        "dativ": "dem Seiltänzer",
+        "akkusativ": "den Seiltänzer"
+      },
+      "plural": {
+        "nominativ": "die Seiltänzer",
+        "genitiv": "der Seiltänzer",
+        "dativ": "den Seiltänzern",
+        "akkusativ": "die Seiltänzer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tightrope walker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "funambule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ip cambazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راقص على الحبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tanz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zirkus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akrobat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Akrobat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seiltänzer",
+    "Seiltaenzer",
+    "Seiltennzer",
+    "Seiltenzer",
+    "Seiltänzter",
+    "Seiltänßer"
+  ]
+}

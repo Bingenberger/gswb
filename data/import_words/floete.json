@@ -1,0 +1,82 @@
+{
+  "lemma": "Flöte",
+  "wortart": "Nomen",
+  "silben": "Flö-te",
+  "begriffserklaerung": "Eine Flöte ist ein Musikinstrument, das du mit dem Mund anblässt. Sie hat Löcher, die du mit den Fingern zuhältst, um verschiedene Töne zu spielen.",
+  "beispielsatz": "In der Musikstunde lernt Lisa, auf der Flöte ein schönes Lied zu spielen.",
+  "rechtschreibstrategie": "Denk an das ö in „Flöte\" – sprich das Wort laut und deutlich: Flö-te. Das ö hörst du klar heraus!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Flöt"
+  ],
+  "bild_datei": "Flöte.webp",
+  "audio_datei": "Flöte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flöte",
+    "plural": "die Flöten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flöte",
+        "genitiv": "der Flöte",
+        "dativ": "der Flöte",
+        "akkusativ": "die Flöte"
+      },
+      "plural": {
+        "nominativ": "die Flöten",
+        "genitiv": "der Flöten",
+        "dativ": "den Flöten",
+        "akkusativ": "die Flöten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flute"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flûte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "flüt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ناي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flöten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flötist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gitarre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trommel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geige"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fleute",
+    "Flöhte",
+    "Flötte",
+    "Flete",
+    "Flöde"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kohl",
+  "wortart": "Nomen",
+  "silben": "Kohl",
+  "begriffserklaerung": "Kohl ist ein Gemüse mit großen, grünen Blättern. Es gibt viele Sorten, zum Beispiel Rotkohl, Weißkohl oder Brokkoli. Kohl wächst auf dem Feld und ist sehr gesund.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Suppe mit Kohl und Karotten.",
+  "rechtschreibstrategie": "Das Wort „Kohl\" hat ein langes „o\". Schreib dahinter ein „h\" – das Dehnungs-h macht den Vokal lang: K-oh-l.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Kohl"
+  ],
+  "bild_datei": "Kohl.webp",
+  "audio_datei": "Kohl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cabbage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lahana"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرنب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rotkohl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weißkohl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kohlrabi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karotte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spinat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kohl",
+    "plural": "die Kohlsorten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kohl",
+        "genitiv": "des Kohls",
+        "dativ": "dem Kohl",
+        "akkusativ": "den Kohl"
+      },
+      "plural": {
+        "nominativ": "die Kohlsorten",
+        "genitiv": "der Kohlsorten",
+        "dativ": "den Kohlsorten",
+        "akkusativ": "die Kohlsorten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Col",
+    "Kol",
+    "Kohle",
+    "Koohl",
+    "Kohl"
+  ]
+}

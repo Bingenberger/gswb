@@ -1,0 +1,93 @@
+{
+  "lemma": "brauchen",
+  "wortart": "Verb",
+  "silben": "brau-chen",
+  "begriffserklaerung": "Wenn du etwas brauchst, dann musst du es haben oder benötigst es für etwas.",
+  "beispielsatz": "Ich brauche einen Stift, um meine Hausaufgaben zu machen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „brau-chen\". Das „au\" sprichst du wie in „Haus\", und am Ende hörst du „chen\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "brauch"
+  ],
+  "bild_datei": "brauchen.webp",
+  "audio_datei": "brauchen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "brauchen",
+    "praesens": {
+      "ich": "brauche",
+      "du": "brauchst",
+      "er_sie_es": "braucht",
+      "wir": "brauchen",
+      "ihr": "braucht",
+      "sie": "brauchen"
+    },
+    "perfekt": {
+      "ich": "habe gebraucht",
+      "du": "hast gebraucht",
+      "er_sie_es": "hat gebraucht",
+      "wir": "haben gebraucht",
+      "ihr": "habt gebraucht",
+      "sie": "haben gebraucht"
+    },
+    "praeteritum": {
+      "ich": "brauchte",
+      "du": "brauchtest",
+      "er_sie_es": "brauchte",
+      "wir": "brauchten",
+      "ihr": "brauchtet",
+      "sie": "brauchten"
+    }
+  },
+  "fehlschreibungen": [
+    "brauchen",
+    "brauhen",
+    "brauxen",
+    "bruachen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to need"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avoir besoin de"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ihtiyaç duymak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحتاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebrauch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebraucht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "benötigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wollen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fehlen"
+    }
+  ]
+}

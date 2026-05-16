@@ -1,0 +1,82 @@
+{
+  "lemma": "Monster",
+  "wortart": "Nomen",
+  "silben": "Mons-ter",
+  "begriffserklaerung": "Ein Monster ist ein erfundenes, beängstigendes Wesen aus Geschichten, Filmen oder Träumen. Monster sehen oft gruselig aus und haben besondere Kräfte.",
+  "beispielsatz": "In dem Bilderbuch versteckt sich ein kleines grünes Monster unter dem Bett.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich in Silben: Mons-ter. Nach dem kurzen „o\" hörst du das „n\" und das „s\" – schreib alle Mitlaute mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Monster"
+  ],
+  "bild_datei": "Monster.webp",
+  "audio_datei": "Monster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "monster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monstre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "canavar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Monstrum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "monströs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespenst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ungeheuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Monster",
+    "plural": "die Monster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Monster",
+        "genitiv": "des Monsters",
+        "dativ": "dem Monster",
+        "akkusativ": "das Monster"
+      },
+      "plural": {
+        "nominativ": "die Monster",
+        "genitiv": "der Monster",
+        "dativ": "den Monstern",
+        "akkusativ": "die Monster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Monsta",
+    "Monsder",
+    "Mohnster",
+    "Monsster",
+    "Momster"
+  ]
+}

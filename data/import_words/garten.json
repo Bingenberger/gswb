@@ -1,0 +1,86 @@
+{
+  "lemma": "Garten",
+  "wortart": "Nomen",
+  "silben": "Gar-ten",
+  "begriffserklaerung": "Ein Garten ist ein Stück Land, auf dem Pflanzen, Blumen, Gemüse oder Bäume wachsen. Viele Menschen pflegen ihren Garten gerne.",
+  "beispielsatz": "Im Garten blühen bunte Blumen und die Kinder spielen auf dem Rasen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Gar-ten. Nach dem kurzen „a\" hörst du ein „r\" – schreib einfach, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "gärtn"
+  ],
+  "bild_datei": "Garten.webp",
+  "audio_datei": "Garten.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Garten",
+    "plural": "die Gärten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Garten",
+        "genitiv": "des Gartens",
+        "dativ": "dem Garten",
+        "akkusativ": "den Garten"
+      },
+      "plural": {
+        "nominativ": "die Gärten",
+        "genitiv": "der Gärten",
+        "dativ": "den Gärten",
+        "akkusativ": "die Gärten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garden"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jardin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bahçe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حديقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gärtner"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gärtnern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anlage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gaten",
+    "Garden",
+    "Gahrten",
+    "Gartten",
+    "Gärten"
+  ]
+}

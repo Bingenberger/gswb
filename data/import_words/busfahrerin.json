@@ -1,0 +1,83 @@
+{
+  "lemma": "Busfahrerin",
+  "wortart": "Nomen",
+  "silben": "Bus-fah-re-rin",
+  "begriffserklaerung": "Eine Busfahrerin ist eine Frau, die einen Bus fährt und dabei Fahrgäste von einer Haltestelle zur nächsten bringt.",
+  "beispielsatz": "Die Busfahrerin öffnet freundlich die Tür, damit alle Kinder einsteigen können.",
+  "rechtschreibstrategie": "Das Wort „Busfahrerin\" ist aus drei Bausteinen zusammengesetzt: „Bus\" + „fahr\" + „erin\". Das Dehnungs-h in „fahr\" hörst du, wenn du „fahren\" laut sprichst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Busfahrerin.webp",
+  "audio_datei": "Busfahrerin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Busfahrerin",
+    "plural": "die Busfahrerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Busfahrerin",
+        "genitiv": "der Busfahrerin",
+        "dativ": "der Busfahrerin",
+        "akkusativ": "die Busfahrerin"
+      },
+      "plural": {
+        "nominativ": "die Busfahrerinnen",
+        "genitiv": "der Busfahrerinnen",
+        "dativ": "den Busfahrerinnen",
+        "akkusativ": "die Busfahrerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bus driver (female)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conductrice de bus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otobüs şoförü (kadın)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائقة الحافلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Busfahrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrgast"
+    }
+  ],
+  "fehlschreibungen": [
+    "Busfährerin",
+    "Busfarerin",
+    "Busfaehrerin",
+    "Busfahrrerin",
+    "Busfharerin"
+  ]
+}

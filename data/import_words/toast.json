@@ -1,0 +1,82 @@
+{
+  "lemma": "Toast",
+  "wortart": "Nomen",
+  "silben": "Toast",
+  "begriffserklaerung": "Ein Toast ist eine Scheibe Brot, die in einem Toaster oder einer Pfanne knusprig gebacken wird.",
+  "beispielsatz": "Zum Frühstück esse ich einen Toast mit Butter und Marmelade.",
+  "rechtschreibstrategie": "„Toast\" kommt aus dem Englischen und wird genauso geschrieben, wie es klingt – merke dir das „oa\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Toast"
+  ],
+  "bild_datei": "Toast.webp",
+  "audio_datei": "Toast.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toast"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toast"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tost"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توست"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "toasten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Toaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Toastbrot"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Toast",
+    "plural": "die Toasts",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Toast",
+        "genitiv": "des Toasts",
+        "dativ": "dem Toast",
+        "akkusativ": "den Toast"
+      },
+      "plural": {
+        "nominativ": "die Toasts",
+        "genitiv": "der Toasts",
+        "dativ": "den Toasts",
+        "akkusativ": "die Toasts"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tost",
+    "Toasd",
+    "Toahst",
+    "Tohst",
+    "Toest"
+  ]
+}

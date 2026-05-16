@@ -1,0 +1,86 @@
+{
+  "lemma": "Nerv",
+  "wortart": "Nomen",
+  "silben": "Nerv",
+  "begriffserklaerung": "Ein Nerv ist eine dünne Faser in deinem Körper, die Gefühle und Signale zwischen dem Gehirn und den anderen Körperteilen weiterleitet.",
+  "beispielsatz": "Der Arzt erklärt, dass der Nerv im Arm die Empfindungen an das Gehirn weitergibt.",
+  "rechtschreibstrategie": "Schreibe „Nerv\" mit „v\" am Ende – das klingt wie ein „f\", aber wenn du das Wort verlängerst, hörst du das „v\": Ner-ven.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "nerv"
+  ],
+  "bild_datei": "Nerv.webp",
+  "audio_datei": "Nerv.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nerv",
+    "plural": "die Nerven",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nerv",
+        "genitiv": "des Nervs",
+        "dativ": "dem Nerv",
+        "akkusativ": "den Nerv"
+      },
+      "plural": {
+        "nominativ": "die Nerven",
+        "genitiv": "der Nerven",
+        "dativ": "den Nerven",
+        "akkusativ": "die Nerven"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nerve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nerf"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nervig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nervös"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nerven"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehirn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nerf",
+    "Nerfv",
+    "Nerff",
+    "Nehrv",
+    "Nervv"
+  ]
+}

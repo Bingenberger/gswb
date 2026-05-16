@@ -1,0 +1,77 @@
+{
+  "lemma": "Seeleopard",
+  "wortart": "Nomen",
+  "silben": "See-leo-pard",
+  "begriffserklaerung": "Der Seeleopard ist ein großes Raubtier, das in der Antarktis lebt. Er ist eine Robbenart und ein sehr guter Jäger im Meer.",
+  "beispielsatz": "Der Seeleopard jagt Pinguine und Fische im eiskalten Wasser der Antarktis.",
+  "rechtschreibstrategie": "Das Wort „Seeleopard\" ist ein zusammengesetztes Wort aus „See\" und „Leopard\". Schreibe beide Teile einfach hintereinander: See + Leopard = Seeleopard.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Leopard"
+  ],
+  "bild_datei": "Seeleopard.webp",
+  "audio_datei": "Seeleopard.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leopard seal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "léopard de mer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deniz leoparı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فقمة الفهد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Robbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinguin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antarktis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seeleopard",
+    "plural": "die Seeleoparden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seeleopard",
+        "genitiv": "des Seeleoparden",
+        "dativ": "dem Seeleoparden",
+        "akkusativ": "den Seeleoparden"
+      },
+      "plural": {
+        "nominativ": "die Seeleoparden",
+        "genitiv": "der Seeleoparden",
+        "dativ": "den Seeleoparden",
+        "akkusativ": "die Seeleoparden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Seeleophardt",
+    "Seeleopard",
+    "Seeläopard",
+    "Seelöpard",
+    "Sehleopard",
+    "Seeleopat"
+  ]
+}

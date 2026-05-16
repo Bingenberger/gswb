@@ -1,0 +1,78 @@
+{
+  "lemma": "Lippe",
+  "wortart": "Nomen",
+  "silben": "Lip-pe",
+  "begriffserklaerung": "Die Lippe ist der weiche Rand an deinem Mund. Du hast eine obere und eine untere Lippe.",
+  "beispielsatz": "Mia leckt sich die Lippe, weil das Eis so lecker schmeckt.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt ein Doppel-p: Lip-pe. Sprich die beiden p deutlich mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lippe",
+    "plural": "die Lippen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lippe",
+        "genitiv": "der Lippe",
+        "dativ": "der Lippe",
+        "akkusativ": "die Lippe"
+      },
+      "plural": {
+        "nominativ": "die Lippen",
+        "genitiv": "der Lippen",
+        "dativ": "den Lippen",
+        "akkusativ": "die Lippen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lipe",
+    "Lippe",
+    "Lyppe",
+    "Lype",
+    "Liipe"
+  ],
+  "wortfamilie_basen": [
+    "lipp"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lipp"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zunge"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lèvre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dudak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شفة"
+    }
+  ],
+  "bild_datei": "Lippe.webp",
+  "audio_datei": "Lippe.mp3"
+}

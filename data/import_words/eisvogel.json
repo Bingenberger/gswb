@@ -1,0 +1,80 @@
+{
+  "lemma": "Eisvogel",
+  "wortart": "Nomen",
+  "silben": "Eis-vo-gel",
+  "begriffserklaerung": "Der Eisvogel ist ein kleiner, bunter Vogel mit leuchtend blauem Rücken und orangerotem Bauch. Er lebt an Bächen und Flüssen und taucht blitzschnell ins Wasser, um Fische zu fangen.",
+  "beispielsatz": "Der Eisvogel saß reglos auf einem Ast über dem Bach und wartete auf einen Fisch.",
+  "rechtschreibstrategie": "„Eisvogel\" ist ein Zusammengesetztes Wort aus „Eis\" und „Vogel\". Sprich beide Teile deutlich: EIS + VOGEL. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Vogel",
+    "Eis"
+  ],
+  "bild_datei": "Eisvogel.webp",
+  "audio_datei": "Eisvogel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kingfisher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "martin-pêcheur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalıçapkını"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر الرفراف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasservogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eisvogel",
+    "plural": "die Eisvögel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eisvogel",
+        "genitiv": "des Eisvogels",
+        "dativ": "dem Eisvogel",
+        "akkusativ": "den Eisvogel"
+      },
+      "plural": {
+        "nominativ": "die Eisvögel",
+        "genitiv": "der Eisvögel",
+        "dativ": "den Eisvögeln",
+        "akkusativ": "die Eisvögel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eissfogel",
+    "Eizvogel",
+    "Eisfogel",
+    "Eisvogl",
+    "Eißvogel",
+    "Eisvogell"
+  ]
+}

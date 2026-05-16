@@ -1,0 +1,79 @@
+{
+  "lemma": "Merkmal",
+  "wortart": "Nomen",
+  "silben": "Merk-mal",
+  "begriffserklaerung": "Ein Merkmal ist eine besondere Eigenschaft, an der man etwas oder jemanden erkennen kann.",
+  "beispielsatz": "Ein Merkmal des Löwen ist seine große Mähne.",
+  "rechtschreibstrategie": "Das Wort „Merkmal\" setzt sich aus zwei Bausteinen zusammen: „merk\" (wie in „merken\") und „mal\". Sprich beide Teile deutlich: MERK-MAL.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "merk"
+  ],
+  "bild_datei": "Merkmal.webp",
+  "audio_datei": "Merkmal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "characteristic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caractéristique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "özellik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "merken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eigenschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beschreibung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kennzeichen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Merkmal",
+    "plural": "die Merkmale",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Merkmal",
+        "genitiv": "des Merkmals",
+        "dativ": "dem Merkmal",
+        "akkusativ": "das Merkmal"
+      },
+      "plural": {
+        "nominativ": "die Merkmale",
+        "genitiv": "der Merkmale",
+        "dativ": "den Merkmalen",
+        "akkusativ": "die Merkmale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Merkmal",
+    "Märkmal",
+    "Merkhmahl",
+    "Merkmahl",
+    "Mäckmal",
+    "Mirkmal"
+  ]
+}

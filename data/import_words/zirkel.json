@@ -1,0 +1,82 @@
+{
+  "lemma": "Zirkel",
+  "wortart": "Nomen",
+  "silben": "Zir-kel",
+  "begriffserklaerung": "Ein Zirkel ist ein Werkzeug zum Zeichnen von Kreisen. Er hat zwei Arme: einen mit einer Spitze und einen mit einem Stift.",
+  "beispielsatz": "Mit dem Zirkel zeichnet Lena einen perfekten Kreis in ihr Heft.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Zir-kel. Das „i\" ist kurz, und das „k\" wird durch den Doppelklang „rk\" gestützt. Denk daran: nach dem kurzen „i\" folgt „r\" und dann „kel\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Zirkel"
+  ],
+  "bild_datei": "Zirkel.webp",
+  "audio_datei": "Zirkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "compass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pergel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بركار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zirkeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zirkelkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geodreieck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zirkel",
+    "plural": "die Zirkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zirkel",
+        "genitiv": "des Zirkels",
+        "dativ": "dem Zirkel",
+        "akkusativ": "den Zirkel"
+      },
+      "plural": {
+        "nominativ": "die Zirkel",
+        "genitiv": "der Zirkel",
+        "dativ": "den Zirkeln",
+        "akkusativ": "die Zirkel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zirckel",
+    "Zierkel",
+    "Cirkel",
+    "Zirkell",
+    "Zyrkel"
+  ]
+}

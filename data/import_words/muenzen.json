@@ -1,0 +1,78 @@
+{
+  "lemma": "Münzen",
+  "wortart": "Nomen",
+  "silben": "Mün-zen",
+  "begriffserklaerung": "Münzen sind kleine, runde Geldstücke aus Metall. Man benutzt sie zum Bezahlen.",
+  "beispielsatz": "Ich habe fünf Münzen in meinem Portemonnaie.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Mün-zen\". Das ü hörst du deutlich. Am Ende schreibst du „zen\" – das z kommt vom Singular „Münze\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Münze"
+  ],
+  "bild_datei": "Münzen.webp",
+  "audio_datei": "Münzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coins"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pièces de monnaie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "madeni paralar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عملات معدنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldbörse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geldstücke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Münze",
+    "plural": "die Münzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Münze",
+        "genitiv": "der Münze",
+        "dativ": "der Münze",
+        "akkusativ": "die Münze"
+      },
+      "plural": {
+        "nominativ": "die Münzen",
+        "genitiv": "der Münzen",
+        "dativ": "den Münzen",
+        "akkusativ": "die Münzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Münsen",
+    "Münzzen",
+    "Müntzen",
+    "Minzen",
+    "Münzen"
+  ]
+}

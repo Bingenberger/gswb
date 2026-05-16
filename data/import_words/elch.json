@@ -1,0 +1,82 @@
+{
+  "lemma": "Elch",
+  "wortart": "Nomen",
+  "silben": "Elch",
+  "begriffserklaerung": "Ein Elch ist ein sehr großes Tier mit langen Beinen und einem breiten Geweih. Er lebt in Wäldern in Nordeuropa und Nordamerika.",
+  "beispielsatz": "Der Elch steht am Waldrand und trinkt aus dem See.",
+  "rechtschreibstrategie": "Das Wort „Elch\" hat nur eine Silbe. Sprich es laut aus: Du hörst ein kurzes „e\" – aber hier gibt es keinen Doppelkonsonanten, sondern die Buchstabengruppe „lch\". Denke daran: Es heißt „der Elch\" – mit großem E, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Elch"
+  ],
+  "bild_datei": "Elch.webp",
+  "audio_datei": "Elch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Elch",
+    "plural": "die Elche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Elch",
+        "genitiv": "des Elches",
+        "dativ": "dem Elch",
+        "akkusativ": "den Elch"
+      },
+      "plural": {
+        "nominativ": "die Elche",
+        "genitiv": "der Elche",
+        "dativ": "den Elchen",
+        "akkusativ": "die Elche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "moose / elk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geyik / ren geyiği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أيل الموظ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elchkuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elchkalb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hirsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rentier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    }
+  ],
+  "fehlschreibungen": [
+    "Elsch",
+    "Eltsch",
+    "Elck",
+    "elch",
+    "Älch"
+  ]
+}

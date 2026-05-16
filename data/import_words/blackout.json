@@ -1,0 +1,73 @@
+{
+  "lemma": "Blackout",
+  "wortart": "Nomen",
+  "silben": "Black-out",
+  "begriffserklaerung": "Ein Blackout ist ein plötzlicher Stromausfall, bei dem es überall dunkel wird und kein Strom mehr fließt. Man sagt auch Blackout, wenn jemand kurz nichts mehr weiß oder denken kann.",
+  "beispielsatz": "Beim Blackout ging plötzlich das ganze Licht im Haus aus.",
+  "rechtschreibstrategie": "„Blackout\" ist ein Fremdwort aus dem Englischen. Merke: Es schreibt sich genau so, wie man es liest – mit „ck\" in der Mitte und „out\" am Ende.",
+  "rechtschreibkategorien": [
+    "Merkwort mit X",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Blackout.webp",
+  "audio_datei": "Blackout.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blackout"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panne d'électricité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik kesintisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "انقطاع الكهرباء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stromausfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dunkelheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stromausfall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blackout",
+    "plural": "die Blackouts",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blackout",
+        "genitiv": "des Blackouts",
+        "dativ": "dem Blackout",
+        "akkusativ": "den Blackout"
+      },
+      "plural": {
+        "nominativ": "die Blackouts",
+        "genitiv": "der Blackouts",
+        "dativ": "den Blackouts",
+        "akkusativ": "die Blackouts"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bleckout",
+    "Blackaut",
+    "Blakout",
+    "Blackoud",
+    "Blaccout"
+  ]
+}

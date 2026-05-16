@@ -1,0 +1,78 @@
+{
+  "lemma": "Socke",
+  "wortart": "Nomen",
+  "silben": "So-cke",
+  "begriffserklaerung": "Eine Socke ist ein weiches Kleidungsstück, das man über den Fuß zieht und unter dem Schuh trägt, damit der Fuß warm und geschützt ist.",
+  "beispielsatz": "Morgens zieht Lena zuerst ihre bunten Socken an, bevor sie ihre Schuhe nimmt.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" kommt ein Doppel-„k\" als „ck\" – das zeigt dir das Kürzezeichen: So-cke!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Socke"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Socke",
+    "plural": "die Socken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Socke",
+        "genitiv": "der Socke",
+        "dativ": "der Socke",
+        "akkusativ": "die Socke"
+      },
+      "plural": {
+        "nominativ": "die Socken",
+        "genitiv": "der Socken",
+        "dativ": "den Socken",
+        "akkusativ": "die Socken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zocke",
+    "Sokke",
+    "Socken",
+    "Soke",
+    "Socck"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Söckchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strumpf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strumpf"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çorap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جَوْرَب"
+    }
+  ],
+  "bild_datei": "Socke.webp",
+  "audio_datei": "Socke.mp3"
+}

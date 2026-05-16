@@ -1,0 +1,83 @@
+{
+  "lemma": "Trinkwasser",
+  "wortart": "Nomen",
+  "silben": "Trink-was-ser",
+  "begriffserklaerung": "Trinkwasser ist sauberes Wasser, das Menschen und Tiere trinken können, ohne krank zu werden.",
+  "beispielsatz": "Aus dem Wasserhahn kommt frisches Trinkwasser.",
+  "rechtschreibstrategie": "Trinkwasser ist ein zusammengesetztes Wort aus „trinken\" und „Wasser\". Schreibe beide Teile einfach hintereinander: Trink + Wasser = Trinkwasser.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "trinken",
+    "Wasser"
+  ],
+  "bild_datei": "Trinkwasser.webp",
+  "audio_datei": "Trinkwasser.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Trinkwasser",
+    "plural": "die Trinkwässer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Trinkwasser",
+        "genitiv": "des Trinkwassers",
+        "dativ": "dem Trinkwasser",
+        "akkusativ": "das Trinkwasser"
+      },
+      "plural": {
+        "nominativ": "die Trinkwässer",
+        "genitiv": "der Trinkwässer",
+        "dativ": "den Trinkwässern",
+        "akkusativ": "die Trinkwässer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drinking water"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eau potable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "içme suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مياه الشرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leitungswasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mineralwasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leitungswasser"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drinkwasser",
+    "Trinkvaseer",
+    "Trinkwaser",
+    "Trinkwasßer",
+    "Trinkwässer"
+  ]
+}

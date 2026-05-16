@@ -1,0 +1,82 @@
+{
+  "lemma": "Bagger",
+  "wortart": "Nomen",
+  "silben": "Bag-ger",
+  "begriffserklaerung": "Ein Bagger ist eine große Baumaschine mit einem langen Arm und einer Schaufel. Er wird benutzt, um Erde, Sand oder Steine auszuheben und umzuschaufeln.",
+  "beispielsatz": "Der Bagger gräbt ein tiefes Loch für die neue Straße.",
+  "rechtschreibstrategie": "Das Wort „Bagger\" hat ein doppeltes g, weil der Vokal a davor kurz gesprochen wird. Sprich: Bag-ger – du hörst das kurze a!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bagger",
+    "bag"
+  ],
+  "bild_datei": "Bagger.webp",
+  "audio_datei": "Bagger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "excavator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pelleteuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekskavatör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حفارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "baggern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baggersee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kran"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bulldozer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bagger",
+    "plural": "die Bagger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bagger",
+        "genitiv": "des Baggers",
+        "dativ": "dem Bagger",
+        "akkusativ": "den Bagger"
+      },
+      "plural": {
+        "nominativ": "die Bagger",
+        "genitiv": "der Bagger",
+        "dativ": "den Baggern",
+        "akkusativ": "die Bagger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bager",
+    "Bagger",
+    "Baggger",
+    "Baggar"
+  ]
+}

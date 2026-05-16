@@ -1,0 +1,84 @@
+{
+  "lemma": "Rollstuhl",
+  "wortart": "Nomen",
+  "silben": "Roll-stuhl",
+  "begriffserklaerung": "Ein Rollstuhl ist ein Stuhl mit Rädern. Menschen, die nicht gut laufen können, sitzen darin und fahren damit von Ort zu Ort.",
+  "beispielsatz": "Meine Oma benutzt einen Rollstuhl, weil ihr Bein verletzt ist.",
+  "rechtschreibstrategie": "„Rollstuhl\" ist ein zusammengesetztes Wort aus „rollen\" und „Stuhl\". Trenne es in seine zwei Teile: ROLL + STUHL. Das „ll\" schreibst du doppelt, weil das „o\" kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll",
+    "Stuhl"
+  ],
+  "bild_datei": "Rollstuhl.webp",
+  "audio_datei": "Rollstuhl.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rollstuhl",
+    "plural": "die Rollstühle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rollstuhl",
+        "genitiv": "des Rollstuhls",
+        "dativ": "dem Rollstuhl",
+        "akkusativ": "den Rollstuhl"
+      },
+      "plural": {
+        "nominativ": "die Rollstühle",
+        "genitiv": "der Rollstühle",
+        "dativ": "den Rollstühlen",
+        "akkusativ": "die Rollstühle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wheelchair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fauteuil roulant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekerlekli sandalye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرسي متحرك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehhilfe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rollator"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rolstuhl",
+    "Rollstul",
+    "Rollshtul",
+    "Rollstühl",
+    "Rollstuehl"
+  ]
+}

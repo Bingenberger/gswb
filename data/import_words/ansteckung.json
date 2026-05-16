@@ -1,0 +1,88 @@
+{
+  "lemma": "Ansteckung",
+  "wortart": "Nomen",
+  "silben": "An-ste-ckung",
+  "begriffserklaerung": "Eine Ansteckung passiert, wenn Krankheitserreger wie Viren oder Bakterien von einer Person auf eine andere übergehen und diese Person dann auch krank wird.",
+  "beispielsatz": "Damit es keine Ansteckung gibt, sollst du dir nach dem Niesen die Hände waschen.",
+  "rechtschreibstrategie": "Das Wort hat das Wort „stecken\" in sich – hörst du es? Nach dem kurzen „e\" kommt „ck\", weil das Wort zu „stecken\" gehört.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steck"
+  ],
+  "bild_datei": "Ansteckung.webp",
+  "audio_datei": "Ansteckung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ansteckung",
+    "plural": "die Ansteckungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ansteckung",
+        "genitiv": "der Ansteckung",
+        "dativ": "der Ansteckung",
+        "akkusativ": "die Ansteckung"
+      },
+      "plural": {
+        "nominativ": "die Ansteckungen",
+        "genitiv": "der Ansteckungen",
+        "dativ": "den Ansteckungen",
+        "akkusativ": "die Ansteckungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "infection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "infection"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulaşma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدوى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anstecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ansteckend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übertragung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Virus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Impfung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anstekung",
+    "Ansteckunk",
+    "Anstäckung",
+    "Anstekckung",
+    "Ansteckuing"
+  ]
+}

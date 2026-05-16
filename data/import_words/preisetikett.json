@@ -1,0 +1,85 @@
+{
+  "lemma": "Preisetikett",
+  "wortart": "Nomen",
+  "silben": "Preis-e-ti-kett",
+  "begriffserklaerung": "Ein Preisetikett ist ein kleines Schild oder Zettel, der an einem Gegenstand hängt und zeigt, wie viel er kostet.",
+  "beispielsatz": "Mama schaut auf das Preisetikett, um zu wissen, wie viel die Jacke kostet.",
+  "rechtschreibstrategie": "Das Wort „Preisetikett\" ist aus zwei Teilen gebaut: „Preis\" und „Etikett\". Das „tt\" am Ende kommt vom kurzen „e\" davor – das zeigt dir das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Preis",
+    "Etikett"
+  ],
+  "bild_datei": "Preisetikett.webp",
+  "audio_datei": "Preisetikett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "price tag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étiquette de prix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiyat etiketi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاقة السعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Etikett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kassenzette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaufenster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Preisschild"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Preisetikett",
+    "plural": "die Preisetiketten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Preisetikett",
+        "genitiv": "des Preisetiketts",
+        "dativ": "dem Preisetikett",
+        "akkusativ": "das Preisetikett"
+      },
+      "plural": {
+        "nominativ": "die Preisetiketten",
+        "genitiv": "der Preisetiketten",
+        "dativ": "den Preisetiketten",
+        "akkusativ": "die Preisetiketten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Preißetikett",
+    "Preissetikett",
+    "Preissetiket",
+    "Preisetiket",
+    "Preißetiket",
+    "Preysetikett"
+  ]
+}

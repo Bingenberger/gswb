@@ -1,0 +1,84 @@
+{
+  "lemma": "Leseecke",
+  "wortart": "Nomen",
+  "silben": "Le-se-e-cke",
+  "begriffserklaerung": "Eine Leseecke ist ein gemütlicher Platz – oft mit Kissen oder einem Sessel –, an dem man sich hinsetzt und in Ruhe ein Buch liest.",
+  "beispielsatz": "In unserer Klasse gibt es eine kuschelige Leseecke mit bunten Kissen.",
+  "rechtschreibstrategie": "Das Wort „Leseecke\" besteht aus zwei Bausteinen: „Lese\" und „Ecke\". Wenn du dir die beiden Teile einzeln vorstellst, kannst du das Wort leicht richtig schreiben. Achte auf das doppelte „e\" in der Mitte, das entsteht, weil „Lese\" auf „e\" endet und „Ecke\" mit „e\" beginnt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "lesen",
+    "Ecke"
+  ],
+  "bild_datei": "Leseecke.webp",
+  "audio_datei": "Leseecke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leseecke",
+    "plural": "die Leseecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leseecke",
+        "genitiv": "der Leseecke",
+        "dativ": "der Leseecke",
+        "akkusativ": "die Leseecke"
+      },
+      "plural": {
+        "nominativ": "die Leseecken",
+        "genitiv": "der Leseecken",
+        "dativ": "den Leseecken",
+        "akkusativ": "die Leseecken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reading corner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coin lecture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okuma köşesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ركن القراءة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lesewinkel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Leseeke",
+    "Leseäcke",
+    "Leesecke",
+    "Lesecke",
+    "Lesehecke"
+  ]
+}

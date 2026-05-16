@@ -1,0 +1,83 @@
+{
+  "lemma": "Schatz",
+  "wortart": "Nomen",
+  "silben": "Schatz",
+  "begriffserklaerung": "Ein Schatz ist eine Sammlung wertvoller Dinge, zum Beispiel Gold, Edelsteine oder Münzen. Das Wort kann auch jemanden meinen, den man sehr lieb hat.",
+  "beispielsatz": "Die Piraten haben einen riesigen Schatz auf der Insel vergraben.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „tz\" – das ist das Kürzezeichen. Denk daran: kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schatz"
+  ],
+  "bild_datei": "Schatz.webp",
+  "audio_datei": "Schatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "treasure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trésor"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hazine"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كنز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schätzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schatzkiste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gold"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pirat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kostbarkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schatz",
+    "plural": "die Schätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schatz",
+        "genitiv": "des Schatzes",
+        "dativ": "dem Schatz",
+        "akkusativ": "den Schatz"
+      },
+      "plural": {
+        "nominativ": "die Schätze",
+        "genitiv": "der Schätze",
+        "dativ": "den Schätzen",
+        "akkusativ": "die Schätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schaz",
+    "Schats",
+    "Schhatz",
+    "schatz",
+    "Schazz",
+    "Schattz"
+  ]
+}

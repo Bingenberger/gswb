@@ -1,0 +1,91 @@
+{
+  "lemma": "Freund",
+  "wortart": "Nomen",
+  "silben": "Freund",
+  "begriffserklaerung": "Ein Freund ist ein Mensch, den man sehr mag und dem man vertraut. Mit einem Freund macht man gerne etwas zusammen.",
+  "beispielsatz": "Mein bester Freund kommt heute zum Spielen zu mir.",
+  "rechtschreibstrategie": "Verlängere das Wort: Freund → Freunde. Am Ende hörst du dann das „d\" deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "freund"
+  ],
+  "bild_datei": "Freund.webp",
+  "audio_datei": "Freund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "friend"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ami"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arkadaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صديق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Freundin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "freundlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kumpel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielkamerad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Freund",
+    "plural": "die Freunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Freund",
+        "genitiv": "des Freundes",
+        "dativ": "dem Freund",
+        "akkusativ": "den Freund"
+      },
+      "plural": {
+        "nominativ": "die Freunde",
+        "genitiv": "der Freunde",
+        "dativ": "den Freunden",
+        "akkusativ": "die Freunde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Freunt",
+    "Freundt",
+    "Freynd",
+    "Freünd",
+    "Freund",
+    "Freunnd"
+  ]
+}

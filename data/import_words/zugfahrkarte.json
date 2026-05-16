@@ -1,0 +1,89 @@
+{
+  "lemma": "Zugfahrkarte",
+  "wortart": "Nomen",
+  "silben": "Zug-fahr-kar-te",
+  "begriffserklaerung": "Eine Zugfahrkarte ist ein Ticket, das du brauchst, um mit dem Zug zu fahren. Ohne sie darfst du nicht einsteigen.",
+  "beispielsatz": "Mama kauft am Schalter eine Zugfahrkarte für unsere Reise nach Hamburg.",
+  "rechtschreibstrategie": "Das Wort „Zugfahrkarte\" ist aus drei Teilen zusammengebaut: „Zug\" + „fahr\" + „Karte\". Sprich alle Teile laut mit: Zug – fahr – Kar – te!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zug",
+    "fahren",
+    "Karte"
+  ],
+  "bild_datei": "Zugfahrkarte.webp",
+  "audio_datei": "Zugfahrkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "train ticket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "billet de train"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tren bileti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تذكرة القطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zugticket"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zugfahrkarte",
+    "plural": "die Zugfahrkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zugfahrkarte",
+        "genitiv": "der Zugfahrkarte",
+        "dativ": "der Zugfahrkarte",
+        "akkusativ": "die Zugfahrkarte"
+      },
+      "plural": {
+        "nominativ": "die Zugfahrkarten",
+        "genitiv": "der Zugfahrkarten",
+        "dativ": "den Zugfahrkarten",
+        "akkusativ": "die Zugfahrkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zukfahrkarte",
+    "Zugfarkarte",
+    "Zugfahrkart",
+    "Zuhgfahrkarte",
+    "Zugfahrkarrte",
+    "Zugfahrckarte"
+  ]
+}

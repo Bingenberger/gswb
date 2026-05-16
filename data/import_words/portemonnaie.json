@@ -1,0 +1,77 @@
+{
+  "lemma": "Portemonnaie",
+  "wortart": "Nomen",
+  "silben": "Por-te-mon-naie",
+  "begriffserklaerung": "Ein Portemonnaie ist eine kleine Tasche aus Stoff oder Leder, in der man Geldscheine, Münzen und manchmal Karten aufbewahrt.",
+  "beispielsatz": "Mama steckt ihr Portemonnaie immer in die Handtasche.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Französischen und wird so geschrieben, wie es im Französischen üblich ist – deshalb musst du es einfach auswendig lernen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Portemonnaie.webp",
+  "audio_datei": "Portemonnaie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wallet / purse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte-monnaie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cüzdan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محفظة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldbeutel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geldbeutel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Portemonnaie",
+    "plural": "die Portemonnaies",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Portemonnaie",
+        "genitiv": "des Portemonnaies",
+        "dativ": "dem Portemonnaie",
+        "akkusativ": "das Portemonnaie"
+      },
+      "plural": {
+        "nominativ": "die Portemonnaies",
+        "genitiv": "der Portemonnaies",
+        "dativ": "den Portemonnaies",
+        "akkusativ": "die Portemonnaies"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Portemonie",
+    "Portmonie",
+    "Portemonnäh",
+    "Portemonai",
+    "Portemonnai",
+    "Portmonnaie"
+  ]
+}

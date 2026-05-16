@@ -1,0 +1,83 @@
+{
+  "lemma": "Ausstellung",
+  "wortart": "Nomen",
+  "silben": "Aus-stel-lung",
+  "begriffserklaerung": "Eine Ausstellung ist eine Veranstaltung, bei der Dinge wie Bilder, Fotos oder Erfindungen für andere Menschen gezeigt werden.",
+  "beispielsatz": "In der Ausstellung im Museum können wir viele bunte Gemälde anschauen.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus „aus\" und „Stellung\" zusammen. Sprich beide Teile deutlich: AUS-STEL-LUNG. Das Doppel-s kommt, weil „aus\" mit s endet und „stellen\" mit s beginnt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stell"
+  ],
+  "bild_datei": "Ausstellung.webp",
+  "audio_datei": "Ausstellung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ausstellung",
+    "plural": "die Ausstellungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ausstellung",
+        "genitiv": "der Ausstellung",
+        "dativ": "der Ausstellung",
+        "akkusativ": "die Ausstellung"
+      },
+      "plural": {
+        "nominativ": "die Ausstellungen",
+        "genitiv": "der Ausstellungen",
+        "dativ": "den Ausstellungen",
+        "akkusativ": "die Ausstellungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exhibition"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exposition"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sergi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausstellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Galerie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schau"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausstelung",
+    "Austellung",
+    "Ausstelllung",
+    "Ausstelluing",
+    "Ausstellng"
+  ]
+}

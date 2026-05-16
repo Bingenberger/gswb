@@ -1,0 +1,91 @@
+{
+  "lemma": "filmen",
+  "wortart": "Verb",
+  "silben": "fil-men",
+  "begriffserklaerung": "Wenn du etwas filmst, nimmst du es mit einer Kamera als Video auf.",
+  "beispielsatz": "Wir filmen das Schulfest mit dem Tablet.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „fil-men\". Nach dem kurzen „i\" hörst du das „l\" – schreib es genau so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Film"
+  ],
+  "bild_datei": "filmen.webp",
+  "audio_datei": "filmen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to film"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filmer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "film çekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصوّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Filmaufnahme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fotografieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufnehmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufnehmen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "filmen",
+    "praesens": {
+      "ich": "filme",
+      "du": "filmst",
+      "er_sie_es": "filmt",
+      "wir": "filmen",
+      "ihr": "filmt",
+      "sie": "filmen"
+    },
+    "perfekt": {
+      "ich": "habe gefilmt",
+      "du": "hast gefilmt",
+      "er_sie_es": "hat gefilmt",
+      "wir": "haben gefilmt",
+      "ihr": "habt gefilmt",
+      "sie": "haben gefilmt"
+    },
+    "praeteritum": {
+      "ich": "filmte",
+      "du": "filmtest",
+      "er_sie_es": "filmte",
+      "wir": "filmten",
+      "ihr": "filmtet",
+      "sie": "filmten"
+    }
+  },
+  "fehlschreibungen": [
+    "vilmen",
+    "fillmen",
+    "filmen",
+    "phielmen",
+    "filmmen",
+    "filln"
+  ]
+}

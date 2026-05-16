@@ -1,0 +1,90 @@
+{
+  "lemma": "Tempo",
+  "wortart": "Nomen",
+  "silben": "Tem-po",
+  "begriffserklaerung": "Das Tempo sagt, wie schnell oder langsam sich etwas bewegt oder passiert.",
+  "beispielsatz": "Das Auto fährt mit hohem Tempo die Straße entlang.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich: Tem-po. Nach dem kurzen „e\" kommt ein „m\", dann ein „p\" – kein Doppelbuchstabe nötig. Schreibe es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tempo"
+  ],
+  "bild_datei": "Tempo.webp",
+  "audio_datei": "Tempo.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Tempo",
+    "plural": "die Tempos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tempo",
+        "genitiv": "des Tempos",
+        "dativ": "dem Tempo",
+        "akkusativ": "das Tempo"
+      },
+      "plural": {
+        "nominativ": "die Tempos",
+        "genitiv": "der Tempos",
+        "dativ": "den Tempos",
+        "akkusativ": "die Tempos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "speed / tempo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tempo / vitesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tempo / hız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إيقاع / سرعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tempolimit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "temporeiche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschwindigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnelligkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rhythmus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Takt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rekord"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dempo",
+    "Tämpo",
+    "Tembo",
+    "Temppo",
+    "Tempos"
+  ]
+}

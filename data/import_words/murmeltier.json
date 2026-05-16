@@ -1,0 +1,84 @@
+{
+  "lemma": "Murmeltier",
+  "wortart": "Nomen",
+  "silben": "Mur-mel-tier",
+  "begriffserklaerung": "Ein Murmeltier ist ein kleines, pelziges Tier, das in den Bergen lebt. Es schläft den ganzen Winter in seiner Höhle und pfeift laut, wenn Gefahr droht.",
+  "beispielsatz": "Das Murmeltier schlief den ganzen Winter tief in seiner Höhle.",
+  "rechtschreibstrategie": "„Murmeltier\" ist ein zusammengesetztes Wort aus „murmeln\" und „Tier\". Sprich beide Teile deutlich: MUR-MEL-TIER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "murmeln",
+    "Tier"
+  ],
+  "bild_datei": "Murmeltier.webp",
+  "audio_datei": "Murmeltier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Murmeltier",
+    "plural": "die Murmeltiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Murmeltier",
+        "genitiv": "des Murmeltieres",
+        "dativ": "dem Murmeltier",
+        "akkusativ": "das Murmeltier"
+      },
+      "plural": {
+        "nominativ": "die Murmeltiere",
+        "genitiv": "der Murmeltiere",
+        "dativ": "den Murmeltieren",
+        "akkusativ": "die Murmeltiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "marmot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marmotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ sıçanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرموط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "murmeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichhörnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winterschlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    }
+  ],
+  "fehlschreibungen": [
+    "Murmelthier",
+    "Murmeltier",
+    "Murmeltir",
+    "Murmmeltier",
+    "Murmältier",
+    "Mormeltier"
+  ]
+}

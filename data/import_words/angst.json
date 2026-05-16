@@ -1,0 +1,87 @@
+{
+  "lemma": "Angst",
+  "wortart": "Nomen",
+  "silben": "Angst",
+  "begriffserklaerung": "Angst ist ein unangenehmes Gefühl, das man bekommt, wenn man sich vor etwas fürchtet oder unsicher ist.",
+  "beispielsatz": "Viele Kinder haben Angst vor der Dunkelheit.",
+  "rechtschreibstrategie": "Das Wort „Angst\" endet auf -ngst. Wenn du es verlängerst, hörst du alle Buchstaben: „Ängste\" – so weißt du, dass nach dem n noch ein g kommt!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Angst"
+  ],
+  "bild_datei": "Angst.webp",
+  "audio_datei": "Angst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "korku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خوف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ängstlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ängstigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Furcht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sorge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Angst",
+    "plural": "die Ängste",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Angst",
+        "genitiv": "der Angst",
+        "dativ": "der Angst",
+        "akkusativ": "die Angst"
+      },
+      "plural": {
+        "nominativ": "die Ängste",
+        "genitiv": "der Ängste",
+        "dativ": "den Ängsten",
+        "akkusativ": "die Ängste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Angst",
+    "Angs",
+    "Ankst",
+    "Agst",
+    "Angsd",
+    "Angscht"
+  ]
+}

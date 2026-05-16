@@ -1,0 +1,87 @@
+{
+  "lemma": "Flug",
+  "wortart": "Nomen",
+  "silben": "Flug",
+  "begriffserklaerung": "Ein Flug ist die Reise durch die Luft – zum Beispiel mit einem Flugzeug oder einem Vogel.",
+  "beispielsatz": "Der Flug nach Spanien dauerte zwei Stunden.",
+  "rechtschreibstrategie": "Verlängere das Wort: „Flug → Flüge\". Am Ende hörst du das G deutlich, deshalb schreibt man es mit G und nicht mit K.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "flieg",
+    "flug"
+  ],
+  "bild_datei": "Flug.webp",
+  "audio_datei": "Flug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flight"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة جوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pilot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flughafen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flugreise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flug",
+    "plural": "die Flüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flug",
+        "genitiv": "des Fluges",
+        "dativ": "dem Flug",
+        "akkusativ": "den Flug"
+      },
+      "plural": {
+        "nominativ": "die Flüge",
+        "genitiv": "der Flüge",
+        "dativ": "den Flügen",
+        "akkusativ": "die Flüge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fluck",
+    "Fluk",
+    "Flugh",
+    "Floog",
+    "Flung"
+  ]
+}

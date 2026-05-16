@@ -1,0 +1,87 @@
+{
+  "lemma": "Urlaub",
+  "wortart": "Nomen",
+  "silben": "Ur-laub",
+  "begriffserklaerung": "Ein Urlaub ist eine Zeit, in der man nicht arbeiten oder zur Schule gehen muss. Man erholt sich und unternimmt oft etwas Schönes, zum Beispiel eine Reise.",
+  "beispielsatz": "In den Sommerferien fahren wir in den Urlaub ans Meer.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ur – laub. Denke daran, dass am Ende „-aub\" steht – wie bei „Laub\" vom Baum. Das „b\" am Ende hörst du nicht, aber wenn du „Urlaube\" sagst, hörst du es wieder!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "laub"
+  ],
+  "bild_datei": "Urlaub.webp",
+  "audio_datei": "Urlaub.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "holiday / vacation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vacances"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tatil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إجازة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "urlauben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Urlauber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ferien"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erholung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Urlaub",
+    "plural": "die Urlaube",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Urlaub",
+        "genitiv": "des Urlaub(e)s",
+        "dativ": "dem Urlaub",
+        "akkusativ": "den Urlaub"
+      },
+      "plural": {
+        "nominativ": "die Urlaube",
+        "genitiv": "der Urlaube",
+        "dativ": "den Urlauben",
+        "akkusativ": "die Urlaube"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Urlaup",
+    "Urlaud",
+    "Urlob",
+    "Urloup",
+    "Uhlaub",
+    "Urlaupb"
+  ]
+}

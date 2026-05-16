@@ -1,0 +1,80 @@
+{
+  "lemma": "Dienstag",
+  "wortart": "Nomen",
+  "silben": "Diens-tag",
+  "begriffserklaerung": "Der Dienstag ist der zweite Tag der Woche. Er kommt nach dem Montag und vor dem Mittwoch.",
+  "beispielsatz": "Am Dienstag haben wir Kunstunterricht in der Schule.",
+  "rechtschreibstrategie": "Dienstag ist ein Bausteinwort aus „Dienst\" und „Tag\". Schreibe beide Teile einfach zusammen: Dienst + Tag = Dienstag.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag"
+  ],
+  "bild_datei": "Dienstag.webp",
+  "audio_datei": "Dienstag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Tuesday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mardi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Salı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الثلاثاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Montag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittwoch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dienstag",
+    "plural": "die Dienstage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dienstag",
+        "genitiv": "des Dienstags",
+        "dativ": "dem Dienstag",
+        "akkusativ": "den Dienstag"
+      },
+      "plural": {
+        "nominativ": "die Dienstage",
+        "genitiv": "der Dienstage",
+        "dativ": "den Dienstagen",
+        "akkusativ": "die Dienstage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dinstag",
+    "Dienstag",
+    "Diensttag",
+    "Dinsteag",
+    "Diensdag",
+    "Dienstahg"
+  ]
+}

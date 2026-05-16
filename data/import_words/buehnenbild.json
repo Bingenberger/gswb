@@ -1,0 +1,89 @@
+{
+  "lemma": "Bühnenbild",
+  "wortart": "Nomen",
+  "silben": "Büh-nen-bild",
+  "begriffserklaerung": "Das Bühnenbild ist die Dekoration und das Aussehen der Bühne in einem Theater oder bei einem Theaterstück. Es zeigt zum Beispiel einen Wald, ein Zimmer oder eine Straße.",
+  "beispielsatz": "Das Bühnenbild für das Schultheaterstück zeigte ein buntes Schloss.",
+  "rechtschreibstrategie": "Das Wort „Bühnenbild\" ist aus zwei Teilen zusammengesetzt: „Bühne\" und „Bild\". Wenn du beide Teile kennst, kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bühne",
+    "Bild"
+  ],
+  "bild_datei": "Bühnenbild.webp",
+  "audio_datei": "Bühnenbild.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bühnenbild",
+    "plural": "die Bühnenbilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bühnenbild",
+        "genitiv": "des Bühnenbildes",
+        "dativ": "dem Bühnenbild",
+        "akkusativ": "das Bühnenbild"
+      },
+      "plural": {
+        "nominativ": "die Bühnenbilder",
+        "genitiv": "der Bühnenbilder",
+        "dativ": "den Bühnenbildern",
+        "akkusativ": "die Bühnenbilder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stage set / stage design"
+    },
+    {
+      "language_code": "fr",
+      "translation": "décor de scène"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahne dekorasyonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ديكور المسرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kulisse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dekoration"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kulisse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bünenbild",
+    "Bühnenbilt",
+    "Bünenbilder",
+    "Bühnenbildt",
+    "Bühnenbielt"
+  ]
+}

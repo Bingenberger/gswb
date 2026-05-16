@@ -1,0 +1,90 @@
+{
+  "lemma": "beten",
+  "wortart": "Verb",
+  "silben": "be-ten",
+  "begriffserklaerung": "Beten bedeutet, mit Gott oder einer höheren Macht zu sprechen. Menschen beten, um Dankbarkeit zu zeigen, um Hilfe zu bitten oder um Wünsche auszusprechen.",
+  "beispielsatz": "Jeden Abend betet Maria, bevor sie schlafen geht.",
+  "rechtschreibstrategie": "Das Wort „beten\" hat ein langes e und wird nur mit einem t geschrieben. Sprich es laut: be-ten – du hörst kein doppeltes t!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bet"
+  ],
+  "bild_datei": "beten.webp",
+  "audio_datei": "beten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "beten",
+    "praesens": {
+      "ich": "bete",
+      "du": "betest",
+      "er_sie_es": "betet",
+      "wir": "beten",
+      "ihr": "betet",
+      "sie": "beten"
+    },
+    "perfekt": {
+      "ich": "habe gebetet",
+      "du": "hast gebetet",
+      "er_sie_es": "hat gebetet",
+      "wir": "haben gebetet",
+      "ihr": "habt gebetet",
+      "sie": "haben gebetet"
+    },
+    "praeteritum": {
+      "ich": "betete",
+      "du": "betetest",
+      "er_sie_es": "betete",
+      "wir": "beteten",
+      "ihr": "betetet",
+      "sie": "beteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pray"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dua etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُصلّي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebet"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gottesdienst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "flehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "betten",
+    "beetten",
+    "behten",
+    "beeten",
+    "beden"
+  ]
+}

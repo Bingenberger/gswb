@@ -1,0 +1,84 @@
+{
+  "lemma": "Christbaum",
+  "wortart": "Nomen",
+  "silben": "Christ-baum",
+  "begriffserklaerung": "Ein Christbaum ist ein geschmückter Tannenbaum, den viele Familien zu Weihnachten aufstellen und mit Kugeln, Lichtern und Lametta verzieren.",
+  "beispielsatz": "Wir haben den Christbaum zusammen mit bunten Kugeln und Lametta geschmückt.",
+  "rechtschreibstrategie": "Das Wort „Christbaum\" ist ein Zusammengesetztes Wort aus „Christ\" und „Baum\". Schreibe es einfach zusammen: Christ + Baum = Christbaum.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Baum",
+    "Christ"
+  ],
+  "bild_datei": "Christbaum.webp",
+  "audio_datei": "Christbaum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Christmas tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sapin de Noël"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Noel ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة الكريسماس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weihnachtsbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tanne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Christbaum",
+    "plural": "die Christbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Christbaum",
+        "genitiv": "des Christbaums",
+        "dativ": "dem Christbaum",
+        "akkusativ": "den Christbaum"
+      },
+      "plural": {
+        "nominativ": "die Christbäume",
+        "genitiv": "der Christbäume",
+        "dativ": "den Christbäumen",
+        "akkusativ": "die Christbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kristbaum",
+    "Christbom",
+    "Chrisbaum",
+    "Kristbom",
+    "Chrystbaum",
+    "Chritbaum"
+  ]
+}

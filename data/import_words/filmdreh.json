@@ -1,0 +1,84 @@
+{
+  "lemma": "Filmdreh",
+  "wortart": "Nomen",
+  "silben": "Film-dreh",
+  "begriffserklaerung": "Ein Filmdreh ist, wenn Menschen mit einer Kamera einen Film aufnehmen. Schauspieler spielen ihre Rollen, und ein Team filmt alles.",
+  "beispielsatz": "Beim Filmdreh mussten alle Schauspieler sehr leise sein, damit der Ton gut aufgenommen werden konnte.",
+  "rechtschreibstrategie": "„Filmdreh\" ist ein zusammengesetztes Wort aus „Film\" und „Dreh\". Sprich beide Teile einzeln: FILM + DREH. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Film",
+    "drehen"
+  ],
+  "bild_datei": "Filmdreh.webp",
+  "audio_datei": "Filmdreh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "film shoot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tournage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "film çekimi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصوير فيلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dreharbeiten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Filmdreh",
+    "plural": "die Filmdrehe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Filmdreh",
+        "genitiv": "des Filmdreh(e)s",
+        "dativ": "dem Filmdreh",
+        "akkusativ": "den Filmdreh"
+      },
+      "plural": {
+        "nominativ": "die Filmdrehe",
+        "genitiv": "der Filmdrehe",
+        "dativ": "den Filmdrehes",
+        "akkusativ": "die Filmdrehe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Filmdree",
+    "Filmdreeh",
+    "Filmdre",
+    "Filmdrä",
+    "Vilmdreh"
+  ]
+}

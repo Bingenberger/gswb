@@ -1,0 +1,83 @@
+{
+  "lemma": "Beschützer",
+  "wortart": "Nomen",
+  "silben": "Be-schüt-zer",
+  "begriffserklaerung": "Ein Beschützer ist eine Person, die jemanden oder etwas vor Gefahr und Schaden bewahrt.",
+  "beispielsatz": "Der Hund ist ein treuer Beschützer der Familie.",
+  "rechtschreibstrategie": "Schreibe das „tz\" in „schützen\" – nach dem kurzen ü kommt immer tz. Denke an das Verb „schützen\", dann schreibst du „Beschützer\" richtig.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schütz"
+  ],
+  "bild_datei": "Beschützer.webp",
+  "audio_datei": "Beschützer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beschützer",
+    "plural": "die Beschützer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beschützer",
+        "genitiv": "des Beschützers",
+        "dativ": "dem Beschützer",
+        "akkusativ": "den Beschützer"
+      },
+      "plural": {
+        "nominativ": "die Beschützer",
+        "genitiv": "der Beschützer",
+        "dativ": "den Beschützern",
+        "akkusativ": "die Beschützer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "protector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "protecteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koruyucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حامٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hüter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Held"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Retter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beschüzer",
+    "Beschütser",
+    "Beschuetzer",
+    "Beshützer",
+    "Beschützter"
+  ]
+}

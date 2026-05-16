@@ -1,0 +1,76 @@
+{
+  "lemma": "Walross",
+  "wortart": "Nomen",
+  "silben": "Wal-ross",
+  "begriffserklaerung": "Ein Walross ist ein sehr großes Meerestier mit langer Schnauze, zwei langen Stoßzähnen und Flossen. Es lebt vor allem in der Arktis, also in sehr kalten Gebieten rund um den Nordpol.",
+  "beispielsatz": "Das Walross liegt faul auf dem Eis und sonnt sich in der Kälte.",
+  "rechtschreibstrategie": "Das Wort „Walross\" ist zusammengesetzt aus „Wal\" und „Ross\". Das „ss\" am Ende kommt vom Wort „Ross\" – sprich beide Wörter einzeln, dann merkst du es!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Wal",
+    "Ross"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Walross",
+    "plural": "die Walrosse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Walross",
+        "genitiv": "des Walrosses",
+        "dativ": "dem Walross",
+        "akkusativ": "das Walross"
+      },
+      "plural": {
+        "nominativ": "die Walrosse",
+        "genitiv": "der Walrosse",
+        "dativ": "den Walrossen",
+        "akkusativ": "die Walrosse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Walros",
+    "Wallross",
+    "Walroß",
+    "Walrross",
+    "Waalross"
+  ],
+  "bild_datei": "Walross.webp",
+  "audio_datei": "Walross.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "walrus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "morse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mors"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الفظ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Robbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisbär"
+    }
+  ]
+}

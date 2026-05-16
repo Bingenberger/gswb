@@ -1,0 +1,84 @@
+{
+  "lemma": "Wörterbuch",
+  "wortart": "Nomen",
+  "silben": "Wör-ter-buch",
+  "begriffserklaerung": "Ein Wörterbuch ist ein Buch, in dem viele Wörter alphabetisch aufgelistet sind. Zu jedem Wort findest du eine Erklärung oder eine Übersetzung in eine andere Sprache.",
+  "beispielsatz": "Ich schlage das schwierige Wort im Wörterbuch nach.",
+  "rechtschreibstrategie": "Das Wort „Wörterbuch\" ist aus zwei Wörtern zusammengesetzt: „Wörter\" und „Buch\". Schreibe beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wort",
+    "Buch"
+  ],
+  "bild_datei": "Wörterbuch.webp",
+  "audio_datei": "Wörterbuch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wörterbuch",
+    "plural": "die Wörterbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wörterbuch",
+        "genitiv": "des Wörterbuches",
+        "dativ": "dem Wörterbuch",
+        "akkusativ": "das Wörterbuch"
+      },
+      "plural": {
+        "nominativ": "die Wörterbücher",
+        "genitiv": "der Wörterbücher",
+        "dativ": "den Wörterbüchern",
+        "akkusativ": "die Wörterbücher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dictionary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dictionnaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sözlük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاموس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lexikon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachschlagewerk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lexikon"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wörterbuhch",
+    "Wörtterbuch",
+    "Werterbuch",
+    "Wörterbucch",
+    "Wörterbüch",
+    "Wöterbuch"
+  ]
+}

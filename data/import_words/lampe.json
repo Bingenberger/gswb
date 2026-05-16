@@ -1,0 +1,87 @@
+{
+  "lemma": "Lampe",
+  "wortart": "Nomen",
+  "silben": "Lam-pe",
+  "begriffserklaerung": "Eine Lampe ist ein Gerät, das Licht macht. Man schaltet sie ein, wenn es dunkel ist.",
+  "beispielsatz": "Die Lampe auf meinem Schreibtisch leuchtet hell, wenn ich abends lese.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Lam-pe. Im ersten Teil hörst du ein kurzes „a\" – danach kommt ein m und dann noch ein p. Denk daran: erst „m\", dann „p\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lamp"
+  ],
+  "bild_datei": "Lampe.webp",
+  "audio_datei": "Lampe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lampe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lamba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laterne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lampenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schalter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leuchte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lampe",
+    "plural": "die Lampen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lampe",
+        "genitiv": "der Lampe",
+        "dativ": "der Lampe",
+        "akkusativ": "die Lampe"
+      },
+      "plural": {
+        "nominativ": "die Lampen",
+        "genitiv": "der Lampen",
+        "dativ": "den Lampen",
+        "akkusativ": "die Lampen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lambe",
+    "Lamba",
+    "Lamppe",
+    "Lampe",
+    "Lamb",
+    "Lammpe"
+  ]
+}

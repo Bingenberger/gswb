@@ -1,0 +1,83 @@
+{
+  "lemma": "Stall",
+  "wortart": "Nomen",
+  "silben": "Stall",
+  "begriffserklaerung": "Ein Stall ist ein Gebäude, in dem Tiere wie Pferde, Kühe oder Schweine wohnen und schlafen.",
+  "beispielsatz": "Die Pferde schlafen nachts im Stall.",
+  "rechtschreibstrategie": "Das Wort „Stall\" endet auf -ll. Der kurze Vokal „a\" zeigt dir, dass zwei „l\" am Ende stehen müssen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stall"
+  ],
+  "bild_datei": "Stall.webp",
+  "audio_datei": "Stall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stall",
+    "plural": "die Ställe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stall",
+        "genitiv": "des Stalles",
+        "dativ": "dem Stall",
+        "akkusativ": "den Stall"
+      },
+      "plural": {
+        "nominativ": "die Ställe",
+        "genitiv": "der Ställe",
+        "dativ": "den Ställen",
+        "akkusativ": "die Ställe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stable / barn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إسطبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ställe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stallgebäude"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einstallen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Scheune"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stal",
+    "Stahl",
+    "Shtall",
+    "Stahll",
+    "Stale"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Feldhuhn",
+  "wortart": "Nomen",
+  "silben": "Feld-huhn",
+  "begriffserklaerung": "Ein Feldhuhn ist ein mittelgroßer Vogel, der auf Feldern und Wiesen lebt. Es hat braun-graues Gefieder und kann kaum fliegen.",
+  "beispielsatz": "Auf dem Feld hinter unserem Haus haben wir ein Feldhuhn entdeckt.",
+  "rechtschreibstrategie": "Das Wort „Feldhuhn\" besteht aus zwei Bausteinen: „Feld\" und „Huhn\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feld",
+    "Huhn"
+  ],
+  "bild_datei": "Feldhuhn.webp",
+  "audio_datei": "Feldhuhn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "partridge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perdrix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keklik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجل الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rebhuhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fasan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wachtel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feldhuhn",
+    "plural": "die Feldhühner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feldhuhn",
+        "genitiv": "des Feldhuhns",
+        "dativ": "dem Feldhuhn",
+        "akkusativ": "das Feldhuhn"
+      },
+      "plural": {
+        "nominativ": "die Feldhühner",
+        "genitiv": "der Feldhühner",
+        "dativ": "den Feldhühnern",
+        "akkusativ": "die Feldhühner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feldhuun",
+    "Feldhun",
+    "Fälthuhn",
+    "Feldhühn",
+    "Veldhuhn",
+    "Felthun"
+  ]
+}

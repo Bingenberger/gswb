@@ -1,0 +1,103 @@
+{
+  "lemma": "schaden",
+  "wortart": "Verb",
+  "silben": "scha-den",
+  "begriffserklaerung": "Wenn etwas oder jemand schadet, macht er etwas kaputt oder verletzt jemanden. Schaden bedeutet, dass etwas schlecht oder gefährlich für jemanden oder etwas ist.",
+  "beispielsatz": "Zu viel Süßigkeiten können den Zähnen schaden.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: scha-den. Das „a\" klingt lang, deshalb schreibt man nur ein „d\" und kein Doppel-d.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schad"
+  ],
+  "bild_datei": "schaden.webp",
+  "audio_datei": "schaden.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schaden",
+    "praesens": {
+      "ich": "schade",
+      "du": "schadest",
+      "er_sie_es": "schadet",
+      "wir": "schaden",
+      "ihr": "schadet",
+      "sie": "schaden"
+    },
+    "perfekt": {
+      "ich": "habe geschadet",
+      "du": "hast geschadet",
+      "er_sie_es": "hat geschadet",
+      "wir": "haben geschadet",
+      "ihr": "habt geschadet",
+      "sie": "haben geschadet"
+    },
+    "praeteritum": {
+      "ich": "schadete",
+      "du": "schadest",
+      "er_sie_es": "schadete",
+      "wir": "schadeten",
+      "ihr": "schadetet",
+      "sie": "schadeten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to harm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zarar vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُضرّ / يُلحق الضرر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schaden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schädlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "unschädlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verletzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beeinträchtigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zerstören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gefährden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beschädigen"
+    }
+  ],
+  "fehlschreibungen": [
+    "schahden",
+    "schaden",
+    "schatten",
+    "schadden",
+    "schahten",
+    "schadn"
+  ]
+}

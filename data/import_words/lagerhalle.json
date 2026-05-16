@@ -1,0 +1,88 @@
+{
+  "lemma": "Lagerhalle",
+  "wortart": "Nomen",
+  "silben": "La-ger-hal-le",
+  "begriffserklaerung": "Eine Lagerhalle ist ein großes Gebäude, in dem viele Dinge aufbewahrt werden, zum Beispiel Waren, Maschinen oder Möbel.",
+  "beispielsatz": "In der riesigen Lagerhalle stehen viele Regale voller Pakete.",
+  "rechtschreibstrategie": "Das Wort „Lagerhalle\" ist aus zwei Wörtern zusammengebaut: „Lager\" und „Halle\". Wenn du dir beide Teile einzeln merkst, schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lager",
+    "Halle"
+  ],
+  "bild_datei": "Lagerhalle.webp",
+  "audio_datei": "Lagerhalle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lagerhalle",
+    "plural": "die Lagerhallen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lagerhalle",
+        "genitiv": "der Lagerhalle",
+        "dativ": "der Lagerhalle",
+        "akkusativ": "die Lagerhalle"
+      },
+      "plural": {
+        "nominativ": "die Lagerhallen",
+        "genitiv": "der Lagerhallen",
+        "dativ": "den Lagerhallen",
+        "akkusativ": "die Lagerhallen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "warehouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "entrepôt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "depo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستودع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lager"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lagerhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paketlager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lagerhale",
+    "Lagerhall",
+    "Lagerhalle",
+    "Laggerhalle",
+    "Lahgerhalle",
+    "Lagärhalle"
+  ]
+}

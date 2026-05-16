@@ -1,0 +1,82 @@
+{
+  "lemma": "Zitrone",
+  "wortart": "Nomen",
+  "silben": "Zit-ro-ne",
+  "begriffserklaerung": "Eine Zitrone ist eine gelbe Frucht, die sehr sauer schmeckt. Sie wächst an Bäumen in warmen Ländern.",
+  "beispielsatz": "Mama drückt eine Zitrone aus und macht daraus leckere Limonade.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Zit-ro-ne. Nach dem kurzen „i\" kommt ein „t\", danach folgt ein „r\" – das hörst du beim langsamen Sprechen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Zitron"
+  ],
+  "bild_datei": "Zitrone.webp",
+  "audio_datei": "Zitrone.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lemon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "citron"
+    },
+    {
+      "language_code": "tr",
+      "translation": "limon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ليمون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zitronensaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zitronengelb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Limette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zitrone",
+    "plural": "die Zitronen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zitrone",
+        "genitiv": "der Zitrone",
+        "dativ": "der Zitrone",
+        "akkusativ": "die Zitrone"
+      },
+      "plural": {
+        "nominativ": "die Zitronen",
+        "genitiv": "der Zitronen",
+        "dativ": "den Zitronen",
+        "akkusativ": "die Zitronen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sitrone",
+    "Zittrone",
+    "Zitrohne",
+    "Zitroone",
+    "Zietrone"
+  ]
+}

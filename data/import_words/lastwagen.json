@@ -1,0 +1,93 @@
+{
+  "lemma": "Lastwagen",
+  "wortart": "Nomen",
+  "silben": "Last-wa-gen",
+  "begriffserklaerung": "Ein Lastwagen ist ein großes, starkes Fahrzeug, das schwere Dinge von einem Ort zum anderen transportiert.",
+  "beispielsatz": "Der Lastwagen bringt frisches Obst zum Supermarkt.",
+  "rechtschreibstrategie": "„Lastwagen\" ist ein zusammengesetztes Wort aus „Last\" und „Wagen\". Denk an die zwei Teile: LAST + WAGEN = Lastwagen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Last",
+    "Wagen"
+  ],
+  "bild_datei": "Lastwagen.webp",
+  "audio_datei": "Lastwagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "truck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاحنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Last"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lkw"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Truck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lastwagen",
+    "plural": "die Lastwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lastwagen",
+        "genitiv": "des Lastwagens",
+        "dativ": "dem Lastwagen",
+        "akkusativ": "den Lastwagen"
+      },
+      "plural": {
+        "nominativ": "die Lastwagen",
+        "genitiv": "der Lastwagen",
+        "dativ": "den Lastwagen",
+        "akkusativ": "die Lastwagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lassvagen",
+    "Lastwaggen",
+    "Lasdwagen",
+    "Lastwagen",
+    "Lastwagn",
+    "Laßtwagen",
+    "Lastwaghen"
+  ]
+}

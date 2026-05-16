@@ -1,0 +1,73 @@
+{
+  "lemma": "Sushi",
+  "wortart": "Nomen",
+  "silben": "Su-shi",
+  "begriffserklaerung": "Sushi ist ein japanisches Gericht aus gekochtem Reis mit Essig und verschiedenen Zutaten wie rohem Fisch, Gemüse oder Meeresfrüchten.",
+  "beispielsatz": "Zum Mittagessen haben wir leckeres Sushi mit Lachs gegessen.",
+  "rechtschreibstrategie": "Sushi kommt aus dem Japanischen und schreibt man genau so, wie man es spricht: Su-shi. Merke dir: erst „Su\", dann „shi\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Sushi.webp",
+  "audio_datei": "Sushi.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sushi"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sushi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "suşi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوشي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sushi",
+    "plural": "die Sushis",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sushi",
+        "genitiv": "des Sushis",
+        "dativ": "dem Sushi",
+        "akkusativ": "das Sushi"
+      },
+      "plural": {
+        "nominativ": "die Sushis",
+        "genitiv": "der Sushis",
+        "dativ": "den Sushis",
+        "akkusativ": "die Sushis"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Suschi",
+    "Suushi",
+    "Sushie",
+    "Zuши",
+    "Zushi",
+    "Sushi"
+  ]
+}

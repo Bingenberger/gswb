@@ -1,0 +1,84 @@
+{
+  "lemma": "Flachbatterie",
+  "wortart": "Nomen",
+  "silben": "Flach-bat-te-rie",
+  "begriffserklaerung": "Eine Flachbatterie ist eine flache, rechteckige Batterie, die Strom speichert und zum Beispiel in Taschenlampen oder Fernbedienungen benutzt wird.",
+  "beispielsatz": "Die Taschenlampe leuchtet nicht mehr, weil die Flachbatterie leer ist.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „flach\" und „Batterie\". Denk daran, dass „Batterie\" mit doppeltem t geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "flach",
+    "Batterie"
+  ],
+  "bild_datei": "Flachbatterie.webp",
+  "audio_datei": "Flachbatterie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flat battery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pile plate"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düz pil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطارية مسطحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Akku"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschenlampe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flachbatterie",
+    "plural": "die Flachbatterien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flachbatterie",
+        "genitiv": "der Flachbatterie",
+        "dativ": "der Flachbatterie",
+        "akkusativ": "die Flachbatterie"
+      },
+      "plural": {
+        "nominativ": "die Flachbatterien",
+        "genitiv": "der Flachbatterien",
+        "dativ": "den Flachbatterien",
+        "akkusativ": "die Flachbatterien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flachbaterie",
+    "Flachbattrie",
+    "Flachbatteri",
+    "Flachbatteerie",
+    "Flachbatterie"
+  ]
+}

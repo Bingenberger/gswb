@@ -1,0 +1,81 @@
+{
+  "lemma": "Magnet",
+  "wortart": "Nomen",
+  "silben": "Mag-net",
+  "begriffserklaerung": "Ein Magnet ist ein Gegenstand, der bestimmte Metalle wie Eisen anzieht und festhält.",
+  "beispielsatz": "Der Magnet hält die Zettel fest an der Tafel.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Mag-net. Am Ende hörst du deutlich das „t\" – vergiss es nicht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Magnet",
+    "plural": "die Magnete",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Magnet",
+        "genitiv": "des Magneten",
+        "dativ": "dem Magneten",
+        "akkusativ": "den Magneten"
+      },
+      "plural": {
+        "nominativ": "die Magnete",
+        "genitiv": "der Magnete",
+        "dativ": "den Magneten",
+        "akkusativ": "die Magnete"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Magnet"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "magnetisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "magnetisieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    }
+  ],
+  "fehlschreibungen": [
+    "Magnett",
+    "Magned",
+    "Maknet",
+    "Mangnet"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magnet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aimant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mıknatıs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغناطيس"
+    }
+  ],
+  "bild_datei": "Magnet.webp",
+  "audio_datei": "Magnet.mp3"
+}

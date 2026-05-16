@@ -1,0 +1,84 @@
+{
+  "lemma": "Schulweg",
+  "wortart": "Nomen",
+  "silben": "Schul-weg",
+  "beispielsatz": "Jeden Morgen läuft Lena ihren Schulweg zu Fuß.",
+  "begriffserklaerung": "Der Schulweg ist der Weg, den du von zu Hause bis zur Schule gehst oder fährst.",
+  "rechtschreibstrategie": "„Schulweg\" besteht aus zwei Bausteinen: „Schul\" (von Schule) und „Weg\". Sprich beide Teile laut: SCHUL – WEG!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Weg"
+  ],
+  "bild_datei": "Schulweg.webp",
+  "audio_datei": "Schulweg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "way to school"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemin de l'école"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طريق المدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schultasche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulstrecke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulweg",
+    "plural": "die Schulwege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulweg",
+        "genitiv": "des Schulweges",
+        "dativ": "dem Schulweg",
+        "akkusativ": "den Schulweg"
+      },
+      "plural": {
+        "nominativ": "die Schulwege",
+        "genitiv": "der Schulwege",
+        "dativ": "den Schulwegen",
+        "akkusativ": "die Schulwege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulveg",
+    "Schulweeg",
+    "Schulweck",
+    "Schullweg",
+    "Schulwäg"
+  ]
+}

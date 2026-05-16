@@ -1,0 +1,85 @@
+{
+  "lemma": "Mittag",
+  "wortart": "Nomen",
+  "silben": "Mit-tag",
+  "begriffserklaerung": "Der Mittag ist die Zeit um 12 Uhr, also die Mitte des Tages. Oft isst man zu dieser Zeit das Mittagessen.",
+  "beispielsatz": "Um Mittag essen wir gemeinsam in der Schule.",
+  "rechtschreibstrategie": "Das Wort „Mittag\" ist ein Zusammengesetztes Wort aus „Mitte\" und „Tag\". Schreibe beide Teile einfach zusammen: Mit-tag. Das doppelte „t\" kommt vom Übergang der beiden Wortteile.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "mittag"
+  ],
+  "bild_datei": "Mittag.webp",
+  "audio_datei": "Mittag.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mittag",
+    "plural": "die Mittage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mittag",
+        "genitiv": "des Mittags",
+        "dativ": "dem Mittag",
+        "akkusativ": "den Mittag"
+      },
+      "plural": {
+        "nominativ": "die Mittage",
+        "genitiv": "der Mittage",
+        "dativ": "den Mittagen",
+        "akkusativ": "die Mittage"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "noon / midday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "midi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğle"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الظهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mittagessen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mittags"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zwölf-Uhr-Zeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mitag",
+    "Mittach",
+    "Mietag",
+    "Mittag",
+    "Middag",
+    "Mithag"
+  ]
+}

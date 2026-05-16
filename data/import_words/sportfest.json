@@ -1,0 +1,84 @@
+{
+  "lemma": "Sportfest",
+  "wortart": "Nomen",
+  "silben": "Sport-fest",
+  "begriffserklaerung": "Ein Sportfest ist eine Veranstaltung, bei der Kinder oder Erwachsene gemeinsam verschiedene Sportspiele und Wettkämpfe mitmachen.",
+  "beispielsatz": "Beim Sportfest unserer Schule habe ich beim Weitsprung den ersten Platz gewonnen!",
+  "rechtschreibstrategie": "„Sportfest\" ist ein zusammengesetztes Wort aus „Sport\" und „Fest\". Schreibe einfach beide Wörter hintereinander: Sport + Fest = Sportfest.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sport",
+    "Fest"
+  ],
+  "bild_datei": "Sportfest.webp",
+  "audio_datei": "Sportfest.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sportfest",
+    "plural": "die Sportfeste",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sportfest",
+        "genitiv": "des Sportfestes",
+        "dativ": "dem Sportfest",
+        "akkusativ": "das Sportfest"
+      },
+      "plural": {
+        "nominativ": "die Sportfeste",
+        "genitiv": "der Sportfeste",
+        "dativ": "den Sportfesten",
+        "akkusativ": "die Sportfeste"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sports day"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fête sportive"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor şenliği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهرجان رياضي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulfest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sportveranstaltung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sportfehst",
+    "Sportfest",
+    "Spordtfest",
+    "Sporfest",
+    "Spottfest",
+    "Sportfäst"
+  ]
+}

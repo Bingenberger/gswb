@@ -1,0 +1,98 @@
+{
+  "lemma": "rechnen",
+  "wortart": "Verb",
+  "silben": "rech-nen",
+  "begriffserklaerung": "Rechnen bedeutet, mit Zahlen zu arbeiten – zum Beispiel addieren, subtrahieren, multiplizieren oder dividieren.",
+  "beispielsatz": "In der Schule lernen wir, mit großen Zahlen zu rechnen.",
+  "rechtschreibstrategie": "Das Wort „rechnen\" hat nach dem kurzen „e\" ein „ch\" und dann noch ein „n\" – sprich es laut: RECH-nen. Das „ch\" nach dem kurzen Vokal ist ein typisches Zeichen für einen Kurzvokal!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "rechn"
+  ],
+  "bild_datei": "rechnen.webp",
+  "audio_datei": "rechnen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "rechnen",
+    "praesens": {
+      "ich": "rechne",
+      "du": "rechnest",
+      "er_sie_es": "rechnet",
+      "wir": "rechnen",
+      "ihr": "rechnet",
+      "sie": "rechnen"
+    },
+    "perfekt": {
+      "ich": "habe gerechnet",
+      "du": "hast gerechnet",
+      "er_sie_es": "hat gerechnet",
+      "wir": "haben gerechnet",
+      "ihr": "habt gerechnet",
+      "sie": "haben gerechnet"
+    },
+    "praeteritum": {
+      "ich": "rechnete",
+      "du": "rechnetest",
+      "er_sie_es": "rechnete",
+      "wir": "rechneten",
+      "ihr": "rechnetet",
+      "sie": "rechneten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to calculate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calculer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesaplamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechner"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausrechnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "berechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "addieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "subtrahieren"
+    }
+  ],
+  "fehlschreibungen": [
+    "rehcnen",
+    "recknen",
+    "rechenen",
+    "räcnen",
+    "rächnen"
+  ]
+}

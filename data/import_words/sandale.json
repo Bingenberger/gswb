@@ -1,0 +1,73 @@
+{
+  "lemma": "Sandale",
+  "wortart": "Nomen",
+  "silben": "San-da-le",
+  "begriffserklaerung": "Eine Sandale ist ein offener Schuh, der mit Riemen am Fuß befestigt wird. Man trägt sie oft im Sommer.",
+  "beispielsatz": "Im Sommer trage ich am liebsten meine roten Sandalen.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: San-da-le. Achte auf das „d\" in der Mitte – es klingt wie ein „d\", also schreibt man auch „d\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Sandale.webp",
+  "audio_datei": "Sandale.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sandal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sandale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sandalet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sommerschuh"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sandale",
+    "plural": "die Sandalen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sandale",
+        "genitiv": "der Sandale",
+        "dativ": "der Sandale",
+        "akkusativ": "die Sandale"
+      },
+      "plural": {
+        "nominativ": "die Sandalen",
+        "genitiv": "der Sandalen",
+        "dativ": "den Sandalen",
+        "akkusativ": "die Sandalen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sandalle",
+    "Zandале",
+    "Sandahle",
+    "Sandaale",
+    "Zsandale",
+    "Sandelle"
+  ]
+}

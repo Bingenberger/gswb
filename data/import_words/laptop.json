@@ -1,0 +1,72 @@
+{
+  "lemma": "Laptop",
+  "wortart": "Nomen",
+  "silben": "Lap-top",
+  "begriffserklaerung": "Ein Laptop ist ein tragbarer Computer, den man zusammenklappen und überall mitnehmen kann.",
+  "beispielsatz": "Meine Schwester macht ihre Hausaufgaben auf dem Laptop.",
+  "rechtschreibstrategie": "Schreibe „Laptop\" mit großem L – es ist ein Nomen. Sprich beide Teile deutlich: LAP – TOP. Das Wort kommt aus dem Englischen und wird so geschrieben, wie es klingt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Laptop.webp",
+  "audio_datei": "Laptop.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "laptop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ordinateur portable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dizüstü bilgisayar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاسوب محمول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bildschirm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Laptop",
+    "plural": "die Laptops",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Laptop",
+        "genitiv": "des Laptops",
+        "dativ": "dem Laptop",
+        "akkusativ": "den Laptop"
+      },
+      "plural": {
+        "nominativ": "die Laptops",
+        "genitiv": "der Laptops",
+        "dativ": "den Laptops",
+        "akkusativ": "die Laptops"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leptop",
+    "Laptob",
+    "Labtop",
+    "Lapptopp",
+    "Laptopp"
+  ]
+}

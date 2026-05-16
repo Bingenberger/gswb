@@ -1,0 +1,86 @@
+{
+  "lemma": "Vater",
+  "wortart": "Nomen",
+  "silben": "Va-ter",
+  "begriffserklaerung": "Der Vater ist ein Mann, der ein Kind hat. Er gehört zur Familie und kümmert sich um seine Kinder.",
+  "beispielsatz": "Mein Vater liest mir jeden Abend eine Gute-Nacht-Geschichte vor.",
+  "rechtschreibstrategie": "„Vater\" beginnt mit einem großen V – das ist ein Merkwort! Denk daran: V spricht sich wie ein F, aber man schreibt es mit V.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vater",
+    "plural": "die Väter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vater",
+        "genitiv": "des Vaters",
+        "dativ": "dem Vater",
+        "akkusativ": "den Vater"
+      },
+      "plural": {
+        "nominativ": "die Väter",
+        "genitiv": "der Väter",
+        "dativ": "den Vätern",
+        "akkusativ": "die Väter"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "vät"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "väterlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vaterland"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Papa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "father"
+    },
+    {
+      "language_code": "fr",
+      "translation": "père"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أب"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fater",
+    "Vahter",
+    "Vather",
+    "Faater",
+    "Vater"
+  ],
+  "bild_datei": "Vater.webp",
+  "audio_datei": "Vater.mp3"
+}

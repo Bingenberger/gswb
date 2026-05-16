@@ -1,0 +1,72 @@
+{
+  "lemma": "Karotte",
+  "wortart": "Nomen",
+  "silben": "Ka-rot-te",
+  "begriffserklaerung": "Eine Karotte ist ein orangefarbenes Gemüse, das im Boden wächst. Man kann sie roh knabbern oder kochen.",
+  "beispielsatz": "Die Karotte schmeckt süß und knackig.",
+  "rechtschreibstrategie": "Schreib in der Mitte zwei t: Ka-rot-te. Das doppelte t zeigt, dass das o kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Karotte",
+    "plural": "die Karotten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Karotte",
+        "genitiv": "der Karotte",
+        "dativ": "der Karotte",
+        "akkusativ": "die Karotte"
+      },
+      "plural": {
+        "nominativ": "die Karotten",
+        "genitiv": "der Karotten",
+        "dativ": "den Karotten",
+        "akkusativ": "die Karotten"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Möhre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Karrotte",
+    "Karote",
+    "Carothe",
+    "Karrothe",
+    "Carotte"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carrot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havuç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزرة"
+    }
+  ],
+  "bild_datei": "Karotte.webp",
+  "audio_datei": "Karotte.mp3"
+}

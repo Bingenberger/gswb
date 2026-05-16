@@ -1,0 +1,84 @@
+{
+  "lemma": "Zeugnis",
+  "wortart": "Nomen",
+  "silben": "Zeug-nis",
+  "begriffserklaerung": "Ein Zeugnis ist ein Dokument, das zeigt, wie gut du in der Schule in den verschiedenen Fächern gelernt hast. Darin stehen Noten und manchmal auch kurze Bemerkungen deiner Lehrerin oder deines Lehrers.",
+  "beispielsatz": "Am Ende des Schuljahres bekommt jedes Kind sein Zeugnis mit den Noten.",
+  "rechtschreibstrategie": "Das Wort „Zeugnis\" endet auf -nis. Merke dir: Nach dem „g\" kommt ein „n\" – nicht vergessen! Sprich es laut: Zeug-nis.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "zeug",
+    "Zeuge"
+  ],
+  "bild_datei": "Zeugnis.webp",
+  "audio_datei": "Zeugnis.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zeugnis",
+    "plural": "die Zeugnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zeugnis",
+        "genitiv": "des Zeugnisses",
+        "dativ": "dem Zeugnis",
+        "akkusativ": "das Zeugnis"
+      },
+      "plural": {
+        "nominativ": "die Zeugnisse",
+        "genitiv": "der Zeugnisse",
+        "dativ": "den Zeugnissen",
+        "akkusativ": "die Zeugnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "report card"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bulletin scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شهادة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeuge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bezeugen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Note"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulbericht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zeugkniss",
+    "Zeugniß",
+    "Zeugnis",
+    "Zeugniss",
+    "Zeuknis",
+    "Zeugnes"
+  ]
+}

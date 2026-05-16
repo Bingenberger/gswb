@@ -1,0 +1,95 @@
+{
+  "lemma": "muss",
+  "wortart": "Verb",
+  "silben": "muss",
+  "begriffserklaerung": "„Muss\" bedeutet, dass man keine Wahl hat und etwas unbedingt tun soll oder tun muss.",
+  "beispielsatz": "Ich muss heute meine Hausaufgaben machen.",
+  "rechtschreibstrategie": "Das Wort „muss\" hat ein kurzes „u\", deshalb kommt danach ein Doppel-s: m-u-ss. Denke daran: kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "müssen"
+  ],
+  "bild_datei": "muss.webp",
+  "audio_datei": "muss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "must / have to"
+    },
+    {
+      "language_code": "fr",
+      "translation": "doit (devoir)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zorunda (olmak)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجب (يجب أن)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "müssen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Muss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "soll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "darf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "soll"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "müssen",
+    "praesens": {
+      "ich": "muss",
+      "du": "musst",
+      "er_sie_es": "muss",
+      "wir": "müssen",
+      "ihr": "müsst",
+      "sie": "müssen"
+    },
+    "perfekt": {
+      "ich": "habe gemusst",
+      "du": "hast gemusst",
+      "er_sie_es": "hat gemusst",
+      "wir": "haben gemusst",
+      "ihr": "habt gemusst",
+      "sie": "haben gemusst"
+    },
+    "praeteritum": {
+      "ich": "musste",
+      "du": "musstest",
+      "er_sie_es": "musste",
+      "wir": "mussten",
+      "ihr": "musstet",
+      "sie": "mussten"
+    }
+  },
+  "fehlschreibungen": [
+    "mus",
+    "muß",
+    "mußt",
+    "musst",
+    "muss't"
+  ]
+}

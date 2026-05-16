@@ -1,0 +1,92 @@
+{
+  "lemma": "Anleitung",
+  "wortart": "Nomen",
+  "silben": "An-lei-tung",
+  "begriffserklaerung": "Eine Anleitung erklärt Schritt für Schritt, wie man etwas macht oder aufbaut.",
+  "beispielsatz": "Lies zuerst die Anleitung, bevor du das Modell zusammenbaust!",
+  "rechtschreibstrategie": "Das Wort „Anleitung\" besteht aus den Bausteinen „an\" und „Leitung\". Das Dehnungs-ei hörst du deutlich: an-LEI-tung.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "leiten",
+    "Leitung"
+  ],
+  "bild_datei": "Anleitung.webp",
+  "audio_datei": "Anleitung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anleitung",
+    "plural": "die Anleitungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anleitung",
+        "genitiv": "der Anleitung",
+        "dativ": "der Anleitung",
+        "akkusativ": "die Anleitung"
+      },
+      "plural": {
+        "nominativ": "die Anleitungen",
+        "genitiv": "der Anleitungen",
+        "dativ": "den Anleitungen",
+        "akkusativ": "die Anleitungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "instruction / manual"
+    },
+    {
+      "language_code": "fr",
+      "translation": "notice / mode d'emploi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "talimat / kılavuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تعليمات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebrauchsanweisung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauanleitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rezept"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handbuch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anleittung",
+    "Anleidung",
+    "Anleytung",
+    "Anleitunng",
+    "Anlaitung"
+  ]
+}

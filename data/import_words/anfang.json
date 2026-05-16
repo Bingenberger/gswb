@@ -1,0 +1,89 @@
+{
+  "lemma": "Anfang",
+  "wortart": "Nomen",
+  "silben": "An-fang",
+  "begriffserklaerung": "Der Anfang ist der erste Teil von etwas, zum Beispiel der Beginn einer Geschichte oder eines Spiels.",
+  "beispielsatz": "Am Anfang der Geschichte wohnte ein kleines Mädchen in einem großen Wald.",
+  "rechtschreibstrategie": "Das Wort „Anfang\" setzt sich aus „an\" und „fang\" zusammen. Denk an das Verb „fangen\" – dann hörst du das „g\" am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fang",
+    "fangen"
+  ],
+  "bild_datei": "Anfang.webp",
+  "audio_datei": "Anfang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beginning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "début"
+    },
+    {
+      "language_code": "tr",
+      "translation": "başlangıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بداية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anfangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anfänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beginn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Start"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anfang",
+    "plural": "die Anfänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anfang",
+        "genitiv": "des Anfangs",
+        "dativ": "dem Anfang",
+        "akkusativ": "den Anfang"
+      },
+      "plural": {
+        "nominativ": "die Anfänge",
+        "genitiv": "der Anfänge",
+        "dativ": "den Anfängen",
+        "akkusativ": "die Anfänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Anfank",
+    "Anffang",
+    "Anfanng",
+    "Anfag",
+    "Amfang"
+  ]
+}

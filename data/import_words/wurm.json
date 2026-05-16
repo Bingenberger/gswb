@@ -1,0 +1,82 @@
+{
+  "lemma": "Wurm",
+  "wortart": "Nomen",
+  "silben": "Wurm",
+  "begriffserklaerung": "Ein Wurm ist ein kleines, langes Tier ohne Beine, das oft im Boden lebt.",
+  "beispielsatz": "Nach dem Regen kroch ein langer Wurm über den Weg.",
+  "rechtschreibstrategie": "Höre genau hin: Das „u\" in „Wurm\" ist kurz, aber hier steht kein Doppelkonsonant – merke dir einfach: W-u-r-m!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wurm"
+  ],
+  "bild_datei": "Wurm.webp",
+  "audio_datei": "Wurm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "worm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "solucan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دودة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wurmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurmloch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenwurm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raupe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnecke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wurm",
+    "plural": "die Würmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wurm",
+        "genitiv": "des Wurmes",
+        "dativ": "dem Wurm",
+        "akkusativ": "den Wurm"
+      },
+      "plural": {
+        "nominativ": "die Würmer",
+        "genitiv": "der Würmer",
+        "dativ": "den Würmern",
+        "akkusativ": "die Würmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vurm",
+    "Wurrm",
+    "Wurmm",
+    "Worm",
+    "Wurmt"
+  ]
+}

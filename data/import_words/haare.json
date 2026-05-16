@@ -1,0 +1,85 @@
+{
+  "lemma": "Haare",
+  "wortart": "Nomen",
+  "silben": "Haa-re",
+  "begriffserklaerung": "Haare wachsen auf dem Kopf und am Körper von Menschen und Tieren. Sie können lang, kurz, glatt oder lockig sein.",
+  "beispielsatz": "Meine Haare sind heute ganz durcheinander.",
+  "rechtschreibstrategie": "In „Haare\" stecken zwei a hintereinander – sprich das „aa\" schön lang: Haaare! Denk daran: zwei a, kein h dazwischen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Haar"
+  ],
+  "bild_datei": "Haare.webp",
+  "audio_datei": "Haare.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cheveux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saçlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haarig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haarschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frisur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Haar",
+    "plural": "die Haare",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Haar",
+        "genitiv": "des Haares",
+        "dativ": "dem Haar",
+        "akkusativ": "das Haar"
+      },
+      "plural": {
+        "nominativ": "die Haare",
+        "genitiv": "der Haare",
+        "dativ": "den Haaren",
+        "akkusativ": "die Haare"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hare",
+    "Harre",
+    "Hahre",
+    "Hahare"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Zettel",
+  "wortart": "Nomen",
+  "silben": "Zet-tel",
+  "begriffserklaerung": "Ein Zettel ist ein kleines Stück Papier, auf das man etwas schreiben kann.",
+  "beispielsatz": "Mama hat mir einen Zettel mit der Einkaufsliste gegeben.",
+  "rechtschreibstrategie": "Das Wort „Zettel\" hat nach dem kurzen „e\" ein Doppel-t. Sprich es deutlich: Zet-tel – du hörst das doppelte t!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zettel",
+    "plural": "die Zettel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zettel",
+        "genitiv": "des Zettels",
+        "dativ": "dem Zettel",
+        "akkusativ": "den Zettel"
+      },
+      "plural": {
+        "nominativ": "die Zettel",
+        "genitiv": "der Zettel",
+        "dativ": "den Zetteln",
+        "akkusativ": "die Zettel"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Zettel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zettelbuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notizzettel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notizblock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zetel",
+    "Zetell",
+    "Zätel",
+    "Setel",
+    "Zettel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "note / slip of paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bout de papier / note"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kâğıt parçası / not"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة صغيرة"
+    }
+  ],
+  "bild_datei": "Zettel.webp",
+  "audio_datei": "Zettel.mp3"
+}

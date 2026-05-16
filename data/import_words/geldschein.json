@@ -1,0 +1,87 @@
+{
+  "lemma": "Geldschein",
+  "wortart": "Nomen",
+  "silben": "Geld-schein",
+  "begriffserklaerung": "Ein Geldschein ist ein rechteckiges Stück Papier, das einen bestimmten Geldbetrag darstellt und zum Bezahlen benutzt wird.",
+  "beispielsatz": "Mama zieht einen Geldschein aus dem Portemonnaie und bezahlt damit den Einkauf.",
+  "rechtschreibstrategie": "Das Wort „Geldschein\" besteht aus zwei Teilen: „Geld\" und „Schein\". Sprich beide Bausteine laut mit – dann schreibst du beide richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Geld",
+    "Schein"
+  ],
+  "bild_datei": "Geldschein.webp",
+  "audio_datei": "Geldschein.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geldschein",
+    "plural": "die Geldscheine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geldschein",
+        "genitiv": "des Geldscheins",
+        "dativ": "dem Geldschein",
+        "akkusativ": "den Geldschein"
+      },
+      "plural": {
+        "nominativ": "die Geldscheine",
+        "genitiv": "der Geldscheine",
+        "dativ": "den Geldscheinen",
+        "akkusativ": "die Geldscheine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "banknote"
+    },
+    {
+      "language_code": "fr",
+      "translation": "billet de banque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banknot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة نقدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Banknote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Portemonnaie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geltschein",
+    "Geldschain",
+    "Geldscheinn",
+    "Geldshein",
+    "Gelschein"
+  ]
+}

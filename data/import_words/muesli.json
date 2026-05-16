@@ -1,0 +1,72 @@
+{
+  "lemma": "Müsli",
+  "wortart": "Nomen",
+  "silben": "Müs-li",
+  "begriffserklaerung": "Müsli ist ein Frühstück aus Haferflocken, Nüssen und Früchten, das oft mit Milch oder Joghurt gegessen wird.",
+  "beispielsatz": "Morgens esse ich am liebsten Müsli mit frischen Beeren zum Frühstück.",
+  "rechtschreibstrategie": "Denk an das Ü am Anfang – sprich das Wort laut: „Müs-li\". Das ü hörst du klar!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Müsli.webp",
+  "audio_datei": "Müsli.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "muesli"
+    },
+    {
+      "language_code": "fr",
+      "translation": "muesli"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müsli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موسلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haferflocken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joghurt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Müsli",
+    "plural": "die Müslis",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Müsli",
+        "genitiv": "des Müslis",
+        "dativ": "dem Müsli",
+        "akkusativ": "das Müsli"
+      },
+      "plural": {
+        "nominativ": "die Müslis",
+        "genitiv": "der Müslis",
+        "dativ": "den Müslis",
+        "akkusativ": "die Müslis"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Muesli",
+    "Müsly",
+    "Mühsli",
+    "Mißli",
+    "Müßli"
+  ]
+}

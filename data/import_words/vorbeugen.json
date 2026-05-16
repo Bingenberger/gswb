@@ -1,0 +1,101 @@
+{
+  "lemma": "vorbeugen",
+  "wortart": "Verb",
+  "silben": "vor-beu-gen",
+  "begriffserklaerung": "Vorbeugen bedeutet, etwas Schlechtes zu verhindern, bevor es passiert. Man tut etwas, damit man nicht krank wird oder damit kein Unfall entsteht.",
+  "beispielsatz": "Waschen wir uns oft die Hände, beugen wir einer Erkältung vor.",
+  "rechtschreibstrategie": "Das Wort „vorbeugen\" besteht aus zwei Bausteinen: „vor\" und „beugen\". Sprich beide Teile deutlich: VOR-BEU-GEN. Das „eu\" klingt wie in „Freund\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "beugen",
+    "Beugung"
+  ],
+  "bild_datei": "vorbeugen.webp",
+  "audio_datei": "vorbeugen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to prevent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prévenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "önlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمنع / يحول دون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beugen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beugung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verhindern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sicherheit"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "vorbeugen",
+    "praesens": {
+      "ich": "ich beuge vor",
+      "du": "du beugst vor",
+      "er_sie_es": "er/sie/es beugt vor",
+      "wir": "wir beugen vor",
+      "ihr": "ihr beugt vor",
+      "sie": "sie beugen vor"
+    },
+    "perfekt": {
+      "ich": "ich habe vorgebeugt",
+      "du": "du hast vorgebeugt",
+      "er_sie_es": "er/sie/es hat vorgebeugt",
+      "wir": "wir haben vorgebeugt",
+      "ihr": "ihr habt vorgebeugt",
+      "sie": "sie haben vorgebeugt"
+    },
+    "praeteritum": {
+      "ich": "ich beugte vor",
+      "du": "du beugtest vor",
+      "er_sie_es": "er/sie/es beugte vor",
+      "wir": "wir beugten vor",
+      "ihr": "ihr beugtet vor",
+      "sie": "sie beugten vor"
+    }
+  },
+  "fehlschreibungen": [
+    "forbeugen",
+    "vorbeuchen",
+    "vorbeigen",
+    "vorbeuken",
+    "vorbeugen",
+    "forbeigen",
+    "vorbeuhen"
+  ]
+}

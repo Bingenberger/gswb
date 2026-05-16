@@ -1,0 +1,85 @@
+{
+  "lemma": "Arztpraxis",
+  "wortart": "Nomen",
+  "silben": "Arzt-pra-xis",
+  "begriffserklaerung": "Eine Arztpraxis ist ein Ort, an dem ein Arzt oder eine Ärztin arbeitet und kranke Menschen untersucht und behandelt.",
+  "beispielsatz": "Mama bringt mich in die Arztpraxis, weil mein Hals so weh tut.",
+  "rechtschreibstrategie": "Das Wort „Arztpraxis\" ist ein zusammengesetztes Wort aus „Arzt\" und „Praxis\". Sprich beide Teile genau mit: Arzt + Praxis. Das X in „Praxis\" klingt wie „ks\" – denk daran!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Arzt",
+    "Praxis"
+  ],
+  "bild_datei": "Arztpraxis.webp",
+  "audio_datei": "Arztpraxis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "doctor's office"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cabinet médical"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doktor muayenehanesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عيادة الطبيب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ärztin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wartezimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Praxis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Arztpraxis",
+    "plural": "die Arztpraxen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Arztpraxis",
+        "genitiv": "der Arztpraxis",
+        "dativ": "der Arztpraxis",
+        "akkusativ": "die Arztpraxis"
+      },
+      "plural": {
+        "nominativ": "die Arztpraxen",
+        "genitiv": "der Arztpraxen",
+        "dativ": "den Arztpraxen",
+        "akkusativ": "die Arztpraxen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arztpracksis",
+    "Arsdpraxis",
+    "Arztpraksis",
+    "Arztpraxsis",
+    "Arzpraxis",
+    "Arztpraxiss"
+  ]
+}

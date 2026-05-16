@@ -1,0 +1,88 @@
+{
+  "lemma": "Schulranzen",
+  "wortart": "Nomen",
+  "silben": "Schul-ran-zen",
+  "begriffserklaerung": "Ein Schulranzen ist eine feste Tasche, die Kinder auf dem Rücken tragen. Darin stecken Hefte, Bücher, Stifte und alles, was man in der Schule braucht.",
+  "beispielsatz": "Lea packt ihre Bücher in den Schulranzen und macht sich auf den Weg zur Schule.",
+  "rechtschreibstrategie": "Das Wort „Schulranzen\" ist aus zwei Teilen zusammengesetzt: „Schul\" (von Schule) und „Ranzen\". Sprich beide Teile deutlich: SCHUL – RAN – ZEN. Das „tz\" am Ende kommt nach dem kurzen Vokal „a\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Ranzen"
+  ],
+  "bild_datei": "Schulranzen.webp",
+  "audio_datei": "Schulranzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school bag / satchel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cartable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul çantası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة مدرسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ranzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schultasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Federmäppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulranzen",
+    "plural": "die Schulranzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulranzen",
+        "genitiv": "des Schulranzens",
+        "dativ": "dem Schulranzen",
+        "akkusativ": "den Schulranzen"
+      },
+      "plural": {
+        "nominativ": "die Schulranzen",
+        "genitiv": "der Schulranzen",
+        "dativ": "den Schulranzen",
+        "akkusativ": "die Schulranzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulrantzen",
+    "Schulranzen",
+    "Schulransen",
+    "Shulranzen",
+    "Schulrannzen"
+  ]
+}

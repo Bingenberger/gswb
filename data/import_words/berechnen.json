@@ -1,0 +1,100 @@
+{
+  "lemma": "berechnen",
+  "wortart": "Verb",
+  "silben": "be-rech-nen",
+  "begriffserklaerung": "Wenn du etwas berechnest, findest du mit Rechnen eine Antwort heraus – zum Beispiel, wie viel etwas kostet oder wie groß etwas ist.",
+  "beispielsatz": "Die Lehrerin bittet uns, den Umfang des Rechtecks zu berechnen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: be-rech-nen. Das „ch\" hörst du deutlich. Nach dem kurzen „e\" kommt „ch\" – kein „k\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "rechnen",
+    "Rechnung"
+  ],
+  "bild_datei": "berechnen.webp",
+  "audio_datei": "berechnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to calculate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calculer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesaplamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausrechnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "addieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zählen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "berechnen",
+    "praesens": {
+      "ich": "berechne",
+      "du": "berechnest",
+      "er_sie_es": "berechnet",
+      "wir": "berechnen",
+      "ihr": "berechnet",
+      "sie": "berechnen"
+    },
+    "perfekt": {
+      "ich": "habe berechnet",
+      "du": "hast berechnet",
+      "er_sie_es": "hat berechnet",
+      "wir": "haben berechnet",
+      "ihr": "habt berechnet",
+      "sie": "haben berechnet"
+    },
+    "praeteritum": {
+      "ich": "berechnete",
+      "du": "berechnetes",
+      "er_sie_es": "berechnete",
+      "wir": "berechneten",
+      "ihr": "berechnetet",
+      "sie": "berechneten"
+    }
+  },
+  "fehlschreibungen": [
+    "berechen",
+    "berrechnen",
+    "berechten",
+    "berächnen",
+    "berechenn",
+    "berechnen"
+  ]
+}

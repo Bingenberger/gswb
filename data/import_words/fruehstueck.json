@@ -1,0 +1,85 @@
+{
+  "lemma": "Frühstück",
+  "wortart": "Nomen",
+  "silben": "Früh-stück",
+  "begriffserklaerung": "Das Frühstück ist die erste Mahlzeit des Tages, die man morgens isst.",
+  "beispielsatz": "Jeden Morgen esse ich zum Frühstück ein Brötchen mit Marmelade.",
+  "rechtschreibstrategie": "Das Wort „Frühstück\" ist aus „früh\" und „Stück\" zusammengesetzt. Denk an beide Teile: „früh\" (mit ü) + „Stück\" (mit ü und ck)!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "früh",
+    "Stück"
+  ],
+  "bild_datei": "Frühstück.webp",
+  "audio_datei": "Frühstück.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Frühstück",
+    "plural": "die Frühstücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Frühstück",
+        "genitiv": "des Frühstücks",
+        "dativ": "dem Frühstück",
+        "akkusativ": "das Frühstück"
+      },
+      "plural": {
+        "nominativ": "die Frühstücke",
+        "genitiv": "der Frühstücke",
+        "dativ": "den Frühstücken",
+        "akkusativ": "die Frühstücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "breakfast"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit-déjeuner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahvaltı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "früh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frühstücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittagessen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abendbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Frühstüeck",
+    "Frühstick",
+    "Frühsthück",
+    "Frühstük",
+    "Früchstück",
+    "Frühshtück"
+  ]
+}

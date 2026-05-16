@@ -1,0 +1,76 @@
+{
+  "lemma": "Tennisball",
+  "wortart": "Nomen",
+  "silben": "Ten-nis-ball",
+  "begriffserklaerung": "Ein Tennisball ist ein kleiner, runder Ball, der beim Tennisspielen verwendet wird. Er ist meist gelb und hat eine weiche, filzige Oberfläche.",
+  "beispielsatz": "Mia schlägt den Tennisball mit dem Schläger über das Netz.",
+  "rechtschreibstrategie": "Das Wort „Tennisball\" besteht aus zwei Teilen: „Tennis\" und „Ball\". Sprich beide Teile einzeln: TEN-NIS-BALL. Das Doppel-n in „Tennis\" hörst du beim langsamen Sprechen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tennis",
+    "Ball"
+  ],
+  "bild_datei": "Tennisball.webp",
+  "audio_datei": "Tennisball.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tennis ball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balle de tennis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tenis topu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة التنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schläger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tennis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tennisball",
+    "plural": "die Tennisbälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tennisball",
+        "genitiv": "des Tennisballs",
+        "dativ": "dem Tennisball",
+        "akkusativ": "den Tennisball"
+      },
+      "plural": {
+        "nominativ": "die Tennisbälle",
+        "genitiv": "der Tennisbälle",
+        "dativ": "den Tennisbällen",
+        "akkusativ": "die Tennisbälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tenisball",
+    "Tennißball",
+    "Tennisbal",
+    "Tennisball",
+    "Tennesball"
+  ]
+}

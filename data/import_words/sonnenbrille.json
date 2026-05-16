@@ -1,0 +1,85 @@
+{
+  "lemma": "Sonnenbrille",
+  "wortart": "Nomen",
+  "silben": "Son-nen-bril-le",
+  "begriffserklaerung": "Eine Sonnenbrille ist eine Brille mit dunklen Gläsern, die deine Augen vor hellem Sonnenlicht schützt.",
+  "beispielsatz": "Im Sommer trägt Lisa immer ihre bunte Sonnenbrille, wenn sie draußen spielt.",
+  "rechtschreibstrategie": "Das Wort „Sonnenbrille\" besteht aus zwei Teilen: „Sonne\" und „Brille\". Sprich beide Bausteine einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Brille"
+  ],
+  "bild_datei": "Sonnenbrille.webp",
+  "audio_datei": "Sonnenbrille.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunglasses"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lunettes de soleil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş gözlüğü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نظارة شمسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutzbrille"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonnenbrille",
+    "plural": "die Sonnenbrillen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonnenbrille",
+        "genitiv": "der Sonnenbrille",
+        "dativ": "der Sonnenbrille",
+        "akkusativ": "die Sonnenbrille"
+      },
+      "plural": {
+        "nominativ": "die Sonnenbrillen",
+        "genitiv": "der Sonnenbrillen",
+        "dativ": "den Sonnenbrillen",
+        "akkusativ": "die Sonnenbrillen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sononenbrille",
+    "Sonnenbrillie",
+    "Sonenbrille",
+    "Sonnenbrrille",
+    "Sonnenbille",
+    "Sunnenbrille"
+  ]
+}

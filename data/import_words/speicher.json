@@ -1,0 +1,82 @@
+{
+  "lemma": "Speicher",
+  "wortart": "Nomen",
+  "silben": "Spei-cher",
+  "begriffserklaerung": "Ein Speicher ist ein Ort oder ein Gerät, auf dem man Dinge oder Informationen aufbewahren kann – zum Beispiel Getreide auf einem Dachboden oder Daten auf einem Computer.",
+  "beispielsatz": "Auf dem alten Bauernhof liegt das Getreide im Speicher.",
+  "rechtschreibstrategie": "Das Wort „Speicher\" hat den langen Vokal „ei\" – sprich es laut: SPEI-cher. Das „ei\" schreibt man mit E und I.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "speicher"
+  ],
+  "bild_datei": "Speicher.webp",
+  "audio_datei": "Speicher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "storage / memory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grenier / mémoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "depo / bellek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخزن / ذاكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "speichern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abspeicherung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachboden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lager"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Speicher",
+    "plural": "die Speicher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Speicher",
+        "genitiv": "des Speichers",
+        "dativ": "dem Speicher",
+        "akkusativ": "den Speicher"
+      },
+      "plural": {
+        "nominativ": "die Speicher",
+        "genitiv": "der Speicher",
+        "dativ": "den Speichern",
+        "akkusativ": "die Speicher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Speigher",
+    "Speiher",
+    "Speicher",
+    "Speycher",
+    "Speichr"
+  ]
+}

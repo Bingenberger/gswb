@@ -1,0 +1,81 @@
+{
+  "lemma": "Schwan",
+  "wortart": "Nomen",
+  "silben": "Schwan",
+  "begriffserklaerung": "Ein Schwan ist ein großer, weißer Vogel, der auf Seen und Flüssen schwimmt. Er hat einen langen, geschwungenen Hals.",
+  "beispielsatz": "Der weiße Schwan gleitet langsam über den stillen See.",
+  "rechtschreibstrategie": "Denk an das Sch am Anfang – es klingt wie ein einziger Laut. Wenn du „Schwan\" verlängerst, hörst du das a deutlich: „Schwä-ne\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schwan"
+  ],
+  "bild_datei": "Schwan.webp",
+  "audio_datei": "Schwan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swan"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cygne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuğu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بجعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwanensee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwanengesang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ente"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Schwan",
+    "plural": "Schwäne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schwan",
+        "genitiv": "des Schwans",
+        "dativ": "dem Schwan",
+        "akkusativ": "den Schwan"
+      },
+      "plural": {
+        "nominativ": "die Schwäne",
+        "genitiv": "der Schwäne",
+        "dativ": "den Schwänen",
+        "akkusativ": "die Schwäne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwan",
+    "Sschwan",
+    "Schvan",
+    "Shwan"
+  ]
+}

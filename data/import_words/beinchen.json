@@ -1,0 +1,80 @@
+{
+  "lemma": "Beinchen",
+  "wortart": "Nomen",
+  "silben": "Bein-chen",
+  "begriffserklaerung": "Ein Beinchen ist ein kleines Bein – zum Beispiel das Bein eines Kindes, eines Tieres oder eines Stuhls.",
+  "beispielsatz": "Die kleine Spinne bewegt alle acht Beinchen ganz schnell.",
+  "rechtschreibstrategie": "Denk an das große Wort „Bein\" – dann hänge „-chen\" dran: Bein + chen = Beinchen. Das Ei sprichst du lang, darum schreibst du „ei\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bein"
+  ],
+  "bild_datei": "Beinchen.webp",
+  "audio_datei": "Beinchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Beinchen",
+    "plural": "die Beinchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Beinchen",
+        "genitiv": "des Beinchens",
+        "dativ": "dem Beinchen",
+        "akkusativ": "das Beinchen"
+      },
+      "plural": {
+        "nominativ": "die Beinchen",
+        "genitiv": "der Beinchen",
+        "dativ": "den Beinchen",
+        "akkusativ": "die Beinchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little leg"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite jambe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bacakcık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساق صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beincen",
+    "Beinken",
+    "Beinchen",
+    "Beichen",
+    "Beynchen",
+    "Beinchenn"
+  ]
+}

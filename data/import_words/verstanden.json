@@ -1,0 +1,95 @@
+{
+  "lemma": "verstanden",
+  "wortart": "Verb",
+  "silben": "ver-stan-den",
+  "begriffserklaerung": "„Verstanden\" bedeutet, dass du etwas begriffen oder gehört hast und weißt, was gemeint ist.",
+  "beispielsatz": "„Hast du die Aufgabe verstanden?\" – „Ja, ich habe alles verstanden!\"",
+  "rechtschreibstrategie": "Denk an das Stammwort „stehen\" – daraus wird „stand\" und dann „verstanden\". Sprich es laut: ver-STAN-den. Das „st\" schreibst du immer zusammen.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "stehen",
+    "verstehen"
+  ],
+  "bild_datei": "verstanden.webp",
+  "audio_datei": "verstanden.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verstehen",
+    "praesens": {
+      "ich": "verstehe",
+      "du": "verstehst",
+      "er_sie_es": "versteht",
+      "wir": "verstehen",
+      "ihr": "versteht",
+      "sie": "verstehen"
+    },
+    "perfekt": {
+      "ich": "habe verstanden",
+      "du": "hast verstanden",
+      "er_sie_es": "hat verstanden",
+      "wir": "haben verstanden",
+      "ihr": "habt verstanden",
+      "sie": "haben verstanden"
+    },
+    "praeteritum": {
+      "ich": "verstand",
+      "du": "verstandst",
+      "er_sie_es": "verstand",
+      "wir": "verstanden",
+      "ihr": "verstandet",
+      "sie": "verstanden"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "understood"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compris"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anladım / anlaşıldı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فهمت / مفهوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verstehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verständnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "begriffen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zuhören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    }
+  ],
+  "fehlschreibungen": [
+    "ferstanden",
+    "verstannden",
+    "verstandden",
+    "verstannten",
+    "verständen"
+  ]
+}

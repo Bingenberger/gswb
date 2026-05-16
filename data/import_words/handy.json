@@ -1,0 +1,71 @@
+{
+  "lemma": "Handy",
+  "wortart": "Nomen",
+  "silben": "Han-dy",
+  "begriffserklaerung": "Ein Handy ist ein kleines Telefon, das du überall mitnehmen kannst. Du kannst damit anrufen, Nachrichten schicken und im Internet surfen.",
+  "beispielsatz": "Mama schreibt eine Nachricht auf ihrem Handy.",
+  "rechtschreibstrategie": "Das Wort „Handy\" kommt aus dem Englischen. Denk daran: Es endet auf -dy, nicht auf -di oder -die. Als Nomen schreibst du es groß.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Handy.webp",
+  "audio_datei": "Handy.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mobile phone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "téléphone portable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cep telefonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هاتف محمول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Handy",
+    "plural": "die Handys",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Handy",
+        "genitiv": "des Handys",
+        "dativ": "dem Handy",
+        "akkusativ": "das Handy"
+      },
+      "plural": {
+        "nominativ": "die Handys",
+        "genitiv": "der Handys",
+        "dativ": "den Handys",
+        "akkusativ": "die Handys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handi",
+    "Handie",
+    "Händy",
+    "Handy's"
+  ]
+}

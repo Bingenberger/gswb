@@ -1,0 +1,87 @@
+{
+  "lemma": "Wohner",
+  "wortart": "Nomen",
+  "silben": "Woh-ner",
+  "begriffserklaerung": "Ein Wohner ist jemand, der an einem bestimmten Ort lebt und dort sein Zuhause hat.",
+  "beispielsatz": "Die Wohner unseres Hauses treffen sich manchmal im Garten.",
+  "rechtschreibstrategie": "Denk an das Wort „wohnen\" – daraus wird „Wohner\". Das Dehnungs-h bleibt erhalten: W-O-H-N-E-R.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wohn"
+  ],
+  "bild_datei": "Wohner.webp",
+  "audio_datei": "Wohner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wohner",
+    "plural": "die Wohner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wohner",
+        "genitiv": "des Wohners",
+        "dativ": "dem Wohner",
+        "akkusativ": "den Wohner"
+      },
+      "plural": {
+        "nominativ": "die Wohner",
+        "genitiv": "der Wohner",
+        "dativ": "den Wohnern",
+        "akkusativ": "die Wohner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "resident / inhabitant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "habitant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sakin / oturan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساكن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bewohner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mieter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Vohner",
+    "Wonher",
+    "Woner",
+    "Woohner",
+    "Wohnar"
+  ]
+}

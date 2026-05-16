@@ -1,0 +1,86 @@
+{
+  "lemma": "Koch",
+  "wortart": "Nomen",
+  "silben": "Koch",
+  "begriffserklaerung": "Ein Koch ist jemand, der beruflich Essen zubereitet – zum Beispiel in einem Restaurant oder einer Schulkantine.",
+  "beispielsatz": "Der Koch in unserer Schule macht jeden Tag leckere Suppe.",
+  "rechtschreibstrategie": "Schreibe „Koch\" mit „ch\" am Ende – sprich das Wort laut: Ko-ch. Das „ch\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "koch"
+  ],
+  "bild_datei": "Koch.webp",
+  "audio_datei": "Koch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Koch",
+    "plural": "die Köche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Koch",
+        "genitiv": "des Koches",
+        "dativ": "dem Koch",
+        "akkusativ": "den Koch"
+      },
+      "plural": {
+        "nominativ": "die Köche",
+        "genitiv": "der Köche",
+        "dativ": "den Köchen",
+        "akkusativ": "die Köche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuisinier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aşçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاهٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Köchin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kochbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Chefkoch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kok",
+    "Coch",
+    "Cok",
+    "Kooch",
+    "Kocch"
+  ]
+}

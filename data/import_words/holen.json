@@ -1,0 +1,98 @@
+{
+  "lemma": "holen",
+  "wortart": "Verb",
+  "silben": "ho-len",
+  "begriffserklaerung": "Wenn du etwas holst, gehst du irgendwohin und bringst es zurück.",
+  "beispielsatz": "Kannst du bitte das Buch vom Regal holen?",
+  "rechtschreibstrategie": "Sprich das Wort langsam: ho – len. Das „o\" klingt lang, deshalb schreibst du nur ein „l\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hol"
+  ],
+  "bild_datei": "holen.webp",
+  "audio_datei": "holen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fetch / to get"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aller chercher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "almak / getirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجلب / يأتي بـ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hol"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abholung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bringen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bringen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "suchen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "holen",
+    "praesens": {
+      "ich": "hole",
+      "du": "holst",
+      "er_sie_es": "holt",
+      "wir": "holen",
+      "ihr": "holt",
+      "sie": "holen"
+    },
+    "perfekt": {
+      "ich": "habe geholt",
+      "du": "hast geholt",
+      "er_sie_es": "hat geholt",
+      "wir": "haben geholt",
+      "ihr": "habt geholt",
+      "sie": "haben geholt"
+    },
+    "praeteritum": {
+      "ich": "holte",
+      "du": "holtest",
+      "er_sie_es": "holte",
+      "wir": "holten",
+      "ihr": "holtet",
+      "sie": "holten"
+    }
+  },
+  "fehlschreibungen": [
+    "hohlen",
+    "hollen",
+    "holn",
+    "hohln",
+    "hoolen"
+  ]
+}

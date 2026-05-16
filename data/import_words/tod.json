@@ -1,0 +1,85 @@
+{
+  "lemma": "Tod",
+  "wortart": "Nomen",
+  "silben": "Tod",
+  "begriffserklaerung": "Der Tod bedeutet, dass ein Lebewesen – ein Mensch, ein Tier oder eine Pflanze – aufhört zu leben.",
+  "beispielsatz": "Nach dem Tod des alten Baumes blieb nur noch ein Baumstumpf übrig.",
+  "rechtschreibstrategie": "Verlängere das Wort: „Tod\" → „Tode\" oder „Todes\". Am Ende hörst du das „d\" deutlich – also schreibst du es mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "tod"
+  ],
+  "bild_datei": "Tod.webp",
+  "audio_datei": "Tod.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "death"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mort"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sterben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tödlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beerdigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ableben"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tod",
+    "plural": "die Tode",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tod",
+        "genitiv": "des Todes",
+        "dativ": "dem Tod / dem Tode",
+        "akkusativ": "den Tod"
+      },
+      "plural": {
+        "nominativ": "die Tode",
+        "genitiv": "der Tode",
+        "dativ": "den Toden",
+        "akkusativ": "die Tode"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tot",
+    "Todt",
+    "Toth",
+    "Tohd"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Feuerwehrauto",
+  "wortart": "Nomen",
+  "silben": "Feu-er-wehr-au-to",
+  "begriffserklaerung": "Ein Feuerwehrauto ist ein großes, rotes Fahrzeug, mit dem die Feuerwehr schnell zu einem Brand oder Unfall fährt, um zu helfen.",
+  "beispielsatz": "Das Feuerwehrauto rast mit lautem Blaulicht und Sirene durch die Straße.",
+  "rechtschreibstrategie": "Das Wort „Feuerwehrauto\" ist aus drei Teilen zusammengesetzt: „Feuer\" + „Wehr\" + „Auto\". Sprich alle Bausteine einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Wehr",
+    "Auto"
+  ],
+  "bild_datei": "Feuerwehrauto.webp",
+  "audio_datei": "Feuerwehrauto.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Feuerwehrauto",
+    "plural": "die Feuerwehrautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Feuerwehrauto",
+        "genitiv": "des Feuerwehrautos",
+        "dativ": "dem Feuerwehrauto",
+        "akkusativ": "das Feuerwehrauto"
+      },
+      "plural": {
+        "nominativ": "die Feuerwehrautos",
+        "genitiv": "der Feuerwehrautos",
+        "dativ": "den Feuerwehrautos",
+        "akkusativ": "die Feuerwehrautos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire engine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camion de pompiers"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itfaiye arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة الإطفاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizeiauto"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Löschfahrzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Feuerwehrautto",
+    "Feuerwerauto",
+    "Feuerwehauto",
+    "Feuerwehrauto",
+    "Feuerwehrrrauto",
+    "Feuerwerautto",
+    "Feuwerwehrauto"
+  ]
+}

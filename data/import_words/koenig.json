@@ -1,0 +1,82 @@
+{
+  "lemma": "König",
+  "wortart": "Nomen",
+  "silben": "Kö-nig",
+  "begriffserklaerung": "Ein König ist ein Mann, der über ein Land oder ein Königreich herrscht. Er ist das Oberhaupt eines Landes und trägt oft eine Krone.",
+  "beispielsatz": "Der König sitzt auf seinem goldenen Thron und regiert sein Land.",
+  "rechtschreibstrategie": "Denk an das Wort „Könige\" – am Ende hörst du ein „e\", deshalb schreibt man es mit „ig\" und nicht „ich\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "König"
+  ],
+  "bild_datei": "König.webp",
+  "audio_datei": "König.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "king"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kral"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Königin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Königreich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herrscher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der König",
+    "plural": "die Könige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der König",
+        "genitiv": "des Königs",
+        "dativ": "dem König",
+        "akkusativ": "den König"
+      },
+      "plural": {
+        "nominativ": "die Könige",
+        "genitiv": "der Könige",
+        "dativ": "den Königen",
+        "akkusativ": "die Könige"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Könich",
+    "Könnig",
+    "Könik",
+    "Könieg",
+    "Koenig"
+  ]
+}

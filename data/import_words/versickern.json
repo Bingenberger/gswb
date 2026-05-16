@@ -1,0 +1,91 @@
+{
+  "lemma": "versickern",
+  "wortart": "Verb",
+  "silben": "ver-si-ckern",
+  "begriffserklaerung": "Wenn Wasser langsam in den Boden eindringt und verschwindet, sickert es versickert.",
+  "beispielsatz": "Nach dem Regen versickert das Wasser langsam im Boden.",
+  "rechtschreibstrategie": "Das Wort hat nach dem kurzen „i\" ein „ck\" – das zeigt, dass der Vokal kurz gesprochen wird: ver-si-ckern.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sicker"
+  ],
+  "bild_datei": "versickern.webp",
+  "audio_datei": "versickern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to seep away"
+    },
+    {
+      "language_code": "fr",
+      "translation": "s'infiltrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sızmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتسرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sickern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sicker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verschwinden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einsinken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verschwinden"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "versickern",
+    "praesens": {
+      "ich": "versickere",
+      "du": "versickerst",
+      "er_sie_es": "versickert",
+      "wir": "versickern",
+      "ihr": "versickert",
+      "sie": "versickern"
+    },
+    "perfekt": {
+      "ich": "bin versickert",
+      "du": "bist versickert",
+      "er_sie_es": "ist versickert",
+      "wir": "sind versickert",
+      "ihr": "seid versickert",
+      "sie": "sind versickert"
+    },
+    "praeteritum": {
+      "ich": "versickerte",
+      "du": "versickertest",
+      "er_sie_es": "versickerte",
+      "wir": "versickerten",
+      "ihr": "versickertet",
+      "sie": "versickerten"
+    }
+  },
+  "fehlschreibungen": [
+    "versikern",
+    "versickeren",
+    "vorsickern",
+    "versickern",
+    "versickert (statt versickern im Infinitiv)"
+  ]
+}

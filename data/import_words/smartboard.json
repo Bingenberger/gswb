@@ -1,0 +1,75 @@
+{
+  "lemma": "Smartboard",
+  "wortart": "Nomen",
+  "silben": "Smart-board",
+  "begriffserklaerung": "Ein Smartboard ist eine große, interaktive Tafel, die man mit dem Finger oder einem Stift bedienen kann. Sie ist mit einem Computer verbunden und zeigt Bilder, Texte und Videos an.",
+  "beispielsatz": "Unsere Lehrerin zeigt uns die Aufgabe am Smartboard.",
+  "rechtschreibstrategie": "Das Wort „Smartboard\" kommt aus dem Englischen und setzt sich aus zwei Teilen zusammen: „Smart\" (klug) und „board\" (Tafel). Schreibe beide Teile zusammen und denke daran, dass es ein Nomen ist – also groß!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Smartboard.webp",
+  "audio_datei": "Smartboard.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smartboard / interactive whiteboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau interactif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akıllı tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبورة ذكية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beamer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Smartboard",
+    "plural": "die Smartboards",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Smartboard",
+        "genitiv": "des Smartboards",
+        "dativ": "dem Smartboard",
+        "akkusativ": "das Smartboard"
+      },
+      "plural": {
+        "nominativ": "die Smartboards",
+        "genitiv": "der Smartboards",
+        "dativ": "den Smartboards",
+        "akkusativ": "die Smartboards"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Smartbord",
+    "Smartboart",
+    "Smaartboard",
+    "Smartboad",
+    "Zmartboard",
+    "smartboard"
+  ]
+}

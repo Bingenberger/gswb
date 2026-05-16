@@ -1,0 +1,86 @@
+{
+  "lemma": "Blut",
+  "wortart": "Nomen",
+  "silben": "Blut",
+  "begriffserklaerung": "Blut ist die rote Flüssigkeit, die in deinem Körper durch die Adern fließt. Es versorgt alle Körperstellen mit Sauerstoff und Nährstoffen.",
+  "beispielsatz": "Als Leo hinfiel, blutete sein Knie und ein bisschen Blut tropfte auf den Boden.",
+  "rechtschreibstrategie": "Das Wort „Blut\" endet auf ein „t\". Wenn du es verlängerst, hörst du das „t\" deutlich: Blu-te, blu-tig. So weißt du, dass am Ende ein „t\" steht.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "blut"
+  ],
+  "bild_datei": "Blut.webp",
+  "audio_datei": "Blut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blood"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sang"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bluten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blutig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Blut",
+    "plural": "die Blute",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Blut",
+        "genitiv": "des Blutes",
+        "dativ": "dem Blut",
+        "akkusativ": "das Blut"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bluht",
+    "Blud",
+    "Bluth",
+    "Bloot",
+    "Blut"
+  ]
+}

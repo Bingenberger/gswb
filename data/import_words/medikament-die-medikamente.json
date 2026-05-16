@@ -1,0 +1,78 @@
+{
+  "lemma": "Medikament / die Medikamente",
+  "wortart": "Nomen",
+  "silben": "Me-di-ka-ment",
+  "beispielsatz": "Der Arzt hat mir ein Medikament verschrieben, damit ich schnell wieder gesund werde.",
+  "begriffserklaerung": "Ein Medikament ist ein Mittel, das dir hilft, wenn du krank bist. Es kann als Tablette, Saft oder Tropfen gegeben werden.",
+  "rechtschreibstrategie": "Das Wort „Medikament\" schreibst du so, wie du es sprichst: Me-di-ka-ment. Sprich es laut in Silben – dann vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Medikament"
+  ],
+  "bild_datei": "Medikament / die Medikamente.webp",
+  "audio_datei": "Medikament / die Medikamente.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "medicine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médicament"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "medikamentös"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arznei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Medikament",
+    "plural": "die Medikamente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Medikament",
+        "genitiv": "des Medikaments",
+        "dativ": "dem Medikament",
+        "akkusativ": "das Medikament"
+      },
+      "plural": {
+        "nominativ": "die Medikamente",
+        "genitiv": "der Medikamente",
+        "dativ": "den Medikamenten",
+        "akkusativ": "die Medikamente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Medikamant",
+    "Medikement",
+    "Medikkament",
+    "Meddikament",
+    "Medikaament"
+  ]
+}

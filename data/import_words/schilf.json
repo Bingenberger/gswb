@@ -1,0 +1,79 @@
+{
+  "lemma": "Schilf",
+  "wortart": "Nomen",
+  "silben": "Schilf",
+  "begriffserklaerung": "Schilf ist eine hohe Pflanze, die an Seen, Teichen und Flüssen wächst. Die langen, dünnen Stängel und Blätter wachsen aus dem Wasser oder am Ufer.",
+  "beispielsatz": "Am Ufer des Teiches wächst dichtes Schilf, in dem sich Frösche verstecken.",
+  "rechtschreibstrategie": "Das Wort „Schilf\" schreibt man mit „sch\" am Anfang – sprich es laut: SCHILF. Am Ende hörst du ein „lf\" – schreib genau, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schilf"
+  ],
+  "bild_datei": "Schilf.webp",
+  "audio_datei": "Schilf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roseau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قصب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schilfrohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schilf",
+    "plural": "die Schilfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schilf",
+        "genitiv": "des Schilfs",
+        "dativ": "dem Schilf",
+        "akkusativ": "das Schilf"
+      },
+      "plural": {
+        "nominativ": "die Schilfe",
+        "genitiv": "der Schilfe",
+        "dativ": "den Schilfen",
+        "akkusativ": "die Schilfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schilff",
+    "Schilv",
+    "Schilph",
+    "Schulf",
+    "Chilf",
+    "Schielf"
+  ]
+}

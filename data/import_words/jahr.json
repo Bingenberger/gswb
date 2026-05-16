@@ -1,0 +1,82 @@
+{
+  "lemma": "Jahr",
+  "wortart": "Nomen",
+  "silben": "Jahr",
+  "begriffserklaerung": "Ein Jahr ist die Zeit, die die Erde braucht, um einmal um die Sonne zu drehen. Ein Jahr hat 12 Monate oder 365 Tage.",
+  "beispielsatz": "In diesem Jahr werde ich acht Jahre alt.",
+  "rechtschreibstrategie": "Das Wort „Jahr\" schreibt man mit einem Dehnungs-h nach dem a. Merke dir: Ja-hr – das h hört man nicht, aber man schreibt es!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Jahr",
+    "plural": "die Jahre",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Jahr",
+        "genitiv": "des Jahres",
+        "dativ": "dem Jahr",
+        "akkusativ": "das Jahr"
+      },
+      "plural": {
+        "nominativ": "die Jahre",
+        "genitiv": "der Jahre",
+        "dativ": "den Jahren",
+        "akkusativ": "die Jahre"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Jahr"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jährlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahrgang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Monat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jar",
+    "Jhar",
+    "Yahr",
+    "Yar",
+    "Jare"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "year"
+    },
+    {
+      "language_code": "fr",
+      "translation": "année"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سَنَة"
+    }
+  ],
+  "bild_datei": "Jahr.webp",
+  "audio_datei": "Jahr.mp3"
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Halsband",
+  "wortart": "Nomen",
+  "silben": "Hals-band",
+  "begriffserklaerung": "Ein Halsband ist ein Band oder ein Ring, den man Tieren wie Hunden oder Katzen um den Hals legt. Daran kann man zum Beispiel eine Leine befestigen oder ein Namensschild hängen.",
+  "beispielsatz": "Unser Hund trägt ein rotes Halsband mit seinem Namen darauf.",
+  "rechtschreibstrategie": "„Halsband\" ist ein zusammengesetztes Wort aus „Hals\" und „Band\". Schreib einfach beide Wörter hintereinander: Hals + Band = Halsband.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hals",
+    "Band"
+  ],
+  "bild_datei": "Halsband.webp",
+  "audio_datei": "Halsband.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "collar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tasma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hals"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hundehütte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kragen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Halsband",
+    "plural": "die Halsbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Halsband",
+        "genitiv": "des Halsbandes",
+        "dativ": "dem Halsband",
+        "akkusativ": "das Halsband"
+      },
+      "plural": {
+        "nominativ": "die Halsbänder",
+        "genitiv": "der Halsbänder",
+        "dativ": "den Halsbändern",
+        "akkusativ": "die Halsbänder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Halssbant",
+    "Halsbant",
+    "Halssbande",
+    "Halßband",
+    "Halssbann"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Erde",
+  "wortart": "Nomen",
+  "silben": "Er-de",
+  "begriffserklaerung": "Die Erde ist unser Planet, auf dem wir leben. Das Wort „Erde\" bedeutet auch den braunen Boden, in dem Pflanzen wachsen.",
+  "beispielsatz": "Die Erde dreht sich einmal am Tag um sich selbst.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Er-de\". Du hörst zwei Silben. Schreibe, was du hörst: E-r-d-e.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "erd"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erde",
+    "plural": "die Erden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erde",
+        "genitiv": "der Erde",
+        "dativ": "der Erde",
+        "akkusativ": "die Erde"
+      },
+      "plural": {
+        "nominativ": "die Erden",
+        "genitiv": "der Erden",
+        "dativ": "den Erden",
+        "akkusativ": "die Erden"
+      }
+    }
+  },
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erdboden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "irdisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Planet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Welt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aerde",
+    "Ehde",
+    "Ähde",
+    "Ärde",
+    "Erde"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "earth / soil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "terre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dünya / toprak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرض"
+    }
+  ],
+  "bild_datei": "Erde.webp",
+  "audio_datei": "Erde.mp3"
+}

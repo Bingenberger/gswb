@@ -1,0 +1,84 @@
+{
+  "lemma": "Videokamera",
+  "wortart": "Nomen",
+  "silben": "Vi-de-o-ka-me-ra",
+  "begriffserklaerung": "Eine Videokamera ist ein Gerät, mit dem man bewegte Bilder und Ton aufnehmen kann. Man kann damit zum Beispiel Geburtstage oder Ausflüge filmen.",
+  "beispielsatz": "Papa hat unseren Schulausflug mit der Videokamera gefilmt.",
+  "rechtschreibstrategie": "Das Wort „Videokamera\" ist aus zwei Teilen zusammengesetzt: „Video\" und „Kamera\". Sprich beide Teile einzeln durch, dann findest du die Schreibung leichter!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Video",
+    "Kamera"
+  ],
+  "bild_datei": "Videokamera.webp",
+  "audio_datei": "Videokamera.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "video camera"
+    },
+    {
+      "language_code": "fr",
+      "translation": "caméra vidéo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "video kamera"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاميرا فيديو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Video"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fotokamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Filmkamera"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Videokamera",
+    "plural": "die Videokameras",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Videokamera",
+        "genitiv": "der Videokamera",
+        "dativ": "der Videokamera",
+        "akkusativ": "die Videokamera"
+      },
+      "plural": {
+        "nominativ": "die Videokameras",
+        "genitiv": "der Videokameras",
+        "dativ": "den Videokameras",
+        "akkusativ": "die Videokameras"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Videocamera",
+    "Viedokamera",
+    "Videokammera",
+    "Videokamara",
+    "Vidiokamera",
+    "Videokamerra"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Euro",
+  "wortart": "Nomen",
+  "silben": "Eu-ro",
+  "begriffserklaerung": "Der Euro ist das Geld, das in vielen Ländern Europas benutzt wird. Mit Euro kann man einkaufen und bezahlen.",
+  "beispielsatz": "Das Buch kostet fünf Euro.",
+  "rechtschreibstrategie": "Das Wort „Euro\" beginnt mit „Eu\" – sprich es deutlich: Eu-ro. Schreib es immer groß, denn es ist ein Nomen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Euro.webp",
+  "audio_datei": "Euro.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "euro"
+    },
+    {
+      "language_code": "fr",
+      "translation": "euro"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avro"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يورو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Cent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Euro",
+    "plural": "die Euro",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Euro",
+        "genitiv": "des Euros",
+        "dativ": "dem Euro",
+        "akkusativ": "den Euro"
+      },
+      "plural": {
+        "nominativ": "die Euro",
+        "genitiv": "der Euro",
+        "dativ": "den Euro",
+        "akkusativ": "die Euro"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Oiro",
+    "Eüro",
+    "Eyro",
+    "Eiro",
+    "euro"
+  ]
+}

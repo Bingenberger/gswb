@@ -1,0 +1,95 @@
+{
+  "lemma": "sichern",
+  "wortart": "Verb",
+  "silben": "si-chern",
+  "begriffserklaerung": "Etwas sichern bedeutet, dafür zu sorgen, dass es sicher bleibt oder nicht verloren geht – zum Beispiel eine Datei auf dem Computer speichern oder ein Seil befestigen.",
+  "beispielsatz": "Vergiss nicht, deine Hausaufgaben auf dem Computer zu sichern!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: si-chern. Das „ch\" klingt wie in „ich\" – denk daran, es mit „ch\" zu schreiben, nicht mit „sch\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sicher"
+  ],
+  "bild_datei": "sichern.webp",
+  "audio_datei": "sichern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to secure / to save"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sécuriser / sauvegarder"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güvence altına almak / kaydetmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تأمين / حفظ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sicher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sicherheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schützen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "speichern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "befestigen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sichern",
+    "praesens": {
+      "ich": "sichere",
+      "du": "sicherst",
+      "er_sie_es": "sichert",
+      "wir": "sichern",
+      "ihr": "sichert",
+      "sie": "sichern"
+    },
+    "perfekt": {
+      "ich": "habe gesichert",
+      "du": "hast gesichert",
+      "er_sie_es": "hat gesichert",
+      "wir": "haben gesichert",
+      "ihr": "habt gesichert",
+      "sie": "haben gesichert"
+    },
+    "praeteritum": {
+      "ich": "sicherte",
+      "du": "sichertest",
+      "er_sie_es": "sicherte",
+      "wir": "sicherten",
+      "ihr": "sichertet",
+      "sie": "sicherten"
+    }
+  },
+  "fehlschreibungen": [
+    "sischern",
+    "sichirn",
+    "sichren",
+    "zichern",
+    "sichern",
+    "sichärn"
+  ]
+}

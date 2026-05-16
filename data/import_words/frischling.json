@@ -1,0 +1,80 @@
+{
+  "lemma": "Frischling",
+  "wortart": "Nomen",
+  "silben": "Frisch-ling",
+  "begriffserklaerung": "Ein Frischling ist ein junges Wildschwein. So nennt man Wildschweinbabys, die noch ihr braunes Fell mit hellen Streifen haben.",
+  "beispielsatz": "Im Wald entdeckte Lena eine Wildschweinmutter mit drei niedlichen Frischlingen.",
+  "rechtschreibstrategie": "Höre das kurze „i\" in „Frisch\": Danach kommt „sch\". Denke an das Wort „frisch\" – der Frischling ist ein junges, frisches Tier!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "frisch"
+  ],
+  "bild_datei": "Frischling.webp",
+  "audio_datei": "Frischling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frischling",
+    "plural": "die Frischlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frischling",
+        "genitiv": "des Frischlings",
+        "dativ": "dem Frischling",
+        "akkusativ": "den Frischling"
+      },
+      "plural": {
+        "nominativ": "die Frischlinge",
+        "genitiv": "der Frischlinge",
+        "dativ": "den Frischlingen",
+        "akkusativ": "die Frischlinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "piglet (wild boar)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marcassin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban domuzu yavrusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزير بري صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildschwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ferkel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wildschweinbaby"
+    }
+  ],
+  "fehlschreibungen": [
+    "Frischling",
+    "Frischeling",
+    "Frishling",
+    "Frischlingg",
+    "Frischkling"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Drehpunkt",
+  "wortart": "Nomen",
+  "silben": "Dreh-punkt",
+  "begriffserklaerung": "Ein Drehpunkt ist die Stelle, um die sich etwas dreht. Zum Beispiel dreht sich eine Wippe um ihren Drehpunkt in der Mitte.",
+  "beispielsatz": "Die Wippe hat ihren Drehpunkt genau in der Mitte.",
+  "rechtschreibstrategie": "„Drehpunkt\" ist aus zwei Wörtern zusammengesetzt: „dreh-\" (von drehen) und „Punkt\". Sprich beide Teile deutlich: DREH + PUNKT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "dreh",
+    "punkt"
+  ],
+  "bild_datei": "Drehpunkt.webp",
+  "audio_datei": "Drehpunkt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Drehpunkt",
+    "plural": "die Drehpunkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Drehpunkt",
+        "genitiv": "des Drehpunktes",
+        "dativ": "dem Drehpunkt",
+        "akkusativ": "den Drehpunkt"
+      },
+      "plural": {
+        "nominativ": "die Drehpunkte",
+        "genitiv": "der Drehpunkte",
+        "dativ": "den Drehpunkten",
+        "akkusativ": "die Drehpunkte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pivot point"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point de rotation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dönüm noktası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقطة الدوران"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Punkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wippe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Achse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mittelpunkt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drehpungkt",
+    "Drähpunkt",
+    "Drehpunckt",
+    "Drepunkt",
+    "Dreehpunkt"
+  ]
+}

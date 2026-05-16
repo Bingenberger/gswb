@@ -1,0 +1,83 @@
+{
+  "lemma": "Architekt",
+  "wortart": "Nomen",
+  "silben": "Ar-chi-tekt",
+  "begriffserklaerung": "Ein Architekt ist jemand, der Gebäude wie Häuser, Schulen oder Brücken plant und zeichnet, bevor sie gebaut werden.",
+  "beispielsatz": "Der Architekt zeichnet den Plan für unser neues Schulgebäude.",
+  "rechtschreibstrategie": "Das Wort „Architekt\" klingt so, wie es geschrieben wird – sprich es laut in Silben: Ar-chi-tekt. Denk besonders ans „ch\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Architekt"
+  ],
+  "bild_datei": "Architekt.webp",
+  "audio_datei": "Architekt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "architect"
+    },
+    {
+      "language_code": "fr",
+      "translation": "architecte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mimar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهندس معماري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Architektin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Architektur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baumeister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauplaner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Architekt",
+    "plural": "die Architekten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Architekt",
+        "genitiv": "des Architekten",
+        "dativ": "dem Architekten",
+        "akkusativ": "den Architekten"
+      },
+      "plural": {
+        "nominativ": "die Architekten",
+        "genitiv": "der Architekten",
+        "dativ": "den Architekten",
+        "akkusativ": "die Architekten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Architeckt",
+    "Archittekt",
+    "Arcitekt",
+    "Architekd",
+    "Arkitekt",
+    "Architekt"
+  ]
+}

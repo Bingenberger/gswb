@@ -1,0 +1,81 @@
+{
+  "lemma": "Federkiel",
+  "wortart": "Nomen",
+  "silben": "Fe-der-kiel",
+  "begriffserklaerung": "Ein Federkiel ist der harte, hohle Teil einer Vogelfeder. Früher tauchte man ihn in Tinte und schrieb damit wie mit einem Stift.",
+  "beispielsatz": "Im Museum sah ich, wie Menschen früher mit einem Federkiel auf Pergament geschrieben haben.",
+  "rechtschreibstrategie": "Das Wort „Federkiel\" besteht aus zwei Teilen: „Feder\" und „Kiel\". Sprich beide Teile laut: Fe-der-kiel. Das ie in „Kiel\" sprichst du lang – merke es dir!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Feder",
+    "Kiel"
+  ],
+  "bild_datei": "Federkiel.webp",
+  "audio_datei": "Federkiel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Federkiel",
+    "plural": "die Federkiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Federkiel",
+        "genitiv": "des Federkiels",
+        "dativ": "dem Federkiel",
+        "akkusativ": "den Federkiel"
+      },
+      "plural": {
+        "nominativ": "die Federkiele",
+        "genitiv": "der Federkiele",
+        "dativ": "den Federkielen",
+        "akkusativ": "die Federkiele"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plume d'écriture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüy kalem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلم الريشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tinte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pergament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibgerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Feederkiel",
+    "Fäderkiel",
+    "Federkihl",
+    "Federkil",
+    "Federkill",
+    "Fedderkiel"
+  ]
+}

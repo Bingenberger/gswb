@@ -1,0 +1,81 @@
+{
+  "lemma": "Klopapier",
+  "wortart": "Nomen",
+  "silben": "Klo-pa-pier",
+  "begriffserklaerung": "Klopapier ist weiches Papier, das man auf der Toilette benutzt, um sich sauber zu machen.",
+  "beispielsatz": "Mama, wir haben kein Klopapier mehr – kannst du bitte neues kaufen?",
+  "rechtschreibstrategie": "Klopapier ist ein zusammengesetztes Wort aus „Klo\" und „Papier\". Schreibe beide Teile einfach zusammen. Denk daran: „Papier\" schreibt man mit „ie\" am Ende!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Papier",
+    "Klo"
+  ],
+  "bild_datei": "Klopapier.webp",
+  "audio_datei": "Klopapier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toilet paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papier toilette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuvalet kağıdı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورق المرحاض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Toilette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badezimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Toilettenpapier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Klopapier",
+    "plural": "die Klopapiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Klopapier",
+        "genitiv": "des Klopapiers",
+        "dativ": "dem Klopapier",
+        "akkusativ": "das Klopapier"
+      },
+      "plural": {
+        "nominativ": "die Klopapiere",
+        "genitiv": "der Klopapiere",
+        "dativ": "den Klopapieren",
+        "akkusativ": "die Klopapiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Clopapier",
+    "Klopappier",
+    "Klopapir",
+    "Kloppapier",
+    "Klopapiehr",
+    "Klopapieer"
+  ]
+}

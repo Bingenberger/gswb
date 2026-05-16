@@ -1,0 +1,84 @@
+{
+  "lemma": "Vorstellung",
+  "wortart": "Nomen",
+  "silben": "Vor-stel-lung",
+  "begriffserklaerung": "Eine Vorstellung ist, wenn man sich selbst oder etwas vorstellt und anderen erklärt. Es kann auch eine Aufführung im Theater oder Kino sein.",
+  "beispielsatz": "Bei der Vorstellung in der Klasse sagt jedes Kind seinen Namen.",
+  "rechtschreibstrategie": "Denk an das Verb „stellen\": Vor-stel-lung. Du kannst das Wort in drei Silben zerlegen: Vor – stel – lung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stell"
+  ],
+  "bild_datei": "Vorstellung.webp",
+  "audio_datei": "Vorstellung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "introduction / performance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "présentation / représentation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tanıtım / gösteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقديم / عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorstellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufführung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Begrüßung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Präsentation"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Vorstellung",
+    "plural": "die Vorstellungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Vorstellung",
+        "genitiv": "der Vorstellung",
+        "dativ": "der Vorstellung",
+        "akkusativ": "die Vorstellung"
+      },
+      "plural": {
+        "nominativ": "die Vorstellungen",
+        "genitiv": "der Vorstellungen",
+        "dativ": "den Vorstellungen",
+        "akkusativ": "die Vorstellungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vorstelung",
+    "Vorrstellung",
+    "Forstellung",
+    "Vorstelllung",
+    "Vohrstellung"
+  ]
+}

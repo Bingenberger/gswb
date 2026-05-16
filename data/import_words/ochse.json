@@ -1,0 +1,72 @@
+{
+  "lemma": "Ochse",
+  "wortart": "Nomen",
+  "silben": "Och-se",
+  "begriffserklaerung": "Ein Ochse ist ein männliches Rind, das auf dem Bauernhof lebt und früher schwere Lasten ziehen musste.",
+  "beispielsatz": "Der Ochse zieht den schweren Pflug über das Feld.",
+  "rechtschreibstrategie": "Das Wort „Ochse\" schreibt man mit „ch\" – sprich es laut: Och-se. Höre das „ch\" deutlich heraus!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ochse",
+    "plural": "die Ochsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ochse",
+        "genitiv": "des Ochsen",
+        "dativ": "dem Ochsen",
+        "akkusativ": "den Ochsen"
+      },
+      "plural": {
+        "nominativ": "die Ochsen",
+        "genitiv": "der Ochsen",
+        "dativ": "den Ochsen",
+        "akkusativ": "die Ochsen"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "fehlschreibungen": [
+    "Okse",
+    "Oxe",
+    "Ochße",
+    "Ochsen",
+    "Ochze"
+  ],
+  "bild_datei": "Ochse.webp",
+  "audio_datei": "Ochse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bœuf"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öküz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rind"
+    }
+  ]
+}

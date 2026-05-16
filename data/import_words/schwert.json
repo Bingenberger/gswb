@@ -1,0 +1,81 @@
+{
+  "lemma": "Schwert",
+  "wortart": "Nomen",
+  "silben": "Schwert",
+  "begriffserklaerung": "Ein Schwert ist eine lange, scharfe Waffe aus Metall mit einem Griff. Früher trugen Ritter ein Schwert zum Kämpfen.",
+  "beispielsatz": "Der Ritter zog sein glänzendes Schwert aus der Scheide.",
+  "rechtschreibstrategie": "Das Wort „Schwert\" endet auf -ert. Wenn du es verlängerst, hörst du das d: „Schwerter\" – also schreibt man am Ende ein t, nicht d.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schwert"
+  ],
+  "bild_datei": "Schwert.webp",
+  "audio_datei": "Schwert.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sword"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kılıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سَيْف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwertkämpfer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwertfisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rüstung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schwert",
+    "plural": "die Schwerter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schwert",
+        "genitiv": "des Schwertes",
+        "dativ": "dem Schwert",
+        "akkusativ": "das Schwert"
+      },
+      "plural": {
+        "nominativ": "die Schwerter",
+        "genitiv": "der Schwerter",
+        "dativ": "den Schwertern",
+        "akkusativ": "die Schwerter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwerd",
+    "Schvert",
+    "Swert",
+    "Schwerdt"
+  ]
+}

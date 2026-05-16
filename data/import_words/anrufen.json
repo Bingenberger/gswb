@@ -1,0 +1,94 @@
+{
+  "lemma": "anrufen",
+  "wortart": "Verb",
+  "silben": "an-ru-fen",
+  "begriffserklaerung": "Jemanden über ein Telefon oder Handy erreichen und mit ihm sprechen.",
+  "beispielsatz": "Ich rufe meine Oma an, um ihr einen guten Geburtstag zu wünschen.",
+  "rechtschreibstrategie": "„anrufen\" ist ein zusammengesetztes Wort aus „an\" und „rufen\". Sprich beide Teile laut mit: AN-RU-FEN. Das „f\" in „rufen\" hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "rufen"
+  ],
+  "bild_datei": "anrufen.webp",
+  "audio_datei": "anrufen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "anrufen",
+    "praesens": {
+      "ich": "rufe an",
+      "du": "rufst an",
+      "er_sie_es": "ruft an",
+      "wir": "rufen an",
+      "ihr": "ruft an",
+      "sie": "rufen an"
+    },
+    "perfekt": {
+      "ich": "habe angerufen",
+      "du": "hast angerufen",
+      "er_sie_es": "hat angerufen",
+      "wir": "haben angerufen",
+      "ihr": "habt angerufen",
+      "sie": "haben angerufen"
+    },
+    "praeteritum": {
+      "ich": "rief an",
+      "du": "riefst an",
+      "er_sie_es": "rief an",
+      "wir": "riefen an",
+      "ihr": "rieft an",
+      "sie": "riefen an"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to call"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appeler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aramak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "telefonieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handy"
+    }
+  ],
+  "fehlschreibungen": [
+    "anruhfen",
+    "anrufem",
+    "anruffen",
+    "anruften",
+    "anrüfen"
+  ]
+}

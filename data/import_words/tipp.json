@@ -1,0 +1,85 @@
+{
+  "lemma": "Tipp",
+  "wortart": "Nomen",
+  "silben": "Tipp",
+  "begriffserklaerung": "Ein Tipp ist ein nützlicher Hinweis oder Rat, der jemandem hilft, etwas besser zu machen oder zu verstehen.",
+  "beispielsatz": "Meine Lehrerin gab mir einen guten Tipp, wie ich die Aufgabe lösen kann.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibst du zwei „p\" – das doppelte „pp\" zeigt, dass der Vokal kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tipp"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tipp",
+    "plural": "die Tipps",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tipp",
+        "genitiv": "des Tipps",
+        "dativ": "dem Tipp",
+        "akkusativ": "den Tipp"
+      },
+      "plural": {
+        "nominativ": "die Tipps",
+        "genitiv": "der Tipps",
+        "dativ": "den Tipps",
+        "akkusativ": "die Tipps"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tip",
+    "Tipe",
+    "Tiep",
+    "Tihp"
+  ],
+  "bild_datei": "Tipp.webp",
+  "audio_datei": "Tipp.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conseil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ipucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نصيحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tippen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tippgeber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ratschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hilfe"
+    }
+  ]
+}

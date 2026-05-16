@@ -1,0 +1,94 @@
+{
+  "lemma": "welken",
+  "wortart": "Verb",
+  "silben": "wel-ken",
+  "begriffserklaerung": "Wenn eine Pflanze oder Blume welkt, wird sie schlaff und trocken, weil sie nicht genug Wasser bekommt.",
+  "beispielsatz": "Die Blumen im Glas fangen an zu welken, weil ich vergessen habe, sie zu gießen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: wel-ken. Du hörst ein kurzes „e\" – danach kommt ein „lk\". Kein Dehnungs-h, kein Doppelkonsonant – einfach so schreiben, wie man es spricht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "welk"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "welken",
+    "praesens": {
+      "ich": "welke",
+      "du": "welkst",
+      "er_sie_es": "welkt",
+      "wir": "welken",
+      "ihr": "welkt",
+      "sie": "welken"
+    },
+    "perfekt": {
+      "ich": "bin gewelkt",
+      "du": "bist gewelkt",
+      "er_sie_es": "ist gewelkt",
+      "wir": "sind gewelkt",
+      "ihr": "seid gewelkt",
+      "sie": "sind gewelkt"
+    },
+    "praeteritum": {
+      "ich": "welkte",
+      "du": "welktest",
+      "er_sie_es": "welkte",
+      "wir": "welkten",
+      "ihr": "welktet",
+      "sie": "welkten"
+    }
+  },
+  "fehlschreibungen": [
+    "välken",
+    "welcken",
+    "welkken",
+    "wälken",
+    "welgen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "welk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verwelken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verwelken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "blühen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "trocknen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gießen"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wilt / to wither"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se faner / se flétrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "solmak / kurumak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يذبل / يجف"
+    }
+  ],
+  "bild_datei": "welken.webp",
+  "audio_datei": "welken.mp3"
+}

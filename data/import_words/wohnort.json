@@ -1,0 +1,88 @@
+{
+  "lemma": "Wohnort",
+  "wortart": "Nomen",
+  "silben": "Wohn-ort",
+  "begriffserklaerung": "Der Wohnort ist der Ort, an dem jemand lebt und zu Hause ist.",
+  "beispielsatz": "Mein Wohnort ist eine kleine Stadt in der Nähe des Waldes.",
+  "rechtschreibstrategie": "„Wohnort\" ist ein zusammengesetztes Wort aus „wohnen\" und „Ort\". Sprich beide Teile deutlich: WOHN + ORT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wohn",
+    "ort"
+  ],
+  "bild_datei": "Wohnort.webp",
+  "audio_datei": "Wohnort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "place of residence"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lieu de résidence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ikamet yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكان الإقامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heimatort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adresse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dorf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wohnort",
+    "plural": "die Wohnorte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wohnort",
+        "genitiv": "des Wohnortes",
+        "dativ": "dem Wohnort",
+        "akkusativ": "den Wohnort"
+      },
+      "plural": {
+        "nominativ": "die Wohnorte",
+        "genitiv": "der Wohnorte",
+        "dativ": "den Wohnorten",
+        "akkusativ": "die Wohnorte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wohnort",
+    "Wonort",
+    "Wohnhort",
+    "Wohnord",
+    "Vohnort",
+    "Wohnohrt"
+  ]
+}

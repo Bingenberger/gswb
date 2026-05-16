@@ -1,0 +1,86 @@
+{
+  "lemma": "Blaubeere",
+  "wortart": "Nomen",
+  "silben": "Blau-bee-re",
+  "begriffserklaerung": "Die Blaubeere ist eine kleine, runde, blau-violette Frucht, die im Wald oder im Garten wächst. Sie schmeckt süß und ein bisschen säuerlich.",
+  "beispielsatz": "Im Sommer sammeln wir im Wald viele Blaubeeren und backen daraus einen leckeren Kuchen.",
+  "rechtschreibstrategie": "Das Wort „Blaubeere\" ist ein zusammengesetztes Wort aus „blau\" und „Beere\". Sprich beide Teile deutlich: BLAU + BEERE. Das doppelte „e\" in „Beere\" hörst du, wenn du das Wort langsam sagst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere",
+    "blau"
+  ],
+  "bild_datei": "Blaubeere.webp",
+  "audio_datei": "Blaubeere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blaubeere",
+    "plural": "die Blaubeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blaubeere",
+        "genitiv": "der Blaubeere",
+        "dativ": "der Blaubeere",
+        "akkusativ": "die Blaubeere"
+      },
+      "plural": {
+        "nominativ": "die Blaubeeren",
+        "genitiv": "der Blaubeeren",
+        "dativ": "den Blaubeeren",
+        "akkusativ": "die Blaubeeren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blueberry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "myrtille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban mersini"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توت أزرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heidelbeere"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blaubeehre",
+    "Blauebeere",
+    "BlauBere",
+    "Blaubeere",
+    "Blaubeerre",
+    "Blaubeäre",
+    "Blaobere"
+  ]
+}

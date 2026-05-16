@@ -1,0 +1,73 @@
+{
+  "lemma": "Natter",
+  "wortart": "Nomen",
+  "silben": "Nat-ter",
+  "begriffserklaerung": "Eine Natter ist eine Schlange, die in Deutschland lebt. Sie ist meist harmlos und hat kein Gift. Die Ringelnatter ist die bekannteste Natter bei uns.",
+  "beispielsatz": "Im Garten haben wir eine Natter entdeckt, die sich in der Sonne wärmt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Nat-ter. Nach dem kurzen „a\" kommt ein Doppel-t – das zeigt dir das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Natter",
+    "plural": "die Nattern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Natter",
+        "genitiv": "der Natter",
+        "dativ": "der Natter",
+        "akkusativ": "die Natter"
+      },
+      "plural": {
+        "nominativ": "die Nattern",
+        "genitiv": "der Nattern",
+        "dativ": "den Nattern",
+        "akkusativ": "die Nattern"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Natter"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ringelnatter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reptil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nater",
+    "Nattr",
+    "Nadder",
+    "Naater"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grass snake / adder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couleuvre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yılan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أفعى"
+    }
+  ],
+  "bild_datei": "Natter.webp",
+  "audio_datei": "Natter.mp3"
+}

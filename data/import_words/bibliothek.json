@@ -1,0 +1,78 @@
+{
+  "lemma": "Bibliothek",
+  "wortart": "Nomen",
+  "silben": "Bib-li-o-thek",
+  "begriffserklaerung": "Eine Bibliothek ist ein Ort, an dem viele Bücher stehen. Dort kann man Bücher ausleihen und lesen.",
+  "beispielsatz": "In der Bibliothek habe ich mir ein spannendes Buch ausgeliehen.",
+  "rechtschreibstrategie": "Das Wort „Bibliothek\" ist ein Merkwort – sprich es laut in Silben: Bib-li-o-thek. Das „th\" klingt wie ein einfaches „t\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Bibliothek"
+  ],
+  "bild_datei": "Bibliothek.webp",
+  "audio_datei": "Bibliothek.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bibliothek",
+    "plural": "die Bibliotheken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bibliothek",
+        "genitiv": "der Bibliothek",
+        "dativ": "der Bibliothek",
+        "akkusativ": "die Bibliothek"
+      },
+      "plural": {
+        "nominativ": "die Bibliotheken",
+        "genitiv": "der Bibliotheken",
+        "dativ": "den Bibliotheken",
+        "akkusativ": "die Bibliotheken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "library"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bibliothèque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kütüphane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكتبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bibliothekar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bücherei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bücherei"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bibliotheck",
+    "Biblothek",
+    "Biblitotek",
+    "Bibiliothek",
+    "Bibliothec"
+  ]
+}

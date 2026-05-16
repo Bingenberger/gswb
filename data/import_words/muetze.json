@@ -1,0 +1,83 @@
+{
+  "lemma": "Mütze",
+  "wortart": "Nomen",
+  "silben": "Müt-ze",
+  "begriffserklaerung": "Eine Mütze ist eine Kopfbedeckung aus Stoff oder Wolle, die man vor allem im Winter trägt, um den Kopf warm zu halten.",
+  "beispielsatz": "Im Winter zieht Lena ihre warme Mütze auf, damit ihr nicht kalt wird.",
+  "rechtschreibstrategie": "Das Wort „Mütze\" hat nach dem kurzen „ü\" ein „tz\" – das zeigt den kurzen Vokal an. Merke: Kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mütze"
+  ],
+  "bild_datei": "Mütze.webp",
+  "audio_datei": "Mütze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hat / beanie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bonnet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mützenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handschuhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haube"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mütze",
+    "plural": "die Mützen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mütze",
+        "genitiv": "der Mütze",
+        "dativ": "der Mütze",
+        "akkusativ": "die Mütze"
+      },
+      "plural": {
+        "nominativ": "die Mützen",
+        "genitiv": "der Mützen",
+        "dativ": "den Mützen",
+        "akkusativ": "die Mützen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mütse",
+    "Müze",
+    "Müdze",
+    "Mütze",
+    "Muetze",
+    "Mütße"
+  ]
+}

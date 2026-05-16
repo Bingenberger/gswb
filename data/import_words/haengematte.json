@@ -1,0 +1,86 @@
+{
+  "lemma": "Hängematte",
+  "wortart": "Nomen",
+  "silben": "Hän-ge-mat-te",
+  "begriffserklaerung": "Eine Hängematte ist ein Bett aus Stoff oder Netz, das zwischen zwei Bäume oder Pfosten gespannt wird. Man kann darin schaukeln und sich ausruhen.",
+  "beispielsatz": "Im Sommer lese ich am liebsten ein Buch in der Hängematte im Garten.",
+  "rechtschreibstrategie": "Das Wort „Hängematte\" besteht aus zwei Teilen: „hänge\" und „Matte\". Das „ä\" in „hänge\" erkennst du, weil es mit „hangen\" verwandt ist. Das „tt\" in „Matte\" schreibst du doppelt, weil das „a\" davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "hängen",
+    "Matte"
+  ],
+  "bild_datei": "Hängematte.webp",
+  "audio_datei": "Hängematte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hängematte",
+    "plural": "die Hängematten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hängematte",
+        "genitiv": "der Hängematte",
+        "dativ": "der Hängematte",
+        "akkusativ": "die Hängematte"
+      },
+      "plural": {
+        "nominativ": "die Hängematten",
+        "genitiv": "der Hängematten",
+        "dativ": "den Hängematten",
+        "akkusativ": "die Hängematten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hammock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hamac"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرجوحة شبكية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hängen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Matte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Liege"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hengematte",
+    "Hängemате",
+    "Hängemate",
+    "Hängemadte",
+    "Hängematt",
+    "Hängmatte"
+  ]
+}

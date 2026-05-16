@@ -1,0 +1,86 @@
+{
+  "lemma": "Schritt",
+  "wortart": "Nomen",
+  "silben": "Schritt",
+  "begriffserklaerung": "Ein Schritt ist die Bewegung, die du machst, wenn du einen Fuß vor den anderen setzt.",
+  "beispielsatz": "Ich gehe einen großen Schritt nach vorne.",
+  "rechtschreibstrategie": "Das „tt\" am Ende zeigt, dass das „i\" kurz gesprochen wird. Merke: kurzes „i\" → Doppel-t!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schreiten"
+  ],
+  "bild_datei": "Schritt.webp",
+  "audio_datei": "Schritt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "step"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "adım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fortschritt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schritttempo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lauf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Schritt",
+    "plural": "Schritte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schritt",
+        "genitiv": "des Schrittes",
+        "dativ": "dem Schritt",
+        "akkusativ": "den Schritt"
+      },
+      "plural": {
+        "nominativ": "die Schritte",
+        "genitiv": "der Schritte",
+        "dativ": "den Schritten",
+        "akkusativ": "die Schritte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schrit",
+    "Schrid",
+    "Schritt",
+    "Shritt",
+    "Schridt"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lemma": "lose",
+  "wortart": "Adjektiv",
+  "silben": "lo-se",
+  "begriffserklaerung": "Etwas ist lose, wenn es nicht fest sitzt oder nicht festgebunden ist – es wackelt oder kann leicht herausfallen.",
+  "beispielsatz": "Der Knopf an meiner Jacke ist lose und fällt bald ab.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: lo-se. Nach dem langen „o\" kommt nur ein „s\" – kein Doppel-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "los"
+  ],
+  "bild_datei": "lose.webp",
+  "audio_datei": "lose.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "loose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lâche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gevşek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رخو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lösen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "locker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "locker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wackelig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fest"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "lose",
+    "komparativ": "loser",
+    "superlativ": "am losesten"
+  },
+  "fehlschreibungen": [
+    "losse",
+    "loosse",
+    "loze",
+    "losße"
+  ]
+}

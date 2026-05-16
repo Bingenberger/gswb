@@ -1,0 +1,84 @@
+{
+  "lemma": "Pausenbrot",
+  "wortart": "Nomen",
+  "silben": "Pau-sen-brot",
+  "begriffserklaerung": "Ein Pausenbrot ist ein kleines Brot oder Brötchen mit Belag, das Kinder in der Schulpause essen.",
+  "beispielsatz": "Mama hat mir heute ein leckeres Pausenbrot mit Käse eingepackt.",
+  "rechtschreibstrategie": "„Pausenbrot\" ist ein zusammengesetztes Wort aus „Pause\" und „Brot\". Schreibe beide Teile einfach hintereinander: Pausen + brot.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pause",
+    "Brot"
+  ],
+  "bild_datei": "Pausenbrot.webp",
+  "audio_datei": "Pausenbrot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "packed lunch / snack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casse-croûte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teneffüs ekmeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وجبة الاستراحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brotdose"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulbrot"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pausenbrot",
+    "plural": "die Pausenbrote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pausenbrot",
+        "genitiv": "des Pausenbrotes",
+        "dativ": "dem Pausenbrot",
+        "akkusativ": "das Pausenbrot"
+      },
+      "plural": {
+        "nominativ": "die Pausenbrote",
+        "genitiv": "der Pausenbrote",
+        "dativ": "den Pausenbroten",
+        "akkusativ": "die Pausenbrote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pausenbrod",
+    "Pausenbroht",
+    "Pausenbrot",
+    "Pauzenbrot",
+    "Paussenbrot",
+    "Pausen-Brot"
+  ]
+}

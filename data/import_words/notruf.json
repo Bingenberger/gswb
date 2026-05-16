@@ -1,0 +1,83 @@
+{
+  "lemma": "Notruf",
+  "wortart": "Nomen",
+  "silben": "Not-ruf",
+  "begriffserklaerung": "Ein Notruf ist ein Anruf, den du machst, wenn du oder jemand anderes schnell Hilfe braucht – zum Beispiel bei einem Unfall oder einem Brand.",
+  "beispielsatz": "Als der Mann auf der Straße umfiel, wählte die Frau sofort den Notruf.",
+  "rechtschreibstrategie": "„Notruf\" ist aus zwei Wörtern zusammengesetzt: „Not\" und „Ruf\". Schreib einfach beide Wörter hintereinander – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "ruf"
+  ],
+  "bild_datei": "Notruf.webp",
+  "audio_datei": "Notruf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency call"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appel d'urgence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil çağrı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نداء الطوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Not"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Notruf",
+    "plural": "die Notrufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Notruf",
+        "genitiv": "des Notrufs",
+        "dativ": "dem Notruf",
+        "akkusativ": "den Notruf"
+      },
+      "plural": {
+        "nominativ": "die Notrufe",
+        "genitiv": "der Notrufe",
+        "dativ": "den Notrufen",
+        "akkusativ": "die Notrufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nodruf",
+    "Nohtruf",
+    "Notruuf",
+    "Notrruf",
+    "Notruhf"
+  ]
+}

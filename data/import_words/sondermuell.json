@@ -1,0 +1,84 @@
+{
+  "lemma": "Sondermüll",
+  "wortart": "Nomen",
+  "silben": "Son-der-müll",
+  "begriffserklaerung": "Sondermüll ist Abfall, der besonders gefährlich ist und nicht einfach in die normale Mülltonne geworfen werden darf. Dazu gehören zum Beispiel alte Farben, Batterien oder Chemikalien.",
+  "beispielsatz": "Die leeren Batterien müssen als Sondermüll an einer besonderen Sammelstelle abgegeben werden.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Sonder\" und „Müll\". Das „ü\" in „Müll\" und das Doppel-l helfen dir beim Schreiben: Mü-ll!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "sonder"
+  ],
+  "bild_datei": "Sondermüll.webp",
+  "audio_datei": "Sondermüll.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sondermüll",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sondermüll",
+        "genitiv": "des Sondermülls",
+        "dativ": "dem Sondermüll",
+        "akkusativ": "den Sondermüll"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hazardous waste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déchets dangereux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tehlikeli atık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نفايات خطرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müllentsorgung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umweltschutz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sondermül",
+    "Sondermmüll",
+    "Sondermühl",
+    "Sundermüll",
+    "Sondermüll"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Fachwerk",
+  "wortart": "Nomen",
+  "silben": "Fach-werk",
+  "begriffserklaerung": "Fachwerk ist eine Bauweise, bei der ein Gerüst aus Holzbalken gebaut wird. Die Lücken zwischen den Balken werden mit Lehm, Ziegeln oder Steinen gefüllt. Viele alte Häuser in Deutschland sind so gebaut.",
+  "beispielsatz": "Das alte Haus mit dem bunten Fachwerk in der Altstadt sieht sehr schön aus.",
+  "rechtschreibstrategie": "Das Wort „Fachwerk\" besteht aus zwei Teilen: „Fach\" und „Werk\". Sprich beide Teile einzeln: FACH – WERK. So vergisst du keine Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fach",
+    "Werk"
+  ],
+  "bild_datei": "Fachwerk.webp",
+  "audio_datei": "Fachwerk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "half-timbering"
+    },
+    {
+      "language_code": "fr",
+      "translation": "colombage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahşap çerçeve yapı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بناء الأخشاب المعرشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fachwerkhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holzbalken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauweise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fachwerk",
+    "plural": "die Fachwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fachwerk",
+        "genitiv": "des Fachwerks",
+        "dativ": "dem Fachwerk",
+        "akkusativ": "das Fachwerk"
+      },
+      "plural": {
+        "nominativ": "die Fachwerke",
+        "genitiv": "der Fachwerke",
+        "dativ": "den Fachwerken",
+        "akkusativ": "die Fachwerke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fachwerg",
+    "Fachwerck",
+    "Fachwärk",
+    "Fachwerckt",
+    "Fachwerc"
+  ]
+}

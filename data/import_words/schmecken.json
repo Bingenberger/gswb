@@ -1,0 +1,95 @@
+{
+  "lemma": "schmecken",
+  "wortart": "Verb",
+  "silben": "schme-cken",
+  "begriffserklaerung": "Wenn etwas schmeckt, spürt man mit der Zunge, ob es süß, sauer, salzig oder bitter ist. Man sagt auch „es schmeckt gut\", wenn einem etwas gefällt.",
+  "beispielsatz": "Die heiße Schokolade schmeckt heute besonders lecker!",
+  "rechtschreibstrategie": "Hör genau hin: Das „e\" in „schme-\" ist kurz. Deshalb steht danach ein Doppel-k, das wir als „ck\" schreiben: schme-cken.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schmeck"
+  ],
+  "bild_datei": "schmecken.webp",
+  "audio_datei": "schmecken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to taste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "goûter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tatmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتذوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschmack"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lecker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kosten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "riechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zunge"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schmecken",
+    "praesens": {
+      "ich": "schmecke",
+      "du": "schmeckst",
+      "er_sie_es": "schmeckt",
+      "wir": "schmecken",
+      "ihr": "schmeckt",
+      "sie": "schmecken"
+    },
+    "perfekt": {
+      "ich": "habe geschmeckt",
+      "du": "hast geschmeckt",
+      "er_sie_es": "hat geschmeckt",
+      "wir": "haben geschmeckt",
+      "ihr": "habt geschmeckt",
+      "sie": "haben geschmeckt"
+    },
+    "praeteritum": {
+      "ich": "schmeckte",
+      "du": "schmecktest",
+      "er_sie_es": "schmeckte",
+      "wir": "schmeckten",
+      "ihr": "schmecktet",
+      "sie": "schmeckten"
+    }
+  },
+  "fehlschreibungen": [
+    "schmeken",
+    "shmecken",
+    "schmäcken",
+    "schmecen",
+    "schmekken",
+    "schmekcen"
+  ]
+}

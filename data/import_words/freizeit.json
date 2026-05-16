@@ -1,0 +1,87 @@
+{
+  "lemma": "Freizeit",
+  "wortart": "Nomen",
+  "silben": "Frei-zeit",
+  "begriffserklaerung": "Die Freizeit ist die Zeit, in der du nichts tun musst. Du kannst spielen, Sport machen oder dich ausruhen – ganz so, wie du möchtest.",
+  "beispielsatz": "In meiner Freizeit spiele ich am liebsten draußen mit meinen Freunden.",
+  "rechtschreibstrategie": "Das Wort „Freizeit\" besteht aus zwei Teilen: „frei\" und „Zeit\". Sprich beide Teile einzeln: FREI – ZEIT. Wenn du beide Teile kennst, schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "frei",
+    "Zeit"
+  ],
+  "bild_datei": "Freizeit.webp",
+  "audio_datei": "Freizeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Freizeit",
+    "plural": "die Freizeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Freizeit",
+        "genitiv": "der Freizeit",
+        "dativ": "der Freizeit",
+        "akkusativ": "die Freizeit"
+      },
+      "plural": {
+        "nominativ": "die Freizeiten",
+        "genitiv": "der Freizeiten",
+        "dativ": "den Freizeiten",
+        "akkusativ": "die Freizeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "free time / leisure time"
+    },
+    {
+      "language_code": "fr",
+      "translation": "temps libre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boş zaman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقت الفراغ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Muße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hobby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Freizeit",
+    "Freyzeit",
+    "Freiseit",
+    "Freizceit",
+    "Freichzeit"
+  ]
+}

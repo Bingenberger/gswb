@@ -1,0 +1,85 @@
+{
+  "lemma": "Geburtstag",
+  "wortart": "Nomen",
+  "silben": "Ge-burts-tag",
+  "begriffserklaerung": "Der Geburtstag ist der Tag, an dem du geboren wurdest. Jedes Jahr wird er gefeiert – oft mit Kuchen, Geschenken und Familie.",
+  "beispielsatz": "An meinem Geburtstag bekomme ich einen großen Schokoladenkuchen!",
+  "rechtschreibstrategie": "„Geburtstag\" ist ein zusammengesetztes Wort aus „Geburt\" und „Tag\". Sprich beide Bausteine laut: Ge-burts-tag. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Geburt",
+    "Tag"
+  ],
+  "bild_datei": "Geburtstag.webp",
+  "audio_datei": "Geburtstag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "birthday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "anniversaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğum günü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عيد ميلاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geburtstag",
+    "plural": "die Geburtstage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geburtstag",
+        "genitiv": "des Geburtstages",
+        "dativ": "dem Geburtstag",
+        "akkusativ": "den Geburtstag"
+      },
+      "plural": {
+        "nominativ": "die Geburtstage",
+        "genitiv": "der Geburtstage",
+        "dativ": "den Geburtstagen",
+        "akkusativ": "die Geburtstage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geburtstahg",
+    "Geburtstag",
+    "Geburthstag",
+    "Gebursdtag",
+    "Geburstag",
+    "Geburtstach"
+  ]
+}

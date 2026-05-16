@@ -1,0 +1,85 @@
+{
+  "lemma": "Notenschlüssel",
+  "wortart": "Nomen",
+  "silben": "No-ten-schlüs-sel",
+  "begriffserklaerung": "Ein Notenschlüssel ist ein Zeichen am Anfang einer Notenzeile. Er zeigt an, welche Töne die Noten haben.",
+  "beispielsatz": "Der Violinschlüssel ist der bekannteste Notenschlüssel.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Noten\" und „Schlüssel\". Das „ü\" hörst du deutlich. Das „ss\" kommt nach dem kurzen „ü\"-Laut in „Schlüssel\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Note",
+    "Schlüssel"
+  ],
+  "bild_datei": "Notenschlüssel.webp",
+  "audio_datei": "Notenschlüssel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clef"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clé de musique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nota anahtarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح النوتة الموسيقية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Note"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notenzeile"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Takt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Partitur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Notenschlüssel",
+    "plural": "die Notenschlüssel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Notenschlüssel",
+        "genitiv": "des Notenschlüssels",
+        "dativ": "dem Notenschlüssel",
+        "akkusativ": "den Notenschlüssel"
+      },
+      "plural": {
+        "nominativ": "die Notenschlüssel",
+        "genitiv": "der Notenschlüssel",
+        "dativ": "den Notenschlüsseln",
+        "akkusativ": "die Notenschlüssel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Notenschlüßel",
+    "Notenschlüsssel",
+    "Nothenschlüssel",
+    "Nottenschlüssel",
+    "Notenschlüsel",
+    "Notenschlüessel"
+  ]
+}

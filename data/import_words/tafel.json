@@ -1,0 +1,86 @@
+{
+  "lemma": "Tafel",
+  "wortart": "Nomen",
+  "silben": "Ta-fel",
+  "begriffserklaerung": "Eine Tafel ist eine große, dunkle Fläche an der Wand im Klassenzimmer. Darauf kann man mit Kreide schreiben. Es gibt auch Tafeln aus Holz oder Schokolade.",
+  "beispielsatz": "Die Lehrerin schreibt das neue Wort an die Tafel.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ta – fel. Du hörst zwei Silben. Das „f\" in der Mitte schreibst du einfach – kein Doppel-f!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tafel"
+  ],
+  "bild_datei": "Tafel.webp",
+  "audio_datei": "Tafel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tafel",
+    "plural": "die Tafeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tafel",
+        "genitiv": "der Tafel",
+        "dativ": "der Tafel",
+        "akkusativ": "die Tafel"
+      },
+      "plural": {
+        "nominativ": "die Tafeln",
+        "genitiv": "der Tafeln",
+        "dativ": "den Tafeln",
+        "akkusativ": "die Tafeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blackboard / board"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tafelbild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tafelkreide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreide"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Whiteboard"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibtafel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tahfel",
+    "Taffel",
+    "Dafel",
+    "Tafal",
+    "Taphel"
+  ]
+}

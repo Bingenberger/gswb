@@ -1,0 +1,84 @@
+{
+  "lemma": "Katzenkorb",
+  "wortart": "Nomen",
+  "silben": "Kat-zen-korb",
+  "begriffserklaerung": "Ein Katzenkorb ist eine Art Behälter oder Körbchen, in dem eine Katze schlafen oder transportiert werden kann.",
+  "beispielsatz": "Die Katze schläft am liebsten in ihrem gemütlichen Katzenkorb.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Katze\" und „Korb\". Denk an das tz in „Katze\" – nach einem kurzen Vokal schreibt man tz!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Katze",
+    "Korb"
+  ],
+  "bild_datei": "Katzenkorb.webp",
+  "audio_datei": "Katzenkorb.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Katzenkorb",
+    "plural": "die Katzenkoerbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Katzenkorb",
+        "genitiv": "des Katzenkorbs",
+        "dativ": "dem Katzenkorb",
+        "akkusativ": "den Katzenkorb"
+      },
+      "plural": {
+        "nominativ": "die Katzenkörbe",
+        "genitiv": "der Katzenkörbe",
+        "dativ": "den Katzenkörben",
+        "akkusativ": "die Katzenkörbe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cat basket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panier pour chat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kedi sepeti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة القطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Korb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Katzenbett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tierkorb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Katzenbett"
+    }
+  ],
+  "fehlschreibungen": [
+    "Katzenkorpf",
+    "Katzenkorp",
+    "Katsenkorb",
+    "Cazzenkorb"
+  ]
+}

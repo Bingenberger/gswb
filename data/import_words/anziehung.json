@@ -1,0 +1,93 @@
+{
+  "lemma": "Anziehung",
+  "wortart": "Nomen",
+  "silben": "An-zie-hung",
+  "begriffserklaerung": "Anziehung ist die Kraft, die zwei Dinge oder Personen zueinander zieht. Zum Beispiel zieht die Erde alles nach unten – das nennt man Schwerkraft oder Anziehung.",
+  "beispielsatz": "Die Anziehung der Erde sorgt dafür, dass der Ball immer wieder auf den Boden fällt.",
+  "rechtschreibstrategie": "Denk an das Verb „ziehen\" – Anziehung kommt von „ziehen\". Das ie in „ziehen\" bleibt auch in „Anziehung\" erhalten. Sprich die Silben laut mit: An-zie-hung.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zieh"
+  ],
+  "bild_datei": "Anziehung.webp",
+  "audio_datei": "Anziehung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anziehung",
+    "plural": "die Anziehungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anziehung",
+        "genitiv": "der Anziehung",
+        "dativ": "der Anziehung",
+        "akkusativ": "die Anziehung"
+      },
+      "plural": {
+        "nominativ": "die Anziehungen",
+        "genitiv": "der Anziehungen",
+        "dativ": "den Anziehungen",
+        "akkusativ": "die Anziehungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "attraction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "attraction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جاذبية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anzug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anziehungskraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwerkraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Magnet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anziechung",
+    "Anzihung",
+    "Anziehhing",
+    "Antzihung",
+    "Anziehunk",
+    "Anziehunng"
+  ]
+}

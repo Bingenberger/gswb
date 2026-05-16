@@ -1,0 +1,78 @@
+{
+  "lemma": "Surfer",
+  "wortart": "Nomen",
+  "silben": "Sur-fer",
+  "begriffserklaerung": "Ein Surfer ist eine Person, die auf einem Brett über Wellen im Wasser gleitet.",
+  "beispielsatz": "Der Surfer reitet geschickt auf einer großen Welle.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Sur – fer. Beide Silben kannst du gut mithören und aufschreiben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "surf"
+  ],
+  "bild_datei": "Surfer.webp",
+  "audio_datei": "Surfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "surfer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "surfeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sörfçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راكب الأمواج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "surfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Surfbrett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Surfer",
+    "plural": "die Surfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Surfer",
+        "genitiv": "des Surfers",
+        "dativ": "dem Surfer",
+        "akkusativ": "den Surfer"
+      },
+      "plural": {
+        "nominativ": "die Surfer",
+        "genitiv": "der Surfer",
+        "dativ": "den Surfern",
+        "akkusativ": "die Surfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sürfer",
+    "Zurfer",
+    "Surffer",
+    "Sörfer",
+    "Surver"
+  ]
+}

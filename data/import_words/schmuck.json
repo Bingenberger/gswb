@@ -1,0 +1,91 @@
+{
+  "lemma": "Schmuck",
+  "wortart": "Nomen",
+  "silben": "Schmuck",
+  "begriffserklaerung": "Schmuck sind Dinge, die man trägt, um sich schön zu machen – zum Beispiel Ringe, Ketten oder Armbänder.",
+  "beispielsatz": "Mama trägt heute ihren goldenen Schmuck zur Feier.",
+  "rechtschreibstrategie": "Das Wort „Schmuck\" endet auf -ck, weil davor ein kurzer Vokal „u\" steht. Nach kurzem Vokal schreibt man ck statt k!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schmück",
+    "schmuck"
+  ],
+  "bild_datei": "Schmuck.webp",
+  "audio_datei": "Schmuck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jewelry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bijoux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mücevher"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجوهرات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmücken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmuckstück"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschmückt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ring"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zierde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schmuck",
+    "plural": "die Schmuckstücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schmuck",
+        "genitiv": "des Schmucks",
+        "dativ": "dem Schmuck",
+        "akkusativ": "den Schmuck"
+      },
+      "plural": {
+        "nominativ": "die Schmuckstücke",
+        "genitiv": "der Schmuckstücke",
+        "dativ": "den Schmuckstücken",
+        "akkusativ": "die Schmuckstücke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schmuk",
+    "Scmuck",
+    "Schmukk",
+    "Shmuck",
+    "Schmug"
+  ]
+}

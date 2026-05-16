@@ -1,0 +1,89 @@
+{
+  "lemma": "Buddelkasten",
+  "wortart": "Nomen",
+  "silben": "Bud-del-kas-ten",
+  "begriffserklaerung": "Ein Buddelkasten ist ein großer Kasten voller Sand, in dem Kinder draußen spielen und graben können.",
+  "beispielsatz": "Im Garten steht ein Buddelkasten, in dem wir Burgen aus Sand bauen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Buddel\" und „Kasten\". In „Buddel\" hörst du ein kurzes „u\" – deshalb wird das „d\" verdoppelt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "buddeln",
+    "Kasten"
+  ],
+  "bild_datei": "Buddelkasten.webp",
+  "audio_datei": "Buddelkasten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sandpit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bac à sable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kum havuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق الرمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "buddeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buddelei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sandkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Buddelkasten",
+    "plural": "die Buddelkästen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Buddelkasten",
+        "genitiv": "des Buddelkastens",
+        "dativ": "dem Buddelkasten",
+        "akkusativ": "den Buddelkasten"
+      },
+      "plural": {
+        "nominativ": "die Buddelkästen",
+        "genitiv": "der Buddelkästen",
+        "dativ": "den Buddelkästen",
+        "akkusativ": "die Buddelkästen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Budelkasten",
+    "Buttelkasten",
+    "Buddelkasten",
+    "Büddelkasten",
+    "Buddlkasten",
+    "Buddelkassten"
+  ]
+}

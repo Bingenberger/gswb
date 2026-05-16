@@ -1,0 +1,80 @@
+{
+  "lemma": "Gummistiefel",
+  "wortart": "Nomen",
+  "silben": "Gum-mi-stie-fel",
+  "begriffserklaerung": "Ein Gummistiefel ist ein wasserdichter Stiefel aus Gummi. Man trägt ihn bei Regen oder Matsch, damit die Füße trocken bleiben.",
+  "beispielsatz": "Bei dem starken Regen zieht Lena ihre bunten Gummistiefel an und springt fröhlich durch die Pfützen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Gummi\" und „Stiefel\". Schreibe beide Teile einfach zusammen. Im zweiten Teil steckt ein langes „ie\" – das schreibt man mit „i\" und „e\" zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Gummi",
+    "Stiefel"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gummistiefel",
+    "plural": "die Gummistiefel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gummistiefel",
+        "genitiv": "des Gummistiefels",
+        "dativ": "dem Gummistiefel",
+        "akkusativ": "den Gummistiefel"
+      },
+      "plural": {
+        "nominativ": "die Gummistiefel",
+        "genitiv": "der Gummistiefel",
+        "dativ": "den Gummistiefeln",
+        "akkusativ": "die Gummistiefel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gumistiefel",
+    "Gummistifel",
+    "Gummistiffel",
+    "Gummistiebel",
+    "Gummystiefel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rubber boot / wellington boot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "botte en caoutchouc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lastik çizme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء مطاطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stiefel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenjacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfütze"
+    }
+  ],
+  "bild_datei": "Gummistiefel.webp",
+  "audio_datei": "Gummistiefel.mp3"
+}

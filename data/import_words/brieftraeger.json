@@ -1,0 +1,89 @@
+{
+  "lemma": "Briefträger",
+  "wortart": "Nomen",
+  "silben": "Brief-trä-ger",
+  "begriffserklaerung": "Ein Briefträger ist jemand, der Briefe und Pakete zu den Menschen nach Hause bringt.",
+  "beispielsatz": "Der Briefträger bringt jeden Morgen die Post in unseren Briefkasten.",
+  "rechtschreibstrategie": "„Briefträger\" ist ein zusammengesetztes Wort aus „Brief\" und „Träger\". Sprich beide Teile deutlich: BRIEF + TRÄGER. Denk an das ä in „tragen\" – deshalb schreibt man „Träger\" mit ä!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Brief",
+    "tragen"
+  ],
+  "bild_datei": "Briefträger.webp",
+  "audio_datei": "Briefträger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Briefträger",
+    "plural": "die Briefträger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Briefträger",
+        "genitiv": "des Briefträgers",
+        "dativ": "dem Briefträger",
+        "akkusativ": "den Briefträger"
+      },
+      "plural": {
+        "nominativ": "die Briefträger",
+        "genitiv": "der Briefträger",
+        "dativ": "den Briefträgern",
+        "akkusativ": "die Briefträger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "postman / mail carrier"
+    },
+    {
+      "language_code": "fr",
+      "translation": "facteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "postacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعي البريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Postbote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    }
+  ],
+  "fehlschreibungen": [
+    "Briefträcker",
+    "Brieftreger",
+    "Brieftreager",
+    "Briffträger",
+    "Brieftrager",
+    "Briefdräger"
+  ]
+}

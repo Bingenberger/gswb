@@ -1,0 +1,82 @@
+{
+  "lemma": "Wolke",
+  "wortart": "Nomen",
+  "silben": "Wol-ke",
+  "begriffserklaerung": "Eine Wolke ist eine weiße oder graue Ansammlung aus winzigen Wassertröpfchen, die am Himmel schwebt.",
+  "beispielsatz": "Am Himmel zieht eine große, weiße Wolke vorbei.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Wol-ke. Nach dem kurzen „o\" kommt ein „l\" – denk daran, dass „Wolke\" mit „W\" beginnt und kein Dehnungs-h hat.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wolke"
+  ],
+  "bild_datei": "Wolke.webp",
+  "audio_datei": "Wolke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cloud"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulut"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سحابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wolkig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolkendecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wolke",
+    "plural": "die Wolken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wolke",
+        "genitiv": "der Wolke",
+        "dativ": "der Wolke",
+        "akkusativ": "die Wolke"
+      },
+      "plural": {
+        "nominativ": "die Wolken",
+        "genitiv": "der Wolken",
+        "dativ": "den Wolken",
+        "akkusativ": "die Wolken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Volke",
+    "Wollke",
+    "Wolcke",
+    "Wollken",
+    "Volken"
+  ]
+}

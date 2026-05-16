@@ -1,0 +1,83 @@
+{
+  "lemma": "Inhalt",
+  "wortart": "Nomen",
+  "silben": "In-halt",
+  "begriffserklaerung": "Der Inhalt ist das, was in etwas drin ist oder wovon etwas handelt – zum Beispiel was in einer Flasche ist oder worum es in einem Buch geht.",
+  "beispielsatz": "Der Inhalt des Buches hat mir sehr gut gefallen.",
+  "rechtschreibstrategie": "Denk an das Wort „halten\" – „Inhalt\" steckt darin! Sprich es deutlich: In-halt. Das „h\" in der Mitte gehört zum Wortstamm „halt\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "halt"
+  ],
+  "bild_datei": "Inhalt.webp",
+  "audio_datei": "Inhalt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Inhalt",
+    "plural": "die Inhalte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Inhalt",
+        "genitiv": "des Inhalts",
+        "dativ": "dem Inhalt",
+        "akkusativ": "den Inhalt"
+      },
+      "plural": {
+        "nominativ": "die Inhalte",
+        "genitiv": "der Inhalte",
+        "dativ": "den Inhalten",
+        "akkusativ": "die Inhalte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "content"
+    },
+    {
+      "language_code": "fr",
+      "translation": "contenu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "içerik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محتوى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "inhalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Thema"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bedeutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Inhald",
+    "Inhaldt",
+    "Inalt",
+    "Innehalt",
+    "Imhalt"
+  ]
+}

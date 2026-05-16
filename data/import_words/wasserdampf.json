@@ -1,0 +1,83 @@
+{
+  "lemma": "Wasserdampf",
+  "wortart": "Nomen",
+  "silben": "Was-ser-dampf",
+  "begriffserklaerung": "Wasserdampf ist Wasser in unsichtbarer, gasförmiger Form. Er entsteht, wenn Wasser stark erhitzt wird und verdampft.",
+  "beispielsatz": "Wenn das Wasser im Topf kocht, steigt weißer Wasserdampf nach oben.",
+  "rechtschreibstrategie": "Wasserdampf ist ein zusammengesetztes Wort aus „Wasser\" und „Dampf\". Schreibe beide Teile einfach hintereinander: Wasser + Dampf = Wasserdampf.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Dampf"
+  ],
+  "bild_datei": "Wasserdampf.webp",
+  "audio_datei": "Wasserdampf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wasserdampf",
+    "plural": "die Wasserdämpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wasserdampf",
+        "genitiv": "des Wasserdampfes",
+        "dativ": "dem Wasserdampf",
+        "akkusativ": "den Wasserdampf"
+      },
+      "plural": {
+        "nominativ": "die Wasserdämpfe",
+        "genitiv": "der Wasserdämpfe",
+        "dativ": "den Wasserdämpfen",
+        "akkusativ": "die Wasserdämpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water vapour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vapeur d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su buharı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بخار الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verdunstung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wasserdampff",
+    "Waserdampf",
+    "Wasserdamf",
+    "Wässerdampf",
+    "Wasserdampft"
+  ]
+}

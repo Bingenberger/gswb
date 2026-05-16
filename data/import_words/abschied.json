@@ -1,0 +1,84 @@
+{
+  "lemma": "Abschied",
+  "wortart": "Nomen",
+  "silben": "Ab-schied",
+  "begriffserklaerung": "Ein Abschied ist der Moment, wenn man sich von jemandem oder etwas trennt und „Tschüss\" oder „Auf Wiedersehen\" sagt.",
+  "beispielsatz": "Der Abschied von der besten Freundin fiel Lena sehr schwer.",
+  "rechtschreibstrategie": "Denk an das Wort „scheiden\" – davon kommt „Abschied\". Das ie in „schied\" schreibst du genauso wie in „scheiden\" → Ableitungswort!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "scheid"
+  ],
+  "bild_datei": "Abschied.webp",
+  "audio_datei": "Abschied.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farewell"
+    },
+    {
+      "language_code": "fr",
+      "translation": "adieu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "veda"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وداع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verabschieden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebewohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiedersehen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abschied",
+    "plural": "die Abschiede",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abschied",
+        "genitiv": "des Abschieds",
+        "dativ": "dem Abschied",
+        "akkusativ": "den Abschied"
+      },
+      "plural": {
+        "nominativ": "die Abschiede",
+        "genitiv": "der Abschiede",
+        "dativ": "den Abschieden",
+        "akkusativ": "die Abschiede"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abschiet",
+    "Abshied",
+    "Abschieed",
+    "Abschid",
+    "Abscheid"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Beutetier",
+  "wortart": "Nomen",
+  "silben": "Beu-te-tier",
+  "begriffserklaerung": "Ein Beutetier ist ein Tier, das von einem anderen Tier gejagt und gefressen wird.",
+  "beispielsatz": "Das Kaninchen ist ein Beutetier des Fuchses.",
+  "rechtschreibstrategie": "„Beutetier\" besteht aus zwei Bausteinen: „Beute\" + „Tier\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Beute",
+    "Tier"
+  ],
+  "bild_datei": "Beutetier.webp",
+  "audio_datei": "Beutetier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prey"
+    },
+    {
+      "language_code": "fr",
+      "translation": "proie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "av hayvanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فريسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beute"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raubtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nahrungskette"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Opfertier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Beutetier",
+    "plural": "die Beutetiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Beutetier",
+        "genitiv": "des Beutetieres",
+        "dativ": "dem Beutetier",
+        "akkusativ": "das Beutetier"
+      },
+      "plural": {
+        "nominativ": "die Beutetiere",
+        "genitiv": "der Beutetiere",
+        "dativ": "den Beutetieren",
+        "akkusativ": "die Beutetiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beutetier",
+    "Beutettier",
+    "Beutetir",
+    "Boitetier",
+    "Beutetiere"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "lemma": "fliegen",
+  "wortart": "Verb",
+  "silben": "flie-gen",
+  "begriffserklaerung": "Sich durch die Luft bewegen – wie ein Vogel, ein Flugzeug oder ein Schmetterling.",
+  "beispielsatz": "Die Vögel fliegen hoch über die Wolken.",
+  "rechtschreibstrategie": "In „fliegen\" steckt ein langes „i\", das man als „ie\" schreibt. Denk daran: „ie\" klingt wie ein langes „i\" – fliiegen → fliegen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "flieg",
+    "flug"
+  ],
+  "bild_datei": "fliegen.webp",
+  "audio_datei": "fliegen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "fliegen",
+    "praesens": {
+      "ich": "fliege",
+      "du": "fliegst",
+      "er_sie_es": "fliegt",
+      "wir": "fliegen",
+      "ihr": "fliegt",
+      "sie": "fliegen"
+    },
+    "perfekt": {
+      "ich": "bin geflogen",
+      "du": "bist geflogen",
+      "er_sie_es": "ist geflogen",
+      "wir": "sind geflogen",
+      "ihr": "seid geflogen",
+      "sie": "sind geflogen"
+    },
+    "praeteritum": {
+      "ich": "flog",
+      "du": "flogst",
+      "er_sie_es": "flog",
+      "wir": "flogen",
+      "ihr": "flogt",
+      "sie": "flogen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fly"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَطِيرُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flieger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schweben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "fehlschreibungen": [
+    "fligen",
+    "fliegen",
+    "flieggen",
+    "flygen",
+    "fleigen",
+    "fliigen"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "lemma": "verpassen",
+  "wortart": "Verb",
+  "silben": "ver-pas-sen",
+  "begriffserklaerung": "Etwas verpassen bedeutet, dass man zu spät kommt und etwas nicht mehr mitbekommt oder nicht dabei sein kann.",
+  "beispielsatz": "Ich habe den Bus verpasst, weil ich verschlafen habe.",
+  "rechtschreibstrategie": "Das Wort „verpassen\" hat ein Doppel-s, weil der Vokal „a\" kurz gesprochen wird. Denk daran: kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "pass"
+  ],
+  "bild_datei": "verpassen.webp",
+  "audio_datei": "verpassen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to miss"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rater / manquer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaçırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يفوته (شيء)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "passen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Passe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "versäumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Termin"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verpassen",
+    "praesens": {
+      "ich": "verpasse",
+      "du": "verpasst",
+      "er_sie_es": "verpasst",
+      "wir": "verpassen",
+      "ihr": "verpasst",
+      "sie": "verpassen"
+    },
+    "perfekt": {
+      "ich": "habe verpasst",
+      "du": "hast verpasst",
+      "er_sie_es": "hat verpasst",
+      "wir": "haben verpasst",
+      "ihr": "habt verpasst",
+      "sie": "haben verpasst"
+    },
+    "praeteritum": {
+      "ich": "verpasste",
+      "du": "verpasstest",
+      "er_sie_es": "verpasste",
+      "wir": "verpassten",
+      "ihr": "verpasstet",
+      "sie": "verpassten"
+    }
+  },
+  "fehlschreibungen": [
+    "verpasен",
+    "ferpassen",
+    "verpasden",
+    "verpassen",
+    "verpasssen",
+    "verpasn",
+    "ferpasst",
+    "verpast"
+  ]
+}

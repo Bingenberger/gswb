@@ -1,0 +1,92 @@
+{
+  "lemma": "Begriff",
+  "wortart": "Nomen",
+  "silben": "Be-griff",
+  "begriffserklaerung": "Ein Begriff ist ein Wort oder ein Ausdruck, der etwas benennt oder erklärt.",
+  "beispielsatz": "„Tisch\" ist ein Begriff für ein Möbelstück mit Beinen und einer Platte.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „f\": Be-griff – du hörst das kurze „i\", also schreibst du „ff\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "greifen",
+    "griff"
+  ],
+  "bild_datei": "Begriff.webp",
+  "audio_datei": "Begriff.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Begriff",
+    "plural": "die Begriffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Begriff",
+        "genitiv": "des Begriffes",
+        "dativ": "dem Begriff",
+        "akkusativ": "den Begriff"
+      },
+      "plural": {
+        "nominativ": "die Begriffe",
+        "genitiv": "der Begriffe",
+        "dativ": "den Begriffen",
+        "akkusativ": "die Begriffe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "concept / term"
+    },
+    {
+      "language_code": "fr",
+      "translation": "notion / terme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kavram / terim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفهوم / مصطلح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "begreifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bedeutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erklärung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Begrif",
+    "Begriffe",
+    "Begrifft",
+    "Begrift",
+    "Begriff",
+    "Begrjff"
+  ]
+}

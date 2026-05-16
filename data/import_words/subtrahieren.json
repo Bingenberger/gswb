@@ -1,0 +1,97 @@
+{
+  "lemma": "subtrahieren",
+  "wortart": "Verb",
+  "silben": "sub-tra-hie-ren",
+  "begriffserklaerung": "Subtrahieren bedeutet, eine Zahl von einer anderen Zahl wegzunehmen. Das Ergebnis wird kleiner. In der Schule sagt man dazu auch „minus rechnen\".",
+  "beispielsatz": "Wenn du 3 von 10 subtrahierst, bekommst du 7.",
+  "rechtschreibstrategie": "Das Wort hat ein „ie\" in der Mitte – sprich es laut: sub-tra-HIE-ren. Merke dir: Nach dem „h\" kommt immer „ie\", nicht nur „i\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Subtraktion",
+    "subtrahier"
+  ],
+  "bild_datei": "subtrahieren.webp",
+  "audio_datei": "subtrahieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to subtract"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soustraire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çıkarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يطرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Subtraktion"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Subtrahend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "addieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "multiplizieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dividieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "subtrahieren",
+    "praesens": {
+      "ich": "subtrahiere",
+      "du": "subtrahierst",
+      "er_sie_es": "subtrahiert",
+      "wir": "subtrahieren",
+      "ihr": "subtrahiert",
+      "sie": "subtrahieren"
+    },
+    "perfekt": {
+      "ich": "habe subtrahiert",
+      "du": "hast subtrahiert",
+      "er_sie_es": "hat subtrahiert",
+      "wir": "haben subtrahiert",
+      "ihr": "habt subtrahiert",
+      "sie": "haben subtrahiert"
+    },
+    "praeteritum": {
+      "ich": "subtrahierte",
+      "du": "subtrahiertest",
+      "er_sie_es": "subtrahierte",
+      "wir": "subtrahierten",
+      "ihr": "subtrahiertet",
+      "sie": "subtrahierten"
+    }
+  },
+  "fehlschreibungen": [
+    "subtrahiren",
+    "subtrahiern",
+    "subtrahieren",
+    "subtraieren",
+    "subtrahiehren",
+    "subtrahhieren",
+    "subrahtieren"
+  ]
+}

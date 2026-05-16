@@ -1,0 +1,94 @@
+{
+  "lemma": "Heim",
+  "wortart": "Nomen",
+  "silben": "Heim",
+  "begriffserklaerung": "Ein Heim ist ein Ort, an dem Menschen wohnen und sich zu Hause fühlen. Es kann die eigene Wohnung sein oder ein Gebäude, in dem viele Menschen zusammen leben.",
+  "beispielsatz": "Nach dem langen Schultag freute sich Leon sehr auf sein gemütliches Heim.",
+  "rechtschreibstrategie": "Das Wort „Heim\" hat den langen Vokal „ei\". Denk daran: „ei\" schreibt man mit e und i – wie in „mein Heim\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "heim"
+  ],
+  "bild_datei": "Heim.webp",
+  "audio_datei": "Heim.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "home"
+    },
+    {
+      "language_code": "fr",
+      "translation": "foyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yuva"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وطن / منزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heimisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heimat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heimkehren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuhause"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Heim",
+    "plural": "die Heime",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Heim",
+        "genitiv": "des Heimes",
+        "dativ": "dem Heim",
+        "akkusativ": "das Heim"
+      },
+      "plural": {
+        "nominativ": "die Heime",
+        "genitiv": "der Heime",
+        "dativ": "den Heimen",
+        "akkusativ": "die Heime"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haim",
+    "Heim",
+    "Hain",
+    "Haym",
+    "Heym"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Hausspinne",
+  "wortart": "Nomen",
+  "silben": "Haus-spin-ne",
+  "begriffserklaerung": "Eine Hausspinne ist eine kleine Spinne, die in Wohnungen und Häusern lebt. Sie baut Netze, um Insekten zu fangen.",
+  "beispielsatz": "In der Ecke des Zimmers hat die Hausspinne ein feines Netz gesponnen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Haus\" und „Spinne\". Da „Haus\" auf -s endet und „Spinne\" mit S- beginnt, schreibt man drei s hintereinander – aber Achtung: Hier reichen zwei s, weil das Zusammentreffen auf „ss\" gekürzt wird. Sprich beide Teile deutlich: HAUS + SPINNE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Spinne"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hausspinne",
+    "plural": "die Hausspinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hausspinne",
+        "genitiv": "der Hausspinne",
+        "dativ": "der Hausspinne",
+        "akkusativ": "die Hausspinne"
+      },
+      "plural": {
+        "nominativ": "die Hausspinnen",
+        "genitiv": "der Hausspinnen",
+        "dativ": "den Hausspinnen",
+        "akkusativ": "die Hausspinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hausspine",
+    "Hausspinne",
+    "Hausspinen",
+    "Hausspinnte",
+    "Hauspinne",
+    "Haußpinne"
+  ],
+  "bild_datei": "Hausspinne.webp",
+  "audio_datei": "Hausspinne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "house spider"
+    },
+    {
+      "language_code": "fr",
+      "translation": "araignée domestique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev örümceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عنكبوت المنزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spinne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spinne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spinnennetz"
+    }
+  ]
+}

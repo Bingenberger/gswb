@@ -1,0 +1,91 @@
+{
+  "lemma": "Versehen",
+  "wortart": "Nomen",
+  "silben": "Ver-se-hen",
+  "begriffserklaerung": "Ein Versehen ist ein kleiner Fehler, den man aus Unachtsamkeit macht – also nicht mit Absicht.",
+  "beispielsatz": "Es tut mir leid, das war ein Versehen – ich habe dein Heft aus Versehen mitgenommen.",
+  "rechtschreibstrategie": "Denke an das Verb „sehen\": Ver-se-hen. Das „e\" in der Mitte schreibt man wie in „sehen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sehen"
+  ],
+  "bild_datei": "Versehen.webp",
+  "audio_datei": "Versehen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Versehen",
+    "plural": "die Versehen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Versehen",
+        "genitiv": "des Versehens",
+        "dativ": "dem Versehen",
+        "akkusativ": "das Versehen"
+      },
+      "plural": {
+        "nominativ": "die Versehen",
+        "genitiv": "der Versehen",
+        "dativ": "den Versehen",
+        "akkusativ": "die Versehen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oversight / mistake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "erreur / méprise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dikkatsizlik / yanlışlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سهو / خطأ غير مقصود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fehler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Irrtum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Missgeschick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entschuldigung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fersehen",
+    "Verseen",
+    "Versehen",
+    "Vehrsehen",
+    "Versähen",
+    "Versehhen"
+  ]
+}

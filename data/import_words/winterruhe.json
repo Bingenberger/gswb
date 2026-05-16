@@ -1,0 +1,88 @@
+{
+  "lemma": "Winterruhe",
+  "wortart": "Nomen",
+  "silben": "Win-ter-ru-he",
+  "begriffserklaerung": "Die Winterruhe ist ein langer Schlaf oder eine ruhige Zeit, die manche Tiere im Winter verbringen, um Kraft zu sparen.",
+  "beispielsatz": "Der Igel hält Winterruhe und schläft bis zum Frühling in seinem Blätternest.",
+  "rechtschreibstrategie": "„Winterruhe\" ist ein zusammengesetztes Wort aus „Winter\" und „Ruhe\". Sprich beide Teile laut: WIN-TER-RU-HE. Das Dehnungs-h in „Ruhe\" macht das „u\" lang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Winter",
+    "Ruhe"
+  ],
+  "bild_datei": "Winterruhe.webp",
+  "audio_datei": "Winterruhe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Winterruhe",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Winterruhe",
+        "genitiv": "der Winterruhe",
+        "dativ": "der Winterruhe",
+        "akkusativ": "die Winterruhe"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winter dormancy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "repos hivernal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kış uykusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبات الشتاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ruhe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Winterschlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiefschlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kälteschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Igel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Winterrue",
+    "Winderruhe",
+    "Winterruhe",
+    "Wintterruhe",
+    "Wintegruhe"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "erwachen",
+  "wortart": "Verb",
+  "silben": "er-wa-chen",
+  "begriffserklaerung": "Erwachen bedeutet, dass man aufhört zu schlafen und wach wird.",
+  "beispielsatz": "Jeden Morgen erwache ich, wenn die Sonne scheint.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: er – wa – chen. Denke daran: Am Ende steht „chen\", wie in „machen\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wach"
+  ],
+  "bild_datei": "erwachen.webp",
+  "audio_datei": "erwachen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "erwachen",
+    "praesens": {
+      "ich": "erwache",
+      "du": "erwachst",
+      "er_sie_es": "erwacht",
+      "wir": "erwachen",
+      "ihr": "erwacht",
+      "sie": "erwachen"
+    },
+    "perfekt": {
+      "ich": "bin erwacht",
+      "du": "bist erwacht",
+      "er_sie_es": "ist erwacht",
+      "wir": "sind erwacht",
+      "ihr": "seid erwacht",
+      "sie": "sind erwacht"
+    },
+    "praeteritum": {
+      "ich": "erwachte",
+      "du": "erwachtest",
+      "er_sie_es": "erwachte",
+      "wir": "erwachten",
+      "ihr": "erwachtet",
+      "sie": "erwachten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wake up"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se réveiller"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يستيقظ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufwachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufwachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "träumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufstehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "erwacchen",
+    "erwahchen",
+    "erwaxen",
+    "erwahken",
+    "erwaachen",
+    "erwachhen"
+  ]
+}

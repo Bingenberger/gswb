@@ -1,0 +1,82 @@
+{
+  "lemma": "Strauch",
+  "wortart": "Nomen",
+  "silben": "Strauch",
+  "begriffserklaerung": "Ein Strauch ist eine kleine, holzige Pflanze mit vielen Ästen, die direkt vom Boden aus wachsen. Ein Strauch ist kleiner als ein Baum.",
+  "beispielsatz": "Im Garten blüht ein bunter Strauch mit roten Blüten.",
+  "rechtschreibstrategie": "Das Wort „Strauch\" klingt am Ende wie „au\" – schreibe es mit au, nicht mit ao oder ow. Denke daran: au wie in „laut\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Strauch"
+  ],
+  "bild_datei": "Strauch.webp",
+  "audio_datei": "Strauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shrub"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arbuste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sträucher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "straucheln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Busch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Busch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strauch",
+    "plural": "die Sträucher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strauch",
+        "genitiv": "des Strauchs",
+        "dativ": "dem Strauch",
+        "akkusativ": "den Strauch"
+      },
+      "plural": {
+        "nominativ": "die Sträucher",
+        "genitiv": "der Sträucher",
+        "dativ": "den Sträuchern",
+        "akkusativ": "die Sträucher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Strauh",
+    "Strausch",
+    "Straoch",
+    "Strach",
+    "Straux"
+  ]
+}

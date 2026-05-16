@@ -1,0 +1,83 @@
+{
+  "lemma": "Abendrot",
+  "wortart": "Nomen",
+  "silben": "A-bend-rot",
+  "begriffserklaerung": "Das Abendrot ist die rote und orangefarbene Färbung des Himmels kurz bevor die Sonne untergeht.",
+  "beispielsatz": "Das Abendrot leuchtete heute besonders schön und färbte den ganzen Himmel in leuchtendes Orange und Rosa.",
+  "rechtschreibstrategie": "„Abendrot\" ist ein zusammengesetztes Wort aus „Abend\" und „rot\". Sprich beide Teile deutlich: A-bend-rot. Schreibe sie einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Abend",
+    "rot"
+  ],
+  "bild_datei": "Abendrot.webp",
+  "audio_datei": "Abendrot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunset glow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rougeur du soir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akşam kızıllığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الشفق الأحمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenuntergang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abendglut"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abendrot",
+    "plural": "die Abendröte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abendrot",
+        "genitiv": "des Abendrots",
+        "dativ": "dem Abendrot",
+        "akkusativ": "das Abendrot"
+      },
+      "plural": {
+        "nominativ": "die Abendröte",
+        "genitiv": "der Abendröte",
+        "dativ": "den Abendröten",
+        "akkusativ": "die Abendröte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abenrot",
+    "Abendroht",
+    "Abendrod",
+    "abendrot",
+    "Abend-rot"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "wachsen",
+  "wortart": "Verb",
+  "silben": "wach-sen",
+  "begriffserklaerung": "Wenn etwas wächst, wird es größer oder länger. Pflanzen, Tiere und Menschen wachsen.",
+  "beispielsatz": "Die Sonnenblume wächst jeden Tag ein bisschen höher.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „wach-sen\". Das „chs\" klingt wie „x\". Merke dir: w-a-c-h-s-e-n!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wachsen",
+    "praesens": {
+      "ich": "wachse",
+      "du": "wächst",
+      "er_sie_es": "wächst",
+      "wir": "wachsen",
+      "ihr": "wachst",
+      "sie": "wachsen"
+    },
+    "perfekt": {
+      "ich": "bin gewachsen",
+      "du": "bist gewachsen",
+      "er_sie_es": "ist gewachsen",
+      "wir": "sind gewachsen",
+      "ihr": "seid gewachsen",
+      "sie": "sind gewachsen"
+    },
+    "praeteritum": {
+      "ich": "wuchs",
+      "du": "wuchsest",
+      "er_sie_es": "wuchs",
+      "wir": "wuchsen",
+      "ihr": "wuchst",
+      "sie": "wuchsen"
+    }
+  },
+  "wortfamilie_basen": [
+    "wachs",
+    "wuchs"
+  ],
+  "fehlschreibungen": [
+    "waxen",
+    "wahxen",
+    "wachßen",
+    "wachzen",
+    "vaksen"
+  ],
+  "bild_datei": "wachsen.webp",
+  "audio_datei": "wachsen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to grow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grandir / pousser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyümek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنْمُو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wachstum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufwachsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewachsen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gedeihen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "blühen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "keimen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reifen"
+    }
+  ]
+}

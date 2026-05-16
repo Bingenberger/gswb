@@ -1,0 +1,89 @@
+{
+  "lemma": "Regenwald",
+  "wortart": "Nomen",
+  "silben": "Re-gen-wald",
+  "begriffserklaerung": "Ein Regenwald ist ein dichter, großer Wald, in dem es sehr viel regnet. Dort leben viele Tiere und Pflanzen.",
+  "beispielsatz": "Im Regenwald leben bunte Papageien und viele andere Tiere.",
+  "rechtschreibstrategie": "Regenwald ist ein Baustein-Wort aus „Regen\" und „Wald\". Schreibe beide Teile einfach zusammen: Regen + Wald = Regenwald.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wald",
+    "Regen"
+  ],
+  "bild_datei": "Regenwald.webp",
+  "audio_datei": "Regenwald.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Regenwald",
+    "plural": "die Regenwälder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Regenwald",
+        "genitiv": "des Regenwaldes",
+        "dativ": "dem Regenwald",
+        "akkusativ": "den Regenwald"
+      },
+      "plural": {
+        "nominativ": "die Regenwälder",
+        "genitiv": "der Regenwälder",
+        "dativ": "den Regenwäldern",
+        "akkusativ": "die Regenwälder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rainforest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forêt tropicale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağmur ormanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غابة المطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dschungel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urwald"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Urwald"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rägenwald",
+    "Regenwaldt",
+    "Regenwald",
+    "Reegenwalt",
+    "Regenwalld",
+    "Rägenwaldt"
+  ]
+}

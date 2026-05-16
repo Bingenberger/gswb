@@ -1,0 +1,72 @@
+{
+  "lemma": "Zebra",
+  "wortart": "Nomen",
+  "silben": "Zeb-ra",
+  "begriffserklaerung": "Ein Zebra ist ein wildes Tier aus Afrika, das wie ein Pferd aussieht und schwarz-weiße Streifen hat.",
+  "beispielsatz": "Das Zebra galoppiert mit seiner Herde über die weite Savanne.",
+  "rechtschreibstrategie": "Denk an das scharfe „Z\" am Anfang – sprich es laut mit: „Zzzebra\"! Das Wort schreibt sich genau so, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Zebra.webp",
+  "audio_datei": "Zebra.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "zebra"
+    },
+    {
+      "language_code": "fr",
+      "translation": "zèbre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zebra"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمار وحشي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Savanne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zebra",
+    "plural": "die Zebras",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zebra",
+        "genitiv": "des Zebras",
+        "dativ": "dem Zebra",
+        "akkusativ": "das Zebra"
+      },
+      "plural": {
+        "nominativ": "die Zebras",
+        "genitiv": "der Zebras",
+        "dativ": "den Zebras",
+        "akkusativ": "die Zebras"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sebra",
+    "Zäbra",
+    "Zebera",
+    "Zebrah",
+    "Tsebra"
+  ]
+}

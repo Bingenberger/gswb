@@ -1,0 +1,84 @@
+{
+  "lemma": "Sandpapier",
+  "wortart": "Nomen",
+  "silben": "Sand-pa-pier",
+  "begriffserklaerung": "Sandpapier ist ein raues Papier, das mit feinen Sandkörnern bestreut ist. Man benutzt es, um Holz oder andere Oberflächen glatt zu schleifen.",
+  "beispielsatz": "Papa schleift das alte Holzbrett mit Sandpapier glatt.",
+  "rechtschreibstrategie": "Sandpapier ist aus zwei Wörtern zusammengebaut: „Sand\" und „Papier\". Sprich beide Teile laut: SAND + PAPIER. Das „ie\" am Ende sprichst du lang – denk ans Wort „Papier\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Sand",
+    "Papier"
+  ],
+  "bild_datei": "Sandpapier.webp",
+  "audio_datei": "Sandpapier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sandpapier",
+    "plural": "die Sandpapiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sandpapier",
+        "genitiv": "des Sandpapiers",
+        "dativ": "dem Sandpapier",
+        "akkusativ": "das Sandpapier"
+      },
+      "plural": {
+        "nominativ": "die Sandpapiere",
+        "genitiv": "der Sandpapiere",
+        "dativ": "den Sandpapieren",
+        "akkusativ": "die Sandpapiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sandpaper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papier de verre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zımpara kağıdı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورق الصنفرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleifpapier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schleifpapier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Santpapier",
+    "Sandpapir",
+    "Sandpapiehr",
+    "Zandpapier",
+    "Sandpapiere"
+  ]
+}

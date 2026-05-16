@@ -1,0 +1,91 @@
+{
+  "lemma": "Beruf",
+  "wortart": "Nomen",
+  "silben": "Be-ruf",
+  "begriffserklaerung": "Ein Beruf ist eine Arbeit, die ein Mensch regelmäßig macht und dafür Geld bekommt.",
+  "beispielsatz": "Meine Mutter hat den Beruf der Ärztin.",
+  "rechtschreibstrategie": "Verlängere das Wort: Be-ru-fe – am Ende hörst du das „f\" deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beruf",
+    "plural": "die Berufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beruf",
+        "genitiv": "des Berufs",
+        "dativ": "dem Beruf",
+        "akkusativ": "den Beruf"
+      },
+      "plural": {
+        "nominativ": "die Berufe",
+        "genitiv": "der Berufe",
+        "dativ": "den Berufen",
+        "akkusativ": "die Berufe"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "ruf",
+    "rufen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "berufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beruflich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Job"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausbildung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeitsstelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fachmann"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beruff",
+    "Beruph",
+    "Berruf",
+    "Beruhf",
+    "Beruv"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "profession / job"
+    },
+    {
+      "language_code": "fr",
+      "translation": "métier / profession"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meslek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهنة"
+    }
+  ],
+  "bild_datei": "Beruf.webp",
+  "audio_datei": "Beruf.mp3"
+}

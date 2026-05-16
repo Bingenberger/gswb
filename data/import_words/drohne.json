@@ -1,0 +1,77 @@
+{
+  "lemma": "Drohne",
+  "wortart": "Nomen",
+  "silben": "Droh-ne",
+  "begriffserklaerung": "Eine Drohne ist ein fliegendes Gerät ohne Pilot, das durch Fernsteuerung oder einen Computer gesteuert wird. Drohnen haben meist mehrere kleine Propeller und können Fotos oder Videos aus der Luft machen.",
+  "beispielsatz": "Der Vater steuert seine Drohne über die Wiese und filmt dabei den Garten von oben.",
+  "rechtschreibstrategie": "Das Wort „Drohne\" hat ein Dehnungs-h nach dem „o\": D-r-o-h-n-e. Das „h\" sprichst du nicht, aber du schreibst es mit!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "drohn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Drohne",
+    "plural": "die Drohnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Drohne",
+        "genitiv": "der Drohne",
+        "dativ": "der Drohne",
+        "akkusativ": "die Drohne"
+      },
+      "plural": {
+        "nominativ": "die Drohnen",
+        "genitiv": "der Drohnen",
+        "dativ": "den Drohnen",
+        "akkusativ": "die Drohnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Drone",
+    "Dronne",
+    "Drohnn",
+    "Drohne"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "drone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "insansız hava aracı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائرة بدون طيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drohnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hubschrauber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsteuerung"
+    }
+  ],
+  "bild_datei": "Drohne.webp",
+  "audio_datei": "Drohne.mp3"
+}

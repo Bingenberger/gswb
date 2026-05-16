@@ -1,0 +1,90 @@
+{
+  "lemma": "Wechsel",
+  "wortart": "Nomen",
+  "silben": "Wech-sel",
+  "begriffserklaerung": "Ein Wechsel bedeutet, dass etwas aufhört und etwas anderes anfängt – zum Beispiel wenn man etwas tauscht oder verändert.",
+  "beispielsatz": "Nach dem Wechsel von Sommer zu Herbst werden die Blätter bunt.",
+  "rechtschreibstrategie": "Schreibe „Wech-sel\" – nach dem kurzen „e\" kommt „ch\" und dann noch ein „s\". Sprich die Silben deutlich: Wech – sel!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wechsel"
+  ],
+  "bild_datei": "Wechsel.webp",
+  "audio_datei": "Wechsel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wechsel",
+    "plural": "die Wechsel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wechsel",
+        "genitiv": "des Wechsels",
+        "dativ": "dem Wechsel",
+        "akkusativ": "den Wechsel"
+      },
+      "plural": {
+        "nominativ": "die Wechsel",
+        "genitiv": "der Wechsel",
+        "dativ": "den Wechseln",
+        "akkusativ": "die Wechsel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "change"
+    },
+    {
+      "language_code": "fr",
+      "translation": "changement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değişim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغيير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wechseln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wechselhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tausch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Veränderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wandel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Übergang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wende"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weksel",
+    "Wechßel",
+    "Wechssel",
+    "Wäxel",
+    "Wexel"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kino",
+  "wortart": "Nomen",
+  "silben": "Ki-no",
+  "begriffserklaerung": "Ein Kino ist ein Gebäude, in dem man auf einer großen Leinwand Filme anschaut.",
+  "beispielsatz": "Am Samstag gehen wir ins Kino und schauen einen lustigen Film.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ki-no. Beide Silben haben einen langen Vokal, deshalb schreibst du nur einen Konsonanten: ein einfaches „n\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kino"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kino",
+    "plural": "die Kinos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kino",
+        "genitiv": "des Kinos",
+        "dativ": "dem Kino",
+        "akkusativ": "das Kino"
+      },
+      "plural": {
+        "nominativ": "die Kinos",
+        "genitiv": "der Kinos",
+        "dativ": "den Kinos",
+        "akkusativ": "die Kinos"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Keno",
+    "Kinno",
+    "Kyno",
+    "Khino",
+    "Kinoo"
+  ],
+  "bild_datei": "Kino.webp",
+  "audio_datei": "Kino.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cinema"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cinéma"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinema"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سينما"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kinofilm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kinosaal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leinwand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Popcorn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lichtspielhaus"
+    }
+  ]
+}

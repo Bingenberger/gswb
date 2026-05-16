@@ -1,0 +1,83 @@
+{
+  "lemma": "Mütter",
+  "wortart": "Nomen",
+  "silben": "Müt-ter",
+  "begriffserklaerung": "Mütter ist die Mehrzahl von Mutter. Eine Mutter ist eine Frau, die ein Kind oder mehrere Kinder hat.",
+  "beispielsatz": "Die Mütter warten nach der Schule auf ihre Kinder.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Müt-ter\". Nach dem kurzen „ü\" kommt ein Doppel-t. Das zeigt dir, dass der Vokal kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mutter"
+  ],
+  "bild_datei": "Mütter.webp",
+  "audio_datei": "Mütter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mothers"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mères"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anneler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمهات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mütterlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Väter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mutter",
+    "plural": "die Mütter",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mutter",
+        "genitiv": "der Mutter",
+        "dativ": "der Mutter",
+        "akkusativ": "die Mutter"
+      },
+      "plural": {
+        "nominativ": "die Mütter",
+        "genitiv": "der Mütter",
+        "dativ": "den Müttern",
+        "akkusativ": "die Mütter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Müttern",
+    "Mütter",
+    "Müter",
+    "Muetter",
+    "Müttter",
+    "Mutter"
+  ]
+}

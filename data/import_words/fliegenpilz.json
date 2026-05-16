@@ -1,0 +1,85 @@
+{
+  "lemma": "Fliegenpilz",
+  "wortart": "Nomen",
+  "silben": "Flie-gen-pilz",
+  "begriffserklaerung": "Der Fliegenpilz ist ein sehr bekannter Giftpilz. Er hat einen roten Hut mit weißen Punkten. Man darf ihn nicht essen, denn er ist giftig!",
+  "beispielsatz": "Im Wald entdeckte Lena einen leuchtend roten Fliegenpilz mit weißen Punkten.",
+  "rechtschreibstrategie": "„Fliegenpilz\" ist ein zusammengesetztes Wort aus „Fliege\" und „Pilz\". Sprich beide Teile einzeln: Flie-ge + Pilz. Denk an die Fliege, die auf dem Pilz sitzt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Pilz",
+    "Fliege"
+  ],
+  "bild_datei": "Fliegenpilz.webp",
+  "audio_datei": "Fliegenpilz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fliegenpilz",
+    "plural": "die Fliegenpilze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fliegenpilz",
+        "genitiv": "des Fliegenpilzes",
+        "dativ": "dem Fliegenpilz",
+        "akkusativ": "den Fliegenpilz"
+      },
+      "plural": {
+        "nominativ": "die Fliegenpilze",
+        "genitiv": "der Fliegenpilze",
+        "dativ": "den Fliegenpilzen",
+        "akkusativ": "die Fliegenpilze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fly agaric"
+    },
+    {
+      "language_code": "fr",
+      "translation": "amanite tue-mouches"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinek mantarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فطر الذبابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pilz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fliege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Giftpilz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pilz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fliegenpils",
+    "Fligenppilz",
+    "Fligenpilz",
+    "Fliegenpielz",
+    "Fliegenpillz",
+    "Fleigenpilz"
+  ]
+}

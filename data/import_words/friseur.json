@@ -1,0 +1,90 @@
+{
+  "lemma": "Friseur",
+  "wortart": "Nomen",
+  "silben": "Fri-seur",
+  "begriffserklaerung": "Ein Friseur ist jemand, der Haare schneidet, wäscht und frisiert. Man geht zum Friseur, wenn man einen neuen Haarschnitt möchte.",
+  "beispielsatz": "Die Mama bringt mich heute zum Friseur, damit meine Haare schön kurz geschnitten werden.",
+  "rechtschreibstrategie": "Das Wort „Friseur\" kommt aus dem Französischen und klingt am Ende wie „öhr\". Merke dir: Nach dem „s\" kommt „eur\" – sprich es wie „ör\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "frisier"
+  ],
+  "bild_datei": "Friseur.webp",
+  "audio_datei": "Friseur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hairdresser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coiffeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuaför"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frisieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Friseuse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frisiersalon"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haarschneider"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salon"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Friseur",
+    "plural": "die Friseure",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Friseur",
+        "genitiv": "des Friseurs",
+        "dativ": "dem Friseur",
+        "akkusativ": "den Friseur"
+      },
+      "plural": {
+        "nominativ": "die Friseure",
+        "genitiv": "der Friseure",
+        "dativ": "den Friseuren",
+        "akkusativ": "die Friseure"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frieseur",
+    "Frisör",
+    "Frizeur",
+    "Frisseur",
+    "Frisoer"
+  ]
+}

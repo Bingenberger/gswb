@@ -1,0 +1,86 @@
+{
+  "lemma": "Frieden",
+  "wortart": "Nomen",
+  "silben": "Frie-den",
+  "begriffserklaerung": "Frieden bedeutet, dass Menschen, Völker oder Länder nicht streiten oder kämpfen, sondern freundlich und ruhig miteinander leben.",
+  "beispielsatz": "Nach dem langen Streit haben sich die beiden Freunde endlich versöhnt und leben wieder in Frieden.",
+  "rechtschreibstrategie": "Denk an „froh\" – das „ie\" in „Frie-den\" spricht man lang. Schreib es mit ie: F-R-I-E-D-E-N.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Fried"
+  ],
+  "bild_datei": "Frieden.webp",
+  "audio_datei": "Frieden.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frieden",
+    "plural": "die Frieden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frieden",
+        "genitiv": "des Friedens",
+        "dativ": "dem Frieden",
+        "akkusativ": "den Frieden"
+      },
+      "plural": {
+        "nominativ": "die Frieden",
+        "genitiv": "der Frieden",
+        "dativ": "den Frieden",
+        "akkusativ": "die Frieden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "peace"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "barış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "friedlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Friedhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eintracht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versöhnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Harmonie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Friden",
+    "Frieden",
+    "Friede",
+    "Freeden",
+    "Frieeden"
+  ]
+}

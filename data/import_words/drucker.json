@@ -1,0 +1,82 @@
+{
+  "lemma": "Drucker",
+  "wortart": "Nomen",
+  "silben": "Dru-cker",
+  "begriffserklaerung": "Ein Drucker ist ein Gerät, das Texte und Bilder vom Computer auf Papier überträgt.",
+  "beispielsatz": "Ich drucke mein Bild mit dem Drucker aus.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" schreibt man „ck\" – denk daran: kurzer Vokal, doppelter Endlaut!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "druck"
+  ],
+  "bild_datei": "Drucker.webp",
+  "audio_datei": "Drucker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "printer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "imprimante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طابعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drucken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Druck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tinte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Drucker",
+    "plural": "die Drucker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Drucker",
+        "genitiv": "des Druckers",
+        "dativ": "dem Drucker",
+        "akkusativ": "den Drucker"
+      },
+      "plural": {
+        "nominativ": "die Drucker",
+        "genitiv": "der Drucker",
+        "dativ": "den Druckern",
+        "akkusativ": "die Drucker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Druker",
+    "Drukker",
+    "Trucker",
+    "Drücker",
+    "Drucker"
+  ]
+}

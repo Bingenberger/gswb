@@ -1,0 +1,82 @@
+{
+  "lemma": "Blüte",
+  "wortart": "Nomen",
+  "silben": "Blü-te",
+  "begriffserklaerung": "Die Blüte ist der bunte Teil einer Pflanze. Sie duftet oft schön und zieht Bienen und Schmetterlinge an.",
+  "beispielsatz": "Im Frühling öffnen sich die ersten Blüten auf dem Kirschbaum.",
+  "rechtschreibstrategie": "Denk an das Verb „blühen\" – daraus wird „Blüte\". Das ü bleibt gleich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "blüh"
+  ],
+  "bild_datei": "Blüte.webp",
+  "audio_datei": "Blüte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blossom / flower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زهرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blühen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blütenblatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blume"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blüte",
+    "plural": "die Blüten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blüte",
+        "genitiv": "der Blüte",
+        "dativ": "der Blüte",
+        "akkusativ": "die Blüte"
+      },
+      "plural": {
+        "nominativ": "die Blüten",
+        "genitiv": "der Blüten",
+        "dativ": "den Blüten",
+        "akkusativ": "die Blüten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blütte",
+    "Blute",
+    "Blüde",
+    "Blüht",
+    "Blühte"
+  ]
+}

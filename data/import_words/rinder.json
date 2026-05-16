@@ -1,0 +1,82 @@
+{
+  "lemma": "Rinder",
+  "wortart": "Nomen",
+  "silben": "Rin-der",
+  "begriffserklaerung": "Rinder sind große Nutztiere, die auf Bauernhöfen leben. Sie geben Milch und liefern Fleisch. Ein einzelnes Tier heißt Rind.",
+  "beispielsatz": "Auf der Weide grasen viele Rinder friedlich im Gras.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Rin-der. Das „d\" in der Mitte hörst du deutlich. Das kurze „i\" zeigt dir, dass nur ein „n\" folgt – kein Doppel-n!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Rind"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Rind",
+    "plural": "die Rinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rind",
+        "genitiv": "des Rindes",
+        "dativ": "dem Rind",
+        "akkusativ": "das Rind"
+      },
+      "plural": {
+        "nominativ": "die Rinder",
+        "genitiv": "der Rinder",
+        "dativ": "den Rindern",
+        "akkusativ": "die Rinder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rinnder",
+    "Rinter",
+    "Rynder",
+    "Rindder",
+    "Rindär"
+  ],
+  "bild_datei": "Rinder.webp",
+  "audio_datei": "Rinder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cattle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bovins"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sığırlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أبقار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rindfleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weide"
+    }
+  ]
+}

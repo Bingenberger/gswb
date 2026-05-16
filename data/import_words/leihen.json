@@ -1,0 +1,98 @@
+{
+  "lemma": "leihen",
+  "wortart": "Verb",
+  "silben": "lei-hen",
+  "begriffserklaerung": "Wenn du etwas leihst, gibst du es jemand anderem für eine Weile. Die Person gibt es dir danach wieder zurück.",
+  "beispielsatz": "Kannst du mir bitte deinen Bleistift leihen? Ich gebe ihn dir gleich wieder zurück!",
+  "rechtschreibstrategie": "Das Wort „leihen\" hat ein Dehnungs-h nach dem „ei\". Denk daran: nach „ei\" kommt ein „h\", das man nicht hört – lei-hen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "leih"
+  ],
+  "bild_datei": "leihen.webp",
+  "audio_datei": "leihen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to lend / to borrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prêter / emprunter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ödünç vermek / ödünç almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُعير / يستعير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leihe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausleihe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verleiher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "borgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zurückgeben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tauschen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "leihen",
+    "praesens": {
+      "ich": "leihe",
+      "du": "leihst",
+      "er_sie_es": "leiht",
+      "wir": "leihen",
+      "ihr": "leiht",
+      "sie": "leihen"
+    },
+    "perfekt": {
+      "ich": "habe geliehen",
+      "du": "hast geliehen",
+      "er_sie_es": "hat geliehen",
+      "wir": "haben geliehen",
+      "ihr": "habt geliehen",
+      "sie": "haben geliehen"
+    },
+    "praeteritum": {
+      "ich": "lieh",
+      "du": "liehst",
+      "er_sie_es": "lieh",
+      "wir": "liehen",
+      "ihr": "lieht",
+      "sie": "liehen"
+    }
+  },
+  "fehlschreibungen": [
+    "leien",
+    "leyhen",
+    "leichen",
+    "leihen",
+    "leihn"
+  ]
+}

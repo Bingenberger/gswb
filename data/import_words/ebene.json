@@ -1,0 +1,86 @@
+{
+  "lemma": "Ebene",
+  "wortart": "Nomen",
+  "silben": "E-be-ne",
+  "begriffserklaerung": "Eine Ebene ist ein großes, flaches Stück Land ohne Berge oder Hügel. Das Wort kann auch eine glatte, flache Fläche in der Mathematik oder im Alltag bezeichnen.",
+  "beispielsatz": "Die Kühe grasen ruhig auf der weiten Ebene.",
+  "rechtschreibstrategie": "Das Wort „Ebene\" hat drei Silben: E-be-ne. Achte darauf, dass du nur ein „b\" schreibst und das Wort mit einem großen „E\" beginnst, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "eben"
+  ],
+  "bild_datei": "Ebene.webp",
+  "audio_datei": "Ebene.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ebene",
+    "plural": "die Ebenen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ebene",
+        "genitiv": "der Ebene",
+        "dativ": "der Ebene",
+        "akkusativ": "die Ebene"
+      },
+      "plural": {
+        "nominativ": "die Ebenen",
+        "genitiv": "der Ebenen",
+        "dativ": "den Ebenen",
+        "akkusativ": "die Ebenen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plain / plane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plaine / plan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ova / düzlem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سهل / مستوى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ebnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fläche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ebbene",
+    "Ebehne",
+    "Ebbehne",
+    "ebene",
+    "Ebeene"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "Spaziergang",
+  "wortart": "Nomen",
+  "silben": "Spa-zier-gang",
+  "begriffserklaerung": "Ein Spaziergang ist ein gemütlicher, ruhiger Ausflug zu Fuß – einfach so, zum Vergnügen oder um frische Luft zu schnappen.",
+  "beispielsatz": "Am Sonntag machen wir einen langen Spaziergang im Park.",
+  "rechtschreibstrategie": "Das Wort „Spaziergang\" besteht aus zwei Teilen: „Spazier-\" und „-gang\". Achte auf das „ie\" in „Spazier\" – es wird lang gesprochen, wie in „Tier\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spazier",
+    "gang"
+  ],
+  "bild_datei": "Spaziergang.webp",
+  "audio_datei": "Spaziergang.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spaziergang",
+    "plural": "die Spaziergänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spaziergang",
+        "genitiv": "des Spaziergangs",
+        "dativ": "dem Spaziergang",
+        "akkusativ": "den Spaziergang"
+      },
+      "plural": {
+        "nominativ": "die Spaziergänge",
+        "genitiv": "der Spaziergänge",
+        "dativ": "den Spaziergängen",
+        "akkusativ": "die Spaziergänge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "walk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "promenade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüyüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نزهة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spazieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spazierweg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bummel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Park"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spatziergang",
+    "Spaziergang",
+    "Spasiergang",
+    "Spazirgang",
+    "Spaziehrgang",
+    "Spaziergan"
+  ]
+}

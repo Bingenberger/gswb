@@ -1,0 +1,87 @@
+{
+  "lemma": "Heilung",
+  "wortart": "Nomen",
+  "silben": "Hei-lung",
+  "begriffserklaerung": "Eine Heilung ist, wenn jemand wieder gesund wird, nachdem er krank oder verletzt war.",
+  "beispielsatz": "Nach der Heilung konnte Tim wieder fröhlich spielen.",
+  "rechtschreibstrategie": "Denk an das Wort „heilen\" – davon kommt „Heilung\". Man hört das „ei\" wie in „Eis\", und am Ende steht „-ung\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Heilung",
+    "plural": "die Heilungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Heilung",
+        "genitiv": "der Heilung",
+        "dativ": "der Heilung",
+        "akkusativ": "die Heilung"
+      },
+      "plural": {
+        "nominativ": "die Heilungen",
+        "genitiv": "der Heilungen",
+        "dativ": "den Heilungen",
+        "akkusativ": "die Heilungen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "heil"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heilbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Genesung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Heillung",
+    "Heylung",
+    "Heilunk",
+    "Hailung",
+    "Heiluing"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "healing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guérison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iyileşme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شفاء"
+    }
+  ],
+  "bild_datei": "Heilung.webp",
+  "audio_datei": "Heilung.mp3"
+}

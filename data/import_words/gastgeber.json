@@ -1,0 +1,87 @@
+{
+  "lemma": "Gastgeber",
+  "wortart": "Nomen",
+  "silben": "Gast-ge-ber",
+  "begriffserklaerung": "Ein Gastgeber ist jemand, der andere Menschen bei sich zu Hause oder auf einer Feier willkommen heißt und für sie sorgt.",
+  "beispielsatz": "Der Gastgeber begrüßte alle Gäste herzlich an der Tür.",
+  "rechtschreibstrategie": "Das Wort „Gastgeber\" besteht aus zwei Teilen: „Gast\" und „Geber\". Sprich beide Teile einzeln: GAST + GEBER. Am Ende von „Gast\" hörst du ein „t\" – das schreibst du auch so!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Gast",
+    "geben"
+  ],
+  "bild_datei": "Gastgeber.webp",
+  "audio_datei": "Gastgeber.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gastgeber",
+    "plural": "die Gastgeber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gastgeber",
+        "genitiv": "des Gastgebers",
+        "dativ": "dem Gastgeber",
+        "akkusativ": "den Gastgeber"
+      },
+      "plural": {
+        "nominativ": "die Gastgeber",
+        "genitiv": "der Gastgeber",
+        "dativ": "den Gastgebern",
+        "akkusativ": "die Gastgeber"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "host"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hôte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev sahibi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مضيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gast"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gastgeberin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einladung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gast"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gastgäber",
+    "Gassgeber",
+    "Gastgeber",
+    "Gashgeber",
+    "Gastjeber"
+  ]
+}

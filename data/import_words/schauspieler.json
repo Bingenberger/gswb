@@ -1,0 +1,89 @@
+{
+  "lemma": "Schauspieler",
+  "wortart": "Nomen",
+  "silben": "Schau-spie-ler",
+  "begriffserklaerung": "Ein Schauspieler ist ein Mensch, der in einem Film, einem Theaterstück oder einer Serie eine Rolle spielt und dabei eine andere Person darstellt.",
+  "beispielsatz": "Der Schauspieler verkleidet sich und spielt einen mutigen Ritter auf der Bühne.",
+  "rechtschreibstrategie": "Das Wort „Schauspieler\" besteht aus drei Teilen: „Schau\" + „Spiel\" + „er\". Sprich alle Teile laut mit: SCHAU – SPIEL – ER. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Spiel",
+    "Schau"
+  ],
+  "bild_datei": "Schauspieler.webp",
+  "audio_datei": "Schauspieler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "actor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "acteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُمَثِّل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schauspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rolle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Darsteller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schauspieler",
+    "plural": "die Schauspieler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schauspieler",
+        "genitiv": "des Schauspielers",
+        "dativ": "dem Schauspieler",
+        "akkusativ": "den Schauspieler"
+      },
+      "plural": {
+        "nominativ": "die Schauspieler",
+        "genitiv": "der Schauspieler",
+        "dativ": "den Schauspielern",
+        "akkusativ": "die Schauspieler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schauspiler",
+    "Schauspieller",
+    "Schausbiller",
+    "Schauspiehler",
+    "Schausspiler",
+    "Schauspiehlер"
+  ]
+}

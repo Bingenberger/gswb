@@ -1,0 +1,87 @@
+{
+  "lemma": "Fläche",
+  "wortart": "Nomen",
+  "silben": "Flä-che",
+  "beispielsatz": "Die Fläche des Tisches ist groß genug für alle Hefte.",
+  "begriffserklaerung": "Eine Fläche ist eine flache, ausgedehnte Oberfläche, zum Beispiel ein Stück Boden oder eine Seite eines Blattes Papier.",
+  "rechtschreibstrategie": "Denk an das Wort „flach\": Fläche kommt von „flach\", deshalb schreibt man es mit ä. Sprich es laut mit: Flä-che.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "flach"
+  ],
+  "bild_datei": "Fläche.webp",
+  "audio_datei": "Fläche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "area / surface"
+    },
+    {
+      "language_code": "fr",
+      "translation": "surface / aire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alan / yüzey"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساحة / سطح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abflachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Oberfläche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umfang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Volumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geometrie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fläche",
+    "plural": "die Flächen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fläche",
+        "genitiv": "der Fläche",
+        "dativ": "der Fläche",
+        "akkusativ": "die Fläche"
+      },
+      "plural": {
+        "nominativ": "die Flächen",
+        "genitiv": "der Flächen",
+        "dativ": "den Flächen",
+        "akkusativ": "die Flächen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fleche",
+    "Fläshe",
+    "Fläche",
+    "Flache",
+    "Flähce",
+    "Flässche"
+  ]
+}

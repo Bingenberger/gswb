@@ -1,0 +1,82 @@
+{
+  "lemma": "Kreide",
+  "wortart": "Nomen",
+  "silben": "Krei-de",
+  "begriffserklaerung": "Kreide ist ein weiches, weißes Schreibwerkzeug. Man schreibt damit an die Tafel oder auf den Boden.",
+  "beispielsatz": "Die Lehrerin schreibt mit der Kreide ein Wort an die Tafel.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" in „Krei-de\" – sprich die Silben laut: KREI – DE.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kreide"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kreide",
+    "plural": "die Kreiden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kreide",
+        "genitiv": "der Kreide",
+        "dativ": "der Kreide",
+        "akkusativ": "die Kreide"
+      },
+      "plural": {
+        "nominativ": "die Kreiden",
+        "genitiv": "der Kreiden",
+        "dativ": "den Kreiden",
+        "akkusativ": "die Kreiden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kreite",
+    "Kraide",
+    "Craide",
+    "Kreide",
+    "Greide"
+  ],
+  "bild_datei": "Kreide.webp",
+  "audio_datei": "Kreide.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chalk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "craie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tebeşir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طباشير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreidig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    }
+  ]
+}

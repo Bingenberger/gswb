@@ -1,0 +1,88 @@
+{
+  "lemma": "Fressnapf",
+  "wortart": "Nomen",
+  "silben": "Fress-napf",
+  "begriffserklaerung": "Ein Fressnapf ist eine flache Schüssel, aus der Tiere ihr Futter fressen. Haustiere wie Hunde und Katzen bekommen ihr Essen in einen Fressnapf.",
+  "beispielsatz": "Die Katze läuft sofort zum Fressnapf, wenn sie Hunger hat.",
+  "rechtschreibstrategie": "„Fressnapf\" ist ein zusammengesetztes Wort aus „fressen\" und „Napf\". Schreib beide Wortteile genau so, wie du sie kennst: fress + Napf = Fressnapf. Das Doppel-s kommt vom Wortteil „fressen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fressen",
+    "Napf"
+  ],
+  "bild_datei": "Fressnapf.webp",
+  "audio_datei": "Fressnapf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fressnapf",
+    "plural": "die Fressnäpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fressnapf",
+        "genitiv": "des Fressnapfes",
+        "dativ": "dem Fressnapf",
+        "akkusativ": "den Fressnapf"
+      },
+      "plural": {
+        "nominativ": "die Fressnäpfe",
+        "genitiv": "der Fressnäpfe",
+        "dativ": "den Fressnäpfen",
+        "akkusativ": "die Fressnäpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "food bowl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gamelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mama kabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء الطعام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fressen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Napf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Futternapf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiernahrung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hundenapf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fresnapf",
+    "Fressnaph",
+    "Fressnapff",
+    "Fresßnapf",
+    "Fressknapp"
+  ]
+}

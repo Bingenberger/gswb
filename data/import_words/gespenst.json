@@ -1,0 +1,87 @@
+{
+  "lemma": "Gespenst",
+  "wortart": "Nomen",
+  "silben": "Ge-spenst",
+  "begriffserklaerung": "Ein Gespenst ist ein erfundenes Geisterwesen, das angeblich nachts umherschleicht und Menschen erschreckt. Gespenster gibt es nur in Geschichten, Filmen und Träumen.",
+  "beispielsatz": "Das kleine Gespenst im Buch macht zwar „Buh!\", aber es ist eigentlich ganz freundlich.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ge-spenst. Achte auf das „sp\" in der Mitte – man hört es deutlich. Am Ende steht „nst\" – alle drei Buchstaben mitsprechen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Gespenst"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gespenst",
+    "plural": "die Gespenster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gespenst",
+        "genitiv": "des Gespenstes",
+        "dativ": "dem Gespenst",
+        "akkusativ": "das Gespenst"
+      },
+      "plural": {
+        "nominativ": "die Gespenster",
+        "genitiv": "der Gespenster",
+        "dativ": "den Gespenstern",
+        "akkusativ": "die Gespenster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gespänst",
+    "Gespennst",
+    "Gäspenst",
+    "Gespensd",
+    "Gespenscht",
+    "Gesbenst"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ghost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fantôme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayalet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شبح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gespenstisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gespensterstunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Monster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hexe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geist"
+    }
+  ],
+  "bild_datei": "Gespenst.webp",
+  "audio_datei": "Gespenst.mp3"
+}

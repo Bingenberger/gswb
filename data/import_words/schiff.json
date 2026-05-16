@@ -1,0 +1,86 @@
+{
+  "lemma": "Schiff",
+  "wortart": "Nomen",
+  "silben": "Schiff",
+  "begriffserklaerung": "Ein Schiff ist ein großes Fahrzeug, das auf dem Wasser fährt und Menschen oder Waren transportiert.",
+  "beispielsatz": "Das große Schiff fährt über das Meer.",
+  "rechtschreibstrategie": "Das Wort „Schiff\" hat am Ende zwei „f\", weil das „i\" kurz gesprochen wird – kurzer Vokal, doppelter Konsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schiff",
+    "plural": "die Schiffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schiff",
+        "genitiv": "des Schiffes",
+        "dativ": "dem Schiff",
+        "akkusativ": "das Schiff"
+      },
+      "plural": {
+        "nominativ": "die Schiffe",
+        "genitiv": "der Schiffe",
+        "dativ": "den Schiffen",
+        "akkusativ": "die Schiffe"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Schiff"
+  ],
+  "fehlschreibungen": [
+    "Schif",
+    "Schifft",
+    "Schifff",
+    "Schieff",
+    "Schiff"
+  ],
+  "bild_datei": "Schiff.webp",
+  "audio_datei": "Schiff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ship"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bateau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gemi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سفينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schifffahrt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schiffskapitän"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    }
+  ]
+}

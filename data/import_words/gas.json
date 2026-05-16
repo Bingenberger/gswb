@@ -1,0 +1,81 @@
+{
+  "lemma": "Gas",
+  "wortart": "Nomen",
+  "silben": "Gas",
+  "begriffserklaerung": "Ein Gas ist ein Stoff, den man nicht sehen und meist nicht riechen kann. Er hat keine feste Form und füllt jeden Raum aus. Luft ist zum Beispiel ein Gas.",
+  "beispielsatz": "In unserem Herd wird Gas zum Kochen benutzt.",
+  "rechtschreibstrategie": "„Gas\" hat nur eine Silbe. Der Vokal „a\" wird kurz gesprochen. Am Ende steht ein einzelnes „s\" – merke dir: Gas bleibt Gas!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Gas"
+  ],
+  "bild_datei": "Gas.webp",
+  "audio_datei": "Gas.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gas"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gaz"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غاز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gasleitung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gasförmig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gas",
+    "plural": "die Gase",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gas",
+        "genitiv": "des Gases",
+        "dativ": "dem Gas",
+        "akkusativ": "das Gas"
+      },
+      "plural": {
+        "nominativ": "die Gase",
+        "genitiv": "der Gase",
+        "dativ": "den Gasen",
+        "akkusativ": "die Gase"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gass",
+    "Gaß",
+    "Gaz",
+    "Gaas"
+  ]
+}

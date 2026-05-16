@@ -1,0 +1,76 @@
+{
+  "lemma": "Stethoskop",
+  "wortart": "Nomen",
+  "silben": "Ste-tho-skop",
+  "begriffserklaerung": "Ein Stethoskop ist ein Gerät, das Ärztinnen und Ärzte benutzen, um Herzschlag und Atemgeräusche abzuhören.",
+  "beispielsatz": "Die Ärztin legt das Stethoskop an meine Brust und hört meinem Herzen zu.",
+  "rechtschreibstrategie": "Das Wort „Stethoskop\" ist ein Fremdwort aus dem Griechischen. Merke dir: Es beginnt mit „Ste-\", hat in der Mitte ein „th\" und endet auf „-skop\". Am besten lernst du es Silbe für Silbe: Ste – tho – skop.",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Skop",
+    "skopos"
+  ],
+  "bild_datei": "Stethoskop.webp",
+  "audio_datei": "Stethoskop.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stethoskop",
+    "plural": "die Stethoskope",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stethoskop",
+        "genitiv": "des Stethoskops",
+        "dativ": "dem Stethoskop",
+        "akkusativ": "das Stethoskop"
+      },
+      "plural": {
+        "nominativ": "die Stethoskope",
+        "genitiv": "der Stethoskope",
+        "dativ": "den Stethoskopen",
+        "akkusativ": "die Stethoskope"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stethoscope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "stéthoscope"
+    },
+    {
+      "language_code": "tr",
+      "translation": "stetoskop"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سماعة الطبيب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herzschlag"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stetoskop",
+    "Stethescop",
+    "Sthetoskop",
+    "Stethokop",
+    "Stetoskob",
+    "Stethoscop"
+  ]
+}

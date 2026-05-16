@@ -1,0 +1,72 @@
+{
+  "lemma": "März",
+  "wortart": "Nomen",
+  "silben": "März",
+  "begriffserklaerung": "Der März ist der dritte Monat im Jahr. Er liegt zwischen Februar und April und gehört zum Frühling.",
+  "beispielsatz": "Im März blühen die ersten Blumen und die Tage werden wieder länger.",
+  "rechtschreibstrategie": "Das Wort „März\" endet auf ä + rz. Das ä klingt kurz und hell. Denk daran: März reimt sich auf „Herz\" – beide enden auf -ärz/-erz!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "März.webp",
+  "audio_datei": "März.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "March"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mars"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Mart"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مارس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Februar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "April"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der März",
+    "plural": "die Märze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der März",
+        "genitiv": "des März / des Märzes",
+        "dativ": "dem März",
+        "akkusativ": "den März"
+      },
+      "plural": {
+        "nominativ": "die Märze",
+        "genitiv": "der Märze",
+        "dativ": "den Märzen",
+        "akkusativ": "die Märze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Merz",
+    "Maerz",
+    "Märtz",
+    "Mätz",
+    "Märs"
+  ]
+}

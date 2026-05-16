@@ -1,0 +1,52 @@
+{
+  "lemma": "Schmetterling",
+  "wortart": "Nomen",
+  "silben": "Schmet-ter-ling",
+  "beispielsatz": "Der bunte Schmetterling fliegt von Blume zu Blume und saugt Nektar.",
+  "begriffserklaerung": "Ein Schmetterling ist ein Insekt mit großen, bunten Flügeln. Er schlüpft aus einer Raupe und fliegt tagsüber zu Blüten.",
+  "rechtschreibstrategie": "Sprich 'Schmet-ter-ling' laut in Silben. Das 'e' in 'ter' ist kurz – deshalb braucht das Wort zwei 't' hintereinander.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schmetterling"
+  ],
+  "bild_datei": "Schmetterling.webp",
+  "audio_datei": "Schmetterling.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "butterfly" },
+    { "language_code": "fr", "translation": "papillon" },
+    { "language_code": "tr", "translation": "kelebek" },
+    { "language_code": "ar", "translation": "فراشة" }
+  ],
+  "beziehungen": [
+    { "relation_type": "synonym",   "target_lemma": "Falter" },
+    { "relation_type": "word_field", "target_lemma": "Insekt" },
+    { "relation_type": "word_field", "target_lemma": "Blume" }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Schmetterling",
+    "plural": "Schmetterlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schmetterling",
+        "genitiv": "des Schmetterlings",
+        "dativ": "dem Schmetterling",
+        "akkusativ": "den Schmetterling"
+      },
+      "plural": {
+        "nominativ": "die Schmetterlinge",
+        "genitiv": "der Schmetterlinge",
+        "dativ": "den Schmetterlingen",
+        "akkusativ": "die Schmetterlinge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schmeterling",
+    "Schmetterlig",
+    "Smetterling",
+    "Schmedderling"
+  ]
+}

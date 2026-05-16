@@ -1,0 +1,82 @@
+{
+  "lemma": "Münze",
+  "wortart": "Nomen",
+  "silben": "Mün-ze",
+  "begriffserklaerung": "Eine Münze ist ein kleines, rundes Geldstück aus Metall. Münzen haben auf beiden Seiten ein Bild oder eine Zahl.",
+  "beispielsatz": "Ich finde eine glänzende Münze auf dem Boden und stecke sie in mein Sparschwein.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Mün-ze\". Du hörst ein „ü\" – denk an das Wort „münzen\". Das „n\" wird nur einmal geschrieben, weil das „ü\" lang klingt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "münz"
+  ],
+  "bild_datei": "Münze.webp",
+  "audio_datei": "Münze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pièce de monnaie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "madeni para"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عملة معدنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "münzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Münzautomat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldbörse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geldstück"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Münze",
+    "plural": "die Münzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Münze",
+        "genitiv": "der Münze",
+        "dativ": "der Münze",
+        "akkusativ": "die Münze"
+      },
+      "plural": {
+        "nominativ": "die Münzen",
+        "genitiv": "der Münzen",
+        "dativ": "den Münzen",
+        "akkusativ": "die Münzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Münse",
+    "Münße",
+    "Müntze",
+    "Münzze",
+    "Minze"
+  ]
+}

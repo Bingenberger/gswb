@@ -1,0 +1,86 @@
+{
+  "lemma": "Irrtum",
+  "wortart": "Nomen",
+  "silben": "Irr-tum",
+  "begriffserklaerung": "Ein Irrtum ist, wenn jemand etwas falsch denkt oder falsch versteht, ohne es absichtlich zu tun.",
+  "beispielsatz": "Das war ein Irrtum – ich habe das falsche Heft mitgenommen.",
+  "rechtschreibstrategie": "In „Irrtum\" steckt ein doppeltes „r\" – sprich das Wort langsam: „Irr-tum\". Das doppelte „r\" zeigt, dass das „i\" kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "irr"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Irrtum",
+    "plural": "die Irrtümer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Irrtum",
+        "genitiv": "des Irrtums",
+        "dativ": "dem Irrtum",
+        "akkusativ": "den Irrtum"
+      },
+      "plural": {
+        "nominativ": "die Irrtümer",
+        "genitiv": "der Irrtümer",
+        "dativ": "den Irrtümern",
+        "akkusativ": "die Irrtümer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Irtum",
+    "Irrthum",
+    "Irrtuhm",
+    "Irtuhm",
+    "Irrtumm"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mistake / error"
+    },
+    {
+      "language_code": "fr",
+      "translation": "erreur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanılgı / hata"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطأ / وهم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "irren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "irrtümlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fehler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Missverständnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verwechslung"
+    }
+  ],
+  "bild_datei": "Irrtum.webp",
+  "audio_datei": "Irrtum.mp3"
+}

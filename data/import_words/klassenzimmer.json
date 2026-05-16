@@ -1,0 +1,89 @@
+{
+  "lemma": "Klassenzimmer",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-zim-mer",
+  "begriffserklaerung": "Ein Klassenzimmer ist der Raum in der Schule, in dem du mit deiner Klasse lernst. Dort stehen Tische, Stühle und eine Tafel.",
+  "beispielsatz": "Jeden Morgen gehen wir in unser Klassenzimmer und hängen unsere Jacken auf.",
+  "rechtschreibstrategie": "Das Wort „Klassenzimmer\" ist aus zwei Wörtern zusammengesetzt: „Klasse\" und „Zimmer\". Schreib beide Teile einfach zusammen – dann stimmt die Schreibung!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "Zimmer"
+  ],
+  "bild_datei": "Klassenzimmer.webp",
+  "audio_datei": "Klassenzimmer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Klassenzimmer",
+    "plural": "die Klassenzimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Klassenzimmer",
+        "genitiv": "des Klassenzimmers",
+        "dativ": "dem Klassenzimmer",
+        "akkusativ": "das Klassenzimmer"
+      },
+      "plural": {
+        "nominativ": "die Klassenzimmer",
+        "genitiv": "der Klassenzimmer",
+        "dativ": "den Klassenzimmern",
+        "akkusativ": "die Klassenzimmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "classroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salle de classe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة الصف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulraum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klasenzimmer",
+    "Klassenzimer",
+    "Klazzenzimmer",
+    "Klasssenzimmer",
+    "Klassenzimmer",
+    "Klasenzimer"
+  ]
+}

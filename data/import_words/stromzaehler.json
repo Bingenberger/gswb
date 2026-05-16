@@ -1,0 +1,85 @@
+{
+  "lemma": "Stromzähler",
+  "wortart": "Nomen",
+  "silben": "Strom-zäh-ler",
+  "begriffserklaerung": "Ein Stromzähler ist ein Gerät, das misst, wie viel Strom in einem Haus oder einer Wohnung verbraucht wird. Er zeigt die Strommenge in Zahlen an.",
+  "beispielsatz": "Der Mann vom Energieunternehmen liest jeden Monat den Stromzähler ab.",
+  "rechtschreibstrategie": "Das Wort „Stromzähler\" ist aus zwei Wörtern zusammengesetzt: „Strom\" und „Zähler\". Das ä in „Zähler\" erkennst du, wenn du an das Wort „zählen\" denkst – da hörst du das ä deutlich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "zähl",
+    "Strom"
+  ],
+  "bild_datei": "Stromzähler.webp",
+  "audio_datei": "Stromzähler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stromzähler",
+    "plural": "die Stromzähler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stromzähler",
+        "genitiv": "des Stromzählers",
+        "dativ": "dem Stromzähler",
+        "akkusativ": "den Stromzähler"
+      },
+      "plural": {
+        "nominativ": "die Stromzähler",
+        "genitiv": "der Stromzähler",
+        "dativ": "den Stromzählern",
+        "akkusativ": "die Stromzähler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electricity meter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compteur électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik sayacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عداد الكهرباء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zähler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stromrechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stromzeler",
+    "Stromzeähler",
+    "Stromzäler",
+    "Stромzähler",
+    "Stromzähller",
+    "Stromzehler"
+  ]
+}

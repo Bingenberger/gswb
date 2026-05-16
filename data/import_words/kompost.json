@@ -1,0 +1,82 @@
+{
+  "lemma": "Kompost",
+  "wortart": "Nomen",
+  "silben": "Kom-post",
+  "begriffserklaerung": "Kompost ist verrottetes Obst, Gemüse und Pflanzenreste, das im Garten als natürlicher Dünger für die Erde genutzt wird.",
+  "beispielsatz": "Wir werfen die Bananenschalen auf den Kompost im Garten.",
+  "rechtschreibstrategie": "Sprich das Wort in zwei Teile: Kom-post. Denke an das „p\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kompost"
+  ],
+  "bild_datei": "Kompost.webp",
+  "audio_datei": "Kompost.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "compost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compost"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kompost"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سماد عضوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kompostieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Komposthaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dünger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dünger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kompost",
+    "plural": "die Komposte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kompost",
+        "genitiv": "des Komposts",
+        "dativ": "dem Kompost",
+        "akkusativ": "den Kompost"
+      },
+      "plural": {
+        "nominativ": "die Komposte",
+        "genitiv": "der Komposte",
+        "dativ": "den Komposts",
+        "akkusativ": "die Komposte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Compost",
+    "Komppost",
+    "Gompost",
+    "Konpost",
+    "Kompots"
+  ]
+}

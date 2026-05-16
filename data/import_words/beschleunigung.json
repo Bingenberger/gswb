@@ -1,0 +1,88 @@
+{
+  "lemma": "Beschleunigung",
+  "wortart": "Nomen",
+  "silben": "Be-schleu-ni-gung",
+  "begriffserklaerung": "Eine Beschleunigung bedeutet, dass etwas schneller wird. Zum Beispiel wird ein Auto schneller, wenn man aufs Gas drückt.",
+  "beispielsatz": "Beim Start des Raketenautos spürten wir eine starke Beschleunigung.",
+  "rechtschreibstrategie": "Das Wort steckt in „beschleunigen\" – leite es davon ab: be-schleu-ni-gen → Be-schleu-ni-gung. Achte auf das „eu\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schleunig",
+    "beschleunigen"
+  ],
+  "bild_datei": "Beschleunigung.webp",
+  "audio_datei": "Beschleunigung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Beschleunigung",
+    "plural": "die Beschleunigungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Beschleunigung",
+        "genitiv": "der Beschleunigung",
+        "dativ": "der Beschleunigung",
+        "akkusativ": "die Beschleunigung"
+      },
+      "plural": {
+        "nominativ": "die Beschleunigungen",
+        "genitiv": "der Beschleunigungen",
+        "dativ": "den Beschleunigungen",
+        "akkusativ": "die Beschleunigungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "acceleration"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accélération"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hızlanma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسارع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschleunigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schleunig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Temposteigerung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschwindigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bremsung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beschleuniegung",
+    "Beschleinigung",
+    "Bescleunigung",
+    "Beschleunigunk",
+    "Beschlöinigung"
+  ]
+}

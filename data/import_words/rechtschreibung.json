@@ -1,0 +1,84 @@
+{
+  "lemma": "Rechtschreibung",
+  "wortart": "Nomen",
+  "silben": "Recht-schrei-bung",
+  "begriffserklaerung": "Die Rechtschreibung sind alle Regeln, die erklären, wie man Wörter richtig schreibt.",
+  "beispielsatz": "In der Schule üben wir jeden Tag unsere Rechtschreibung.",
+  "rechtschreibstrategie": "Das Wort „Rechtschreibung\" besteht aus drei Teilen: „recht\" + „schreib\" + „ung\". Sprich alle Teile deutlich mit, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "recht",
+    "schreib"
+  ],
+  "bild_datei": "Rechtschreibung.webp",
+  "audio_datei": "Rechtschreibung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rechtschreibung",
+    "plural": "die Rechtschreibungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rechtschreibung",
+        "genitiv": "der Rechtschreibung",
+        "dativ": "der Rechtschreibung",
+        "akkusativ": "die Rechtschreibung"
+      },
+      "plural": {
+        "nominativ": "die Rechtschreibungen",
+        "genitiv": "der Rechtschreibungen",
+        "dativ": "den Rechtschreibungen",
+        "akkusativ": "die Rechtschreibungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spelling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "orthographe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الإملاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "recht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Diktat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grammatik"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Orthografie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rechtschreibbung",
+    "Rechtscheibung",
+    "Rechtschreipung",
+    "Regtschreibung",
+    "Rechtschreibunk"
+  ]
+}

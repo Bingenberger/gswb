@@ -1,0 +1,81 @@
+{
+  "lemma": "Glas",
+  "wortart": "Nomen",
+  "silben": "Glas",
+  "begriffserklaerung": "Ein Glas ist ein durchsichtiger Behälter zum Trinken oder Aufbewahren. Es wird aus hartem, durchsichtigem Material hergestellt.",
+  "beispielsatz": "Ich trinke mein Wasser aus einem Glas.",
+  "rechtschreibstrategie": "Verlängere das Wort: Glas → Glä-ser. Am Ende hörst du jetzt das „s\" deutlich – deshalb schreibt man Glas mit einem „s\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Glas"
+  ],
+  "bild_datei": "Glas.webp",
+  "audio_datei": "Glas.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bardak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glasscheibe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gläsern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkglas"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Glas",
+    "plural": "die Gläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Glas",
+        "genitiv": "des Glases",
+        "dativ": "dem Glas",
+        "akkusativ": "das Glas"
+      },
+      "plural": {
+        "nominativ": "die Gläser",
+        "genitiv": "der Gläser",
+        "dativ": "den Gläsern",
+        "akkusativ": "die Gläser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Glaß",
+    "Glass",
+    "Glas's",
+    "Glaas"
+  ]
+}

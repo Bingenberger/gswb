@@ -1,0 +1,78 @@
+{
+  "lemma": "Matrose",
+  "wortart": "Nomen",
+  "silben": "Mat-ro-se",
+  "begriffserklaerung": "Ein Matrose arbeitet auf einem Schiff. Er hilft beim Steuern, beim Laden und beim Pflegen des Schiffes.",
+  "beispielsatz": "Der Matrose klettert den Mast des großen Segelschiffes hinauf.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Mat-ro-se. Achte darauf, dass nur ein „t\" in der Mitte steht.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Matros-"
+  ],
+  "bild_datei": "Matrose.webp",
+  "audio_datei": "Matrose.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sailor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matelot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denizci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَحَّار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Matrosen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Seemann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Matrose",
+    "plural": "die Matrosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Matrose",
+        "genitiv": "des Matrosen",
+        "dativ": "dem Matrosen",
+        "akkusativ": "den Matrosen"
+      },
+      "plural": {
+        "nominativ": "die Matrosen",
+        "genitiv": "der Matrosen",
+        "dativ": "den Matrosen",
+        "akkusativ": "die Matrosen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mattrose",
+    "Matrohse",
+    "Matrohße",
+    "Matrosse",
+    "Matroze"
+  ]
+}

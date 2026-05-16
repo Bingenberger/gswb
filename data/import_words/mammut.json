@@ -1,0 +1,74 @@
+{
+  "lemma": "Mammut",
+  "wortart": "Nomen",
+  "silben": "Mam-mut",
+  "begriffserklaerung": "Ein Mammut ist ein riesiges, ausgestorbenes Tier, das wie ein Elefant aussah und lange, gebogene Stoßzähne sowie ein dickes, zottiges Fell hatte. Mammuts lebten vor Tausenden von Jahren in der Eiszeit.",
+  "beispielsatz": "Im Museum konnten wir das Skelett eines echten Mammuts bestaunen.",
+  "rechtschreibstrategie": "Das Wort „Mammut\" schreibt man mit zwei „m\" in der Mitte, weil das erste „a\" kurz gesprochen wird. Sprich es laut: Mamm-mut – dann hörst du, wie kurz das „a\" klingt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mammut"
+  ],
+  "bild_datei": "Mammut.webp",
+  "audio_datei": "Mammut.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mammut",
+    "plural": "die Mammuts",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mammut",
+        "genitiv": "des Mammuts",
+        "dativ": "dem Mammut",
+        "akkusativ": "das Mammut"
+      },
+      "plural": {
+        "nominativ": "die Mammuts",
+        "genitiv": "der Mammuts",
+        "dativ": "den Mammuts",
+        "akkusativ": "die Mammuts"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mammoth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mammouth"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mamut"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ماموث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elefant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eiszeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dinosaurier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mamut",
+    "Mammuth",
+    "Mamuth",
+    "Mammot",
+    "Mamot"
+  ]
+}

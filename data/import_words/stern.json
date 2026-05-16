@@ -1,0 +1,82 @@
+{
+  "lemma": "Stern",
+  "wortart": "Nomen",
+  "silben": "Stern",
+  "begriffserklaerung": "Ein Stern ist ein riesiger leuchtender Ball aus Gas, der weit oben am Himmel leuchtet. Nachts kannst du viele Sterne sehen.",
+  "beispielsatz": "Heute Nacht leuchtet ein heller Stern am Himmel.",
+  "rechtschreibstrategie": "Das Wort „Stern\" hat keinen Doppelbuchstaben und kein Dehnungs-h. Verlängere es: „Ster-ne\" – dann hörst du alle Buchstaben deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stern"
+  ],
+  "bild_datei": "Stern.webp",
+  "audio_datei": "Stern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "star"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étoile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıldız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sternförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sternschnuppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gestirn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stern",
+    "plural": "die Sterne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stern",
+        "genitiv": "des Sterns",
+        "dativ": "dem Stern",
+        "akkusativ": "den Stern"
+      },
+      "plural": {
+        "nominativ": "die Sterne",
+        "genitiv": "der Sterne",
+        "dativ": "den Sternen",
+        "akkusativ": "die Sterne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schtern",
+    "Sdern",
+    "Stärn",
+    "Stärne",
+    "Sthern"
+  ]
+}

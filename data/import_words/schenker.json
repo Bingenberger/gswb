@@ -1,0 +1,83 @@
+{
+  "lemma": "Schenker",
+  "wortart": "Nomen",
+  "silben": "Schen-ker",
+  "begriffserklaerung": "Ein Schenker ist jemand, der einem anderen Menschen etwas schenkt, also ein Geschenk gibt.",
+  "beispielsatz": "Der großzügige Schenker überraschte seine Freundin mit einem bunten Paket.",
+  "rechtschreibstrategie": "Denk an das Wort „schenken\": Schen-ken → Schen-ker. Das „ck\" fehlt hier – schreib einfach „Schen-ker\" mit „k\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schenk"
+  ],
+  "bild_datei": "Schenker.webp",
+  "audio_datei": "Schenker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "giver / donor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "donateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hediye veren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مانح / مُهدٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geber"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schenker",
+    "plural": "die Schenker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schenker",
+        "genitiv": "des Schenkers",
+        "dativ": "dem Schenker",
+        "akkusativ": "den Schenker"
+      },
+      "plural": {
+        "nominativ": "die Schenker",
+        "genitiv": "der Schenker",
+        "dativ": "den Schenkern",
+        "akkusativ": "die Schenker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schencker",
+    "Scenker",
+    "Schenker",
+    "Sченker",
+    "Schengker",
+    "Schencar"
+  ]
+}

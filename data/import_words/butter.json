@@ -1,0 +1,82 @@
+{
+  "lemma": "Butter",
+  "wortart": "Nomen",
+  "silben": "But-ter",
+  "begriffserklaerung": "Butter ist ein weiches, gelbes Streichfett, das aus Milch hergestellt wird. Man schmiert sie auf Brot oder verwendet sie beim Kochen und Backen.",
+  "beispielsatz": "Mama streicht die Butter dick auf mein Frühstücksbrot.",
+  "rechtschreibstrategie": "Sprich das Wort laut: But-ter. Nach dem kurzen „u\" hörst du ein doppeltes „t\" – deshalb schreibt man „tt\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Butter"
+  ],
+  "bild_datei": "Butter.webp",
+  "audio_datei": "Butter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "butter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "beurre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tereyağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زبدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "buttern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Butterbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Butter",
+    "plural": "die Buttersorten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Butter",
+        "genitiv": "der Butter",
+        "dativ": "der Butter",
+        "akkusativ": "die Butter"
+      },
+      "plural": {
+        "nominativ": "die Buttersorten",
+        "genitiv": "der Buttersorten",
+        "dativ": "den Buttersorten",
+        "akkusativ": "die Buttersorten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Buder",
+    "Budder",
+    "Butder",
+    "Butten",
+    "Butar"
+  ]
+}

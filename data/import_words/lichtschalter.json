@@ -1,0 +1,83 @@
+{
+  "lemma": "Lichtschalter",
+  "wortart": "Nomen",
+  "silben": "Licht-schal-ter",
+  "begriffserklaerung": "Ein Lichtschalter ist ein kleiner Knopf oder Hebel an der Wand. Wenn du ihn drückst, geht das Licht an oder aus.",
+  "beispielsatz": "Tim drückt den Lichtschalter, und das Zimmer wird hell.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Licht\" und „Schalter\". Sprich beide Teile laut: LICHT – SCHAL – TER. Das „t\" am Ende von „Licht\" hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Licht",
+    "schalten"
+  ],
+  "bild_datei": "Lichtschalter.webp",
+  "audio_datei": "Lichtschalter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lichtschalter",
+    "plural": "die Lichtschalter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lichtschalter",
+        "genitiv": "des Lichtschalters",
+        "dativ": "dem Lichtschalter",
+        "akkusativ": "den Lichtschalter"
+      },
+      "plural": {
+        "nominativ": "die Lichtschalter",
+        "genitiv": "der Lichtschalter",
+        "dativ": "den Lichtschaltern",
+        "akkusativ": "die Lichtschalter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "light switch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interrupteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ışık anahtarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح الإضاءة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kabel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lichtschalten",
+    "Lichtschaltten",
+    "Lihctschalter",
+    "Lichtschallder",
+    "Lichschalter"
+  ]
+}

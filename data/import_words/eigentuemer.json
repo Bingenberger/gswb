@@ -1,0 +1,90 @@
+{
+  "lemma": "Eigentümer",
+  "wortart": "Nomen",
+  "silben": "Ei-gen-tü-mer",
+  "begriffserklaerung": "Ein Eigentümer ist eine Person, der etwas gehört – zum Beispiel ein Haus, ein Fahrrad oder ein Tier.",
+  "beispielsatz": "Der Eigentümer des Hundes sucht sein Tier im Park.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus „eigen\" und „tümen\" zusammen. Achte auf das Umlaut-Ü in „Tümer\" und das „ei\" am Anfang – sprich es deutlich: EI-gen-TÜ-mer.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "eigen",
+    "Eigentum"
+  ],
+  "bild_datei": "Eigentümer.webp",
+  "audio_datei": "Eigentümer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "owner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "propriétaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مالك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eigentum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eigentümerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Besitzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eigentümer",
+    "plural": "die Eigentümer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eigentümer",
+        "genitiv": "des Eigentümers",
+        "dativ": "dem Eigentümer",
+        "akkusativ": "den Eigentümer"
+      },
+      "plural": {
+        "nominativ": "die Eigentümer",
+        "genitiv": "der Eigentümer",
+        "dativ": "den Eigentümern",
+        "akkusativ": "die Eigentümer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eigentühmer",
+    "Aigentümer",
+    "Eigentümer",
+    "Eigentühmmer",
+    "Eigentümmer",
+    "Eignentümer",
+    "Eitentümer"
+  ]
+}

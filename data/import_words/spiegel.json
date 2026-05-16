@@ -1,0 +1,79 @@
+{
+  "lemma": "Spiegel",
+  "wortart": "Nomen",
+  "silben": "Spie-gel",
+  "begriffserklaerung": "Ein Spiegel ist eine glatte, glänzende Fläche, meistens aus Glas, in der du dich selbst sehen kannst.",
+  "beispielsatz": "Morgens schaut Lena in den Spiegel, um sich die Haare zu kämmen.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Spie-gel\" – sprich es deutlich: Spiiiegel. Das „ie\" klingt lang, deshalb schreibst du i und e zusammen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Spiegel"
+  ],
+  "bild_datei": "Spiegel.webp",
+  "audio_datei": "Spiegel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spiegel",
+    "plural": "die Spiegel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spiegel",
+        "genitiv": "des Spiegels",
+        "dativ": "dem Spiegel",
+        "akkusativ": "den Spiegel"
+      },
+      "plural": {
+        "nominativ": "die Spiegel",
+        "genitiv": "der Spiegel",
+        "dativ": "den Spiegeln",
+        "akkusativ": "die Spiegel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mirror"
+    },
+    {
+      "language_code": "fr",
+      "translation": "miroir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayna"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرآة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spiegeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiegelbild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glas"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spigel",
+    "Spigegel",
+    "Spiegl",
+    "Spiegel",
+    "Spiegell",
+    "Spielgel"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Salz",
+  "wortart": "Nomen",
+  "silben": "Salz",
+  "begriffserklaerung": "Salz ist ein weißes Pulver oder kleine weiße Körner, die man zum Kochen benutzt. Es macht das Essen würzig und schmeckt salzig.",
+  "beispielsatz": "Mama streut etwas Salz in die Suppe, damit sie besser schmeckt.",
+  "rechtschreibstrategie": "„Salz\" schreibt man mit tz am Ende? Nein! Hier hörst du nur ein einfaches „z\" – und der Vokal „a\" ist lang. Deshalb steht kein Doppelkonsonant: S-a-l-z.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "salz"
+  ],
+  "bild_datei": "Salz.webp",
+  "audio_datei": "Salz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِلح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "salzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "salzig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salzstreuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zucker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewürz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Salz",
+    "plural": "die Salze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Salz",
+        "genitiv": "des Salzes",
+        "dativ": "dem Salz",
+        "akkusativ": "das Salz"
+      },
+      "plural": {
+        "nominativ": "die Salze",
+        "genitiv": "der Salze",
+        "dativ": "den Salzen",
+        "akkusativ": "die Salze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Saltz",
+    "Zalz",
+    "Sallz",
+    "Salts",
+    "Zals"
+  ]
+}

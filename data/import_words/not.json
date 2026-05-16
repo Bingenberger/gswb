@@ -1,0 +1,89 @@
+{
+  "lemma": "Not",
+  "wortart": "Nomen",
+  "silben": "Not",
+  "begriffserklaerung": "Not bedeutet, dass jemand in einer sehr schwierigen Lage ist und dringend Hilfe braucht. Man hat zum Beispiel nicht genug zu essen oder ist in großer Gefahr.",
+  "beispielsatz": "Die Familie war in großer Not und brauchte dringend Hilfe.",
+  "rechtschreibstrategie": "Das Wort „Not\" schreibst du mit einem großen N, weil es ein Nomen ist. Es hat nur einen kurzen Vokal, aber keinen Doppelkonsonanten – merke es dir einfach!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "not"
+  ],
+  "bild_datei": "Not.webp",
+  "audio_datei": "Not.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "distress / need"
+    },
+    {
+      "language_code": "fr",
+      "translation": "détresse / misère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çaresizlik / ihtiyaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضائقة / حاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nötig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notfall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Elend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bedrängnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Armut"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Not",
+    "plural": "die Nöte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Not",
+        "genitiv": "der Not",
+        "dativ": "der Not",
+        "akkusativ": "die Not"
+      },
+      "plural": {
+        "nominativ": "die Nöte",
+        "genitiv": "der Nöte",
+        "dativ": "den Nöten",
+        "akkusativ": "die Nöte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Noth",
+    "noht",
+    "not",
+    "Nott"
+  ]
+}

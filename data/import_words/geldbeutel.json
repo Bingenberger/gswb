@@ -1,0 +1,92 @@
+{
+  "lemma": "Geldbeutel",
+  "wortart": "Nomen",
+  "silben": "Geld-beu-tel",
+  "begriffserklaerung": "Ein Geldbeutel ist eine kleine Tasche, in der man Münzen und Geldscheine aufbewahrt und mit sich trägt.",
+  "beispielsatz": "Mama steckt ihr Wechselgeld in den Geldbeutel.",
+  "rechtschreibstrategie": "„Geldbeutel\" ist ein Bausteinwort aus „Geld\" und „Beutel\". Schreibe beide Teile zusammen und denke daran: „Geld\" endet auf -ld und „Beutel\" hat ein eu in der Mitte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Geld",
+    "Beutel"
+  ],
+  "bild_datei": "Geldbeutel.webp",
+  "audio_datei": "Geldbeutel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wallet / purse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte-monnaie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cüzdan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محفظة نقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beutel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Portemonnaie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brieftasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geldschein"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geldbeutel",
+    "plural": "die Geldbeutel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geldbeutel",
+        "genitiv": "des Geldbeutels",
+        "dativ": "dem Geldbeutel",
+        "akkusativ": "den Geldbeutel"
+      },
+      "plural": {
+        "nominativ": "die Geldbeutel",
+        "genitiv": "der Geldbeutel",
+        "dativ": "den Geldbeuteln",
+        "akkusativ": "die Geldbeutel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geldbäutel",
+    "Geltbeutel",
+    "Geldbeutal",
+    "Geldbäutal",
+    "Geldbeuttel",
+    "Geldbeiutel"
+  ]
+}

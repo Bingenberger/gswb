@@ -1,0 +1,85 @@
+{
+  "lemma": "Fischotter",
+  "wortart": "Nomen",
+  "silben": "Fisch-ot-ter",
+  "begriffserklaerung": "Der Fischotter ist ein kleines, pelziges Tier, das am Wasser lebt und sehr gut schwimmen kann. Er frisst vor allem Fische.",
+  "beispielsatz": "Der Fischotter gleitet flink durch den Fluss und fängt einen Fisch.",
+  "rechtschreibstrategie": "Das Wort „Fischotter\" besteht aus zwei Teilen: „Fisch\" und „Otter\". Das „tt\" in „Otter\" schreibt man doppelt, weil das „o\" davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fisch",
+    "Otter"
+  ],
+  "bild_datei": "Fischotter.webp",
+  "audio_datei": "Fischotter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fischotter",
+    "plural": "die Fischotter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fischotter",
+        "genitiv": "des Fischotters",
+        "dativ": "dem Fischotter",
+        "akkusativ": "den Fischotter"
+      },
+      "plural": {
+        "nominativ": "die Fischotter",
+        "genitiv": "der Fischotter",
+        "dativ": "den Fischottern",
+        "akkusativ": "die Fischotter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "otter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loutre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su samuru"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قضاعة السمك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Otter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wassertier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fischoder",
+    "Fischoter",
+    "Fischotter",
+    "Visschotter",
+    "Fischhotter",
+    "Fischottter"
+  ]
+}

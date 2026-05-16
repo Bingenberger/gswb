@@ -1,0 +1,89 @@
+{
+  "lemma": "Gabe",
+  "wortart": "Nomen",
+  "silben": "Ga-be",
+  "begriffserklaerung": "Eine Gabe ist etwas, das man jemandem schenkt oder gibt. Es kann auch eine besondere Fähigkeit sein, die jemand hat.",
+  "beispielsatz": "Die Lehrerin brachte eine kleine Gabe für die kranke Schülerin mit.",
+  "rechtschreibstrategie": "Denk an das Verb „geben\" – daraus wird „Gabe\". Das „a\" ist lang, deshalb schreibt man nur ein „b\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "geb"
+  ],
+  "bild_datei": "Gabe.webp",
+  "audio_datei": "Gabe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gabe",
+    "plural": "die Gaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gabe",
+        "genitiv": "der Gabe",
+        "dativ": "der Gabe",
+        "akkusativ": "die Gabe"
+      },
+      "plural": {
+        "nominativ": "die Gaben",
+        "genitiv": "der Gaben",
+        "dativ": "den Gaben",
+        "akkusativ": "die Gaben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gift"
+    },
+    {
+      "language_code": "fr",
+      "translation": "don"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hediye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Talent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fähigkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gaabe",
+    "Gahbe",
+    "Gabbe",
+    "Gape"
+  ]
+}

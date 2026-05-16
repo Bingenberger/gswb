@@ -1,0 +1,81 @@
+{
+  "lemma": "Maurer",
+  "wortart": "Nomen",
+  "silben": "Mau-rer",
+  "begriffserklaerung": "Ein Maurer ist ein Handwerker, der Häuser und Mauern aus Steinen und Ziegeln baut.",
+  "beispielsatz": "Der Maurer legt Stein für Stein und baut so eine hohe Mauer.",
+  "rechtschreibstrategie": "Denk an das Wort „Mauer\" – ein Maurer baut Mauern! Das Wort „Maurer\" steckt in „Mauer\" drin.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Mauer"
+  ],
+  "bild_datei": "Maurer.webp",
+  "audio_datei": "Maurer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bricklayer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maçon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duvarcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بنّاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mauern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziegel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Maurer",
+    "plural": "die Maurer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Maurer",
+        "genitiv": "des Maurers",
+        "dativ": "dem Maurer",
+        "akkusativ": "den Maurer"
+      },
+      "plural": {
+        "nominativ": "die Maurer",
+        "genitiv": "der Maurer",
+        "dativ": "den Maurern",
+        "akkusativ": "die Maurer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maurrer",
+    "Mourer",
+    "Mauhrer",
+    "Maura"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Kutscher",
+  "wortart": "Nomen",
+  "silben": "Kut-scher",
+  "begriffserklaerung": "Ein Kutscher ist ein Mann, der eine Kutsche fährt und dabei die Pferde lenkt.",
+  "beispielsatz": "Der Kutscher hält die Zügel fest und lenkt die Pferde über die Straße.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kut-scher\". Nach dem kurzen „u\" kommt ein Doppelkonsonant – hier „tsch\". Denk auch an das „sch\" am Ende!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kutsch"
+  ],
+  "bild_datei": "Kutscher.webp",
+  "audio_datei": "Kutscher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kutscher",
+    "plural": "die Kutscher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kutscher",
+        "genitiv": "des Kutschers",
+        "dativ": "dem Kutscher",
+        "akkusativ": "den Kutscher"
+      },
+      "plural": {
+        "nominativ": "die Kutscher",
+        "genitiv": "der Kutscher",
+        "dativ": "den Kutschern",
+        "akkusativ": "die Kutscher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coachman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cocher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arabacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائق العربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kutsche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kutscherin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kutsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuhrmann"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kutsher",
+    "Kutcher",
+    "Kudscher",
+    "Kuttscher",
+    "Kutschher"
+  ]
+}

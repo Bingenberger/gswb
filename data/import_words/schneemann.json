@@ -1,0 +1,84 @@
+{
+  "lemma": "Schneemann",
+  "wortart": "Nomen",
+  "silben": "Schnee-mann",
+  "begriffserklaerung": "Ein Schneemann ist eine Figur, die man im Winter aus Schnee baut. Meistens hat er drei runde Schneebälle übereinander, eine Karotte als Nase und einen Schal um den Hals.",
+  "beispielsatz": "Im Winter bauten wir einen großen Schneemann mit Karotte und Hut im Garten.",
+  "rechtschreibstrategie": "Der Schneemann besteht aus zwei Wörtern: „Schnee\" und „Mann\". Beide werden einfach zusammengeschrieben. Das „ee\" in Schnee sprichst du lang – das sind zwei e nebeneinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Mann"
+  ],
+  "bild_datei": "Schneemann.webp",
+  "audio_datei": "Schneemann.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schneemann",
+    "plural": "die Schneemänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schneemann",
+        "genitiv": "des Schneemanns",
+        "dativ": "dem Schneemann",
+        "akkusativ": "den Schneemann"
+      },
+      "plural": {
+        "nominativ": "die Schneemänner",
+        "genitiv": "der Schneemänner",
+        "dativ": "den Schneemännern",
+        "akkusativ": "die Schneemänner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snowman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bonhomme de neige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kardan adam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رجل الثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneeball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlitten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schneeman",
+    "Schniemann",
+    "Schnnemann",
+    "Sneemann",
+    "Scheeemann"
+  ]
+}

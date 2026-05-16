@@ -1,0 +1,86 @@
+{
+  "lemma": "Ding",
+  "wortart": "Nomen",
+  "silben": "Ding",
+  "begriffserklaerung": "Ein Ding ist ein Gegenstand oder eine Sache, die man anfassen oder sehen kann. Man benutzt das Wort, wenn man nicht genau weiß, wie etwas heißt.",
+  "beispielsatz": "Was ist das für ein komisches Ding auf deinem Schreibtisch?",
+  "rechtschreibstrategie": "Das Wort „Ding\" endet auf -ng. Den Laut hörst du deutlich, wenn du laut sprichst: D-i-ng. Schreib einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Ding"
+  ],
+  "bild_datei": "Ding.webp",
+  "audio_datei": "Ding.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chose"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şey"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شيء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dinge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dingfest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegenstand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Objekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ding",
+    "plural": "die Dinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ding",
+        "genitiv": "des Ding(e)s",
+        "dativ": "dem Ding",
+        "akkusativ": "das Ding"
+      },
+      "plural": {
+        "nominativ": "die Dinge",
+        "genitiv": "der Dinge",
+        "dativ": "den Dingen",
+        "akkusativ": "die Dinge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ding",
+    "Dingk",
+    "Dieng",
+    "Ting",
+    "Dingg"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Hitze",
+  "wortart": "Nomen",
+  "silben": "Hit-ze",
+  "begriffserklaerung": "Hitze ist sehr starke Wärme, die man deutlich spüren kann – zum Beispiel im Sommer draußen oder in der Nähe eines Feuers.",
+  "beispielsatz": "Im Sommer ist die Hitze so groß, dass wir am liebsten den ganzen Tag im Schwimmbad bleiben.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „tz\" – das ist das Kürzezeichen. Sprich laut: Hit-ze – du hörst, wie kurz das „i\" klingt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hitze",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hitze",
+        "genitiv": "der Hitze",
+        "dativ": "der Hitze",
+        "akkusativ": "die Hitze"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "heiß",
+    "hitz"
+  ],
+  "bild_datei": "Hitze.webp",
+  "audio_datei": "Hitze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "heat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıcaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heiß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erhitzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hize",
+    "Hitse",
+    "Hizze",
+    "Hitsse",
+    "Hitce"
+  ]
+}

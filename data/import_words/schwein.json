@@ -1,0 +1,83 @@
+{
+  "lemma": "Schwein",
+  "wortart": "Nomen",
+  "silben": "Schwein",
+  "begriffserklaerung": "Ein Schwein ist ein Nutztier, das auf dem Bauernhof lebt. Es hat eine rosa Haut, eine Ringelnase und einen kleinen Ringelschwanz. Schweine suhlen sich gerne im Schlamm, um sich abzukühlen.",
+  "beispielsatz": "Das Schwein grunzt laut und wälzt sich im Schlamm.",
+  "rechtschreibstrategie": "Das Wort „Schwein\" hat den langen Vokal „ei\". Denk daran: Ein Schwein hat zwei Augen – und „ei\" hat auch zwei Buchstaben: e und i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Schwein"
+  ],
+  "bild_datei": "Schwein.webp",
+  "audio_datei": "Schwein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pig"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cochon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "domuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنزير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schweinerei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schweinisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sau"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schwein",
+    "plural": "die Schweine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schwein",
+        "genitiv": "des Schweines",
+        "dativ": "dem Schwein",
+        "akkusativ": "das Schwein"
+      },
+      "plural": {
+        "nominativ": "die Schweine",
+        "genitiv": "der Schweine",
+        "dativ": "den Schweinen",
+        "akkusativ": "die Schweine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwein",
+    "Schwain",
+    "Schwaein",
+    "Swein",
+    "Shwein",
+    "Schweyn"
+  ]
+}

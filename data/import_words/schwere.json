@@ -1,0 +1,82 @@
+{
+  "lemma": "Schwere",
+  "wortart": "Nomen",
+  "silben": "Schwe-re",
+  "begriffserklaerung": "Die Schwere beschreibt, wie schwer etwas ist. Sie zeigt, wie stark die Erde etwas nach unten zieht.",
+  "beispielsatz": "Die Schwere des Rucksacks machte Lisa müde.",
+  "rechtschreibstrategie": "Denke an das Wort „schwer\" – daraus wird „Schwere\". Das e am Ende einfach anhängen!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schwer"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schwere",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schwere",
+        "genitiv": "der Schwere",
+        "dativ": "der Schwere",
+        "akkusativ": "die Schwere"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwähre",
+    "Schwehre",
+    "Schware",
+    "Swere",
+    "Schwerre"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "heaviness / gravity"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lourdeur / pesanteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağırlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثِقَل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erschweren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewicht"
+    }
+  ],
+  "bild_datei": "Schwere.webp",
+  "audio_datei": "Schwere.mp3"
+}

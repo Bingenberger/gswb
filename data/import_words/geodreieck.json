@@ -1,0 +1,85 @@
+{
+  "lemma": "Geodreieck",
+  "wortart": "Nomen",
+  "silben": "Geo-drei-eck",
+  "begriffserklaerung": "Ein Geodreieck ist ein durchsichtiges Lineal in Dreiecksform. Man benutzt es in der Schule zum Messen von Winkeln und zum Zeichnen gerader Linien.",
+  "beispielsatz": "Mit dem Geodreieck zeichne ich einen genauen rechten Winkel in mein Heft.",
+  "rechtschreibstrategie": "Geodreieck ist ein Bausteinwort aus drei Teilen: „Geo\" (= Erde, Geometrie) + „drei\" + „Eck\". Sprich alle Teile laut mit: Geo-drei-eck!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Dreieck",
+    "Geo"
+  ],
+  "bild_datei": "Geodreieck.webp",
+  "audio_datei": "Geodreieck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "set square / protractor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rapporteur / équerre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iletki / gönye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منقلة / مسطرة مثلثية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geometrie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zirkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winkelmesser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geodreieck",
+    "plural": "die Geodreiecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geodreieck",
+        "genitiv": "des Geodreiecks",
+        "dativ": "dem Geodreieck",
+        "akkusativ": "das Geodreieck"
+      },
+      "plural": {
+        "nominativ": "die Geodreiecke",
+        "genitiv": "der Geodreiecke",
+        "dativ": "den Geodreiecken",
+        "akkusativ": "die Geodreiecke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geodreiek",
+    "Geotreieck",
+    "Geodreick",
+    "GeoDreieck",
+    "Geodreiecke",
+    "Geodreiieg"
+  ]
+}

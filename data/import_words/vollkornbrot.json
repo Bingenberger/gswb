@@ -1,0 +1,83 @@
+{
+  "lemma": "Vollkornbrot",
+  "wortart": "Nomen",
+  "silben": "Voll-korn-brot",
+  "begriffserklaerung": "Ein Vollkornbrot ist ein Brot, das aus dem ganzen Getreidekorn gebacken wird. Es ist dunkel und enthält viele gesunde Nährstoffe.",
+  "beispielsatz": "Mama schmiert mir jeden Morgen ein Vollkornbrot mit Butter und Käse.",
+  "rechtschreibstrategie": "Vollkornbrot ist ein zusammengesetztes Wort: voll + Korn + Brot. Sprich alle drei Teile deutlich: VOLL – KORN – BROT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brot",
+    "Korn"
+  ],
+  "bild_datei": "Vollkornbrot.webp",
+  "audio_datei": "Vollkornbrot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wholemeal bread"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pain complet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tam tahıllı ekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبز الحبوب الكاملة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Korn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weißbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Vollkornbrot",
+    "plural": "die Vollkornbrote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vollkornbrot",
+        "genitiv": "des Vollkornbrotes",
+        "dativ": "dem Vollkornbrot",
+        "akkusativ": "das Vollkornbrot"
+      },
+      "plural": {
+        "nominativ": "die Vollkornbrote",
+        "genitiv": "der Vollkornbrote",
+        "dativ": "den Vollkornbroten",
+        "akkusativ": "die Vollkornbrote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vollkornbrod",
+    "Volkkornbrot",
+    "Folkornbrot",
+    "Vollkormbrot",
+    "Vollkornbord"
+  ]
+}

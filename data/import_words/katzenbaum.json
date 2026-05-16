@@ -1,0 +1,85 @@
+{
+  "lemma": "Katzenbaum",
+  "wortart": "Nomen",
+  "silben": "Kat-zen-baum",
+  "begriffserklaerung": "Ein Katzenbaum ist ein großes Möbel oder Gestell für Katzen. Katzen können daran klettern, kratzen und sich ausruhen.",
+  "beispielsatz": "Unsere Katze schläft am liebsten ganz oben auf dem Katzenbaum.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Katze\" und „Baum\". Wenn du beide Teile kennst, kannst du das Wort leicht zusammenbauen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Katze",
+    "Baum"
+  ],
+  "bild_datei": "Katzenbaum.webp",
+  "audio_datei": "Katzenbaum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cat tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arbre à chat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kedi tırmanma ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة القطط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kratzbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Katzenkorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kletterwand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Katzenbaum",
+    "plural": "die Katzenbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Katzenbaum",
+        "genitiv": "des Katzenbaums",
+        "dativ": "dem Katzenbaum",
+        "akkusativ": "den Katzenbaum"
+      },
+      "plural": {
+        "nominativ": "die Katzenbäume",
+        "genitiv": "der Katzenbäume",
+        "dativ": "den Katzenbäumen",
+        "akkusativ": "die Katzenbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Katzenpaum",
+    "Katzenbaume",
+    "Kadsenbau",
+    "Katzenbam",
+    "Katzenbauhm",
+    "Catzenbom"
+  ]
+}

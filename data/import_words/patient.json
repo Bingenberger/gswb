@@ -1,0 +1,78 @@
+{
+  "lemma": "Patient",
+  "wortart": "Nomen",
+  "silben": "Pa-ti-ent",
+  "begriffserklaerung": "Ein Patient ist ein Mensch, der krank ist und von einem Arzt oder einer Ärztin behandelt wird.",
+  "beispielsatz": "Der Patient wartet im Wartezimmer auf den Arzt.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Pa-ti-ent. Am Ende hörst du „ent\" – schreibe es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Patient"
+  ],
+  "bild_datei": "Patient.webp",
+  "audio_datei": "Patient.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "patient"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patient"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hasta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مريض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Patientin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kranker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Patient",
+    "plural": "die Patienten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Patient",
+        "genitiv": "des Patienten",
+        "dativ": "dem Patienten",
+        "akkusativ": "den Patienten"
+      },
+      "plural": {
+        "nominativ": "die Patienten",
+        "genitiv": "der Patienten",
+        "dativ": "den Patienten",
+        "akkusativ": "die Patienten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Patzient",
+    "Pasiend",
+    "Pazient",
+    "Patiend",
+    "Patiendt"
+  ]
+}

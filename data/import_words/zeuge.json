@@ -1,0 +1,83 @@
+{
+  "lemma": "Zeuge",
+  "wortart": "Nomen",
+  "silben": "Zeu-ge",
+  "begriffserklaerung": "Ein Zeuge ist jemand, der etwas selbst gesehen oder gehört hat und darüber berichten kann.",
+  "beispielsatz": "Der Zeuge hat genau gesehen, wer das Fenster eingeworfen hat.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Zeu-ge. Das „eu\" klingt wie in „Eule\" – merke dir: Z-eu-ge!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "zeug"
+  ],
+  "bild_datei": "Zeuge.webp",
+  "audio_datei": "Zeuge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "witness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "témoin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tanık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاهد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bezeugen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeugenaussage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Augenzeuge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zeuge",
+    "plural": "die Zeugen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zeuge",
+        "genitiv": "des Zeugen",
+        "dativ": "dem Zeugen",
+        "akkusativ": "den Zeugen"
+      },
+      "plural": {
+        "nominativ": "die Zeugen",
+        "genitiv": "der Zeugen",
+        "dativ": "den Zeugen",
+        "akkusativ": "die Zeugen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeuge",
+    "Zeugge",
+    "Tsäuge",
+    "Zeugä",
+    "Zöuge",
+    "Zöige"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Seil",
+  "wortart": "Nomen",
+  "silben": "Seil",
+  "begriffserklaerung": "Ein Seil ist ein langes, dickes Stück aus gedrehten Fäden. Man kann damit Dinge festbinden oder daran klettern.",
+  "beispielsatz": "Die Kinder schwingen am dicken Seil in der Turnhalle.",
+  "rechtschreibstrategie": "Das Wort „Seil\" hat ein langes „ei\". Sprich es deutlich: S-ei-l. Das „ei\" hörst du klar – so schreibst du es auch!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Seil"
+  ],
+  "bild_datei": "Seil.webp",
+  "audio_datei": "Seil.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Seil",
+    "plural": "die Seile",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Seil",
+        "genitiv": "des Seils",
+        "dativ": "dem Seil",
+        "akkusativ": "das Seil"
+      },
+      "plural": {
+        "nominativ": "die Seile",
+        "genitiv": "der Seile",
+        "dativ": "den Seilen",
+        "akkusativ": "die Seile"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "seilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seilbahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abseilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strick"
+    }
+  ],
+  "fehlschreibungen": [
+    "Saiel",
+    "Seill",
+    "Zeil",
+    "Seiel",
+    "Siel"
+  ]
+}

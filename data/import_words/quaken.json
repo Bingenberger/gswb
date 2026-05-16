@@ -1,0 +1,90 @@
+{
+  "lemma": "quaken",
+  "wortart": "Verb",
+  "silben": "qua-ken",
+  "begriffserklaerung": "Quaken ist der Laut, den Frösche und Enten machen. Es klingt wie „quak, quak\".",
+  "beispielsatz": "Der Frosch sitzt auf dem Seerosenblatt und quakt laut.",
+  "rechtschreibstrategie": "Am Anfang steht Qu – in deutschen Wörtern schreibt man Qu immer mit u zusammen, nie nur ein Q allein!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [
+    "quak"
+  ],
+  "bild_datei": "quaken.webp",
+  "audio_datei": "quaken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "quaken",
+    "praesens": {
+      "ich": "quake",
+      "du": "quakst",
+      "er_sie_es": "quakt",
+      "wir": "quaken",
+      "ihr": "quakt",
+      "sie": "quaken"
+    },
+    "perfekt": {
+      "ich": "habe gequakt",
+      "du": "hast gequakt",
+      "er_sie_es": "hat gequakt",
+      "wir": "haben gequakt",
+      "ihr": "habt gequakt",
+      "sie": "haben gequakt"
+    },
+    "praeteritum": {
+      "ich": "quakte",
+      "du": "quaktest",
+      "er_sie_es": "quakte",
+      "wir": "quakten",
+      "ihr": "quaktet",
+      "sie": "quakten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to croak / to quack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coasser / cancaner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vraklamak / vakvaklamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنُقّ / يَقُوقئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Quaken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Quaker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ente"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "rufen"
+    }
+  ],
+  "fehlschreibungen": [
+    "kuaken",
+    "quacken",
+    "quaaken",
+    "kwaaken",
+    "quaquen"
+  ]
+}

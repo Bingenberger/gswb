@@ -1,0 +1,83 @@
+{
+  "lemma": "Länder",
+  "wortart": "Nomen",
+  "silben": "Län-der",
+  "begriffserklaerung": "Länder sind große Gebiete auf der Erde, die eigene Regeln und eine eigene Regierung haben. Deutschland, Frankreich und Brasilien sind zum Beispiel Länder.",
+  "beispielsatz": "Auf der Weltkarte kann man viele bunte Länder sehen.",
+  "rechtschreibstrategie": "Denk an das Grundwort „Land\". Wenn du es verlängerst, wird aus „Land\" → „Länder\". Das ä kommt vom a in „Land\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Land"
+  ],
+  "bild_datei": "Länder.webp",
+  "audio_datei": "Länder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "countries"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pays"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ülkeler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kontinent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Staaten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Land",
+    "plural": "die Länder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Land",
+        "genitiv": "des Landes",
+        "dativ": "dem Land",
+        "akkusativ": "das Land"
+      },
+      "plural": {
+        "nominativ": "die Länder",
+        "genitiv": "der Länder",
+        "dativ": "den Ländern",
+        "akkusativ": "die Länder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lender",
+    "Leänder",
+    "Lände",
+    "Laender",
+    "Länder"
+  ]
+}

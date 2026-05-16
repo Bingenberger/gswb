@@ -1,0 +1,82 @@
+{
+  "lemma": "Kurbel",
+  "wortart": "Nomen",
+  "silben": "Kur-bel",
+  "begriffserklaerung": "Eine Kurbel ist ein gebogener Griff, den man dreht, um etwas anzutreiben oder zu bewegen – zum Beispiel an einem Fahrrad oder einer Maschine.",
+  "beispielsatz": "Tom dreht die Kurbel am alten Brunnen, damit das Wasser hochkommt.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Kur-bel. Nach dem kurzen „u\" folgt nur ein „r\" – kein Doppelkonsonant. Denk daran: Kur-bel, wie „kurz\" und „bellen\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kurbel"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kurbel",
+    "plural": "die Kurbeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kurbel",
+        "genitiv": "der Kurbel",
+        "dativ": "der Kurbel",
+        "akkusativ": "die Kurbel"
+      },
+      "plural": {
+        "nominativ": "die Kurbeln",
+        "genitiv": "der Kurbeln",
+        "dativ": "den Kurbeln",
+        "akkusativ": "die Kurbeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Curbel",
+    "Kurbell",
+    "Kurbelle",
+    "Kuhrbel",
+    "Kurbeln"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manivelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krank kolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقبض الدوران"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kurbeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ankurbeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Griff"
+    }
+  ],
+  "bild_datei": "Kurbel.webp",
+  "audio_datei": "Kurbel.mp3"
+}

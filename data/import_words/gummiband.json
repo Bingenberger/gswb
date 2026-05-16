@@ -1,0 +1,85 @@
+{
+  "lemma": "Gummiband",
+  "wortart": "Nomen",
+  "silben": "Gum-mi-band",
+  "begriffserklaerung": "Ein Gummiband ist ein kleiner, dehnbarer Ring aus Gummi. Man kann ihn um Dinge spannen, um sie zusammenzuhalten.",
+  "beispielsatz": "Ich halte meine Stifte mit einem Gummiband zusammen.",
+  "rechtschreibstrategie": "Gummiband ist ein Bausteinwort aus „Gummi\" und „Band\". Das mm in „Gummi\" hörst du, wenn du das Wort laut sprichst: Gum-mi. Außerdem hat „Gummi\" ein Kürzezeichen: Das mm zeigt, dass das u kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Gummi",
+    "Band"
+  ],
+  "bild_datei": "Gummiband.webp",
+  "audio_datei": "Gummiband.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gummiband",
+    "plural": "die Gummibänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gummiband",
+        "genitiv": "des Gummibands",
+        "dativ": "dem Gummiband",
+        "akkusativ": "das Gummiband"
+      },
+      "plural": {
+        "nominativ": "die Gummibänder",
+        "genitiv": "der Gummibänder",
+        "dativ": "den Gummibändern",
+        "akkusativ": "die Gummibänder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rubber band"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élastique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lastik bant"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شريط مطاطي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gummi"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heftklammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büroklammer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gummiring"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gumiband",
+    "Gummyband",
+    "Gummibannd",
+    "Gummibant",
+    "Gumibant"
+  ]
+}

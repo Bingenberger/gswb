@@ -1,0 +1,83 @@
+{
+  "lemma": "Strecke",
+  "wortart": "Nomen",
+  "silben": "Stre-cke",
+  "begriffserklaerung": "Eine Strecke ist ein Weg oder eine Entfernung zwischen zwei Punkten oder Orten.",
+  "beispielsatz": "Die Strecke von der Schule nach Hause ist nur ein Kilometer lang.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird: Stre-cke.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "streck"
+  ],
+  "bild_datei": "Strecke.webp",
+  "audio_datei": "Strecke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "route, distance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trajet, distance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güzergah, mesafe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار، مسافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "strecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Streckung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entfernung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Route"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Strecke",
+    "plural": "die Strecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Strecke",
+        "genitiv": "der Strecke",
+        "dativ": "der Strecke",
+        "akkusativ": "die Strecke"
+      },
+      "plural": {
+        "nominativ": "die Strecken",
+        "genitiv": "der Strecken",
+        "dativ": "den Strecken",
+        "akkusativ": "die Strecken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Streke",
+    "Strecck",
+    "Strecke",
+    "Shtrecke",
+    "Strekke",
+    "Strrecke"
+  ]
+}

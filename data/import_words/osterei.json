@@ -1,0 +1,83 @@
+{
+  "lemma": "Osterei",
+  "wortart": "Nomen",
+  "silben": "Os-ter-ei",
+  "begriffserklaerung": "Ein Osterei ist ein bunt bemaltes oder verziertes Ei, das man zu Ostern verschenkt, versteckt oder sucht.",
+  "beispielsatz": "Wir haben heute im Garten bunte Ostereier gesucht.",
+  "rechtschreibstrategie": "Das Wort „Osterei\" besteht aus zwei Bausteinen: „Oster\" und „Ei\". Sprich beide Teile deutlich: OS-TER-EI.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Oster",
+    "Ei"
+  ],
+  "bild_datei": "Osterei.webp",
+  "audio_datei": "Osterei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Easter egg"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œuf de Pâques"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Paskalya yumurtası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيضة عيد الفصح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Oster"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Osternest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Osterhase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ostern"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Osterei",
+    "plural": "die Ostereier",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Osterei",
+        "genitiv": "des Ostereis",
+        "dativ": "dem Osterei",
+        "akkusativ": "das Osterei"
+      },
+      "plural": {
+        "nominativ": "die Ostereier",
+        "genitiv": "der Ostereier",
+        "dativ": "den Ostereiern",
+        "akkusativ": "die Ostereier"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Osterai",
+    "Osterei",
+    "Osterey",
+    "Ostereii",
+    "Ossterei"
+  ]
+}

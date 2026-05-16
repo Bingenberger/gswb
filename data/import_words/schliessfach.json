@@ -1,0 +1,84 @@
+{
+  "lemma": "Schließfach",
+  "wortart": "Nomen",
+  "silben": "Schließ-fach",
+  "begriffserklaerung": "Ein Schließfach ist ein kleines Fach mit einem Schloss, in dem man Sachen sicher aufbewahren kann – zum Beispiel in der Schule, im Schwimmbad oder am Bahnhof.",
+  "beispielsatz": "Ich lege meine Sporttasche in das Schließfach und schließe es mit einem Schlüssel ab.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „schließ\" (von „schließen\") und „Fach\". Das ß in „schließ\" ist ein Merkwort – du hörst kein Doppel-s, aber es steht trotzdem ß.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schließ",
+    "Fach"
+  ],
+  "bild_datei": "Schließfach.webp",
+  "audio_datei": "Schließfach.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "locker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spind"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Schließfach",
+    "plural": "Schließfächer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schließfach",
+        "genitiv": "des Schließfachs",
+        "dativ": "dem Schließfach",
+        "akkusativ": "das Schließfach"
+      },
+      "plural": {
+        "nominativ": "die Schließfächer",
+        "genitiv": "der Schließfächer",
+        "dativ": "den Schließfächern",
+        "akkusativ": "die Schließfächer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schliessfach",
+    "Schließfacht",
+    "Schliefach",
+    "Schließfacks",
+    "Schlüssfach"
+  ]
+}

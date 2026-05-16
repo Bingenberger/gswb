@@ -1,0 +1,84 @@
+{
+  "lemma": "Bezug",
+  "wortart": "Nomen",
+  "silben": "Be-zug",
+  "begriffserklaerung": "Ein Bezug ist eine Hülle, die man über etwas zieht, zum Beispiel über ein Kissen oder eine Bettdecke. Das Wort kann auch bedeuten, dass etwas mit etwas anderem zusammenhängt.",
+  "beispielsatz": "Mama zieht einen frischen Bezug über das Kopfkissen.",
+  "rechtschreibstrategie": "Sprich das Wort in zwei Silben: Be-zug. Das „z\" hörst du deutlich. Denk an das Verb „beziehen\" – davon kommt „Bezug\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zieh",
+    "zug"
+  ],
+  "bild_datei": "Bezug.webp",
+  "audio_datei": "Bezug.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bezug",
+    "plural": "die Bezüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bezug",
+        "genitiv": "des Bezuges",
+        "dativ": "dem Bezug",
+        "akkusativ": "den Bezug"
+      },
+      "plural": {
+        "nominativ": "die Bezüge",
+        "genitiv": "der Bezüge",
+        "dativ": "den Bezügen",
+        "akkusativ": "die Bezüge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cover / reference"
+    },
+    {
+      "language_code": "fr",
+      "translation": "housse / rapport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kılıf / ilgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غطاء / صلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kissenbezug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bettdecke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Besug",
+    "Bezuck",
+    "Behzug",
+    "Betzug",
+    "Bezoog"
+  ]
+}

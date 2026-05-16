@@ -1,0 +1,82 @@
+{
+  "lemma": "Wolken",
+  "wortart": "Nomen",
+  "silben": "Wol-ken",
+  "begriffserklaerung": "Wolken sind weiße oder graue Gebilde am Himmel. Sie bestehen aus winzigen Wassertröpfchen oder Eiskristallen und können Regen bringen.",
+  "beispielsatz": "Am Himmel ziehen dicke, dunkle Wolken auf – vielleicht regnet es bald!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Wol-ken. Du hörst beide Silben deutlich. Denk daran: Nach dem „o\" kommt ein „l\", dann „k\" – kein „ck\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wolke"
+  ],
+  "bild_datei": "Wolken.webp",
+  "audio_datei": "Wolken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clouds"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuages"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulutlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غيوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wolkig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wolke",
+    "plural": "die Wolken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wolke",
+        "genitiv": "der Wolke",
+        "dativ": "der Wolke",
+        "akkusativ": "die Wolke"
+      },
+      "plural": {
+        "nominativ": "die Wolken",
+        "genitiv": "der Wolken",
+        "dativ": "den Wolken",
+        "akkusativ": "die Wolken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Volken",
+    "Wocken",
+    "Wolcken",
+    "Wollen",
+    "Wolkhen"
+  ]
+}

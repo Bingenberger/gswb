@@ -1,0 +1,86 @@
+{
+  "lemma": "Qualm",
+  "wortart": "Nomen",
+  "silben": "Qualm",
+  "begriffserklaerung": "Qualm ist dicker, dunkler Rauch, der zum Beispiel bei einem Feuer oder einem Brand entsteht.",
+  "beispielsatz": "Aus dem Schornstein stieg dichter Qualm in den Himmel.",
+  "rechtschreibstrategie": "„Qualm\" beginnt mit „Qu\" – das „Qu\" spricht man wie „Kw\". Merke: Nach „Q\" kommt im Deutschen immer ein „u\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [
+    "qualm"
+  ],
+  "bild_datei": "Qualm.webp",
+  "audio_datei": "Qualm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smoke"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fumée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دخان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "qualmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "qualmig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dampf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Qualm",
+    "plural": "die Qualme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Qualm",
+        "genitiv": "des Qualm(e)s",
+        "dativ": "dem Qualm",
+        "akkusativ": "den Qualm"
+      },
+      "plural": {
+        "nominativ": "die Qualme",
+        "genitiv": "der Qualme",
+        "dativ": "den Qualmen",
+        "akkusativ": "die Qualme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Qualm",
+    "Kwalm",
+    "Quallm",
+    "Qualem",
+    "Kvallm"
+  ]
+}

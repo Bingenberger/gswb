@@ -1,0 +1,78 @@
+{
+  "lemma": "Ozean",
+  "wortart": "Nomen",
+  "silben": "O-ze-an",
+  "begriffserklaerung": "Ein Ozean ist ein riesiges, sehr tiefes Salzwassermeer, das große Teile der Erde bedeckt. Es gibt fünf Ozeane auf der Welt.",
+  "beispielsatz": "Der Ozean ist so groß, dass man das andere Ufer nicht sehen kann.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: O – ze – an. Achte auf das seltene „z\" in der Mitte – nicht „s\" schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ozean"
+  ],
+  "bild_datei": "Ozean.webp",
+  "audio_datei": "Ozean.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ocean"
+    },
+    {
+      "language_code": "fr",
+      "translation": "océan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okyanus"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محيط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ozeanisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weltmeer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ozean",
+    "plural": "die Ozeane",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ozean",
+        "genitiv": "des Ozeans",
+        "dativ": "dem Ozean",
+        "akkusativ": "den Ozean"
+      },
+      "plural": {
+        "nominativ": "die Ozeane",
+        "genitiv": "der Ozeane",
+        "dativ": "den Ozeanen",
+        "akkusativ": "die Ozeane"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Osean",
+    "Ozän",
+    "Ozzean",
+    "Ozeahn",
+    "Ozeen"
+  ]
+}

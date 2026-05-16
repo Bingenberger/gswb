@@ -1,0 +1,91 @@
+{
+  "lemma": "Erschöpfung",
+  "wortart": "Nomen",
+  "silben": "Er-schöp-fung",
+  "begriffserklaerung": "Erschöpfung bedeutet, dass man sich sehr müde und kraftlos fühlt, weil man sehr viel getan oder erlebt hat.",
+  "beispielsatz": "Nach dem langen Wandertag sank Leon vor lauter Erschöpfung sofort ins Bett.",
+  "rechtschreibstrategie": "Denke an das Verb „erschöpfen\" – daraus wird das Nomen „Erschöpfung\". Das ö bleibt erhalten, und das pf sprichst du deutlich mit.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schöpf"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erschöpfung",
+    "plural": "die Erschöpfungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erschöpfung",
+        "genitiv": "der Erschöpfung",
+        "dativ": "der Erschöpfung",
+        "akkusativ": "die Erschöpfung"
+      },
+      "plural": {
+        "nominativ": "die Erschöpfungen",
+        "genitiv": "der Erschöpfungen",
+        "dativ": "den Erschöpfungen",
+        "akkusativ": "die Erschöpfungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Erschöpffung",
+    "Erschepfung",
+    "Erschöpung",
+    "Ershöpfung",
+    "Erschöpfunk"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erschöpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erschöpft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müdigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mattigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erholung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exhaustion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épuisement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tükenme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إرهاق"
+    }
+  ],
+  "bild_datei": "Erschöpfung.webp",
+  "audio_datei": "Erschöpfung.mp3"
+}

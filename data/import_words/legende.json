@@ -1,0 +1,79 @@
+{
+  "lemma": "Legende",
+  "wortart": "Nomen",
+  "silben": "Le-gen-de",
+  "begriffserklaerung": "Eine Legende ist entweder eine alte Geschichte über einen Heiligen oder Helden, oder die Erklärung der Zeichen und Symbole auf einer Karte.",
+  "beispielsatz": "In der Legende auf der Landkarte steht, was die bunten Farben bedeuten.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Le-gen-de. Das „g\" in der Mitte klingt weich – denk daran, es nicht als „k\" zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "legend"
+  ],
+  "bild_datei": "Legende.webp",
+  "audio_datei": "Legende.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "legend / map key"
+    },
+    {
+      "language_code": "fr",
+      "translation": "légende"
+    },
+    {
+      "language_code": "tr",
+      "translation": "efsane / harita açıklaması"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسطورة / مفتاح الخريطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "legendär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sage"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Legende",
+    "plural": "die Legenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Legende",
+        "genitiv": "der Legende",
+        "dativ": "der Legende",
+        "akkusativ": "die Legende"
+      },
+      "plural": {
+        "nominativ": "die Legenden",
+        "genitiv": "der Legenden",
+        "dativ": "den Legenden",
+        "akkusativ": "die Legenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Legände",
+    "Legente",
+    "Legende",
+    "Legennde",
+    "Legennte",
+    "Legande"
+  ]
+}

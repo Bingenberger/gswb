@@ -1,0 +1,82 @@
+{
+  "lemma": "Katze",
+  "wortart": "Nomen",
+  "silben": "Kat-ze",
+  "begriffserklaerung": "Eine Katze ist ein kleines, felliges Haustier, das schnurrt und miaut. Katzen haben spitze Krallen und sehen auch nachts gut.",
+  "beispielsatz": "Die Katze schläft gemütlich auf dem Sofa.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „tz\" – das ist das Kürzezeichen! Sprich „Kat-ze\" in Silben, dann hörst du das kurze „a\" ganz deutlich.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Katze"
+  ],
+  "bild_datei": "Katze.webp",
+  "audio_datei": "Katze.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Katze",
+    "plural": "die Katzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Katze",
+        "genitiv": "der Katze",
+        "dativ": "der Katze",
+        "akkusativ": "die Katze"
+      },
+      "plural": {
+        "nominativ": "die Katzen",
+        "genitiv": "der Katzen",
+        "dativ": "den Katzen",
+        "akkusativ": "die Katzen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kedi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kätzchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katzenfutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mieze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Katse",
+    "Kazze",
+    "Kaze",
+    "Catze",
+    "Katsse"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Wurst",
+  "wortart": "Nomen",
+  "silben": "Wurst",
+  "begriffserklaerung": "Eine Wurst ist ein Lebensmittel aus Fleisch, das in eine längliche Form gebracht wird. Es gibt viele Sorten, zum Beispiel Bratwurst oder Salami.",
+  "beispielsatz": "Zum Frühstück lege ich mir eine Scheibe Wurst auf mein Brot.",
+  "rechtschreibstrategie": "Das Wort „Wurst\" endet auf -rst. Sprich es laut mit: Wurst – du hörst kein Extra-Geräusch, also kein Dehnungs-h. Merke es dir einfach so, wie es klingt!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wurst"
+  ],
+  "bild_datei": "Wurst.webp",
+  "audio_datei": "Wurst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sausage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saucisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sosis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقانق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bratwurst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurstbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Würstchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wurst",
+    "plural": "die Würste",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wurst",
+        "genitiv": "der Wurst",
+        "dativ": "der Wurst",
+        "akkusativ": "die Wurst"
+      },
+      "plural": {
+        "nominativ": "die Würste",
+        "genitiv": "der Würste",
+        "dativ": "den Würsten",
+        "akkusativ": "die Würste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wurscht",
+    "Wust",
+    "Vurst",
+    "Wursd",
+    "Wurrst"
+  ]
+}

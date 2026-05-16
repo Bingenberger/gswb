@@ -1,0 +1,86 @@
+{
+  "lemma": "Vertrag",
+  "wortart": "Nomen",
+  "silben": "Ver-trag",
+  "begriffserklaerung": "Ein Vertrag ist eine Vereinbarung zwischen zwei oder mehr Personen, die aufgeschrieben wird. Beide Seiten versprechen darin, etwas zu tun oder zu lassen.",
+  "beispielsatz": "Meine Eltern haben einen Vertrag unterschrieben, als sie das neue Auto gekauft haben.",
+  "rechtschreibstrategie": "Denke an das Verb „tragen\": Ver-TRAG. Das „g\" am Ende hörst du, wenn du „Verträge\" sagst – dann bleibt das g.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "trag"
+  ],
+  "bild_datei": "Vertrag.webp",
+  "audio_datei": "Vertrag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "contract"
+    },
+    {
+      "language_code": "fr",
+      "translation": "contrat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sözleşme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vereinbarung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vereinbarung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterschrift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abkommen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vertrag",
+    "plural": "die Verträge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vertrag",
+        "genitiv": "des Vertrages",
+        "dativ": "dem Vertrag",
+        "akkusativ": "den Vertrag"
+      },
+      "plural": {
+        "nominativ": "die Verträge",
+        "genitiv": "der Verträge",
+        "dativ": "den Verträgen",
+        "akkusativ": "die Verträge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fertrag",
+    "Vertrak",
+    "Vertack",
+    "Fertrack",
+    "Vertrag"
+  ]
+}

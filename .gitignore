@@ -1,0 +1,46 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Flask / Laufzeit
+.flaskenv
+instance/
+.audio_pruefen_state.json
+
+# Datenbanken (auch im Root-Verzeichnis)
+*.sqlite3
+
+# Audio-Symlink (Zielordner audio/ ist ausgeschlossen)
+static/audio
+
+# API-Schlüssel und Credentials
+key.json
+key3.json
+*.env
+.env*
+
+# Generierte Datenbank (wird per --rebuild neu aufgebaut)
+data/*.sqlite3
+
+# Mediendateien (zu groß für Git)
+illustrationen/
+audio/
+static/images/*.webp
+static/images/*.jpg
+static/images/*.png
+static/uploads/
+
+# Batch-Zwischenergebnisse
+data/import_words_backup/
+data/import_words_claude/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db

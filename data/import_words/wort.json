@@ -1,0 +1,82 @@
+{
+  "lemma": "Wort",
+  "wortart": "Nomen",
+  "silben": "Wort",
+  "begriffserklaerung": "Ein Wort ist eine Einheit aus Buchstaben, die eine Bedeutung hat. Wenn wir sprechen oder schreiben, benutzen wir viele Wörter.",
+  "beispielsatz": "Das Wort „Hund\" kennt jedes Kind.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Wort\". Achte auf das „t\" am Ende – beim Verlängern hörst du es deutlich: „Wör-ter\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wort"
+  ],
+  "bild_datei": "Wort.webp",
+  "audio_datei": "Wort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "word"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kelime"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كلمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wörterbuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wörtlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buchstabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Begriff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wort",
+    "plural": "die Wörter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wort",
+        "genitiv": "des Wortes",
+        "dativ": "dem Wort",
+        "akkusativ": "das Wort"
+      },
+      "plural": {
+        "nominativ": "die Wörter",
+        "genitiv": "der Wörter",
+        "dativ": "den Wörtern",
+        "akkusativ": "die Wörter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wohrt",
+    "Wort",
+    "Vort",
+    "Wört",
+    "Wored"
+  ]
+}

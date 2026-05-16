@@ -1,0 +1,71 @@
+{
+  "lemma": "Gecko",
+  "wortart": "Nomen",
+  "silben": "Geck-o",
+  "begriffserklaerung": "Ein Gecko ist eine kleine Eidechse. Er kann an Wänden und sogar an der Decke klettern, weil seine Zehen ganz besondere Haftpölsterchen haben.",
+  "beispielsatz": "Der Gecko sitzt reglos an der Wand und wartet auf eine Fliege.",
+  "rechtschreibstrategie": "Das Wort „Gecko\" schreibt man mit ck – denn nach dem kurzen e folgt ein Kürzezeichen. Denk daran: kurzer Vokal → ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gecko.webp",
+  "audio_datei": "Gecko.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gecko",
+    "plural": "die Geckos",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gecko",
+        "genitiv": "des Geckos",
+        "dativ": "dem Gecko",
+        "akkusativ": "den Gecko"
+      },
+      "plural": {
+        "nominativ": "die Geckos",
+        "genitiv": "der Geckos",
+        "dativ": "den Geckos",
+        "akkusativ": "die Geckos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gecko"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gecko"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kertenkele (gecko)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أبو بريص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eidechse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chamäleon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reptil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gecco",
+    "Geko",
+    "Gekko",
+    "Geckoo"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Schiffsführer",
+  "wortart": "Nomen",
+  "silben": "Schiffs-füh-rer",
+  "begriffserklaerung": "Ein Schiffsführer ist eine Person, die ein Schiff steuert und dafür sorgt, dass es sicher ans Ziel kommt.",
+  "beispielsatz": "Der Schiffsführer steht auf der Brücke und lenkt das große Schiff sicher in den Hafen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Schiff\" und „Führer\". Denk an das Dehnungs-h in „füh-ren\" – das h hört man nicht, aber man schreibt es!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Schiff",
+    "führen"
+  ],
+  "bild_datei": "Schiffsführer.webp",
+  "audio_datei": "Schiffsführer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schiffsführer",
+    "plural": "die Schiffsführer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schiffsführer",
+        "genitiv": "des Schiffsführers",
+        "dativ": "dem Schiffsführer",
+        "akkusativ": "den Schiffsführer"
+      },
+      "plural": {
+        "nominativ": "die Schiffsführer",
+        "genitiv": "der Schiffsführer",
+        "dativ": "den Schiffsführern",
+        "akkusativ": "die Schiffsführer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ship's captain / skipper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "capitaine de bateau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gemi kaptanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبطان السفينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "führen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Matrose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steuer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schifführer",
+    "Schiffsfihrer",
+    "Schiffsfürer",
+    "Schifsfüher",
+    "Schiffsfüher",
+    "Schiffsführrer"
+  ]
+}

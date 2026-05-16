@@ -1,0 +1,100 @@
+{
+  "lemma": "abschicken",
+  "wortart": "Verb",
+  "silben": "ab-schi-cken",
+  "begriffserklaerung": "Wenn du etwas abschickst, sendest du es an jemand anderen – zum Beispiel einen Brief, ein Paket oder eine Nachricht.",
+  "beispielsatz": "Lena möchte ihrer Oma eine Postkarte abschicken.",
+  "rechtschreibstrategie": "Das Wort „abschicken\" hat den Baustein „ab-\" vorne und das Wort „schicken\" hinten. In „schicken\" hörst du ein kurzes i, deshalb schreibt man „ck\" – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schick"
+  ],
+  "bild_datei": "abschicken.webp",
+  "audio_datei": "abschicken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to send off"
+    },
+    {
+      "language_code": "fr",
+      "translation": "envoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göndermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرسِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "senden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "versenden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "abschicken",
+    "praesens": {
+      "ich": "schicke ab",
+      "du": "schickst ab",
+      "er_sie_es": "schickt ab",
+      "wir": "schicken ab",
+      "ihr": "schickt ab",
+      "sie": "schicken ab"
+    },
+    "perfekt": {
+      "ich": "habe abgeschickt",
+      "du": "hast abgeschickt",
+      "er_sie_es": "hat abgeschickt",
+      "wir": "haben abgeschickt",
+      "ihr": "habt abgeschickt",
+      "sie": "haben abgeschickt"
+    },
+    "praeteritum": {
+      "ich": "schickte ab",
+      "du": "schicktest ab",
+      "er_sie_es": "schickte ab",
+      "wir": "schickten ab",
+      "ihr": "schicktet ab",
+      "sie": "schickten ab"
+    }
+  },
+  "fehlschreibungen": [
+    "abschiken",
+    "abschicen",
+    "abschikken",
+    "abshicken",
+    "abschücken",
+    "abschjcken"
+  ]
+}

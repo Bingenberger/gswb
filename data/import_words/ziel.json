@@ -1,0 +1,82 @@
+{
+  "lemma": "Ziel",
+  "wortart": "Nomen",
+  "silben": "Ziel",
+  "begriffserklaerung": "Ein Ziel ist etwas, das du erreichen oder schaffen möchtest. Es kann auch der Ort sein, an dem du ankommen willst.",
+  "beispielsatz": "Mein Ziel ist es, gut Fahrrad fahren zu lernen.",
+  "rechtschreibstrategie": "Das Wort „Ziel\" schreibt man mit „ie\", weil das „i\" lang gesprochen wird. Denk daran: langes „i\" klingt oft wie „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ziel",
+    "plural": "die Ziele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ziel",
+        "genitiv": "des Zieles / des Ziels",
+        "dativ": "dem Ziel / dem Ziele",
+        "akkusativ": "das Ziel"
+      },
+      "plural": {
+        "nominativ": "die Ziele",
+        "genitiv": "der Ziele",
+        "dativ": "den Zielen",
+        "akkusativ": "die Ziele"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "ziel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorhaben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plan"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zil",
+    "Ziehl",
+    "Tsiel",
+    "Zieel",
+    "Ciel"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goal / destination"
+    },
+    {
+      "language_code": "fr",
+      "translation": "but / objectif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hedef / amaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هدف"
+    }
+  ],
+  "bild_datei": "Ziel.webp",
+  "audio_datei": "Ziel.mp3"
+}

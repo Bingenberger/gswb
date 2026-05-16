@@ -1,0 +1,82 @@
+{
+  "lemma": "Post",
+  "wortart": "Nomen",
+  "silben": "Post",
+  "begriffserklaerung": "Die Post ist alles, was man verschickt oder bekommt – zum Beispiel Briefe und Pakete. Auch das Gebäude, wo man Briefe abgeben kann, heißt Post.",
+  "beispielsatz": "Heute hat mir meine Oma eine Postkarte geschickt – die Post war schon im Briefkasten!",
+  "rechtschreibstrategie": "„Post\" klingt genau so, wie man es schreibt. Sprich es laut: P-o-s-t. Achte auf das „st\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "post"
+  ],
+  "bild_datei": "Post.webp",
+  "audio_datei": "Post.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mail / post"
+    },
+    {
+      "language_code": "fr",
+      "translation": "courrier / poste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "posta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Postkarte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Postbote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sendung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Post",
+    "plural": "die Posten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Post",
+        "genitiv": "der Post",
+        "dativ": "der Post",
+        "akkusativ": "die Post"
+      },
+      "plural": {
+        "nominativ": "die Posten",
+        "genitiv": "der Posten",
+        "dativ": "den Posten",
+        "akkusativ": "die Posten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bost",
+    "Posd",
+    "Posst",
+    "Ppost",
+    "Post"
+  ]
+}

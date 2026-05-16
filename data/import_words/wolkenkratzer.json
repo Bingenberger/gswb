@@ -1,0 +1,84 @@
+{
+  "lemma": "Wolkenkratzer",
+  "wortart": "Nomen",
+  "silben": "Wol-ken-krat-zer",
+  "begriffserklaerung": "Ein Wolkenkratzer ist ein sehr hohes Gebäude mit vielen Stockwerken, das so hoch ist, als würde es die Wolken berühren.",
+  "beispielsatz": "In der großen Stadt ragt ein riesiger Wolkenkratzer hoch in den Himmel.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Wolke\" + „n\" + „kratzer\". Sprich alle Bausteine einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wolke",
+    "kratzen"
+  ],
+  "bild_datei": "Wolkenkratzer.webp",
+  "audio_datei": "Wolkenkratzer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skyscraper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gratte-ciel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gökdelen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ناطحة سحاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kratzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hochhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hochhaus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wolkenkratzer",
+    "plural": "die Wolkenkratzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wolkenkratzer",
+        "genitiv": "des Wolkenkratzers",
+        "dativ": "dem Wolkenkratzer",
+        "akkusativ": "den Wolkenkratzer"
+      },
+      "plural": {
+        "nominativ": "die Wolkenkratzer",
+        "genitiv": "der Wolkenkratzer",
+        "dativ": "den Wolkenkratzern",
+        "akkusativ": "die Wolkenkratzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wolkenkratser",
+    "Wolkenkratzter",
+    "Wolkengratzer",
+    "Vollkenkratzer",
+    "Wolkenkrätzer",
+    "Wollkenkratzer"
+  ]
+}

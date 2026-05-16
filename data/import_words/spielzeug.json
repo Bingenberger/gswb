@@ -1,0 +1,88 @@
+{
+  "lemma": "Spielzeug",
+  "wortart": "Nomen",
+  "silben": "Spiel-zeug",
+  "begriffserklaerung": "Ein Spielzeug ist ein Gegenstand, mit dem Kinder spielen und Spaß haben können.",
+  "beispielsatz": "Zu Weihnachten hat Lena ein neues Spielzeug bekommen.",
+  "rechtschreibstrategie": "„Spielzeug\" ist aus zwei Wörtern zusammengebaut: „Spiel\" und „Zeug\". Sprich beide Teile laut vor dir her – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spiel",
+    "zeug"
+  ],
+  "bild_datei": "Spielzeug.webp",
+  "audio_datei": "Spielzeug.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Spielzeug",
+    "plural": "die Spielzeuge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Spielzeug",
+        "genitiv": "des Spielzeugs",
+        "dativ": "dem Spielzeug",
+        "akkusativ": "das Spielzeug"
+      },
+      "plural": {
+        "nominativ": "die Spielzeuge",
+        "genitiv": "der Spielzeuge",
+        "dativ": "den Spielzeugen",
+        "akkusativ": "die Spielzeuge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jouet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spielen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spielsachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Puppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spilzeug",
+    "Spielzeuck",
+    "Speilzeug",
+    "Spielzueg",
+    "Spiehlzeug"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Skateboard",
+  "wortart": "Nomen",
+  "silben": "Ska-te-board",
+  "begriffserklaerung": "Ein Skateboard ist ein flaches Brett mit vier Rollen, auf dem man stehen und fahren kann. Viele Kinder machen damit tolle Tricks.",
+  "beispielsatz": "Leon fährt mit seinem Skateboard über den glatten Platz vor der Schule.",
+  "rechtschreibstrategie": "Das Wort „Skateboard\" kommt aus dem Englischen. Denk daran: Es schreibt sich genau so, wie man es auf Englisch schreibt – Skate-board. Achte auf das „k\" am Anfang und das „oa\" im zweiten Teil!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Skate",
+    "Board"
+  ],
+  "bild_datei": "Skateboard.webp",
+  "audio_datei": "Skateboard.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Skateboard",
+    "plural": "die Skateboards",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Skateboard",
+        "genitiv": "des Skateboards",
+        "dativ": "dem Skateboard",
+        "akkusativ": "das Skateboard"
+      },
+      "plural": {
+        "nominativ": "die Skateboards",
+        "genitiv": "der Skateboards",
+        "dativ": "den Skateboards",
+        "akkusativ": "die Skateboards"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skateboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "skateboard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaykay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح التزلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "skaten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Skater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Scateboard",
+    "Skatbord",
+    "Skaitboard",
+    "Skateboart",
+    "Sckateboard",
+    "Skatebord"
+  ]
+}

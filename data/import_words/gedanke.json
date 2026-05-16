@@ -1,0 +1,83 @@
+{
+  "lemma": "Gedanke",
+  "wortart": "Nomen",
+  "silben": "Ge-dan-ke",
+  "begriffserklaerung": "Ein Gedanke ist etwas, das du in deinem Kopf denkst – eine Idee, eine Vorstellung oder ein Einfall.",
+  "beispielsatz": "Plötzlich hatte Lisa einen guten Gedanken, wie sie das Rätsel lösen könnte.",
+  "rechtschreibstrategie": "Denk an das Verb „denken\": Ge-dan-ke. Das „d\" hörst du auch in „denken\". Sprich alle drei Silben deutlich mit: Ge – dan – ke.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "denk"
+  ],
+  "bild_datei": "Gedanke.webp",
+  "audio_datei": "Gedanke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thought"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pensée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşünce"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Denkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Idee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einfall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gedanke",
+    "plural": "die Gedanken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gedanke",
+        "genitiv": "des Gedankens",
+        "dativ": "dem Gedanken",
+        "akkusativ": "den Gedanken"
+      },
+      "plural": {
+        "nominativ": "die Gedanken",
+        "genitiv": "der Gedanken",
+        "dativ": "den Gedanken",
+        "akkusativ": "die Gedanken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gedanken",
+    "Gedake",
+    "Gedanck",
+    "Gedancke",
+    "Getanke",
+    "Gedange"
+  ]
+}

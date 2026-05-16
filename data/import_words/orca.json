@@ -1,0 +1,72 @@
+{
+  "lemma": "Orca",
+  "wortart": "Nomen",
+  "silben": "Or-ca",
+  "begriffserklaerung": "Ein Orca ist ein sehr großes, schwarz-weißes Meerestier. Er gehört zur Familie der Delfine und wird auch Schwertwal genannt. Orcas sind sehr klug und leben in Gruppen.",
+  "beispielsatz": "Der Orca springt hoch aus dem Wasser und macht einen riesigen Platscher!",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Or – ca. Schreibe es genau so, wie du es hörst. Achte auf das große O am Anfang, weil Orca ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Orca.webp",
+  "audio_datei": "Orca.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "orca"
+    },
+    {
+      "language_code": "fr",
+      "translation": "orque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katil balina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوت القاتل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwertwal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Orca",
+    "plural": "die Orcas",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Orca",
+        "genitiv": "des Orcas",
+        "dativ": "dem Orca",
+        "akkusativ": "den Orca"
+      },
+      "plural": {
+        "nominativ": "die Orcas",
+        "genitiv": "der Orcas",
+        "dativ": "den Orcas",
+        "akkusativ": "die Orcas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Orka",
+    "Orcka",
+    "Orcea",
+    "Orca",
+    "Orga"
+  ]
+}

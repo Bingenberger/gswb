@@ -1,0 +1,78 @@
+{
+  "lemma": "Kater",
+  "wortart": "Nomen",
+  "silben": "Ka-ter",
+  "begriffserklaerung": "Ein Kater ist ein männlicher Kater – also ein männliches Haustier aus der Katzenfamilie. Das Weibchen heißt Katze.",
+  "beispielsatz": "Unser Kater schläft den ganzen Tag auf dem Sofa.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ka-ter. Nach dem langen „a\" kommt nur ein „t\" – du brauchst kein Doppel-t!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Katze"
+  ],
+  "bild_datei": "Kater.webp",
+  "audio_datei": "Kater.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kater",
+    "plural": "die Kater",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kater",
+        "genitiv": "des Katers",
+        "dativ": "dem Kater",
+        "akkusativ": "den Kater"
+      },
+      "plural": {
+        "nominativ": "die Kater",
+        "genitiv": "der Kater",
+        "dativ": "den Katern",
+        "akkusativ": "die Kater"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tomcat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erkek kedi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قط ذكر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fell"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cater",
+    "Katter",
+    "Kahter",
+    "Kaater",
+    "Katther"
+  ]
+}

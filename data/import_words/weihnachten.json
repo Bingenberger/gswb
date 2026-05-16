@@ -1,0 +1,84 @@
+{
+  "lemma": "Weihnachten",
+  "wortart": "Nomen",
+  "silben": "Weih-nach-ten",
+  "begriffserklaerung": "Weihnachten ist ein Fest im Winter, das jedes Jahr am 24., 25. und 26. Dezember gefeiert wird. Viele Menschen schmücken einen Tannenbaum, tauschen Geschenke aus und verbringen Zeit mit ihrer Familie.",
+  "beispielsatz": "An Weihnachten stehen viele bunte Geschenke unter dem Tannenbaum.",
+  "rechtschreibstrategie": "Das Wort „Weihnachten\" ist ein Merkwort – sprich es laut in Silben: Weih-nach-ten. Das „h\" nach dem „Wei\" hörst du nicht, aber es steckt im Wort. Lerne es einfach auswendig!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "weihn",
+    "Nacht"
+  ],
+  "bild_datei": "Weihnachten.webp",
+  "audio_datei": "Weihnachten.mp3",
+  "grammatische_formen": {
+    "artikel": "–",
+    "singular": "Weihnachten",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "Weihnachten",
+        "genitiv": "Weihnachtens",
+        "dativ": "Weihnachten",
+        "akkusativ": "Weihnachten"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Christmas"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Noël"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Noel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عيد الميلاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weihnachtlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weihnachtsbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Advent"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tannenbaum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weinachten",
+    "Weihnacten",
+    "Weihnachtern",
+    "Weinnachten",
+    "Weihnachden"
+  ]
+}

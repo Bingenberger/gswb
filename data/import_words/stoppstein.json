@@ -1,0 +1,83 @@
+{
+  "lemma": "Stoppstein",
+  "wortart": "Nomen",
+  "silben": "Stopp-stein",
+  "begriffserklaerung": "Ein Stoppstein ist ein Stein oder eine Markierung auf dem Boden, die zeigt: Hier musst du anhalten!",
+  "beispielsatz": "Vor der Kreuzung gibt es einen Stoppstein, damit alle sicher anhalten.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Stopp\" und „Stein\". Bei „Stopp\" schreibst du zwei p, weil das o kurz gesprochen wird. „Stein\" klingt genauso, wie es geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "stopp",
+    "Stein"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stoppstein",
+    "plural": "die Stoppsteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stoppstein",
+        "genitiv": "des Stoppsteins",
+        "dativ": "dem Stoppstein",
+        "akkusativ": "den Stoppstein"
+      },
+      "plural": {
+        "nominativ": "die Stoppsteine",
+        "genitiv": "der Stoppsteine",
+        "dativ": "den Stoppsteinen",
+        "akkusativ": "die Stoppsteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stopstein",
+    "Stoppstain",
+    "Stopsstein",
+    "Stoppstien"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stop stone / stop marker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pierre d'arrêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dur taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر التوقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stoppen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoppschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    }
+  ],
+  "bild_datei": "Stoppstein.webp",
+  "audio_datei": "Stoppstein.mp3"
+}

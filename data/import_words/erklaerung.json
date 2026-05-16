@@ -1,0 +1,88 @@
+{
+  "lemma": "Erklärung",
+  "wortart": "Nomen",
+  "silben": "Er-klä-rung",
+  "begriffserklaerung": "Eine Erklärung ist, wenn jemand beschreibt, wie etwas funktioniert oder was etwas bedeutet, damit andere es besser verstehen können.",
+  "beispielsatz": "Die Lehrerin gibt eine genaue Erklärung, damit alle Kinder die Aufgabe verstehen.",
+  "rechtschreibstrategie": "Das Wort „Erklärung\" leitet sich vom Verb „erklären\" ab. Das ä hörst du, wenn du „erklären\" sagst – und das ä bleibt auch in „Erklärung\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "klar",
+    "klären"
+  ],
+  "bild_datei": "Erklärung.webp",
+  "audio_datei": "Erklärung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erklärung",
+    "plural": "die Erklärungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erklärung",
+        "genitiv": "der Erklärung",
+        "dativ": "der Erklärung",
+        "akkusativ": "die Erklärung"
+      },
+      "plural": {
+        "nominativ": "die Erklärungen",
+        "genitiv": "der Erklärungen",
+        "dativ": "den Erklärungen",
+        "akkusativ": "die Erklärungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "explanation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "explication"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açıklama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erklärbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beschreibung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erklerung",
+    "Erklaerung",
+    "Erklährung",
+    "Erklearung",
+    "Erklärung"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Versuch",
+  "wortart": "Nomen",
+  "silben": "Ver-such",
+  "begriffserklaerung": "Ein Versuch ist, wenn man etwas ausprobiert, um zu sehen, ob es klappt.",
+  "beispielsatz": "Im Unterricht machen wir einen Versuch mit Wasser und Farbe.",
+  "rechtschreibstrategie": "Leite das Wort von „versuchen\" ab – dann hörst du das „s\" in der Mitte deutlich: ver-SUCH-en → Versuch.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Versuch",
+    "plural": "die Versuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Versuch",
+        "genitiv": "des Versuchs",
+        "dativ": "dem Versuch",
+        "akkusativ": "den Versuch"
+      },
+      "plural": {
+        "nominativ": "die Versuche",
+        "genitiv": "der Versuche",
+        "dativ": "den Versuchen",
+        "akkusativ": "die Versuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fersuch",
+    "Versuchs",
+    "Versuch",
+    "Versuhch",
+    "Versug",
+    "Versutch"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "attempt / experiment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tentative / expérience"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deneme / deney"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محاولة / تجربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versuchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Versuchung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Probe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ergebnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beobachtung"
+    }
+  ],
+  "bild_datei": "Versuch.webp",
+  "audio_datei": "Versuch.mp3"
+}

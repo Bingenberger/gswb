@@ -1,0 +1,73 @@
+{
+  "lemma": "Spaghetti",
+  "wortart": "Nomen",
+  "silben": "Spa-ghet-ti",
+  "begriffserklaerung": "Spaghetti sind lange, dünne Nudeln aus Hartweizengrieß. Sie kommen ursprünglich aus Italien und schmecken zum Beispiel sehr gut mit Tomatensoße.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Spaghetti mit Tomatensoße – das ist mein Lieblingsessen!",
+  "rechtschreibstrategie": "Spaghetti kommt aus dem Italienischen und ist ein Merkwort. Merke dir: Spa-ghet-ti – mit „gh\" in der Mitte und doppeltem „t\" am Ende.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Spaghetti.webp",
+  "audio_datei": "Spaghetti.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spaghetti"
+    },
+    {
+      "language_code": "fr",
+      "translation": "spaghettis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spagetti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سباغيتي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nudel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pasta"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tomatensoße"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spaghetti",
+    "plural": "die Spaghetti",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spaghetti",
+        "genitiv": "der Spaghetti",
+        "dativ": "den Spaghetti",
+        "akkusativ": "die Spaghetti"
+      },
+      "plural": {
+        "nominativ": "die Spaghetti",
+        "genitiv": "der Spaghetti",
+        "dativ": "den Spaghetti",
+        "akkusativ": "die Spaghetti"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schpagetti",
+    "Spagetti",
+    "Spagheti",
+    "Spaghetty",
+    "Spaghettie",
+    "Schpaghetti"
+  ]
+}

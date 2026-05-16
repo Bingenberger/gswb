@@ -1,0 +1,82 @@
+{
+  "lemma": "Kick",
+  "wortart": "Nomen",
+  "silben": "Kick",
+  "begriffserklaerung": "Ein Kick ist ein kräftiger Tritt, zum Beispiel gegen einen Ball. Das Wort wird auch benutzt, wenn etwas einen besonderen Schwung oder ein aufregendes Gefühl gibt.",
+  "beispielsatz": "Mit einem starken Kick schoss Tom den Ball ins Tor.",
+  "rechtschreibstrategie": "Das Wort „Kick\" hat einen kurzen Vokal „i\". Nach einem kurzen Vokal schreibt man „ck\" – deshalb steht am Ende „ck\" und nicht nur „k\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kick"
+  ],
+  "bild_datei": "Kick.webp",
+  "audio_datei": "Kick.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coup de pied"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ركلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kicker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tritt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kick",
+    "plural": "die Kicks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kick",
+        "genitiv": "des Kicks",
+        "dativ": "dem Kick",
+        "akkusativ": "den Kick"
+      },
+      "plural": {
+        "nominativ": "die Kicks",
+        "genitiv": "der Kicks",
+        "dativ": "den Kicks",
+        "akkusativ": "die Kicks"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kik",
+    "Kic",
+    "Kikk",
+    "Kicck",
+    "Kihck"
+  ]
+}

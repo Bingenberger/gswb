@@ -1,0 +1,85 @@
+{
+  "lemma": "Straßenbahn",
+  "wortart": "Nomen",
+  "silben": "Stra-ßen-bahn",
+  "begriffserklaerung": "Eine Straßenbahn ist ein Fahrzeug, das auf Schienen fährt und viele Menschen durch die Stadt bringt. Sie fährt meistens mitten auf der Straße.",
+  "beispielsatz": "Wir fahren mit der Straßenbahn zur Schule.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Straße\" und „Bahn\". Denke an das ß in „Straße\"! Sprich beide Bausteine laut: STRAS-SE + BAHN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Bahn",
+    "Straße"
+  ],
+  "bild_datei": "Straßenbahn.webp",
+  "audio_datei": "Straßenbahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tram"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tramway"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tramvay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ترام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "U-Bahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Straßenbahn",
+    "plural": "die Straßenbahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Straßenbahn",
+        "genitiv": "der Straßenbahn",
+        "dativ": "der Straßenbahn",
+        "akkusativ": "die Straßenbahn"
+      },
+      "plural": {
+        "nominativ": "die Straßenbahnen",
+        "genitiv": "der Straßenbahnen",
+        "dativ": "den Straßenbahnen",
+        "akkusativ": "die Straßenbahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Strasenbahn",
+    "Straßenbann",
+    "Strassenbahn",
+    "Straßenbain",
+    "Straßenbahn",
+    "Strasenbann"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "Urwald",
+  "wortart": "Nomen",
+  "silben": "Ur-wald",
+  "begriffserklaerung": "Ein Urwald ist ein sehr alter, dichter Wald, in dem noch nie Menschen Bäume gefällt haben. Dort leben viele Tiere und Pflanzen.",
+  "beispielsatz": "Im Urwald leben bunte Vögel, große Schlangen und viele andere Tiere.",
+  "rechtschreibstrategie": "„Urwald\" besteht aus zwei Teilen: „Ur\" und „Wald\". Sprich beide Bausteine laut: Ur – Wald. So schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wald"
+  ],
+  "bild_datei": "Urwald.webp",
+  "audio_datei": "Urwald.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jungle / primeval forest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forêt vierge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman / ilkel orman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غابة بكر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dschungel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenwald"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dschungel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Urwald",
+    "plural": "die Urwälder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Urwald",
+        "genitiv": "des Urwaldes",
+        "dativ": "dem Urwald",
+        "akkusativ": "den Urwald"
+      },
+      "plural": {
+        "nominativ": "die Urwälder",
+        "genitiv": "der Urwälder",
+        "dativ": "den Urwäldern",
+        "akkusativ": "die Urwälder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Uhrwald",
+    "Urwalt",
+    "Urwäld",
+    "Urwalled",
+    "Urwaldt"
+  ]
+}

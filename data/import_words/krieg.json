@@ -1,0 +1,88 @@
+{
+  "lemma": "Krieg",
+  "wortart": "Nomen",
+  "silben": "Krieg",
+  "begriffserklaerung": "Ein Krieg ist ein schlimmer Streit zwischen Ländern oder Gruppen, bei dem Menschen gegeneinander kämpfen und viele verletzt werden oder sterben. Kriege verursachen viel Leid und Zerstörung.",
+  "beispielsatz": "Im Unterricht lernten wir, warum Frieden wichtiger ist als Krieg.",
+  "rechtschreibstrategie": "Das Wort „Krieg\" hat ein langes „ie\" am Ende – das hörst du beim Sprechen deutlich. Merke dir: Krieg endet immer auf „-ieg\", wie auch in „Sieg\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "krieg"
+  ],
+  "bild_datei": "Krieg.webp",
+  "audio_datei": "Krieg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "war"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guerre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "savaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kriegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kriegerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kriegerisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frieden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soldat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waffe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Krieg",
+    "plural": "die Kriege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Krieg",
+        "genitiv": "des Krieges",
+        "dativ": "dem Krieg",
+        "akkusativ": "den Krieg"
+      },
+      "plural": {
+        "nominativ": "die Kriege",
+        "genitiv": "der Kriege",
+        "dativ": "den Kriegen",
+        "akkusativ": "die Kriege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krieg",
+    "Krig",
+    "Kriek",
+    "Kreeg",
+    "Krieeg",
+    "Kried"
+  ]
+}

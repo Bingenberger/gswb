@@ -1,0 +1,99 @@
+{
+  "lemma": "retten",
+  "wortart": "Verb",
+  "silben": "ret-ten",
+  "begriffserklaerung": "Jemanden oder etwas aus einer gefährlichen Situation befreien und in Sicherheit bringen.",
+  "beispielsatz": "Die Feuerwehr rettet die Katze vom Baum.",
+  "rechtschreibstrategie": "Das Wort „retten\" hat ein kurzes „e\", deshalb verdoppelst du das „t\": ret-ten.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "retten",
+    "Rettung"
+  ],
+  "bild_datei": "retten.webp",
+  "audio_datei": "retten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "retten",
+    "praesens": {
+      "ich": "rette",
+      "du": "rettest",
+      "er_sie_es": "rettet",
+      "wir": "retten",
+      "ihr": "rettet",
+      "sie": "retten"
+    },
+    "perfekt": {
+      "ich": "habe gerettet",
+      "du": "hast gerettet",
+      "er_sie_es": "hat gerettet",
+      "wir": "haben gerettet",
+      "ihr": "habt gerettet",
+      "sie": "haben gerettet"
+    },
+    "praeteritum": {
+      "ich": "rettete",
+      "du": "rettetest",
+      "er_sie_es": "rettete",
+      "wir": "retteten",
+      "ihr": "rettetet",
+      "sie": "retteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rescue / to save"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sauver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurtarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنقذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rettung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Retter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "befreien"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notfall"
+    }
+  ],
+  "fehlschreibungen": [
+    "reten",
+    "retten",
+    "rätten",
+    "redden",
+    "rettten"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Vorteil",
+  "wortart": "Nomen",
+  "silben": "Vor-teil",
+  "begriffserklaerung": "Ein Vorteil ist etwas, das dir hilft oder das besser für dich ist als für andere.",
+  "beispielsatz": "Es ist ein großer Vorteil, wenn du schon schwimmen kannst, bevor der Schulschwimmkurs beginnt.",
+  "rechtschreibstrategie": "„Vorteil\" ist ein zusammengesetztes Wort aus „vor\" und „Teil\". Denk daran: Am Anfang steht ein großes V wie in „vor\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "vor",
+    "Teil"
+  ],
+  "bild_datei": "Vorteil.webp",
+  "audio_datei": "Vorteil.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vorteil",
+    "plural": "die Vorteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vorteil",
+        "genitiv": "des Vorteils",
+        "dativ": "dem Vorteil",
+        "akkusativ": "den Vorteil"
+      },
+      "plural": {
+        "nominativ": "die Vorteile",
+        "genitiv": "der Vorteile",
+        "dativ": "den Vorteilen",
+        "akkusativ": "die Vorteile"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "advantage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avantage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avantaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorteilhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pluspunkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachteil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewinn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Forteil",
+    "Vortail",
+    "Vorteil",
+    "Vortaiel",
+    "Vohrtel",
+    "Vortell"
+  ]
+}

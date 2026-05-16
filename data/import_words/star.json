@@ -1,0 +1,78 @@
+{
+  "lemma": "Star",
+  "wortart": "Nomen",
+  "silben": "Star",
+  "begriffserklaerung": "Ein Star ist ein berühmter Mensch, zum Beispiel ein Sänger oder ein Schauspieler, den viele Menschen kennen und toll finden. Star heißt auch ein kleiner, schwarz gefleckter Singvogel.",
+  "beispielsatz": "Die Sängerin ist ein echter Star – alle Kinder kennen ihre Lieder!",
+  "rechtschreibstrategie": "Das Wort „Star\" schreibt man mit nur einem „a\" und endet auf „r\". Sprich es laut: Starrr – du hörst nur ein kurzes „a\", aber kein Doppel-r, weil es ein Fremdwort ist. Merke dir: S-T-A-R!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Star"
+  ],
+  "bild_datei": "Star.webp",
+  "audio_datei": "Star.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "star"
+    },
+    {
+      "language_code": "fr",
+      "translation": "star / vedette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıldız / ünlü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نجم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Superstar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berühmtheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sänger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Berühmtheit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Star",
+    "plural": "die Stars",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Star",
+        "genitiv": "des Stars",
+        "dativ": "dem Star",
+        "akkusativ": "den Star"
+      },
+      "plural": {
+        "nominativ": "die Stars",
+        "genitiv": "der Stars",
+        "dativ": "den Stars",
+        "akkusativ": "die Stars"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Staar",
+    "Starr",
+    "Sstar",
+    "Stahr",
+    "Sthar"
+  ]
+}

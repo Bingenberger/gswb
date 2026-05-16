@@ -1,0 +1,88 @@
+{
+  "lemma": "Müllwagen",
+  "wortart": "Nomen",
+  "silben": "Müll-wa-gen",
+  "begriffserklaerung": "Ein Müllwagen ist ein großes Fahrzeug, das den Müll von den Häusern einsammelt und zur Mülldeponie oder zum Recyclinghof bringt.",
+  "beispielsatz": "Jeden Dienstag kommt der Müllwagen und leert unsere Mülltonne.",
+  "rechtschreibstrategie": "„Müllwagen\" ist ein zusammengesetztes Wort aus „Müll\" und „Wagen\". Das „ll\" in „Müll\" schreibst du doppelt, weil der Vokal „ü\" kurz gesprochen wird – du kannst es hören, wenn du das Wort langsam sagst: Müll!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Wagen"
+  ],
+  "bild_datei": "Müllwagen.webp",
+  "audio_datei": "Müllwagen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Müllwagen",
+    "plural": "die Müllwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Müllwagen",
+        "genitiv": "des Müllwagens",
+        "dativ": "dem Müllwagen",
+        "akkusativ": "den Müllwagen"
+      },
+      "plural": {
+        "nominativ": "die Müllwagen",
+        "genitiv": "der Müllwagen",
+        "dativ": "den Müllwagen",
+        "akkusativ": "die Müllwagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage truck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camion-poubelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاحنة القمامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müllmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müllauto"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mülwagen",
+    "Müllwagon",
+    "Mülwagon",
+    "Müllvagen",
+    "Mülwaggen"
+  ]
+}

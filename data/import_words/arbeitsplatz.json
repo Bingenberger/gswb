@@ -1,0 +1,88 @@
+{
+  "lemma": "Arbeitsplatz",
+  "wortart": "Nomen",
+  "silben": "Ar-beits-platz",
+  "begriffserklaerung": "Ein Arbeitsplatz ist der Ort, an dem jemand arbeitet – zum Beispiel ein Schreibtisch im Büro oder eine Werkbank in einer Werkstatt.",
+  "beispielsatz": "Meine Mutter räumt jeden Abend ihren Arbeitsplatz auf.",
+  "rechtschreibstrategie": "„Arbeitsplatz\" ist ein zusammengesetztes Wort aus „Arbeit\" und „Platz\". Sprich beide Teile nacheinander: Ar-beits-platz. Das „tz\" am Ende kommt von „Platz\" – nach dem kurzen „a\" schreibt man „tz\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit",
+    "Platz"
+  ],
+  "bild_datei": "Arbeitsplatz.webp",
+  "audio_datei": "Arbeitsplatz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Arbeitsplatz",
+    "plural": "die Arbeitsplätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Arbeitsplatz",
+        "genitiv": "des Arbeitsplatzes",
+        "dativ": "dem Arbeitsplatz",
+        "akkusativ": "den Arbeitsplatz"
+      },
+      "plural": {
+        "nominativ": "die Arbeitsplätze",
+        "genitiv": "der Arbeitsplätze",
+        "dativ": "den Arbeitsplätzen",
+        "akkusativ": "die Arbeitsplätze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "workplace"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lieu de travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işyeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكان العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeitsstelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Arbeidsplatz",
+    "Arbeitzplatz",
+    "Arbaitsplatz",
+    "Arbeitsplaz",
+    "Arbietsplatz"
+  ]
+}

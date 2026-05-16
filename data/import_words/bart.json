@@ -1,0 +1,82 @@
+{
+  "lemma": "Bart",
+  "wortart": "Nomen",
+  "silben": "Bart",
+  "begriffserklaerung": "Ein Bart ist das Haar, das bei manchen Menschen im Gesicht wächst, zum Beispiel an den Wangen, am Kinn oder über dem Mund.",
+  "beispielsatz": "Mein Opa hat einen langen, weißen Bart.",
+  "rechtschreibstrategie": "Wenn du „Bart\" verlängerst, sagst du „Bärte\" – dann hörst du das d am Ende ganz deutlich: Bar-t.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bart"
+  ],
+  "bild_datei": "Bart.webp",
+  "audio_datei": "Bart.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "barbe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sakal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لحية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bärtig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bartlos"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnurrbart"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vollbart"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Bart",
+    "plural": "Bärte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bart",
+        "genitiv": "des Bartes",
+        "dativ": "dem Bart",
+        "akkusativ": "den Bart"
+      },
+      "plural": {
+        "nominativ": "die Bärte",
+        "genitiv": "der Bärte",
+        "dativ": "den Bärten",
+        "akkusativ": "die Bärte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bard",
+    "Bahrt",
+    "Baart",
+    "Bardt",
+    "Barth"
+  ]
+}

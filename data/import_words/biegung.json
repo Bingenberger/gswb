@@ -1,0 +1,92 @@
+{
+  "lemma": "Biegung",
+  "wortart": "Nomen",
+  "silben": "Bie-gung",
+  "begriffserklaerung": "Eine Biegung ist eine Stelle, an der etwas nicht geradeaus geht, sondern sich krümmt oder dreht – zum Beispiel eine Kurve in einer Straße oder in einem Fluss.",
+  "beispielsatz": "Hinter der Biegung des Weges sahen wir plötzlich einen Fuchs.",
+  "rechtschreibstrategie": "Denk an das Verb „biegen\" – Biegung kommt von „biegen\". Das lange „ie\" hörst du deutlich: b-ie-gen → Bie-gung.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bieg"
+  ],
+  "bild_datei": "Biegung.webp",
+  "audio_datei": "Biegung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Biegung",
+    "plural": "die Biegungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Biegung",
+        "genitiv": "der Biegung",
+        "dativ": "der Biegung",
+        "akkusativ": "die Biegung"
+      },
+      "plural": {
+        "nominativ": "die Biegungen",
+        "genitiv": "der Biegungen",
+        "dativ": "den Biegungen",
+        "akkusativ": "die Biegungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bend / curve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "courbure / virage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "viraj / eğim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منحنى / انعطافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "biegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebogen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Krümmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    }
+  ],
+  "fehlschreibungen": [
+    "Biggung",
+    "Biegunk",
+    "Bigung",
+    "Biegug",
+    "Bieguing"
+  ]
+}

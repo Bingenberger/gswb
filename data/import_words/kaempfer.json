@@ -1,0 +1,87 @@
+{
+  "lemma": "Kämpfer",
+  "wortart": "Nomen",
+  "silben": "Kämp-fer",
+  "begriffserklaerung": "Ein Kämpfer ist jemand, der für etwas kämpft oder sich in einem Wettkampf misst. Ein Kämpfer gibt nicht leicht auf.",
+  "beispielsatz": "Der mutige Kämpfer gab im Turnier niemals auf.",
+  "rechtschreibstrategie": "Denk an das Verb „kämpfen\" – vom „kämpf-\" leitet sich „Kämpfer\" ab. Das ä schreibst du, weil das Wort mit „Kampf\" verwandt ist.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kämpf"
+  ],
+  "bild_datei": "Kämpfer.webp",
+  "audio_datei": "Kämpfer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kämpfer",
+    "plural": "die Kämpfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kämpfer",
+        "genitiv": "des Kämpfers",
+        "dativ": "dem Kämpfer",
+        "akkusativ": "den Kämpfer"
+      },
+      "plural": {
+        "nominativ": "die Kämpfer",
+        "genitiv": "der Kämpfer",
+        "dativ": "den Kämpfern",
+        "akkusativ": "die Kämpfer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fighter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "combattant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "savaşçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقاتل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kämpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kampf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Held"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kempfer",
+    "Kämpfер",
+    "Kämfer",
+    "Kämpffer",
+    "Keämpfer"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "bist",
+  "wortart": "Verb",
+  "silben": "bist",
+  "begriffserklaerung": "„Bist\" ist eine Form des Verbs „sein\". Du sagst „bist\", wenn du über dich selbst oder eine andere Person sprichst: „Du bist mein Freund.\"",
+  "beispielsatz": "Du bist heute sehr mutig!",
+  "rechtschreibstrategie": "Das Wort „bist\" klingt genau so, wie es geschrieben wird – sprich es laut: b-i-s-t. Alle vier Buchstaben werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "bist.webp",
+  "audio_datei": "bist.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "are (you are)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "es (tu es)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sin (sen sinsin)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنتَ/أنتِ (أنتَ/أنتِ)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "werden"
+    }
+  ],
+  "fehlschreibungen": [
+    "biest",
+    "bisst",
+    "bist",
+    "bisd",
+    "biss"
+  ]
+}

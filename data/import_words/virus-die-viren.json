@@ -1,0 +1,74 @@
+{
+  "lemma": "Virus / die Viren",
+  "wortart": "Nomen",
+  "silben": "Vi-rus",
+  "begriffserklaerung": "Ein Virus ist ein winzig kleiner Krankheitserreger, den man nicht sehen kann. Er kann Menschen, Tiere und Pflanzen krank machen.",
+  "beispielsatz": "Der Arzt sagte, dass ein Virus meine Erkältung ausgelöst hat.",
+  "rechtschreibstrategie": "Das Wort „Virus\" beginnt mit einem großen V – das V klingt wie ein F. Merke: V wie Virus!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Virus",
+    "plural": "die Viren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Virus",
+        "genitiv": "des Virus",
+        "dativ": "dem Virus",
+        "akkusativ": "den Virus"
+      },
+      "plural": {
+        "nominativ": "die Viren",
+        "genitiv": "der Viren",
+        "dativ": "den Viren",
+        "akkusativ": "die Viren"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "vir"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bakterium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Infektion"
+    }
+  ],
+  "fehlschreibungen": [
+    "Firus",
+    "Wirous",
+    "Virous",
+    "Vierus",
+    "Viruß"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "virus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "virus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "virüs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيروس"
+    }
+  ],
+  "bild_datei": "Virus / die Viren.webp",
+  "audio_datei": "Virus / die Viren.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Mikroskop",
+  "wortart": "Nomen",
+  "silben": "Mik-ros-kop",
+  "begriffserklaerung": "Ein Mikroskop ist ein Gerät, mit dem man winzig kleine Dinge ganz groß sehen kann, die man sonst mit den Augen nicht erkennen würde.",
+  "beispielsatz": "Im Schulunterricht schauen wir mit dem Mikroskop auf ein Blatt und sehen die kleinen Zellen darin.",
+  "rechtschreibstrategie": "Das Wort „Mikroskop\" ist ein Merkwort – sprich es laut in Silben: Mik-ros-kop. Es kommt aus dem Griechischen und muss einfach gemerkt werden.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mikroskop"
+  ],
+  "bild_datei": "Mikroskop.webp",
+  "audio_datei": "Mikroskop.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "microscope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "microscope"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mikroskop"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mikroskopisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lupe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teleskop"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mikroskop",
+    "plural": "die Mikroskope",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mikroskop",
+        "genitiv": "des Mikroskops",
+        "dativ": "dem Mikroskop",
+        "akkusativ": "das Mikroskop"
+      },
+      "plural": {
+        "nominativ": "die Mikroskope",
+        "genitiv": "der Mikroskope",
+        "dativ": "den Mikroskopen",
+        "akkusativ": "die Mikroskope"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mikroscop",
+    "Mikroskoop",
+    "Mikrokop",
+    "Mikrosckop",
+    "Mykroskop"
+  ]
+}

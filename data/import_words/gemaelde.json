@@ -1,0 +1,82 @@
+{
+  "lemma": "Gemälde",
+  "wortart": "Nomen",
+  "silben": "Ge-mäl-de",
+  "begriffserklaerung": "Ein Gemälde ist ein Bild, das ein Künstler oder eine Künstlerin mit Farbe auf eine Leinwand oder ein Brett gemalt hat.",
+  "beispielsatz": "Im Museum hängt ein buntes Gemälde von einem Sonnenuntergang.",
+  "rechtschreibstrategie": "Denk an das Verb „malen\": Ge-mäl-de kommt von „malen\" – das ä hörst du, wenn du „Mal\" verlängerst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "mal"
+  ],
+  "bild_datei": "Gemälde.webp",
+  "audio_datei": "Gemälde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "painting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tablo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوحة فنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "malen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunstwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pinsel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bild"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gemälde",
+    "plural": "die Gemälde",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gemälde",
+        "genitiv": "des Gemäldes",
+        "dativ": "dem Gemälde",
+        "akkusativ": "das Gemälde"
+      },
+      "plural": {
+        "nominativ": "die Gemälde",
+        "genitiv": "der Gemälde",
+        "dativ": "den Gemälden",
+        "akkusativ": "die Gemälde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gemelde",
+    "Gemählde",
+    "Gemälte",
+    "Gemahllde",
+    "Gemälld"
+  ]
+}

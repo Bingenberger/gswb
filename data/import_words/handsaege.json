@@ -1,0 +1,85 @@
+{
+  "lemma": "Handsäge",
+  "wortart": "Nomen",
+  "silben": "Hand-sä-ge",
+  "begriffserklaerung": "Eine Handsäge ist ein Werkzeug mit einem langen Metallblatt und scharfen Zähnen. Mit ihr sägt man Holz oder andere Materialien durch – ganz ohne Strom, nur mit der Hand.",
+  "beispielsatz": "Papa schneidet das Brett mit der Handsäge durch.",
+  "rechtschreibstrategie": "„Handsäge\" ist ein zusammengesetztes Wort aus „Hand\" und „Säge\". Schreibe beide Teile einfach hintereinander: Hand + Säge = Handsäge. Das ä in „Säge\" erkennst du, wenn du an „sägen\" denkst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "säg",
+    "hand"
+  ],
+  "bild_datei": "Handsäge.webp",
+  "audio_datei": "Handsäge.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Handsäge",
+    "plural": "die Handsägen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Handsäge",
+        "genitiv": "der Handsäge",
+        "dativ": "der Handsäge",
+        "akkusativ": "die Handsäge"
+      },
+      "plural": {
+        "nominativ": "die Handsägen",
+        "genitiv": "der Handsägen",
+        "dativ": "den Handsägen",
+        "akkusativ": "die Handsägen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handsaw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scie à main"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el testeresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منشار يدوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sägen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraubenzieher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hantsäge",
+    "Handsege",
+    "Handsaege",
+    "Handsähe",
+    "Handsäke",
+    "Hanttsäge"
+  ]
+}

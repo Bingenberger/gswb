@@ -1,0 +1,81 @@
+{
+  "lemma": "Wärmflasche",
+  "wortart": "Nomen",
+  "silben": "Wärm-fla-sche",
+  "begriffserklaerung": "Eine Wärmflasche ist ein flacher Behälter aus Gummi, den man mit heißem Wasser füllt. Sie gibt Wärme ab und hilft zum Beispiel bei Bauchschmerzen oder wenn man friert.",
+  "beispielsatz": "Wenn mein Bauch wehtut, lege ich mir eine Wärmflasche auf den Bauch.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Wärm\" (von „warm\" / „Wärme\") und „Flasche\". Denk beim Schreiben an beide Bausteine!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "warm",
+    "Wärme"
+  ],
+  "bild_datei": "Wärmflasche.webp",
+  "audio_datei": "Wärmflasche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wärmflasche",
+    "plural": "die Wärmflaschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wärmflasche",
+        "genitiv": "der Wärmflasche",
+        "dativ": "der Wärmflasche",
+        "akkusativ": "die Wärmflasche"
+      },
+      "plural": {
+        "nominativ": "die Wärmflaschen",
+        "genitiv": "der Wärmflaschen",
+        "dativ": "den Wärmflaschen",
+        "akkusativ": "die Wärmflaschen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hot water bottle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouillotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıcak su torbası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كيس الماء الساخن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "warm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Decke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heizkissen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wermflasche",
+    "Wärmeflasche",
+    "Wärmflasche",
+    "Wärmflacshe",
+    "Wärmflatsche",
+    "Wärmflaashe"
+  ]
+}

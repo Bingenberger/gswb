@@ -1,0 +1,90 @@
+{
+  "lemma": "hämmern",
+  "wortart": "Verb",
+  "silben": "häm-mern",
+  "begriffserklaerung": "Mit einem Hammer auf etwas schlagen, zum Beispiel einen Nagel in die Wand treiben.",
+  "beispielsatz": "Papa hämmert den Nagel fest in die Wand.",
+  "rechtschreibstrategie": "Nach dem kurzen „ä\" kommt doppeltes „m\" – das zeigt: der Vokal ist kurz. Sprich: HÄM-mern!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Hammer"
+  ],
+  "bild_datei": "hämmern.webp",
+  "audio_datei": "hämmern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hammer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marteler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekiçle çakmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يطرق بالمطرقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hammern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nageln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "klopfen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "hämmern",
+    "praesens": {
+      "ich": "hämmere",
+      "du": "hämmerst",
+      "er_sie_es": "hämmert",
+      "wir": "hämmern",
+      "ihr": "hämmert",
+      "sie": "hämmern"
+    },
+    "perfekt": {
+      "ich": "habe gehämmert",
+      "du": "hast gehämmert",
+      "er_sie_es": "hat gehämmert",
+      "wir": "haben gehämmert",
+      "ihr": "habt gehämmert",
+      "sie": "haben gehämmert"
+    },
+    "praeteritum": {
+      "ich": "hämmerte",
+      "du": "hämmertest",
+      "er_sie_es": "hämmerte",
+      "wir": "hämmerten",
+      "ihr": "hämmertet",
+      "sie": "hämmerten"
+    }
+  },
+  "fehlschreibungen": [
+    "hämern",
+    "hammern",
+    "hemmern",
+    "hämmern",
+    "hämmmern"
+  ]
+}

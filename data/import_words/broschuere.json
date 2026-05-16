@@ -1,0 +1,79 @@
+{
+  "lemma": "Broschüre",
+  "wortart": "Nomen",
+  "silben": "Bro-schü-re",
+  "begriffserklaerung": "Eine Broschüre ist ein dünnes Heftchen mit Bildern und Texten, das über ein bestimmtes Thema informiert.",
+  "beispielsatz": "Im Urlaub haben wir eine bunte Broschüre über den Freizeitpark bekommen.",
+  "rechtschreibstrategie": "Das Wort „Broschüre\" kommt aus dem Französischen. Merke dir: Nach dem „sch\" kommt ein „ü\" mit Umlaut – Bro-schü-re. Am Ende steht ein stummes „e\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "broschier"
+  ],
+  "bild_datei": "Broschüre.webp",
+  "audio_datei": "Broschüre.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Broschüre",
+    "plural": "die Broschüren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Broschüre",
+        "genitiv": "der Broschüre",
+        "dativ": "der Broschüre",
+        "akkusativ": "die Broschüre"
+      },
+      "plural": {
+        "nominativ": "die Broschüren",
+        "genitiv": "der Broschüren",
+        "dativ": "den Broschüren",
+        "akkusativ": "die Broschüren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brochure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brochure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "broşür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتيب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "broschiert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flyer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heftchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Broshüre",
+    "Broschühr",
+    "Brochüre",
+    "Broschüre",
+    "Broschiere",
+    "Broschiüre"
+  ]
+}

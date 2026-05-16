@@ -1,0 +1,87 @@
+{
+  "lemma": "Lehre",
+  "wortart": "Nomen",
+  "silben": "Leh-re",
+  "begriffserklaerung": "Eine Lehre ist das Lernen eines Berufs oder eine wichtige Erkenntnis, die man aus einer Erfahrung mitnimmt.",
+  "beispielsatz": "Der Tischler macht eine Lehre, um seinen Beruf richtig zu lernen.",
+  "rechtschreibstrategie": "Das Wort „Lehre\" hat ein Dehnungs-h nach dem „e\": L-e-h-r-e. Das „h\" spricht man nicht, aber es dehnt den Vokal davor.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "Lehre.webp",
+  "audio_datei": "Lehre.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apprenticeship / teaching"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apprentissage / enseignement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğretim / çıraklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تعليم / تدريب مهني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausbildung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausbildung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lehre",
+    "plural": "die Lehren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lehre",
+        "genitiv": "der Lehre",
+        "dativ": "der Lehre",
+        "akkusativ": "die Lehre"
+      },
+      "plural": {
+        "nominativ": "die Lehren",
+        "genitiv": "der Lehren",
+        "dativ": "den Lehren",
+        "akkusativ": "die Lehren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lere",
+    "Lhere",
+    "Leere",
+    "Lehre",
+    "Lähre",
+    "Lehra"
+  ]
+}

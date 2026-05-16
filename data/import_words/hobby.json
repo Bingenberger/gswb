@@ -1,0 +1,73 @@
+{
+  "lemma": "Hobby",
+  "wortart": "Nomen",
+  "silben": "Hob-by",
+  "begriffserklaerung": "Ein Hobby ist etwas, das du in deiner Freizeit gerne machst, weil es dir Spaß macht – zum Beispiel Malen, Fußball spielen oder Lesen.",
+  "beispielsatz": "Mein Hobby ist das Basteln von Papierflugzeugen.",
+  "rechtschreibstrategie": "„Hobby\" kommt aus dem Englischen und endet auf -by. Denk daran: Nach dem kurzen „o\" steht ein Doppel-b!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Hobby.webp",
+  "audio_datei": "Hobby.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hobby"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loisir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hobi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هواية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freizeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lieblingsbeschäftigung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hobby",
+    "plural": "die Hobbys",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hobby",
+        "genitiv": "des Hobbys",
+        "dativ": "dem Hobby",
+        "akkusativ": "das Hobby"
+      },
+      "plural": {
+        "nominativ": "die Hobbys",
+        "genitiv": "der Hobbys",
+        "dativ": "den Hobbys",
+        "akkusativ": "die Hobbys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hobi",
+    "Hoby",
+    "Hobbie",
+    "Hobbies",
+    "hobby"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Sonnenschutz",
+  "wortart": "Nomen",
+  "silben": "Son-nen-schutz",
+  "begriffserklaerung": "Der Sonnenschutz schützt deinen Körper vor den starken Strahlen der Sonne. Das kann eine Creme, eine Sonnenbrille oder ein Hut sein.",
+  "beispielsatz": "Bevor wir an den Strand gehen, cremen wir uns mit Sonnenschutz ein.",
+  "rechtschreibstrategie": "„Sonnenschutz\" ist aus zwei Wörtern zusammengebaut: „Sonne\" und „Schutz\". Das n wird verdoppelt, weil zwei Wörter aufeinandertreffen: Sonne + n + Schutz. Das „tz\" am Ende schreibst du, weil nach dem kurzen „u\" ein Kürzezeichen folgt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Schutz"
+  ],
+  "bild_datei": "Sonnenschutz.webp",
+  "audio_datei": "Sonnenschutz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sonnenschutz",
+    "plural": "die Sonnenschutze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sonnenschutz",
+        "genitiv": "des Sonnenschutzes",
+        "dativ": "dem Sonnenschutz",
+        "akkusativ": "den Sonnenschutz"
+      },
+      "plural": {
+        "nominativ": "die Sonnenschutze",
+        "genitiv": "der Sonnenschutze",
+        "dativ": "den Sonnenschutzen",
+        "akkusativ": "die Sonnenschutze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sun protection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "protection solaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş koruyucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "واقٍ من الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnencreme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenbrille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenbrand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sonnencreme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sonnenschuz",
+    "Sonnenshutz",
+    "Sonnenschutz",
+    "Sohnenschutz",
+    "Sonneschutz",
+    "Zonenschutz",
+    "Sonnensschutz"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Eisenzeit",
+  "wortart": "Nomen",
+  "silben": "Ei-sen-zeit",
+  "begriffserklaerung": "Die Eisenzeit ist ein Abschnitt in der Geschichte der Menschen, in dem die Menschen lernten, Eisen zu schmelzen und daraus Werkzeuge und Waffen herzustellen. Sie begann vor etwa 3000 Jahren.",
+  "beispielsatz": "In der Eisenzeit stellten die Menschen Schwerter und Pflüge aus Eisen her.",
+  "rechtschreibstrategie": "Das Wort „Eisenzeit\" ist ein zusammengesetztes Nomen aus „Eisen\" und „Zeit\". Trenne die zwei Bausteine: Eisen + Zeit.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Eisen",
+    "Zeit"
+  ],
+  "bild_datei": "Eisenzeit.webp",
+  "audio_datei": "Eisenzeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Iron Age"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Âge du fer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Demir Çağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "العصر الحديدي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steinzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bronzezeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eisenzeit",
+    "plural": "die Eisenzeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eisenzeit",
+        "genitiv": "der Eisenzeit",
+        "dativ": "der Eisenzeit",
+        "akkusativ": "die Eisenzeit"
+      },
+      "plural": {
+        "nominativ": "die Eisenzeiten",
+        "genitiv": "der Eisenzeiten",
+        "dativ": "den Eisenzeiten",
+        "akkusativ": "die Eisenzeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eissenzeit",
+    "Eisentzeid",
+    "Eisenzeid",
+    "Eizenzeit",
+    "Eisenzeitt",
+    "Eißenzeit"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Stecker",
+  "wortart": "Nomen",
+  "silben": "Ste-cker",
+  "begriffserklaerung": "Ein Stecker ist das Teil am Ende eines Kabels, das man in eine Steckdose steckt, damit Geräte wie Lampen oder Fernseher Strom bekommen.",
+  "beispielsatz": "Papa steckt den Stecker der Lampe in die Steckdose.",
+  "rechtschreibstrategie": "Das Wort „Stecker\" hat ein kurzes „e\" in der Mitte. Deshalb schreibt man „ck\" – das zeigt: der Vokal davor ist kurz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "steck"
+  ],
+  "bild_datei": "Stecker.webp",
+  "audio_datei": "Stecker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plug"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fiche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قابس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stecker",
+    "plural": "die Stecker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stecker",
+        "genitiv": "des Steckers",
+        "dativ": "dem Stecker",
+        "akkusativ": "den Stecker"
+      },
+      "plural": {
+        "nominativ": "die Stecker",
+        "genitiv": "der Stecker",
+        "dativ": "den Steckern",
+        "akkusativ": "die Stecker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Steker",
+    "Stekker",
+    "Stäcker",
+    "Ztecker",
+    "Steckher"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Näherin",
+  "wortart": "Nomen",
+  "silben": "Nä-he-rin",
+  "begriffserklaerung": "Eine Näherin ist eine Frau, die Stoffe mit Nadel und Faden oder einer Nähmaschine zusammennäht und Kleidung herstellt oder repariert.",
+  "beispielsatz": "Die Näherin macht das zerrissene Kleid wieder schön.",
+  "rechtschreibstrategie": "Das Wort „Näherin\" kommt von „nähen\". Das ä schreibst du wie in „Nadel\" – denk an die Nähnadel!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "näh"
+  ],
+  "bild_datei": "Näherin.webp",
+  "audio_datei": "Näherin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Näherin",
+    "plural": "die Näherinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Näherin",
+        "genitiv": "der Näherin",
+        "dativ": "der Näherin",
+        "akkusativ": "die Näherin"
+      },
+      "plural": {
+        "nominativ": "die Näherinnen",
+        "genitiv": "der Näherinnen",
+        "dativ": "den Näherinnen",
+        "akkusativ": "die Näherinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seamstress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couturière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dikişçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خياطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nähen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Näher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nähmaschine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schneiderin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Neherin",
+    "Naeherin",
+    "Nährin",
+    "Nährein",
+    "Näherinn"
+  ]
+}

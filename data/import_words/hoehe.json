@@ -1,0 +1,86 @@
+{
+  "lemma": "Höhe",
+  "wortart": "Nomen",
+  "silben": "Hö-he",
+  "begriffserklaerung": "Die Höhe sagt uns, wie weit etwas nach oben reicht – zum Beispiel, wie hoch ein Baum oder ein Berg ist.",
+  "beispielsatz": "Der Turm hat eine beeindruckende Höhe von zwanzig Metern.",
+  "rechtschreibstrategie": "Denk an das Wort „hoch\": Wenn du es verlängerst, hörst du das „h\" am Anfang deutlich – Höhe kommt von hoch!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hoch"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Höhe",
+    "plural": "die Höhen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Höhe",
+        "genitiv": "der Höhe",
+        "dativ": "der Höhe",
+        "akkusativ": "die Höhe"
+      },
+      "plural": {
+        "nominativ": "die Höhen",
+        "genitiv": "der Höhen",
+        "dativ": "den Höhen",
+        "akkusativ": "die Höhen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Höhe",
+    "Höe",
+    "Hö he",
+    "Höohe"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "height"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hauteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yükseklik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ارتفاع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hoch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erhöhen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Größe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiefe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Breite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Länge"
+    }
+  ],
+  "bild_datei": "Höhe.webp",
+  "audio_datei": "Höhe.mp3"
+}

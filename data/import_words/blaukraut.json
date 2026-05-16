@@ -1,0 +1,82 @@
+{
+  "lemma": "Blaukraut",
+  "wortart": "Nomen",
+  "silben": "Blau-kraut",
+  "begriffserklaerung": "Blaukraut ist ein Gemüse mit dunkelvioletten Blättern. Es wird oft als Salat oder gekochte Beilage gegessen. In manchen Gegenden nennt man es auch Rotkohl.",
+  "beispielsatz": "Zum Sonntagsessen gibt es bei uns gebratene Ente mit Blaukraut.",
+  "rechtschreibstrategie": "Blaukraut ist ein zusammengesetztes Wort aus „blau\" und „Kraut\". Sprich beide Teile einzeln: BLAU + KRAUT. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kraut"
+  ],
+  "bild_datei": "Blaukraut.webp",
+  "audio_datei": "Blaukraut.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Blaukraut",
+    "plural": "die Blaukräuter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Blaukraut",
+        "genitiv": "des Blaukrauts",
+        "dativ": "dem Blaukraut",
+        "akkusativ": "das Blaukraut"
+      },
+      "plural": {
+        "nominativ": "die Blaukräuter",
+        "genitiv": "der Blaukräuter",
+        "dativ": "den Blaukräutern",
+        "akkusativ": "die Blaukräuter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "red cabbage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chou rouge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kırmızı lahana"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملفوف أحمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rotkohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weißkohl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blaukraud",
+    "Blauckraut",
+    "Blaucraut",
+    "Blaukraudt",
+    "Blaukrawt"
+  ]
+}

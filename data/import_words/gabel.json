@@ -1,0 +1,83 @@
+{
+  "lemma": "Gabel",
+  "wortart": "Nomen",
+  "silben": "Ga-bel",
+  "begriffserklaerung": "Eine Gabel ist ein Besteck mit mehreren Zinken, mit dem man beim Essen Speisen aufspießt und zum Mund führt.",
+  "beispielsatz": "Ich esse die Nudeln mit der Gabel.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ga-bel. Du hörst zwei Silben. Achte auf das „a\" am Anfang – es klingt lang, also kein Doppelbuchstabe danach.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Gabel"
+  ],
+  "bild_datei": "Gabel.webp",
+  "audio_datei": "Gabel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fork"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fourchette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çatal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوكة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gabeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mistgabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besteck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gabel",
+    "plural": "die Gabeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gabel",
+        "genitiv": "der Gabel",
+        "dativ": "der Gabel",
+        "akkusativ": "die Gabel"
+      },
+      "plural": {
+        "nominativ": "die Gabeln",
+        "genitiv": "der Gabeln",
+        "dativ": "den Gabeln",
+        "akkusativ": "die Gabeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gabbel",
+    "Gabbl",
+    "Gabl",
+    "Gabeln",
+    "Kabel",
+    "Gapel"
+  ]
+}

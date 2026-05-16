@@ -1,0 +1,102 @@
+{
+  "lemma": "sagen",
+  "wortart": "Verb",
+  "silben": "sa-gen",
+  "begriffserklaerung": "Etwas mit Worten ausdrücken oder jemandem mitteilen.",
+  "beispielsatz": "Kannst du mir bitte sagen, wie spät es ist?",
+  "rechtschreibstrategie": "Sprich das Wort laut: „sa-gen\". Du hörst ein weiches „g\" – denk daran, es nicht mit „k\" zu verwechseln!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sag"
+  ],
+  "bild_datei": "sagen.webp",
+  "audio_datei": "sagen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sagen",
+    "praesens": {
+      "ich": "sage",
+      "du": "sagst",
+      "er_sie_es": "sagt",
+      "wir": "sagen",
+      "ihr": "sagt",
+      "sie": "sagen"
+    },
+    "perfekt": {
+      "ich": "habe gesagt",
+      "du": "hast gesagt",
+      "er_sie_es": "hat gesagt",
+      "wir": "haben gesagt",
+      "ihr": "habt gesagt",
+      "sie": "haben gesagt"
+    },
+    "praeteritum": {
+      "ich": "sagte",
+      "du": "sagtest",
+      "er_sie_es": "sagte",
+      "wir": "sagten",
+      "ihr": "sagtet",
+      "sie": "sagten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to say"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "söylemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aussage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ansagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "meinen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "antworten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erzählen"
+    }
+  ],
+  "fehlschreibungen": [
+    "sagan",
+    "sägen",
+    "saggen",
+    "zagen",
+    "sahgen"
+  ]
+}

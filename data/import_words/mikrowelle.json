@@ -1,0 +1,79 @@
+{
+  "lemma": "Mikrowelle",
+  "wortart": "Nomen",
+  "silben": "Mik-ro-wel-le",
+  "begriffserklaerung": "Eine Mikrowelle ist ein Küchengerät, das Speisen und Getränke sehr schnell erhitzt oder aufwärmt.",
+  "beispielsatz": "Mama wärmt die Suppe in der Mikrowelle auf.",
+  "rechtschreibstrategie": "Das Wort „Mikrowelle\" besteht aus zwei Teilen: „Mikro\" und „Welle\". Sprich beide Teile laut: Mik-ro-wel-le. Das „ll\" in „Welle\" schreibst du doppelt, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Welle"
+  ],
+  "bild_datei": "Mikrowelle.webp",
+  "audio_datei": "Mikrowelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mikrowelle",
+    "plural": "die Mikrowellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mikrowelle",
+        "genitiv": "der Mikrowelle",
+        "dativ": "der Mikrowelle",
+        "akkusativ": "die Mikrowelle"
+      },
+      "plural": {
+        "nominativ": "die Mikrowellen",
+        "genitiv": "der Mikrowellen",
+        "dativ": "den Mikrowellen",
+        "akkusativ": "die Mikrowellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "microwave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "micro-ondes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mikrodalga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميكروويف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Toaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backofen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mikrowele",
+    "Mikrowelle",
+    "Mikkrowelle",
+    "Mikrowälle",
+    "Microwelle"
+  ]
+}

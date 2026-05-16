@@ -1,0 +1,86 @@
+{
+  "lemma": "Hafen",
+  "wortart": "Nomen",
+  "silben": "Ha-fen",
+  "begriffserklaerung": "Ein Hafen ist ein geschützter Ort am Wasser, wo Schiffe anlegen, be- und entladen werden und sicher liegen können.",
+  "beispielsatz": "Die großen Schiffe liegen ruhig im Hafen und warten auf ihre nächste Reise.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ha-fen. Nach dem langen „a\" kommt nur ein „f\" – kein Doppel-f!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Hafen"
+  ],
+  "bild_datei": "Hafen.webp",
+  "audio_datei": "Hafen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "harbour / port"
+    },
+    {
+      "language_code": "fr",
+      "translation": "port"
+    },
+    {
+      "language_code": "tr",
+      "translation": "liman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hafenstadt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hafenarbeiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Port"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hafen",
+    "plural": "die Häfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hafen",
+        "genitiv": "des Hafens",
+        "dativ": "dem Hafen",
+        "akkusativ": "den Hafen"
+      },
+      "plural": {
+        "nominativ": "die Häfen",
+        "genitiv": "der Häfen",
+        "dativ": "den Häfen",
+        "akkusativ": "die Häfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haften",
+    "Haffen",
+    "Hafenn",
+    "hafen",
+    "Haafen"
+  ]
+}

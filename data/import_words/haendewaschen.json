@@ -1,0 +1,85 @@
+{
+  "lemma": "Händewaschen",
+  "wortart": "Nomen",
+  "silben": "Hän-de-wa-schen",
+  "begriffserklaerung": "Händewaschen bedeutet, dass man seine Hände mit Wasser und Seife sauber macht, damit keine Keime daran bleiben.",
+  "beispielsatz": "Vor dem Essen ist Händewaschen sehr wichtig!",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Hände\" und „waschen\". Denk daran, dass „Hände\" ein Umlaut-ä hat – es kommt von „Hand\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "waschen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Händewaschen",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Händewaschen",
+        "genitiv": "des Händewaschens",
+        "dativ": "dem Händewaschen",
+        "akkusativ": "das Händewaschen"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "bild_datei": "Händewaschen.webp",
+  "audio_datei": "Händewaschen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washing hands"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lavage des mains"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el yıkama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غسل اليدين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hygiene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hänewaschen",
+    "Händewashen",
+    "Hendewaschen",
+    "Händwaschen",
+    "Händewaßen",
+    "Häntewaschen"
+  ]
+}

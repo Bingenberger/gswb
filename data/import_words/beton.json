@@ -1,0 +1,82 @@
+{
+  "lemma": "Beton",
+  "wortart": "Nomen",
+  "silben": "Be-ton",
+  "begriffserklaerung": "Beton ist ein sehr harter Baustoff. Er wird aus Sand, Kies, Zement und Wasser gemischt. Wenn er trocken ist, ist er steinhart. Aus Beton baut man Häuser, Brücken und Straßen.",
+  "beispielsatz": "Die Arbeiter gießen den Beton in die Form für die neue Brücke.",
+  "rechtschreibstrategie": "Das Wort „Beton\" kommt aus dem Französischen und spricht sich be-TON. Denk daran: Am Ende steht ein -on, nicht -ann oder -ohn. Sprich es laut, dann hörst du es!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "beton"
+  ],
+  "bild_datei": "Beton.webp",
+  "audio_datei": "Beton.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beton",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beton",
+        "genitiv": "des Betons",
+        "dativ": "dem Beton",
+        "akkusativ": "den Beton"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "concrete"
+    },
+    {
+      "language_code": "fr",
+      "translation": "béton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beton"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خرسانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "betonieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Betonmauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zement"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mörtel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bethon",
+    "Betonn",
+    "Betohn",
+    "Betton",
+    "Beeton"
+  ]
+}

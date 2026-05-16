@@ -1,0 +1,85 @@
+{
+  "lemma": "Kuchenteller",
+  "wortart": "Nomen",
+  "silben": "Ku-chen-tel-ler",
+  "begriffserklaerung": "Ein Kuchenteller ist ein kleiner, flacher Teller, auf den man ein Stück Kuchen legt und davon isst.",
+  "beispielsatz": "Mama legt mir ein großes Stück Schokoladenkuchen auf meinen Kuchenteller.",
+  "rechtschreibstrategie": "Das Wort „Kuchenteller\" besteht aus zwei Teilen: „Kuchen\" und „Teller\". Sprich beide Teile einzeln, dann kannst du sie richtig zusammenschreiben. Das „ll\" in „Teller\" hörst du beim lauten Sprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kuchen",
+    "Teller"
+  ],
+  "bild_datei": "Kuchenteller.webp",
+  "audio_datei": "Kuchenteller.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kuchenteller",
+    "plural": "die Kuchenteller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kuchenteller",
+        "genitiv": "des Kuchentellers",
+        "dativ": "dem Kuchenteller",
+        "akkusativ": "den Kuchenteller"
+      },
+      "plural": {
+        "nominativ": "die Kuchenteller",
+        "genitiv": "der Kuchenteller",
+        "dativ": "den Kuchentellern",
+        "akkusativ": "die Kuchenteller"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cake plate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assiette à gâteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pasta tabağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبق الكعك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tortenteller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dessertteller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchengabel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kuchenteler",
+    "Kuchentäller",
+    "Kuchentäler",
+    "Kuhchenteller",
+    "Kuchentellar",
+    "Kuchenteller"
+  ]
+}

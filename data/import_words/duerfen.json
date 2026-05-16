@@ -1,0 +1,91 @@
+{
+  "lemma": "dürfen",
+  "wortart": "Verb",
+  "silben": "dür-fen",
+  "begriffserklaerung": "Dürfen bedeutet, dass man die Erlaubnis hat, etwas zu tun.",
+  "beispielsatz": "Am Wochenende darf ich länger aufbleiben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „dür-fen\". Das ü klingt kurz, deshalb kommt danach ein r. Denk an das ü wie in „fünf\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "dürfen",
+    "praesens": {
+      "ich": "darf",
+      "du": "darfst",
+      "er_sie_es": "darf",
+      "wir": "dürfen",
+      "ihr": "dürft",
+      "sie": "dürfen"
+    },
+    "perfekt": {
+      "ich": "ich habe gedurft",
+      "du": "du hast gedurft",
+      "er_sie_es": "er/sie/es hat gedurft",
+      "wir": "wir haben gedurft",
+      "ihr": "ihr habt gedurft",
+      "sie": "sie haben gedurft"
+    },
+    "praeteritum": {
+      "ich": "durfte",
+      "du": "durftest",
+      "er_sie_es": "durfte",
+      "wir": "durften",
+      "ihr": "durftet",
+      "sie": "durften"
+    }
+  },
+  "wortfamilie_basen": [
+    "dürf"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erlaubnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "können"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "müssen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sollen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wollen"
+    }
+  ],
+  "bild_datei": "dürfen.webp",
+  "audio_datei": "dürfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be allowed to"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avoir le droit de"
+    },
+    {
+      "language_code": "tr",
+      "translation": "izin olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسمح له"
+    }
+  ],
+  "fehlschreibungen": [
+    "dürffen",
+    "dierfen",
+    "dürften",
+    "dürven",
+    "dürfn",
+    "düfen"
+  ]
+}

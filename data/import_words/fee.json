@@ -1,0 +1,72 @@
+{
+  "lemma": "Fee",
+  "wortart": "Nomen",
+  "silben": "Fee",
+  "begriffserklaerung": "Eine Fee ist ein Zauberwesen aus Märchen. Feen sehen meist wie kleine Frauen mit Flügeln aus und können Wünsche erfüllen.",
+  "beispielsatz": "Die gute Fee berührte den Kürbis mit ihrem Zauberstab und verwandelte ihn in eine Kutsche.",
+  "rechtschreibstrategie": "„Fee\" hat zwei e am Ende. Denk an das Wort „See\" – beide enden auf zwei e!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Fee.webp",
+  "audio_datei": "Fee.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fairy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "peri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberstab"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fee",
+    "plural": "die Feen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fee",
+        "genitiv": "der Fee",
+        "dativ": "der Fee",
+        "akkusativ": "die Fee"
+      },
+      "plural": {
+        "nominativ": "die Feen",
+        "genitiv": "der Feen",
+        "dativ": "den Feen",
+        "akkusativ": "die Feen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feh",
+    "Vee",
+    "Fei",
+    "Feeh",
+    "Fée"
+  ]
+}

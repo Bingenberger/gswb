@@ -1,0 +1,82 @@
+{
+  "lemma": "Gegend",
+  "wortart": "Nomen",
+  "silben": "Ge-gend",
+  "begriffserklaerung": "Eine Gegend ist ein bestimmter Bereich oder ein Gebiet, in dem man wohnt oder das man kennt.",
+  "beispielsatz": "In unserer Gegend gibt es viele schöne Wälder und Wiesen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ge-gend. Am Ende hörst du „gend\" – denk daran, dass es mit „g\" und „d\" endet, auch wenn das „d\" weich klingt.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gegen"
+  ],
+  "bild_datei": "Gegend.webp",
+  "audio_datei": "Gegend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "area, region"
+    },
+    {
+      "language_code": "fr",
+      "translation": "région, coin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bölge, yöre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منطقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebiet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Region"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umgebung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gegend",
+    "plural": "die Gegenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gegend",
+        "genitiv": "der Gegend",
+        "dativ": "der Gegend",
+        "akkusativ": "die Gegend"
+      },
+      "plural": {
+        "nominativ": "die Gegenden",
+        "genitiv": "der Gegenden",
+        "dativ": "den Gegenden",
+        "akkusativ": "die Gegenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gegent",
+    "Gegand",
+    "Geggend",
+    "Gegenn",
+    "Gegänd"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Aktivität",
+  "wortart": "Nomen",
+  "silben": "Ak-ti-vi-tät",
+  "begriffserklaerung": "Eine Aktivität ist etwas, das man tut oder unternimmt, zum Beispiel ein Spiel, ein Sport oder eine Beschäftigung.",
+  "beispielsatz": "Im Sommer ist Schwimmen meine liebste Aktivität.",
+  "rechtschreibstrategie": "Das Wort „Aktivität\" kommt aus dem Lateinischen. Merke: Am Ende steht -tät, nicht -tet oder -teit. Sprich es laut und deutlich: Ak-ti-vi-TÄT!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "aktiv"
+  ],
+  "bild_datei": "Aktivität.webp",
+  "audio_datei": "Aktivität.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "activity"
+    },
+    {
+      "language_code": "fr",
+      "translation": "activité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aktivite"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نشاط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aktiv"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aktivieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beschäftigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hobby"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tätigkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aktivität",
+    "plural": "die Aktivitäten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aktivität",
+        "genitiv": "der Aktivität",
+        "dativ": "der Aktivität",
+        "akkusativ": "die Aktivität"
+      },
+      "plural": {
+        "nominativ": "die Aktivitäten",
+        "genitiv": "der Aktivitäten",
+        "dativ": "den Aktivitäten",
+        "akkusativ": "die Aktivitäten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Activität",
+    "Aktivitaet",
+    "Aktivitäht",
+    "Akitivität",
+    "Aktiviteit",
+    "Aktivitett"
+  ]
+}

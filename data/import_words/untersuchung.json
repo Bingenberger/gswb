@@ -1,0 +1,89 @@
+{
+  "lemma": "Untersuchung",
+  "wortart": "Nomen",
+  "silben": "Un-ter-su-chung",
+  "begriffserklaerung": "Eine Untersuchung ist, wenn jemand – zum Beispiel ein Arzt – genau nachschaut, wie es dir geht oder ob etwas in Ordnung ist.",
+  "beispielsatz": "Beim Arzt hat die Ärztin eine gründliche Untersuchung gemacht.",
+  "rechtschreibstrategie": "Das Wort besteht aus den Teilen „unter\" und „suchen\". Denke beim Schreiben an das Verb „suchen\" – dann weißt du, dass in der Mitte ein „s\" steht: unter-such-ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "bild_datei": "Untersuchung.webp",
+  "audio_datei": "Untersuchung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Untersuchung",
+    "plural": "die Untersuchungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Untersuchung",
+        "genitiv": "der Untersuchung",
+        "dativ": "der Untersuchung",
+        "akkusativ": "die Untersuchung"
+      },
+      "plural": {
+        "nominativ": "die Untersuchungen",
+        "genitiv": "der Untersuchungen",
+        "dativ": "den Untersuchungen",
+        "akkusativ": "die Untersuchungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "examination"
+    },
+    {
+      "language_code": "fr",
+      "translation": "examen"
+    },
+    {
+      "language_code": "tr",
+      "translation": "muayene"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فحص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "untersuchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Prüfung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Untersuchung",
+    "Untersuchunng",
+    "Unterzuchung",
+    "Untersuhung",
+    "Unterssuchung",
+    "Untersuchuing"
+  ]
+}

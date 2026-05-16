@@ -1,0 +1,83 @@
+{
+  "lemma": "Heizung",
+  "wortart": "Nomen",
+  "silben": "Hei-zung",
+  "begriffserklaerung": "Eine Heizung wärmt Zimmer und Gebäude, damit es drinnen schön warm ist.",
+  "beispielsatz": "Im Winter drehe ich die Heizung auf, damit das Zimmer warm wird.",
+  "rechtschreibstrategie": "Denke an das Wort „heizen\" – daraus entsteht „Heizung\". Das ei klingt wie in „Eis\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "heiz"
+  ],
+  "bild_datei": "Heizung.webp",
+  "audio_datei": "Heizung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Heizung",
+    "plural": "die Heizungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Heizung",
+        "genitiv": "der Heizung",
+        "dativ": "der Heizung",
+        "akkusativ": "die Heizung"
+      },
+      "plural": {
+        "nominativ": "die Heizungen",
+        "genitiv": "der Heizungen",
+        "dativ": "den Heizungen",
+        "akkusativ": "die Heizungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "heating"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chauffage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ısıtma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدفئة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heizen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heizer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heizkörper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Thermostat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wärme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Heizsung",
+    "Haizung",
+    "Heissung",
+    "Heißung",
+    "Heizuing"
+  ]
+}

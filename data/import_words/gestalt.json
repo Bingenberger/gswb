@@ -1,0 +1,92 @@
+{
+  "lemma": "Gestalt",
+  "wortart": "Nomen",
+  "silben": "Ge-stalt",
+  "begriffserklaerung": "Eine Gestalt ist die äußere Form oder das Aussehen von jemandem oder etwas – zum Beispiel die Form eines Menschen, eines Tieres oder einer Figur.",
+  "beispielsatz": "Im Nebel sah ich eine dunkle Gestalt auf mich zukommen.",
+  "rechtschreibstrategie": "Denk an das Wort „gestalten\" – dann hörst du das „t\" am Ende deutlich: Ge-stalt.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "stalt",
+    "gestalten"
+  ],
+  "bild_datei": "Gestalt.webp",
+  "audio_datei": "Gestalt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gestalt",
+    "plural": "die Gestalten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gestalt",
+        "genitiv": "der Gestalt",
+        "dativ": "der Gestalt",
+        "akkusativ": "die Gestalt"
+      },
+      "plural": {
+        "nominativ": "die Gestalten",
+        "genitiv": "der Gestalten",
+        "dativ": "den Gestalten",
+        "akkusativ": "die Gestalten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "figure / shape"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forme / silhouette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şekil / figür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شكل / هيئة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gestalten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gestaltung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Figur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Form"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Silhouette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umriss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erscheinung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gestalldt",
+    "Gestallte",
+    "Gstalt",
+    "Gestalt",
+    "Gestal",
+    "Geschtallt"
+  ]
+}

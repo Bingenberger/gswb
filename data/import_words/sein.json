@@ -1,0 +1,90 @@
+{
+  "lemma": "sein",
+  "wortart": "Verb",
+  "silben": "sein",
+  "begriffserklaerung": "„Sein\" ist das wichtigste Verb der deutschen Sprache. Es sagt aus, dass jemand oder etwas existiert oder sich in einem bestimmten Zustand befindet.",
+  "beispielsatz": "Ich bin müde, aber morgen werde ich wieder fit sein.",
+  "rechtschreibstrategie": "Das Wort „sein\" hat nur vier Buchstaben. Denk daran: Es beginnt mit „s\" und endet mit „n\". Das „ei\" klingt wie in „Eis\" – einfach mitsprechen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sein"
+  ],
+  "bild_datei": "sein.webp",
+  "audio_datei": "sein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be"
+    },
+    {
+      "language_code": "fr",
+      "translation": "être"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أن يكون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dasein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "werden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sein",
+    "praesens": {
+      "ich": "bin",
+      "du": "bist",
+      "er_sie_es": "ist",
+      "wir": "sind",
+      "ihr": "seid",
+      "sie": "sind"
+    },
+    "perfekt": {
+      "ich": "bin gewesen",
+      "du": "bist gewesen",
+      "er_sie_es": "ist gewesen",
+      "wir": "sind gewesen",
+      "ihr": "seid gewesen",
+      "sie": "sind gewesen"
+    },
+    "praeteritum": {
+      "ich": "war",
+      "du": "warst",
+      "er_sie_es": "war",
+      "wir": "waren",
+      "ihr": "wart",
+      "sie": "waren"
+    }
+  },
+  "fehlschreibungen": [
+    "sain",
+    "zein",
+    "seien",
+    "sein'",
+    "sien"
+  ]
+}

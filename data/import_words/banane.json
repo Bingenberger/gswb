@@ -1,0 +1,82 @@
+{
+  "lemma": "Banane",
+  "wortart": "Nomen",
+  "silben": "Ba-na-ne",
+  "begriffserklaerung": "Eine Banane ist eine gelbe, gebogene Frucht, die an Bananenpflanzen in warmen Ländern wächst. Sie schmeckt süß und hat eine weiche Schale.",
+  "beispielsatz": "Mama legt jeden Morgen eine Banane in meine Schultasche.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ba-na-ne. Du hörst drei Silben – schreib jede Silbe genau so, wie du sie hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Banane"
+  ],
+  "bild_datei": "Banane.webp",
+  "audio_datei": "Banane.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "banana"
+    },
+    {
+      "language_code": "fr",
+      "translation": "banane"
+    },
+    {
+      "language_code": "tr",
+      "translation": "muz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bananenschale"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bananenpflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Banane",
+    "plural": "Bananen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Banane",
+        "genitiv": "der Banane",
+        "dativ": "der Banane",
+        "akkusativ": "die Banane"
+      },
+      "plural": {
+        "nominativ": "die Bananen",
+        "genitiv": "der Bananen",
+        "dativ": "den Bananen",
+        "akkusativ": "die Bananen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bananne",
+    "Bannane",
+    "Banane",
+    "Banaane",
+    "Banahn"
+  ]
+}

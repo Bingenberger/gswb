@@ -1,0 +1,83 @@
+{
+  "lemma": "Kaffee",
+  "wortart": "Nomen",
+  "silben": "Kaf-fee",
+  "begriffserklaerung": "Kaffee ist ein dunkles, heißes Getränk, das aus gerösteten Kaffeebohnen gemacht wird. Viele Erwachsene trinken ihn am Morgen.",
+  "beispielsatz": "Meine Mama trinkt jeden Morgen eine Tasse Kaffee.",
+  "rechtschreibstrategie": "Kaffee endet auf -ee – das sind zwei e hintereinander! Denk daran: Kaf-fee hat ein Doppel-f in der Mitte und ein Doppel-e am Ende.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kaffee"
+  ],
+  "bild_datei": "Kaffee.webp",
+  "audio_datei": "Kaffee.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coffee"
+    },
+    {
+      "language_code": "fr",
+      "translation": "café"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahve"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قهوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kaffeebohne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kaffeekanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kakao"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kaffee",
+    "plural": "die Kaffees",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kaffee",
+        "genitiv": "des Kaffees",
+        "dativ": "dem Kaffee",
+        "akkusativ": "den Kaffee"
+      },
+      "plural": {
+        "nominativ": "die Kaffees",
+        "genitiv": "der Kaffees",
+        "dativ": "den Kaffees",
+        "akkusativ": "die Kaffees"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kafee",
+    "Kafe",
+    "Caffee",
+    "Kaffé",
+    "Kaffe"
+  ]
+}

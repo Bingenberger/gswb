@@ -1,0 +1,86 @@
+{
+  "lemma": "Abgase",
+  "wortart": "Nomen",
+  "silben": "Ab-ga-se",
+  "begriffserklaerung": "Abgase sind schädliche Dämpfe und Gase, die zum Beispiel aus dem Auspuff von Autos oder aus Schornsteinen kommen. Sie entstehen, wenn etwas verbrannt wird, und können die Luft verschmutzen.",
+  "beispielsatz": "Die Abgase der Autos verschmutzen die Luft in der Stadt.",
+  "rechtschreibstrategie": "Das Wort „Abgase\" ist aus zwei Teilen zusammengesetzt: „ab\" und „Gase\". Schreibe beide Teile einfach hintereinander – kein Bindestrich nötig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Gas"
+  ],
+  "bild_datei": "Abgase.webp",
+  "audio_datei": "Abgase.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Abgas",
+    "plural": "Abgase",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abgas",
+        "genitiv": "des Abgases",
+        "dativ": "dem Abgas",
+        "akkusativ": "das Abgas"
+      },
+      "plural": {
+        "nominativ": "die Abgase",
+        "genitiv": "der Abgase",
+        "dativ": "den Abgasen",
+        "akkusativ": "die Abgase"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exhaust fumes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gaz d'échappement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "egzoz gazları"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غازات العادم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gas"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergasen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luftverschmutzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auspuff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abluft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abgasse",
+    "Abgahse",
+    "Apgase",
+    "Abgaße",
+    "Abgahze"
+  ]
+}

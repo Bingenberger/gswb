@@ -1,0 +1,98 @@
+{
+  "lemma": "flicken",
+  "wortart": "Verb",
+  "silben": "fli-cken",
+  "begriffserklaerung": "Wenn man etwas flickt, repariert man ein Loch oder eine kaputte Stelle in einem Stoff oder einem anderen Material.",
+  "beispielsatz": "Mama flickt die zerrissene Hose mit einem bunten Stück Stoff.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „ck\" – man schreibt nie „kk\", sondern immer „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "flick"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "flicken",
+    "praesens": {
+      "ich": "flicke",
+      "du": "flickst",
+      "er_sie_es": "flickt",
+      "wir": "flicken",
+      "ihr": "flickt",
+      "sie": "flicken"
+    },
+    "perfekt": {
+      "ich": "habe geflickt",
+      "du": "hast geflickt",
+      "er_sie_es": "hat geflickt",
+      "wir": "haben geflickt",
+      "ihr": "habt geflickt",
+      "sie": "haben geflickt"
+    },
+    "praeteritum": {
+      "ich": "flickte",
+      "du": "flicktest",
+      "er_sie_es": "flickte",
+      "wir": "flickten",
+      "ihr": "flicktet",
+      "sie": "flickten"
+    }
+  },
+  "fehlschreibungen": [
+    "flikken",
+    "flickken",
+    "flichen",
+    "fliken",
+    "flicken"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flickzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "reparieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausbessern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nähen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to patch / to mend"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rapiécer / réparer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yamamak / onarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرقِّع / يُصلِح"
+    }
+  ],
+  "bild_datei": "flicken.webp",
+  "audio_datei": "flicken.mp3"
+}

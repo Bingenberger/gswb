@@ -1,0 +1,91 @@
+{
+  "lemma": "Aktion",
+  "wortart": "Nomen",
+  "silben": "Ak-ti-on",
+  "begriffserklaerung": "Eine Aktion ist etwas, das man tut oder plant, um ein bestimmtes Ziel zu erreichen. Das kann eine besondere Aufgabe, ein Vorhaben oder eine gemeinsame Unternehmung sein.",
+  "beispielsatz": "Die ganze Klasse macht bei der Aktion für saubere Straßen mit.",
+  "rechtschreibstrategie": "Das Wort „Aktion\" kommt aus dem Lateinischen. Denk an das „k\" nach dem kurzen „A\" und das „ti\" in der Mitte – sprich es deutlich: Ak-ti-on.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "agieren",
+    "aktiv"
+  ],
+  "bild_datei": "Aktion.webp",
+  "audio_datei": "Aktion.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aktion",
+    "plural": "die Aktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aktion",
+        "genitiv": "der Aktion",
+        "dativ": "der Aktion",
+        "akkusativ": "die Aktion"
+      },
+      "plural": {
+        "nominativ": "die Aktionen",
+        "genitiv": "der Aktionen",
+        "dativ": "den Aktionen",
+        "akkusativ": "die Aktionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "action"
+    },
+    {
+      "language_code": "fr",
+      "translation": "action"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eylem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aktiv"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "agieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unternehmung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorhaben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Projekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plan"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ackzion",
+    "Akzion",
+    "Aktjon",
+    "Akktion",
+    "Aktion"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Basis",
+  "wortart": "Nomen",
+  "silben": "Ba-sis",
+  "begriffserklaerung": "Die Basis ist der Grund oder die Grundlage, auf der etwas aufgebaut ist oder steht.",
+  "beispielsatz": "Der Turm braucht eine feste Basis, damit er nicht umfällt.",
+  "rechtschreibstrategie": "Denke an das Wort „Ba-sis\": Sprich beide Silben deutlich – Ba und sis. Das Wort kommt aus dem Lateinischen und schreibt sich genau so, wie man es hört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Basis",
+    "plural": "die Basen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Basis",
+        "genitiv": "der Basis",
+        "dativ": "der Basis",
+        "akkusativ": "die Basis"
+      },
+      "plural": {
+        "nominativ": "die Basen",
+        "genitiv": "der Basen",
+        "dativ": "den Basen",
+        "akkusativ": "die Basen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "bas-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bas-"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grundlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fundament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterlage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bassis",
+    "Bahsis",
+    "Basiß",
+    "Bazis",
+    "Basies"
+  ],
+  "bild_datei": "Basis.webp",
+  "audio_datei": "Basis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "base / basis"
+    },
+    {
+      "language_code": "fr",
+      "translation": "base"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temel / baz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاعدة (qāʿida)"
+    }
+  ]
+}

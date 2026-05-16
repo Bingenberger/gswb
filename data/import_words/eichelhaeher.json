@@ -1,0 +1,85 @@
+{
+  "lemma": "Eichelhäher",
+  "wortart": "Nomen",
+  "silben": "Ei-chel-hä-her",
+  "begriffserklaerung": "Der Eichelhäher ist ein bunter Waldvogel mit blau-schwarz-weißen Flügelflecken und einem rosafarbenen Körper. Er liebt Eicheln und versteckt sie im Boden für den Winter.",
+  "beispielsatz": "Der Eichelhäher sitzt laut krächzend auf dem Ast und hält eine Eichel im Schnabel.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Eichel\" und „Häher\". Sprich beide Teile einzeln: Ei-chel + Hä-her. Das „h\" in „Häher\" ist ein Dehnungs-h – es macht das „ä\" lang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Eichel",
+    "Häher"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eichelhäher",
+    "plural": "die Eichelhäher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eichelhäher",
+        "genitiv": "des Eichelhähers",
+        "dativ": "dem Eichelhäher",
+        "akkusativ": "den Eichelhäher"
+      },
+      "plural": {
+        "nominativ": "die Eichelhäher",
+        "genitiv": "der Eichelhäher",
+        "dativ": "den Eichelhähern",
+        "akkusativ": "die Eichelhäher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aichelhäher",
+    "Eichelheer",
+    "Eichelhäer",
+    "Eichelhäher",
+    "Eichelheher",
+    "Eichelhähr"
+  ],
+  "bild_datei": "Eichelhäher.webp",
+  "audio_datei": "Eichelhäher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Jay (Eurasian Jay)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "geai des chênes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alakarga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القيق الأوراسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eichel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Häher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Specht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waldvogel"
+    }
+  ]
+}

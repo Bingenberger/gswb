@@ -1,0 +1,82 @@
+{
+  "lemma": "Protokoll",
+  "wortart": "Nomen",
+  "silben": "Pro-to-koll",
+  "begriffserklaerung": "Ein Protokoll ist eine schriftliche Aufzeichnung, in der man festhält, was bei einem Treffen oder Versuch besprochen und gemacht wurde.",
+  "beispielsatz": "Die Klassensprecher haben nach der Versammlung ein Protokoll geschrieben.",
+  "rechtschreibstrategie": "Das Wort endet auf -koll mit Doppel-l. Denk daran: Pro-to-koll – am Ende kommen zwei l!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Protokoll",
+    "plural": "die Protokolle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Protokoll",
+        "genitiv": "des Protokolls",
+        "dativ": "dem Protokoll",
+        "akkusativ": "das Protokoll"
+      },
+      "plural": {
+        "nominativ": "die Protokolle",
+        "genitiv": "der Protokolle",
+        "dativ": "den Protokollen",
+        "akkusativ": "die Protokolle"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Protokoll"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "protokollieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufzeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versammlung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Protokol",
+    "Prothokoll",
+    "Protookoll",
+    "Protogholl",
+    "Protocolll"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "minutes / protocol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "procès-verbal / protocole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tutanak / protokol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محضر / بروتوكول"
+    }
+  ],
+  "bild_datei": "Protokoll.webp",
+  "audio_datei": "Protokoll.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Blitz",
+  "wortart": "Nomen",
+  "silben": "Blitz",
+  "begriffserklaerung": "Ein Blitz ist ein sehr helles Aufleuchten am Himmel bei einem Gewitter. Er entsteht durch elektrische Entladungen in der Luft.",
+  "beispielsatz": "Bei dem Gewitter sahen wir einen riesigen Blitz am Himmel aufleuchten.",
+  "rechtschreibstrategie": "Das Wort „Blitz\" hat nach dem kurzen „i\" ein „tz\" – das zeigt dir: kurzer Vokal, also tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "blitz"
+  ],
+  "bild_datei": "Blitz.webp",
+  "audio_datei": "Blitz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blitz",
+    "plural": "die Blitze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blitz",
+        "genitiv": "des Blitzes",
+        "dativ": "dem Blitz",
+        "akkusativ": "den Blitz"
+      },
+      "plural": {
+        "nominativ": "die Blitze",
+        "genitiv": "der Blitze",
+        "dativ": "den Blitzen",
+        "akkusativ": "die Blitze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lightning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éclair"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şimşek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blitzableiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Donner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wetterleuchten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bliz",
+    "Blitts",
+    "Blizz",
+    "Blietz",
+    "Blittz"
+  ]
+}

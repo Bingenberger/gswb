@@ -1,0 +1,90 @@
+{
+  "lemma": "bellen",
+  "wortart": "Verb",
+  "silben": "bel-len",
+  "begriffserklaerung": "Bellen ist der Laut, den ein Hund macht. Es klingt wie „Wau!\"",
+  "beispielsatz": "Der Hund bellt laut, wenn jemand an der Tür klingelt.",
+  "rechtschreibstrategie": "Das Wort „bellen\" hat ein kurzes „e\" – deshalb schreibt man zwei „l\": bel-len. Sprich es in Silben: bel – len!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bell"
+  ],
+  "bild_datei": "bellen.webp",
+  "audio_datei": "bellen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "bellen",
+    "praesens": {
+      "ich": "belle",
+      "du": "bellst",
+      "er_sie_es": "bellt",
+      "wir": "bellen",
+      "ihr": "bellt",
+      "sie": "bellen"
+    },
+    "perfekt": {
+      "ich": "habe gebellt",
+      "du": "hast gebellt",
+      "er_sie_es": "hat gebellt",
+      "wir": "haben gebellt",
+      "ihr": "habt gebellt",
+      "sie": "haben gebellt"
+    },
+    "praeteritum": {
+      "ich": "bellte",
+      "du": "belltest",
+      "er_sie_es": "bellte",
+      "wir": "bellten",
+      "ihr": "belltet",
+      "sie": "bellten"
+    }
+  },
+  "fehlschreibungen": [
+    "belen",
+    "bellen",
+    "belln",
+    "bällen",
+    "bälen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bark"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aboyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينبح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bellend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "knurren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "jaulen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blaffen"
+    }
+  ]
+}

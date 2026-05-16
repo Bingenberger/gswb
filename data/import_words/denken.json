@@ -1,0 +1,98 @@
+{
+  "lemma": "denken",
+  "wortart": "Verb",
+  "silben": "den-ken",
+  "begriffserklaerung": "Wenn du denkst, arbeitest du mit deinem Kopf und deinen Gedanken. Du überlegst etwas oder hast eine Idee.",
+  "beispielsatz": "Lisa denkt lange nach, bevor sie die schwere Aufgabe löst.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „den-ken\". Du hörst ein kurzes „e\" und danach ein „nk\". Schreibe es so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "denk"
+  ],
+  "bild_datei": "denken.webp",
+  "audio_datei": "denken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to think"
+    },
+    {
+      "language_code": "fr",
+      "translation": "penser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşünmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُفكِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gedanke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Denker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nachdenken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "überlegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verstehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erinnern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "denken",
+    "praesens": {
+      "ich": "denke",
+      "du": "denkst",
+      "er_sie_es": "denkt",
+      "wir": "denken",
+      "ihr": "denkt",
+      "sie": "denken"
+    },
+    "perfekt": {
+      "ich": "habe gedacht",
+      "du": "hast gedacht",
+      "er_sie_es": "hat gedacht",
+      "wir": "haben gedacht",
+      "ihr": "habt gedacht",
+      "sie": "haben gedacht"
+    },
+    "praeteritum": {
+      "ich": "dachte",
+      "du": "dachtest",
+      "er_sie_es": "dachte",
+      "wir": "dachten",
+      "ihr": "dachtet",
+      "sie": "dachten"
+    }
+  },
+  "fehlschreibungen": [
+    "dengen",
+    "dencken",
+    "thenken",
+    "dänken",
+    "denkt (als Infinitiv)"
+  ]
+}

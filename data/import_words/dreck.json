@@ -1,0 +1,83 @@
+{
+  "lemma": "Dreck",
+  "wortart": "Nomen",
+  "silben": "Dreck",
+  "begriffserklaerung": "Dreck ist Schmutz, der an Dingen oder Menschen klebt – zum Beispiel Erde, Staub oder Matsch.",
+  "beispielsatz": "Nach dem Spielen im Garten hatte Leon Dreck an den Händen.",
+  "rechtschreibstrategie": "Das „ck\" am Ende zeigt, dass das „e\" kurz gesprochen wird. Merke: nach kurzem Vokal kommt ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Dreck"
+  ],
+  "bild_datei": "Dreck.webp",
+  "audio_datei": "Dreck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dirt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saleté"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dreckig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Matsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dreck",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dreck",
+        "genitiv": "des Drecks",
+        "dativ": "dem Dreck",
+        "akkusativ": "den Dreck"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dreg",
+    "Drec",
+    "Dreck",
+    "Drek",
+    "Dregg",
+    "Dreckt"
+  ]
+}

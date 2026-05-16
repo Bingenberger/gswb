@@ -1,0 +1,83 @@
+{
+  "lemma": "Köpfchen",
+  "wortart": "Nomen",
+  "silben": "Köpf-chen",
+  "begriffserklaerung": "Köpfchen ist ein kleiner, niedlicher Kopf. Das Wort benutzt man auch, wenn jemand klug ist und gute Ideen hat – dann sagt man: „Das Kind hat Köpfchen!\"",
+  "beispielsatz": "Das Kätzchen legt sein Köpfchen auf meine Hand.",
+  "rechtschreibstrategie": "Denk an das Wort „Kopf\". Wenn du es verkleinerst, wird das „o\" zu einem „ö\": Kopf → Köpfchen. Das „pf\" hörst du deutlich – schreib es genau so!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kopf"
+  ],
+  "bild_datei": "Köpfchen.webp",
+  "audio_datei": "Köpfchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Köpfchen",
+    "plural": "die Köpfchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Köpfchen",
+        "genitiv": "des Köpfchens",
+        "dativ": "dem Köpfchen",
+        "akkusativ": "das Köpfchen"
+      },
+      "plural": {
+        "nominativ": "die Köpfchen",
+        "genitiv": "der Köpfchen",
+        "dativ": "den Köpfchen",
+        "akkusativ": "die Köpfchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little head"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite tête"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük kafa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رأس صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "köpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Köpflein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Köpchen",
+    "Köpfgen",
+    "Köpfschen",
+    "Koepfchen",
+    "Kepfchen",
+    "Köpfchen"
+  ]
+}

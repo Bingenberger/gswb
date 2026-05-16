@@ -1,0 +1,85 @@
+{
+  "lemma": "Blumenkohl",
+  "wortart": "Nomen",
+  "silben": "Blu-men-kohl",
+  "begriffserklaerung": "Blumenkohl ist ein Gemüse mit einem weißen, runden Kopf aus vielen kleinen Blüten und grünen Blättern drum herum. Man kann ihn kochen und essen.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Blumenkohl mit Käsesoße.",
+  "rechtschreibstrategie": "Blumenkohl ist ein zusammengesetztes Wort aus „Blume\" und „Kohl\". Schreibe zuerst „Blumen\" und dann „kohl\" – dann machst du bestimmt keinen Fehler!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Blume",
+    "Kohl"
+  ],
+  "bild_datei": "Blumenkohl.webp",
+  "audio_datei": "Blumenkohl.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blumenkohl",
+    "plural": "die Blumenköhle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blumenkohl",
+        "genitiv": "des Blumenkohls",
+        "dativ": "dem Blumenkohl",
+        "akkusativ": "den Blumenkohl"
+      },
+      "plural": {
+        "nominativ": "die Blumenköhle",
+        "genitiv": "der Blumenköhle",
+        "dativ": "den Blumenköhlen",
+        "akkusativ": "die Blumenköhle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cauliflower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chou-fleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karnabahar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرنبيط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brokkoli"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohlrabi"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blumenkol",
+    "Blumenkoль",
+    "Blumencohl",
+    "Blumenkole",
+    "Blumemkohl",
+    "Blumnkohl"
+  ]
+}

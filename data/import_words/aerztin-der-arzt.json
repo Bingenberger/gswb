@@ -1,0 +1,88 @@
+{
+  "lemma": "Ärztin / der Arzt",
+  "wortart": "Nomen",
+  "silben": "Ärz-tin / Arzt",
+  "begriffserklaerung": "Ein Arzt oder eine Ärztin ist eine Person, die Menschen untersucht, wenn sie krank oder verletzt sind, und ihnen hilft, wieder gesund zu werden.",
+  "beispielsatz": "Als Jonas Halsschmerzen hatte, ging er mit seiner Mama zur Ärztin.",
+  "rechtschreibstrategie": "Das Wort „Arzt\" endet auf -zt. Sprich es laut: „Arzt\" – du hörst das „z\" und das „t\". Bei „Ärztin\" hörst du den Umlaut „Ä\" am Anfang – denk daran, den Punkt über dem A nicht zu vergessen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Arzt"
+  ],
+  "bild_datei": "Ärztin / der Arzt.webp",
+  "audio_datei": "Ärztin / der Arzt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "doctor / female doctor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médecin / femme médecin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doktor / kadın doktor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب / طبيبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ärztlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenschwester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medikament"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Doktor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die / der",
+    "singular": "die Ärztin / der Arzt",
+    "plural": "die Ärztinnen / die Ärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ärztin / der Arzt",
+        "genitiv": "der Ärztin / des Arztes",
+        "dativ": "der Ärztin / dem Arzt",
+        "akkusativ": "die Ärztin / den Arzt"
+      },
+      "plural": {
+        "nominativ": "die Ärztinnen / die Ärzte",
+        "genitiv": "der Ärztinnen / der Ärzte",
+        "dativ": "den Ärztinnen / den Ärzten",
+        "akkusativ": "die Ärztinnen / die Ärzte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Erztin",
+    "Ärzdin",
+    "Aertzin",
+    "Ärtzin",
+    "Arst",
+    "Arzdt",
+    "Ärztin"
+  ]
+}

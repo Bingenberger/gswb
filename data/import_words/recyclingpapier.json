@@ -1,0 +1,85 @@
+{
+  "lemma": "Recyclingpapier",
+  "wortart": "Nomen",
+  "silben": "Re-cy-cling-pa-pier",
+  "begriffserklaerung": "Recyclingpapier ist Papier, das aus altem, bereits benutztem Papier hergestellt wird. So wird Abfall gespart und die Umwelt geschützt.",
+  "beispielsatz": "In unserer Schule schreiben wir auf Recyclingpapier, damit wir die Bäume schützen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Recycling\" (aus dem Englischen) und „Papier\". Trenne die Bausteine beim Schreiben: Re-cy-cling + Pa-pier. „Papier\" schreibt man mit ie am Ende.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Papier",
+    "recyceln"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Recyclingpapier",
+    "plural": "die Recyclingpapiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Recyclingpapier",
+        "genitiv": "des Recyclingpapiers",
+        "dativ": "dem Recyclingpapier",
+        "akkusativ": "das Recyclingpapier"
+      },
+      "plural": {
+        "nominativ": "die Recyclingpapiere",
+        "genitiv": "der Recyclingpapiere",
+        "dativ": "den Recyclingpapieren",
+        "akkusativ": "die Recyclingpapiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Recyclingpapir",
+    "Recyklingpapier",
+    "Recyclingpaier",
+    "Recyclingpapiere",
+    "Riecyclingpapier",
+    "Recyclingpapeer"
+  ],
+  "bild_datei": "Recyclingpapier.webp",
+  "audio_datei": "Recyclingpapier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recycled paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papier recyclé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geri dönüştürülmüş kağıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورق معاد تدويره"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "recyceln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umweltschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltrennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Altpapier"
+    }
+  ]
+}

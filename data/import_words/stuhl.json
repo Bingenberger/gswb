@@ -1,0 +1,79 @@
+{
+  "lemma": "Stuhl",
+  "wortart": "Nomen",
+  "silben": "Stuhl",
+  "begriffserklaerung": "Ein Stuhl ist ein Möbelstück mit vier Beinen und einer Rückenlehne. Man sitzt darauf, zum Beispiel am Esstisch oder in der Schule.",
+  "beispielsatz": "Lea setzt sich auf den Stuhl und macht ihre Hausaufgaben.",
+  "rechtschreibstrategie": "Das Wort „Stuhl\" hat ein langes „u\". Das lange „u\" wird hier mit einem „h\" gedehnt – das „h\" hört man nicht, aber man schreibt es mit. Denk daran: Stuhl – Stühle!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stuhl"
+  ],
+  "bild_datei": "Stuhl.webp",
+  "audio_datei": "Stuhl.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stuhl",
+    "plural": "die Stühle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stuhl",
+        "genitiv": "des Stuhles",
+        "dativ": "dem Stuhl",
+        "akkusativ": "den Stuhl"
+      },
+      "plural": {
+        "nominativ": "die Stühle",
+        "genitiv": "der Stühle",
+        "dativ": "den Stühlen",
+        "akkusativ": "die Stühle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sandalye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sofa"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stul",
+    "Stuul",
+    "Shtul",
+    "Stuel",
+    "Sthul"
+  ]
+}

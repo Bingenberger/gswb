@@ -1,0 +1,73 @@
+{
+  "lemma": "Garage",
+  "wortart": "Nomen",
+  "silben": "Ga-ra-ge",
+  "begriffserklaerung": "Eine Garage ist ein Gebäude oder ein Raum, in dem man ein Auto abstellt und schützt.",
+  "beispielsatz": "Papa fährt das Auto abends in die Garage.",
+  "rechtschreibstrategie": "Das Wort „Garage\" kommt aus dem Französischen. Sprich es so aus: Ga-ra-sche. Merke dir: Es endet auf -age, genau wie es klingt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Garage.webp",
+  "audio_datei": "Garage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "garage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "garaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كراج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Carport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Parkplatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Garage",
+    "plural": "die Garagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Garage",
+        "genitiv": "der Garage",
+        "dativ": "der Garage",
+        "akkusativ": "die Garage"
+      },
+      "plural": {
+        "nominativ": "die Garagen",
+        "genitiv": "der Garagen",
+        "dativ": "den Garagen",
+        "akkusativ": "die Garagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Garasche",
+    "Garrage",
+    "Garage",
+    "Garaage",
+    "Garaje",
+    "Garadsche"
+  ]
+}

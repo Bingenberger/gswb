@@ -1,0 +1,99 @@
+{
+  "lemma": "aussagen",
+  "wortart": "Verb",
+  "silben": "aus-sa-gen",
+  "begriffserklaerung": "Etwas aussagen bedeutet, etwas zu erklären oder zu berichten, zum Beispiel vor Gericht oder in der Schule.",
+  "beispielsatz": "Der Zeuge sagt vor Gericht aus, was er gesehen hat.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: aus – sa – gen. Der Mittelteil „sa\" wird mit einfachem „s\" geschrieben, weil der Vokal lang klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sagen"
+  ],
+  "bild_datei": "aussagen.webp",
+  "audio_datei": "aussagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to testify / to state"
+    },
+    {
+      "language_code": "fr",
+      "translation": "témoigner / déclarer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ifade vermek / beyan etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُدلي بشهادته / يُصرّح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aussage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "berichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeuge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bezeugen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "aussagen",
+    "praesens": {
+      "ich": "sage aus",
+      "du": "sagst aus",
+      "er_sie_es": "sagt aus",
+      "wir": "sagen aus",
+      "ihr": "sagt aus",
+      "sie": "sagen aus"
+    },
+    "perfekt": {
+      "ich": "habe ausgesagt",
+      "du": "hast ausgesagt",
+      "er_sie_es": "hat ausgesagt",
+      "wir": "haben ausgesagt",
+      "ihr": "habt ausgesagt",
+      "sie": "haben ausgesagt"
+    },
+    "praeteritum": {
+      "ich": "sagte aus",
+      "du": "sagtest aus",
+      "er_sie_es": "sagte aus",
+      "wir": "sagten aus",
+      "ihr": "sagtet aus",
+      "sie": "sagten aus"
+    }
+  },
+  "fehlschreibungen": [
+    "aussaagen",
+    "aussaggen",
+    "aaussagen",
+    "ausagen",
+    "auzsagen",
+    "aussagen"
+  ]
+}

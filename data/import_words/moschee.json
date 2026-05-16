@@ -1,0 +1,72 @@
+{
+  "lemma": "Moschee",
+  "wortart": "Nomen",
+  "silben": "Mos-chee",
+  "begriffserklaerung": "Eine Moschee ist ein Gotteshaus, in dem Muslime beten und zusammenkommen.",
+  "beispielsatz": "Jeden Freitag gehen viele Muslime in die Moschee zum gemeinsamen Gebet.",
+  "rechtschreibstrategie": "Das Wort endet auf -ee – beide e werden geschrieben, so wie man sie hört: Mos-chee.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Moschee.webp",
+  "audio_datei": "Moschee.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Moschee",
+    "plural": "die Moscheen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Moschee",
+        "genitiv": "der Moschee",
+        "dativ": "der Moschee",
+        "akkusativ": "die Moschee"
+      },
+      "plural": {
+        "nominativ": "die Moscheen",
+        "genitiv": "der Moscheen",
+        "dativ": "den Moscheen",
+        "akkusativ": "die Moscheen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mosque"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mosquée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cami"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسجد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Synagoge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tempel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Moschee",
+    "Moschä",
+    "Moschäe",
+    "Moscheeh",
+    "Moshee"
+  ]
+}

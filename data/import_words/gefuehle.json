@@ -1,0 +1,81 @@
+{
+  "lemma": "Gefühle",
+  "wortart": "Nomen",
+  "silben": "Ge-füh-le",
+  "begriffserklaerung": "Gefühle sind das, was du in dir spürst – zum Beispiel Freude, Trauer, Angst oder Wut. Jeder Mensch hat Gefühle.",
+  "beispielsatz": "Lisa spricht mit ihrer Mutter über ihre Gefühle.",
+  "rechtschreibstrategie": "Denk an das Wort „fühlen\" – dort hörst du das Dehnungs-h nach dem ü. Dieses h steckt auch in „Gefühle\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fühl"
+  ],
+  "bild_datei": "Gefühle.webp",
+  "audio_datei": "Gefühle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "feelings"
+    },
+    {
+      "language_code": "fr",
+      "translation": "émotions"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duygular"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشاعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fühlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Empfindungen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Gefühl",
+    "plural": "Gefühle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefühl",
+        "genitiv": "des Gefühls",
+        "dativ": "dem Gefühl",
+        "akkusativ": "das Gefühl"
+      },
+      "plural": {
+        "nominativ": "die Gefühle",
+        "genitiv": "der Gefühle",
+        "dativ": "den Gefühlen",
+        "akkusativ": "die Gefühle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefuehle",
+    "Gefüle",
+    "Gefüele",
+    "Gefühlle"
+  ]
+}

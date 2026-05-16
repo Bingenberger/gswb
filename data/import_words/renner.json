@@ -1,0 +1,86 @@
+{
+  "lemma": "Renner",
+  "wortart": "Nomen",
+  "silben": "Ren-ner",
+  "begriffserklaerung": "Ein Renner ist jemand oder etwas, das sehr schnell läuft oder fährt. Man sagt auch zu einem Produkt „Renner\", wenn es besonders beliebt ist und oft gekauft wird.",
+  "beispielsatz": "Das Pferd ist ein echter Renner und gewinnt jedes Rennen!",
+  "rechtschreibstrategie": "Das Wort „Renner\" hat ein doppeltes n in der Mitte. Das liegt daran, dass das „e\" davor kurz gesprochen wird: Ren-ner. Kurzer Vokal → Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "renn"
+  ],
+  "bild_datei": "Renner.webp",
+  "audio_datei": "Renner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Renner",
+    "plural": "die Renner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Renner",
+        "genitiv": "des Renners",
+        "dativ": "dem Renner",
+        "akkusativ": "den Renner"
+      },
+      "plural": {
+        "nominativ": "die Renner",
+        "genitiv": "der Renner",
+        "dativ": "den Rennern",
+        "akkusativ": "die Renner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "runner / bestseller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coureur / article phare"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşucu / çok satan şey"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدّاء / شيء رائج جداً"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rennen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnellläufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Läufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sieger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rennbahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rener",
+    "Räner",
+    "Rennner",
+    "Renner",
+    "Reiner"
+  ]
+}

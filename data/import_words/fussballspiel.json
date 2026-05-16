@@ -1,0 +1,93 @@
+{
+  "lemma": "Fußballspiel",
+  "wortart": "Nomen",
+  "silben": "Fuß-ball-spiel",
+  "begriffserklaerung": "Ein Fußballspiel ist ein Wettkampf, bei dem zwei Mannschaften versuchen, einen Ball in das Tor der anderen Mannschaft zu schießen.",
+  "beispielsatz": "Nach der Schule schauen wir gemeinsam das Fußballspiel im Fernsehen an.",
+  "rechtschreibstrategie": "Das Wort „Fußballspiel\" besteht aus drei Bausteinen: „Fuß\" + „Ball\" + „Spiel\". Das ß in „Fuß\" schreibst du, weil der Vokal davor lang ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Ball",
+    "Spiel"
+  ],
+  "bild_datei": "Fußballspiel.webp",
+  "audio_datei": "Fußballspiel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "football match / soccer game"
+    },
+    {
+      "language_code": "fr",
+      "translation": "match de football"
+    },
+    {
+      "language_code": "tr",
+      "translation": "futbol maçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مباراة كرة القدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadion"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fußballpartie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fußballspiel",
+    "plural": "die Fußballspiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fußballspiel",
+        "genitiv": "des Fußballspiels",
+        "dativ": "dem Fußballspiel",
+        "akkusativ": "das Fußballspiel"
+      },
+      "plural": {
+        "nominativ": "die Fußballspiele",
+        "genitiv": "der Fußballspiele",
+        "dativ": "den Fußballspielen",
+        "akkusativ": "die Fußballspiele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fussballspiel",
+    "Fußbalspiel",
+    "Fußballsspiel",
+    "Fußbal-Spiel",
+    "Fußballspiell"
+  ]
+}

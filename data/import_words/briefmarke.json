@@ -1,0 +1,83 @@
+{
+  "lemma": "Briefmarke",
+  "wortart": "Nomen",
+  "silben": "Brief-mar-ke",
+  "begriffserklaerung": "Eine Briefmarke ist ein kleines, buntes Aufklebebild. Man klebt sie auf einen Brief oder ein Paket, um zu zeigen, dass man das Porto bezahlt hat.",
+  "beispielsatz": "Mia klebt eine bunte Briefmarke auf den Umschlag, bevor sie den Brief in den Briefkasten wirft.",
+  "rechtschreibstrategie": "„Briefmarke\" ist aus zwei Wörtern zusammengebaut: „Brief\" und „Marke\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brief",
+    "Marke"
+  ],
+  "bild_datei": "Briefmarke.webp",
+  "audio_datei": "Briefmarke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "timbre-poste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "posta pulu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طابع بريدي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Marke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Briefmarke",
+    "plural": "die Briefmarken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Briefmarke",
+        "genitiv": "der Briefmarke",
+        "dativ": "der Briefmarke",
+        "akkusativ": "die Briefmarke"
+      },
+      "plural": {
+        "nominativ": "die Briefmarken",
+        "genitiv": "der Briefmarken",
+        "dativ": "den Briefmarken",
+        "akkusativ": "die Briefmarken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Briefmarcke",
+    "Brieffmarke",
+    "Briefmarka",
+    "Briffmarke",
+    "Briefmark"
+  ]
+}

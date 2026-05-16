@@ -1,0 +1,85 @@
+{
+  "lemma": "Spielzug",
+  "wortart": "Nomen",
+  "silben": "Spiel-zug",
+  "begriffserklaerung": "Ein Spielzug ist eine einzelne Aktion, die ein Spieler bei einem Spiel macht, zum Beispiel eine Figur bewegen oder eine Karte legen.",
+  "beispielsatz": "Mit ihrem letzten Spielzug hat Mia das Brettspiel gewonnen!",
+  "rechtschreibstrategie": "„Spielzug\" ist ein zusammengesetztes Wort aus „Spiel\" und „Zug\". Schreibe beide Teile einfach hintereinander – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spiel",
+    "zug"
+  ],
+  "bild_datei": "Spielzug.webp",
+  "audio_datei": "Spielzug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "move (in a game)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coup (de jeu)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyun hamlesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حركة في اللعبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spielen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brettspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Runde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spielzug",
+    "plural": "die Spielzüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spielzug",
+        "genitiv": "des Spielzuges",
+        "dativ": "dem Spielzug",
+        "akkusativ": "den Spielzug"
+      },
+      "plural": {
+        "nominativ": "die Spielzüge",
+        "genitiv": "der Spielzüge",
+        "dativ": "den Spielzügen",
+        "akkusativ": "die Spielzüge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spieltzug",
+    "Spilzug",
+    "Spielsug",
+    "Spiezug",
+    "Spieltzuck"
+  ]
+}

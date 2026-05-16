@@ -1,0 +1,89 @@
+{
+  "lemma": "Metzgerei",
+  "wortart": "Nomen",
+  "silben": "Metz-ge-rei",
+  "begriffserklaerung": "Eine Metzgerei ist ein Geschäft, in dem Fleisch, Wurst und andere Fleischwaren verkauft werden. Der Metzger oder die Metzgerin stellt die Waren oft selbst her.",
+  "beispielsatz": "Mama kauft in der Metzgerei frische Wurst für das Abendbrot.",
+  "rechtschreibstrategie": "Das Wort „Metzgerei\" leitet sich von „Metzger\" ab. Denke an den Metzger – dann weißt du, dass das Wort mit „tz\" geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Metzger"
+  ],
+  "bild_datei": "Metzgerei.webp",
+  "audio_datei": "Metzgerei.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Metzgerei",
+    "plural": "die Metzgereien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Metzgerei",
+        "genitiv": "der Metzgerei",
+        "dativ": "der Metzgerei",
+        "akkusativ": "die Metzgerei"
+      },
+      "plural": {
+        "nominativ": "die Metzgereien",
+        "genitiv": "der Metzgereien",
+        "dativ": "den Metzgereien",
+        "akkusativ": "die Metzgereien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "butcher's shop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boucherie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasap dükkanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محل الجزار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Metzger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "metzgern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fleischerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Metzgerei",
+    "Mätzgerei",
+    "Mezgerei",
+    "Metsgerei",
+    "Metzgerey",
+    "Metsgerey",
+    "Mezkerei"
+  ]
+}

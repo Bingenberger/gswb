@@ -1,0 +1,83 @@
+{
+  "lemma": "Bio-Produkt",
+  "wortart": "Nomen",
+  "silben": "Bio-Pro-dukt",
+  "begriffserklaerung": "Ein Bio-Produkt ist ein Lebensmittel oder eine Ware, die ohne schädliche Chemikalien und mit Rücksicht auf die Natur hergestellt wurde.",
+  "beispielsatz": "Mama kauft auf dem Markt immer frisches Gemüse als Bio-Produkt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Bio\" und „Produkt\". Der Bindestrich verbindet die beiden Teile. Denk daran: „Bio\" kommt aus dem Griechischen und bedeutet „Leben\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "bio",
+    "Produkt"
+  ],
+  "bild_datei": "Bio-Produkt.webp",
+  "audio_datei": "Bio-Produkt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "organic product"
+    },
+    {
+      "language_code": "fr",
+      "translation": "produit bio"
+    },
+    {
+      "language_code": "tr",
+      "translation": "organik ürün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منتج عضوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bio"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Produkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biolebensmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Öko-Produkt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bio-Produkt",
+    "plural": "die Bio-Produkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bio-Produkt",
+        "genitiv": "des Bio-Produkts",
+        "dativ": "dem Bio-Produkt",
+        "akkusativ": "das Bio-Produkt"
+      },
+      "plural": {
+        "nominativ": "die Bio-Produkte",
+        "genitiv": "der Bio-Produkte",
+        "dativ": "den Bio-Produkten",
+        "akkusativ": "die Bio-Produkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bioprodugt",
+    "Bio Produkt",
+    "Bioproduct",
+    "bio-Produkt",
+    "Bioprodukt"
+  ]
+}

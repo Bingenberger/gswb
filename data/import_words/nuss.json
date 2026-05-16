@@ -1,0 +1,86 @@
+{
+  "lemma": "Nuss",
+  "wortart": "Nomen",
+  "silben": "Nuss",
+  "begriffserklaerung": "Eine Nuss ist eine Frucht mit einer harten Schale und einem essbaren Kern innen drin. Es gibt viele Sorten, zum Beispiel Walnuss, Haselnuss oder Erdnuss.",
+  "beispielsatz": "Mama knackt eine Nuss und gibt mir den Kern zum Essen.",
+  "rechtschreibstrategie": "Das Wort „Nuss\" hat einen kurzen Vokal, deshalb folgt ein Doppel-s. Wenn du es verlängerst, hörst du es deutlich: „Nüs-se\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Nuss"
+  ],
+  "bild_datei": "Nuss.webp",
+  "audio_datei": "Nuss.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nuss",
+    "plural": "die Nüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nuss",
+        "genitiv": "der Nuss",
+        "dativ": "der Nuss",
+        "akkusativ": "die Nuss"
+      },
+      "plural": {
+        "nominativ": "die Nüsse",
+        "genitiv": "der Nüsse",
+        "dativ": "den Nüssen",
+        "akkusativ": "die Nüsse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "noix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fındık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haselnuss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Walnuss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nussig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schale"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nus",
+    "Nuß",
+    "Nuhss",
+    "Nusz"
+  ]
+}

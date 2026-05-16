@@ -1,0 +1,90 @@
+{
+  "lemma": "Sonnenaufgang",
+  "wortart": "Nomen",
+  "silben": "Son-nen-auf-gang",
+  "begriffserklaerung": "Der Sonnenaufgang ist der Moment am frühen Morgen, wenn die Sonne am Horizont erscheint und es hell wird.",
+  "beispielsatz": "Wir sind früh aufgestanden, um den schönen Sonnenaufgang zu beobachten.",
+  "rechtschreibstrategie": "„Sonnenaufgang\" ist ein zusammengesetztes Wort aus „Sonne\", „auf\" und „Gang\". Sprich alle Bausteine deutlich: SON-nen-AUF-gang. Denk an das doppelte „n\" in „Sonne\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Gang"
+  ],
+  "bild_datei": "Sonnenaufgang.webp",
+  "audio_datei": "Sonnenaufgang.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sonnenaufgang",
+    "plural": "die Sonnenaufgänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sonnenaufgang",
+        "genitiv": "des Sonnenaufgangs",
+        "dativ": "dem Sonnenaufgang",
+        "akkusativ": "den Sonnenaufgang"
+      },
+      "plural": {
+        "nominativ": "die Sonnenaufgänge",
+        "genitiv": "der Sonnenaufgänge",
+        "dativ": "den Sonnenaufgängen",
+        "akkusativ": "die Sonnenaufgänge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunrise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lever du soleil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gün doğumu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شروق الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Morgenrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenuntergang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Horizont"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sonenaufgang",
+    "Sonennaufgang",
+    "Sonnenaufgank",
+    "Sonnenaufgangk",
+    "Sunnenaufgang",
+    "Sonnenaufgag"
+  ]
+}

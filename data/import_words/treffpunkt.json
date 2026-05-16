@@ -1,0 +1,88 @@
+{
+  "lemma": "Treffpunkt",
+  "wortart": "Nomen",
+  "silben": "Treff-punkt",
+  "begriffserklaerung": "Ein Treffpunkt ist ein Ort, an dem sich Menschen verabreden und zusammenkommen.",
+  "beispielsatz": "Unser Treffpunkt nach der Schule ist das große Tor am Schulhof.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Treff\" und „Punkt\". Bei „Treff\" hörst du ein kurzes „e\", deshalb schreibt man „ff\" – sprich laut: Treff-punkt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "treffen",
+    "Punkt"
+  ],
+  "bild_datei": "Treffpunkt.webp",
+  "audio_datei": "Treffpunkt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Treffpunkt",
+    "plural": "die Treffpunkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Treffpunkt",
+        "genitiv": "des Treffpunktes",
+        "dativ": "dem Treffpunkt",
+        "akkusativ": "den Treffpunkt"
+      },
+      "plural": {
+        "nominativ": "die Treffpunkte",
+        "genitiv": "der Treffpunkte",
+        "dativ": "den Treffpunkten",
+        "akkusativ": "die Treffpunkte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "meeting point"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point de rendez-vous"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buluşma noktası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقطة اللقاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "treffen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Punkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verabredungsort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verabredung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zusammenkunft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Trefpunkt",
+    "Treffbunkt",
+    "Treppunkt",
+    "Trefpungkt",
+    "Treffpunckt"
+  ]
+}

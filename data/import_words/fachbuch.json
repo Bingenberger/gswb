@@ -1,0 +1,83 @@
+{
+  "lemma": "Fachbuch",
+  "wortart": "Nomen",
+  "silben": "Fach-buch",
+  "begriffserklaerung": "Ein Fachbuch ist ein Buch, das genau über ein bestimmtes Thema informiert, zum Beispiel über Tiere, Pflanzen oder Technik.",
+  "beispielsatz": "In der Bücherei habe ich ein spannendes Fachbuch über Dinosaurier gefunden.",
+  "rechtschreibstrategie": "„Fachbuch\" besteht aus zwei Wörtern: „Fach\" und „Buch\". Sprich beide Teile deutlich: FACH – BUCH. Das „ch\" in „Fach\" klingt wie in „Bach\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fach",
+    "Buch"
+  ],
+  "bild_datei": "Fachbuch.webp",
+  "audio_datei": "Fachbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "specialist book / textbook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "livre spécialisé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzmanlık kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب متخصص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sachbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lexikon"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sachbuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fachbuch",
+    "plural": "die Fachbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fachbuch",
+        "genitiv": "des Fachbuches",
+        "dativ": "dem Fachbuch",
+        "akkusativ": "das Fachbuch"
+      },
+      "plural": {
+        "nominativ": "die Fachbücher",
+        "genitiv": "der Fachbücher",
+        "dativ": "den Fachbüchern",
+        "akkusativ": "die Fachbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fachbucch",
+    "Fachbuk",
+    "Fachbuuch",
+    "Faxbuch",
+    "Fachbuchs"
+  ]
+}

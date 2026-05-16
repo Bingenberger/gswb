@@ -1,0 +1,83 @@
+{
+  "lemma": "Lämpchen",
+  "wortart": "Nomen",
+  "silben": "Lämp-chen",
+  "begriffserklaerung": "Ein Lämpchen ist eine kleine Lampe, die schwach oder gemütlich leuchtet.",
+  "beispielsatz": "Das kleine Lämpchen auf meinem Nachttisch leuchtet ganz sanft.",
+  "rechtschreibstrategie": "Denk an das große Wort „Lampe\" – daraus wird „Lämp-chen\". Das „mp\" sprichst du deutlich mit, und „chen\" macht das Wort klein.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Lampe"
+  ],
+  "bild_datei": "Lämpchen.webp",
+  "audio_datei": "Lämpchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lämpchen",
+    "plural": "die Lämpchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lämpchen",
+        "genitiv": "des Lämpchens",
+        "dativ": "dem Lämpchen",
+        "akkusativ": "das Lämpchen"
+      },
+      "plural": {
+        "nominativ": "die Lämpchen",
+        "genitiv": "der Lämpchen",
+        "dativ": "den Lämpchen",
+        "akkusativ": "die Lämpchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little lamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite lampe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük lamba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laterne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lichtlein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lempchen",
+    "Lämpchen",
+    "Lämbchen",
+    "Lämpgen",
+    "Lämpschen",
+    "Lämphen"
+  ]
+}

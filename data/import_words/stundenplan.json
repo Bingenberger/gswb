@@ -1,0 +1,83 @@
+{
+  "lemma": "Stundenplan",
+  "wortart": "Nomen",
+  "silben": "Stun-den-plan",
+  "begriffserklaerung": "Ein Stundenplan zeigt dir, welche Fächer du an welchem Tag und zu welcher Zeit in der Schule hast.",
+  "beispielsatz": "Am Montag habe ich laut meinem Stundenplan zuerst Mathe und dann Deutsch.",
+  "rechtschreibstrategie": "„Stundenplan\" ist ein zusammengesetztes Wort aus „Stunden\" und „Plan\". Sprich beide Teile deutlich: STUN-den-PLAN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stunde",
+    "Plan"
+  ],
+  "bild_datei": "Stundenplan.webp",
+  "audio_datei": "Stundenplan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "timetable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "emploi du temps"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders programı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدول الحصص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lehrplan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stundenplan",
+    "plural": "die Stundenpläne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stundenplan",
+        "genitiv": "des Stundenplans",
+        "dativ": "dem Stundenplan",
+        "akkusativ": "den Stundenplan"
+      },
+      "plural": {
+        "nominativ": "die Stundenpläne",
+        "genitiv": "der Stundenpläne",
+        "dativ": "den Stundenplänen",
+        "akkusativ": "die Stundenpläne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stundenplann",
+    "Stuntenplan",
+    "Stundenplan",
+    "Stundenpland",
+    "Shtundenplan"
+  ]
+}

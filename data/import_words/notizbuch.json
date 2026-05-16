@@ -1,0 +1,87 @@
+{
+  "lemma": "Notizbuch",
+  "wortart": "Nomen",
+  "silben": "No-tiz-buch",
+  "begriffserklaerung": "Ein Notizbuch ist ein kleines Heft, in das man wichtige Dinge, Ideen oder Gedanken aufschreibt, damit man sie nicht vergisst.",
+  "beispielsatz": "Lena schreibt ihre Hausaufgaben in ihr Notizbuch.",
+  "rechtschreibstrategie": "Das Wort „Notizbuch\" besteht aus zwei Teilen: „Notiz\" und „Buch\". Sprich beide Bausteine deutlich: No-tiz-buch. Das „z\" am Ende von „Notiz\" hörst du klar.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Notiz",
+    "Buch"
+  ],
+  "bild_datei": "Notizbuch.webp",
+  "audio_datei": "Notizbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "notebook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carnet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "not defteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دفتر الملاحظات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schultasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tagebuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Notizbuch",
+    "plural": "die Notizbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Notizbuch",
+        "genitiv": "des Notizbuches",
+        "dativ": "dem Notizbuch",
+        "akkusativ": "das Notizbuch"
+      },
+      "plural": {
+        "nominativ": "die Notizbücher",
+        "genitiv": "der Notizbücher",
+        "dativ": "den Notizbüchern",
+        "akkusativ": "die Notizbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Notitzbuch",
+    "Noticbuch",
+    "Notizbucch",
+    "Nottitzbuch",
+    "Notizbuk"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Umriss",
+  "wortart": "Nomen",
+  "silben": "Um-riss",
+  "begriffserklaerung": "Der Umriss ist die äußere Linie, die die Form eines Gegenstandes oder einer Person zeigt – wie ein Schattenbild.",
+  "beispielsatz": "Ich male den Umriss meiner Hand auf das Papier.",
+  "rechtschreibstrategie": "Das Wort „Umriss\" hat ein doppeltes s am Ende, weil der Vokal davor kurz gesprochen wird. Sprich laut: Um-riss – du hörst das kurze i!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "reiß",
+    "riss"
+  ],
+  "bild_datei": "Umriss.webp",
+  "audio_datei": "Umriss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Umriss",
+    "plural": "die Umrisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Umriss",
+        "genitiv": "des Umrisses",
+        "dativ": "dem Umriss",
+        "akkusativ": "den Umriss"
+      },
+      "plural": {
+        "nominativ": "die Umrisse",
+        "genitiv": "der Umrisse",
+        "dativ": "den Umrissen",
+        "akkusativ": "die Umrisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "outline"
+    },
+    {
+      "language_code": "fr",
+      "translation": "contour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dış hat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخطط خارجي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Riss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reißen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Silhouette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Form"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kontur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Umris",
+    "Umriß",
+    "Umrriss",
+    "Ummriss",
+    "Umrisss"
+  ]
+}

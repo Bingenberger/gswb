@@ -1,0 +1,92 @@
+{
+  "lemma": "Funktion",
+  "wortart": "Nomen",
+  "silben": "Funk-ti-on",
+  "begriffserklaerung": "Eine Funktion ist die Aufgabe oder Rolle, die jemand oder etwas hat. Zum Beispiel hat ein Knopf die Funktion, etwas ein- oder auszuschalten.",
+  "beispielsatz": "Der Knopf hat die Funktion, das Licht anzumachen.",
+  "rechtschreibstrategie": "Schreibe das Wort in Silben: Funk-ti-on. Höre genau hin – nach dem kurzen „u\" folgt „nk\", kein Dehnungs-h. Das „ti\" spricht sich wie „zi\" – aber schreibe ein „t\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "funktionieren",
+    "Funktion"
+  ],
+  "bild_datei": "Funktion.webp",
+  "audio_datei": "Funktion.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Funktion",
+    "plural": "die Funktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Funktion",
+        "genitiv": "der Funktion",
+        "dativ": "der Funktion",
+        "akkusativ": "die Funktion"
+      },
+      "plural": {
+        "nominativ": "die Funktionen",
+        "genitiv": "der Funktionen",
+        "dativ": "den Funktionen",
+        "akkusativ": "die Funktionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "function"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fonction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fonksiyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وظيفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "funktionieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "funktionsfähig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rolle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Technik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Funzion",
+    "Funktcion",
+    "Funktion",
+    "Funckion",
+    "Funkzion",
+    "Funtion"
+  ]
+}

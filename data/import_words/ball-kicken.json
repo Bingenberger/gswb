@@ -1,0 +1,83 @@
+{
+  "lemma": "Ball kicken",
+  "wortart": "Nomen",
+  "silben": "Ball ki-cken",
+  "begriffserklaerung": "Ball kicken bedeutet, einen Ball mit dem Fuß wegzustoßen oder zu schießen. Das macht man zum Beispiel beim Fußballspielen.",
+  "beispielsatz": "Beim Sport in der Schule darf jedes Kind den Ball kicken.",
+  "rechtschreibstrategie": "Schreibe „kicken\" mit ck, weil der Vokal davor kurz gesprochen wird: ki-cken. Bei einem kurzen Vokal folgt oft ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kick",
+    "Ball"
+  ],
+  "bild_datei": "Ball kicken.webp",
+  "audio_datei": "Ball kicken.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ball kicken",
+    "plural": "-",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ball kicken",
+        "genitiv": "des Ball kickens",
+        "dativ": "dem Ball kicken",
+        "akkusativ": "das Ball kicken"
+      },
+      "plural": {
+        "nominativ": "-",
+        "genitiv": "-",
+        "dativ": "-",
+        "akkusativ": "-"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kicking the ball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taper dans le ballon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "topa vurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ركل الكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor schießen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ball schießen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ball kicen",
+    "Ball kickken",
+    "Bal kicken",
+    "Ball kiken"
+  ]
+}

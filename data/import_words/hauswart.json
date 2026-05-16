@@ -1,0 +1,88 @@
+{
+  "lemma": "Hauswart",
+  "wortart": "Nomen",
+  "silben": "Haus-wart",
+  "begriffserklaerung": "Ein Hauswart ist eine Person, die sich um ein Gebäude kümmert. Er sorgt dafür, dass alles sauber, sicher und in Ordnung ist.",
+  "beispielsatz": "Der Hauswart repariert die kaputte Lampe im Treppenhaus.",
+  "rechtschreibstrategie": "„Hauswart\" ist ein zusammengesetztes Wort aus „Haus\" und „Wart\". Sprich beide Teile laut: HAUS + WART – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "wart"
+  ],
+  "bild_datei": "Hauswart.webp",
+  "audio_datei": "Hauswart.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "caretaker / janitor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "concierge / gardien d'immeuble"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapıcı / bina görevlisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس المبنى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hausmeister"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hausmeister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hauswart",
+    "plural": "die Hauswarte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hauswart",
+        "genitiv": "des Hauswarts",
+        "dativ": "dem Hauswart",
+        "akkusativ": "den Hauswart"
+      },
+      "plural": {
+        "nominativ": "die Hauswarte",
+        "genitiv": "der Hauswarte",
+        "dativ": "den Hauswarten",
+        "akkusativ": "die Hauswarte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hauswahrt",
+    "Hauswardt",
+    "Hausvart",
+    "Hauswart",
+    "Hauswahrd",
+    "Hauswahd"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Ziege",
+  "wortart": "Nomen",
+  "silben": "Zie-ge",
+  "begriffserklaerung": "Eine Ziege ist ein Haustier mit Hörnern und einem kurzen Schwanz. Ziegen leben auf Bauernhöfen und geben Milch.",
+  "beispielsatz": "Die Ziege frisst frisches Gras auf der Weide.",
+  "rechtschreibstrategie": "Achte auf das „ie\" in Ziege – es klingt wie ein langes „i\". Merke dir: Z-ie-ge!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Ziege"
+  ],
+  "bild_datei": "Ziege.webp",
+  "audio_datei": "Ziege.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chèvre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ماعز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ziegenmilch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ziegenkäse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ziege",
+    "plural": "die Ziegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ziege",
+        "genitiv": "der Ziege",
+        "dativ": "der Ziege",
+        "akkusativ": "die Ziege"
+      },
+      "plural": {
+        "nominativ": "die Ziegen",
+        "genitiv": "der Ziegen",
+        "dativ": "den Ziegen",
+        "akkusativ": "die Ziegen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ziege",
+    "Tsige",
+    "Zige",
+    "Zieke",
+    "Siege",
+    "Ziegge"
+  ]
+}

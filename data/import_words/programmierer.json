@@ -1,0 +1,87 @@
+{
+  "lemma": "Programmierer",
+  "wortart": "Nomen",
+  "silben": "Pro-gram-mie-rer",
+  "begriffserklaerung": "Ein Programmierer ist jemand, der Computer-Programme schreibt. Er gibt dem Computer genaue Anweisungen, damit dieser bestimmte Aufgaben erledigen kann.",
+  "beispielsatz": "Der Programmierer schreibt ein neues Spiel für den Computer.",
+  "rechtschreibstrategie": "Das Wort steckt voller Bausteine: Pro-gramm-ier-er. Denk an das Wort „Programm\" mit Doppel-m – das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Programm",
+    "programmier"
+  ],
+  "bild_datei": "Programmierer.webp",
+  "audio_datei": "Programmierer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Programmierer",
+    "plural": "die Programmierer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Programmierer",
+        "genitiv": "des Programmierers",
+        "dativ": "dem Programmierer",
+        "akkusativ": "den Programmierer"
+      },
+      "plural": {
+        "nominativ": "die Programmierer",
+        "genitiv": "der Programmierer",
+        "dativ": "den Programmierern",
+        "akkusativ": "die Programmierer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "programmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "programmeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "programcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مبرمج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Programm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "programmieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Software"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entwickler"
+    }
+  ],
+  "fehlschreibungen": [
+    "Programierer",
+    "Programmierer",
+    "Progrаmmierer",
+    "Progammierer",
+    "Prograammierer",
+    "Programmirer",
+    "Programmiehrer"
+  ]
+}

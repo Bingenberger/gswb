@@ -1,0 +1,86 @@
+{
+  "lemma": "Schneeglöckchen",
+  "wortart": "Nomen",
+  "silben": "Schnee-glöck-chen",
+  "begriffserklaerung": "Ein Schneeglöckchen ist eine kleine, weiße Blume, die schon im Winter oder frühen Frühling blüht – oft noch wenn Schnee liegt.",
+  "beispielsatz": "Im Februar entdeckte Lisa das erste Schneeglöckchen im Garten.",
+  "rechtschreibstrategie": "Das Wort steckt aus drei Bausteinen: Schnee + Glock + chen. Sprich alle Teile laut mit: SCHNEE-GLÖCK-CHEN. Das „ck\" schreibst du nach dem kurzen „ö\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Glocke"
+  ],
+  "bild_datei": "Schneeglöckchen.webp",
+  "audio_datei": "Schneeglöckchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schneeglöckchen",
+    "plural": "die Schneeglöckchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schneeglöckchen",
+        "genitiv": "des Schneeglöckchens",
+        "dativ": "dem Schneeglöckchen",
+        "akkusativ": "das Schneeglöckchen"
+      },
+      "plural": {
+        "nominativ": "die Schneeglöckchen",
+        "genitiv": "der Schneeglöckchen",
+        "dativ": "den Schneeglöckchen",
+        "akkusativ": "die Schneeglöckchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snowdrop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perce-neige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kardelen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زهرة الثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glocke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krokus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schneglöckchen",
+    "Schneeglökchen",
+    "Schneeglöckchen",
+    "Schneeglöcken",
+    "Scheeglöckchen",
+    "Schneeglöckhen",
+    "Schneeglöcchen"
+  ]
+}

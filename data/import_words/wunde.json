@@ -1,0 +1,91 @@
+{
+  "lemma": "Wunde",
+  "wortart": "Nomen",
+  "silben": "Wun-de",
+  "begriffserklaerung": "Eine Wunde ist eine verletzte Stelle am Körper, zum Beispiel wenn man sich schneidet oder aufschürft.",
+  "beispielsatz": "Mama klebt ein Pflaster auf meine Wunde am Knie.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Wun-de\". Du hörst ein kurzes „u\" – aber hier gibt es keinen Doppelkonsonanten. Denk daran: Das „d\" am Ende klingt wie ein „t\", aber du schreibst immer „d\", weil das Wort „Wunden\" heißt.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wund"
+  ],
+  "bild_datei": "Wunde.webp",
+  "audio_datei": "Wunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wound"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blessure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verwunden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wundpflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verletzung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wunde",
+    "plural": "die Wunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wunde",
+        "genitiv": "der Wunde",
+        "dativ": "der Wunde",
+        "akkusativ": "die Wunde"
+      },
+      "plural": {
+        "nominativ": "die Wunden",
+        "genitiv": "der Wunden",
+        "dativ": "den Wunden",
+        "akkusativ": "die Wunden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wunte",
+    "Vunde",
+    "Wunnde",
+    "Wunde",
+    "Wunt",
+    "Wond"
+  ]
+}

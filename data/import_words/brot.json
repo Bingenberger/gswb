@@ -1,0 +1,86 @@
+{
+  "lemma": "Brot",
+  "wortart": "Nomen",
+  "silben": "Brot",
+  "begriffserklaerung": "Brot ist ein Lebensmittel, das aus Mehl, Wasser und meist Hefe gebacken wird. Es gibt viele Sorten, zum Beispiel Weißbrot oder Vollkornbrot.",
+  "beispielsatz": "Zum Frühstück schmiert Lena Butter auf ihr Brot.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Brot\". Am Ende hörst du ein „t\", aber wenn du es verlängerst, wird das „d\" sichtbar: „Brote\". Deshalb schreibt man „Brot\" mit einem „d\" am Ende – das versteckte „d\" zeigt dir, wie du das Wort richtig schreibst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Brot"
+  ],
+  "bild_datei": "Brot.webp",
+  "audio_datei": "Brot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bread"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خُبْز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brötchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brotkorb"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brotdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bäckerei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brot",
+    "plural": "die Brote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brot",
+        "genitiv": "des Brotes",
+        "dativ": "dem Brot",
+        "akkusativ": "das Brot"
+      },
+      "plural": {
+        "nominativ": "die Brote",
+        "genitiv": "der Brote",
+        "dativ": "den Broten",
+        "akkusativ": "die Brote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Broht",
+    "Brott",
+    "Brod",
+    "Brodt",
+    "Broot"
+  ]
+}

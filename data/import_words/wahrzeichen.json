@@ -1,0 +1,84 @@
+{
+  "lemma": "Wahrzeichen",
+  "wortart": "Nomen",
+  "silben": "Wahr-zei-chen",
+  "begriffserklaerung": "Ein Wahrzeichen ist ein bekanntes Gebäude, Denkmal oder ein anderes Ding, das für eine Stadt oder ein Land steht und es besonders berühmt macht.",
+  "beispielsatz": "Der Eiffelturm ist das bekannteste Wahrzeichen von Paris.",
+  "rechtschreibstrategie": "Das Wort „Wahrzeichen\" besteht aus zwei Teilen: „wahr\" und „Zeichen\". Sprich beide Teile einzeln: WAHR + ZEICHEN. Das „h\" in „wahr\" macht das „a\" lang – merke es dir!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wahr",
+    "zeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wahrzeichen",
+    "plural": "die Wahrzeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wahrzeichen",
+        "genitiv": "des Wahrzeichens",
+        "dativ": "dem Wahrzeichen",
+        "akkusativ": "das Wahrzeichen"
+      },
+      "plural": {
+        "nominativ": "die Wahrzeichen",
+        "genitiv": "der Wahrzeichen",
+        "dativ": "den Wahrzeichen",
+        "akkusativ": "die Wahrzeichen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Warzzeichen",
+    "Wahrzeigen",
+    "Warzeichnen",
+    "Wharzeichen",
+    "Warzeichen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "landmark"
+    },
+    {
+      "language_code": "fr",
+      "translation": "symbole emblématique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "simge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معلم بارز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahrhaftig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Denkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehenswürdigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Symbol"
+    }
+  ],
+  "bild_datei": "Wahrzeichen.webp",
+  "audio_datei": "Wahrzeichen.mp3"
+}

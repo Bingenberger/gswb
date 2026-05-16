@@ -1,0 +1,95 @@
+{
+  "lemma": "gefroren",
+  "wortart": "Verb",
+  "silben": "ge-fro-ren",
+  "begriffserklaerung": "Gefroren ist die Mitvergangenheit (Partizip II) des Verbs „frieren\". Etwas ist gefroren, wenn Wasser oder eine Flüssigkeit durch Kälte zu Eis geworden ist.",
+  "beispielsatz": "Der See ist über Nacht gefroren, weil es so kalt war.",
+  "rechtschreibstrategie": "Denk an das Stammwort „frieren\": ge-FRIER-en → ge-FROR-en. Das „r\" in der Mitte hörst du deutlich, wenn du laut sprichst: ge-fro-ren.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "frieren"
+  ],
+  "bild_datei": "gefroren.webp",
+  "audio_datei": "gefroren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "frozen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gelé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "donmuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجمد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "frieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einfrieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vereist"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "frieren",
+    "praesens": {
+      "ich": "friere",
+      "du": "frierst",
+      "er_sie_es": "friert",
+      "wir": "frieren",
+      "ihr": "friert",
+      "sie": "frieren"
+    },
+    "perfekt": {
+      "ich": "bin gefroren",
+      "du": "bist gefroren",
+      "er_sie_es": "ist gefroren",
+      "wir": "sind gefroren",
+      "ihr": "seid gefroren",
+      "sie": "sind gefroren"
+    },
+    "praeteritum": {
+      "ich": "fror",
+      "du": "frorst",
+      "er_sie_es": "fror",
+      "wir": "froren",
+      "ihr": "frort",
+      "sie": "froren"
+    }
+  },
+  "fehlschreibungen": [
+    "gefrohren",
+    "gefrorren",
+    "gefroren",
+    "gefrooren",
+    "gefrorhen",
+    "gefrohrn"
+  ]
+}

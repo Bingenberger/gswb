@@ -1,0 +1,85 @@
+{
+  "lemma": "Kopfhörer",
+  "wortart": "Nomen",
+  "silben": "Kopf-hö-rer",
+  "begriffserklaerung": "Ein Kopfhörer ist ein Gerät, das man sich über die Ohren setzt, um Musik oder andere Töne zu hören, ohne dass andere Menschen es mithören.",
+  "beispielsatz": "Lena setzt ihren Kopfhörer auf und hört ihre Lieblingsmusik.",
+  "rechtschreibstrategie": "„Kopfhörer\" ist aus zwei Wörtern zusammengesetzt: „Kopf\" und „Hörer\". Wenn du das Wort in seine Bausteine zerlegst, kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kopf",
+    "hören"
+  ],
+  "bild_datei": "Kopfhörer.webp",
+  "audio_datei": "Kopfhörer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kopfhörer",
+    "plural": "die Kopfhörer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kopfhörer",
+        "genitiv": "des Kopfhörers",
+        "dativ": "dem Kopfhörer",
+        "akkusativ": "den Kopfhörer"
+      },
+      "plural": {
+        "nominativ": "die Kopfhörer",
+        "genitiv": "der Kopfhörer",
+        "dativ": "den Kopfhörern",
+        "akkusativ": "die Kopfhörer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "headphones"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casque audio"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kulaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سماعات الرأس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lautsprecher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kopfhörrer",
+    "Kopfhöhrer",
+    "Kopfhörer",
+    "Kopfhörher",
+    "Kopfherrer",
+    "Kophörer",
+    "Kopfhöherer"
+  ]
+}

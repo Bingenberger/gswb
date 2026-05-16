@@ -1,0 +1,83 @@
+{
+  "lemma": "Kinderwagen",
+  "wortart": "Nomen",
+  "silben": "Kin-der-wa-gen",
+  "begriffserklaerung": "Ein Kinderwagen ist ein Fahrzeug auf Rädern, in dem kleine Babys und Kleinkinder bequem geschoben werden können.",
+  "beispielsatz": "Meine Mutter schiebt meine kleine Schwester im Kinderwagen durch den Park.",
+  "rechtschreibstrategie": "Das Wort „Kinderwagen\" ist aus zwei Wörtern zusammengesetzt: „Kinder\" + „Wagen\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kind",
+    "Wagen"
+  ],
+  "bild_datei": "Kinderwagen.webp",
+  "audio_datei": "Kinderwagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pram / stroller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "landau / poussette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bebek arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عربة الأطفال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buggy"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kinderkutsche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kinderwagen",
+    "plural": "die Kinderwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kinderwagen",
+        "genitiv": "des Kinderwagens",
+        "dativ": "dem Kinderwagen",
+        "akkusativ": "den Kinderwagen"
+      },
+      "plural": {
+        "nominativ": "die Kinderwagen",
+        "genitiv": "der Kinderwagen",
+        "dativ": "den Kinderwagen",
+        "akkusativ": "die Kinderwagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kinderwaggen",
+    "Kindervagen",
+    "Kinderwaghen",
+    "Kinnerwagen",
+    "Kinderwagn"
+  ]
+}

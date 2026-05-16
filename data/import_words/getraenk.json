@@ -1,0 +1,88 @@
+{
+  "lemma": "Getränk",
+  "wortart": "Nomen",
+  "silben": "Ge-tränk",
+  "begriffserklaerung": "Ein Getränk ist eine Flüssigkeit, die man trinken kann, zum Beispiel Wasser, Saft oder Milch.",
+  "beispielsatz": "Nach dem Sport trinke ich am liebsten ein kühles Getränk.",
+  "rechtschreibstrategie": "Denk ans Verlängern: Ge-trän-ke – das ä hörst du in der Mehrzahl deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "trink",
+    "tränk"
+  ],
+  "bild_datei": "Getränk.webp",
+  "audio_datei": "Getränk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Getränk",
+    "plural": "die Getränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Getränk",
+        "genitiv": "des Getränks",
+        "dativ": "dem Getränk",
+        "akkusativ": "das Getränk"
+      },
+      "plural": {
+        "nominativ": "die Getränke",
+        "genitiv": "der Getränke",
+        "dativ": "den Getränken",
+        "akkusativ": "die Getränke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drink / beverage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "içecek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشروب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tränken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trunk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Getrenk",
+    "Getrennk",
+    "Getreänk",
+    "Getränck",
+    "Geträng"
+  ]
+}

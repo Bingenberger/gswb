@@ -1,0 +1,84 @@
+{
+  "lemma": "Sonnenenergie",
+  "wortart": "Nomen",
+  "silben": "Son-nen-e-ner-gie",
+  "begriffserklaerung": "Die Sonnenenergie ist die Kraft, die von der Sonne kommt. Sie liefert Licht und Wärme und kann in Strom umgewandelt werden.",
+  "beispielsatz": "Mit Sonnenenergie können wir unser Haus mit Strom versorgen, ohne die Umwelt zu verschmutzen.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus zwei Bausteinen zusammen: „Sonne\" und „Energie\". Sprich beide Teile laut mit: Son-nen-e-ner-gie. Das Wort „Sonne\" endet auf -e, daher kommt ein doppeltes n in der Mitte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Energie"
+  ],
+  "bild_datei": "Sonnenenergie.webp",
+  "audio_datei": "Sonnenenergie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonnenenergie",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonnenenergie",
+        "genitiv": "der Sonnenenergie",
+        "dativ": "der Sonnenenergie",
+        "akkusativ": "die Sonnenenergie"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "solar energy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "énergie solaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş enerjisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاقة شمسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windenergie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Solaranlage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Solarenergie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sonenenergie",
+    "Sonnenergie",
+    "Sonnenenergi",
+    "Sonnenenerchie",
+    "Sonnenänärgie"
+  ]
+}

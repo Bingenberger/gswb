@@ -1,0 +1,77 @@
+{
+  "lemma": "Fakt / die Fakten",
+  "wortart": "Nomen",
+  "silben": "Fakt",
+  "begriffserklaerung": "Ein Fakt ist etwas, das wirklich wahr ist und bewiesen werden kann.",
+  "beispielsatz": "Es ist ein Fakt, dass die Erde rund ist.",
+  "rechtschreibstrategie": "Das Wort „Fakt\" endet auf „kt\" – sprich beide Buchstaben deutlich mit: F-a-k-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fakt",
+    "plural": "die Fakten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fakt",
+        "genitiv": "des Fakts",
+        "dativ": "dem Fakt",
+        "akkusativ": "den Fakt"
+      },
+      "plural": {
+        "nominativ": "die Fakten",
+        "genitiv": "der Fakten",
+        "dativ": "den Fakten",
+        "akkusativ": "die Fakten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Fakt"
+  ],
+  "fehlschreibungen": [
+    "Fact",
+    "Fakt",
+    "Fakkt",
+    "Pakt"
+  ],
+  "bild_datei": "Fakt / die Fakten.webp",
+  "audio_datei": "Fakt / die Fakten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fact"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerçek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "faktisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tatsache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beweis"
+    }
+  ]
+}

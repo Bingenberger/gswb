@@ -1,0 +1,87 @@
+{
+  "lemma": "Trank",
+  "wortart": "Nomen",
+  "silben": "Trank",
+  "begriffserklaerung": "Ein Trank ist eine Flüssigkeit, die man trinkt. Oft meint man damit ein besonderes Getränk, zum Beispiel einen Zaubertrank in Märchen und Geschichten.",
+  "beispielsatz": "Die Hexe braute einen geheimnisvollen Trank in ihrem großen Kessel.",
+  "rechtschreibstrategie": "Das Wort „Trank\" endet auf -nk. Wenn du es verlängerst, sagst du „Tränke\" – da hörst du das kurze „a\" deutlich. Deshalb schreibt man kein „h\" und kein Doppel-a.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "trink",
+    "trank"
+  ],
+  "bild_datei": "Trank.webp",
+  "audio_datei": "Trank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "potion / drink"
+    },
+    {
+      "language_code": "fr",
+      "translation": "potion / breuvage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "içecek / iksir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرعة / شراب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gebräu"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaubertrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kessel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hexe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trank",
+    "plural": "die Tränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trank",
+        "genitiv": "des Trankes",
+        "dativ": "dem Trank",
+        "akkusativ": "den Trank"
+      },
+      "plural": {
+        "nominativ": "die Tränke",
+        "genitiv": "der Tränke",
+        "dativ": "den Tränken",
+        "akkusativ": "die Tränke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Drank",
+    "Trangk",
+    "Trannk",
+    "Trankk",
+    "Trahnk"
+  ]
+}

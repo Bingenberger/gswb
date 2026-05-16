@@ -1,0 +1,98 @@
+{
+  "lemma": "trinken",
+  "wortart": "Verb",
+  "silben": "trin-ken",
+  "begriffserklaerung": "Wenn man trinkt, nimmt man eine Flüssigkeit wie Wasser, Saft oder Milch in den Mund und schluckt sie.",
+  "beispielsatz": "Nach dem Sport trinke ich ein großes Glas Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: trin-ken. Nach dem kurzen „i\" hörst du das „n\" und das „k\" – schreib beide genau so, wie du sie hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "trink"
+  ],
+  "bild_datei": "trinken.webp",
+  "audio_datei": "trinken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "trinken",
+    "praesens": {
+      "ich": "trinke",
+      "du": "trinkst",
+      "er_sie_es": "trinkt",
+      "wir": "trinken",
+      "ihr": "trinkt",
+      "sie": "trinken"
+    },
+    "perfekt": {
+      "ich": "habe getrunken",
+      "du": "hast getrunken",
+      "er_sie_es": "hat getrunken",
+      "wir": "haben getrunken",
+      "ihr": "habt getrunken",
+      "sie": "haben getrunken"
+    },
+    "praeteritum": {
+      "ich": "trank",
+      "du": "trankst",
+      "er_sie_es": "trank",
+      "wir": "tranken",
+      "ihr": "trankt",
+      "sie": "tranken"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to drink"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "içmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَشْرَبُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trinkwasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schlürfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Durst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    }
+  ],
+  "fehlschreibungen": [
+    "trincken",
+    "drinken",
+    "trinkken",
+    "trincen",
+    "trienken"
+  ]
+}

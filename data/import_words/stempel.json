@@ -1,0 +1,78 @@
+{
+  "lemma": "Stempel",
+  "wortart": "Nomen",
+  "silben": "Stem-pel",
+  "begriffserklaerung": "Ein Stempel ist ein kleines Werkzeug, mit dem man ein Muster oder einen Schriftzug auf Papier drücken kann. Man taucht ihn in Farbe und drückt ihn dann auf das Papier.",
+  "beispielsatz": "Die Lehrerin drückt einen roten Stempel auf mein Heft.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Stem-pel. Nach dem kurzen „e\" kommt ein „m\" und dann „p\" – hör genau hin, damit du kein Buchstaben vergisst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "stempel"
+  ],
+  "bild_datei": "Stempel.webp",
+  "audio_datei": "Stempel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tampon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "damga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ختم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stempeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stempelkissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Siegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Briefmarke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stempel",
+    "plural": "die Stempel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stempel",
+        "genitiv": "des Stempels",
+        "dativ": "dem Stempel",
+        "akkusativ": "den Stempel"
+      },
+      "plural": {
+        "nominativ": "die Stempel",
+        "genitiv": "der Stempel",
+        "dativ": "den Stempeln",
+        "akkusativ": "die Stempel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stempell",
+    "Stämpel",
+    "Shtempel",
+    "Stenbel",
+    "Stempäl"
+  ]
+}

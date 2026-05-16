@@ -1,0 +1,74 @@
+{
+  "lemma": "Lokomotive",
+  "wortart": "Nomen",
+  "silben": "Lo-ko-mo-ti-ve",
+  "begriffserklaerung": "Eine Lokomotive ist die Maschine, die einen Zug zieht oder schiebt. Sie hat einen starken Motor und fährt auf Schienen.",
+  "beispielsatz": "Die große Lokomotive zieht viele Waggons durch den Tunnel.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Lo-ko-mo-ti-ve. Jede Silbe hat einen Vokal – schreib sie genau so, wie du sie hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Lokomotive.webp",
+  "audio_datei": "Lokomotive.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "locomotive"
+    },
+    {
+      "language_code": "fr",
+      "translation": "locomotive"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lokomotif"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاطرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waggon"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lokomotive",
+    "plural": "die Lokomotiven",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lokomotive",
+        "genitiv": "der Lokomotive",
+        "dativ": "der Lokomotive",
+        "akkusativ": "die Lokomotive"
+      },
+      "plural": {
+        "nominativ": "die Lokomotiven",
+        "genitiv": "der Lokomotiven",
+        "dativ": "den Lokomotiven",
+        "akkusativ": "die Lokomotiven"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lokomottive",
+    "Lokomotife",
+    "Lokomottife",
+    "Lokomotive",
+    "Lokomotiv",
+    "Lokomootive",
+    "Lokomottiv"
+  ]
+}

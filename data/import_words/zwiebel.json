@@ -1,0 +1,83 @@
+{
+  "lemma": "Zwiebel",
+  "wortart": "Nomen",
+  "silben": "Zwie-bel",
+  "begriffserklaerung": "Eine Zwiebel ist ein rundes Gemüse mit vielen Schichten, das unter der Erde wächst. Beim Schneiden bekommt man oft tränende Augen.",
+  "beispielsatz": "Mama schneidet die Zwiebel klein und gibt sie in die Suppe.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Zwie-bel. Denke an das „ie\" am Anfang – wie in „Wiese\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Zwiebel"
+  ],
+  "bild_datei": "Zwiebel.webp",
+  "audio_datei": "Zwiebel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "onion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oignon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zwiebelsuppe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zwiebelschale"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knoblauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karotte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zwiebel",
+    "plural": "die Zwiebeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zwiebel",
+        "genitiv": "der Zwiebel",
+        "dativ": "der Zwiebel",
+        "akkusativ": "die Zwiebel"
+      },
+      "plural": {
+        "nominativ": "die Zwiebeln",
+        "genitiv": "der Zwiebeln",
+        "dativ": "den Zwiebeln",
+        "akkusativ": "die Zwiebeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zwibel",
+    "Zwibell",
+    "Zwiebell",
+    "Zwiebel",
+    "Zwibbell",
+    "Twiebel"
+  ]
+}

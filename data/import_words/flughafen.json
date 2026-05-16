@@ -1,0 +1,85 @@
+{
+  "lemma": "Flughafen",
+  "wortart": "Nomen",
+  "silben": "Flug-ha-fen",
+  "begriffserklaerung": "Ein Flughafen ist ein großer Platz, von dem Flugzeuge starten und landen. Dort kaufen Menschen Tickets und warten auf ihre Reise.",
+  "beispielsatz": "Wir fahren früh morgens zum Flughafen, weil unser Flugzeug um sieben Uhr abfliegt.",
+  "rechtschreibstrategie": "Denk an die zwei Wörter, aus denen „Flughafen\" besteht: „Flug\" und „Hafen\". Sprich beide Teile laut: FLUG – HA – FEN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "flieg",
+    "flug",
+    "hafen"
+  ],
+  "bild_datei": "Flughafen.webp",
+  "audio_datei": "Flughafen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "airport"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aéroport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havalimanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lufthafen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flughafen",
+    "plural": "die Flughäfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flughafen",
+        "genitiv": "des Flughafens",
+        "dativ": "dem Flughafen",
+        "akkusativ": "den Flughafen"
+      },
+      "plural": {
+        "nominativ": "die Flughäfen",
+        "genitiv": "der Flughäfen",
+        "dativ": "den Flughäfen",
+        "akkusativ": "die Flughäfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flukhafen",
+    "Flughaffen",
+    "Flugahfen",
+    "Flughafen",
+    "Flugshafen",
+    "Flugghaben"
+  ]
+}

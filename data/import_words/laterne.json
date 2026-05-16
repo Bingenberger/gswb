@@ -1,0 +1,83 @@
+{
+  "lemma": "Laterne",
+  "wortart": "Nomen",
+  "silben": "La-ter-ne",
+  "begriffserklaerung": "Eine Laterne ist eine Leuchte mit einem Gehäuse aus Glas oder buntem Papier, die Licht nach außen lässt. Man trägt sie an einem Stiel oder hängt sie auf.",
+  "beispielsatz": "Am Martinstag trage ich stolz meine bunte Laterne durch die dunkle Straße.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: La-ter-ne. Das „a\" in der ersten Silbe ist lang, deshalb steht nur ein „t\" – nicht zwei!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Latern"
+  ],
+  "bild_datei": "Laterne.webp",
+  "audio_datei": "Laterne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lantern"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lanterne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fener"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فانوس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laternenpfahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laternenumzug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leuchte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Laterne",
+    "plural": "die Laternen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Laterne",
+        "genitiv": "der Laterne",
+        "dativ": "der Laterne",
+        "akkusativ": "die Laterne"
+      },
+      "plural": {
+        "nominativ": "die Laternen",
+        "genitiv": "der Laternen",
+        "dativ": "den Laternen",
+        "akkusativ": "die Laternen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Latterne",
+    "Laterne",
+    "Latern",
+    "Latärne",
+    "Laterrne",
+    "Laderne"
+  ]
+}

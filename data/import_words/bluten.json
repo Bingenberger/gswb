@@ -1,0 +1,90 @@
+{
+  "lemma": "bluten",
+  "wortart": "Verb",
+  "silben": "blu-ten",
+  "begriffserklaerung": "Wenn jemand blutet, fließt Blut aus einer Wunde heraus, zum Beispiel nach einem Sturz.",
+  "beispielsatz": "Als Lena hinfiel, begann ihr Knie zu bluten.",
+  "rechtschreibstrategie": "Denk an das Nomen „Blut\" – von „Blut\" kommt „bluten\". Das lange U wird einfach geschrieben, kein Dehnungs-h.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Blut"
+  ],
+  "bild_datei": "bluten.webp",
+  "audio_datei": "bluten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "bluten",
+    "praesens": {
+      "ich": "blute",
+      "du": "blutest",
+      "er_sie_es": "blutet",
+      "wir": "bluten",
+      "ihr": "blutet",
+      "sie": "bluten"
+    },
+    "perfekt": {
+      "ich": "habe geblutet",
+      "du": "hast geblutet",
+      "er_sie_es": "hat geblutet",
+      "wir": "haben geblutet",
+      "ihr": "habt geblutet",
+      "sie": "haben geblutet"
+    },
+    "praeteritum": {
+      "ich": "blutete",
+      "du": "blutetest",
+      "er_sie_es": "blutete",
+      "wir": "bluteten",
+      "ihr": "blutetet",
+      "sie": "bluteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bleed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saigner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنزِف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verletzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    }
+  ],
+  "fehlschreibungen": [
+    "blüten",
+    "blutten",
+    "bluden",
+    "bluuden",
+    "bluhten"
+  ]
+}

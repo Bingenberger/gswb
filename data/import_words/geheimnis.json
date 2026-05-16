@@ -1,0 +1,87 @@
+{
+  "lemma": "Geheimnis",
+  "wortart": "Nomen",
+  "silben": "Ge-heim-nis",
+  "begriffserklaerung": "Ein Geheimnis ist etwas, das du nur bestimmten Menschen erzählst oder ganz für dich behältst.",
+  "beispielsatz": "Mia flüstert ihrer besten Freundin ein Geheimnis ins Ohr.",
+  "rechtschreibstrategie": "Denk an das Wort „heim\" – dort, wo man zu Hause ist. Ge-heim-nis: Das „h\" gehört zum Wortteil „heim\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "heim"
+  ],
+  "bild_datei": "Geheimnis.webp",
+  "audio_datei": "Geheimnis.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geheimnis",
+    "plural": "die Geheimnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geheimnis",
+        "genitiv": "des Geheimnisses",
+        "dativ": "dem Geheimnis",
+        "akkusativ": "das Geheimnis"
+      },
+      "plural": {
+        "nominativ": "die Geheimnisse",
+        "genitiv": "der Geheimnisse",
+        "dativ": "den Geheimnissen",
+        "akkusativ": "die Geheimnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "secret"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secret"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سِرّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geheim"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heimlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geheimtipp"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Überraschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vertrauen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geheimmniss",
+    "Geheimniss",
+    "Geheimniß",
+    "Geheimnis",
+    "Geheimnes",
+    "Gehaimnis"
+  ]
+}

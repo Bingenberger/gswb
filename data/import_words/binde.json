@@ -1,0 +1,82 @@
+{
+  "lemma": "Binde",
+  "wortart": "Nomen",
+  "silben": "Bin-de",
+  "begriffserklaerung": "Eine Binde ist ein langes Stück Stoff oder Verbandsmaterial, das man um eine Wunde oder einen Körperteil wickelt.",
+  "beispielsatz": "Die Krankenpflegerin legt dem Kind eine Binde um das verletzte Knie.",
+  "rechtschreibstrategie": "Das Wort „Binde\" beginnt mit einem großen B, weil es ein Nomen ist. Sprich die Silben deutlich: Bin-de. Nach dem kurzen „i\" folgt ein „n\" und dann ein „d\" – kein Doppelbuchstabe!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bind"
+  ],
+  "bild_datei": "Binde.webp",
+  "audio_datei": "Binde.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Binde",
+    "plural": "die Binden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Binde",
+        "genitiv": "der Binde",
+        "dativ": "der Binde",
+        "akkusativ": "die Binde"
+      },
+      "plural": {
+        "nominativ": "die Binden",
+        "genitiv": "der Binden",
+        "dativ": "den Binden",
+        "akkusativ": "die Binden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bandage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bandage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sargı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضمادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verband"
+    }
+  ],
+  "fehlschreibungen": [
+    "Binte",
+    "Binnde",
+    "Binde",
+    "Bindte",
+    "Bynde"
+  ]
+}

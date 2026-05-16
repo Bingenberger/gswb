@@ -1,0 +1,98 @@
+{
+  "lemma": "pausieren",
+  "wortart": "Verb",
+  "silben": "pau-sie-ren",
+  "begriffserklaerung": "Wenn man pausiert, hört man kurz auf, etwas zu tun, und ruht sich eine Weile aus.",
+  "beispielsatz": "Nach dem Laufen pausieren wir kurz und trinken etwas.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: pau-sie-ren. Im Mittelteil steckt „sie\" – das schreibt man mit ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Pause"
+  ],
+  "bild_datei": "pausieren.webp",
+  "audio_datei": "pausieren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "pausieren",
+    "praesens": {
+      "ich": "pausiere",
+      "du": "pausierst",
+      "er_sie_es": "pausiert",
+      "wir": "pausieren",
+      "ihr": "pausiert",
+      "sie": "pausieren"
+    },
+    "perfekt": {
+      "ich": "habe pausiert",
+      "du": "hast pausiert",
+      "er_sie_es": "hat pausiert",
+      "wir": "haben pausiert",
+      "ihr": "habt pausiert",
+      "sie": "haben pausiert"
+    },
+    "praeteritum": {
+      "ich": "pausierte",
+      "du": "pausiertest",
+      "er_sie_es": "pausierte",
+      "wir": "pausierten",
+      "ihr": "pausiertet",
+      "sie": "pausierten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pause"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire une pause"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ara vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يأخذ استراحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pausierung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "innehalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "rasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erholen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stoppen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ausruhen"
+    }
+  ],
+  "fehlschreibungen": [
+    "pauzieren",
+    "pausiren",
+    "paussieren",
+    "pausiehren",
+    "pausiern"
+  ]
+}

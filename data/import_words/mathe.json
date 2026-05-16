@@ -1,0 +1,86 @@
+{
+  "lemma": "Mathe",
+  "wortart": "Nomen",
+  "silben": "Ma-the",
+  "begriffserklaerung": "Mathe ist ein Schulfach, in dem du Zahlen, Rechnen und Formen lernst.",
+  "beispielsatz": "In der Mathe-Stunde üben wir heute das Einmaleins.",
+  "rechtschreibstrategie": "Denk an das lange „a\" am Anfang und das „th\" in der Mitte – sprich es so, wie du es schreibst: Ma-the.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mathematik"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mathe",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mathe",
+        "genitiv": "der Mathe",
+        "dativ": "der Mathe",
+        "akkusativ": "die Mathe"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "bild_datei": "Mathe.webp",
+  "audio_datei": "Mathe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "maths"
+    },
+    {
+      "language_code": "fr",
+      "translation": "les maths"
+    },
+    {
+      "language_code": "tr",
+      "translation": "matematik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الرياضيات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mathematik"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mathematisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mathematik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geometrie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahlen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Matte",
+    "Maht",
+    "Madte",
+    "Mahte",
+    "Mathe"
+  ]
+}

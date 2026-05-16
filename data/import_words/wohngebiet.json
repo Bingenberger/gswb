@@ -1,0 +1,89 @@
+{
+  "lemma": "Wohngebiet",
+  "wortart": "Nomen",
+  "silben": "Wohn-ge-biet",
+  "begriffserklaerung": "Ein Wohngebiet ist ein Teil einer Stadt oder eines Dorfes, in dem viele Menschen wohnen. Dort stehen vor allem Häuser und Wohnungen.",
+  "beispielsatz": "In unserem Wohngebiet gibt es viele Spielplätze und grüne Wiesen.",
+  "rechtschreibstrategie": "Das Wort „Wohngebiet\" besteht aus zwei Teilen: „Wohn\" (von wohnen) und „Gebiet\". Sprich beide Teile deutlich: WOHN + GEBIET. Das ie in „Gebiet\" sprichst du lang – das schreibt man ie!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "wohn",
+    "Gebiet"
+  ],
+  "bild_datei": "Wohngebiet.webp",
+  "audio_datei": "Wohngebiet.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wohngebiet",
+    "plural": "die Wohngebiete",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wohngebiet",
+        "genitiv": "des Wohngebiets",
+        "dativ": "dem Wohngebiet",
+        "akkusativ": "das Wohngebiet"
+      },
+      "plural": {
+        "nominativ": "die Wohngebiete",
+        "genitiv": "der Wohngebiete",
+        "dativ": "den Wohngebieten",
+        "akkusativ": "die Wohngebiete"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "residential area"
+    },
+    {
+      "language_code": "fr",
+      "translation": "zone résidentielle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konut bölgesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منطقة سكنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wohngegend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadtviertel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Siedlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbarschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wohngebiett",
+    "Wohngebied",
+    "Wongebiet",
+    "Wohngebiet",
+    "Wohngebit",
+    "Wohngebiht"
+  ]
+}

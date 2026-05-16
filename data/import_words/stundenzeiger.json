@@ -1,0 +1,84 @@
+{
+  "lemma": "Stundenzeiger",
+  "wortart": "Nomen",
+  "silben": "Stun-den-zei-ger",
+  "begriffserklaerung": "Der Stundenzeiger ist der kurze Zeiger auf einer Uhr. Er zeigt an, wie viele Stunden vergangen sind.",
+  "beispielsatz": "Der Stundenzeiger steht auf der drei, also ist es drei Uhr.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Stunden\" und „Zeiger\". Sprich beide Teile laut: STUN-DEN-ZEI-GER. Schreibe sie einfach hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stunde",
+    "zeigen"
+  ],
+  "bild_datei": "Stundenzeiger.webp",
+  "audio_datei": "Stundenzeiger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hour hand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grande aiguille des heures"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saat akrebi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقرب الساعات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minutenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zifferblatt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stundenzeiger",
+    "plural": "die Stundenzeiger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stundenzeiger",
+        "genitiv": "des Stundenzeigers",
+        "dativ": "dem Stundenzeiger",
+        "akkusativ": "den Stundenzeiger"
+      },
+      "plural": {
+        "nominativ": "die Stundenzeiger",
+        "genitiv": "der Stundenzeiger",
+        "dativ": "den Stundenzeigern",
+        "akkusativ": "die Stundenzeiger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stundenzeigger",
+    "Stundenzeigher",
+    "Stundzeieger",
+    "Stundenzaiger",
+    "Shtundenzeiger",
+    "Stundenzeigär"
+  ]
+}

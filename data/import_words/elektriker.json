@@ -1,0 +1,82 @@
+{
+  "lemma": "Elektriker",
+  "wortart": "Nomen",
+  "silben": "E-lek-tri-ker",
+  "begriffserklaerung": "Ein Elektriker ist ein Handwerker, der Leitungen und elektrische Geräte einbaut, repariert und prüft – zum Beispiel Lichtschalter, Steckdosen oder Kabel.",
+  "beispielsatz": "Der Elektriker repariert die kaputte Steckdose in unserem Wohnzimmer.",
+  "rechtschreibstrategie": "Denk an das Wort „Elektro\" – daraus kommt „Elektriker\". Schreib es genau so, wie du es hörst: E-lek-tri-ker.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "elektr"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Elektriker",
+    "plural": "die Elektriker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Elektriker",
+        "genitiv": "des Elektrikers",
+        "dativ": "dem Elektriker",
+        "akkusativ": "den Elektriker"
+      },
+      "plural": {
+        "nominativ": "die Elektriker",
+        "genitiv": "der Elektriker",
+        "dativ": "den Elektrikern",
+        "akkusativ": "die Elektriker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elektrieker",
+    "Elecktriker",
+    "Elekticker",
+    "Elektricer",
+    "Eleckriker"
+  ],
+  "bild_datei": "Elektriker.webp",
+  "audio_datei": "Elektriker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electrician"
+    },
+    {
+      "language_code": "fr",
+      "translation": "électricien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektrizität"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "elektrisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klempner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ]
+}

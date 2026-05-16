@@ -1,0 +1,79 @@
+{
+  "lemma": "Hygiene",
+  "wortart": "Nomen",
+  "silben": "Hy-gi-e-ne",
+  "begriffserklaerung": "Hygiene bedeutet Sauberkeit und Sorgfalt, damit man gesund bleibt. Dazu gehört zum Beispiel Händewaschen, Zähneputzen und das Sauberhalten der Umgebung.",
+  "beispielsatz": "Gute Hygiene hilft uns dabei, keine Krankheiten zu bekommen.",
+  "rechtschreibstrategie": "Das Wort „Hygiene\" kommt aus dem Griechischen und ist ein Merkwort – es beginnt mit „Hy\" und hat das seltene „y\". Merke dir: Erst „H\", dann „y\", dann „gi\" und „e-ne\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Hygien-"
+  ],
+  "bild_datei": "Hygiene.webp",
+  "audio_datei": "Hygiene.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hygiene"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hygiène"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hijyen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نظافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hygienisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sauberkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sauberkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hygiene",
+    "plural": "-",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hygiene",
+        "genitiv": "der Hygiene",
+        "dativ": "der Hygiene",
+        "akkusativ": "die Hygiene"
+      },
+      "plural": {
+        "nominativ": "-",
+        "genitiv": "-",
+        "dativ": "-",
+        "akkusativ": "-"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Higyene",
+    "Hygene",
+    "Higiene",
+    "Hügiene",
+    "Hygeiene",
+    "Hygiehne"
+  ]
+}

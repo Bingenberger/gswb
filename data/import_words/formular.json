@@ -1,0 +1,83 @@
+{
+  "lemma": "Formular",
+  "wortart": "Nomen",
+  "silben": "For-mu-lar",
+  "begriffserklaerung": "Ein Formular ist ein Blatt mit leeren Feldern, die man ausfüllen muss – zum Beispiel mit seinem Namen oder seiner Adresse.",
+  "beispielsatz": "Die Lehrerin gibt jedem Kind ein Formular, das es sorgfältig ausfüllen soll.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: For-mu-lar. Achte auf das „u\" in der Mitte und das „ar\" am Ende – beides sprichst du genau so, wie du es schreibst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Form"
+  ],
+  "bild_datei": "Formular.webp",
+  "audio_datei": "Formular.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "form"
+    },
+    {
+      "language_code": "fr",
+      "translation": "formulaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "form"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استمارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Form"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "formulieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antrag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vordruck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Formular",
+    "plural": "die Formulare",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Formular",
+        "genitiv": "des Formulars",
+        "dativ": "dem Formular",
+        "akkusativ": "das Formular"
+      },
+      "plural": {
+        "nominativ": "die Formulare",
+        "genitiv": "der Formulare",
+        "dativ": "den Formularen",
+        "akkusativ": "die Formulare"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Formulahr",
+    "Formurar",
+    "Formuhlar",
+    "Formullar",
+    "Forrmular",
+    "Formmular"
+  ]
+}

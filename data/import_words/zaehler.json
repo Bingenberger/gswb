@@ -1,0 +1,83 @@
+{
+  "lemma": "Zähler",
+  "wortart": "Nomen",
+  "silben": "Zäh-ler",
+  "begriffserklaerung": "Ein Zähler ist ein Gerät oder eine Zahl, die anzeigt, wie viel von etwas gezählt oder verbraucht wurde – zum Beispiel Strom oder Wasser. In der Mathematik ist der Zähler die obere Zahl eines Bruchs.",
+  "beispielsatz": "Der Zähler an der Wand zeigt, wie viel Strom wir verbraucht haben.",
+  "rechtschreibstrategie": "Denk an das Wort „zählen\" – daher kommt der Zähler! Das ä hörst du, wenn du „zählen\" sagst. Das h nach dem ä macht den Vokal lang: Zäh-ler.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "zähl"
+  ],
+  "bild_datei": "Zähler.webp",
+  "audio_datei": "Zähler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zähler",
+    "plural": "die Zähler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zähler",
+        "genitiv": "des Zählers",
+        "dativ": "dem Zähler",
+        "akkusativ": "den Zähler"
+      },
+      "plural": {
+        "nominativ": "die Zähler",
+        "genitiv": "der Zähler",
+        "dativ": "den Zählern",
+        "akkusativ": "die Zähler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "counter / numerator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compteur / numérateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sayaç / pay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عداد / بسط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Messgerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zeler",
+    "Zähller",
+    "Zäler",
+    "Zahler",
+    "Zähler"
+  ]
+}

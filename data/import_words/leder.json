@@ -1,0 +1,82 @@
+{
+  "lemma": "Leder",
+  "wortart": "Nomen",
+  "silben": "Le-der",
+  "begriffserklaerung": "Leder ist ein festes, weiches Material, das aus der Haut von Tieren gemacht wird. Aus Leder werden zum Beispiel Schuhe, Taschen und Gürtel hergestellt.",
+  "beispielsatz": "Meine neuen Schuhe sind aus echtem Leder.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Le – der. Beide Silben hörst du deutlich. Das „e\" in der ersten Silbe ist lang, deshalb schreibt man nur ein „d\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Leder"
+  ],
+  "bild_datei": "Leder.webp",
+  "audio_datei": "Leder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leather"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جلد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ledern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lederband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Leder",
+    "plural": "die Leder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Leder",
+        "genitiv": "des Leders",
+        "dativ": "dem Leder",
+        "akkusativ": "das Leder"
+      },
+      "plural": {
+        "nominativ": "die Leder",
+        "genitiv": "der Leder",
+        "dativ": "den Ledern",
+        "akkusativ": "die Leder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leder",
+    "Ledder",
+    "Läder",
+    "Leeder",
+    "Leider"
+  ]
+}

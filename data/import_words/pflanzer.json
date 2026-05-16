@@ -1,0 +1,86 @@
+{
+  "lemma": "Pflanzer",
+  "wortart": "Nomen",
+  "silben": "Pflan-zer",
+  "begriffserklaerung": "Ein Pflanzer ist jemand, der Pflanzen in die Erde setzt und sich um ihr Wachstum kümmert.",
+  "beispielsatz": "Der Pflanzer setzt die kleinen Tomatenpflanzen vorsichtig in den Boden.",
+  "rechtschreibstrategie": "Denk ans Verb „pflanzen\" – davon kommt „Pflanzer\". Die Endung -er zeigt, dass eine Person gemeint ist.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "pflanz"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pflanzer",
+    "plural": "die Pflanzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pflanzer",
+        "genitiv": "des Pflanzers",
+        "dativ": "dem Pflanzer",
+        "akkusativ": "den Pflanzer"
+      },
+      "plural": {
+        "nominativ": "die Pflanzer",
+        "genitiv": "der Pflanzer",
+        "dativ": "den Pflanzern",
+        "akkusativ": "die Pflanzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flanzer",
+    "Pflanser",
+    "Pflantzer",
+    "Pflanzer",
+    "Planzer"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "planter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftçi / ekici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زارع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflanzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflanzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gärtner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gärtner"
+    }
+  ],
+  "bild_datei": "Pflanzer.webp",
+  "audio_datei": "Pflanzer.mp3"
+}

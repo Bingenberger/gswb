@@ -1,0 +1,88 @@
+{
+  "lemma": "Geschichte",
+  "wortart": "Nomen",
+  "silben": "Ge-schich-te",
+  "begriffserklaerung": "Eine Geschichte ist eine Erzählung über etwas, das passiert ist oder erfunden wurde. Das Wort bedeutet auch alles, was in der Vergangenheit auf der Welt geschehen ist.",
+  "beispielsatz": "Mama liest mir jeden Abend eine spannende Geschichte vor.",
+  "rechtschreibstrategie": "Denk an das Verb „geschehen\" – eine Geschichte ist etwas, das geschehen ist. Schreib das „ch\" in der Mitte deutlich: Ge-SCHICH-te.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schehen",
+    "geschehen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geschichte",
+    "plural": "die Geschichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geschichte",
+        "genitiv": "der Geschichte",
+        "dativ": "der Geschichte",
+        "akkusativ": "die Geschichte"
+      },
+      "plural": {
+        "nominativ": "die Geschichten",
+        "genitiv": "der Geschichten",
+        "dativ": "den Geschichten",
+        "akkusativ": "die Geschichten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geschischte",
+    "Geshichte",
+    "Geschickte",
+    "Geschihte",
+    "Gechichte",
+    "Geschicte"
+  ],
+  "bild_datei": "Geschichte.webp",
+  "audio_datei": "Geschichte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "story / history"
+    },
+    {
+      "language_code": "fr",
+      "translation": "histoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hikâye / tarih"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قصة / تاريخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschehnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erzählung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ]
+}

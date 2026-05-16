@@ -1,0 +1,79 @@
+{
+  "lemma": "Aquarium",
+  "wortart": "Nomen",
+  "silben": "A-qua-ri-um",
+  "begriffserklaerung": "Ein Aquarium ist ein Glasbehälter mit Wasser, in dem Fische und andere Wassertiere leben. Man kann die Tiere durch das Glas beobachten.",
+  "beispielsatz": "In unserem Aquarium schwimmen bunte Fische zwischen grünen Wasserpflanzen.",
+  "rechtschreibstrategie": "Das Wort „Aquarium\" kommt aus dem Lateinischen. Achte auf das „qu\" am Anfang – es klingt wie „kw\". Sprich es laut: A-qua-ri-um!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [
+    "Aqua"
+  ],
+  "bild_datei": "Aquarium.webp",
+  "audio_datei": "Aquarium.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Aquarium",
+    "plural": "die Aquarien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Aquarium",
+        "genitiv": "des Aquariums",
+        "dativ": "dem Aquarium",
+        "akkusativ": "das Aquarium"
+      },
+      "plural": {
+        "nominativ": "die Aquarien",
+        "genitiv": "der Aquarien",
+        "dativ": "den Aquarien",
+        "akkusativ": "die Aquarien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "aquarium"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aquarium"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akvaryum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض السمك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aquarell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserpflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Terrarium"
+    }
+  ],
+  "fehlschreibungen": [
+    "Akuarium",
+    "Aquarrium",
+    "Aquarium",
+    "Akwarium",
+    "Aquariem",
+    "Aquariumm"
+  ]
+}

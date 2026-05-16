@@ -1,0 +1,83 @@
+{
+  "lemma": "Radlager",
+  "wortart": "Nomen",
+  "silben": "Rad-la-ger",
+  "begriffserklaerung": "Ein Radlager ist ein Bauteil im Fahrzeug, das dafür sorgt, dass sich das Rad reibungslos und gleichmäßig dreht.",
+  "beispielsatz": "Der Mechaniker tauscht das kaputte Radlager am Auto aus.",
+  "rechtschreibstrategie": "„Radlager\" ist ein zusammengesetztes Wort aus „Rad\" und „Lager\". Sprich beide Teile deutlich: RAD + LAGER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Rad",
+    "Lager"
+  ],
+  "bild_datei": "Radlager.webp",
+  "audio_datei": "Radlager.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wheel bearing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roulement de roue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teker yatağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محمل العجلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Achse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Radlager",
+    "plural": "die Radlager",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Radlager",
+        "genitiv": "des Radlagers",
+        "dativ": "dem Radlager",
+        "akkusativ": "das Radlager"
+      },
+      "plural": {
+        "nominativ": "die Radlager",
+        "genitiv": "der Radlager",
+        "dativ": "den Radlagern",
+        "akkusativ": "die Radlager"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Radlagger",
+    "Rattlager",
+    "Radlahger",
+    "Ratlager",
+    "Radlaga"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "lemma": "Reis",
+  "wortart": "Nomen",
+  "silben": "Reis",
+  "begriffserklaerung": "Reis ist eine Getreidepflanze, deren kleine weiße Körner man kochen und essen kann. Reis wächst vor allem in warmen, feuchten Ländern.",
+  "beispielsatz": "Zum Mittagessen gibt es heute Hühnchen mit Reis.",
+  "rechtschreibstrategie": "Das Wort „Reis\" klingt wie „eis\" mit einem R davor. Denk daran: Reis hat kein h, kein Dehnungs-ie – einfach R-e-i-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Reis"
+  ],
+  "bild_datei": "Reis.webp",
+  "audio_datei": "Reis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "riz"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pirinç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reiskorn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reisfeld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nudeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reis",
+    "plural": "die Reissorten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reis",
+        "genitiv": "des Reises",
+        "dativ": "dem Reis",
+        "akkusativ": "den Reis"
+      },
+      "plural": {
+        "nominativ": "die Reissorten",
+        "genitiv": "der Reissorten",
+        "dativ": "den Reissorten",
+        "akkusativ": "die Reissorten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reiß",
+    "Rais",
+    "Reihs",
+    "Reys"
+  ]
+}

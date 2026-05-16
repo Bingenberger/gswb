@@ -1,0 +1,89 @@
+{
+  "lemma": "Fernsehturm",
+  "wortart": "Nomen",
+  "silben": "Fern-seh-turm",
+  "begriffserklaerung": "Ein Fernsehturm ist ein sehr hoher Turm, der Fernseh- und Radiosignale in die Umgebung sendet. Oft hat er ganz oben eine Aussichtsplattform, von der man weit schauen kann.",
+  "beispielsatz": "Von oben auf dem Fernsehturm kann man die ganze Stadt sehen.",
+  "rechtschreibstrategie": "Das Wort „Fernsehturm\" ist aus drei Teilen zusammengesetzt: „fern\" + „seh\" + „Turm\". Sprich alle Bausteine einzeln: FERN – SEH – TURM. So schreibst du keinen Teil falsch!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fern",
+    "sehen",
+    "Turm"
+  ],
+  "bild_datei": "Fernsehturm.webp",
+  "audio_datei": "Fernsehturm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "television tower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tour de télévision"
+    },
+    {
+      "language_code": "tr",
+      "translation": "televizyon kulesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برج التلفزيون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Turm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sendemast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antenne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fernsehturm",
+    "plural": "die Fernsehtürme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fernsehturm",
+        "genitiv": "des Fernsehturms",
+        "dativ": "dem Fernsehturm",
+        "akkusativ": "den Fernsehturm"
+      },
+      "plural": {
+        "nominativ": "die Fernsehtürme",
+        "genitiv": "der Fernsehtürme",
+        "dativ": "den Fernsehtürmen",
+        "akkusativ": "die Fernsehtürme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fernsehturb",
+    "Fernseturm",
+    "Fernsähturm",
+    "Fernseeturm",
+    "Fehrnsehturm",
+    "Fernsehdurmm"
+  ]
+}

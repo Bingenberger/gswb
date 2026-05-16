@@ -1,0 +1,84 @@
+{
+  "lemma": "Schaltjahr",
+  "wortart": "Nomen",
+  "silben": "Schalt-jahr",
+  "begriffserklaerung": "Ein Schaltjahr ist ein besonderes Jahr, das einen extra Tag hat. Es hat 366 Tage statt 365. Der zusätzliche Tag ist der 29. Februar.",
+  "beispielsatz": "Im Schaltjahr hat der Februar 29 Tage!",
+  "rechtschreibstrategie": "Das Wort „Schaltjahr\" besteht aus zwei Teilen: „Schalt\" und „Jahr\". Sprich beide Teile einzeln: SCHALT + JAHR. Das „Jahr\" schreibt man mit „ah\" in der Mitte – das ist ein Dehnungs-h!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "schalten",
+    "Jahr"
+  ],
+  "bild_datei": "Schaltjahr.webp",
+  "audio_datei": "Schaltjahr.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schaltjahr",
+    "plural": "die Schaltjahre",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schaltjahr",
+        "genitiv": "des Schaltjahres",
+        "dativ": "dem Schaltjahr",
+        "akkusativ": "das Schaltjahr"
+      },
+      "plural": {
+        "nominativ": "die Schaltjahre",
+        "genitiv": "der Schaltjahre",
+        "dativ": "den Schaltjahren",
+        "akkusativ": "die Schaltjahre"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leap year"
+    },
+    {
+      "language_code": "fr",
+      "translation": "année bissextile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "artık yıl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سنة كبيسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Februar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahreszahl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schaltjar",
+    "Schaljahr",
+    "Schaltjahr",
+    "Schaltjare",
+    "Schaltjaahr"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Wahrung",
+  "wortart": "Nomen",
+  "silben": "Wah-rung",
+  "begriffserklaerung": "Die Wahrung bedeutet, dass man etwas Wichtiges schützt oder erhält, damit es so bleibt, wie es sein soll.",
+  "beispielsatz": "Die Wahrung des Friedens ist uns allen sehr wichtig.",
+  "rechtschreibstrategie": "Denk an das Wort „wahren\" – daraus wird „Wahrung\". Das Dehnungs-h hilft dir: W-A-H-R-ung!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wahr"
+  ],
+  "bild_datei": "Wahrung.webp",
+  "audio_datei": "Wahrung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wahrung",
+    "plural": "die Wahrungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wahrung",
+        "genitiv": "der Wahrung",
+        "dativ": "der Wahrung",
+        "akkusativ": "die Wahrung"
+      },
+      "plural": {
+        "nominativ": "die Wahrungen",
+        "genitiv": "der Wahrungen",
+        "dativ": "den Wahrungen",
+        "akkusativ": "die Wahrungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "preservation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "préservation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koruma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erhalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Warung",
+    "Warrung",
+    "Vahhrung",
+    "Wharung",
+    "Wahruing"
+  ]
+}

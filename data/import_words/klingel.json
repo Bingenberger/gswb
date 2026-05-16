@@ -1,0 +1,84 @@
+{
+  "lemma": "Klingel",
+  "wortart": "Nomen",
+  "silben": "Klin-gel",
+  "begriffserklaerung": "Eine Klingel ist ein kleines Gerät, das einen hellen, klingenden Ton macht. Man drückt sie zum Beispiel an einer Haustür, um jemandem zu zeigen, dass man da ist.",
+  "beispielsatz": "Leon drückt die Klingel an der Haustür, und seine Freundin öffnet sofort die Tür.",
+  "rechtschreibstrategie": "Das Wort „Klingel\" endet auf -el. Sprich es laut in Silben: Klin-gel. Das „ng\" klingt wie in „singen\" – merke dir: erst das „n\", dann das „g\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "klingel",
+    "kling"
+  ],
+  "bild_datei": "Klingel.webp",
+  "audio_datei": "Klingel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klingel",
+    "plural": "die Klingeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klingel",
+        "genitiv": "der Klingel",
+        "dativ": "der Klingel",
+        "akkusativ": "die Klingel"
+      },
+      "plural": {
+        "nominativ": "die Klingeln",
+        "genitiv": "der Klingeln",
+        "dativ": "den Klingeln",
+        "akkusativ": "die Klingeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bell / doorbell"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sonnette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klingeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klingen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Türklingel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glocke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Türglocke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klingell",
+    "Klingal",
+    "Klингel",
+    "Clingel",
+    "Klinngel",
+    "Klingeel"
+  ]
+}

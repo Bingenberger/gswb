@@ -1,0 +1,74 @@
+{
+  "lemma": "Galerie",
+  "wortart": "Nomen",
+  "silben": "Ga-le-rie",
+  "begriffserklaerung": "Eine Galerie ist ein Raum oder ein Gebäude, in dem Bilder und Kunstwerke ausgestellt werden, damit Menschen sie anschauen können.",
+  "beispielsatz": "In der Galerie hängen viele bunte Gemälde an den Wänden.",
+  "rechtschreibstrategie": "Das Wort „Galerie\" kommt aus dem Französischen. Das Ende „-ie\" spricht man wie „-ie\" – merke dir: Gale-rie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Galerie.webp",
+  "audio_datei": "Galerie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gallery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "galerie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "galeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kunsthalle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Galerie",
+    "plural": "die Galerien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Galerie",
+        "genitiv": "der Galerie",
+        "dativ": "der Galerie",
+        "akkusativ": "die Galerie"
+      },
+      "plural": {
+        "nominativ": "die Galerien",
+        "genitiv": "der Galerien",
+        "dativ": "den Galerien",
+        "akkusativ": "die Galerien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Galerie",
+    "Galerrie",
+    "Gallerrie",
+    "Gallerie",
+    "Galeried",
+    "Galeree",
+    "Galärie"
+  ]
+}

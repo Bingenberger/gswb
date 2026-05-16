@@ -1,0 +1,78 @@
+{
+  "lemma": "Becher",
+  "wortart": "Nomen",
+  "silben": "Be-cher",
+  "begriffserklaerung": "Ein Becher ist ein rundes Trinkgefäß ohne Henkel. Man trinkt daraus Wasser, Saft oder andere Getränke.",
+  "beispielsatz": "Ich trinke meinen Kakao aus einem bunten Becher.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Be-cher. Das „ch\" hörst du deutlich – schreibe es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Becher"
+  ],
+  "bild_datei": "Becher.webp",
+  "audio_datei": "Becher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cup / beaker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gobelet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bardak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Becherglas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkbecher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Becher",
+    "plural": "die Becher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Becher",
+        "genitiv": "des Bechers",
+        "dativ": "dem Becher",
+        "akkusativ": "den Becher"
+      },
+      "plural": {
+        "nominativ": "die Becher",
+        "genitiv": "der Becher",
+        "dativ": "den Bechern",
+        "akkusativ": "die Becher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bächer",
+    "Becher",
+    "Becsher",
+    "Bekar",
+    "Becker"
+  ]
+}

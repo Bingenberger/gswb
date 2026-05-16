@@ -1,0 +1,72 @@
+{
+  "lemma": "Pool",
+  "wortart": "Nomen",
+  "silben": "Pool",
+  "begriffserklaerung": "Ein Pool ist ein großes Becken, das mit Wasser gefüllt ist. Darin kann man schwimmen und plantschen.",
+  "beispielsatz": "Im Sommer schwimmen wir jeden Tag im Pool.",
+  "rechtschreibstrategie": "Pool hat zwei o hintereinander – sprich beide deutlich: „Po-ol\". Denke daran: Wörter, die aus dem Englischen kommen, schreibt man oft so, wie man sie dort schreibt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pool.webp",
+  "audio_datei": "Pool.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pool"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piscine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمام سباحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwimmbad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwimmbecken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pool",
+    "plural": "die Pools",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pool",
+        "genitiv": "des Pools",
+        "dativ": "dem Pool",
+        "akkusativ": "den Pool"
+      },
+      "plural": {
+        "nominativ": "die Pools",
+        "genitiv": "der Pools",
+        "dativ": "den Pools",
+        "akkusativ": "die Pools"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Puhl",
+    "Pul",
+    "Pol",
+    "Poohl",
+    "Poule"
+  ]
+}

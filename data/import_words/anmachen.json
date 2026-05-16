@@ -1,0 +1,94 @@
+{
+  "lemma": "anmachen",
+  "wortart": "Verb",
+  "silben": "an-ma-chen",
+  "begriffserklaerung": "Etwas anmachen bedeutet, ein Gerät oder ein Licht einzuschalten, sodass es funktioniert oder leuchtet.",
+  "beispielsatz": "Bitte mach das Licht an, es ist zu dunkel hier!",
+  "rechtschreibstrategie": "Das Wort „anmachen\" besteht aus zwei Bausteinen: „an\" und „machen\". Sprich beide Teile deutlich: AN-MA-CHEN. Das „ch\" in „machen\" hörst du klar – schreib es genauso, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "machen"
+  ],
+  "bild_datei": "anmachen.webp",
+  "audio_datei": "anmachen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "anmachen",
+    "praesens": {
+      "ich": "ich mache an",
+      "du": "du machst an",
+      "er_sie_es": "er/sie/es macht an",
+      "wir": "wir machen an",
+      "ihr": "ihr macht an",
+      "sie": "sie machen an"
+    },
+    "perfekt": {
+      "ich": "ich habe angemacht",
+      "du": "du hast angemacht",
+      "er_sie_es": "er/sie/es hat angemacht",
+      "wir": "wir haben angemacht",
+      "ihr": "ihr habt angemacht",
+      "sie": "sie haben angemacht"
+    },
+    "praeteritum": {
+      "ich": "ich machte an",
+      "du": "du machtest an",
+      "er_sie_es": "er/sie/es machte an",
+      "wir": "wir machten an",
+      "ihr": "ihr machtet an",
+      "sie": "sie machten an"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to turn on / to switch on"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumer / mettre en marche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açmak / yakmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُشغِّل / يُضيء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "machen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufmachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "einschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ausmachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ausschalten"
+    }
+  ],
+  "fehlschreibungen": [
+    "anmacchen",
+    "anmakhen",
+    "anmachen",
+    "anmacken",
+    "anmahchen"
+  ]
+}

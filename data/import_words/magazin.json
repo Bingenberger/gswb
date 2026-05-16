@@ -1,0 +1,72 @@
+{
+  "lemma": "Magazin",
+  "wortart": "Nomen",
+  "silben": "Ma-ga-zin",
+  "begriffserklaerung": "Ein Magazin ist eine Zeitschrift mit vielen bunten Bildern und Artikeln zu einem bestimmten Thema, die man regelmäßig kaufen kann.",
+  "beispielsatz": "In der Bücherei lese ich gerne ein Magazin über Tiere.",
+  "rechtschreibstrategie": "Das Wort „Magazin\" kommt aus dem Arabischen. Es klingt genau so, wie man es schreibt – sprich alle drei Silben deutlich: Ma-ga-zin. Das „z\" am Ende sprichst du wie „ts\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Magazin.webp",
+  "audio_datei": "Magazin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magazine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magazine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dergi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitschrift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeitschrift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Magazin",
+    "plural": "die Magazine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Magazin",
+        "genitiv": "des Magazins",
+        "dativ": "dem Magazin",
+        "akkusativ": "das Magazin"
+      },
+      "plural": {
+        "nominativ": "die Magazine",
+        "genitiv": "der Magazine",
+        "dativ": "den Magazinen",
+        "akkusativ": "die Magazine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Magasin",
+    "Magazinn",
+    "Magazien",
+    "Magatzin",
+    "Makazin"
+  ]
+}

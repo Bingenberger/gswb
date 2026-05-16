@@ -1,0 +1,72 @@
+{
+  "lemma": "Scooter",
+  "wortart": "Nomen",
+  "silben": "Scoo-ter",
+  "begriffserklaerung": "Ein Scooter ist ein Fahrzeug mit zwei Rädern, einem Trittbrett und einem Lenker. Man steht darauf und fährt damit durch die Gegend. Es gibt Scooter mit Motor und Scooter ohne Motor, die man mit dem Fuß abstößt.",
+  "beispielsatz": "Tim fährt mit seinem Scooter schnell den Gehweg entlang.",
+  "rechtschreibstrategie": "Das Wort „Scooter\" kommt aus dem Englischen. Es schreibt sich genau so, wie es klingt: Scoo-ter – mit doppeltem „o\" in der Mitte. Merke dir: zwei „o\" nebeneinander!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Scooter.webp",
+  "audio_datei": "Scooter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scooter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trottinette / scooter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "scooter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكوتر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Roller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Scooter",
+    "plural": "die Scooter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Scooter",
+        "genitiv": "des Scooters",
+        "dativ": "dem Scooter",
+        "akkusativ": "den Scooter"
+      },
+      "plural": {
+        "nominativ": "die Scooter",
+        "genitiv": "der Scooter",
+        "dativ": "den Scootern",
+        "akkusativ": "die Scooter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Skooter",
+    "Scuter",
+    "Scooder",
+    "Scootar",
+    "Skutar"
+  ]
+}

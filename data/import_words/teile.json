@@ -1,0 +1,91 @@
+{
+  "lemma": "Teile",
+  "wortart": "Nomen",
+  "silben": "Tei-le",
+  "begriffserklaerung": "Teile sind einzelne Stücke, aus denen etwas Größeres besteht. Ein Puzzle hat zum Beispiel viele Teile.",
+  "beispielsatz": "Die Teile des Puzzles liegen auf dem Tisch.",
+  "rechtschreibstrategie": "Denk an das Wort „Teil\" – wenn du es verlängerst, hörst du das „ei\" ganz deutlich: Teil → Tei-le.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Teil",
+    "plural": "Teile",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Teil",
+        "genitiv": "des Teils",
+        "dativ": "dem Teil",
+        "akkusativ": "das Teil"
+      },
+      "plural": {
+        "nominativ": "die Teile",
+        "genitiv": "der Teile",
+        "dativ": "den Teilen",
+        "akkusativ": "die Teile"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "teil"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teil"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anteil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Puzzle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abschnitt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Theile",
+    "Tiele",
+    "Tele",
+    "Teille",
+    "Taille"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parts"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parties"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parçalar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أجزاء"
+    }
+  ],
+  "bild_datei": "Teile.webp",
+  "audio_datei": "Teile.mp3"
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Fußgänger",
+  "wortart": "Nomen",
+  "silben": "Fuß-gän-ger",
+  "begriffserklaerung": "Ein Fußgänger ist ein Mensch, der zu Fuß geht – also ohne Auto, Fahrrad oder Bus unterwegs ist.",
+  "beispielsatz": "Der Fußgänger wartet an der roten Ampel, bevor er die Straße überquert.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Fuß\" und „Gänger\". Das „ß\" in „Fuß\" schreibst du, weil der Vokal davor lang gesprochen wird. Denk daran: langer Vokal → ß!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "gehen"
+  ],
+  "bild_datei": "Fußgänger.webp",
+  "audio_datei": "Fußgänger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußgänger",
+    "plural": "die Fußgänger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußgänger",
+        "genitiv": "des Fußgängers",
+        "dativ": "dem Fußgänger",
+        "akkusativ": "den Fußgänger"
+      },
+      "plural": {
+        "nominativ": "die Fußgänger",
+        "genitiv": "der Fußgänger",
+        "dativ": "den Fußgängern",
+        "akkusativ": "die Fußgänger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pedestrian"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piéton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgersteig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Passant"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fußgenger",
+    "Fußgänger",
+    "Fußsgänger",
+    "Fußgaenger",
+    "Fussgänger",
+    "Fussgaenger"
+  ]
+}

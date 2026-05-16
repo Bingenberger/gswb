@@ -1,0 +1,82 @@
+{
+  "lemma": "Rutsche",
+  "wortart": "Nomen",
+  "silben": "Rut-sche",
+  "begriffserklaerung": "Eine Rutsche ist ein glattes, schräges Brett oder eine Bahn, auf der man von oben nach unten gleiten kann. Rutschen findet man oft auf Spielplätzen.",
+  "beispielsatz": "Emma saust fröhlich die Rutsche auf dem Spielplatz hinunter.",
+  "rechtschreibstrategie": "Das Wort „Rutsche\" hat nach dem kurzen „u\" ein doppeltes „t\" – das zeigt dir, dass der Vokal kurz ist. Sprich es laut mit: Rutt-sche!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "rutsch"
+  ],
+  "bild_datei": "Rutsche.webp",
+  "audio_datei": "Rutsche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rutsche",
+    "plural": "die Rutschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rutsche",
+        "genitiv": "der Rutsche",
+        "dativ": "der Rutsche",
+        "akkusativ": "die Rutsche"
+      },
+      "plural": {
+        "nominativ": "die Rutschen",
+        "genitiv": "der Rutschen",
+        "dativ": "den Rutschen",
+        "akkusativ": "die Rutschen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slide"
+    },
+    {
+      "language_code": "fr",
+      "translation": "toboggan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaydırak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زحليقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rutschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rutschig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaukel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gleitbahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rusche",
+    "Rutche",
+    "Rutzsche",
+    "Ruttsche",
+    "Rudsche"
+  ]
+}

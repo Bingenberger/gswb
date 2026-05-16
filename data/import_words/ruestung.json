@@ -1,0 +1,82 @@
+{
+  "lemma": "Rüstung",
+  "wortart": "Nomen",
+  "silben": "Rüs-tung",
+  "begriffserklaerung": "Eine Rüstung ist eine Schutzkleidung aus Metall, die Ritter früher im Kampf getragen haben, damit sie nicht verletzt werden.",
+  "beispielsatz": "Der Ritter zog seine glänzende Rüstung an, bevor er in den Kampf ritt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Rüs-tung. Am Ende hörst du -ung – das schreibt man immer mit u-n-g!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "rüst"
+  ],
+  "bild_datei": "Rüstung.webp",
+  "audio_datei": "Rüstung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rüstung",
+    "plural": "die Rüstungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rüstung",
+        "genitiv": "der Rüstung",
+        "dativ": "der Rüstung",
+        "akkusativ": "die Rüstung"
+      },
+      "plural": {
+        "nominativ": "die Rüstungen",
+        "genitiv": "der Rüstungen",
+        "dativ": "den Rüstungen",
+        "akkusativ": "die Rüstungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "armor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "armure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zırh"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rüsten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gerüstet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rüstunk",
+    "Rüßtung",
+    "Rüstuing",
+    "Ruestung",
+    "Rüsstung"
+  ]
+}

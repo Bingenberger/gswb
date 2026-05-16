@@ -1,0 +1,72 @@
+{
+  "lemma": "Kamel",
+  "wortart": "Nomen",
+  "silben": "Ka-mel",
+  "begriffserklaerung": "Ein Kamel ist ein großes Tier, das in der Wüste lebt. Es hat einen oder zwei Höcker auf dem Rücken und kann sehr lange ohne Wasser auskommen.",
+  "beispielsatz": "Das Kamel trägt schwere Lasten durch die heiße Wüste.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ka-mel. Höre beide Silben deutlich – da ist kein Dehnungs-h und kein Doppelbuchstabe. Schreib einfach, wie du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Kamel.webp",
+  "audio_datei": "Kamel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "camel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chameau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deve"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جَمَل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wüste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höcker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dromedар"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kamel",
+    "plural": "die Kamele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kamel",
+        "genitiv": "des Kamels",
+        "dativ": "dem Kamel",
+        "akkusativ": "das Kamel"
+      },
+      "plural": {
+        "nominativ": "die Kamele",
+        "genitiv": "der Kamele",
+        "dativ": "den Kamelen",
+        "akkusativ": "die Kamele"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Cammel",
+    "Kammel",
+    "Camel",
+    "Kamell",
+    "Kammell"
+  ]
+}

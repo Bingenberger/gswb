@@ -1,0 +1,89 @@
+{
+  "lemma": "Haushalt",
+  "wortart": "Nomen",
+  "silben": "Haus-halt",
+  "begriffserklaerung": "Ein Haushalt ist eine Wohngemeinschaft, meist eine Familie, die zusammen in einer Wohnung oder einem Haus lebt und gemeinsam wirtschaftet – also zusammen einkauft, kocht und putzt.",
+  "beispielsatz": "In unserem Haushalt helfen alle beim Aufräumen und Kochen mit.",
+  "rechtschreibstrategie": "„Haushalt\" ist ein zusammengesetztes Wort aus „Haus\" und „Halt\". Sprich beide Teile deutlich: HAUS – HALT. So merkst du dir, dass du beide Wörter einfach zusammenschreibst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "halten"
+  ],
+  "bild_datei": "Haushalt.webp",
+  "audio_datei": "Haushalt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Haushalt",
+    "plural": "die Haushalte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Haushalt",
+        "genitiv": "des Haushalts",
+        "dativ": "dem Haushalt",
+        "akkusativ": "den Haushalt"
+      },
+      "plural": {
+        "nominativ": "die Haushalte",
+        "genitiv": "der Haushalte",
+        "dativ": "den Haushalten",
+        "akkusativ": "die Haushalte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "household"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ménage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منزل / أسرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Putzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Familie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Haushald",
+    "Haußhalt",
+    "Haushalldt",
+    "Haushallт",
+    "Haushalt",
+    "Hauzhalt",
+    "Haushelt"
+  ]
+}

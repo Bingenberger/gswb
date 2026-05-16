@@ -1,0 +1,84 @@
+{
+  "lemma": "Kochlöffel",
+  "wortart": "Nomen",
+  "silben": "Koch-löf-fel",
+  "begriffserklaerung": "Ein Kochlöffel ist ein langer Löffel aus Holz oder Kunststoff. Man benutzt ihn zum Rühren und Umfüllen von Speisen beim Kochen.",
+  "beispielsatz": "Mama rührt die Suppe mit dem Kochlöffel um.",
+  "rechtschreibstrategie": "Das Wort „Kochlöffel\" ist aus zwei Wörtern zusammengesetzt: „Koch\" und „Löffel\". Sprich beide Teile einzeln: KOCH + LÖFFEL. Im Wort „Löffel\" hörst du das ff – das schreibst du auch mit ff!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Koch",
+    "Löffel"
+  ],
+  "bild_datei": "Kochlöffel.webp",
+  "audio_datei": "Kochlöffel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kochlöffel",
+    "plural": "die Kochlöffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kochlöffel",
+        "genitiv": "des Kochlöffels",
+        "dativ": "dem Kochlöffel",
+        "akkusativ": "den Kochlöffel"
+      },
+      "plural": {
+        "nominativ": "die Kochlöffel",
+        "genitiv": "der Kochlöffel",
+        "dativ": "den Kochlöffeln",
+        "akkusativ": "die Kochlöffel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wooden spoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuillère en bois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahta kaşık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملعقة الطهي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneebesen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kochlöfel",
+    "Kochlöfell",
+    "Koclöffel",
+    "Kochlöffl",
+    "Koochlöffel"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Beschreibung",
+  "wortart": "Nomen",
+  "silben": "Be-schrei-bung",
+  "begriffserklaerung": "Eine Beschreibung erklärt, wie etwas aussieht oder wie etwas ist. Du sagst oder schreibst dabei ganz genau, was du siehst oder weißt.",
+  "beispielsatz": "Die Lehrerin liest die Beschreibung des Tieres vor, und alle Kinder raten, welches Tier gemeint ist.",
+  "rechtschreibstrategie": "Das Wort steckt in „beschreiben\": Be-schrei-bung. Das lange „ei\" hörst du deutlich – schreib es als „ei\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schreib"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Beschreibung",
+    "plural": "die Beschreibungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Beschreibung",
+        "genitiv": "der Beschreibung",
+        "dativ": "der Beschreibung",
+        "akkusativ": "die Beschreibung"
+      },
+      "plural": {
+        "nominativ": "die Beschreibungen",
+        "genitiv": "der Beschreibungen",
+        "dativ": "den Beschreibungen",
+        "akkusativ": "die Beschreibungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beschreibung",
+    "Bescreibung",
+    "Beshreibung",
+    "Beschreipung",
+    "Beschraibung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "description"
+    },
+    {
+      "language_code": "fr",
+      "translation": "description"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açıklama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وصف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschreiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufsatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Text"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bericht"
+    }
+  ],
+  "bild_datei": "Beschreibung.webp",
+  "audio_datei": "Beschreibung.mp3"
+}

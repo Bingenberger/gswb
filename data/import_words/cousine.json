@@ -1,0 +1,78 @@
+{
+  "lemma": "Cousine",
+  "wortart": "Nomen",
+  "silben": "Cou-si-ne",
+  "begriffserklaerung": "Eine Cousine ist die Tochter deiner Tante oder deines Onkels. Sie gehört zu deiner Familie.",
+  "beispielsatz": "Meine Cousine kommt am Wochenende zu Besuch, und wir spielen zusammen im Garten.",
+  "rechtschreibstrategie": "Das Wort „Cousine\" kommt aus dem Französischen. Denk daran: Es beginnt mit „Cou\" – sprich es wie „Ku\", aber schreib es mit „ou\". Merke es dir einfach auswendig!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Cousin"
+  ],
+  "bild_datei": "Cousine.webp",
+  "audio_datei": "Cousine.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cousin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cousine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuzen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابنة العم / ابنة الخال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Cousin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tante"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Onkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Cousine",
+    "plural": "die Cousinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Cousine",
+        "genitiv": "der Cousine",
+        "dativ": "der Cousine",
+        "akkusativ": "die Cousine"
+      },
+      "plural": {
+        "nominativ": "die Cousinen",
+        "genitiv": "der Cousinen",
+        "dativ": "den Cousinen",
+        "akkusativ": "die Cousinen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kusine",
+    "Couzine",
+    "Coisine",
+    "Cousiene",
+    "Cusinne"
+  ]
+}

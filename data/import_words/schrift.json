@@ -1,0 +1,91 @@
+{
+  "lemma": "Schrift",
+  "wortart": "Nomen",
+  "silben": "Schrift",
+  "begriffserklaerung": "Eine Schrift ist ein System aus Zeichen und Buchstaben, mit dem man Wörter und Sätze aufschreiben kann.",
+  "beispielsatz": "Die Lehrerin liest die Schrift an der Tafel laut vor.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Schrift\". Du hörst am Ende ein „t\" – das schreibst du auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schreib",
+    "schrift"
+  ],
+  "bild_datei": "Schrift.webp",
+  "audio_datei": "Schrift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "writing / script"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écriture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خط / كتابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schreiber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufschrift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buchstabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Text"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Text"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schrift",
+    "plural": "die Schriften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schrift",
+        "genitiv": "der Schrift",
+        "dativ": "der Schrift",
+        "akkusativ": "die Schrift"
+      },
+      "plural": {
+        "nominativ": "die Schriften",
+        "genitiv": "der Schriften",
+        "dativ": "den Schriften",
+        "akkusativ": "die Schriften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Scrift",
+    "Shrift",
+    "Schrifft",
+    "Schrid",
+    "Schrit"
+  ]
+}

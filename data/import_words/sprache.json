@@ -1,0 +1,93 @@
+{
+  "lemma": "Sprache",
+  "wortart": "Nomen",
+  "silben": "Spra-che",
+  "begriffserklaerung": "Eine Sprache ist ein System aus Wörtern und Regeln, mit dem Menschen miteinander reden und sich verständigen können.",
+  "beispielsatz": "Deutsch ist die Sprache, die wir in der Schule lernen.",
+  "rechtschreibstrategie": "Denk an das Verb „sprechen\" – daraus kommt „Sprache\". Das „a\" hörst du, wenn du „spra-che\" langsam sprichst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sprech",
+    "sprich",
+    "sprach"
+  ],
+  "bild_datei": "Sprache.webp",
+  "audio_datei": "Sprache.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "language"
+    },
+    {
+      "language_code": "fr",
+      "translation": "langue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لغة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprachlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mundart"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sprache",
+    "plural": "die Sprachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sprache",
+        "genitiv": "der Sprache",
+        "dativ": "der Sprache",
+        "akkusativ": "die Sprache"
+      },
+      "plural": {
+        "nominativ": "die Sprachen",
+        "genitiv": "der Sprachen",
+        "dativ": "den Sprachen",
+        "akkusativ": "die Sprachen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sprache",
+    "Schprache",
+    "Sprahce",
+    "Sproache",
+    "Sprach",
+    "Spracje"
+  ]
+}

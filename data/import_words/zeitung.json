@@ -1,0 +1,79 @@
+{
+  "lemma": "Zeitung",
+  "wortart": "Nomen",
+  "silben": "Zei-tung",
+  "begriffserklaerung": "Eine Zeitung ist ein gedrucktes Heft mit vielen Seiten, auf denen aktuelle Nachrichten und Berichte stehen. Sie erscheint meistens täglich.",
+  "beispielsatz": "Mein Vater liest jeden Morgen die Zeitung beim Frühstück.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" wie in „Eis\" – und am Ende hörst du „-tung\" deutlich: Zei-tung.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zeit"
+  ],
+  "bild_datei": "Zeitung.webp",
+  "audio_datei": "Zeitung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "newspaper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "journal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gazete"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جريدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Magazin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tageszeitung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zeitung",
+    "plural": "die Zeitungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zeitung",
+        "genitiv": "der Zeitung",
+        "dativ": "der Zeitung",
+        "akkusativ": "die Zeitung"
+      },
+      "plural": {
+        "nominativ": "die Zeitungen",
+        "genitiv": "der Zeitungen",
+        "dativ": "den Zeitungen",
+        "akkusativ": "die Zeitungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeittung",
+    "Zeitunk",
+    "Zeytung",
+    "Zeitung",
+    "Szeitung",
+    "Zeidung"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Gewerbe",
+  "wortart": "Nomen",
+  "silben": "Ge-wer-be",
+  "begriffserklaerung": "Ein Gewerbe ist eine Arbeit oder ein Beruf, mit dem jemand Geld verdient – zum Beispiel ein Bäcker, der Brot verkauft, oder eine Schneiderin, die Kleidung näht.",
+  "beispielsatz": "Der Onkel von Mia hat ein Gewerbe angemeldet, weil er einen kleinen Fahrradladen eröffnet hat.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-wer-be. Höre das „e\" am Ende – es gehört zur letzten Silbe und wird mitgeschrieben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "werb"
+  ],
+  "bild_datei": "Gewerbe.webp",
+  "audio_datei": "Gewerbe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trade / business"
+    },
+    {
+      "language_code": "fr",
+      "translation": "commerce / métier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ticaret / meslek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تجارة / حرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werbung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewerbegebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Betrieb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handwerk"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewerbe",
+    "plural": "die Gewerbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewerbe",
+        "genitiv": "des Gewerbes",
+        "dativ": "dem Gewerbe",
+        "akkusativ": "das Gewerbe"
+      },
+      "plural": {
+        "nominativ": "die Gewerbe",
+        "genitiv": "der Gewerbe",
+        "dativ": "den Gewerben",
+        "akkusativ": "die Gewerbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewerb",
+    "Gewerppe",
+    "Gewerbe",
+    "Gewerfe",
+    "Gewerba",
+    "Gewerve"
+  ]
+}

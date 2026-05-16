@@ -1,0 +1,77 @@
+{
+  "lemma": "Wachs",
+  "wortart": "Nomen",
+  "silben": "Wachs",
+  "begriffserklaerung": "Wachs ist ein weiches, fettiges Material, das zum Beispiel in Kerzen steckt. Es wird weich, wenn es warm wird, und hart, wenn es kalt ist.",
+  "beispielsatz": "Die Kerze tropft, weil das Wachs schmilzt.",
+  "rechtschreibstrategie": "Das Wort „Wachs\" endet auf -chs. Denk daran: nach dem kurzen „a\" kommt „chs\" – kein „x\", auch wenn es sich so anhört!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Wachs"
+  ],
+  "bild_datei": "Wachs.webp",
+  "audio_datei": "Wachs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wax"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wachsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wachskerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wachs",
+    "plural": "die Wachse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wachs",
+        "genitiv": "des Wachses",
+        "dativ": "dem Wachs",
+        "akkusativ": "das Wachs"
+      },
+      "plural": {
+        "nominativ": "die Wachse",
+        "genitiv": "der Wachse",
+        "dativ": "den Wachsen",
+        "akkusativ": "die Wachse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waks",
+    "Wax",
+    "Wackes",
+    "Wahchs"
+  ]
+}

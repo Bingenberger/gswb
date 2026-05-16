@@ -1,0 +1,89 @@
+{
+  "lemma": "Witz",
+  "wortart": "Nomen",
+  "silben": "Witz",
+  "begriffserklaerung": "Ein Witz ist eine kurze, lustige Geschichte oder ein Satz, über den man lachen kann.",
+  "beispielsatz": "Tim erzählt seinen Freunden in der Pause immer einen neuen Witz.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „tz\" – das zeigt das Kürzezeichen: Wi-tz.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "witz"
+  ],
+  "bild_datei": "Witz.webp",
+  "audio_datei": "Witz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Witz",
+    "plural": "die Witze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Witz",
+        "genitiv": "des Witzes",
+        "dativ": "dem Witz",
+        "akkusativ": "den Witz"
+      },
+      "plural": {
+        "nominativ": "die Witze",
+        "genitiv": "der Witze",
+        "dativ": "den Witzen",
+        "akkusativ": "die Witze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "joke"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blague"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fıkra"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نكتة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "witzig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Witzigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Scherz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spaß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Humor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Clown"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wits",
+    "Wietz",
+    "Wiz",
+    "Witzz"
+  ]
+}

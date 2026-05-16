@@ -1,0 +1,86 @@
+{
+  "lemma": "Erfinder",
+  "wortart": "Nomen",
+  "silben": "Er-fin-der",
+  "begriffserklaerung": "Ein Erfinder ist jemand, der sich etwas Neues ausdenkt und es zum ersten Mal baut oder herstellt.",
+  "beispielsatz": "Der Erfinder arbeitet in seiner Werkstatt an einer neuen Maschine.",
+  "rechtschreibstrategie": "Denke an das Verb „erfinden\" – der Erfinder ist jemand, der erfindet. Das „d\" am Ende von „erfind-\" bleibt beim Ableiten sichtbar: er-FIND-er.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "find"
+  ],
+  "bild_datei": "Erfinder.webp",
+  "audio_datei": "Erfinder.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Erfinder",
+    "plural": "die Erfinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Erfinder",
+        "genitiv": "des Erfinders",
+        "dativ": "dem Erfinder",
+        "akkusativ": "den Erfinder"
+      },
+      "plural": {
+        "nominativ": "die Erfinder",
+        "genitiv": "der Erfinder",
+        "dativ": "den Erfindern",
+        "akkusativ": "die Erfinder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "inventor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "inventeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mucit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخترع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erfinden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erfindung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tüftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erfinter",
+    "Erfinnder",
+    "Ervinder",
+    "Erfinderr",
+    "Arfinder"
+  ]
+}

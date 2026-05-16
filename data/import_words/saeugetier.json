@@ -1,0 +1,85 @@
+{
+  "lemma": "Säugetier",
+  "wortart": "Nomen",
+  "silben": "Säu-ge-tier",
+  "begriffserklaerung": "Ein Säugetier ist ein Tier, das seine Jungen mit Muttermilch ernährt. Die meisten Säugetiere haben Fell und sind warmblütig.",
+  "beispielsatz": "Der Hund ist ein Säugetier, genau wie Katzen, Pferde und auch wir Menschen.",
+  "rechtschreibstrategie": "Das Wort „Säugetier\" ist aus zwei Teilen zusammengesetzt: „säuge\" (von säugen = mit Milch ernähren) und „Tier\". Achte auf das Umlaut-ä am Anfang!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "säug",
+    "Tier"
+  ],
+  "bild_datei": "Säugetier.webp",
+  "audio_datei": "Säugetier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Säugetier",
+    "plural": "die Säugetiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Säugetier",
+        "genitiv": "des Säugetiers",
+        "dativ": "dem Säugetier",
+        "akkusativ": "das Säugetier"
+      },
+      "plural": {
+        "nominativ": "die Säugetiere",
+        "genitiv": "der Säugetiere",
+        "dativ": "den Säugetieren",
+        "akkusativ": "die Säugetiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mammal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mammifère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "memeli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثدييات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "säugen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reptil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wirbeltier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seügetier",
+    "Säugetir",
+    "Säuketier",
+    "Säugetier",
+    "Seugetier",
+    "Säugertier"
+  ]
+}

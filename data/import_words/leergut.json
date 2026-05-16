@@ -1,0 +1,85 @@
+{
+  "lemma": "Leergut",
+  "wortart": "Nomen",
+  "silben": "Leer-gut",
+  "begriffserklaerung": "Leergut sind leere Flaschen, Dosen oder Kisten, die man zurückgeben kann und dafür ein bisschen Geld zurückbekommt.",
+  "beispielsatz": "Mama bringt das Leergut zum Supermarkt und bekommt Pfandgeld zurück.",
+  "rechtschreibstrategie": "Das Wort „Leergut\" besteht aus zwei Teilen: „leer\" und „Gut\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "leer",
+    "Gut"
+  ],
+  "bild_datei": "Leergut.webp",
+  "audio_datei": "Leergut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "empties / returnable bottles"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consigne / bouteilles vides"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boş şişeler / iade edilebilir ambalaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زجاجات فارغة قابلة للإرجاع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Leergut",
+    "plural": "die Leergüter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Leergut",
+        "genitiv": "des Leerguts",
+        "dativ": "dem Leergut",
+        "akkusativ": "das Leergut"
+      },
+      "plural": {
+        "nominativ": "die Leergüter",
+        "genitiv": "der Leergüter",
+        "dativ": "den Leergütern",
+        "akkusativ": "die Leergüter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lergut",
+    "Leahrgut",
+    "Leerguth",
+    "Leergutt",
+    "Leergud",
+    "Lehrgut"
+  ]
+}

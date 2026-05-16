@@ -1,0 +1,88 @@
+{
+  "lemma": "Geburtstagsfeier",
+  "wortart": "Nomen",
+  "silben": "Ge-burts-tags-fei-er",
+  "begriffserklaerung": "Eine Geburtstagsfeier ist ein Fest, das du an deinem Geburtstag mit Familie und Freunden feierst.",
+  "beispielsatz": "Zur Geburtstagsfeier von Lena kamen fünf Freundinnen mit bunten Geschenken.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Geburts\" + „tags\" + „feier\". Sprich alle Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Geburt",
+    "Feier"
+  ],
+  "bild_datei": "Geburtstagsfeier.webp",
+  "audio_datei": "Geburtstagsfeier.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geburtstagsfeier",
+    "plural": "die Geburtstagsfeiern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geburtstagsfeier",
+        "genitiv": "der Geburtstagsfeier",
+        "dativ": "der Geburtstagsfeier",
+        "akkusativ": "die Geburtstagsfeier"
+      },
+      "plural": {
+        "nominativ": "die Geburtstagsfeiern",
+        "genitiv": "der Geburtstagsfeiern",
+        "dativ": "den Geburtstagsfeiern",
+        "akkusativ": "die Geburtstagsfeiern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "birthday party"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fête d'anniversaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğum günü partisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حفلة عيد الميلاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geburtstagsparty"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einladung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geburtstagfeier",
+    "Geburtstagsfeier",
+    "Geburtstagsfeiher",
+    "Geburtstagsfaier",
+    "Geburtstaksfeier",
+    "Geburtstagsfeiyer"
+  ]
+}

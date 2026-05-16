@@ -1,0 +1,86 @@
+{
+  "lemma": "Ei",
+  "wortart": "Nomen",
+  "silben": "Ei",
+  "begriffserklaerung": "Ein Ei ist eine ovale Hülle, in der sich ein Küken oder ein Embryo entwickelt. Viele Tiere legen Eier, zum Beispiel Hühner, Vögel und Fische. Menschen essen besonders gerne Hühnereier.",
+  "beispielsatz": "Das Huhn legt jeden Tag ein frisches Ei.",
+  "rechtschreibstrategie": "„Ei\" ist ein kurzes Wort mit nur zwei Buchstaben. Denke an den Ei-Laut: Er klingt wie „ai\" und wird immer mit „ei\" geschrieben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Ei"
+  ],
+  "bild_datei": "Ei.webp",
+  "audio_datei": "Ei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "egg"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œuf"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yumurta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eierbecher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eierschale"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eigelb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ei",
+    "plural": "die Eier",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ei",
+        "genitiv": "des Eies",
+        "dativ": "dem Ei",
+        "akkusativ": "das Ei"
+      },
+      "plural": {
+        "nominativ": "die Eier",
+        "genitiv": "der Eier",
+        "dativ": "den Eiern",
+        "akkusativ": "die Eier"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ay",
+    "Ai",
+    "Eii",
+    "Eie",
+    "Ey"
+  ]
+}

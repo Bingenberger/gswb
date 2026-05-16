@@ -1,0 +1,87 @@
+{
+  "lemma": "Wasser",
+  "wortart": "Nomen",
+  "silben": "Was-ser",
+  "begriffserklaerung": "Wasser ist eine klare, farblose Flüssigkeit. Wir brauchen Wasser zum Trinken, Waschen und Leben. Es fließt in Flüssen und Seen und fällt als Regen vom Himmel.",
+  "beispielsatz": "Nach dem Sport trinke ich ein Glas kaltes Wasser.",
+  "rechtschreibstrategie": "Wasser hat ein kurzes „a\", daher folgen zwei „s\": Was-ser. Sprich die Silben laut mit: „Was\" – „ser\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wasser",
+    "wäss"
+  ],
+  "bild_datei": "Wasser.webp",
+  "audio_datei": "Wasser.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wasser",
+    "plural": "die Wasser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wasser",
+        "genitiv": "des Wassers",
+        "dativ": "dem Wasser",
+        "akkusativ": "das Wasser"
+      },
+      "plural": {
+        "nominativ": "die Wasser",
+        "genitiv": "der Wasser",
+        "dativ": "den Wassern",
+        "akkusativ": "die Wasser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wässrig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wässern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasserfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    }
+  ],
+  "fehlschreibungen": [
+    "Vaßer",
+    "Waser",
+    "Wasßer",
+    "Waßer",
+    "Wassser"
+  ]
+}

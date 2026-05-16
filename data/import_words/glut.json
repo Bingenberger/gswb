@@ -1,0 +1,85 @@
+{
+  "lemma": "Glut",
+  "wortart": "Nomen",
+  "silben": "Glut",
+  "begriffserklaerung": "Glut ist die heiße, glühende Masse, die übrig bleibt, wenn etwas verbrennt – zum Beispiel die rot leuchtenden Kohlen in einem Lagerfeuer.",
+  "beispielsatz": "Die Glut im Lagerfeuer leuchtete noch lange, nachdem die Flammen erloschen waren.",
+  "rechtschreibstrategie": "„Glut\" kommt von „glühen\". Wenn du dir nicht sicher bist, denke an das Verb „glühen\" – so erkennst du das u in „Glut\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "glüh"
+  ],
+  "bild_datei": "Glut.webp",
+  "audio_datei": "Glut.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Glut",
+    "plural": "die Gluten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Glut",
+        "genitiv": "der Glut",
+        "dativ": "der Glut",
+        "akkusativ": "die Glut"
+      },
+      "plural": {
+        "nominativ": "die Gluten",
+        "genitiv": "der Gluten",
+        "dativ": "den Gluten",
+        "akkusativ": "die Gluten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "embers / glow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "braise / chaleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kor / ateş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جمر / توهج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "glühen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "glühend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Asche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kohleglut"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gluth",
+    "Gluht",
+    "Glud",
+    "Glude"
+  ]
+}

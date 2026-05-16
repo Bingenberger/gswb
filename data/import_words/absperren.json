@@ -1,0 +1,103 @@
+{
+  "lemma": "absperren",
+  "wortart": "Verb",
+  "silben": "ab-sper-ren",
+  "begriffserklaerung": "Wenn man etwas absperrt, macht man einen Weg oder einen Bereich dicht, damit niemand mehr hindurchkommt oder hineinkommt.",
+  "beispielsatz": "Die Polizei sperrt die Straße ab, damit die Autos nicht in die Baustelle fahren.",
+  "rechtschreibstrategie": "Das Wort „absperren\" besteht aus zwei Teilen: „ab\" und „sperren\". In „sperren\" hört man ein kurzes „e\", daher schreibt man zwei „r\" am Ende – das ist ein Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sperr"
+  ],
+  "bild_datei": "absperren.webp",
+  "audio_datei": "absperren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "absperren",
+    "praesens": {
+      "ich": "sperre ab",
+      "du": "sperrst ab",
+      "er_sie_es": "sperrt ab",
+      "wir": "sperren ab",
+      "ihr": "sperrt ab",
+      "sie": "sperren ab"
+    },
+    "perfekt": {
+      "ich": "habe abgesperrt",
+      "du": "hast abgesperrt",
+      "er_sie_es": "hat abgesperrt",
+      "wir": "haben abgesperrt",
+      "ihr": "habt abgesperrt",
+      "sie": "haben abgesperrt"
+    },
+    "praeteritum": {
+      "ich": "sperrte ab",
+      "du": "sperrtest ab",
+      "er_sie_es": "sperrte ab",
+      "wir": "sperrten ab",
+      "ihr": "sperrtet ab",
+      "sie": "sperrten ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to block off / to cordon off"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bloquer / barrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapatmak / barikat kurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغلق / يسد الطريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sperren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sperre"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versperren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blockieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abriegeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ],
+  "fehlschreibungen": [
+    "absperen",
+    "Absperren",
+    "abshperren",
+    "abspärren",
+    "absperrn"
+  ]
+}

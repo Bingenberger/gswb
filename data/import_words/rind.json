@@ -1,0 +1,82 @@
+{
+  "lemma": "Rind",
+  "wortart": "Nomen",
+  "silben": "Rind",
+  "begriffserklaerung": "Ein Rind ist ein großes Nutztier, das auf dem Bauernhof lebt. Weibliche Rinder nennt man Kühe, männliche Stiere. Rinder geben uns Milch und Fleisch.",
+  "beispielsatz": "Das Rind grast friedlich auf der grünen Wiese.",
+  "rechtschreibstrategie": "Das Wort „Rind\" hat am Ende ein d. Wenn du es verlängerst, hörst du es: „Rin-der\" – da hörst du das d deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rind"
+  ],
+  "bild_datei": "Rind.webp",
+  "audio_datei": "Rind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cow / cattle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bovin / vache"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sığır / inek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بقرة / ماشية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rinder"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rindfleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rind",
+    "plural": "die Rinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rind",
+        "genitiv": "des Rindes",
+        "dativ": "dem Rind",
+        "akkusativ": "das Rind"
+      },
+      "plural": {
+        "nominativ": "die Rinder",
+        "genitiv": "der Rinder",
+        "dativ": "den Rindern",
+        "akkusativ": "die Rinder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rint",
+    "Rindt",
+    "Rhind",
+    "Rind",
+    "Rynd"
+  ]
+}

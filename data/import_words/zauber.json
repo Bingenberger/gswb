@@ -1,0 +1,91 @@
+{
+  "lemma": "Zauber",
+  "wortart": "Nomen",
+  "silben": "Zau-ber",
+  "begriffserklaerung": "Ein Zauber ist etwas Geheimnisvolles, das wie durch Magie wirkt und staunen lässt.",
+  "beispielsatz": "Der Zauberer sprach einen Zauber und der Frosch wurde zum Prinzen.",
+  "rechtschreibstrategie": "Denk an „zaubern\" – man hört das „au\" deutlich. Und am Ende schreibst du „ber\", nicht „bä\" oder „ba\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "zauber"
+  ],
+  "bild_datei": "Zauber.webp",
+  "audio_datei": "Zauber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sihir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zaubern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zauberer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zauberhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Magie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hexe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zauber",
+    "plural": "die Zauber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zauber",
+        "genitiv": "des Zaubers",
+        "dativ": "dem Zauber",
+        "akkusativ": "den Zauber"
+      },
+      "plural": {
+        "nominativ": "die Zauber",
+        "genitiv": "der Zauber",
+        "dativ": "den Zaubern",
+        "akkusativ": "die Zauber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sauber",
+    "Zaubert",
+    "Zaubä",
+    "Zauba",
+    "Tsauber",
+    "Zauper"
+  ]
+}

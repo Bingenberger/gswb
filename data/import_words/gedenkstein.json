@@ -1,0 +1,84 @@
+{
+  "lemma": "Gedenkstein",
+  "wortart": "Nomen",
+  "silben": "Ge-denk-stein",
+  "begriffserklaerung": "Ein Gedenkstein ist ein Stein, der an einen Menschen oder ein wichtiges Ereignis erinnert. Er steht oft draußen und hat meistens eine Inschrift.",
+  "beispielsatz": "Im Park steht ein Gedenkstein für die Kinder, die im Krieg gestorben sind.",
+  "rechtschreibstrategie": "Das Wort „Gedenkstein\" besteht aus zwei Teilen: „Gedenk\" und „Stein\". Sprich beide Teile einzeln: Ge-denk – Stein. Nomen schreibt man groß!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "denk",
+    "Stein"
+  ],
+  "bild_datei": "Gedenkstein.webp",
+  "audio_datei": "Gedenkstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "memorial stone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pierre commémorative"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anıt taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر تذكاري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Denkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grab"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erinnerungsstein"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gedenkstein",
+    "plural": "die Gedenksteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gedenkstein",
+        "genitiv": "des Gedenksteins",
+        "dativ": "dem Gedenkstein",
+        "akkusativ": "den Gedenkstein"
+      },
+      "plural": {
+        "nominativ": "die Gedenksteine",
+        "genitiv": "der Gedenksteine",
+        "dativ": "den Gedenksteinen",
+        "akkusativ": "die Gedenksteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gedenckstein",
+    "Gedenkstain",
+    "Gedäenkstein",
+    "Gedenckstain",
+    "gedenkstein",
+    "Gedenk-Stein"
+  ]
+}

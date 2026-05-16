@@ -1,0 +1,82 @@
+{
+  "lemma": "Tür",
+  "wortart": "Nomen",
+  "silben": "Tür",
+  "begriffserklaerung": "Eine Tür ist eine bewegliche Platte aus Holz oder Metall, die einen Eingang oder eine Öffnung verschließt. Man öffnet sie, um in einen Raum hinein- oder hinauszugehen.",
+  "beispielsatz": "Bitte mach die Tür leise zu, damit du die anderen nicht störst!",
+  "rechtschreibstrategie": "Das Wort „Tür\" hat nur eine Silbe und kein Dehnungs-h. Merke dir einfach: Tür schreibt man mit ü – wie beim Öffnen macht es „üüü\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tür"
+  ],
+  "bild_datei": "Tür.webp",
+  "audio_datei": "Tür.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "door"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Türklinke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Türrahmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pforte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tür",
+    "plural": "die Türen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tür",
+        "genitiv": "der Tür",
+        "dativ": "der Tür",
+        "akkusativ": "die Tür"
+      },
+      "plural": {
+        "nominativ": "die Türen",
+        "genitiv": "der Türen",
+        "dativ": "den Türen",
+        "akkusativ": "die Türen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Thür",
+    "Tuer",
+    "Tühr",
+    "Tuhr",
+    "Tur"
+  ]
+}

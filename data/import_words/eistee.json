@@ -1,0 +1,85 @@
+{
+  "lemma": "Eistee",
+  "wortart": "Nomen",
+  "silben": "Eis-tee",
+  "begriffserklaerung": "Eistee ist ein kaltes Getränk, das aus Tee gemacht wird. Er wird abgekühlt und oft mit Zucker oder Zitrone verfeinert.",
+  "beispielsatz": "An einem heißen Sommertag trinke ich am liebsten einen erfrischenden Eistee.",
+  "rechtschreibstrategie": "„Eistee\" ist ein zusammengesetztes Wort aus „Eis\" und „Tee\". Denk daran: „Tee\" schreibt man mit zwei „e\" am Ende – genau wie das Getränk Tee selbst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Eis",
+    "Tee"
+  ],
+  "bild_datei": "Eistee.webp",
+  "audio_datei": "Eistee.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eistee",
+    "plural": "die Eistees",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eistee",
+        "genitiv": "des Eistees",
+        "dativ": "dem Eistee",
+        "akkusativ": "den Eistee"
+      },
+      "plural": {
+        "nominativ": "die Eistees",
+        "genitiv": "der Eistees",
+        "dativ": "den Eistees",
+        "akkusativ": "die Eistees"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "iced tea"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thé glacé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğuk çay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاي مثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Limonade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eisteh",
+    "Eistée",
+    "Eistei",
+    "Eiztee",
+    "Eißtee",
+    "Eistee"
+  ]
+}

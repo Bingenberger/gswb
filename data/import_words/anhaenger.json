@@ -1,0 +1,84 @@
+{
+  "lemma": "Anhänger",
+  "wortart": "Nomen",
+  "silben": "An-hän-ger",
+  "begriffserklaerung": "Ein Anhänger ist etwas, das man an etwas anderes hängt – zum Beispiel ein kleines Schmuckstück an einer Kette oder ein Fahrzeug, das hinter einem Auto hergezogen wird.",
+  "beispielsatz": "Meine Oma hat mir einen goldenen Anhänger für meine Halskette geschenkt.",
+  "rechtschreibstrategie": "Denk an das Wort „hängen\" – daraus wird „Anhänger\". Das Ä bleibt erhalten: hängen → Anhänger.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "hängen"
+  ],
+  "bild_datei": "Anhänger.webp",
+  "audio_datei": "Anhänger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anhänger",
+    "plural": "die Anhänger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anhänger",
+        "genitiv": "des Anhängers",
+        "dativ": "dem Anhänger",
+        "akkusativ": "den Anhänger"
+      },
+      "plural": {
+        "nominativ": "die Anhänger",
+        "genitiv": "der Anhänger",
+        "dativ": "den Anhängern",
+        "akkusativ": "die Anhänger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pendant / trailer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pendentif / remorque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kolye ucu / römork"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلادة / مقطورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hängen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufhängen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halskette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmuck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anhängsel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anhenger",
+    "Anhäncker",
+    "Anhenker",
+    "Anhänger",
+    "Anhängger",
+    "Anhänker"
+  ]
+}

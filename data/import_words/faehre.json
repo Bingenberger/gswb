@@ -1,0 +1,83 @@
+{
+  "lemma": "Fähre",
+  "wortart": "Nomen",
+  "silben": "Fäh-re",
+  "begriffserklaerung": "Eine Fähre ist ein großes Boot oder Schiff, das Menschen, Autos oder Waren über einen Fluss, einen See oder das Meer transportiert.",
+  "beispielsatz": "Wir fahren mit der Fähre über den Fluss auf die andere Seite.",
+  "rechtschreibstrategie": "Das Wort „Fähre\" hat ein Dehnungs-h nach dem ä: fäh-re. Sprich es laut in Silben, damit du das h nicht vergisst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Fähre.webp",
+  "audio_datei": "Fähre.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ferry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ferry"
+    },
+    {
+      "language_code": "tr",
+      "translation": "feribot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عبّارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fähre",
+    "plural": "die Fähren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fähre",
+        "genitiv": "der Fähre",
+        "dativ": "der Fähre",
+        "akkusativ": "die Fähre"
+      },
+      "plural": {
+        "nominativ": "die Fähren",
+        "genitiv": "der Fähren",
+        "dativ": "den Fähren",
+        "akkusativ": "die Fähren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fere",
+    "Färe",
+    "Fähre",
+    "Fehre",
+    "Färhe",
+    "Fähr"
+  ]
+}

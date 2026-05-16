@@ -1,0 +1,83 @@
+{
+  "lemma": "Pappe",
+  "wortart": "Nomen",
+  "silben": "Pap-pe",
+  "begriffserklaerung": "Pappe ist ein dickes, festes Material aus gepresstem Papier. Es ist steifer als normales Papier und wird zum Basteln, Verpacken und Bauen verwendet.",
+  "beispielsatz": "Wir basteln aus Pappe ein Schloss für unser Schulprojekt.",
+  "rechtschreibstrategie": "Das Wort „Pappe\" hat einen kurzen Vokal „a\" in der ersten Silbe. Deshalb folgt ein Doppel-p – das ist das Kürzezeichen! Sprich laut: Pap-pe.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Pappe"
+  ],
+  "bild_datei": "Pappe.webp",
+  "audio_datei": "Pappe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cardboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karton"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرتون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pappkarton"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pappschachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karton"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Karton"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pappe",
+    "plural": "die Pappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pappe",
+        "genitiv": "der Pappe",
+        "dativ": "der Pappe",
+        "akkusativ": "die Pappe"
+      },
+      "plural": {
+        "nominativ": "die Pappen",
+        "genitiv": "der Pappen",
+        "dativ": "den Pappen",
+        "akkusativ": "die Pappen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pape",
+    "Pappe",
+    "Bape",
+    "Papp",
+    "Papppe",
+    "Paape"
+  ]
+}

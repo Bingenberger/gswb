@@ -1,0 +1,78 @@
+{
+  "lemma": "Springer",
+  "wortart": "Nomen",
+  "silben": "Sprin-ger",
+  "begriffserklaerung": "Ein Springer ist jemand, der springt – zum Beispiel ein Sportler beim Skispringen oder Turnen. Beim Schach ist der Springer auch eine Spielfigur, die in einem „L\" über das Brett hüpft.",
+  "beispielsatz": "Der Springer beim Turnen machte einen riesigen Salto in der Luft.",
+  "rechtschreibstrategie": "Denk an das Verb „springen\": Sprin-ger. Das „ng\" sprichst du deutlich mit – dann schreibst du es auch richtig!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spring"
+  ],
+  "bild_datei": "Springer.webp",
+  "audio_datei": "Springer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Springer",
+    "plural": "die Springer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Springer",
+        "genitiv": "des Springers",
+        "dativ": "dem Springer",
+        "akkusativ": "den Springer"
+      },
+      "plural": {
+        "nominativ": "die Springer",
+        "genitiv": "der Springer",
+        "dativ": "den Springern",
+        "akkusativ": "die Springer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jumper / knight (chess)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sauteur / cavalier (échecs)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atlayıcı / at (satranç)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قافز / حصان (شطرنج)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "springen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachfigur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Springger",
+    "Schpringer",
+    "Sprienger",
+    "Sprinnger",
+    "Sprinker"
+  ]
+}

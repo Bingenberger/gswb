@@ -1,0 +1,83 @@
+{
+  "lemma": "Welle",
+  "wortart": "Nomen",
+  "silben": "Wel-le",
+  "begriffserklaerung": "Eine Welle ist eine Bewegung im Wasser, die auf und ab geht. Wellen entstehen zum Beispiel im Meer oder wenn du einen Stein ins Wasser wirfst.",
+  "beispielsatz": "Die große Welle schwappte mir bis zu den Knien.",
+  "rechtschreibstrategie": "Das Wort „Welle\" hat zwei l – denn nach dem kurzen „e\" verdoppelt man den Konsonanten. Sprich: Wel-le!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Well"
+  ],
+  "bild_datei": "Welle.webp",
+  "audio_datei": "Welle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vague"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dalga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wellig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brandung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Welle",
+    "plural": "die Wellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Welle",
+        "genitiv": "der Welle",
+        "dativ": "der Welle",
+        "akkusativ": "die Welle"
+      },
+      "plural": {
+        "nominativ": "die Wellen",
+        "genitiv": "der Wellen",
+        "dativ": "den Wellen",
+        "akkusativ": "die Wellen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wele",
+    "Wälle",
+    "Wähle",
+    "Welle",
+    "Wählle",
+    "Wäle"
+  ]
+}

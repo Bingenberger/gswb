@@ -1,0 +1,82 @@
+{
+  "lemma": "Faust",
+  "wortart": "Nomen",
+  "silben": "Faust",
+  "begriffserklaerung": "Eine Faust ist eine Hand, bei der alle Finger fest zusammengerollt sind.",
+  "beispielsatz": "Der Junge ballte die Faust, um zu zeigen, dass er stark ist.",
+  "rechtschreibstrategie": "Wenn du „Faust\" verlängerst, sagst du „Fäuste\" – dann hörst du das „au\" ganz deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Faust",
+    "plural": "die Fäuste",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Faust",
+        "genitiv": "der Faust",
+        "dativ": "der Faust",
+        "akkusativ": "die Faust"
+      },
+      "plural": {
+        "nominativ": "die Fäuste",
+        "genitiv": "der Fäuste",
+        "dativ": "den Fäusten",
+        "akkusativ": "die Fäuste"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Faust"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "faustgroß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Faustschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Finger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlag"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poing"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yumruk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبضة"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fausst",
+    "Fausd",
+    "Fauzt",
+    "faust",
+    "Foust"
+  ],
+  "bild_datei": "Faust.webp",
+  "audio_datei": "Faust.mp3"
+}

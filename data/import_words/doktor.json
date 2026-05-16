@@ -1,0 +1,82 @@
+{
+  "lemma": "Doktor",
+  "wortart": "Nomen",
+  "silben": "Dok-tor",
+  "begriffserklaerung": "Ein Doktor ist ein Arzt oder eine Ärztin, die Menschen untersucht und ihnen hilft, wenn sie krank sind.",
+  "beispielsatz": "Der Doktor hört meinen Herzschlag mit einem Stethoskop ab.",
+  "rechtschreibstrategie": "Denke an das „k\" am Ende von „Dok\" – sprich die Silben laut: Dok-tor. Das „k\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Doktor"
+  ],
+  "bild_datei": "Doktor.webp",
+  "audio_datei": "Doktor.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Doktor",
+    "plural": "die Doktoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Doktor",
+        "genitiv": "des Doktors",
+        "dativ": "dem Doktor",
+        "akkusativ": "den Doktor"
+      },
+      "plural": {
+        "nominativ": "die Doktoren",
+        "genitiv": "der Doktoren",
+        "dativ": "den Doktoren",
+        "akkusativ": "die Doktoren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "doctor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "docteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doktor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Doktorin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medizin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spritze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Docter",
+    "Dokter",
+    "Doctor",
+    "Dokttor",
+    "Docktor"
+  ]
+}

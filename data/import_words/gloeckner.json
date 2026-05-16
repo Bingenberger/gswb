@@ -1,0 +1,79 @@
+{
+  "lemma": "Glöckner",
+  "wortart": "Nomen",
+  "silben": "Glock-ner",
+  "begriffserklaerung": "Ein Glöckner ist eine Person, die für das Läuten der Kirchenglocken zuständig ist.",
+  "beispielsatz": "Der Glöckner klettert jeden Morgen in den Kirchturm, um die Glocken zu läuten.",
+  "rechtschreibstrategie": "Denke an das Wort „Glocke\" – daraus wird „Glöckner\". Das ck bleibt erhalten, weil nach dem kurzen o ein Kürzezeichen (ck) steht.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Glock-"
+  ],
+  "bild_datei": "Glöckner.webp",
+  "audio_datei": "Glöckner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bell ringer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sonneur de cloches"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çan çalan kişi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارع الأجراس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glocke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "läuten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirchturm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Glöckner",
+    "plural": "die Glöckner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Glöckner",
+        "genitiv": "des Glöckners",
+        "dativ": "dem Glöckner",
+        "akkusativ": "den Glöckner"
+      },
+      "plural": {
+        "nominativ": "die Glöckner",
+        "genitiv": "der Glöckner",
+        "dativ": "den Glöcknern",
+        "akkusativ": "die Glöckner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Glögner",
+    "Glöckener",
+    "Glöckner",
+    "Glöcknr",
+    "Glöcknar"
+  ]
+}

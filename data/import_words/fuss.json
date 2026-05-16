@@ -1,0 +1,84 @@
+{
+  "lemma": "Fuß",
+  "wortart": "Nomen",
+  "silben": "Fuß",
+  "begriffserklaerung": "Der Fuß ist der unterste Teil des Beines. Mit den Füßen stehen wir auf dem Boden und gehen oder laufen.",
+  "beispielsatz": "Mein Fuß tut weh, weil ich barfuß über Steine gelaufen bin.",
+  "rechtschreibstrategie": "Das Wort „Fuß\" endet mit ß, weil der Vokal „u\" lang gesprochen wird. Nach einem langen Vokal schreibt man ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Fuß"
+  ],
+  "bild_datei": "Fuß.webp",
+  "audio_datei": "Fuß.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fuß",
+    "plural": "die Füße",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fuß",
+        "genitiv": "des Fußes",
+        "dativ": "dem Fuß",
+        "akkusativ": "den Fuß"
+      },
+      "plural": {
+        "nominativ": "die Füße",
+        "genitiv": "der Füße",
+        "dativ": "den Füßen",
+        "akkusativ": "die Füße"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "foot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pied"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußweg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "barfuß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuh"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fus",
+    "Fuss",
+    "Fuhs"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "lemma": "rufen",
+  "wortart": "Verb",
+  "silben": "ru-fen",
+  "begriffserklaerung": "Wenn du rufst, sagst du etwas laut oder schreist jemanden an, damit er dich hört.",
+  "beispielsatz": "Die Mutter ruft ihre Kinder zum Mittagessen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „ru-fen\". Das „u\" klingt lang, deshalb steht nur ein „f\" – und am Ende hörst du deutlich das „en\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "ruf"
+  ],
+  "bild_datei": "rufen.webp",
+  "audio_datei": "rufen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "rufen",
+    "praesens": {
+      "ich": "rufe",
+      "du": "rufst",
+      "er_sie_es": "ruft",
+      "wir": "rufen",
+      "ihr": "ruft",
+      "sie": "rufen"
+    },
+    "perfekt": {
+      "ich": "habe gerufen",
+      "du": "hast gerufen",
+      "er_sie_es": "hat gerufen",
+      "wir": "haben gerufen",
+      "ihr": "habt gerufen",
+      "sie": "haben gerufen"
+    },
+    "praeteritum": {
+      "ich": "rief",
+      "du": "riefst",
+      "er_sie_es": "rief",
+      "wir": "riefen",
+      "ihr": "rieft",
+      "sie": "riefen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to call"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appeler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çağırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُنادي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ruf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schreien"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausrufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "flüstern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "winken"
+    }
+  ],
+  "fehlschreibungen": [
+    "ruffen",
+    "rufenn",
+    "ruefen",
+    "rufem",
+    "ruven"
+  ]
+}

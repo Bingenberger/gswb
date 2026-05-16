@@ -1,0 +1,87 @@
+{
+  "lemma": "Mischung",
+  "wortart": "Nomen",
+  "silben": "Mi-schung",
+  "begriffserklaerung": "Eine Mischung entsteht, wenn man zwei oder mehr verschiedene Dinge zusammenrührt oder vermischt.",
+  "beispielsatz": "Die bunte Mischung aus roten, gelben und blauen Farben sieht toll aus!",
+  "rechtschreibstrategie": "Denk an das Verb „mischen\" – von „mischen\" leiten wir „Mischung\" ab. Das „sch\" hörst du deutlich, wenn du laut „mi-schen\" sagst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "misch"
+  ],
+  "bild_datei": "Mischung.webp",
+  "audio_datei": "Mischung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mischung",
+    "plural": "die Mischungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mischung",
+        "genitiv": "der Mischung",
+        "dativ": "der Mischung",
+        "akkusativ": "die Mischung"
+      },
+      "plural": {
+        "nominativ": "die Mischungen",
+        "genitiv": "der Mischungen",
+        "dativ": "den Mischungen",
+        "akkusativ": "die Mischungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mixture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mélange"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karışım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خليط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mixer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gemisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zutaten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rezept"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mischuing",
+    "Mißchung",
+    "Mischunk",
+    "Mischug",
+    "Mischunng"
+  ]
+}

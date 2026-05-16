@@ -1,0 +1,84 @@
+{
+  "lemma": "Mausefalle",
+  "wortart": "Nomen",
+  "silben": "Mau-se-fal-le",
+  "begriffserklaerung": "Eine Mausefalle ist eine Falle, mit der man Mäuse fangen kann.",
+  "beispielsatz": "Der Bauer stellt eine Mausefalle in den Keller, damit keine Mäuse das Getreide fressen.",
+  "rechtschreibstrategie": "Das Wort „Mausefalle\" ist aus zwei Wörtern zusammengesetzt: „Maus\" und „Falle\". Schreibe beide Teile zusammen und achte auf das Fugen-e in der Mitte: Mause-falle. Das „ll\" am Ende zeigt den kurzen Vokal vor dem l.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Maus",
+    "Fall"
+  ],
+  "bild_datei": "Mausefalle.webp",
+  "audio_datei": "Mausefalle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mausefalle",
+    "plural": "die Mausefallen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mausefalle",
+        "genitiv": "der Mausefalle",
+        "dativ": "der Mausefalle",
+        "akkusativ": "die Mausefalle"
+      },
+      "plural": {
+        "nominativ": "die Mausefallen",
+        "genitiv": "der Mausefallen",
+        "dativ": "den Mausefallen",
+        "akkusativ": "die Mausefallen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mousetrap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souricière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fare kapanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فخ الفأر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Falle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rattenfalle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Falle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfig"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mausefale",
+    "Maussfalle",
+    "Mausfalle",
+    "Mausefalie",
+    "Mausefahlle"
+  ]
+}

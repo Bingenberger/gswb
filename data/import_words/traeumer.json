@@ -1,0 +1,82 @@
+{
+  "lemma": "Träumer",
+  "wortart": "Nomen",
+  "silben": "Träu-mer",
+  "begriffserklaerung": "Ein Träumer ist jemand, der oft in Gedanken versunken ist und sich schöne Dinge vorstellt.",
+  "beispielsatz": "Max ist ein richtiger Träumer – er schaut oft aus dem Fenster und denkt an Abenteuer.",
+  "rechtschreibstrategie": "Denk an das Wort „träumen\" – daraus wird „Träumer\". Das ä schreibst du wie in „träumen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "träum"
+  ],
+  "bild_datei": "Träumer.webp",
+  "audio_datei": "Träumer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dreamer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rêveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayalperest"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حالم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "träumen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Traum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fantasie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Phantast"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Träumer",
+    "plural": "die Träumer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Träumer",
+        "genitiv": "des Träumers",
+        "dativ": "dem Träumer",
+        "akkusativ": "den Träumer"
+      },
+      "plural": {
+        "nominativ": "die Träumer",
+        "genitiv": "der Träumer",
+        "dativ": "den Träumern",
+        "akkusativ": "die Träumer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Treumer",
+    "Träumer",
+    "Traeumer",
+    "Träummer",
+    "Dreumer"
+  ]
+}

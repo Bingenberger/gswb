@@ -1,0 +1,78 @@
+{
+  "lemma": "Delphin",
+  "wortart": "Nomen",
+  "silben": "Del-phin",
+  "begriffserklaerung": "Ein Delphin ist ein schlaues und freundliches Meerestier, das im Wasser lebt und zum Atmen an die Oberfläche kommen muss.",
+  "beispielsatz": "Der Delphin springt fröhlich aus dem Wasser und macht einen großen Bogen in die Luft.",
+  "rechtschreibstrategie": "Das Wort „Delphin\" schreibt man mit „ph\" statt mit „f\" – das „ph\" klingt wie ein „f\", aber es steckt ein griechisches Fremdwort dahinter. Merke: Del-phin mit ph!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Delphin",
+    "plural": "Delphine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Delphin",
+        "genitiv": "des Delphins",
+        "dativ": "dem Delphin",
+        "akkusativ": "den Delphin"
+      },
+      "plural": {
+        "nominativ": "die Delphine",
+        "genitiv": "der Delphine",
+        "dativ": "den Delphinen",
+        "akkusativ": "die Delphine"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Delphin"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Delphinarium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Delfin",
+    "Delffin",
+    "Delpfin",
+    "Dälphin",
+    "Delpin"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dolphin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dauphin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yunus"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دلفين"
+    }
+  ],
+  "bild_datei": "Delphin.webp",
+  "audio_datei": "Delphin.mp3"
+}

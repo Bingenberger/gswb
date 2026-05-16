@@ -1,0 +1,82 @@
+{
+  "lemma": "Film",
+  "wortart": "Nomen",
+  "silben": "Film",
+  "begriffserklaerung": "Ein Film ist eine bewegte Geschichte, die man im Kino oder zu Hause auf einem Bildschirm anschauen kann.",
+  "beispielsatz": "Am Samstag schauen wir einen spannenden Film im Kino.",
+  "rechtschreibstrategie": "„Film\" hat nur eine Silbe. Sprich das Wort langsam: F-i-l-m. Du hörst vier Laute – schreib alle vier Buchstaben auf!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Film",
+    "plural": "Filme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Film",
+        "genitiv": "des Films",
+        "dativ": "dem Film",
+        "akkusativ": "den Film"
+      },
+      "plural": {
+        "nominativ": "die Filme",
+        "genitiv": "der Filme",
+        "dativ": "den Filmen",
+        "akkusativ": "die Filme"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "film"
+  ],
+  "fehlschreibungen": [
+    "Fillm",
+    "Vilm",
+    "Fihm",
+    "Filim",
+    "Phim"
+  ],
+  "bild_datei": "Film.webp",
+  "audio_datei": "Film.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "film / movie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "film"
+    },
+    {
+      "language_code": "tr",
+      "translation": "film"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "filmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Filmkamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kino"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streifen"
+    }
+  ]
+}

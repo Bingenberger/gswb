@@ -1,0 +1,87 @@
+{
+  "lemma": "Gewinner",
+  "wortart": "Nomen",
+  "silben": "Ge-win-ner",
+  "begriffserklaerung": "Ein Gewinner ist eine Person, die bei einem Spiel, einem Wettbewerb oder einem Wettkampf als Erste ins Ziel kommt oder die meisten Punkte hat.",
+  "beispielsatz": "Der Gewinner des Rennens bekommt eine goldene Medaille.",
+  "rechtschreibstrategie": "Schreibe „Gewinner\" mit Doppel-n in der Mitte – das „n\" kommt zweimal, weil der Vokal davor kurz gesprochen wird: Ge-win-ner.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "gewinnen",
+    "Gewinn"
+  ],
+  "bild_datei": "Gewinner.webp",
+  "audio_datei": "Gewinner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gagnant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فائز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewinnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewinn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sieger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medaille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pokal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gewinner",
+    "plural": "die Gewinner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gewinner",
+        "genitiv": "des Gewinners",
+        "dativ": "dem Gewinner",
+        "akkusativ": "den Gewinner"
+      },
+      "plural": {
+        "nominativ": "die Gewinner",
+        "genitiv": "der Gewinner",
+        "dativ": "den Gewinnern",
+        "akkusativ": "die Gewinner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewiner",
+    "Gewienner",
+    "Gewinер",
+    "Gevinner",
+    "Gewinnar"
+  ]
+}

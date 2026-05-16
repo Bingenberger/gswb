@@ -1,0 +1,84 @@
+{
+  "lemma": "Hausmeister",
+  "wortart": "Nomen",
+  "silben": "Haus-meis-ter",
+  "begriffserklaerung": "Ein Hausmeister kümmert sich um ein Gebäude. Er repariert kaputte Dinge, hält alles in Ordnung und hilft, wenn etwas nicht funktioniert.",
+  "beispielsatz": "Der Hausmeister repariert das kaputte Fenster in unserer Schule.",
+  "rechtschreibstrategie": "„Hausmeister\" ist aus zwei Wörtern zusammengebaut: „Haus\" und „Meister\". Schreib einfach beide Wörter hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Meister"
+  ],
+  "bild_datei": "Hausmeister.webp",
+  "audio_datei": "Hausmeister.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "caretaker / janitor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "concierge / gardien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapıcı / bina görevlisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس المبنى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hauswart"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hausmeister",
+    "plural": "die Hausmeister",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hausmeister",
+        "genitiv": "des Hausmeisters",
+        "dativ": "dem Hausmeister",
+        "akkusativ": "den Hausmeister"
+      },
+      "plural": {
+        "nominativ": "die Hausmeister",
+        "genitiv": "der Hausmeister",
+        "dativ": "den Hausmeistern",
+        "akkusativ": "die Hausmeister"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hausmeißter",
+    "Hausmeisters",
+    "Hausmaisder",
+    "Hausmaister",
+    "Hausmeiester",
+    "Haußmeister"
+  ]
+}

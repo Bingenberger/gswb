@@ -1,0 +1,83 @@
+{
+  "lemma": "Bürste",
+  "wortart": "Nomen",
+  "silben": "Bürs-te",
+  "begriffserklaerung": "Eine Bürste ist ein Werkzeug mit vielen kurzen, steifen Borsten. Man benutzt sie zum Reinigen, Kämmen oder Schrubben.",
+  "beispielsatz": "Morgens kämme ich meine Haare mit der Bürste.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Bürs-te. Denke daran: Nach dem kurzen Ü kommt das rs, und am Ende steht ein -e.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bürst"
+  ],
+  "bild_datei": "Bürste.webp",
+  "audio_datei": "Bürste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brosse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırça"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرشاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bürsten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haarbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Besen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bürste",
+    "plural": "die Bürsten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bürste",
+        "genitiv": "der Bürste",
+        "dativ": "der Bürste",
+        "akkusativ": "die Bürste"
+      },
+      "plural": {
+        "nominativ": "die Bürsten",
+        "genitiv": "der Bürsten",
+        "dativ": "den Bürsten",
+        "akkusativ": "die Bürsten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bürste",
+    "Bierste",
+    "Büste",
+    "Bürßte",
+    "Bürsste",
+    "Bürts"
+  ]
+}

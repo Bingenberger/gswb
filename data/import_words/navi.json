@@ -1,0 +1,82 @@
+{
+  "lemma": "Navi",
+  "wortart": "Nomen",
+  "silben": "Na-vi",
+  "begriffserklaerung": "Ein Navi ist ein Gerät oder eine App, die dir den Weg zeigt. Es sagt dir, wo du langfahren oder langgehen sollst, damit du ans Ziel kommst.",
+  "beispielsatz": "Das Navi im Auto sagt uns, wo wir abbiegen müssen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Na-vi. Beide Silben klingen klar und werden genauso geschrieben, wie man sie hört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Navigation"
+  ],
+  "bild_datei": "Navi.webp",
+  "audio_datei": "Navi.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Navi",
+    "plural": "die Navis",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Navi",
+        "genitiv": "des Navis",
+        "dativ": "dem Navi",
+        "akkusativ": "das Navi"
+      },
+      "plural": {
+        "nominativ": "die Navis",
+        "genitiv": "der Navis",
+        "dativ": "den Navis",
+        "akkusativ": "die Navis"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sat nav / GPS device"
+    },
+    {
+      "language_code": "fr",
+      "translation": "GPS / navigateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "navigasyon cihazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز الملاحة (نافي)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Navigation"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "navigieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Route"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Navigationsgerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nafy",
+    "Nahvi",
+    "Nawi",
+    "Navie",
+    "Navy"
+  ]
+}

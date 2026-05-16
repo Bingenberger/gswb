@@ -1,0 +1,72 @@
+{
+  "lemma": "Popcorn",
+  "wortart": "Nomen",
+  "silben": "Pop-corn",
+  "begriffserklaerung": "Popcorn sind aufgepoppte Maiskörner, die man oft im Kino oder beim Fernsehen isst. Sie schmecken salzig oder süß.",
+  "beispielsatz": "Im Kino kaufen wir immer eine große Tüte Popcorn.",
+  "rechtschreibstrategie": "Popcorn kommt aus dem Englischen. Schreib es genau so, wie du es hörst: Pop-corn – mit großem P, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Popcorn.webp",
+  "audio_datei": "Popcorn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "popcorn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "popcorn"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patlamış mısır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فشار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kino"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mais"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Snack"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Popcorn",
+    "plural": "die Popcorns",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Popcorn",
+        "genitiv": "des Popcorns",
+        "dativ": "dem Popcorn",
+        "akkusativ": "das Popcorn"
+      },
+      "plural": {
+        "nominativ": "die Popcorns",
+        "genitiv": "der Popcorns",
+        "dativ": "den Popcorns",
+        "akkusativ": "die Popcorns"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Popkorn",
+    "Popcorden",
+    "Poppcorn",
+    "Popcornd",
+    "Popkoren"
+  ]
+}

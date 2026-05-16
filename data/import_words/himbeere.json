@@ -1,0 +1,80 @@
+{
+  "lemma": "Himbeere",
+  "wortart": "Nomen",
+  "silben": "Him-bee-re",
+  "begriffserklaerung": "Die Himbeere ist eine kleine, rote und süße Frucht, die an stacheligen Sträuchern wächst. Sie schmeckt lecker und wird oft für Marmelade oder als Snack gegessen.",
+  "beispielsatz": "Im Garten pflücke ich frische Himbeeren und esse sie direkt vom Strauch.",
+  "rechtschreibstrategie": "Das Wort „Himbeere\" setzt sich aus zwei Teilen zusammen: „Him\" und „Beere\". Sprich beide Teile laut: Him-bee-re. Das „ee\" in „Beere\" schreibst du mit zwei e!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere"
+  ],
+  "bild_datei": "Himbeere.webp",
+  "audio_datei": "Himbeere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Himbeere",
+    "plural": "die Himbeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Himbeere",
+        "genitiv": "der Himbeere",
+        "dativ": "der Himbeere",
+        "akkusativ": "die Himbeere"
+      },
+      "plural": {
+        "nominativ": "die Himbeeren",
+        "genitiv": "der Himbeeren",
+        "dativ": "den Himbeeren",
+        "akkusativ": "die Himbeeren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "raspberry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "framboise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahududu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توت العليق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heidelbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Johannisbeere"
+    }
+  ],
+  "fehlschreibungen": [
+    "Himbere",
+    "Himmbere",
+    "Himberre",
+    "Himbeere",
+    "Himbeehr",
+    "Himbeäre"
+  ]
+}

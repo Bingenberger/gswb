@@ -1,0 +1,85 @@
+{
+  "lemma": "Wasserleitung",
+  "wortart": "Nomen",
+  "silben": "Was-ser-lei-tung",
+  "begriffserklaerung": "Eine Wasserleitung ist ein Rohr oder ein System aus Rohren, durch das sauberes Wasser in Häuser und Wohnungen geleitet wird.",
+  "beispielsatz": "Durch die Wasserleitung kommt das frische Wasser aus dem Wasserhahn.",
+  "rechtschreibstrategie": "Das Wort „Wasserleitung\" ist aus zwei Wörtern zusammengesetzt: „Wasser\" und „Leitung\". Sprich beide Teile einzeln: Was-ser und Lei-tung. Das ss in „Wasser\" hörst du beim langsamen Sprechen gut.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "leiten"
+  ],
+  "bild_datei": "Wasserleitung.webp",
+  "audio_datei": "Wasserleitung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wasserleitung",
+    "plural": "die Wasserleitungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wasserleitung",
+        "genitiv": "der Wasserleitung",
+        "dativ": "der Wasserleitung",
+        "akkusativ": "die Wasserleitung"
+      },
+      "plural": {
+        "nominativ": "die Wasserleitungen",
+        "genitiv": "der Wasserleitungen",
+        "dativ": "den Wasserleitungen",
+        "akkusativ": "die Wasserleitungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water pipe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canalisation d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su borusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنبوب الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserhahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kanal"
+    }
+  ],
+  "fehlschreibungen": [
+    "Waserleitung",
+    "Wasserleidung",
+    "Wasserleittung",
+    "Wasserlaitung",
+    "Wasserleytung"
+  ]
+}

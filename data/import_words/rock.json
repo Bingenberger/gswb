@@ -1,0 +1,81 @@
+{
+  "lemma": "Rock",
+  "wortart": "Nomen",
+  "silben": "Rock",
+  "begriffserklaerung": "Ein Rock ist ein Kleidungsstück, das man um die Hüften trägt. Er hat keine Hosenbeine und reicht nach unten bis zu den Knien oder länger.",
+  "beispielsatz": "Lena trägt heute einen bunten Rock zur Schule.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" kommt „ck\" – das ist das Kürzezeichen! Schreibe also „ck\" und nicht nur „k\": Rock.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Rock"
+  ],
+  "bild_datei": "Rock.webp",
+  "audio_datei": "Rock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rock",
+    "plural": "die Röcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rock",
+        "genitiv": "des Rocks",
+        "dativ": "dem Rock",
+        "akkusativ": "den Rock"
+      },
+      "plural": {
+        "nominativ": "die Röcke",
+        "genitiv": "der Röcke",
+        "dativ": "den Röcken",
+        "akkusativ": "die Röcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skirt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "etek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تنورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Röckchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Minirock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleid"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Faltenrock"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rok",
+    "Roock",
+    "Rocck",
+    "Rokk"
+  ]
+}

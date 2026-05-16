@@ -1,0 +1,90 @@
+{
+  "lemma": "Regen",
+  "wortart": "Nomen",
+  "silben": "Re-gen",
+  "begriffserklaerung": "Regen ist Wasser, das in kleinen Tropfen aus den Wolken fällt und die Erde nass macht.",
+  "beispielsatz": "Heute fällt so viel Regen, dass ich einen Regenschirm brauche.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Re-gen\". Du hörst ein langes „e\" und ein weiches „g\" – schreib es einfach so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "regen"
+  ],
+  "bild_datei": "Regen.webp",
+  "audio_datei": "Regen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pluie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağmur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regenschirm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verregnet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Niederschlag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Regen",
+    "plural": "die Regen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Regen",
+        "genitiv": "des Regens",
+        "dativ": "dem Regen",
+        "akkusativ": "den Regen"
+      },
+      "plural": {
+        "nominativ": "die Regen",
+        "genitiv": "der Regen",
+        "dativ": "den Regen",
+        "akkusativ": "die Regen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rägen",
+    "Rehgen",
+    "Reegen",
+    "Regin",
+    "Reken"
+  ]
+}

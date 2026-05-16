@@ -1,0 +1,84 @@
+{
+  "lemma": "Brillenglas",
+  "wortart": "Nomen",
+  "silben": "Bril-len-glas",
+  "begriffserklaerung": "Ein Brillenglas ist die durchsichtige Scheibe in einer Brille, die hilft, besser zu sehen.",
+  "beispielsatz": "Das Brillenglas von Oma ist leider zerbrochen.",
+  "rechtschreibstrategie": "„Brillenglas\" ist ein zusammengesetztes Wort aus „Brille\" und „Glas\". Schreibe beide Teile einfach hintereinander: Brillen + Glas = Brillenglas.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Brille",
+    "Glas"
+  ],
+  "bild_datei": "Brillenglas.webp",
+  "audio_datei": "Brillenglas.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brillenglas",
+    "plural": "die Brillengläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brillenglas",
+        "genitiv": "des Brillenglases",
+        "dativ": "dem Brillenglas",
+        "akkusativ": "das Brillenglas"
+      },
+      "plural": {
+        "nominativ": "die Brillengläser",
+        "genitiv": "der Brillengläser",
+        "dativ": "den Brillengläsern",
+        "akkusativ": "die Brillengläser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lens"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verre de lunettes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gözlük cami"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدسة النظارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brille"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehhilfe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brillengestell"
+    }
+  ],
+  "fehlschreibungen": [
+    "Brillenglaß",
+    "Brilenglas",
+    "Brillennglas",
+    "Brillenglass",
+    "Brillglas"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "werden",
+  "wortart": "Verb",
+  "silben": "wer-den",
+  "begriffserklaerung": "„Werden\" bedeutet, dass sich etwas verändert oder dass etwas Neues entsteht. Es zeigt, dass jemand oder etwas anders wird als vorher.",
+  "beispielsatz": "Im Frühling werden die Tage länger und wärmer.",
+  "rechtschreibstrategie": "Sprich das Wort laut: wer-den. Du hörst ein „d\" in der Mitte – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "werd"
+  ],
+  "bild_datei": "werden.webp",
+  "audio_datei": "werden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to become / will"
+    },
+    {
+      "language_code": "fr",
+      "translation": "devenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصبح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geworden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werdegang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bleiben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich verwandeln"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "werden",
+    "praesens": {
+      "ich": "werde",
+      "du": "wirst",
+      "er_sie_es": "wird",
+      "wir": "werden",
+      "ihr": "werdet",
+      "sie": "werden"
+    },
+    "perfekt": {
+      "ich": "bin geworden",
+      "du": "bist geworden",
+      "er_sie_es": "ist geworden",
+      "wir": "sind geworden",
+      "ihr": "seid geworden",
+      "sie": "sind geworden"
+    },
+    "praeteritum": {
+      "ich": "wurde",
+      "du": "wurdest",
+      "er_sie_es": "wurde",
+      "wir": "wurden",
+      "ihr": "wurdet",
+      "sie": "wurden"
+    }
+  },
+  "fehlschreibungen": [
+    "werten",
+    "wärden",
+    "werden",
+    "weerden",
+    "werdn",
+    "wörden"
+  ]
+}

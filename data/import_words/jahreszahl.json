@@ -1,0 +1,85 @@
+{
+  "lemma": "Jahreszahl",
+  "wortart": "Nomen",
+  "silben": "Jah-res-zahl",
+  "begriffserklaerung": "Eine Jahreszahl ist eine Zahl, die ein bestimmtes Jahr angibt, zum Beispiel 2024.",
+  "beispielsatz": "Die Jahreszahl 1989 ist sehr wichtig für die Geschichte Deutschlands.",
+  "rechtschreibstrategie": "Das Wort „Jahreszahl\" ist aus „Jahr\", „-es-\" und „Zahl\" zusammengesetzt. Denk an die beiden Teile: JAHR + ZAHL – beide schreibst du, wie du sie kennst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Jahr",
+    "Zahl"
+  ],
+  "bild_datei": "Jahreszahl.webp",
+  "audio_datei": "Jahreszahl.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jahreszahl",
+    "plural": "die Jahreszahlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jahreszahl",
+        "genitiv": "der Jahreszahl",
+        "dativ": "der Jahreszahl",
+        "akkusativ": "die Jahreszahl"
+      },
+      "plural": {
+        "nominativ": "die Jahreszahlen",
+        "genitiv": "der Jahreszahlen",
+        "dativ": "den Jahreszahlen",
+        "akkusativ": "die Jahreszahlen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "year (number)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "millésime / année"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıl sayısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم السنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Datum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jareszahl",
+    "Jahrezahl",
+    "Jahreszal",
+    "Jahres-Zahl",
+    "Jahreszahll",
+    "Jahreszahl"
+  ]
+}

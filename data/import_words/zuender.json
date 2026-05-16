@@ -1,0 +1,82 @@
+{
+  "lemma": "Zünder",
+  "wortart": "Nomen",
+  "silben": "Zün-der",
+  "begriffserklaerung": "Ein Zünder ist ein kleines Gerät, das etwas zum Brennen oder Explodieren bringt. Man findet Zünder zum Beispiel bei Feuerwerkskörpern.",
+  "beispielsatz": "Der Feuerwerker prüfte den Zünder, bevor er das Feuerwerk startete.",
+  "rechtschreibstrategie": "Denk an das Wort „zünden\" – der Zünder zündet etwas. Das Ü hörst du als kurzes Ü, und das „nd\" sprichst du deutlich mit.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "zünd"
+  ],
+  "bild_datei": "Zünder.webp",
+  "audio_datei": "Zünder.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zünder",
+    "plural": "die Zünder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zünder",
+        "genitiv": "des Zünders",
+        "dativ": "dem Zünder",
+        "akkusativ": "den Zünder"
+      },
+      "plural": {
+        "nominativ": "die Zünder",
+        "genitiv": "der Zünder",
+        "dativ": "den Zündern",
+        "akkusativ": "die Zünder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "igniter / fuse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumeur / détonateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateşleyici / fitil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صاعق / فتيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zünden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zündung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprengstoff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auslöser"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zunder",
+    "Zünter",
+    "Zünnder",
+    "Zündder",
+    "Zünderr"
+  ]
+}

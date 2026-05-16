@@ -1,0 +1,87 @@
+{
+  "lemma": "Pflaume",
+  "wortart": "Nomen",
+  "silben": "Pflau-me",
+  "begriffserklaerung": "Eine Pflaume ist eine runde oder ovale Frucht mit glatter Schale, die blau-lila, rot oder gelb sein kann. Sie hat einen Kern in der Mitte und schmeckt süß.",
+  "beispielsatz": "Mama kauft auf dem Markt eine Tüte voller reifer Pflaumen.",
+  "rechtschreibstrategie": "Achte auf das „au\" in Pflaume – sprich das Wort laut: Pflau-me. Das „au\" hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pflaume"
+  ],
+  "bild_datei": "Pflaume.webp",
+  "audio_datei": "Pflaume.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pflaume",
+    "plural": "die Pflaumen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pflaume",
+        "genitiv": "der Pflaume",
+        "dativ": "der Pflaume",
+        "akkusativ": "die Pflaume"
+      },
+      "plural": {
+        "nominativ": "die Pflaumen",
+        "genitiv": "der Pflaumen",
+        "dativ": "den Pflaumen",
+        "akkusativ": "die Pflaumen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plum"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prune"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برقوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflaumenbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflaumenkuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Birne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zwetschge"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flaume",
+    "Pflaume",
+    "Phlaume",
+    "Pflauhme",
+    "Pflaum",
+    "Pflahme"
+  ]
+}

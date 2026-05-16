@@ -1,0 +1,88 @@
+{
+  "lemma": "Pflegekraft",
+  "wortart": "Nomen",
+  "silben": "Pfle-ge-kraft",
+  "begriffserklaerung": "Eine Pflegekraft ist ein Mensch, der anderen Menschen hilft, die krank, verletzt oder alt sind. Sie wäscht, pflegt und betreut diese Menschen und sorgt dafür, dass es ihnen gut geht.",
+  "beispielsatz": "Die Pflegekraft im Krankenhaus bringt der alten Frau jeden Morgen ihr Frühstück.",
+  "rechtschreibstrategie": "Das Wort „Pflegekraft\" ist aus zwei Wörtern zusammengebaut: „Pflege\" und „Kraft\". Schreib einfach beide Wörter hintereinander – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "pflege",
+    "kraft"
+  ],
+  "bild_datei": "Pflegekraft.webp",
+  "audio_datei": "Pflegekraft.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pflegekraft",
+    "plural": "die Pflegekräfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pflegekraft",
+        "genitiv": "der Pflegekraft",
+        "dativ": "der Pflegekraft",
+        "akkusativ": "die Pflegekraft"
+      },
+      "plural": {
+        "nominativ": "die Pflegekräfte",
+        "genitiv": "der Pflegekräfte",
+        "dativ": "den Pflegekräften",
+        "akkusativ": "die Pflegekräfte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "caregiver / nurse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soignant / soignante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakıcı / hemşire"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُمَرِّض / مُمَرِّضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflege"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kraft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pflegeperson"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenpfleger"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pflegcraft",
+    "Pfleigekraft",
+    "Fleegekraft",
+    "Pflegekrafft",
+    "Pflegekraaft",
+    "Pflegkraft"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Stadt",
+  "wortart": "Nomen",
+  "silben": "Stadt",
+  "begriffserklaerung": "Eine Stadt ist ein großer Ort, in dem viele Menschen zusammen wohnen. Es gibt dort Häuser, Geschäfte, Schulen und viel Verkehr.",
+  "beispielsatz": "In unserer Stadt gibt es einen schönen Park und ein großes Schwimmbad.",
+  "rechtschreibstrategie": "Wenn du „Stadt\" verlängerst, sagst du „Städte\" – dann hörst du das „dt\" am Ende deutlich. Schreib es deshalb mit „dt\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stadt"
+  ],
+  "bild_datei": "Stadt.webp",
+  "audio_datei": "Stadt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "city / town"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ville"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şehir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Städtchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "städtisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadtmitte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dorf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marktplatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stadt",
+    "plural": "die Städte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stadt",
+        "genitiv": "der Stadt",
+        "dativ": "der Stadt",
+        "akkusativ": "die Stadt"
+      },
+      "plural": {
+        "nominativ": "die Städte",
+        "genitiv": "der Städte",
+        "dativ": "den Städten",
+        "akkusativ": "die Städte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stat",
+    "Statt",
+    "Stadt",
+    "Shtadt",
+    "Sdadt",
+    "Schtadt"
+  ]
+}

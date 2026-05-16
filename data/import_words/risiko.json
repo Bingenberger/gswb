@@ -1,0 +1,88 @@
+{
+  "lemma": "Risiko",
+  "wortart": "Nomen",
+  "silben": "Ri-si-ko",
+  "begriffserklaerung": "Ein Risiko ist die Möglichkeit, dass etwas schiefgehen oder gefährlich werden könnte, wenn man etwas tut.",
+  "beispielsatz": "Es ist ein großes Risiko, bei Regen auf dem nassen Boden zu laufen, weil man leicht ausrutschen kann.",
+  "rechtschreibstrategie": "Das Wort „Risiko\" kommt aus dem Italienischen und wird so geschrieben, wie es klingt: Ri-si-ko. Denk daran: Es hat kein „c\" oder „ck\", sondern nur ein „k\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "riskant",
+    "riskieren"
+  ],
+  "bild_datei": "Risiko.webp",
+  "audio_datei": "Risiko.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Risiko",
+    "plural": "die Risiken",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Risiko",
+        "genitiv": "des Risikos",
+        "dativ": "dem Risiko",
+        "akkusativ": "das Risiko"
+      },
+      "plural": {
+        "nominativ": "die Risiken",
+        "genitiv": "der Risiken",
+        "dativ": "den Risiken",
+        "akkusativ": "die Risiken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "risk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "risque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "risk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "riskieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "riskant"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorsicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rissiko",
+    "Risziko",
+    "Risicko",
+    "Risicо",
+    "Risikko",
+    "Rissicko"
+  ]
+}

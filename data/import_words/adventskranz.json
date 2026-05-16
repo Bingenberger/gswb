@@ -1,0 +1,79 @@
+{
+  "lemma": "Adventskranz",
+  "wortart": "Nomen",
+  "silben": "Ad-vents-kranz",
+  "begriffserklaerung": "Ein Adventskranz ist ein runder Kranz aus Tannenzweigen mit vier Kerzen. In der Adventszeit wird jede Woche eine Kerze mehr angezündet.",
+  "beispielsatz": "Auf dem Tisch liegt ein schöner Adventskranz mit vier roten Kerzen.",
+  "rechtschreibstrategie": "Das Wort „Adventskranz\" ist aus zwei Wörtern zusammengesetzt: „Advents\" und „Kranz\". Sprich beide Teile laut, dann schreibst du sie auch richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Advent",
+    "Kranz"
+  ],
+  "bild_datei": "Adventskranz.webp",
+  "audio_datei": "Adventskranz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Advent wreath"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couronne de l'Avent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Advent çelengi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إكليل الميلاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Advent"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kranz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Adventskranz",
+    "plural": "die Adventskränze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Adventskranz",
+        "genitiv": "des Adventskranzes",
+        "dativ": "dem Adventskranz",
+        "akkusativ": "den Adventskranz"
+      },
+      "plural": {
+        "nominativ": "die Adventskränze",
+        "genitiv": "der Adventskränze",
+        "dativ": "den Adventskränzen",
+        "akkusativ": "die Adventskränze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Adventskrans",
+    "Adwentskranz",
+    "Adventskrantz",
+    "Afentskranz",
+    "Adventskrannz"
+  ]
+}

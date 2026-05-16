@@ -1,0 +1,78 @@
+{
+  "lemma": "Kamin",
+  "wortart": "Nomen",
+  "silben": "Ka-min",
+  "begriffserklaerung": "Ein Kamin ist eine offene Feuerstelle in einem Haus, an der man sich wärmen kann. Das Feuer brennt darin, und der Rauch zieht durch einen Schornstein nach oben ab.",
+  "beispielsatz": "An einem kalten Winterabend sitzen wir gemütlich vor dem Kamin und wärmen uns.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ka-min. Der Vokal „a\" klingt lang, deshalb schreibt man nur ein „m\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kamin"
+  ],
+  "bild_datei": "Kamin.webp",
+  "audio_datei": "Kamin.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kamin",
+    "plural": "die Kamine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kamin",
+        "genitiv": "des Kamins",
+        "dativ": "dem Kamin",
+        "akkusativ": "den Kamin"
+      },
+      "plural": {
+        "nominativ": "die Kamine",
+        "genitiv": "der Kamine",
+        "dativ": "den Kaminen",
+        "akkusativ": "die Kamine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fireplace"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cheminée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şömine"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدفأة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kaminfeuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schornstein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuerstelle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cammin",
+    "Kahmin",
+    "Kammin",
+    "Camin",
+    "Kamin"
+  ]
+}

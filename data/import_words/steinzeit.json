@@ -1,0 +1,83 @@
+{
+  "lemma": "Steinzeit",
+  "wortart": "Nomen",
+  "silben": "Stein-zeit",
+  "begriffserklaerung": "Die Steinzeit ist eine sehr alte Zeit in der Geschichte der Menschen. Damals lebten die Menschen als Jäger und Sammler und stellten ihre Werkzeuge aus Stein her.",
+  "beispielsatz": "In der Steinzeit jagten die Menschen Tiere und lebten in Höhlen.",
+  "rechtschreibstrategie": "„Steinzeit\" ist ein zusammengesetztes Wort aus „Stein\" und „Zeit\". Schreibe beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stein",
+    "Zeit"
+  ],
+  "bild_datei": "Steinzeit.webp",
+  "audio_datei": "Steinzeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Stone Age"
+    },
+    {
+      "language_code": "fr",
+      "translation": "âge de pierre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Taş Devri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "العصر الحجري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhlenmensch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Steinzeit",
+    "plural": "die Steinzeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Steinzeit",
+        "genitiv": "der Steinzeit",
+        "dativ": "der Steinzeit",
+        "akkusativ": "die Steinzeit"
+      },
+      "plural": {
+        "nominativ": "die Steinzeiten",
+        "genitiv": "der Steinzeiten",
+        "dativ": "den Steinzeiten",
+        "akkusativ": "die Steinzeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Steinzeid",
+    "Stainzeit",
+    "Steinseit",
+    "Steinzait",
+    "Steynzeit"
+  ]
+}

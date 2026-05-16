@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block title %}Schreibprobe | Grundschul-Wörterbuch{% endblock %}
+
+{% block content %}
+<section class="writing-check-page">
+    <section class="card detail-card writing-intro-card">
+        <p class="eyebrow">Schreibprobe</p>
+        <h1 class="writing-title">Handschrift ansehen und Fehler markieren</h1>
+        <p class="subtitle">
+            Lade ein Foto von einem handgeschriebenen Text hoch. Über jedem erkannten Fehler erscheint ein Symbol.
+            Beim ersten Klick siehst du Kategorie und Tipp. Beim zweiten Klick erscheint das richtige Wort.
+        </p>
+        <div class="mode-hint">
+            Aktueller Modus:
+            <strong>{{ "Gemini-Bildanalyse" if handwriting_mode == "gemini" else "Mock-Prototyp" }}</strong>
+        </div>
+        {% if handwriting_startup_warning %}
+        <p class="upload-error">
+            Gemini wurde angefordert, konnte aber beim Start nicht aktiviert werden.
+            Deshalb läuft aktuell der Mock-Modus.
+        </p>
+        <p class="muted">{{ handwriting_startup_warning }}</p>
+        {% endif %}
+        <form class="writing-upload-form" action="{{ url_for('main.writing_check') }}" method="post" enctype="multipart/form-data">
+            <label class="upload-field">
+                <span>Bild auswählen</span>
+                <input type="file" name="image" accept="image/png,image/jpeg,image/webp" required>
+            </label>
+            <button class="primary-button" type="submit">Schreibprobe prüfen</button>
+        </form>
+        {% if error_message %}
+        <p class="upload-error">{{ error_message }}</p>
+        {% endif %}
+    </section>
+
+    {% if analysis %}
+    <section class="card detail-card writing-result-card">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/pencil-line.svg') }}" alt="">
+            <h2>Analyse der Schreibprobe</h2>
+        </div>
+
+        {% if analysis.recognized_text %}
+        <div class="strategy-box">
+            <span class="example-label">Erkannter Text</span>
+            <p>{{ analysis.recognized_text }}</p>
+        </div>
+        {% endif %}
+
+        <div class="writing-stage" data-writing-stage>
+            <div class="writing-image-frame">
+                <img src="{{ analysis.image_url }}" alt="Hochgeladene Schreibprobe" class="writing-image">
+                <div class="writing-markers-layer" data-writing-markers>
+                    {% for error in analysis.errors %}
+                    <button
+                        class="writing-marker"
+                        type="button"
+                        style="left: {{ error.bbox.x / 10 }}%; top: {{ error.bbox.y / 10 }}%;"
+                        data-marker-button
+                        data-category="{{ error.category }}"
+                        data-tip="{{ error.general_tip }}"
+                        data-correct-word="{{ error.correct_word }}"
+                        data-word-url="{{ error.word_url or '' }}"
+                        aria-label="Hinweis zu {{ error.written_word }}"
+                    >
+                        <img src="{{ url_for('static', filename='vendor/phosphor/tag.svg') }}" alt="">
+                    </button>
+                    {% endfor %}
+                </div>
+            </div>
+            <aside class="writing-info-panel" data-writing-info>
+                <div class="section-heading compact">
+                    <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/book-open-text.svg') }}" alt="">
+                    <h3>Hinweis</h3>
+                </div>
+                <p class="muted">Klicke auf ein Symbol über dem Bild.</p>
+            </aside>
+        </div>
+
+        {% if analysis.errors %}
+        <div class="writing-error-list">
+            {% for error in analysis.errors %}
+            <article class="word-field-box">
+                <p class="field-title">{{ error.written_word }}</p>
+                <p><strong>Kategorie:</strong> {{ error.category or "Noch offen" }}</p>
+                <p><strong>Tipp:</strong> {{ error.general_tip }}</p>
+                <p><strong>Richtig:</strong> {{ error.correct_word }}</p>
+                {% if error.word_url %}
+                <p><a href="{{ error.word_url }}">Zum Wörterbucheintrag</a></p>
+                {% endif %}
+            </article>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p class="muted">Es wurden keine klaren Fehler markiert.</p>
+        {% endif %}
+    </section>
+    <script type="application/json" id="writing-analysis-data">{{ analysis_json | safe }}</script>
+    {% endif %}
+</section>
+{% endblock %}

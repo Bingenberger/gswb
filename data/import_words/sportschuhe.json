@@ -1,0 +1,85 @@
+{
+  "lemma": "Sportschuhe",
+  "wortart": "Nomen",
+  "silben": "Sport-schu-he",
+  "begriffserklaerung": "Sportschuhe sind besondere Schuhe, die man beim Sport trägt. Sie sind bequem und stabil, damit du gut laufen, springen und spielen kannst.",
+  "beispielsatz": "Ich ziehe meine Sportschuhe an, bevor ich auf den Fußballplatz gehe.",
+  "rechtschreibstrategie": "„Sportschuhe\" ist ein zusammengesetztes Wort aus „Sport\" und „Schuhe\". Sprich beide Teile einzeln: SPORT + SCHUHE. Schreib sie dann einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schuh",
+    "Sport"
+  ],
+  "bild_datei": "Sportschuhe.webp",
+  "audio_datei": "Sportschuhe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sports shoes / sneakers"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussures de sport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor ayakkabılar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أحذية رياضية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnschuhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußballschuhe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Turnschuhe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Sportschuh",
+    "plural": "die Sportschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sportschuh",
+        "genitiv": "des Sportschuhs",
+        "dativ": "dem Sportschuh",
+        "akkusativ": "den Sportschuh"
+      },
+      "plural": {
+        "nominativ": "die Sportschuhe",
+        "genitiv": "der Sportschuhe",
+        "dativ": "den Sportschuhen",
+        "akkusativ": "die Sportschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sportschuche",
+    "Sportschuhe",
+    "Sporschuhe",
+    "Sportschu",
+    "Sporttschuhe",
+    "Sportscuhe",
+    "Sportschue"
+  ]
+}

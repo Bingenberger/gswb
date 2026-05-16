@@ -1,0 +1,92 @@
+{
+  "lemma": "Abschnitt",
+  "wortart": "Nomen",
+  "silben": "Ab-schnitt",
+  "begriffserklaerung": "Ein Abschnitt ist ein Teil eines Textes oder einer Strecke, der klar vom Rest getrennt ist.",
+  "beispielsatz": "Lies bitte den ersten Abschnitt des Buches laut vor.",
+  "rechtschreibstrategie": "Das Wort „Abschnitt\" hat am Ende ein doppeltes t, weil der Vokal davor kurz gesprochen wird: schnitt – hör das kurze „i\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schnitt",
+    "schneiden"
+  ],
+  "bild_datei": "Abschnitt.webp",
+  "audio_datei": "Abschnitt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abschnitt",
+    "plural": "die Abschnitte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abschnitt",
+        "genitiv": "des Abschnittes",
+        "dativ": "dem Abschnitt",
+        "akkusativ": "den Abschnitt"
+      },
+      "plural": {
+        "nominativ": "die Abschnitte",
+        "genitiv": "der Abschnitte",
+        "dativ": "den Abschnitten",
+        "akkusativ": "die Abschnitte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "section"
+    },
+    {
+      "language_code": "fr",
+      "translation": "section"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bölüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقطع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnitt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Text"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Absatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abschnit",
+    "Abschnidt",
+    "Abschnidd",
+    "Absschnitt",
+    "Apschnitt"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Schmirgelpapier",
+  "wortart": "Nomen",
+  "silben": "Schmir-gel-pa-pier",
+  "begriffserklaerung": "Schmirgelpapier ist ein raues Papier, das mit winzigen harten Körnchen bedeckt ist. Man benutzt es, um Holz, Metall oder andere Oberflächen glatt zu schleifen.",
+  "beispielsatz": "Papa schleift die alte Holzbank mit Schmirgelpapier, damit sie schön glatt wird.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Schmir-gel\" + „Pa-pier\". Sprich alle Teile einzeln, dann kannst du es richtig schreiben. Das „ie\" in „Papier\" klingt lang – das merkst du dir als Merkwort.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schmirgeln",
+    "Papier"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schmirgelpapier",
+    "plural": "die Schmirgelpapiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schmirgelpapier",
+        "genitiv": "des Schmirgelpapiers",
+        "dativ": "dem Schmirgelpapier",
+        "akkusativ": "das Schmirgelpapier"
+      },
+      "plural": {
+        "nominativ": "die Schmirgelpapiere",
+        "genitiv": "der Schmirgelpapiere",
+        "dativ": "den Schmirgelpapieren",
+        "akkusativ": "die Schmirgelpapiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schmirgelpapir",
+    "Schmirgelpapier",
+    "Schmiergelpapier",
+    "Schmürgelpapier",
+    "Schirgelpapier",
+    "Schmirgelpapie",
+    "Schmigelpapier"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmirgeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmirgelstein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schleifpapier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sandpapier"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sandpaper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papier de verre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zımpara kağıdı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورق الصنفرة"
+    }
+  ],
+  "bild_datei": "Schmirgelpapier.webp",
+  "audio_datei": "Schmirgelpapier.mp3"
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Verbrennungsdreieck",
+  "wortart": "Nomen",
+  "silben": "Ver-bren-nungs-drei-eck",
+  "begriffserklaerung": "Das Verbrennungsdreieck zeigt, was man braucht, damit etwas brennen kann: Sauerstoff, Brennstoff und Wärme. Fehlt eine dieser drei Seiten, erlischt das Feuer.",
+  "beispielsatz": "In der Feuerwehrstunde hat uns die Lehrerin erklärt, wie das Verbrennungsdreieck funktioniert.",
+  "rechtschreibstrategie": "Das Wort ist aus drei Teilen zusammengebaut: „Ver-bren-nung\" + „s\" + „Drei-eck\". Sprich alle Teile laut mit und schreibe sie nacheinander auf!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "brennen",
+    "Drei",
+    "Eck"
+  ],
+  "bild_datei": "Verbrennungsdreieck.webp",
+  "audio_datei": "Verbrennungsdreieck.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verbrennungsdreieck",
+    "plural": "die Verbrennungsdreiecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verbrennungsdreieck",
+        "genitiv": "des Verbrennungsdreiecks",
+        "dativ": "dem Verbrennungsdreieck",
+        "akkusativ": "das Verbrennungsdreieck"
+      },
+      "plural": {
+        "nominativ": "die Verbrennungsdreiecke",
+        "genitiv": "der Verbrennungsdreiecke",
+        "dativ": "den Verbrennungsdreiecken",
+        "akkusativ": "die Verbrennungsdreiecke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire triangle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "triangle du feu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanma üçgeni"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مثلث الاحتراق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verbrennung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sauerstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brandschutz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferbrennungsdreieck",
+    "Verbrennungsdreiehck",
+    "Verbrennungsdreiäck",
+    "Verbrenungsdreieck",
+    "Verbrennungsdreick",
+    "Verbrennnungsdreieck"
+  ]
+}

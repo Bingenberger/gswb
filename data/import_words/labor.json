@@ -1,0 +1,82 @@
+{
+  "lemma": "Labor",
+  "wortart": "Nomen",
+  "silben": "La-bor",
+  "begriffserklaerung": "Ein Labor ist ein besonderer Raum, in dem Wissenschaftlerinnen und Wissenschaftler Experimente durchführen und forschen.",
+  "beispielsatz": "Im Labor untersucht die Forscherin mit einem Mikroskop winzige Bakterien.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: La-bor. Das „a\" in der ersten Silbe ist kurz, aber es folgt kein Doppelkonsonant – merke dir einfach: ein „b\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Labor"
+  ],
+  "bild_datei": "Labor.webp",
+  "audio_datei": "Labor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "laboratory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laboratoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "laboratuvar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مختبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laborant"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Laboratorium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikroskop"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forscher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Labor",
+    "plural": "die Labore",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Labor",
+        "genitiv": "des Labors",
+        "dativ": "dem Labor",
+        "akkusativ": "das Labor"
+      },
+      "plural": {
+        "nominativ": "die Labore",
+        "genitiv": "der Labore",
+        "dativ": "den Laboren",
+        "akkusativ": "die Labore"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laboor",
+    "Laabor",
+    "Labore",
+    "Labhor",
+    "Labbor"
+  ]
+}

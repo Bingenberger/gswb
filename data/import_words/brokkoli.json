@@ -1,0 +1,72 @@
+{
+  "lemma": "Brokkoli",
+  "wortart": "Nomen",
+  "silben": "Brok-ko-li",
+  "begriffserklaerung": "Brokkoli ist ein grünes Gemüse mit vielen kleinen Röschen, das sehr gesund ist und viele Vitamine enthält.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Brokkoli mit Käsesoße.",
+  "rechtschreibstrategie": "Denk an das doppelte k in der Mitte: Brok-ko-li. Sprich alle drei Silben deutlich: BROK – KO – LI.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Brokkoli.webp",
+  "audio_datei": "Brokkoli.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brokkoli",
+    "plural": "die Brokkolis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brokkoli",
+        "genitiv": "des Brokkolis",
+        "dativ": "dem Brokkoli",
+        "akkusativ": "den Brokkoli"
+      },
+      "plural": {
+        "nominativ": "die Brokkolis",
+        "genitiv": "der Brokkolis",
+        "dativ": "den Brokkolis",
+        "akkusativ": "die Brokkolis"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "broccoli"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brocoli"
+    },
+    {
+      "language_code": "tr",
+      "translation": "brokoli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بروكلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karotte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blumenkohl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Brokoli",
+    "Broccoli",
+    "Brokkolie",
+    "Brokkoly",
+    "Brocoli"
+  ]
+}

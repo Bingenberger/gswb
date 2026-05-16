@@ -1,0 +1,87 @@
+{
+  "lemma": "Nacht",
+  "wortart": "Nomen",
+  "silben": "Nacht",
+  "begriffserklaerung": "Die Nacht ist die dunkle Zeit, wenn die Sonne nicht scheint und viele Menschen schlafen.",
+  "beispielsatz": "In der Nacht leuchten die Sterne am Himmel.",
+  "rechtschreibstrategie": "Das Wort „Nacht\" endet auf -cht. Sprich es laut: Nacht – du hörst das ch und das t. Denke an „nachts\" – dann siehst du die Schreibung noch besser!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "nacht"
+  ],
+  "bild_datei": "Nacht.webp",
+  "audio_datei": "Nacht.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nacht",
+    "plural": "die Nächte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nacht",
+        "genitiv": "der Nacht",
+        "dativ": "der Nacht",
+        "akkusativ": "die Nacht"
+      },
+      "plural": {
+        "nominativ": "die Nächte",
+        "genitiv": "der Nächte",
+        "dativ": "den Nächten",
+        "akkusativ": "die Nächte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "night"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nuit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gece"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nächtlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "übernachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dunkelheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dunkelheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nacht",
+    "Naacht",
+    "Nackt",
+    "Nact",
+    "Nakcht",
+    "Nachd"
+  ]
+}

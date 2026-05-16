@@ -1,0 +1,90 @@
+{
+  "lemma": "Tanz",
+  "wortart": "Nomen",
+  "silben": "Tanz",
+  "begriffserklaerung": "Ein Tanz ist eine Folge von Bewegungen, die du zur Musik machst. Man kann alleine, zu zweit oder in einer Gruppe tanzen.",
+  "beispielsatz": "Beim Schulfest zeigten die Kinder einen bunten Tanz.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" kommt „tz\" – das ist das Kürzezeichen. Denke daran: kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tanz"
+  ],
+  "bild_datei": "Tanz.webp",
+  "audio_datei": "Tanz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "danse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dans"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقصة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tanzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tänzer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tanzschule"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rhythmus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tanz",
+    "plural": "die Tänze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tanz",
+        "genitiv": "des Tanzes",
+        "dativ": "dem Tanz",
+        "akkusativ": "den Tanz"
+      },
+      "plural": {
+        "nominativ": "die Tänze",
+        "genitiv": "der Tänze",
+        "dativ": "den Tänzen",
+        "akkusativ": "die Tänze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tans",
+    "Danz",
+    "Tanz",
+    "Tantz",
+    "Tannz"
+  ]
+}

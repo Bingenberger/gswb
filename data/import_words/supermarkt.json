@@ -1,0 +1,78 @@
+{
+  "lemma": "Supermarkt",
+  "wortart": "Nomen",
+  "silben": "Su-per-markt",
+  "begriffserklaerung": "Ein Supermarkt ist ein großes Geschäft, in dem man viele verschiedene Dinge kaufen kann, zum Beispiel Lebensmittel, Getränke und Haushaltswaren.",
+  "beispielsatz": "Mama kauft im Supermarkt frisches Obst und Gemüse.",
+  "rechtschreibstrategie": "„Supermarkt\" ist aus zwei Teilen zusammengesetzt: „Super\" und „Markt\". Schreibe beide Teile einfach hintereinander – kein Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Markt"
+  ],
+  "bild_datei": "Supermarkt.webp",
+  "audio_datei": "Supermarkt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "supermarket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "supermarché"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süpermarket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوبرماركت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufsmarkt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Supermarkt",
+    "plural": "die Supermärkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Supermarkt",
+        "genitiv": "des Supermarkts",
+        "dativ": "dem Supermarkt",
+        "akkusativ": "den Supermarkt"
+      },
+      "plural": {
+        "nominativ": "die Supermärkte",
+        "genitiv": "der Supermärkte",
+        "dativ": "den Supermärkten",
+        "akkusativ": "die Supermärkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Supermarct",
+    "Suupermarkt",
+    "Supermargt",
+    "Zupermarkt",
+    "Supermarck"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Energie",
+  "wortart": "Nomen",
+  "silben": "E-ner-gie",
+  "begriffserklaerung": "Energie ist die Kraft, die Menschen, Tiere, Maschinen und Pflanzen brauchen, um etwas tun oder bewegen zu können.",
+  "beispielsatz": "Die Sonne gibt uns Energie, damit Pflanzen wachsen können.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: E – ner – gie. Am Ende klingt es wie „gii\" – denk an das „ie\" am Schluss!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "energi-"
+  ],
+  "bild_datei": "Energie.webp",
+  "audio_datei": "Energie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Energie",
+    "plural": "die Energien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Energie",
+        "genitiv": "der Energie",
+        "dativ": "der Energie",
+        "akkusativ": "die Energie"
+      },
+      "plural": {
+        "nominativ": "die Energien",
+        "genitiv": "der Energien",
+        "dativ": "den Energien",
+        "akkusativ": "die Energien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "energy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "énergie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "enerji"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "energisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Energiequelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kraft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eneregie",
+    "Enerji",
+    "Energi",
+    "Änergie",
+    "Ennergie"
+  ]
+}

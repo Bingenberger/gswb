@@ -1,0 +1,90 @@
+{
+  "lemma": "Pferd",
+  "wortart": "Nomen",
+  "silben": "Pferd",
+  "begriffserklaerung": "Ein Pferd ist ein großes Tier mit vier Beinen, einer Mähne und einem langen Schwanz. Menschen reiten auf Pferden oder spannen sie vor Wagen.",
+  "beispielsatz": "Das braune Pferd galoppiert schnell über die Wiese.",
+  "rechtschreibstrategie": "Denk an das stumme „d\" am Ende: Du hörst zwar ein „t\", aber wenn du verlängerst, hörst du „Pfer-de\" – also schreibst du Pferd mit „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Pferd"
+  ],
+  "bild_datei": "Pferd.webp",
+  "audio_datei": "Pferd.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "horse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cheval"
+    },
+    {
+      "language_code": "tr",
+      "translation": "at"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pferdestall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pferdeschwanz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reitpferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Esel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reiten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ross"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pferd",
+    "plural": "die Pferde",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pferd",
+        "genitiv": "des Pferdes",
+        "dativ": "dem Pferd",
+        "akkusativ": "das Pferd"
+      },
+      "plural": {
+        "nominativ": "die Pferde",
+        "genitiv": "der Pferde",
+        "dativ": "den Pferden",
+        "akkusativ": "die Pferde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pfert",
+    "Ferd",
+    "Perd",
+    "Pherd",
+    "Pfärd"
+  ]
+}

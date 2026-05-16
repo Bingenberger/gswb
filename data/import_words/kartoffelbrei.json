@@ -1,0 +1,89 @@
+{
+  "lemma": "Kartoffelbrei",
+  "wortart": "Nomen",
+  "silben": "Kar-tof-fel-brei",
+  "begriffserklaerung": "Kartoffelbrei ist ein weiches, cremiges Gericht, das aus gekochten und zerdrückten Kartoffeln gemacht wird. Oft gibt man Butter und Milch dazu.",
+  "beispielsatz": "Zum Mittagessen gibt es heute Kartoffelbrei mit Soße – das schmeckt mir am liebsten!",
+  "rechtschreibstrategie": "Kartoffelbrei ist ein Bausteinwort aus zwei Teilen: „Kartoffel\" und „Brei\". Wenn du beide Teile kennst, kannst du das Wort leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kartoffel",
+    "Brei"
+  ],
+  "bild_datei": "Kartoffelbrei.webp",
+  "audio_datei": "Kartoffelbrei.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kartoffelbrei",
+    "plural": "die Kartoffelbreie",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kartoffelbrei",
+        "genitiv": "des Kartoffelbreis",
+        "dativ": "dem Kartoffelbrei",
+        "akkusativ": "den Kartoffelbrei"
+      },
+      "plural": {
+        "nominativ": "die Kartoffelbreie",
+        "genitiv": "der Kartoffelbreie",
+        "dativ": "den Kartoffelbreien",
+        "akkusativ": "die Kartoffelbreie"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mashed potatoes"
+    },
+    {
+      "language_code": "fr",
+      "translation": "purée de pommes de terre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patates püresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هريسة البطاطس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kartoffel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kartoffelpüree"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kartoffelsuppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittagessen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kartoffelbray",
+    "Kartofelbrei",
+    "Kartoffelbrei",
+    "Cartoffelbrei",
+    "Kartoffelbre",
+    "Kartoffelbreii"
+  ]
+}

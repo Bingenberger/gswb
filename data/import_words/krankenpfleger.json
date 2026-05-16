@@ -1,0 +1,85 @@
+{
+  "lemma": "Krankenpfleger",
+  "wortart": "Nomen",
+  "silben": "Kran-ken-pfle-ger",
+  "begriffserklaerung": "Ein Krankenpfleger ist ein Mann, der kranke oder verletzte Menschen pflegt und ihnen im Krankenhaus oder zu Hause hilft.",
+  "beispielsatz": "Der Krankenpfleger bringt dem kranken Kind seine Medizin und lächelt es freundlich an.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „krank\" und „Pfleger\". Sprich beide Teile laut: KRANK + EN + PFLEGER. Denk an das „k\" am Ende von „krank\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "krank",
+    "pflegen"
+  ],
+  "bild_datei": "Krankenpfleger.webp",
+  "audio_datei": "Krankenpfleger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Krankenpfleger",
+    "plural": "die Krankenpfleger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Krankenpfleger",
+        "genitiv": "des Krankenpflegers",
+        "dativ": "dem Krankenpfleger",
+        "akkusativ": "den Krankenpfleger"
+      },
+      "plural": {
+        "nominativ": "die Krankenpfleger",
+        "genitiv": "der Krankenpfleger",
+        "dativ": "den Krankenpflegern",
+        "akkusativ": "die Krankenpfleger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "male nurse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "infirmier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erkek hemşire"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenschwester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Krankenpfläger",
+    "Krankenpflegger",
+    "Krankenpfleker",
+    "Krankenpfleger",
+    "Cranckenpfleger",
+    "Krankenpfleeger"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Hals",
+  "wortart": "Nomen",
+  "silben": "Hals",
+  "begriffserklaerung": "Der Hals ist der Teil des Körpers, der den Kopf mit dem Rumpf verbindet. Durch den Hals gehen Speiseröhre und Luftröhre.",
+  "beispielsatz": "Der Schal wärmt meinen Hals im Winter.",
+  "rechtschreibstrategie": "Verlängere das Wort: Hals → Hälse. So hörst du, dass am Ende ein s steht und kein z.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hals"
+  ],
+  "bild_datei": "Hals.webp",
+  "audio_datei": "Hals.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "neck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boyun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halskette"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halstuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kehle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kehle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hals",
+    "plural": "die Hälse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hals",
+        "genitiv": "des Halses",
+        "dativ": "dem Hals",
+        "akkusativ": "den Hals"
+      },
+      "plural": {
+        "nominativ": "die Hälse",
+        "genitiv": "der Hälse",
+        "dativ": "den Hälsen",
+        "akkusativ": "die Hälse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Halz",
+    "Hahls",
+    "Halls",
+    "Halss"
+  ]
+}

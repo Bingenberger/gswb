@@ -1,0 +1,82 @@
+{
+  "lemma": "Prinzessin",
+  "wortart": "Nomen",
+  "silben": "Prin-zes-sin",
+  "begriffserklaerung": "Eine Prinzessin ist die Tochter eines Königs oder einer Königin. Sie gehört zur königlichen Familie.",
+  "beispielsatz": "Die Prinzessin trägt eine goldene Krone und ein langes Kleid.",
+  "rechtschreibstrategie": "Achte auf das doppelte „s\" am Ende: Prin-zes-sin. Sprich alle drei Silben laut mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Prinz"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Prinzessin",
+    "plural": "die Prinzessinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Prinzessin",
+        "genitiv": "der Prinzessin",
+        "dativ": "der Prinzessin",
+        "akkusativ": "die Prinzessin"
+      },
+      "plural": {
+        "nominativ": "die Prinzessinnen",
+        "genitiv": "der Prinzessinnen",
+        "dativ": "den Prinzessinnen",
+        "akkusativ": "die Prinzessinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "princess"
+    },
+    {
+      "language_code": "fr",
+      "translation": "princesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "prenses"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أميرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Prinz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Prinzessinnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "König"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Königin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Prinzessin",
+    "Prinzessing",
+    "Prinzesin",
+    "Princessin",
+    "Prinzässin"
+  ],
+  "bild_datei": "Prinzessin.webp",
+  "audio_datei": "Prinzessin.mp3"
+}

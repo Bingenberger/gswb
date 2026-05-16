@@ -1,0 +1,90 @@
+{
+  "lemma": "schnitzen",
+  "wortart": "Verb",
+  "silben": "schnit-zen",
+  "begriffserklaerung": "Schnitzen bedeutet, mit einem Messer oder einem Schnitzmesser Formen aus Holz herauszuarbeiten.",
+  "beispielsatz": "Opa schnitzt aus einem Ast eine kleine Holzfigur.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „tz\" – das ist das Kürzezeichen! Sprich: schnit-zen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schnitz"
+  ],
+  "bild_datei": "schnitzen.webp",
+  "audio_datei": "schnitzen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schnitzen",
+    "praesens": {
+      "ich": "schnitze",
+      "du": "schnitzt",
+      "er_sie_es": "schnitzt",
+      "wir": "schnitzen",
+      "ihr": "schnitzt",
+      "sie": "schnitzen"
+    },
+    "perfekt": {
+      "ich": "habe geschnitzt",
+      "du": "hast geschnitzt",
+      "er_sie_es": "hat geschnitzt",
+      "wir": "haben geschnitzt",
+      "ihr": "habt geschnitzt",
+      "sie": "haben geschnitzt"
+    },
+    "praeteritum": {
+      "ich": "schnitzte",
+      "du": "schnitztest",
+      "er_sie_es": "schnitzte",
+      "wir": "schnitzte",
+      "ihr": "schnitztet",
+      "sie": "schnitzte"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to carve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sculpter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oymak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينحت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnitzer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnitzerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sägen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "basteln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schneiden"
+    }
+  ],
+  "fehlschreibungen": [
+    "shnitzen",
+    "schnnitzen",
+    "schniezen",
+    "schnitsen",
+    "schnizzen"
+  ]
+}

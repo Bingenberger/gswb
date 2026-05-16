@@ -1,0 +1,96 @@
+{
+  "lemma": "gebären",
+  "wortart": "Verb",
+  "silben": "ge-bä-ren",
+  "begriffserklaerung": "Wenn ein Lebewesen ein Kind oder ein Jungtier zur Welt bringt, sagt man, es gebärt. So kommt ein Baby auf die Welt.",
+  "beispielsatz": "Die Katze hat heute Nacht vier süße Kätzchen geboren.",
+  "rechtschreibstrategie": "Denk an das Wort „Geburt\" – beide Wörter haben dasselbe „ä\" und gehören zur gleichen Wortfamilie. Das hilft dir, das „ä\" richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "gebär",
+    "geburt"
+  ],
+  "bild_datei": "gebären.webp",
+  "audio_datei": "gebären.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to give birth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accoucher / donner naissance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يلد / تلد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geboren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburtstagsind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zur Welt bringen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "gebären",
+    "praesens": {
+      "ich": "gebäre",
+      "du": "gebierst",
+      "er_sie_es": "gebiert",
+      "wir": "gebären",
+      "ihr": "gebärt",
+      "sie": "gebären"
+    },
+    "perfekt": {
+      "ich": "habe geboren",
+      "du": "hast geboren",
+      "er_sie_es": "hat geboren",
+      "wir": "haben geboren",
+      "ihr": "habt geboren",
+      "sie": "haben geboren"
+    },
+    "praeteritum": {
+      "ich": "gebar",
+      "du": "gebarst",
+      "er_sie_es": "gebar",
+      "wir": "gebaren",
+      "ihr": "gebaret",
+      "sie": "gebaren"
+    }
+  },
+  "fehlschreibungen": [
+    "gebehren",
+    "gebieren",
+    "gebeeren",
+    "gebähren",
+    "gebaehren"
+  ]
+}

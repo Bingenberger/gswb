@@ -1,0 +1,97 @@
+{
+  "lemma": "kontrollieren",
+  "wortart": "Verb",
+  "silben": "kon-trol-lie-ren",
+  "begriffserklaerung": "Etwas genau anschauen oder nachprüfen, ob alles stimmt und in Ordnung ist.",
+  "beispielsatz": "Die Lehrerin kontrolliert die Hausaufgaben der Kinder.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: kon-trol-lie-ren. Achte auf das „ie\" in der dritten Silbe – das hörst du lang, aber es ist ein Merkwort mit „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Kontrolle",
+    "kontroll"
+  ],
+  "bild_datei": "kontrollieren.webp",
+  "audio_datei": "kontrollieren.mp3",
+  "grammatische_formen": {
+    "infinitiv": "kontrollieren",
+    "praesens": {
+      "ich": "kontrolliere",
+      "du": "kontrollierst",
+      "er_sie_es": "kontrolliert",
+      "wir": "kontrollieren",
+      "ihr": "kontrolliert",
+      "sie": "kontrollieren"
+    },
+    "perfekt": {
+      "ich": "habe kontrolliert",
+      "du": "hast kontrolliert",
+      "er_sie_es": "hat kontrolliert",
+      "wir": "haben kontrolliert",
+      "ihr": "habt kontrolliert",
+      "sie": "haben kontrolliert"
+    },
+    "praeteritum": {
+      "ich": "kontrollierte",
+      "du": "kontrolliertest",
+      "er_sie_es": "kontrollierte",
+      "wir": "kontrollierten",
+      "ihr": "kontrolliertet",
+      "sie": "kontrollierten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to check / to control"
+    },
+    {
+      "language_code": "fr",
+      "translation": "contrôler / vérifier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kontrol etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتحقق / يراقب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kontrolle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kontrolleur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nachprüfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "überprüfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "prüfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beobachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "untersuchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "controlieren",
+    "kontrolieren",
+    "kontrolliren"
+  ]
+}

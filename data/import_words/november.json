@@ -1,0 +1,73 @@
+{
+  "lemma": "November",
+  "wortart": "Nomen",
+  "silben": "No-vem-ber",
+  "begriffserklaerung": "Der November ist der elfte Monat im Jahr. Er hat 30 Tage und liegt zwischen Oktober und Dezember. Im November wird es draußen oft kalt, grau und neblig.",
+  "beispielsatz": "Im November fallen die letzten bunten Blätter von den Bäumen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: No-vem-ber. Das „v\" klingt wie ein „f\" – aber schreib es mit „v\" wie in „Vogel\". Denk dir: „No-VEM-ber\" – das V musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "November.webp",
+  "audio_datei": "November.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "November"
+    },
+    {
+      "language_code": "fr",
+      "translation": "novembre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Kasım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نوفمبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Oktober"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dezember"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Monat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der November",
+    "plural": "die November",
+    "deklination": {
+      "singular": {
+        "nominativ": "der November",
+        "genitiv": "des Novembers",
+        "dativ": "dem November",
+        "akkusativ": "den November"
+      },
+      "plural": {
+        "nominativ": "die November",
+        "genitiv": "der November",
+        "dativ": "den Novembern",
+        "akkusativ": "die November"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nowember",
+    "Novembar",
+    "Nofember",
+    "Novemberg",
+    "Novemper",
+    "Novembe"
+  ]
+}

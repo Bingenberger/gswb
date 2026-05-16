@@ -1,0 +1,84 @@
+{
+  "lemma": "Ordner",
+  "wortart": "Nomen",
+  "silben": "Ord-ner",
+  "begriffserklaerung": "Ein Ordner ist eine Mappe aus Pappe oder Plastik, in der man Blätter und Papiere aufbewahrt und sortiert.",
+  "beispielsatz": "Ich hefte meine Schulblätter sorgfältig in den blauen Ordner.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ord-ner. Das „d\" hörst du beim Sprechen klar – schreib es auch so!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "ordnen",
+    "Ordnung"
+  ],
+  "bild_datei": "Ordner.webp",
+  "audio_datei": "Ordner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "folder / binder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "classeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dosya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِلَفّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ordnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ordnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mappe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hefter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hefter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ordner",
+    "plural": "die Ordner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ordner",
+        "genitiv": "des Ordners",
+        "dativ": "dem Ordner",
+        "akkusativ": "den Ordner"
+      },
+      "plural": {
+        "nominativ": "die Ordner",
+        "genitiv": "der Ordner",
+        "dativ": "den Ordnern",
+        "akkusativ": "die Ordner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ortner",
+    "Ordnner",
+    "Ordener",
+    "Ordnar",
+    "Ordnehr"
+  ]
+}

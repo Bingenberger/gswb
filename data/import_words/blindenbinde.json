@@ -1,0 +1,84 @@
+{
+  "lemma": "Blindenbinde",
+  "wortart": "Nomen",
+  "silben": "Blin-den-bin-de",
+  "begriffserklaerung": "Eine Blindenbinde ist eine Binde, die man über die Augen trägt, damit man nichts sehen kann. Sie wird zum Beispiel bei Spielen oder beim Üben benutzt.",
+  "beispielsatz": "Bei dem Spiel trägt Lisa eine Blindenbinde über den Augen und muss die anderen Kinder suchen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Blinden\" und „Binde\". Sprich beide Teile deutlich: BLIN-DEN-BIN-DE. Das „d\" in „Blinden\" erkennst du, wenn du verlängerst: blinde → blinden.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "blind",
+    "bind"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blindenbinde",
+    "plural": "die Blindenbinden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blindenbinde",
+        "genitiv": "der Blindenbinde",
+        "dativ": "der Blindenbinde",
+        "akkusativ": "die Blindenbinde"
+      },
+      "plural": {
+        "nominativ": "die Blindenbinden",
+        "genitiv": "der Blindenbinden",
+        "dativ": "den Blindenbinden",
+        "akkusativ": "die Blindenbinden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blindenbinte",
+    "Blintenbinde",
+    "Blindenbinnde",
+    "Blindebinde",
+    "Blindenbind"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blindfold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bandeau pour les yeux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göz bağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصابة العيون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Binde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Augenbinde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Augenbinde"
+    }
+  ],
+  "bild_datei": "Blindenbinde.webp",
+  "audio_datei": "Blindenbinde.mp3"
+}

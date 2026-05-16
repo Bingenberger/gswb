@@ -1,0 +1,72 @@
+{
+  "lemma": "Joghurt",
+  "wortart": "Nomen",
+  "silben": "Jog-hurt",
+  "begriffserklaerung": "Joghurt ist eine dicke, cremige Speise aus Milch. Milchbakterien machen die Milch dabei fest und leicht säuerlich.",
+  "beispielsatz": "Zum Frühstück esse ich einen Joghurt mit frischen Erdbeeren.",
+  "rechtschreibstrategie": "Denk an das „gh\" in der Mitte – das klingt wie ein einfaches „g\". Merke dir: Jog-hurt, mit „gh\" wie im Fremdwort!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Joghurt.webp",
+  "audio_datei": "Joghurt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "yogurt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "yaourt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yoğurt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زبادي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quark"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Joghurt",
+    "plural": "die Joghurts",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Joghurt",
+        "genitiv": "des Joghurts",
+        "dativ": "dem Joghurt",
+        "akkusativ": "den Joghurt"
+      },
+      "plural": {
+        "nominativ": "die Joghurts",
+        "genitiv": "der Joghurts",
+        "dativ": "den Joghurts",
+        "akkusativ": "die Joghurts"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jogurt",
+    "Joghuhrt",
+    "Joguhrt",
+    "Yoghurt",
+    "Yogurt"
+  ]
+}

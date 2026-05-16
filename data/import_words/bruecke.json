@@ -1,0 +1,82 @@
+{
+  "lemma": "Brücke",
+  "wortart": "Nomen",
+  "silben": "Brü-cke",
+  "begriffserklaerung": "Eine Brücke ist ein Bauwerk, das über ein Hindernis wie einen Fluss, eine Straße oder ein Tal führt, damit man sicher auf die andere Seite gelangen kann.",
+  "beispielsatz": "Wir überqueren die Brücke über den Fluss mit dem Fahrrad.",
+  "rechtschreibstrategie": "Nach dem kurzen „ü\" kommt „ck\" – das ist das Kürzezeichen! Schreib also „Brü-cke\" und nicht „Brüke\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Brücke"
+  ],
+  "bild_datei": "Brücke.webp",
+  "audio_datei": "Brücke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bridge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pont"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köprü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جسر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "überbrücken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brückenbau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tunnel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Brücke",
+    "plural": "die Brücken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Brücke",
+        "genitiv": "der Brücke",
+        "dativ": "der Brücke",
+        "akkusativ": "die Brücke"
+      },
+      "plural": {
+        "nominativ": "die Brücken",
+        "genitiv": "der Brücken",
+        "dativ": "den Brücken",
+        "akkusativ": "die Brücken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brüke",
+    "Brükke",
+    "Brüccke",
+    "Brücken",
+    "Brügge"
+  ]
+}

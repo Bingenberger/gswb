@@ -1,0 +1,95 @@
+{
+  "lemma": "einschalten",
+  "wortart": "Verb",
+  "silben": "ein-schal-ten",
+  "begriffserklaerung": "Etwas einschalten bedeutet, ein Gerät zum Laufen zu bringen, indem man den Schalter oder Knopf betätigt.",
+  "beispielsatz": "Mama schaltet abends den Fernseher ein.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „ein\" und „schalten\". Sprich beide Teile laut: ein – schal – ten. Das „sch\" klingt wie in „Schule\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schalten"
+  ],
+  "bild_datei": "einschalten.webp",
+  "audio_datei": "einschalten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to turn on"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُشغِّل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schalten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausschalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anschalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernseher"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "einschalten",
+    "praesens": {
+      "ich": "schalte ein",
+      "du": "schaltest ein",
+      "er_sie_es": "schaltet ein",
+      "wir": "schalten ein",
+      "ihr": "schaltet ein",
+      "sie": "schalten ein"
+    },
+    "perfekt": {
+      "ich": "habe eingeschaltet",
+      "du": "hast eingeschaltet",
+      "er_sie_es": "hat eingeschaltet",
+      "wir": "haben eingeschaltet",
+      "ihr": "habt eingeschaltet",
+      "sie": "haben eingeschaltet"
+    },
+    "praeteritum": {
+      "ich": "schaltete ein",
+      "du": "schaltetest ein",
+      "er_sie_es": "schaltete ein",
+      "wir": "schalteten ein",
+      "ihr": "schaltetet ein",
+      "sie": "schalteten ein"
+    }
+  },
+  "fehlschreibungen": [
+    "einschalden",
+    "einschatten",
+    "einschallten",
+    "einzschalten",
+    "einscalten",
+    "einschalten"
+  ]
+}

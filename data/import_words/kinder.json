@@ -1,0 +1,91 @@
+{
+  "lemma": "Kinder",
+  "wortart": "Nomen",
+  "silben": "Kin-der",
+  "begriffserklaerung": "Kinder sind junge Menschen, die noch nicht erwachsen sind. Ein einzelnes Kind kann ein Mädchen oder ein Junge sein.",
+  "beispielsatz": "Die Kinder spielen fröhlich auf dem Schulhof.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kin-der\". Höre, dass das „i\" kurz klingt – deshalb folgt danach ein „n\" und kein Dehnungs-h. Das „d\" hörst du beim Verlängern deutlich: ein Kind – viele Kinder.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kind"
+  ],
+  "bild_datei": "Kinder.webp",
+  "audio_datei": "Kinder.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Kind",
+    "plural": "die Kinder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kind",
+        "genitiv": "des Kindes",
+        "dativ": "dem Kind",
+        "akkusativ": "das Kind"
+      },
+      "plural": {
+        "nominativ": "die Kinder",
+        "genitiv": "der Kinder",
+        "dativ": "den Kindern",
+        "akkusativ": "die Kinder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "children"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enfants"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çocuklar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أطفال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kindlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kindheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Jungs und Mädchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kider",
+    "Kindär",
+    "Kinnder",
+    "Kindder",
+    "Kinter"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Fuchs",
+  "wortart": "Nomen",
+  "silben": "Fuchs",
+  "begriffserklaerung": "Ein Fuchs ist ein wild lebendes Tier mit rotem Fell, einem buschigen Schwanz und spitzen Ohren. Füchse leben in Wäldern und Feldern und gelten als besonders schlau.",
+  "beispielsatz": "Der Fuchs schleicht leise durch den Wald und sucht etwas zu fressen.",
+  "rechtschreibstrategie": "Das Wort „Fuchs\" schreibt man mit chs am Ende – sprich es laut: FUCKS. So hörst du alle Buchstaben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Fuchs"
+  ],
+  "bild_datei": "Fuchs.webp",
+  "audio_datei": "Fuchs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "renard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tilki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثعلب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Füchsin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fuchsrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachs"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Fuchs",
+    "plural": "Füchse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fuchs",
+        "genitiv": "des Fuchses",
+        "dativ": "dem Fuchs",
+        "akkusativ": "den Fuchs"
+      },
+      "plural": {
+        "nominativ": "die Füchse",
+        "genitiv": "der Füchse",
+        "dativ": "den Füchsen",
+        "akkusativ": "die Füchse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fucks",
+    "Fuks",
+    "Fux",
+    "Fuchß",
+    "Fuchs"
+  ]
+}

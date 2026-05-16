@@ -1,0 +1,82 @@
+{
+  "lemma": "Haken",
+  "wortart": "Nomen",
+  "silben": "Ha-ken",
+  "begriffserklaerung": "Ein Haken ist ein gebogenes Stück aus Metall oder Plastik, an dem man Dinge aufhängen kann.",
+  "beispielsatz": "Ich hänge meine Jacke an den Haken an der Tür.",
+  "rechtschreibstrategie": "Das Wort „Haken\" hat nach dem langen „a\" ein „k\" – sprich es laut: Ha-ken. Das „k\" einfach mitsprechen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hak"
+  ],
+  "bild_datei": "Haken.webp",
+  "audio_datei": "Haken.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Haken",
+    "plural": "die Haken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Haken",
+        "genitiv": "des Hakens",
+        "dativ": "dem Haken",
+        "akkusativ": "den Haken"
+      },
+      "plural": {
+        "nominativ": "die Haken",
+        "genitiv": "der Haken",
+        "dativ": "den Haken",
+        "akkusativ": "die Haken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crochet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanca"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Häkchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleiderhaken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Öse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hacken",
+    "Haaken",
+    "Hagen",
+    "Hakken",
+    "Haken"
+  ]
+}

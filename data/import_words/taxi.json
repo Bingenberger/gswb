@@ -1,0 +1,82 @@
+{
+  "lemma": "Taxi",
+  "wortart": "Nomen",
+  "silben": "Ta-xi",
+  "begriffserklaerung": "Ein Taxi ist ein Auto, das Menschen gegen Bezahlung von einem Ort zum anderen fährt. Der Fahrer oder die Fahrerin wird Taxifahrer oder Taxifahrerin genannt.",
+  "beispielsatz": "Wir haben ein Taxi gerufen, weil der Bus schon weg war.",
+  "rechtschreibstrategie": "Das Wort „Taxi\" schreibt man mit x – sprich es laut: Ta-xi. Das x hört man deutlich, also nicht vergessen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Taxi"
+  ],
+  "bild_datei": "Taxi.webp",
+  "audio_datei": "Taxi.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Taxi",
+    "plural": "die Taxis",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Taxi",
+        "genitiv": "des Taxis",
+        "dativ": "dem Taxi",
+        "akkusativ": "das Taxi"
+      },
+      "plural": {
+        "nominativ": "die Taxis",
+        "genitiv": "der Taxis",
+        "dativ": "den Taxis",
+        "akkusativ": "die Taxis"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "taxi"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taxi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taksi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تاكسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taxifahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taxifahrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Taksi",
+    "Taxxi",
+    "Taxy",
+    "Taxis",
+    "Daxie"
+  ]
+}

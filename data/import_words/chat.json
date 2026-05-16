@@ -1,0 +1,82 @@
+{
+  "lemma": "Chat",
+  "wortart": "Nomen",
+  "silben": "Chat",
+  "begriffserklaerung": "Ein Chat ist eine Unterhaltung, bei der Menschen über das Internet Nachrichten hin- und herschreiben.",
+  "beispielsatz": "Meine Freundin und ich schreiben uns jeden Abend im Chat.",
+  "rechtschreibstrategie": "„Chat\" kommt aus dem Englischen und wird so geschrieben, wie man es aus dem Internet kennt – merke dir: ch und dann at, wie in „hat\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "chat"
+  ],
+  "bild_datei": "Chat.webp",
+  "audio_datei": "Chat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "discussion en ligne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sohbet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دردشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "chatten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chatgruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterhaltung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Chat",
+    "plural": "die Chats",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Chat",
+        "genitiv": "des Chats",
+        "dativ": "dem Chat",
+        "akkusativ": "den Chat"
+      },
+      "plural": {
+        "nominativ": "die Chats",
+        "genitiv": "der Chats",
+        "dativ": "den Chats",
+        "akkusativ": "die Chats"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tschat",
+    "Tschet",
+    "Chatt",
+    "Shat",
+    "Schat"
+  ]
+}

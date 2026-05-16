@@ -1,0 +1,91 @@
+{
+  "lemma": "Meldung",
+  "wortart": "Nomen",
+  "silben": "Mel-dung",
+  "begriffserklaerung": "Eine Meldung ist eine Nachricht oder Information, die jemand weitergibt – zum Beispiel im Radio, in der Zeitung oder in der Schule.",
+  "beispielsatz": "Im Radio kam eine wichtige Meldung über das Unwetter.",
+  "rechtschreibstrategie": "Denke an das Verb „melden\" – daraus wird „Meldung\". Das d aus „melden\" bleibt erhalten!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "meld"
+  ],
+  "bild_datei": "Meldung.webp",
+  "audio_datei": "Meldung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Meldung",
+    "plural": "die Meldungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Meldung",
+        "genitiv": "der Meldung",
+        "dativ": "der Meldung",
+        "akkusativ": "die Meldung"
+      },
+      "plural": {
+        "nominativ": "die Meldungen",
+        "genitiv": "der Meldungen",
+        "dativ": "den Meldungen",
+        "akkusativ": "die Meldungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "report / message"
+    },
+    {
+      "language_code": "fr",
+      "translation": "annonce / message"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haber / bildirim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشعار / رسالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "melden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anmeldung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mitteilung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Durchsage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Meldunk",
+    "Meltung",
+    "Mäldung",
+    "Mellдung",
+    "Melduing"
+  ]
+}

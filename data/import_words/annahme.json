@@ -1,0 +1,87 @@
+{
+  "lemma": "Annahme",
+  "wortart": "Nomen",
+  "silben": "An-nah-me",
+  "begriffserklaerung": "Eine Annahme ist etwas, das man glaubt oder vermutet, ohne dass man es sicher weiß. Annahme bedeutet auch, dass man etwas entgegennimmt oder akzeptiert.",
+  "beispielsatz": "Meine Annahme war richtig: Es hat tatsächlich geregnet!",
+  "rechtschreibstrategie": "Das Wort „Annahme\" hat ein Dehnungs-h nach dem langen „a\": an-NAH-me. Sprich es laut und deutlich – du hörst das lange „a\" klar heraus!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "nehm",
+    "nahm"
+  ],
+  "bild_datei": "Annahme.webp",
+  "audio_datei": "Annahme.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Annahme",
+    "plural": "die Annahmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Annahme",
+        "genitiv": "der Annahme",
+        "dativ": "der Annahme",
+        "akkusativ": "die Annahme"
+      },
+      "plural": {
+        "nominativ": "die Annahmen",
+        "genitiv": "der Annahmen",
+        "dativ": "den Annahmen",
+        "akkusativ": "die Annahmen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "assumption / acceptance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hypothèse / acceptation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "varsayım / kabul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "افتراض / قبول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "annehmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vermutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vermutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meinung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entscheidung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anahme",
+    "Annachme",
+    "Anname",
+    "Annahm",
+    "Annahmen"
+  ]
+}

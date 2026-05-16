@@ -1,0 +1,87 @@
+{
+  "lemma": "Händler",
+  "wortart": "Nomen",
+  "silben": "Händ-ler",
+  "begriffserklaerung": "Ein Händler ist jemand, der Waren kauft und verkauft, zum Beispiel auf einem Markt oder in einem Geschäft.",
+  "beispielsatz": "Der Händler auf dem Markt verkauft frisches Obst und Gemüse.",
+  "rechtschreibstrategie": "Denk an das Wort „Hand\" – daraus wird „Handel\" und dann „Händ-ler\". Das ä kommt vom Umlaut von „Handel\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Handel",
+    "handeln"
+  ],
+  "bild_datei": "Händler.webp",
+  "audio_datei": "Händler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trader, dealer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marchand, commerçant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satıcı, tüccar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تاجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "handeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verkäufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ware"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Händler",
+    "plural": "die Händler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Händler",
+        "genitiv": "des Händlers",
+        "dativ": "dem Händler",
+        "akkusativ": "den Händler"
+      },
+      "plural": {
+        "nominativ": "die Händler",
+        "genitiv": "der Händler",
+        "dativ": "den Händlern",
+        "akkusativ": "die Händler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hendler",
+    "Hänndler",
+    "Häntler",
+    "Händller",
+    "Haendler"
+  ]
+}

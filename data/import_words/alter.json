@@ -1,0 +1,90 @@
+{
+  "lemma": "Alter",
+  "wortart": "Nomen",
+  "silben": "Al-ter",
+  "begriffserklaerung": "Das Alter sagt uns, wie viele Jahre jemand oder etwas schon lebt oder existiert.",
+  "beispielsatz": "In welchem Alter lernst du Fahrradfahren?",
+  "rechtschreibstrategie": "Sprich das Wort laut: Al-ter. Du hörst zwei Silben. Das „t\" in der Mitte wird mitgesprochen, deshalb schreibt man es genau so, wie man es hört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Alter",
+    "plural": "die Alter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Alter",
+        "genitiv": "des Alters",
+        "dativ": "dem Alter",
+        "akkusativ": "das Alter"
+      },
+      "plural": {
+        "nominativ": "die Alter",
+        "genitiv": "der Alter",
+        "dativ": "den Altern",
+        "akkusativ": "die Alter"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "alt"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "alt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "altern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "älter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebensalter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugend"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "age"
+    },
+    {
+      "language_code": "fr",
+      "translation": "âge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمر"
+    }
+  ],
+  "fehlschreibungen": [
+    "Alther",
+    "Allter",
+    "Aliter",
+    "Altta",
+    "Altter"
+  ],
+  "bild_datei": "Alter.webp",
+  "audio_datei": "Alter.mp3"
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "wollen",
+  "wortart": "Verb",
+  "silben": "wol-len",
+  "begriffserklaerung": "Wollen bedeutet, dass man sich etwas wünscht oder etwas tun möchte.",
+  "beispielsatz": "Ich will heute mit meiner Freundin spielen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „wol-len\" – du hörst ein kurzes „o\", deshalb schreibt man zwei „l\": wollen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "woll"
+  ],
+  "bild_datei": "wollen.webp",
+  "audio_datei": "wollen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to want"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vouloir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "istemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "möchten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brauchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "können"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wollen",
+    "praesens": {
+      "ich": "will",
+      "du": "willst",
+      "er_sie_es": "will",
+      "wir": "wollen",
+      "ihr": "wollt",
+      "sie": "wollen"
+    },
+    "perfekt": {
+      "ich": "habe gewollt",
+      "du": "hast gewollt",
+      "er_sie_es": "hat gewollt",
+      "wir": "haben gewollt",
+      "ihr": "habt gewollt",
+      "sie": "haben gewollt"
+    },
+    "praeteritum": {
+      "ich": "wollte",
+      "du": "wolltest",
+      "er_sie_es": "wollte",
+      "wir": "wollten",
+      "ihr": "wolltet",
+      "sie": "wollten"
+    }
+  },
+  "fehlschreibungen": [
+    "wolen",
+    "wöllen",
+    "wohlen",
+    "woln",
+    "wölln"
+  ]
+}

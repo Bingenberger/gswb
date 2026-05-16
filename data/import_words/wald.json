@@ -1,0 +1,81 @@
+{
+  "lemma": "Wald",
+  "wortart": "Nomen",
+  "silben": "Wald",
+  "begriffserklaerung": "Ein Wald ist ein großes Stück Land, auf dem viele Bäume dicht zusammenstehen. Dort leben viele Tiere und Pflanzen.",
+  "beispielsatz": "Am Wochenende machen wir einen Spaziergang im Wald.",
+  "rechtschreibstrategie": "Verlängere das Wort: „Wald\" → „Wäl-der\". Du hörst das „d\" am Ende deutlich. Deshalb schreibt man „Wald\" mit „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wald"
+  ],
+  "bild_datei": "Wald.webp",
+  "audio_datei": "Wald.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "forest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "forêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waldweg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waldtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Forst"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wald",
+    "plural": "die Wälder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wald",
+        "genitiv": "des Waldes",
+        "dativ": "dem Wald",
+        "akkusativ": "den Wald"
+      },
+      "plural": {
+        "nominativ": "die Wälder",
+        "genitiv": "der Wälder",
+        "dativ": "den Wäldern",
+        "akkusativ": "die Wälder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Walt",
+    "Walled",
+    "Waldt",
+    "Wwald"
+  ]
+}

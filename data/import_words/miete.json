@@ -1,0 +1,82 @@
+{
+  "lemma": "Miete",
+  "wortart": "Nomen",
+  "silben": "Mie-te",
+  "begriffserklaerung": "Die Miete ist das Geld, das man jeden Monat bezahlt, um in einer Wohnung oder einem Haus wohnen zu dürfen.",
+  "beispielsatz": "Meine Eltern zahlen jeden Monat die Miete für unsere Wohnung.",
+  "rechtschreibstrategie": "Denk an „mie\" wie in „Biene\" – das ie sprichst du lang. Schreib: M-i-e-t-e.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "miet"
+  ],
+  "bild_datei": "Miete.webp",
+  "audio_datei": "Miete.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kira"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إيجار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mieten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vermieter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pacht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Miete",
+    "plural": "die Mieten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Miete",
+        "genitiv": "der Miete",
+        "dativ": "der Miete",
+        "akkusativ": "die Miete"
+      },
+      "plural": {
+        "nominativ": "die Mieten",
+        "genitiv": "der Mieten",
+        "dativ": "den Mieten",
+        "akkusativ": "die Mieten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Miette",
+    "Miehte",
+    "Miete",
+    "Mite",
+    "Mierte"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Entscheidung",
+  "wortart": "Nomen",
+  "silben": "Ent-schei-dung",
+  "begriffserklaerung": "Eine Entscheidung ist, wenn du dich zwischen zwei oder mehr Möglichkeiten für eine bestimmte Sache entscheidest.",
+  "beispielsatz": "Es war eine schwere Entscheidung, welches Buch ich lesen wollte.",
+  "rechtschreibstrategie": "Denk an das Verb „entscheiden\": Ent-schei-den → Ent-schei-dung. Das „ei\" hörst du deutlich, wenn du das Wort langsam sprichst.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "scheid"
+  ],
+  "bild_datei": "Entscheidung.webp",
+  "audio_datei": "Entscheidung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Entscheidung",
+    "plural": "die Entscheidungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Entscheidung",
+        "genitiv": "der Entscheidung",
+        "dativ": "der Entscheidung",
+        "akkusativ": "die Entscheidung"
+      },
+      "plural": {
+        "nominativ": "die Entscheidungen",
+        "genitiv": "der Entscheidungen",
+        "dativ": "den Entscheidungen",
+        "akkusativ": "die Entscheidungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "decision"
+    },
+    {
+      "language_code": "fr",
+      "translation": "décision"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entscheiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Entscheid"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meinung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lösung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Entscheidigung",
+    "Entscheitung",
+    "Entscheidug",
+    "Entschaidung",
+    "Entscheidunng"
+  ]
+}

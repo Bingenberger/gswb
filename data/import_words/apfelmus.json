@@ -1,0 +1,84 @@
+{
+  "lemma": "Apfelmus",
+  "wortart": "Nomen",
+  "silben": "Ap-fel-mus",
+  "begriffserklaerung": "Apfelmus ist ein weiches, breiiges Essen, das aus gekochten und zerdrückten Äpfeln gemacht wird.",
+  "beispielsatz": "Zum Mittagessen gibt es heute Pfannkuchen mit leckerem Apfelmus.",
+  "rechtschreibstrategie": "Apfelmus ist ein zusammengesetztes Wort aus „Apfel\" und „Mus\". Sprich beide Teile einzeln: AP-FEL + MUS. Schreibe es immer zusammen und groß, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Apfel",
+    "Mus"
+  ],
+  "bild_datei": "Apfelmus.webp",
+  "audio_datei": "Apfelmus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "applesauce"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compote de pommes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elma püresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهروس التفاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marmelade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompott"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Apfelbrei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Apfelmus",
+    "plural": "die Apfelmuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Apfelmus",
+        "genitiv": "des Apfelmuses",
+        "dativ": "dem Apfelmus",
+        "akkusativ": "das Apfelmus"
+      },
+      "plural": {
+        "nominativ": "die Apfelmuse",
+        "genitiv": "der Apfelmuse",
+        "dativ": "den Apfelmosen",
+        "akkusativ": "die Apfelmuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Apfelmuß",
+    "Apfel-Mus",
+    "apfelmus",
+    "Appfelmus",
+    "Apfelmuhs",
+    "Apfelmuss"
+  ]
+}

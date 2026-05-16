@@ -1,0 +1,82 @@
+{
+  "lemma": "Robotik",
+  "wortart": "Nomen",
+  "silben": "Ro-bo-tik",
+  "begriffserklaerung": "Robotik ist die Wissenschaft, die sich damit beschäftigt, Roboter zu bauen und zu programmieren.",
+  "beispielsatz": "Im Robotik-Kurs hat Lena ihren ersten kleinen Roboter gebaut.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ro-bo-tik. Am Ende hörst du deutlich das „k\" – schreib es auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Robotik",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Robotik",
+        "genitiv": "der Robotik",
+        "dativ": "der Robotik",
+        "akkusativ": "die Robotik"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Robot"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Roboter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "robotisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programmierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Technik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "robotics"
+    },
+    {
+      "language_code": "fr",
+      "translation": "robotique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "robotik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علم الروبوتات"
+    }
+  ],
+  "fehlschreibungen": [
+    "Robotick",
+    "Robottik",
+    "Robotyk",
+    "Robbotik",
+    "Robodik"
+  ],
+  "bild_datei": "Robotik.webp",
+  "audio_datei": "Robotik.mp3"
+}

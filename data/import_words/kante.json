@@ -1,0 +1,82 @@
+{
+  "lemma": "Kante",
+  "wortart": "Nomen",
+  "silben": "Kan-te",
+  "begriffserklaerung": "Eine Kante ist die schmale Linie oder der scharfe Rand, wo zwei Flächen eines Gegenstands zusammentreffen – zum Beispiel an einem Tisch oder einem Würfel.",
+  "beispielsatz": "Pass auf, die Kante vom Tisch ist sehr scharf!",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Kan-te\". Nach dem kurzen „a\" hörst du das „n\" und das „t\" – schreib beides auf: K-a-n-t-e.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kant"
+  ],
+  "bild_datei": "Kante.webp",
+  "audio_datei": "Kante.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kante",
+    "plural": "die Kanten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kante",
+        "genitiv": "der Kante",
+        "dativ": "der Kante",
+        "akkusativ": "die Kante"
+      },
+      "plural": {
+        "nominativ": "die Kanten",
+        "genitiv": "der Kanten",
+        "dativ": "den Kanten",
+        "akkusativ": "die Kanten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "edge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arête"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kenar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kantig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abkanten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rand"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cante",
+    "Kannte",
+    "Kante",
+    "Khante",
+    "Kande"
+  ]
+}

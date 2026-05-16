@@ -1,0 +1,86 @@
+{
+  "lemma": "Rennen",
+  "wortart": "Nomen",
+  "silben": "Ren-nen",
+  "begriffserklaerung": "Ein Rennen ist ein Wettkampf, bei dem Menschen oder Tiere so schnell wie möglich laufen oder fahren, um als Erste ins Ziel zu kommen.",
+  "beispielsatz": "Beim Schulfest gewinnt Lisa das Rennen gegen alle anderen Kinder.",
+  "rechtschreibstrategie": "Das Wort „Rennen\" hat zwei n in der Mitte, weil das erste e kurz gesprochen wird. Sprich „Ren-nen\" – du hörst zwei n!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "renn"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rennen",
+    "plural": "die Rennen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rennen",
+        "genitiv": "des Rennens",
+        "dativ": "dem Rennen",
+        "akkusativ": "das Rennen"
+      },
+      "plural": {
+        "nominativ": "die Rennen",
+        "genitiv": "der Rennen",
+        "dativ": "den Rennen",
+        "akkusativ": "die Rennen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Renen",
+    "Reñen",
+    "Renenn",
+    "Ränen",
+    "Rennen"
+  ],
+  "bild_datei": "Rennen.webp",
+  "audio_datei": "Rennen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "race"
+    },
+    {
+      "language_code": "fr",
+      "translation": "course"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yarış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سباق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rennbahn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staffellauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprint"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    }
+  ]
+}

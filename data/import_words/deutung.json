@@ -1,0 +1,83 @@
+{
+  "lemma": "Deutung",
+  "wortart": "Nomen",
+  "silben": "Deu-tung",
+  "begriffserklaerung": "Eine Deutung erklärt, was etwas bedeutet oder wie man etwas verstehen kann.",
+  "beispielsatz": "Die Lehrerin gab uns ihre Deutung des Gedichts.",
+  "rechtschreibstrategie": "Denke an das Verb „deuten\" – daraus wird „Deutung\". Das eu sprichst du wie in „heute\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "deut"
+  ],
+  "bild_datei": "Deutung.webp",
+  "audio_datei": "Deutung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Deutung",
+    "plural": "die Deutungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Deutung",
+        "genitiv": "der Deutung",
+        "dativ": "der Deutung",
+        "akkusativ": "die Deutung"
+      },
+      "plural": {
+        "nominativ": "die Deutungen",
+        "genitiv": "der Deutungen",
+        "dativ": "den Deutungen",
+        "akkusativ": "die Deutungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "interpretation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interprétation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yorum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تفسير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "deuten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bedeuten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bedeutung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Deutung",
+    "Däutung",
+    "Deuttung",
+    "Deuhtung",
+    "Deudung"
+  ]
+}

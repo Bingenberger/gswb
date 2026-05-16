@@ -1,0 +1,83 @@
+{
+  "lemma": "Spritze",
+  "wortart": "Nomen",
+  "silben": "Sprit-ze",
+  "begriffserklaerung": "Eine Spritze ist ein Gerät, mit dem Flüssigkeiten in den Körper gespritzt oder aus ihm herausgezogen werden. Ärzte und Krankenschwestern benutzen Spritzen, um zum Beispiel Medikamente zu geben.",
+  "beispielsatz": "Die Ärztin gibt mir eine Spritze, damit ich nicht krank werde.",
+  "rechtschreibstrategie": "In „Spritze\" steckt ein kurzes „i\" vor „tz\" – nach einem kurzen Vokal schreiben wir immer „tz\". Sprich das Wort laut: Spr-i-tze!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "spritz"
+  ],
+  "bild_datei": "Spritze.webp",
+  "audio_datei": "Spritze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "syringe / injection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "seringue / piqûre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şırınga / iğne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spritzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spritzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Injektion"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spritze",
+    "plural": "die Spritzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spritze",
+        "genitiv": "der Spritze",
+        "dativ": "der Spritze",
+        "akkusativ": "die Spritze"
+      },
+      "plural": {
+        "nominativ": "die Spritzen",
+        "genitiv": "der Spritzen",
+        "dativ": "den Spritzen",
+        "akkusativ": "die Spritzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spritsse",
+    "Sprize",
+    "Spritse",
+    "Spritzen",
+    "Shpritze",
+    "Sprizze"
+  ]
+}

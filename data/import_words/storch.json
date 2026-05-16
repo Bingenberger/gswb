@@ -1,0 +1,82 @@
+{
+  "lemma": "Storch",
+  "wortart": "Nomen",
+  "silben": "Storch",
+  "begriffserklaerung": "Ein Storch ist ein großer Vogel mit langen roten Beinen, einem langen roten Schnabel und weißen sowie schwarzen Federn. Störche bauen ihre Nester oft auf Dächern oder hohen Masten.",
+  "beispielsatz": "Der Storch steht auf einem Bein auf dem Dach und schaut in die Ferne.",
+  "rechtschreibstrategie": "Das Wort „Storch\" klingt am Ende nach einem weichen „ch\". Wenn du es verlängerst, sagst du „Stör-che\" – da hörst du das „ch\" deutlich. Außerdem hörst du am Anfang die Buchstabengruppe „St\" – sprich sie genau mit!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Storch"
+  ],
+  "bild_datei": "Storch.webp",
+  "audio_datei": "Storch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Storch",
+    "plural": "die Störche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Storch",
+        "genitiv": "des Storches",
+        "dativ": "dem Storch",
+        "akkusativ": "den Storch"
+      },
+      "plural": {
+        "nominativ": "die Störche",
+        "genitiv": "der Störche",
+        "dativ": "den Störchen",
+        "akkusativ": "die Störche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stork"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cigogne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "leylek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لقلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Störchin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Storchennest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kranich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reiher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Storck",
+    "Shtorch",
+    "Stortsch",
+    "Sdorch",
+    "Storsh"
+  ]
+}

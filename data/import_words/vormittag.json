@@ -1,0 +1,89 @@
+{
+  "lemma": "Vormittag",
+  "wortart": "Nomen",
+  "silben": "Vor-mit-tag",
+  "begriffserklaerung": "Der Vormittag ist die Zeit am Morgen, die nach dem Aufstehen beginnt und bis zum Mittag dauert.",
+  "beispielsatz": "Am Vormittag haben wir in der Schule Mathe und Deutsch gelernt.",
+  "rechtschreibstrategie": "Das Wort „Vormittag\" besteht aus drei Bausteinen: „vor\" + „mit\" + „tag\". Sprich alle Teile laut mit – so schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag",
+    "vor"
+  ],
+  "bild_datei": "Vormittag.webp",
+  "audio_datei": "Vormittag.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vormittag",
+    "plural": "die Vormittage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vormittag",
+        "genitiv": "des Vormittags",
+        "dativ": "dem Vormittag",
+        "akkusativ": "den Vormittag"
+      },
+      "plural": {
+        "nominativ": "die Vormittage",
+        "genitiv": "der Vormittage",
+        "dativ": "den Vormittagen",
+        "akkusativ": "die Vormittage"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "morning, forenoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matinée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğleden önce"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبل الظهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "täglich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachmittag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abend"
+    }
+  ],
+  "fehlschreibungen": [
+    "Formidag",
+    "Vormittag",
+    "Vormitag",
+    "Formitak",
+    "Vormittack",
+    "Vorrmidag"
+  ]
+}

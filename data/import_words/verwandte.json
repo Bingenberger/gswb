@@ -1,0 +1,83 @@
+{
+  "lemma": "Verwandte",
+  "wortart": "Nomen",
+  "silben": "Ver-wand-te",
+  "begriffserklaerung": "Verwandte sind Menschen aus derselben Familie, zum Beispiel Tante, Onkel, Cousine oder Großeltern.",
+  "beispielsatz": "An Weihnachten besuchen wir viele Verwandte.",
+  "rechtschreibstrategie": "Denk an das Wort „Wandel\" – Verwandte kommen vom Stamm „wand\". Schreib ein „d\" in der Mitte: ver-WAND-te.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wandt",
+    "verwandt"
+  ],
+  "bild_datei": "Verwandte.webp",
+  "audio_datei": "Verwandte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "relatives"
+    },
+    {
+      "language_code": "fr",
+      "translation": "proches / parents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akrabalar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أقارب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verwandt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verwandtschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschwister"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Angehörige"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verwandte",
+    "plural": "die Verwandten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verwandte",
+        "genitiv": "der Verwandten",
+        "dativ": "der Verwandten",
+        "akkusativ": "die Verwandte"
+      },
+      "plural": {
+        "nominativ": "die Verwandten",
+        "genitiv": "der Verwandten",
+        "dativ": "den Verwandten",
+        "akkusativ": "die Verwandten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferwandte",
+    "Verwante",
+    "Verwannte",
+    "Verwandtte",
+    "Verwandde"
+  ]
+}

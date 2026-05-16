@@ -1,0 +1,79 @@
+{
+  "lemma": "Algorithmus",
+  "wortart": "Nomen",
+  "silben": "Al-go-rith-mus",
+  "begriffserklaerung": "Ein Algorithmus ist eine genaue Schritt-für-Schritt-Anleitung, die erklärt, wie man ein Problem löst oder eine Aufgabe erledigt – zum Beispiel so, wie ein Rezept beim Kochen.",
+  "beispielsatz": "Der Computer folgt einem Algorithmus, um die Zahlen in der richtigen Reihenfolge zu sortieren.",
+  "rechtschreibstrategie": "Das Wort „Algorithmus\" ist ein Fremdwort und wird so geschrieben, wie es klingt. Achte auf das „th\" in der Mitte – das spricht man wie ein einfaches „t\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Algorithmus"
+  ],
+  "bild_datei": "Algorithmus.webp",
+  "audio_datei": "Algorithmus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "algorithm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "algorithme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "algoritma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خوارزمية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "algorithmisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anleitung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Algorithmus",
+    "plural": "die Algorithmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Algorithmus",
+        "genitiv": "des Algorithmus",
+        "dativ": "dem Algorithmus",
+        "akkusativ": "den Algorithmus"
+      },
+      "plural": {
+        "nominativ": "die Algorithmen",
+        "genitiv": "der Algorithmen",
+        "dativ": "den Algorithmen",
+        "akkusativ": "die Algorithmen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Algorythmus",
+    "Algorhitmus",
+    "Algorithems",
+    "Algorizmus",
+    "Algoritmus",
+    "Algorythmos"
+  ]
+}

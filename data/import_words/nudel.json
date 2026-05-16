@@ -1,0 +1,86 @@
+{
+  "lemma": "Nudel",
+  "wortart": "Nomen",
+  "silben": "Nu-del",
+  "begriffserklaerung": "Eine Nudel ist ein Lebensmittel aus Teig, das man kocht und essen kann. Nudeln gibt es in vielen Formen, zum Beispiel als lange Spaghetti oder als kleine Spiralen.",
+  "beispielsatz": "Heute gibt es zum Mittagessen Nudeln mit Tomatensoße.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Nu-del. Du hörst ein kurzes „u\" – aber nach dem „d\" kommt nur ein „l\", kein Doppelkonsonant. Merke dir: Nudel schreibt man so, wie man es spricht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nudel"
+  ],
+  "bild_datei": "Nudel.webp",
+  "audio_datei": "Nudel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nudel",
+    "plural": "die Nudeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nudel",
+        "genitiv": "der Nudel",
+        "dativ": "der Nudel",
+        "akkusativ": "die Nudel"
+      },
+      "plural": {
+        "nominativ": "die Nudeln",
+        "genitiv": "der Nudeln",
+        "dativ": "den Nudeln",
+        "akkusativ": "die Nudeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "noodle / pasta"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâte / nouille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makarna / erişte"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مَعْكَرُونَة (maʿkarūna)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nudelauflauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nudelsuppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spaghetti"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soße"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pasta"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nuddel",
+    "Nudell",
+    "Nuddell",
+    "Nodel",
+    "Noudel"
+  ]
+}

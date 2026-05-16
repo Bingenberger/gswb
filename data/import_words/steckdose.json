@@ -1,0 +1,84 @@
+{
+  "lemma": "Steckdose",
+  "wortart": "Nomen",
+  "silben": "Steck-do-se",
+  "begriffserklaerung": "Eine Steckdose ist eine kleine Öffnung in der Wand, in die man einen Stecker steckt, um Geräte mit Strom zu versorgen.",
+  "beispielsatz": "Mama steckt das Ladekabel in die Steckdose.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „steck\" (vom Verb „stecken\") und „Dose\". Du kannst es in diese Bausteine zerlegen: Steck + Dose.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "steck",
+    "Dose"
+  ],
+  "bild_datei": "Steckdose.webp",
+  "audio_datei": "Steckdose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Steckdose",
+    "plural": "die Steckdosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Steckdose",
+        "genitiv": "der Steckdose",
+        "dativ": "der Steckdose",
+        "akkusativ": "die Steckdose"
+      },
+      "plural": {
+        "nominativ": "die Steckdosen",
+        "genitiv": "der Steckdosen",
+        "dativ": "den Steckdosen",
+        "akkusativ": "die Steckdosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "socket / power outlet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prise de courant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "priz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقبس كهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stecker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schalter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stegdose",
+    "Steckdosse",
+    "Stäckdose",
+    "Steckdohse",
+    "Steckdoze"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Feierabend",
+  "wortart": "Nomen",
+  "silben": "Fei-er-a-bend",
+  "begriffserklaerung": "Der Feierabend ist die Zeit nach der Arbeit oder der Schule, wenn man sich ausruhen und entspannen kann.",
+  "beispielsatz": "Nach der Schule hat Mama endlich Feierabend und spielt mit mir.",
+  "rechtschreibstrategie": "„Feierabend\" ist ein zusammengesetztes Wort aus „Feier\" und „Abend\". Schreibe beide Teile einfach hintereinander: Feier + Abend = Feierabend.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Feier",
+    "Abend"
+  ],
+  "bild_datei": "Feierabend.webp",
+  "audio_datei": "Feierabend.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feierabend",
+    "plural": "die Feierabende",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feierabend",
+        "genitiv": "des Feierabends",
+        "dativ": "dem Feierabend",
+        "akkusativ": "den Feierabend"
+      },
+      "plural": {
+        "nominativ": "die Feierabende",
+        "genitiv": "der Feierabende",
+        "dativ": "den Feierabenden",
+        "akkusativ": "die Feierabende"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "end of work, after work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fin de journée, après le travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iş sonu, mesai sonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهاية يوم العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freizeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Freizeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Feierabent",
+    "Feiraabend",
+    "Feieraabend",
+    "Feierabend",
+    "Feirabend",
+    "Feier-Abend"
+  ]
+}

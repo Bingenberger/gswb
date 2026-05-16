@@ -1,0 +1,85 @@
+{
+  "lemma": "Vollmond",
+  "wortart": "Nomen",
+  "silben": "Voll-mond",
+  "begriffserklaerung": "Der Vollmond ist die Mondphase, bei der man den Mond als vollständigen, runden Kreis am Nachthimmel sehen kann.",
+  "beispielsatz": "Heute Nacht scheint der Vollmond so hell, dass man draußen fast ohne Taschenlampe sehen kann.",
+  "rechtschreibstrategie": "„Vollmond\" ist ein zusammengesetztes Wort aus „voll\" und „Mond\". Sprich beide Teile deutlich: VOLL + MOND. Das Doppel-l kommt von „voll\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Mond",
+    "voll"
+  ],
+  "bild_datei": "Vollmond.webp",
+  "audio_datei": "Vollmond.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "full moon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pleine lune"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolunay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بدر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "voll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halbmond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Neumond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachthimmel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vollmond",
+    "plural": "die Vollmonde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vollmond",
+        "genitiv": "des Vollmondes",
+        "dativ": "dem Vollmond",
+        "akkusativ": "den Vollmond"
+      },
+      "plural": {
+        "nominativ": "die Vollmonde",
+        "genitiv": "der Vollmonde",
+        "dativ": "den Vollmonden",
+        "akkusativ": "die Vollmonde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Volmond",
+    "Vollmont",
+    "Folmond",
+    "Vollmohnd",
+    "Vollmondt"
+  ]
+}

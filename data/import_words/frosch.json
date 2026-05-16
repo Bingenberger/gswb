@@ -1,0 +1,82 @@
+{
+  "lemma": "Frosch",
+  "wortart": "Nomen",
+  "silben": "Frosch",
+  "begriffserklaerung": "Ein Frosch ist ein kleines Tier, das am und im Wasser lebt. Er hat lange Hinterbeine zum Springen und kann quaken.",
+  "beispielsatz": "Der grüne Frosch sitzt auf einem Seerosenblatt und quakt laut.",
+  "rechtschreibstrategie": "Höre genau hin: Das „o\" im Frosch ist kurz. Danach kommen gleich zwei Mitlaute: „sch\". Sprich das Wort laut: Frosch – kein „e\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Frosch"
+  ],
+  "bild_datei": "Frosch.webp",
+  "audio_datei": "Frosch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "frog"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grenouille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurbağa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضفدع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fröschlein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Froschkönig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kröte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quaken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frosch",
+    "plural": "die Frösche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frosch",
+        "genitiv": "des Froschs",
+        "dativ": "dem Frosch",
+        "akkusativ": "den Frosch"
+      },
+      "plural": {
+        "nominativ": "die Frösche",
+        "genitiv": "der Frösche",
+        "dativ": "den Fröschen",
+        "akkusativ": "die Frösche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frohs",
+    "Frosc",
+    "Frosh",
+    "Frorsch",
+    "Froßch"
+  ]
+}

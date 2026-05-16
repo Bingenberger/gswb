@@ -1,0 +1,82 @@
+{
+  "lemma": "Eltern",
+  "wortart": "Nomen",
+  "silben": "El-tern",
+  "begriffserklaerung": "Eltern sind Mama und Papa zusammen. Sie kümmern sich um ihre Kinder und sorgen dafür, dass es ihnen gut geht.",
+  "beispielsatz": "Meine Eltern lesen mir jeden Abend eine Gutenachtgeschichte vor.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: El-tern. Denke daran: Nach dem „El\" folgt ein „t\" – nicht „d\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "elter"
+  ],
+  "bild_datei": "Eltern.webp",
+  "audio_datei": "Eltern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parents"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ebeveynler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "والدان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "elterlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elternteil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vater"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "–",
+    "singular": "–",
+    "plural": "die Eltern",
+    "deklination": {
+      "singular": {
+        "nominativ": "– (kein Singular)",
+        "genitiv": "– (kein Singular)",
+        "dativ": "– (kein Singular)",
+        "akkusativ": "– (kein Singular)"
+      },
+      "plural": {
+        "nominativ": "die Eltern",
+        "genitiv": "der Eltern",
+        "dativ": "den Eltern",
+        "akkusativ": "die Eltern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ältern",
+    "Elderen",
+    "Eltren",
+    "Elten",
+    "Eldern"
+  ]
+}

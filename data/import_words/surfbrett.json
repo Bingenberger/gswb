@@ -1,0 +1,85 @@
+{
+  "lemma": "Surfbrett",
+  "wortart": "Nomen",
+  "silben": "Surf-brett",
+  "begriffserklaerung": "Ein Surfbrett ist ein flaches, langes Brett, das man beim Surfen benutzt. Man steht darauf und lässt sich von Meereswellen tragen.",
+  "beispielsatz": "Leon legt sein buntes Surfbrett ins Wasser und wartet auf die nächste große Welle.",
+  "rechtschreibstrategie": "„Surfbrett\" ist aus zwei Wörtern zusammengebaut: „Surf\" und „Brett\". Sprich beide Teile einzeln und schreibe sie zusammen. Das „tt\" am Ende von „Brett\" hörst du beim Mitsprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "surf",
+    "brett"
+  ],
+  "bild_datei": "Surfbrett.webp",
+  "audio_datei": "Surfbrett.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Surfbrett",
+    "plural": "die Surfbretter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Surfbrett",
+        "genitiv": "des Surfbretts",
+        "dativ": "dem Surfbrett",
+        "akkusativ": "das Surfbrett"
+      },
+      "plural": {
+        "nominativ": "die Surfbretter",
+        "genitiv": "der Surfbretter",
+        "dativ": "den Surfbrettern",
+        "akkusativ": "die Surfbretter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "surfboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planche de surf"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sörf tahtası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح ركوب الأمواج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "surfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Surfer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Surfbred",
+    "Surfbreth",
+    "Surffbrett",
+    "Zurfbrett",
+    "Surfbret",
+    "Surfprett"
+  ]
+}

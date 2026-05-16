@@ -1,0 +1,84 @@
+{
+  "lemma": "Staubsauger",
+  "wortart": "Nomen",
+  "silben": "Staub-sau-ger",
+  "begriffserklaerung": "Ein Staubsauger ist ein elektrisches Gerät, das Schmutz und Staub vom Boden oder von Möbeln aufsaugt.",
+  "beispielsatz": "Mama schiebt den Staubsauger über den Teppich, damit das Wohnzimmer sauber wird.",
+  "rechtschreibstrategie": "„Staubsauger\" ist ein zusammengesetztes Wort aus „Staub\" und „Sauger\". Wenn du es in seine Bausteine zerlegst, kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Staub",
+    "saugen"
+  ],
+  "bild_datei": "Staubsauger.webp",
+  "audio_datei": "Staubsauger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Staubsauger",
+    "plural": "die Staubsauger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Staubsauger",
+        "genitiv": "des Staubsaugers",
+        "dativ": "dem Staubsauger",
+        "akkusativ": "den Staubsauger"
+      },
+      "plural": {
+        "nominativ": "die Staubsauger",
+        "genitiv": "der Staubsauger",
+        "dativ": "den Staubsaugern",
+        "akkusativ": "die Staubsauger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vacuum cleaner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aspirateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli süpürge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكنسة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Staub"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "saugen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wischmopp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sauger"
+    }
+  ],
+  "fehlschreibungen": [
+    "Staubsaucker",
+    "Staubzauger",
+    "Staubsauker",
+    "Staubsaugen",
+    "Staubsaufer",
+    "Stawbsauger"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Beutel",
+  "wortart": "Nomen",
+  "silben": "Beu-tel",
+  "begriffserklaerung": "Ein Beutel ist ein kleiner, weicher Behälter aus Stoff, Plastik oder Papier, in den man Dinge hineinstecken kann.",
+  "beispielsatz": "Mama packt das Pausenbrot in einen kleinen Beutel.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Beu-tel\". Das „eu\" klingt wie in „Eule\". Merke dir: Beutel – Eule!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Beutel"
+  ],
+  "bild_datei": "Beutel.webp",
+  "audio_datei": "Beutel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sachet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "torba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كيس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beuteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geldbeutel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sack"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tasche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beutel",
+    "plural": "die Beutel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beutel",
+        "genitiv": "des Beutels",
+        "dativ": "dem Beutel",
+        "akkusativ": "den Beutel"
+      },
+      "plural": {
+        "nominativ": "die Beutel",
+        "genitiv": "der Beutel",
+        "dativ": "den Beuteln",
+        "akkusativ": "die Beutel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bäutel",
+    "Beitel",
+    "Beutal",
+    "Böutel",
+    "Beutel"
+  ]
+}

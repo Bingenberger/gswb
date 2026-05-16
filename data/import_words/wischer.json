@@ -1,0 +1,86 @@
+{
+  "lemma": "Wischer",
+  "wortart": "Nomen",
+  "silben": "Wi-scher",
+  "begriffserklaerung": "Ein Wischer ist ein Gegenstand, mit dem man etwas abwischt oder sauber macht, zum Beispiel eine Tafel oder ein Fenster.",
+  "beispielsatz": "Die Lehrerin nimmt den Wischer und wischt die Tafel sauber.",
+  "rechtschreibstrategie": "Denk an das Wort „wischen\" – davon kommt „Wischer\". Du hörst das kurze „i\", deshalb folgt „sch\" direkt ohne Dehnungs-h.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wisch"
+  ],
+  "bild_datei": "Wischer.webp",
+  "audio_datei": "Wischer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wischer",
+    "plural": "die Wischer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wischer",
+        "genitiv": "des Wischers",
+        "dativ": "dem Wischer",
+        "akkusativ": "den Wischer"
+      },
+      "plural": {
+        "nominativ": "die Wischer",
+        "genitiv": "der Wischer",
+        "dativ": "den Wischern",
+        "akkusativ": "die Wischer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wiper / eraser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "essuie-tout / effaceur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silgi / sileceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممسحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tafelwischer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reinigung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wisscher",
+    "Wiecher",
+    "Wisger",
+    "Wischär",
+    "Wischer"
+  ]
+}

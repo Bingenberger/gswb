@@ -1,0 +1,91 @@
+{
+  "lemma": "Speise",
+  "wortart": "Nomen",
+  "silben": "Spei-se",
+  "begriffserklaerung": "Eine Speise ist etwas, das man essen kann, zum Beispiel ein Gericht oder eine Mahlzeit.",
+  "beispielsatz": "Die Speise auf meinem Teller riecht sehr lecker.",
+  "rechtschreibstrategie": "Denk an „Eis\" im Wort: Sp-EIS-e. Das „ei\" klingt wie beim Wort „Eis\". Sprich das Wort langsam: Spei-se.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "speis"
+  ],
+  "bild_datei": "Speise.webp",
+  "audio_datei": "Speise.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Speise",
+    "plural": "die Speisen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Speise",
+        "genitiv": "der Speise",
+        "dativ": "der Speise",
+        "akkusativ": "die Speise"
+      },
+      "plural": {
+        "nominativ": "die Speisen",
+        "genitiv": "der Speisen",
+        "dativ": "den Speisen",
+        "akkusativ": "die Speisen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dish / food"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plat / mets"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبق / طعام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "speisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Speisekammer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gericht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mahlzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    }
+  ],
+  "fehlschreibungen": [
+    "Speisse",
+    "Speize",
+    "Speise",
+    "Spaise",
+    "Speißse",
+    "Speißa"
+  ]
+}

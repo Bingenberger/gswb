@@ -1,0 +1,82 @@
+{
+  "lemma": "Schälchen",
+  "wortart": "Nomen",
+  "silben": "Schäl-chen",
+  "begriffserklaerung": "Ein Schälchen ist eine sehr kleine Schüssel oder Schale, aus der man etwas essen oder trinken kann.",
+  "beispielsatz": "Mama hat mir ein Schälchen mit Erdbeeren hingestellt.",
+  "rechtschreibstrategie": "Denk an das große Wort „Schale\" – Schälchen ist die Verkleinerungsform davon. Das ä kommt von Schale!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schale"
+  ],
+  "bild_datei": "Schälchen.webp",
+  "audio_datei": "Schälchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schälchen",
+    "plural": "die Schälchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schälchen",
+        "genitiv": "des Schälchens",
+        "dativ": "dem Schälchen",
+        "akkusativ": "das Schälchen"
+      },
+      "plural": {
+        "nominativ": "die Schälchen",
+        "genitiv": "der Schälchen",
+        "dativ": "den Schälchen",
+        "akkusativ": "die Schälchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "small bowl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit bol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük kase"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schale"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schüsselchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schälschen",
+    "Schälgen",
+    "Schelchen",
+    "Schälcen",
+    "Schälichen"
+  ]
+}

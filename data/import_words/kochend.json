@@ -1,0 +1,73 @@
+{
+  "lemma": "kochend",
+  "wortart": "Adjektiv",
+  "silben": "ko-chend",
+  "begriffserklaerung": "Etwas ist kochend, wenn es so heiß ist, dass es blubbert und dampft – zum Beispiel Wasser in einem Topf auf dem Herd.",
+  "beispielsatz": "Vorsicht, das Wasser im Topf ist kochend heiß!",
+  "rechtschreibstrategie": "Denk an das Verb „kochen\" – kochend ist davon abgeleitet. Du hörst das „ch\" deutlich: ko-chend.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "koch"
+  ],
+  "bild_datei": "kochend.webp",
+  "audio_datei": "kochend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boiling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouillant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaynayan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَغلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "siedend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "heiß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dampfend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brodeln"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "kochend",
+    "komparativ": "kochender",
+    "superlativ": "am kochendsten"
+  },
+  "fehlschreibungen": [
+    "kochent",
+    "kochened",
+    "cochend",
+    "kochandt",
+    "kochand"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "Marder",
+  "wortart": "Nomen",
+  "silben": "Mar-der",
+  "begriffserklaerung": "Ein Marder ist ein kleines, schlankes Wildtier mit braunem Fell und einem buschigen Schwanz. Er lebt in Wäldern, aber auch in der Nähe von Menschen.",
+  "beispielsatz": "Der Marder schlich sich nachts in den Hühnerstall.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mar-der. Du hörst zwei Silben. Schreibe, was du hörst – kein Dehnungs-h, kein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Marder"
+  ],
+  "bild_datei": "Marder.webp",
+  "audio_datei": "Marder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "marten"
+    },
+    {
+      "language_code": "fr",
+      "translation": "martre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sansar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابن عرس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiesel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Iltis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Marder",
+    "plural": "die Marder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Marder",
+        "genitiv": "des Marders",
+        "dativ": "dem Marder",
+        "akkusativ": "den Marder"
+      },
+      "plural": {
+        "nominativ": "die Marder",
+        "genitiv": "der Marder",
+        "dativ": "den Mardern",
+        "akkusativ": "die Marder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mader",
+    "Mardar",
+    "Marderr",
+    "Marter",
+    "Marder"
+  ]
+}

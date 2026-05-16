@@ -1,0 +1,83 @@
+{
+  "lemma": "Steuermann",
+  "wortart": "Nomen",
+  "silben": "Steu-er-mann",
+  "begriffserklaerung": "Ein Steuermann ist jemand, der ein Schiff lenkt und dafür sorgt, dass es den richtigen Weg auf dem Wasser findet.",
+  "beispielsatz": "Der Steuermann hält das große Steuerrad fest und bringt das Schiff sicher in den Hafen.",
+  "rechtschreibstrategie": "Das Wort „Steuermann\" ist zusammengesetzt aus „Steuer\" und „Mann\". Sprich beide Bausteine laut: STEU-ER + MANN – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "steuern",
+    "Mann"
+  ],
+  "bild_datei": "Steuermann.webp",
+  "audio_datei": "Steuermann.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Steuermann",
+    "plural": "die Steuermänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Steuermann",
+        "genitiv": "des Steuermanns",
+        "dativ": "dem Steuermann",
+        "akkusativ": "den Steuermann"
+      },
+      "plural": {
+        "nominativ": "die Steuermänner",
+        "genitiv": "der Steuermänner",
+        "dativ": "den Steuermännern",
+        "akkusativ": "die Steuermänner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "helmsman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "timonier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dümenci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رُبَّان / مُوجِّه السَّفينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steuern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ruderer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Steuermann",
+    "Steuermahn",
+    "Steuerман",
+    "Steuereman",
+    "Steuirmann"
+  ]
+}

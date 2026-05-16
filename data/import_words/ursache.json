@@ -1,0 +1,78 @@
+{
+  "lemma": "Ursache",
+  "wortart": "Nomen",
+  "silben": "Ur-sa-che",
+  "begriffserklaerung": "Eine Ursache ist das, was etwas auslöst oder bewirkt. Sie erklärt, warum etwas passiert ist.",
+  "beispielsatz": "Der starke Regen war die Ursache für die Überschwemmung.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ur-sa-che. Achte auf das stumme „e\" am Ende und das „ch\" in der letzten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Sache"
+  ],
+  "bild_datei": "Ursache.webp",
+  "audio_datei": "Ursache.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cause"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cause"
+    },
+    {
+      "language_code": "tr",
+      "translation": "neden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wirkung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Folge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ursache",
+    "plural": "die Ursachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ursache",
+        "genitiv": "der Ursache",
+        "dativ": "der Ursache",
+        "akkusativ": "die Ursache"
+      },
+      "plural": {
+        "nominativ": "die Ursachen",
+        "genitiv": "der Ursachen",
+        "dativ": "den Ursachen",
+        "akkusativ": "die Ursachen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Uhrsache",
+    "Ursarche",
+    "Ursasche",
+    "Ursacche",
+    "Ursahche"
+  ]
+}

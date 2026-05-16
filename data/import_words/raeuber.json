@@ -1,0 +1,85 @@
+{
+  "lemma": "Räuber",
+  "wortart": "Nomen",
+  "silben": "Räu-ber",
+  "begriffserklaerung": "Ein Räuber ist eine Person, die anderen Menschen etwas wegnimmt, was ihr nicht gehört.",
+  "beispielsatz": "Im Märchen wird der mutige Ritter den Räuber fangen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Räu-ber\". Du hörst zwei Silben. Das „äu\" schreibst du mit ä und u – denk an das verwandte Wort „rauben\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "raub"
+  ],
+  "bild_datei": "Räuber.webp",
+  "audio_datei": "Räuber.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Räuber",
+    "plural": "die Räuber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Räuber",
+        "genitiv": "des Räubers",
+        "dativ": "dem Räuber",
+        "akkusativ": "den Räuber"
+      },
+      "plural": {
+        "nominativ": "die Räuber",
+        "genitiv": "der Räuber",
+        "dativ": "den Räubern",
+        "akkusativ": "die Räuber"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "robber"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voleur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soyguncu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rauben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raub"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dieb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reuber",
+    "Räubert",
+    "Räubber",
+    "Räuver"
+  ]
+}

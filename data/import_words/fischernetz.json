@@ -1,0 +1,85 @@
+{
+  "lemma": "Fischernetz",
+  "wortart": "Nomen",
+  "silben": "Fi-scher-netz",
+  "begriffserklaerung": "Ein Fischernetz ist ein großes Netz aus Schnüren oder Fäden, das Fischer benutzen, um viele Fische auf einmal aus dem Wasser zu fangen.",
+  "beispielsatz": "Der Fischer wirft das Fischernetz ins Meer und zieht es voller Fische wieder heraus.",
+  "rechtschreibstrategie": "„Fischernetz\" ist ein zusammengesetztes Wort aus „Fischer\" und „Netz\". Schreibe beide Teile einfach hintereinander: Fischer + Netz = Fischernetz.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fisch",
+    "Netz"
+  ],
+  "bild_datei": "Fischernetz.webp",
+  "audio_datei": "Fischernetz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fischernetz",
+    "plural": "die Fischernetze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fischernetz",
+        "genitiv": "des Fischernetzes",
+        "dativ": "dem Fischernetz",
+        "akkusativ": "das Fischernetz"
+      },
+      "plural": {
+        "nominativ": "die Fischernetze",
+        "genitiv": "der Fischernetze",
+        "dativ": "den Fischernetzen",
+        "akkusativ": "die Fischernetze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fishing net"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filet de pêche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balık ağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شبكة صيد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Netz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fischer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fischernez",
+    "Fischärnetz",
+    "Fischernätz",
+    "Fishernetz",
+    "Fischernetz",
+    "Fischerrnetz"
+  ]
+}

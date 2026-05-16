@@ -1,0 +1,71 @@
+{
+  "lemma": "Traktor",
+  "wortart": "Nomen",
+  "silben": "Trak-tor",
+  "begriffserklaerung": "Ein Traktor ist eine große, starke Maschine, die auf dem Bauernhof arbeitet. Er zieht schwere Geräte über die Felder und hilft den Bauern beim Pflügen, Säen und Ernten.",
+  "beispielsatz": "Der Bauer fährt mit dem Traktor über das Feld und pflügt die Erde um.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Trak – tor. Achte auf das „k\" und das „r\" am Ende – beides wird mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Traktor.webp",
+  "audio_datei": "Traktor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tractor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tracteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "traktör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Traktor",
+    "plural": "die Traktoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Traktor",
+        "genitiv": "des Traktors",
+        "dativ": "dem Traktor",
+        "akkusativ": "den Traktor"
+      },
+      "plural": {
+        "nominativ": "die Traktoren",
+        "genitiv": "der Traktoren",
+        "dativ": "den Traktoren",
+        "akkusativ": "die Traktoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tracktor",
+    "Trakktor",
+    "Trakor",
+    "Tractor"
+  ]
+}

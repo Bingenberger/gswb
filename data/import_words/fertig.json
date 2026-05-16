@@ -1,0 +1,72 @@
+{
+  "lemma": "fertig",
+  "wortart": "Adjektiv",
+  "silben": "fer-tig",
+  "begriffserklaerung": "Wenn etwas fertig ist, ist es vollständig gemacht und man muss nichts mehr daran tun.",
+  "beispielsatz": "Ich bin fertig mit meinen Hausaufgaben!",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: fer-tig. Am Ende hörst du „tig\" – das schreibt man mit t-i-g, nicht mit d-i-g.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "positiv": "fertig",
+    "komparativ": "fertiger",
+    "superlativ": "am fertigsten"
+  },
+  "wortfamilie_basen": [
+    "fertig"
+  ],
+  "fehlschreibungen": [
+    "ferdig",
+    "ferdik",
+    "fertik",
+    "fehrtig",
+    "fertigg"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fertigkeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fertigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bereit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abgeschlossen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "finished / ready"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prêt / terminé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hazır / bitmiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جاهز / منتهي"
+    }
+  ],
+  "bild_datei": "fertig.webp",
+  "audio_datei": "fertig.mp3"
+}

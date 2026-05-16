@@ -1,0 +1,86 @@
+{
+  "lemma": "Sache",
+  "wortart": "Nomen",
+  "silben": "Sa-che",
+  "begriffserklaerung": "Eine Sache ist ein Ding oder ein Gegenstand, den man anfassen oder sehen kann. Das Wort kann auch für ein Thema oder eine Aufgabe stehen.",
+  "beispielsatz": "Pack bitte deine Sachen in die Schultasche!",
+  "rechtschreibstrategie": "Sprich das Wort laut: Sa-che. Du hörst am Ende ein „ch\" – schreib „ch\", nicht „k\" oder „sch\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sach"
+  ],
+  "bild_datei": "Sache.webp",
+  "audio_datei": "Sache.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sache",
+    "plural": "die Sachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sache",
+        "genitiv": "der Sache",
+        "dativ": "der Sache",
+        "akkusativ": "die Sache"
+      },
+      "plural": {
+        "nominativ": "die Sachen",
+        "genitiv": "der Sachen",
+        "dativ": "den Sachen",
+        "akkusativ": "die Sachen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thing / matter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chose / affaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şey / mesele"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شيء / أمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sachlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sachverhalt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ding"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegenstand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besitz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sasche",
+    "Sache",
+    "Zache",
+    "Sacje",
+    "Sace"
+  ]
+}

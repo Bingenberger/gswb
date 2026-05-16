@@ -1,0 +1,86 @@
+{
+  "lemma": "Koffer",
+  "wortart": "Nomen",
+  "silben": "Kof-fer",
+  "begriffserklaerung": "Ein Koffer ist ein großer, fester Behälter mit einem Griff und einem Verschluss. Man packt Kleidung und andere Sachen hinein, wenn man verreist.",
+  "beispielsatz": "Vor dem Urlaub packt Lena ihren Koffer mit Kleidern und Spielzeug.",
+  "rechtschreibstrategie": "Im Wort „Koffer\" hörst du das „o\" kurz. Danach kommen zwei „f\" – das zeigt den kurzen Vokal an. Merke: kurzes „o\" → Doppel-f!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Koffer"
+  ],
+  "bild_datei": "Koffer.webp",
+  "audio_datei": "Koffer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "suitcase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "valise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bavul"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة سفر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kofferraum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handkoffer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisetasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepäck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Koffer",
+    "plural": "die Koffer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Koffer",
+        "genitiv": "des Koffers",
+        "dativ": "dem Koffer",
+        "akkusativ": "den Koffer"
+      },
+      "plural": {
+        "nominativ": "die Koffer",
+        "genitiv": "der Koffer",
+        "dativ": "den Koffern",
+        "akkusativ": "die Koffer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kofer",
+    "Cofler",
+    "Koffer",
+    "Kofffer",
+    "Coffer"
+  ]
+}

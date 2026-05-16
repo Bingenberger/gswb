@@ -1,0 +1,84 @@
+{
+  "lemma": "Stolperstein",
+  "wortart": "Nomen",
+  "silben": "Stol-per-stein",
+  "begriffserklaerung": "Ein Stolperstein ist ein kleines Messing-Denkmal, das in den Boden eingelassen wird. Es erinnert an Menschen, die früher verfolgt und verschleppt wurden. Manchmal meint man damit auch etwas, das einen beim Gehen oder Vorankommen behindert.",
+  "beispielsatz": "Vor dem alten Haus liegt ein Stolperstein, der an eine Familie erinnert, die dort einmal gewohnt hat.",
+  "rechtschreibstrategie": "„Stolperstein\" ist aus zwei Wörtern zusammengesetzt: „stolpern\" und „Stein\". Denk einfach an beide Teile getrennt – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "stolper",
+    "Stein"
+  ],
+  "bild_datei": "Stolperstein.webp",
+  "audio_datei": "Stolperstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stumbling block"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pierre d'achoppement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "takılma taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر عثرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stolpern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Denkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erinnerung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hindernis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stolperstein",
+    "plural": "die Stolpersteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stolperstein",
+        "genitiv": "des Stolpersteins",
+        "dativ": "dem Stolperstein",
+        "akkusativ": "den Stolperstein"
+      },
+      "plural": {
+        "nominativ": "die Stolpersteine",
+        "genitiv": "der Stolpersteine",
+        "dativ": "den Stolpersteinen",
+        "akkusativ": "die Stolpersteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stolperschtein",
+    "Shtolperstein",
+    "Stolperstain",
+    "Stolpershtein",
+    "Shtolperstain",
+    "Stolpperstein"
+  ]
+}

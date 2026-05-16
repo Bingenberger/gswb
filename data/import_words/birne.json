@@ -1,0 +1,78 @@
+{
+  "lemma": "Birne",
+  "wortart": "Nomen",
+  "silben": "Bir-ne",
+  "begriffserklaerung": "Eine Birne ist eine süße Frucht, die oben schmal und unten rund ist. Sie wächst an Birnbäumen und ist meist gelb oder grün.",
+  "beispielsatz": "Mama hat mir eine saftige Birne in die Brotdose gelegt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Bir-ne\". Du hörst ein kurzes „i\" – danach kommt nur ein „r\", kein Doppelbuchstabe. Denke daran: Birne schreibt man mit „ir\" in der Mitte.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Birn"
+  ],
+  "bild_datei": "Birne.webp",
+  "audio_datei": "Birne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Birne",
+    "plural": "die Birnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Birne",
+        "genitiv": "der Birne",
+        "dativ": "der Birne",
+        "akkusativ": "die Birne"
+      },
+      "plural": {
+        "nominativ": "die Birnen",
+        "genitiv": "der Birnen",
+        "dativ": "den Birnen",
+        "akkusativ": "die Birnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "armut"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كمثرى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Birnbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaume"
+    }
+  ],
+  "fehlschreibungen": [
+    "Birre",
+    "Bierne",
+    "Brine",
+    "Byrne",
+    "Biene"
+  ]
+}

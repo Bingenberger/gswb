@@ -1,0 +1,92 @@
+{
+  "lemma": "Gebäude",
+  "wortart": "Nomen",
+  "silben": "Ge-bäu-de",
+  "begriffserklaerung": "Ein Gebäude ist ein großes Bauwerk, das Menschen gebaut haben, zum Beispiel ein Haus, eine Schule oder ein Supermarkt.",
+  "beispielsatz": "Die Schule ist ein großes Gebäude mit vielen Fenstern.",
+  "rechtschreibstrategie": "Denk an das Wort „bauen\" – ein Gebäude ist etwas, das ge-baut wurde. Schreib deshalb „Ge-bäu-de\" mit äu wie in „Bäume\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "bau"
+  ],
+  "bild_datei": "Gebäude.webp",
+  "audio_datei": "Gebäude.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebäude",
+    "plural": "die Gebäude",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebäude",
+        "genitiv": "des Gebäudes",
+        "dativ": "dem Gebäude",
+        "akkusativ": "das Gebäude"
+      },
+      "plural": {
+        "nominativ": "die Gebäude",
+        "genitiv": "der Gebäude",
+        "dativ": "den Gebäuden",
+        "akkusativ": "die Gebäude"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bâtiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مبنى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauwerk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rathaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gebäude",
+    "Gebeude",
+    "Gebäuде",
+    "Gebeuде",
+    "Gebaude",
+    "Gebäuede",
+    "Gebäüde"
+  ]
+}

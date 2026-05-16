@@ -1,0 +1,82 @@
+{
+  "lemma": "Pumpe",
+  "wortart": "Nomen",
+  "silben": "Pum-pe",
+  "begriffserklaerung": "Eine Pumpe ist ein Gerät, das Flüssigkeiten oder Luft von einem Ort zum anderen befördert – zum Beispiel Wasser aus einem Brunnen oder Luft in einen Fahrradreifen.",
+  "beispielsatz": "Papa benutzt die Pumpe, um den platten Fahrradreifen wieder aufzupumpen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Pum-pe\". Nach dem kurzen „u\" hörst du ein doppeltes „m\" – das zeigt den kurzen Vokal an. Denk daran: Pum mit zwei m, dann pe!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "pump"
+  ],
+  "bild_datei": "Pumpe.webp",
+  "audio_datei": "Pumpe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pumpe",
+    "plural": "die Pumpen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pumpe",
+        "genitiv": "der Pumpe",
+        "dativ": "der Pumpe",
+        "akkusativ": "die Pumpe"
+      },
+      "plural": {
+        "nominativ": "die Pumpen",
+        "genitiv": "der Pumpen",
+        "dativ": "den Pumpen",
+        "akkusativ": "die Pumpen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pump"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pompe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pompa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مضخة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pumpen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Luftpumpe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brunnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Druckgerät"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pumbe",
+    "Pумpe",
+    "Pumppe",
+    "Bумpe",
+    "Pumpe"
+  ]
+}

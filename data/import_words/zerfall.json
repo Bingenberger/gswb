@@ -1,0 +1,84 @@
+{
+  "lemma": "Zerfall",
+  "wortart": "Nomen",
+  "silben": "Zer-fall",
+  "begriffserklaerung": "Ein Zerfall passiert, wenn etwas langsam auseinanderfällt oder sich auflöst, zum Beispiel altes Holz oder ein altes Gebäude.",
+  "beispielsatz": "Der alte Baum ist durch den Zerfall morsch und bröckelig geworden.",
+  "rechtschreibstrategie": "Das Wort „Zerfall\" besteht aus zwei Teilen: der Vorsilbe „zer-\" und dem Wort „Fall\". Das doppelte „l\" am Ende erkennst du, wenn du an „fallen\" denkst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fall",
+    "zerfallen"
+  ],
+  "bild_datei": "Zerfall.webp",
+  "audio_datei": "Zerfall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zerfall",
+    "plural": "die Zerfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zerfall",
+        "genitiv": "des Zerfalls",
+        "dativ": "dem Zerfall",
+        "akkusativ": "den Zerfall"
+      },
+      "plural": {
+        "nominativ": "die Zerfälle",
+        "genitiv": "der Zerfälle",
+        "dativ": "den Zerfällen",
+        "akkusativ": "die Zerfälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "decay / disintegration"
+    },
+    {
+      "language_code": "fr",
+      "translation": "désintégration / décomposition"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöküş / bozunma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تحلل / انهيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zerfallen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verwitterung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auflösung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auflösung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zerfal",
+    "Zährfall",
+    "Zerphall",
+    "Zerfahl",
+    "Zerfall"
+  ]
+}

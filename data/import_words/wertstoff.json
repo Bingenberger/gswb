@@ -1,0 +1,84 @@
+{
+  "lemma": "Wertstoff",
+  "wortart": "Nomen",
+  "silben": "Wert-stoff",
+  "begriffserklaerung": "Ein Wertstoff ist ein Material, das man recyceln oder wiederverwenden kann, zum Beispiel Papier, Glas oder Plastik.",
+  "beispielsatz": "Wir sammeln Wertstoffe wie Flaschen und Zeitungen, damit sie neu verwendet werden können.",
+  "rechtschreibstrategie": "Das Wort „Wertstoff\" besteht aus zwei Teilen: „Wert\" und „Stoff\". Sprich beide Teile deutlich: WERT-STOFF. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wert",
+    "Stoff"
+  ],
+  "bild_datei": "Wertstoff.webp",
+  "audio_datei": "Wertstoff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recyclable material"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matériau recyclable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geri dönüştürülebilir malzeme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة قابلة لإعادة التدوير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umweltschutz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wertstoff",
+    "plural": "die Wertstoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wertstoff",
+        "genitiv": "des Wertstoffs",
+        "dativ": "dem Wertstoff",
+        "akkusativ": "den Wertstoff"
+      },
+      "plural": {
+        "nominativ": "die Wertstoffe",
+        "genitiv": "der Wertstoffe",
+        "dativ": "den Wertstoffen",
+        "akkusativ": "die Wertstoffe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Werdstoff",
+    "Wärtstoff",
+    "Wertsstoff",
+    "Wertstof",
+    "Vertstoff",
+    "Wertztoff"
+  ]
+}

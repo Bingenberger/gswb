@@ -1,0 +1,89 @@
+{
+  "lemma": "Energienutzung",
+  "wortart": "Nomen",
+  "silben": "E-ner-gie-nut-zung",
+  "begriffserklaerung": "Die Energienutzung bedeutet, dass man Energie – zum Beispiel Strom, Wärme oder Sonnenlicht – verwendet, um etwas zu tun, wie Licht einzuschalten oder ein Haus zu heizen.",
+  "beispielsatz": "Durch clevere Energienutzung können wir Strom sparen und die Umwelt schützen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Energie\" und „Nutzung\". Sprich beide Teile einzeln, dann schreibst du sie leichter richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Energie",
+    "nutz"
+  ],
+  "bild_datei": "Energienutzung.webp",
+  "audio_datei": "Energienutzung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Energienutzung",
+    "plural": "die Energienutzungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Energienutzung",
+        "genitiv": "der Energienutzung",
+        "dativ": "der Energienutzung",
+        "akkusativ": "die Energienutzung"
+      },
+      "plural": {
+        "nominativ": "die Energienutzungen",
+        "genitiv": "der Energienutzungen",
+        "dativ": "den Energienutzungen",
+        "akkusativ": "die Energienutzungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "energy use"
+    },
+    {
+      "language_code": "fr",
+      "translation": "utilisation de l'énergie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "enerji kullanımı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استخدام الطاقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energiesparen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Energieverbrauch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Energinutzung",
+    "Energienutzuing",
+    "Enerjienutzung",
+    "Energienutzunk",
+    "Energienutzuung"
+  ]
+}

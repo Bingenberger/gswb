@@ -1,0 +1,91 @@
+{
+  "lemma": "filtern",
+  "wortart": "Verb",
+  "silben": "fil-tern",
+  "begriffserklaerung": "Filtern bedeutet, etwas durch ein Filter zu leiten, damit unerwünschte Teile herausgehalten werden. So kann man zum Beispiel Schmutz aus Wasser herausfiltern.",
+  "beispielsatz": "Mama filtert das Wasser, bevor wir es trinken.",
+  "rechtschreibstrategie": "Sprich das Wort laut: fil-tern. Du hörst zwei Silben. Das „l\" und das „t\" schreibst du genau so, wie du sie hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Filter"
+  ],
+  "bild_datei": "filtern.webp",
+  "audio_datei": "filtern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to filter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filtrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "filtrelemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرشِّح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Filter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Filterung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sieben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reinigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sieben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "filtern",
+    "praesens": {
+      "ich": "filtere",
+      "du": "filterst",
+      "er_sie_es": "filtert",
+      "wir": "filtern",
+      "ihr": "filtert",
+      "sie": "filtern"
+    },
+    "perfekt": {
+      "ich": "habe gefiltert",
+      "du": "hast gefiltert",
+      "er_sie_es": "hat gefiltert",
+      "wir": "haben gefiltert",
+      "ihr": "habt gefiltert",
+      "sie": "haben gefiltert"
+    },
+    "praeteritum": {
+      "ich": "filterte",
+      "du": "filtertest",
+      "er_sie_es": "filterte",
+      "wir": "filterten",
+      "ihr": "filtertet",
+      "sie": "filterten"
+    }
+  },
+  "fehlschreibungen": [
+    "filderen",
+    "filden",
+    "filtern",
+    "phitern",
+    "filteern",
+    "filttern"
+  ]
+}

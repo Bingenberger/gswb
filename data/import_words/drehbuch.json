@@ -1,0 +1,89 @@
+{
+  "lemma": "Drehbuch",
+  "wortart": "Nomen",
+  "silben": "Dreh-buch",
+  "begriffserklaerung": "Ein Drehbuch ist ein Text, in dem genau aufgeschrieben steht, was die Schauspieler in einem Film oder einer Fernsehsendung sagen und tun sollen.",
+  "beispielsatz": "Die Regisseurin liest das Drehbuch, bevor der Film gedreht wird.",
+  "rechtschreibstrategie": "Das Wort „Drehbuch\" besteht aus zwei Teilen: „dreh\" (von drehen) und „Buch\". Sprich beide Teile einzeln: DREH + BUCH. Das Dehnungs-h in „dreh\" macht das „e\" lang.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "dreh",
+    "buch"
+  ],
+  "bild_datei": "Drehbuch.webp",
+  "audio_datei": "Drehbuch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Drehbuch",
+    "plural": "die Drehbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Drehbuch",
+        "genitiv": "des Drehbuchs",
+        "dativ": "dem Drehbuch",
+        "akkusativ": "das Drehbuch"
+      },
+      "plural": {
+        "nominativ": "die Drehbücher",
+        "genitiv": "der Drehbücher",
+        "dativ": "den Drehbüchern",
+        "akkusativ": "die Drehbücher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "screenplay / script"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scénario"
+    },
+    {
+      "language_code": "tr",
+      "translation": "senaryo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيناريو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regisseur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Skript"
+    }
+  ],
+  "fehlschreibungen": [
+    "Drehbuchs",
+    "Drehpuch",
+    "Drebuch",
+    "Dreehbuch",
+    "Drehbusch",
+    "Dräbuch"
+  ]
+}

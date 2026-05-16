@@ -1,0 +1,87 @@
+{
+  "lemma": "Geschäft",
+  "wortart": "Nomen",
+  "silben": "Ge-schäft",
+  "begriffserklaerung": "Ein Geschäft ist ein Ort, an dem man Dinge kaufen kann, zum Beispiel Lebensmittel, Kleidung oder Spielzeug.",
+  "beispielsatz": "Mama kauft im Geschäft frisches Brot und Milch.",
+  "rechtschreibstrategie": "Das Wort „Geschäft\" endet auf „-ft\". Sprich es laut: Ge-schäft. Das „ä\" hörst du deutlich – denk an das verwandte Wort „schaffen\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "schaff"
+  ],
+  "bild_datei": "Geschäft.webp",
+  "audio_datei": "Geschäft.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geschäft",
+    "plural": "die Geschäfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geschäft",
+        "genitiv": "des Geschäfts",
+        "dativ": "dem Geschäft",
+        "akkusativ": "das Geschäft"
+      },
+      "plural": {
+        "nominativ": "die Geschäfte",
+        "genitiv": "der Geschäfte",
+        "dativ": "den Geschäften",
+        "akkusativ": "die Geschäfte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shop / store"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magasin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dükkan / mağaza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schaffen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschäftsmann"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Laden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gescheft",
+    "Geschäfft",
+    "Geshäft",
+    "Geschäfdt",
+    "Gschäft"
+  ]
+}

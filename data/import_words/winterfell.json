@@ -1,0 +1,85 @@
+{
+  "lemma": "Winterfell",
+  "wortart": "Nomen",
+  "silben": "Win-ter-fell",
+  "begriffserklaerung": "Ein Winterfell ist das dicke, warme Fell, das viele Tiere im Winter haben. Es schützt sie vor Kälte und Frost.",
+  "beispielsatz": "Das Eichhörnchen trägt im Winter ein besonders dichtes Winterfell.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Winter\" und „Fell\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Winter",
+    "Fell"
+  ],
+  "bild_datei": "Winterfell.webp",
+  "audio_datei": "Winterfell.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winter coat / winter fur"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pelage d'hiver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kış kürkü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فراء الشتاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommerfell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tierfell"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Winterpelz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Winterfell",
+    "plural": "die Winterfelle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Winterfell",
+        "genitiv": "des Winterfells",
+        "dativ": "dem Winterfell",
+        "akkusativ": "das Winterfell"
+      },
+      "plural": {
+        "nominativ": "die Winterfelle",
+        "genitiv": "der Winterfelle",
+        "dativ": "den Winterfellen",
+        "akkusativ": "die Winterfelle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Winterfel",
+    "Wintarfell",
+    "Winterfäll",
+    "Vinterfell",
+    "Winterfeld",
+    "Wintafell"
+  ]
+}

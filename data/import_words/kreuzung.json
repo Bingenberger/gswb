@@ -1,0 +1,83 @@
+{
+  "lemma": "Kreuzung",
+  "wortart": "Nomen",
+  "silben": "Kreu-zung",
+  "begriffserklaerung": "Eine Kreuzung ist eine Stelle, an der sich zwei oder mehr Straßen treffen und überqueren.",
+  "beispielsatz": "An der Kreuzung musst du warten, bis die Ampel grün wird.",
+  "rechtschreibstrategie": "Das Wort „Kreuzung\" kommt von „kreuzen\". Am Ende hörst du -zung – das schreibst du mit z-u-n-g.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kreuz"
+  ],
+  "bild_datei": "Kreuzung.webp",
+  "audio_datei": "Kreuzung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crossroads / intersection"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carrefour"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kavşak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقاطع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreuzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreuz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnittpunkt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kreuzung",
+    "plural": "die Kreuzungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kreuzung",
+        "genitiv": "der Kreuzung",
+        "dativ": "der Kreuzung",
+        "akkusativ": "die Kreuzung"
+      },
+      "plural": {
+        "nominativ": "die Kreuzungen",
+        "genitiv": "der Kreuzungen",
+        "dativ": "den Kreuzungen",
+        "akkusativ": "die Kreuzungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kreuzunk",
+    "Kreizung",
+    "Kreutzung",
+    "Kreuzsung",
+    "Creutzung"
+  ]
+}

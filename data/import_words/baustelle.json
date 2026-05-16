@@ -1,0 +1,83 @@
+{
+  "lemma": "Baustelle",
+  "wortart": "Nomen",
+  "silben": "Bau-stel-le",
+  "begriffserklaerung": "Eine Baustelle ist ein Ort, an dem gebaut wird – zum Beispiel ein neues Haus oder eine Straße. Dort arbeiten viele Handwerker mit großen Maschinen.",
+  "beispielsatz": "Vor unserem Haus ist eine große Baustelle, und jeden Tag fahren die Bagger hin und her.",
+  "rechtschreibstrategie": "Das Wort „Baustelle\" besteht aus zwei Teilen: „Bau\" und „Stelle\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "bau",
+    "stell"
+  ],
+  "bild_datei": "Baustelle.webp",
+  "audio_datei": "Baustelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Baustelle",
+    "plural": "die Baustellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Baustelle",
+        "genitiv": "der Baustelle",
+        "dativ": "der Baustelle",
+        "akkusativ": "die Baustelle"
+      },
+      "plural": {
+        "nominativ": "die Baustellen",
+        "genitiv": "der Baustellen",
+        "dativ": "den Baustellen",
+        "akkusativ": "die Baustellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "construction site"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chantier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şantiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقع بناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bagger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kran"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    }
+  ],
+  "fehlschreibungen": [
+    "Baustele",
+    "Bauställe",
+    "Baußtelle",
+    "Boustelle",
+    "Baustell"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Kassenband",
+  "wortart": "Nomen",
+  "silben": "Kas-sen-band",
+  "begriffserklaerung": "Das Kassenband ist das bewegliche Band an der Supermarktkasse, auf das du deine Einkäufe legst, damit sie zur Kassiererin fahren.",
+  "beispielsatz": "Mama legt die Äpfel und die Milch auf das Kassenband.",
+  "rechtschreibstrategie": "„Kassenband\" ist ein zusammengesetztes Wort aus „Kasse\" und „Band\". Das Doppel-s in „Kasse\" hörst du, wenn du das Wort in Silben sprichst: Kas-se.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kasse",
+    "Band"
+  ],
+  "bild_datei": "Kassenband.webp",
+  "audio_datei": "Kassenband.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kassenband",
+    "plural": "die Kassenbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kassenband",
+        "genitiv": "des Kassenbandes",
+        "dativ": "dem Kassenband",
+        "akkusativ": "das Kassenband"
+      },
+      "plural": {
+        "nominativ": "die Kassenbänder",
+        "genitiv": "der Kassenbänder",
+        "dativ": "den Kassenbändern",
+        "akkusativ": "die Kassenbänder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "conveyor belt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tapis de caisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasiyer bandı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حزام الصندوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufswagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kassiererin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kasenband",
+    "Kasanband",
+    "Kassenban",
+    "Kassenbannd",
+    "Kässenband"
+  ]
+}

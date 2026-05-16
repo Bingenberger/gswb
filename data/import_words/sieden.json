@@ -1,0 +1,91 @@
+{
+  "lemma": "sieden",
+  "wortart": "Verb",
+  "silben": "sie-den",
+  "begriffserklaerung": "Wenn eine Flüssigkeit siedet, wird sie so heiß, dass sie blubbert und Dampf aufsteigt – zum Beispiel kochendes Wasser.",
+  "beispielsatz": "Das Wasser siedet, und Mama macht die Nudeln hinein.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „sie-den\". Du hörst ein langes „ie\" – das schreibst du mit ie, nicht mit i oder ie-h!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "sied"
+  ],
+  "bild_datei": "sieden.webp",
+  "audio_datei": "sieden.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sieden",
+    "praesens": {
+      "ich": "siede",
+      "du": "siedest",
+      "er_sie_es": "siedet",
+      "wir": "sieden",
+      "ihr": "siedet",
+      "sie": "sieden"
+    },
+    "perfekt": {
+      "ich": "habe gesiedet",
+      "du": "hast gesiedet",
+      "er_sie_es": "hat gesiedet",
+      "wir": "haben gesiedet",
+      "ihr": "habt gesiedet",
+      "sie": "haben gesiedet"
+    },
+    "praeteritum": {
+      "ich": "siedete",
+      "du": "siedetest",
+      "er_sie_es": "siedete",
+      "wir": "siedeten",
+      "ihr": "siedetet",
+      "sie": "siedeten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to boil / to simmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouillir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaynamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Siedepunkt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Siedlung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brodeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kochen"
+    }
+  ],
+  "fehlschreibungen": [
+    "sieden",
+    "siehden",
+    "sieten",
+    "sieeden",
+    "siden",
+    "syden"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Abbiegung",
+  "wortart": "Nomen",
+  "silben": "Ab-bie-gung",
+  "begriffserklaerung": "Eine Abbiegung ist eine Stelle, an der eine Straße oder ein Weg in eine andere Richtung abbiegt.",
+  "beispielsatz": "An der nächsten Abbiegung musst du nach links abbiegen.",
+  "rechtschreibstrategie": "Denk an das Verb „abbiegen\": Ab-bie-gung. Das „ie\" in „biegen\" bleibt auch in der Abbiegung erhalten!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "biegen"
+  ],
+  "bild_datei": "Abbiegung.webp",
+  "audio_datei": "Abbiegung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Abbiegung",
+    "plural": "die Abbiegungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Abbiegung",
+        "genitiv": "der Abbiegung",
+        "dativ": "der Abbiegung",
+        "akkusativ": "die Abbiegung"
+      },
+      "plural": {
+        "nominativ": "die Abbiegungen",
+        "genitiv": "der Abbiegungen",
+        "dativ": "den Abbiegungen",
+        "akkusativ": "die Abbiegungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "turn, bend"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tournant, virage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dönüş, sapak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منعطف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "biegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abbiegen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreuzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wegweiser"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abbiегung",
+    "Abbiegunk",
+    "Abiegung",
+    "Abbieguing",
+    "Abbigung"
+  ]
+}

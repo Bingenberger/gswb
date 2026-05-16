@@ -1,0 +1,88 @@
+{
+  "lemma": "Stich",
+  "wortart": "Nomen",
+  "silben": "Stich",
+  "begriffserklaerung": "Ein Stich ist ein spitzer Schmerz, den man zum Beispiel von einer Biene oder einer Nadel bekommt. Auch beim Kartenspiel nennt man gewonnene Karten einen Stich.",
+  "beispielsatz": "Die Biene hat mir einen Stich auf den Arm gegeben.",
+  "rechtschreibstrategie": "Das Wort „Stich\" hat nach dem kurzen „i\" den Buchstaben „ch\". Denk daran: Das „ch\" gehört zusammen und macht keinen Doppelkonsonanten, aber das „i\" ist trotzdem kurz. Merk es dir einfach!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "stech",
+    "stich"
+  ],
+  "bild_datei": "Stich.webp",
+  "audio_datei": "Stich.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sting / stitch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piqûre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iğne batması / dikiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لسعة / وخز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stichel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anstechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pikser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stich",
+    "plural": "die Stiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stich",
+        "genitiv": "des Stiches",
+        "dativ": "dem Stich",
+        "akkusativ": "den Stich"
+      },
+      "plural": {
+        "nominativ": "die Stiche",
+        "genitiv": "der Stiche",
+        "dativ": "den Stichen",
+        "akkusativ": "die Stiche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stich",
+    "Stieg",
+    "Stiech",
+    "Shtich",
+    "Sdich",
+    "Stihch"
+  ]
+}

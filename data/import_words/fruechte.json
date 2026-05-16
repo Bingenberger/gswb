@@ -1,0 +1,82 @@
+{
+  "lemma": "Früchte",
+  "wortart": "Nomen",
+  "silben": "Früch-te",
+  "begriffserklaerung": "Früchte sind die saftigen, oft süßen Teile einer Pflanze, die man essen kann. Sie wachsen an Bäumen, Sträuchern oder Pflanzen und enthalten meistens Samen.",
+  "beispielsatz": "Im Sommer essen wir viele bunte Früchte wie Erdbeeren, Äpfel und Kirschen.",
+  "rechtschreibstrategie": "Das Wort „Früchte\" kommt von „Frucht\". Wenn du „Frucht\" verlängerst, hörst du das „ch\" deutlich: Frucht → Früch-te.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Frucht"
+  ],
+  "bild_datei": "Früchte.webp",
+  "audio_datei": "Früchte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frucht",
+    "plural": "Früchte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frucht",
+        "genitiv": "der Frucht",
+        "dativ": "der Frucht",
+        "akkusativ": "die Frucht"
+      },
+      "plural": {
+        "nominativ": "die Früchte",
+        "genitiv": "der Früchte",
+        "dativ": "den Früchten",
+        "akkusativ": "die Früchte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fruits"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fruits"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meyveler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فواكه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fruchtig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Obst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Früchtte",
+    "Fruchte",
+    "Früchde",
+    "Frügte",
+    "Frühchte"
+  ]
+}

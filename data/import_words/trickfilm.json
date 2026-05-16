@@ -1,0 +1,83 @@
+{
+  "lemma": "Trickfilm",
+  "wortart": "Nomen",
+  "silben": "Trick-film",
+  "begriffserklaerung": "Ein Trickfilm ist ein Film, bei dem Figuren gezeichnet oder am Computer gemacht werden und sich dann wie von Zauberhand bewegen.",
+  "beispielsatz": "Am Samstag schaue ich mit meiner Familie einen lustigen Trickfilm im Kino.",
+  "rechtschreibstrategie": "Das Wort „Trickfilm\" besteht aus zwei Teilen: „Trick\" und „Film\". Bei „Trick\" hörst du das kurze i – deshalb steht danach ck. Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Trick",
+    "Film"
+  ],
+  "bild_datei": "Trickfilm.webp",
+  "audio_datei": "Trickfilm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trickfilm",
+    "plural": "die Trickfilme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trickfilm",
+        "genitiv": "des Trickfilms",
+        "dativ": "dem Trickfilm",
+        "akkusativ": "den Trickfilm"
+      },
+      "plural": {
+        "nominativ": "die Trickfilme",
+        "genitiv": "der Trickfilme",
+        "dativ": "den Trickfilmen",
+        "akkusativ": "die Trickfilme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cartoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dessin animé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizgi film"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيلم رسوم متحركة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kino"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichentrickfilm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichentrickfilm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Trikfilm",
+    "Trickfilmm",
+    "Trikkfilm",
+    "Trickfillm"
+  ]
+}

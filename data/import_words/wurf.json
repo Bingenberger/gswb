@@ -1,0 +1,91 @@
+{
+  "lemma": "Wurf",
+  "wortart": "Nomen",
+  "silben": "Wurf",
+  "begriffserklaerung": "Ein Wurf ist, wenn du etwas mit der Hand wirfst, zum Beispiel einen Ball. Man nennt es auch die Bewegung oder das Ergebnis davon.",
+  "beispielsatz": "Mit einem kräftigen Wurf traf Tim genau ins Ziel.",
+  "rechtschreibstrategie": "Verlängere das Wort: Wurf → Würfe. Dann hörst du das f am Ende ganz deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wurf",
+    "werf"
+  ],
+  "bild_datei": "Wurf.webp",
+  "audio_datei": "Wurf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "throw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lancer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "werfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werfer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wurfsendung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schuss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wurf",
+    "plural": "die Würfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wurf",
+        "genitiv": "des Wurf(e)s",
+        "dativ": "dem Wurf",
+        "akkusativ": "den Wurf"
+      },
+      "plural": {
+        "nominativ": "die Würfe",
+        "genitiv": "der Würfe",
+        "dativ": "den Würfen",
+        "akkusativ": "die Würfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wurft",
+    "Wuarf",
+    "Worf",
+    "Wurff",
+    "Vurف"
+  ]
+}

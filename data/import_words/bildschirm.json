@@ -1,0 +1,88 @@
+{
+  "lemma": "Bildschirm",
+  "wortart": "Nomen",
+  "silben": "Bild-schirm",
+  "begriffserklaerung": "Ein Bildschirm ist die flache Fläche bei einem Computer, Fernseher oder Handy, auf der man Bilder, Texte und Videos sehen kann.",
+  "beispielsatz": "Auf dem Bildschirm läuft gerade ein lustiger Zeichentrickfilm.",
+  "rechtschreibstrategie": "„Bildschirm\" ist ein zusammengesetztes Wort aus „Bild\" und „Schirm\". Sprich beide Teile einzeln: BILD + SCHIRM. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bild",
+    "Schirm"
+  ],
+  "bild_datei": "Bildschirm.webp",
+  "audio_datei": "Bildschirm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bildschirm",
+    "plural": "die Bildschirme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bildschirm",
+        "genitiv": "des Bildschirms",
+        "dativ": "dem Bildschirm",
+        "akkusativ": "den Bildschirm"
+      },
+      "plural": {
+        "nominativ": "die Bildschirme",
+        "genitiv": "der Bildschirme",
+        "dativ": "den Bildschirmen",
+        "akkusativ": "die Bildschirme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "screen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écran"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekran"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernseher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Monitor"
+    }
+  ],
+  "fehlschreibungen": [
+    "Biltschirm",
+    "Bildshirm",
+    "Bilschirm",
+    "Bildschrim",
+    "Billdschirm",
+    "Bildschierm"
+  ]
+}

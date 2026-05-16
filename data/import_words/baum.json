@@ -1,0 +1,87 @@
+{
+  "lemma": "Baum",
+  "wortart": "Nomen",
+  "silben": "Baum",
+  "begriffserklaerung": "Ein Baum ist eine große Pflanze mit einem dicken Stamm, Ästen und Blättern. Bäume wachsen draußen in der Natur, in Parks und Wäldern.",
+  "beispielsatz": "Im Garten steht ein großer Baum, unter dem wir im Sommer spielen.",
+  "rechtschreibstrategie": "Denk an das Wort „Bäume\" – du hörst das lange „au\". Schreibe „au\", nicht „a\" oder „ao\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Baum"
+  ],
+  "bild_datei": "Baum.webp",
+  "audio_datei": "Baum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arbre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäumchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "baumeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gehölz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Baum",
+    "plural": "die Bäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Baum",
+        "genitiv": "des Baumes",
+        "dativ": "dem Baum",
+        "akkusativ": "den Baum"
+      },
+      "plural": {
+        "nominativ": "die Bäume",
+        "genitiv": "der Bäume",
+        "dativ": "den Bäumen",
+        "akkusativ": "die Bäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baumb",
+    "Baume",
+    "Boum",
+    "Baum",
+    "Bawm",
+    "Baaum"
+  ]
+}

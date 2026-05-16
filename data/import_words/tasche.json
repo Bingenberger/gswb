@@ -1,0 +1,83 @@
+{
+  "lemma": "Tasche",
+  "wortart": "Nomen",
+  "silben": "Ta-sche",
+  "beispielsatz": "Ich packe meine Bücher in die Tasche.",
+  "begriffserklaerung": "Eine Tasche ist ein Behälter aus Stoff, Leder oder Plastik, in den man Sachen hineintun und tragen kann.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ta-sche. Das „sch\" klingt wie ein einziger Laut – merke dir: s-c-h gehören zusammen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tasch"
+  ],
+  "bild_datei": "Tasche.webp",
+  "audio_datei": "Tasche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sac"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çanta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taschentuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einstecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beutel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tasche",
+    "plural": "die Taschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tasche",
+        "genitiv": "der Tasche",
+        "dativ": "der Tasche",
+        "akkusativ": "die Tasche"
+      },
+      "plural": {
+        "nominativ": "die Taschen",
+        "genitiv": "der Taschen",
+        "dativ": "den Taschen",
+        "akkusativ": "die Taschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tasche",
+    "Tashe",
+    "Tache",
+    "Tassche",
+    "Dasche",
+    "Taßche"
+  ]
+}

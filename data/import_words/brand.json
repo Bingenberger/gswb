@@ -1,0 +1,90 @@
+{
+  "lemma": "Brand",
+  "wortart": "Nomen",
+  "silben": "Brand",
+  "begriffserklaerung": "Ein Brand ist ein großes Feuer, das etwas zerstört und gefährlich ist.",
+  "beispielsatz": "Die Feuerwehr löscht den Brand im alten Haus.",
+  "rechtschreibstrategie": "Verlängere das Wort: Brand → Brände. Am Ende hörst du das „d\" deutlich, also schreibst du es mit „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "brand",
+    "brenn"
+  ],
+  "bild_datei": "Brand.webp",
+  "audio_datei": "Brand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fire"
+    },
+    {
+      "language_code": "fr",
+      "translation": "incendie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yangın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brandschutz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brandstelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Brand",
+    "plural": "die Brände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Brand",
+        "genitiv": "des Brandes",
+        "dativ": "dem Brand",
+        "akkusativ": "den Brand"
+      },
+      "plural": {
+        "nominativ": "die Brände",
+        "genitiv": "der Brände",
+        "dativ": "den Bränden",
+        "akkusativ": "die Brände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Brant",
+    "Brandt",
+    "Brend",
+    "Brannd"
+  ]
+}

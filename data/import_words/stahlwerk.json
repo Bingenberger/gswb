@@ -1,0 +1,84 @@
+{
+  "lemma": "Stahlwerk",
+  "wortart": "Nomen",
+  "silben": "Stahl-werk",
+  "begriffserklaerung": "Ein Stahlwerk ist eine große Fabrik, in der aus Eisen und anderen Rohstoffen Stahl hergestellt wird. Stahl ist ein sehr hartes und festes Metall.",
+  "beispielsatz": "In dem riesigen Stahlwerk arbeiten viele Menschen, die flüssiges Metall zu Stahlplatten formen.",
+  "rechtschreibstrategie": "„Stahlwerk\" ist ein zusammengesetztes Wort aus „Stahl\" und „Werk\". Sprich beide Teile einzeln: STAHL + WERK. Das Dehnungs-h in „Stahl\" macht das „a\" lang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Stahl",
+    "Werk"
+  ],
+  "bild_datei": "Stahlwerk.webp",
+  "audio_datei": "Stahlwerk.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stahlwerk",
+    "plural": "die Stahlwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stahlwerk",
+        "genitiv": "des Stahlwerks",
+        "dativ": "dem Stahlwerk",
+        "akkusativ": "das Stahlwerk"
+      },
+      "plural": {
+        "nominativ": "die Stahlwerke",
+        "genitiv": "der Stahlwerke",
+        "dativ": "den Stahlwerken",
+        "akkusativ": "die Stahlwerke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "steel mill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aciérie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çelik fabrikası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصنع الصلب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stalwerk",
+    "Stahlwerg",
+    "Staalwerk",
+    "Stahlwerck",
+    "Stawlwerk"
+  ]
+}

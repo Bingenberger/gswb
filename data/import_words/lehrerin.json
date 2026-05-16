@@ -1,0 +1,84 @@
+{
+  "lemma": "Lehrerin",
+  "wortart": "Nomen",
+  "silben": "Leh-re-rin",
+  "begriffserklaerung": "Eine Lehrerin ist eine Frau, die Kinder oder Erwachsene in der Schule unterrichtet und ihnen etwas beibringt.",
+  "beispielsatz": "Unsere Lehrerin erklärt uns heute, wie man richtig rechnet.",
+  "rechtschreibstrategie": "Denk an das Wort „lehren\" – davon kommt „Lehrerin\". Das „h\" nach dem „e\" macht den Vokal lang: Leh-re-rin.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lehr"
+  ],
+  "bild_datei": "Lehrerin.webp",
+  "audio_datei": "Lehrerin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lehrerin",
+    "plural": "die Lehrerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lehrerin",
+        "genitiv": "der Lehrerin",
+        "dativ": "der Lehrerin",
+        "akkusativ": "die Lehrerin"
+      },
+      "plural": {
+        "nominativ": "die Lehrerinnen",
+        "genitiv": "der Lehrerinnen",
+        "dativ": "den Lehrerinnen",
+        "akkusativ": "die Lehrerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teacher (female)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "professeure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğretmen (kadın)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُعَلِّمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pädagogin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lererin",
+    "Lehrerin",
+    "Lärerin",
+    "Lehrehrin",
+    "Lererinnen",
+    "Lehrrerin"
+  ]
+}

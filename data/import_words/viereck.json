@@ -1,0 +1,88 @@
+{
+  "lemma": "Viereck",
+  "wortart": "Nomen",
+  "silben": "Vier-eck",
+  "begriffserklaerung": "Ein Viereck ist eine flache geometrische Form mit genau vier Seiten und vier Ecken. Rechtecke, Quadrate und Rauten sind zum Beispiel Vierecke.",
+  "beispielsatz": "Das Blatt Papier hat die Form eines Vierecks.",
+  "rechtschreibstrategie": "Das Wort „Viereck\" besteht aus zwei Teilen: „vier\" und „Eck\". Denk an die Zahl Vier – ein Viereck hat vier Ecken! Am Anfang steht ein großes V, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "vier",
+    "Eck"
+  ],
+  "bild_datei": "Viereck.webp",
+  "audio_datei": "Viereck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quadrilateral"
+    },
+    {
+      "language_code": "fr",
+      "translation": "quadrilatère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dörtgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُربَّع / شكل رباعي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechteck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rechteck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Viereck",
+    "plural": "die Vierecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Viereck",
+        "genitiv": "des Vierecks",
+        "dativ": "dem Viereck",
+        "akkusativ": "das Viereck"
+      },
+      "plural": {
+        "nominativ": "die Vierecke",
+        "genitiv": "der Vierecke",
+        "dativ": "den Vierecken",
+        "akkusativ": "die Vierecke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fiereck",
+    "Viereg",
+    "Vierech",
+    "Viereke",
+    "Vierrekk"
+  ]
+}

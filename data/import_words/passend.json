@@ -1,0 +1,74 @@
+{
+  "lemma": "passend",
+  "wortart": "Adjektiv",
+  "silben": "pas-send",
+  "begriffserklaerung": "Etwas ist passend, wenn es genau richtig ist oder gut zu etwas anderem gehört.",
+  "beispielsatz": "Das ist ein passender Hut für das Kostüm!",
+  "rechtschreibstrategie": "Sprich das Wort laut: „pas-send\". Du hörst ein kurzes „a\", darum schreibt man zwei „s\". Das zweite „s\" kommt vom Verb „passen\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "pass"
+  ],
+  "bild_datei": "passend.webp",
+  "audio_datei": "passend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fitting, suitable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "approprié, convenable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uygun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مناسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "passen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Passung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "geeignet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "richtig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "passgenau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stimmig"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "passend",
+    "komparativ": "passender",
+    "superlativ": "am passendsten"
+  },
+  "fehlschreibungen": [
+    "pasend",
+    "passend",
+    "passant",
+    "passsend",
+    "passandt"
+  ]
+}

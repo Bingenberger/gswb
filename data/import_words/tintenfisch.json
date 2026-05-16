@@ -1,0 +1,83 @@
+{
+  "lemma": "Tintenfisch",
+  "wortart": "Nomen",
+  "silben": "Tin-ten-fisch",
+  "begriffserklaerung": "Ein Tintenfisch ist ein Meerestier mit weichem Körper und vielen Armen. Er kann eine dunkle Tinte ausspritzen, um sich vor Feinden zu schützen.",
+  "beispielsatz": "Der Tintenfisch versteckte sich schnell hinter einem Felsen im Meer.",
+  "rechtschreibstrategie": "„Tintenfisch\" ist ein zusammengesetztes Wort aus „Tinte\" und „Fisch\". Sprich beide Teile deutlich: TIN-TEN-FISCH. Das „n\" in „Tinten\" hörst du zweimal!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tinte",
+    "Fisch"
+  ],
+  "bild_datei": "Tintenfisch.webp",
+  "audio_datei": "Tintenfisch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tintenfisch",
+    "plural": "die Tintenfische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tintenfisch",
+        "genitiv": "des Tintenfisches",
+        "dativ": "dem Tintenfisch",
+        "akkusativ": "den Tintenfisch"
+      },
+      "plural": {
+        "nominativ": "die Tintenfische",
+        "genitiv": "der Tintenfische",
+        "dativ": "den Tintenfischen",
+        "akkusativ": "die Tintenfische"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "octopus / squid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pieuvre / calmar"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahtapot / mürekkep balığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أخطبوط / حبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tinte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krake"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meerestier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dintenfisch",
+    "Tintenfich",
+    "Tintenfiesch",
+    "Tindenfisch",
+    "Tintenfissch"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "Klassenleitung",
+  "wortart": "Nomen",
+  "silben": "Klas-sen-lei-tung",
+  "begriffserklaerung": "Die Klassenleitung ist die Lehrerin oder der Lehrer, die oder der für eine bestimmte Schulklasse hauptsächlich verantwortlich ist.",
+  "beispielsatz": "Unsere Klassenleitung heißt Frau Müller und ist sehr nett zu uns.",
+  "rechtschreibstrategie": "Das Wort „Klassenleitung\" ist aus drei Teilen gebaut: „Klasse\" + „n\" + „Leitung\". Sprich alle Teile laut mit: Klas-sen-lei-tung. Das ss kommt vom kurzen „a\" in „Klasse\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Klasse",
+    "leiten"
+  ],
+  "bild_datei": "Klassenleitung.webp",
+  "audio_datei": "Klassenleitung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klassenleitung",
+    "plural": "die Klassenleitungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klassenleitung",
+        "genitiv": "der Klassenleitung",
+        "dativ": "der Klassenleitung",
+        "akkusativ": "die Klassenleitung"
+      },
+      "plural": {
+        "nominativ": "die Klassenleitungen",
+        "genitiv": "der Klassenleitungen",
+        "dativ": "den Klassenleitungen",
+        "akkusativ": "die Klassenleitungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "class teacher / homeroom teacher"
+    },
+    {
+      "language_code": "fr",
+      "translation": "professeur principal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınıf öğretmeni"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معلم الفصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leiten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenlehrerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenlehrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klasenleitung",
+    "Klasssenleitung",
+    "Klassenleiding",
+    "Klasenleiding",
+    "Klassenleithung",
+    "Klassenleidung"
+  ]
+}

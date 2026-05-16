@@ -1,0 +1,89 @@
+{
+  "lemma": "Sorte",
+  "wortart": "Nomen",
+  "silben": "Sor-te",
+  "begriffserklaerung": "Eine Sorte ist eine bestimmte Art von etwas, zum Beispiel eine Eissorte oder eine Apfelsorte.",
+  "beispielsatz": "Meine Lieblingssorte Eis ist Schokolade.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Sor-te. Du hörst zwei Silben. Das „t\" in der Mitte schreibst du einfach, weil der Vokal „o\" lang klingt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sort"
+  ],
+  "bild_datei": "Sorte.webp",
+  "audio_datei": "Sorte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sort / type"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sorte / type"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çeşit / tür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نوع / صنف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sortieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sortiment"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Art"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Typ"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auswahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kategorie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sorte",
+    "plural": "die Sorten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sorte",
+        "genitiv": "der Sorte",
+        "dativ": "der Sorte",
+        "akkusativ": "die Sorte"
+      },
+      "plural": {
+        "nominativ": "die Sorten",
+        "genitiv": "der Sorten",
+        "dativ": "den Sorten",
+        "akkusativ": "die Sorten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zorte",
+    "Sorten",
+    "Sortte",
+    "Sorde"
+  ]
+}

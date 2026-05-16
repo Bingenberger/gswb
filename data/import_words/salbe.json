@@ -1,0 +1,82 @@
+{
+  "lemma": "Salbe",
+  "wortart": "Nomen",
+  "silben": "Sal-be",
+  "begriffserklaerung": "Eine Salbe ist eine weiche, fettige Creme, die man auf die Haut streicht, um eine Wunde oder eine gereizte Stelle zu heilen.",
+  "beispielsatz": "Mama streicht mir eine Salbe auf das aufgeschürfte Knie.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Sal-be. Du hörst beide Silben deutlich – schreib, was du sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "salb"
+  ],
+  "bild_datei": "Salbe.webp",
+  "audio_datei": "Salbe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ointment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pommade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merhem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرهم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "salben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salbung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Creme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Creme"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Salbe",
+    "plural": "die Salben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Salbe",
+        "genitiv": "der Salbe",
+        "dativ": "der Salbe",
+        "akkusativ": "die Salbe"
+      },
+      "plural": {
+        "nominativ": "die Salben",
+        "genitiv": "der Salben",
+        "dativ": "den Salben",
+        "akkusativ": "die Salben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zalbe",
+    "Salpe",
+    "Salb",
+    "Salben",
+    "Sallbe"
+  ]
+}

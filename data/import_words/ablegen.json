@@ -1,0 +1,100 @@
+{
+  "lemma": "ablegen",
+  "wortart": "Verb",
+  "silben": "ab-le-gen",
+  "begriffserklaerung": "Etwas ablegen bedeutet, etwas, das man trägt oder hält, irgendwo hinzulegen oder hinzustellen – zum Beispiel eine Jacke oder eine Tasche.",
+  "beispielsatz": "Bitte leg deinen Rucksack am Eingang ab!",
+  "rechtschreibstrategie": "Das Wort „ablegen\" besteht aus zwei Teilen: „ab\" und „legen\". Sprich beide Teile deutlich: ab – le – gen. Das „g\" am Ende hörst du beim Verlängern: legen → legt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "legen",
+    "Lage"
+  ],
+  "bild_datei": "ablegen.webp",
+  "audio_datei": "ablegen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "ablegen",
+    "praesens": {
+      "ich": "lege ab",
+      "du": "legst ab",
+      "er_sie_es": "legt ab",
+      "wir": "legen ab",
+      "ihr": "legt ab",
+      "sie": "legen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgelegt",
+      "du": "hast abgelegt",
+      "er_sie_es": "hat abgelegt",
+      "wir": "haben abgelegt",
+      "ihr": "habt abgelegt",
+      "sie": "haben abgelegt"
+    },
+    "praeteritum": {
+      "ich": "legte ab",
+      "du": "legtest ab",
+      "er_sie_es": "legte ab",
+      "wir": "legten ab",
+      "ihr": "legtet ab",
+      "sie": "legten ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to put down / to take off"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poser / déposer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bırakmak / çıkarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يضع جانباً / يخلع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "legen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ablage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinlegen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufhängen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufräumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hinstellen"
+    }
+  ],
+  "fehlschreibungen": [
+    "ableggen",
+    "ablegen",
+    "abläggen",
+    "ablägen",
+    "ablecken",
+    "ablegn"
+  ]
+}

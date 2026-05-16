@@ -1,0 +1,92 @@
+{
+  "lemma": "Einkaufsbeutel",
+  "wortart": "Nomen",
+  "silben": "Ein-kaufs-beu-tel",
+  "begriffserklaerung": "Ein Einkaufsbeutel ist eine Tasche, die man beim Einkaufen benutzt, um eingekaufte Sachen darin zu tragen.",
+  "beispielsatz": "Mama packt das Gemüse und das Brot in den Einkaufsbeutel.",
+  "rechtschreibstrategie": "Der Einkaufsbeutel ist ein Bausteinwort aus drei Teilen: „ein\" + „kauf\" + „Beutel\". Sprich alle Teile laut mit: Ein-kaufs-beu-tel!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "beutel"
+  ],
+  "bild_datei": "Einkaufsbeutel.webp",
+  "audio_datei": "Einkaufsbeutel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping bag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sac de courses"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş çantası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beutel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufstasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufswagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tragetasche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Einkaufsbeutel",
+    "plural": "die Einkaufsbeutel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Einkaufsbeutel",
+        "genitiv": "des Einkaufsbeutels",
+        "dativ": "dem Einkaufsbeutel",
+        "akkusativ": "den Einkaufsbeutel"
+      },
+      "plural": {
+        "nominativ": "die Einkaufsbeutel",
+        "genitiv": "der Einkaufsbeutel",
+        "dativ": "den Einkaufsbeuteln",
+        "akkusativ": "die Einkaufsbeutel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einkaufsbeutal",
+    "Einkausfbeutel",
+    "Einkaufsbäutel",
+    "Einkaufbeutel",
+    "Eingaufsbeutel",
+    "Einkaufsbeutle"
+  ]
+}

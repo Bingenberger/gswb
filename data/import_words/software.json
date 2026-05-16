@@ -1,0 +1,72 @@
+{
+  "lemma": "Software",
+  "wortart": "Nomen",
+  "silben": "Soft-ware",
+  "begriffserklaerung": "Software sind alle Programme, die auf einem Computer, Tablet oder Smartphone laufen. Sie sagen dem Gerät, was es tun soll.",
+  "beispielsatz": "Ohne die richtige Software kann der Computer kein Spiel starten.",
+  "rechtschreibstrategie": "„Software\" kommt aus dem Englischen. Schreibe es mit großem S, weil es ein Nomen ist, und merke dir: „soft\" (weich) und „ware\" (Ware) – zwei englische Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Software.webp",
+  "audio_datei": "Software.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Software",
+    "plural": "die Softwares",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Software",
+        "genitiv": "der Software",
+        "dativ": "der Software",
+        "akkusativ": "die Software"
+      },
+      "plural": {
+        "nominativ": "die Softwares",
+        "genitiv": "der Softwares",
+        "dativ": "den Softwares",
+        "akkusativ": "die Softwares"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "software"
+    },
+    {
+      "language_code": "fr",
+      "translation": "logiciel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazılım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برمجيات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "App"
+    }
+  ],
+  "fehlschreibungen": [
+    "Softwäre",
+    "Sofware",
+    "Softwaare",
+    "software"
+  ]
+}

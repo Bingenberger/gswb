@@ -1,0 +1,99 @@
+{
+  "lemma": "greifen",
+  "wortart": "Verb",
+  "silben": "grei-fen",
+  "begriffserklaerung": "Wenn du etwas greifst, packst du es mit der Hand und hältst es fest.",
+  "beispielsatz": "Das Kind greift nach dem bunten Luftballon.",
+  "rechtschreibstrategie": "In „greifen\" steckt das lange „ei\" – sprich es laut: g-r-EI-fen. Das „ei\" hörst du deutlich, also schreibst du es auch so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "greif"
+  ],
+  "bild_datei": "greifen.webp",
+  "audio_datei": "greifen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to grab / to grasp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saisir / attraper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tutmak / kavramak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمسك / يقبض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Griff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "begreifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "packen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "fassen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "halten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "anfassen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "greifen",
+    "praesens": {
+      "ich": "greife",
+      "du": "greifst",
+      "er_sie_es": "greift",
+      "wir": "greifen",
+      "ihr": "greift",
+      "sie": "greifen"
+    },
+    "perfekt": {
+      "ich": "habe gegriffen",
+      "du": "hast gegriffen",
+      "er_sie_es": "hat gegriffen",
+      "wir": "haben gegriffen",
+      "ihr": "habt gegriffen",
+      "sie": "haben gegriffen"
+    },
+    "praeteritum": {
+      "ich": "griff",
+      "du": "griffst",
+      "er_sie_es": "griff",
+      "wir": "griffen",
+      "ihr": "grifft",
+      "sie": "griffen"
+    }
+  },
+  "fehlschreibungen": [
+    "greiffen",
+    "greiven",
+    "greifem",
+    "greifn",
+    "graifen",
+    "greipfen"
+  ]
+}

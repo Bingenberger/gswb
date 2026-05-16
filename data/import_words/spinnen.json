@@ -1,0 +1,93 @@
+{
+  "lemma": "spinnen",
+  "wortart": "Verb",
+  "silben": "spin-nen",
+  "begriffserklaerung": "Spinnen bedeutet, dünne Fasern (zum Beispiel Wolle oder Seide) zu einem langen Faden drehen. Manchmal sagt man auch „du spinnst\", wenn jemand etwas Verrücktes sagt oder denkt.",
+  "beispielsatz": "Die Spinne spinnt einen feinen Faden aus Seide.",
+  "rechtschreibstrategie": "Das Wort „spinnen\" hat zwei n am Ende – das erkennst du, weil der Vokal i kurz klingt. Nach einem kurzen Vokal steht der folgende Konsonant doppelt: spin-nen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "spinn"
+  ],
+  "bild_datei": "spinnen.webp",
+  "audio_datei": "spinnen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "spinnen",
+    "praesens": {
+      "ich": "spinne",
+      "du": "spinnst",
+      "er_sie_es": "spinnt",
+      "wir": "spinnen",
+      "ihr": "spinnt",
+      "sie": "spinnen"
+    },
+    "perfekt": {
+      "ich": "habe gesponnen",
+      "du": "hast gesponnen",
+      "er_sie_es": "hat gesponnen",
+      "wir": "haben gesponnen",
+      "ihr": "habt gesponnen",
+      "sie": "haben gesponnen"
+    },
+    "praeteritum": {
+      "ich": "spann",
+      "du": "spannst",
+      "er_sie_es": "spann",
+      "wir": "spannen",
+      "ihr": "spannt",
+      "sie": "spannen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to spin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spinne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spinnrad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spinnerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "nähen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "drehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "spinen",
+    "spinenn",
+    "Spinnen",
+    "spinn"
+  ]
+}

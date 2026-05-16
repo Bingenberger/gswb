@@ -1,0 +1,86 @@
+{
+  "lemma": "Lerner",
+  "wortart": "Nomen",
+  "silben": "Ler-ner",
+  "begriffserklaerung": "Ein Lerner ist jemand, der gerade etwas Neues lernt – zum Beispiel in der Schule oder beim Spielen.",
+  "beispielsatz": "Als neuer Lerner in der Klasse hat Tim schnell viele Wörter gelernt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ler-ner. Du hörst zwei Silben. Das r am Ende gehört zur zweiten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lern"
+  ],
+  "bild_datei": "Lerner.webp",
+  "audio_datei": "Lerner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "learner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apprenant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğrenci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متعلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lernerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schüler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lerner",
+    "plural": "die Lerner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lerner",
+        "genitiv": "des Lerners",
+        "dativ": "dem Lerner",
+        "akkusativ": "den Lerner"
+      },
+      "plural": {
+        "nominativ": "die Lerner",
+        "genitiv": "der Lerner",
+        "dativ": "den Lernern",
+        "akkusativ": "die Lerner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lernner",
+    "Lärner",
+    "Lernar",
+    "Lernär",
+    "Lerner"
+  ]
+}

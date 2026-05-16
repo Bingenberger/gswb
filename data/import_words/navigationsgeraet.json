@@ -1,0 +1,90 @@
+{
+  "lemma": "Navigationsgerät",
+  "wortart": "Nomen",
+  "silben": "Na-vi-ga-ti-ons-ge-rät",
+  "begriffserklaerung": "Ein Navigationsgerät ist ein kleines Gerät, das dir den Weg zeigt. Es weiß genau, wo du gerade bist, und erklärt dir Schritt für Schritt, wie du an dein Ziel kommst.",
+  "beispielsatz": "Papa hat das Navigationsgerät eingeschaltet, damit wir den Weg zur Hütte im Wald finden.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Navigation\" + „s\" + „Gerät\". Sprich alle Teile langsam nach: Na-vi-ga-ti-on-s-ge-rät. Das ä am Ende schreibst du wie in „Gerät\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "navigier",
+    "Gerät"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Navigationsgerät",
+    "plural": "die Navigationsgeräte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Navigationsgerät",
+        "genitiv": "des Navigationsgeräts",
+        "dativ": "dem Navigationsgerät",
+        "akkusativ": "das Navigationsgerät"
+      },
+      "plural": {
+        "nominativ": "die Navigationsgeräte",
+        "genitiv": "der Navigationsgeräte",
+        "dativ": "den Navigationsgeräten",
+        "akkusativ": "die Navigationsgeräte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Navegatonsgerät",
+    "Navigationsgerät",
+    "Naviagationsgerät",
+    "Navigazionsgerät",
+    "Naviationsgerät",
+    "Navigationsgeräht",
+    "Navigationsgerat"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "navigation device / sat nav"
+    },
+    {
+      "language_code": "fr",
+      "translation": "GPS / appareil de navigation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "navigasyon cihazı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز الملاحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "navigieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Navigation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Routenplaner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Navi"
+    }
+  ],
+  "bild_datei": "Navigationsgerät.webp",
+  "audio_datei": "Navigationsgerät.mp3"
+}

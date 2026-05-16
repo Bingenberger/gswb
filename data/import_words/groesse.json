@@ -1,0 +1,86 @@
+{
+  "lemma": "Größe",
+  "wortart": "Nomen",
+  "silben": "Grö-ße",
+  "begriffserklaerung": "Die Größe sagt uns, wie groß etwas oder jemand ist – also wie lang, hoch oder wie weit etwas reicht.",
+  "beispielsatz": "Die Lehrerin misst die Größe aller Kinder in der Klasse.",
+  "rechtschreibstrategie": "In „Größe\" steckt ein ß, weil der Vokal „ö\" lang gesprochen wird. Nach einem langen Vokal schreibt man ß, nicht ss!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "groß"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Größe",
+    "plural": "die Größen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Größe",
+        "genitiv": "der Größe",
+        "dativ": "der Größe",
+        "akkusativ": "die Größe"
+      },
+      "plural": {
+        "nominativ": "die Größen",
+        "genitiv": "der Größen",
+        "dativ": "den Größen",
+        "akkusativ": "die Größen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grösse",
+    "Groeße",
+    "Größße",
+    "Grösße",
+    "Gröse"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "groß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergrößern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Höhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Länge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewicht"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "size / height"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boy / büyüklük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الحجم / الطول"
+    }
+  ],
+  "bild_datei": "Größe.webp",
+  "audio_datei": "Größe.mp3"
+}

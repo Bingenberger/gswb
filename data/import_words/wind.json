@@ -1,0 +1,77 @@
+{
+  "lemma": "Wind",
+  "wortart": "Nomen",
+  "silben": "Wind",
+  "begriffserklaerung": "Wind ist bewegte Luft, die du auf deiner Haut spüren kannst. Er kann sanft pusten oder sehr stark sein.",
+  "beispielsatz": "Der Wind bläst die bunten Blätter durch die Luft.",
+  "rechtschreibstrategie": "Wenn du „Wind\" verlängerst, sagst du „die Winde\" – da hörst du das d am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wind",
+    "plural": "die Winde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wind",
+        "genitiv": "des Windes",
+        "dativ": "dem Wind",
+        "akkusativ": "den Wind"
+      },
+      "plural": {
+        "nominativ": "die Winde",
+        "genitiv": "der Winde",
+        "dativ": "den Winden",
+        "akkusativ": "die Winde"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "wind"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sturm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brise"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wint",
+    "Vind",
+    "Windt",
+    "Winde"
+  ],
+  "bild_datei": "Wind.webp",
+  "audio_datei": "Wind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wind"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rüzgar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رياح"
+    }
+  ]
+}

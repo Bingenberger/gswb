@@ -1,0 +1,83 @@
+{
+  "lemma": "Kühlschrank",
+  "wortart": "Nomen",
+  "silben": "Kühl-schrank",
+  "begriffserklaerung": "Ein Kühlschrank ist ein großes Gerät in der Küche, das Lebensmittel kalt und frisch hält.",
+  "beispielsatz": "Mama holt die Milch aus dem Kühlschrank.",
+  "rechtschreibstrategie": "Denk an die zwei Bausteine: „kühl\" und „Schrank\". Beide Wörter kennst du schon – zusammen ergeben sie „Kühlschrank\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kühl",
+    "Schrank"
+  ],
+  "bild_datei": "Kühlschrank.webp",
+  "audio_datei": "Kühlschrank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fridge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réfrigérateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buzdolabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثلاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kühl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefrierschrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lebensmittel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kühlschrank",
+    "plural": "die Kühlschränke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kühlschrank",
+        "genitiv": "des Kühlschrankes",
+        "dativ": "dem Kühlschrank",
+        "akkusativ": "den Kühlschrank"
+      },
+      "plural": {
+        "nominativ": "die Kühlschränke",
+        "genitiv": "der Kühlschränke",
+        "dativ": "den Kühlschränken",
+        "akkusativ": "die Kühlschränke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Külschrank",
+    "Kühlschranck",
+    "Kühlscrank",
+    "Kuehlschrank",
+    "Kühlschrnk"
+  ]
+}

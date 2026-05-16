@@ -1,0 +1,84 @@
+{
+  "lemma": "Mutterschwein",
+  "wortart": "Nomen",
+  "silben": "Mut-ter-schwein",
+  "begriffserklaerung": "Ein Mutterschwein ist eine weibliche Sau, die Ferkel bekommen hat und für ihre Jungen sorgt.",
+  "beispielsatz": "Das Mutterschwein liegt im Stroh und stillt seine kleinen Ferkel.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Mutter\" und „Schwein\". Das Doppel-t in „Mutter\" zeigt den kurzen Vokal davor. Sprich beide Bausteine deutlich: MUT-TER-SCHWEIN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mutter",
+    "Schwein"
+  ],
+  "bild_datei": "Mutterschwein.webp",
+  "audio_datei": "Mutterschwein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "truie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişi domuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الخنزيرة الأم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ferkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sau"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mutterschwein",
+    "plural": "die Mutterschweine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mutterschwein",
+        "genitiv": "des Mutterschweins",
+        "dativ": "dem Mutterschwein",
+        "akkusativ": "das Mutterschwein"
+      },
+      "plural": {
+        "nominativ": "die Mutterschweine",
+        "genitiv": "der Mutterschweine",
+        "dativ": "den Mutterschweinen",
+        "akkusativ": "die Mutterschweine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Muterschwein",
+    "Mutterschein",
+    "Mutterschwain",
+    "Mutterswein",
+    "Mutterschween"
+  ]
+}

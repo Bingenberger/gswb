@@ -1,0 +1,85 @@
+{
+  "lemma": "Gottesdienst",
+  "wortart": "Nomen",
+  "silben": "Got-tes-dienst",
+  "begriffserklaerung": "Ein Gottesdienst ist eine Feier in der Kirche, Moschee, Synagoge oder einem anderen Gotteshaus, bei der Menschen gemeinsam beten, singen und an Gott denken.",
+  "beispielsatz": "Am Sonntag geht die Familie zusammen in den Gottesdienst.",
+  "rechtschreibstrategie": "Das Wort „Gottesdienst\" ist aus drei Bausteinen zusammengesetzt: „Gott\" + „es\" + „Dienst\". Schreibe alle drei Teile nacheinander – dann klappt die Schreibung!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Gott",
+    "Dienst"
+  ],
+  "bild_datei": "Gottesdienst.webp",
+  "audio_datei": "Gottesdienst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "church service"
+    },
+    {
+      "language_code": "fr",
+      "translation": "office religieux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ibadet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قداس / خدمة دينية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gott"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gottesdienst",
+    "plural": "die Gottesdienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gottesdienst",
+        "genitiv": "des Gottesdienstes",
+        "dativ": "dem Gottesdienst",
+        "akkusativ": "den Gottesdienst"
+      },
+      "plural": {
+        "nominativ": "die Gottesdienste",
+        "genitiv": "der Gottesdienste",
+        "dativ": "den Gottesdiensten",
+        "akkusativ": "die Gottesdienste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gotesdienst",
+    "Gottesdiensd",
+    "Gottesdinst",
+    "Gottes Dienst",
+    "Gottedienst",
+    "Gottesdeenst"
+  ]
+}

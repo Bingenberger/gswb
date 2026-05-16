@@ -1,0 +1,74 @@
+{
+  "lemma": "Whiteboard",
+  "wortart": "Nomen",
+  "silben": "White-board",
+  "begriffserklaerung": "Ein Whiteboard ist eine weiße Tafel, auf die man mit speziellen Stiften schreiben kann. Das Geschriebene lässt sich leicht wieder abwischen.",
+  "beispielsatz": "Die Lehrerin schreibt die Aufgabe ans Whiteboard.",
+  "rechtschreibstrategie": "„Whiteboard\" kommt aus dem Englischen: „white\" bedeutet weiß und „board\" bedeutet Brett oder Tafel. Denk an die weiße Tafel in deiner Klasse!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Whiteboard.webp",
+  "audio_datei": "Whiteboard.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "whiteboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau blanc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beyaz tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح أبيض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weißwandtafel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Whiteboard",
+    "plural": "die Whiteboards",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Whiteboard",
+        "genitiv": "des Whiteboards",
+        "dativ": "dem Whiteboard",
+        "akkusativ": "das Whiteboard"
+      },
+      "plural": {
+        "nominativ": "die Whiteboards",
+        "genitiv": "der Whiteboards",
+        "dativ": "den Whiteboards",
+        "akkusativ": "die Whiteboards"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weidboard",
+    "Whitbord",
+    "Whaitboard",
+    "Wightboard",
+    "Whiteboart"
+  ]
+}

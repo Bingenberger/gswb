@@ -1,0 +1,83 @@
+{
+  "lemma": "Träger",
+  "wortart": "Nomen",
+  "silben": "Trä-ger",
+  "begriffserklaerung": "Ein Träger ist jemand oder etwas, das etwas trägt oder hält. Das kann ein Mensch sein, der etwas transportiert, aber auch ein Streifen Stoff an einer Hose oder einem Kleid.",
+  "beispielsatz": "Der Träger meines Rucksacks ist gerissen.",
+  "rechtschreibstrategie": "Denk an das Verb „tragen\" – daraus entsteht „Träger\". Das ä kommt von dem a in „tragen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "trag"
+  ],
+  "bild_datei": "Träger.webp",
+  "audio_datei": "Träger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carrier / strap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porteur / bretelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taşıyıcı / askı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حامل / حزام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tragfläche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Halter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Träger",
+    "plural": "die Träger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Träger",
+        "genitiv": "des Trägers",
+        "dativ": "dem Träger",
+        "akkusativ": "den Träger"
+      },
+      "plural": {
+        "nominativ": "die Träger",
+        "genitiv": "der Träger",
+        "dativ": "den Trägern",
+        "akkusativ": "die Träger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Treger",
+    "Traeger",
+    "Dräger",
+    "Träger",
+    "Trägger",
+    "Treeger"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Scheibe",
+  "wortart": "Nomen",
+  "silben": "Schei-be",
+  "begriffserklaerung": "Eine Scheibe ist ein flaches, rundes oder eckiges Stück, zum Beispiel aus Glas, Brot oder Wurst.",
+  "beispielsatz": "Ich schneide mir eine Scheibe Brot ab.",
+  "rechtschreibstrategie": "Denk an das „ei\" in Scheibe – sprich es laut: SCH-EI-BE. Das „ei\" klingt wie in „Ei\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "scheib"
+  ],
+  "bild_datei": "Scheibe.webp",
+  "audio_datei": "Scheibe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slice / pane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tranche / vitre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dilim / cam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شريحة / زجاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Scheibenputzer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stück"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Scheibe",
+    "plural": "die Scheiben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Scheibe",
+        "genitiv": "der Scheibe",
+        "dativ": "der Scheibe",
+        "akkusativ": "die Scheibe"
+      },
+      "plural": {
+        "nominativ": "die Scheiben",
+        "genitiv": "der Scheiben",
+        "dativ": "den Scheiben",
+        "akkusativ": "die Scheiben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Scheipe",
+    "Scheibe",
+    "Scheibе",
+    "Scheipе",
+    "Sceibe",
+    "Schibe",
+    "Schaiebe"
+  ]
+}

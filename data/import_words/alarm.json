@@ -1,0 +1,82 @@
+{
+  "lemma": "Alarm",
+  "wortart": "Nomen",
+  "silben": "A-larm",
+  "begriffserklaerung": "Ein Alarm ist ein lautes Signal, das Menschen warnt, wenn etwas Gefährliches passiert – zum Beispiel bei einem Brand oder einem Einbruch.",
+  "beispielsatz": "Als der Alarm losging, rannten alle Kinder schnell aus dem Schulgebäude.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich in Silben: A – larm. Am Ende hörst du ein „m\" – das schreibst du auch so.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "alarm"
+  ],
+  "bild_datei": "Alarm.webp",
+  "audio_datei": "Alarm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Alarm",
+    "plural": "die Alarme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Alarm",
+        "genitiv": "des Alarm(e)s",
+        "dativ": "dem Alarm",
+        "akkusativ": "den Alarm"
+      },
+      "plural": {
+        "nominativ": "die Alarme",
+        "genitiv": "der Alarme",
+        "dativ": "den Alarmen",
+        "akkusativ": "die Alarme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "alarm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "alarme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alarm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إنذار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "alarmieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Alarmanlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sirene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Warnsignal"
+    }
+  ],
+  "fehlschreibungen": [
+    "Allarm",
+    "Allarme",
+    "Alarmm",
+    "Alam",
+    "Alerm"
+  ]
+}

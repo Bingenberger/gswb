@@ -1,0 +1,72 @@
+{
+  "lemma": "Baby",
+  "wortart": "Nomen",
+  "silben": "Ba-by",
+  "begriffserklaerung": "Ein Baby ist ein sehr kleines Kind, das gerade erst auf die Welt gekommen ist. Babys können noch nicht laufen oder sprechen.",
+  "beispielsatz": "Das Baby schläft friedlich in seinem Bettchen.",
+  "rechtschreibstrategie": "Das Wort „Baby\" kommt aus dem Englischen. Denk daran: Am Ende steht ein „y\" – nicht „ie\" oder „i\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Baby.webp",
+  "audio_datei": "Baby.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baby"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bébé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bebek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رضيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleinkind"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Säugling"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Baby",
+    "plural": "Babys",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Baby",
+        "genitiv": "des Babys",
+        "dativ": "dem Baby",
+        "akkusativ": "das Baby"
+      },
+      "plural": {
+        "nominativ": "die Babys",
+        "genitiv": "der Babys",
+        "dativ": "den Babys",
+        "akkusativ": "die Babys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Babby",
+    "Babi",
+    "Babie",
+    "Baaby",
+    "Babey"
+  ]
+}

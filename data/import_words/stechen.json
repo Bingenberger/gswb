@@ -1,0 +1,91 @@
+{
+  "lemma": "stechen",
+  "wortart": "Verb",
+  "silben": "ste-chen",
+  "begriffserklaerung": "Mit etwas Spitzem in etwas oder jemanden eindringen, zum Beispiel wie eine Biene mit ihrem Stachel.",
+  "beispielsatz": "Die Biene hat mich in den Finger gestochen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „ste-chen\". Das „ch\" hörst du deutlich – schreib es so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "stech",
+    "stich"
+  ],
+  "bild_datei": "stechen.webp",
+  "audio_datei": "stechen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sting / to prick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "piquer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sokmak / batmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يلسع / يطعن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stachel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beißen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kratzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "piksen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "stechen",
+    "praesens": {
+      "ich": "steche",
+      "du": "stichst",
+      "er_sie_es": "sticht",
+      "wir": "stechen",
+      "ihr": "stecht",
+      "sie": "stechen"
+    },
+    "perfekt": {
+      "ich": "habe gestochen",
+      "du": "hast gestochen",
+      "er_sie_es": "hat gestochen",
+      "wir": "haben gestochen",
+      "ihr": "habt gestochen",
+      "sie": "haben gestochen"
+    },
+    "praeteritum": {
+      "ich": "stach",
+      "du": "stachst",
+      "er_sie_es": "stach",
+      "wir": "stachen",
+      "ihr": "stacht",
+      "sie": "stachen"
+    }
+  },
+  "fehlschreibungen": [
+    "stechen",
+    "sthechen",
+    "stächen",
+    "stecken",
+    "sdechen"
+  ]
+}

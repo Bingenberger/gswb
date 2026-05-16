@@ -1,0 +1,82 @@
+{
+  "lemma": "Topf",
+  "wortart": "Nomen",
+  "silben": "Topf",
+  "begriffserklaerung": "Ein Topf ist ein rundes Gefäß aus Metall oder Keramik mit einem Griff oder zwei Henkeln. Man benutzt ihn zum Kochen auf dem Herd.",
+  "beispielsatz": "Mama kocht die Suppe in einem großen Topf.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" hörst du das „pf\" deutlich – sprich das Wort laut: Topf. Schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Topf"
+  ],
+  "bild_datei": "Topf.webp",
+  "audio_datei": "Topf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casserole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tencere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قِدْر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blumentopf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kochtopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deckel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kochtopf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Topf",
+    "plural": "die Töpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Topf",
+        "genitiv": "des Topfes",
+        "dativ": "dem Topf",
+        "akkusativ": "den Topf"
+      },
+      "plural": {
+        "nominativ": "die Töpfe",
+        "genitiv": "der Töpfe",
+        "dativ": "den Töpfen",
+        "akkusativ": "die Töpfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tobf",
+    "Dopf",
+    "Topph",
+    "Topp",
+    "Toph"
+  ]
+}

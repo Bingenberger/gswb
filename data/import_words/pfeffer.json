@@ -1,0 +1,82 @@
+{
+  "lemma": "Pfeffer",
+  "wortart": "Nomen",
+  "silben": "Pfef-fer",
+  "begriffserklaerung": "Pfeffer ist ein scharfes Gewürz, das aus kleinen getrockneten Körnern gemahlen wird. Man streut es über Essen, damit es würzig schmeckt.",
+  "beispielsatz": "Mama gibt etwas Pfeffer an die Suppe, damit sie würzig schmeckt.",
+  "rechtschreibstrategie": "Höre genau hin: Nach dem kurzen „e\" hörst du das „f\" doppelt – deshalb schreibt man „ff\": Pfef-fer.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Pfeffer"
+  ],
+  "bild_datei": "Pfeffer.webp",
+  "audio_datei": "Pfeffer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pfeffer",
+    "plural": "die Pfeffer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pfeffer",
+        "genitiv": "des Pfeffers",
+        "dativ": "dem Pfeffer",
+        "akkusativ": "den Pfeffer"
+      },
+      "plural": {
+        "nominativ": "die Pfeffer",
+        "genitiv": "der Pfeffer",
+        "dativ": "den Pfeffern",
+        "akkusativ": "die Pfeffer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pepper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poivre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "biber"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فلفل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pfeffern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pfeffermühle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewürz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fefer",
+    "Ffefer",
+    "Pfäfer",
+    "Pfefar",
+    "Pfefer"
+  ]
+}

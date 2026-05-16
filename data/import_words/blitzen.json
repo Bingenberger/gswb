@@ -1,0 +1,94 @@
+{
+  "lemma": "blitzen",
+  "wortart": "Verb",
+  "silben": "blit-zen",
+  "begriffserklaerung": "Wenn es blitzt, leuchtet bei einem Gewitter kurz ein helles Licht am Himmel auf.",
+  "beispielsatz": "Bei dem Gewitter hat es laut gedonnert und stark geblitzt.",
+  "rechtschreibstrategie": "Schreibe „blitzen\" mit tz, weil nach dem kurzen „i\" ein tz steht – das klingt kurz und knapp!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Blitz"
+  ],
+  "bild_datei": "blitzen.webp",
+  "audio_datei": "blitzen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "blitzen",
+    "praesens": {
+      "ich": "blitze",
+      "du": "blitzt",
+      "er_sie_es": "blitzt",
+      "wir": "blitzen",
+      "ihr": "blitzt",
+      "sie": "blitzen"
+    },
+    "perfekt": {
+      "ich": "habe geblitzt",
+      "du": "hast geblitzt",
+      "er_sie_es": "hat geblitzt",
+      "wir": "haben geblitzt",
+      "ihr": "habt geblitzt",
+      "sie": "haben geblitzt"
+    },
+    "praeteritum": {
+      "ich": "blitzte",
+      "du": "blitztest",
+      "er_sie_es": "blitzte",
+      "wir": "blitzten",
+      "ihr": "blitztet",
+      "sie": "blitzten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to lightning / to flash"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire des éclairs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şimşek çakmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blitzableiter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "donnern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "regnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufleuchten"
+    }
+  ],
+  "fehlschreibungen": [
+    "bliczen",
+    "blizten",
+    "blitsen",
+    "bliezen",
+    "blizen"
+  ]
+}

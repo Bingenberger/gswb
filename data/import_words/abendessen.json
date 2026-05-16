@@ -1,0 +1,88 @@
+{
+  "lemma": "Abendessen",
+  "wortart": "Nomen",
+  "silben": "A-bend-es-sen",
+  "begriffserklaerung": "Das Abendessen ist die Mahlzeit, die man am Abend isst. Es ist meistens die letzte Mahlzeit des Tages.",
+  "beispielsatz": "Wir essen jeden Abend gemeinsam Abendessen am großen Tisch.",
+  "rechtschreibstrategie": "Das Wort „Abendessen\" besteht aus zwei Teilen: „Abend\" und „Essen\". Sprich beide Teile laut: A-bend – Es-sen. Das „ss\" im zweiten Teil schreibst du, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Abend",
+    "essen"
+  ],
+  "bild_datei": "Abendessen.webp",
+  "audio_datei": "Abendessen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abendessen",
+    "plural": "die Abendessen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abendessen",
+        "genitiv": "des Abendessens",
+        "dativ": "dem Abendessen",
+        "akkusativ": "das Abendessen"
+      },
+      "plural": {
+        "nominativ": "die Abendessen",
+        "genitiv": "der Abendessen",
+        "dativ": "den Abendessen",
+        "akkusativ": "die Abendessen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dinner / supper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dîner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akşam yemeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عشاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abendbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittagessen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abendesen",
+    "Abendesssen",
+    "Abentessen",
+    "abendessen",
+    "Abend-Essen"
+  ]
+}

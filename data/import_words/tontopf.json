@@ -1,0 +1,88 @@
+{
+  "lemma": "Tontopf",
+  "wortart": "Nomen",
+  "silben": "Ton-topf",
+  "begriffserklaerung": "Ein Tontopf ist ein Gefäß aus gebranntem Ton. Man pflanzt darin Blumen ein oder benutzt ihn zum Aufbewahren von Dingen.",
+  "beispielsatz": "Die Sonnenblume steht in einem orangefarbenen Tontopf auf dem Fensterbrett.",
+  "rechtschreibstrategie": "Tontopf ist ein Bausteinwort: Ton + Topf. Sprich beide Teile laut mit: „TON\" und „TOPF\". Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ton",
+    "Topf"
+  ],
+  "bild_datei": "Tontopf.webp",
+  "audio_datei": "Tontopf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tontopf",
+    "plural": "die Tontöpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tontopf",
+        "genitiv": "des Tontopfes",
+        "dativ": "dem Tontopf",
+        "akkusativ": "den Tontopf"
+      },
+      "plural": {
+        "nominativ": "die Tontöpfe",
+        "genitiv": "der Tontöpfe",
+        "dativ": "den Tontöpfen",
+        "akkusativ": "die Tontöpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clay pot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pot en argile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toprak saksı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء طيني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ton"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blumentopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Keramik"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blumentopf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Thontopf",
+    "Tontoph",
+    "Tontob",
+    "Tonntopf",
+    "Tontopff"
+  ]
+}

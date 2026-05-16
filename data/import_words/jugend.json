@@ -1,0 +1,82 @@
+{
+  "lemma": "Jugend",
+  "wortart": "Nomen",
+  "silben": "Ju-gend",
+  "begriffserklaerung": "Die Jugend ist die Zeit, wenn man kein kleines Kind mehr ist, aber noch kein Erwachsener. Es ist die Zeit des Aufwachsens und Lernens.",
+  "beispielsatz": "In seiner Jugend spielte Opa jeden Tag Fußball auf der Wiese.",
+  "rechtschreibstrategie": "Schreibe am Ende „-gend\" – sprich das Wort laut und langsam: Ju-gend. Das „g\" klingt am Ende fast wie „t\", aber es steht ein „d\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "jung"
+  ],
+  "bild_datei": "Jugend.webp",
+  "audio_datei": "Jugend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "youth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeunesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gençlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شباب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jugendlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kindheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erwachsener"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Jugendzeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jugend",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jugend",
+        "genitiv": "der Jugend",
+        "dativ": "der Jugend",
+        "akkusativ": "die Jugend"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jugent",
+    "Jugend",
+    "Juggend",
+    "Yugend",
+    "Jugänd"
+  ]
+}

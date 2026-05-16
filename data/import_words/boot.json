@@ -1,0 +1,82 @@
+{
+  "lemma": "Boot",
+  "wortart": "Nomen",
+  "silben": "Boot",
+  "begriffserklaerung": "Ein Boot ist ein kleines Fahrzeug, das auf dem Wasser schwimmt und Menschen oder Dinge transportiert.",
+  "beispielsatz": "Wir fahren mit dem Boot über den ruhigen See.",
+  "rechtschreibstrategie": "„Boot\" schreibt man mit zwei „o\", weil der Vokal lang gesprochen wird. Denk daran: Das Boot hat zwei runde Bullaugen – die beiden „o\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "boot"
+  ],
+  "bild_datei": "Boot.webp",
+  "audio_datei": "Boot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bateau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "booten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bootsfahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ruder"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Boot",
+    "plural": "die Boote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Boot",
+        "genitiv": "des Bootes",
+        "dativ": "dem Boot",
+        "akkusativ": "das Boot"
+      },
+      "plural": {
+        "nominativ": "die Boote",
+        "genitiv": "der Boote",
+        "dativ": "den Booten",
+        "akkusativ": "die Boote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bot",
+    "Boht",
+    "Bood",
+    "Booht",
+    "Bott"
+  ]
+}

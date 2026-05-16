@@ -1,0 +1,89 @@
+{
+  "lemma": "Solarzelle",
+  "wortart": "Nomen",
+  "silben": "So-lar-zel-le",
+  "begriffserklaerung": "Eine Solarzelle ist ein kleines Bauteil, das Sonnenlicht in elektrischen Strom umwandelt. Viele Solarzellen zusammen bilden ein Solarmodul oder eine Solaranlage.",
+  "beispielsatz": "Die Solarzelle auf dem Dach erzeugt Strom aus Sonnenlicht.",
+  "rechtschreibstrategie": "Das Wort „Solarzelle\" ist aus zwei Teilen zusammengesetzt: „Solar\" und „Zelle\". Sprich beide Teile deutlich: So-lar-zel-le. Achte auf das doppelte l in „Zelle\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "solar",
+    "Zelle"
+  ],
+  "bild_datei": "Solarzelle.webp",
+  "audio_datei": "Solarzelle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "solar cell"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cellule solaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş pili"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلية شمسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Solar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Solaranlage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Solarenergie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenenergie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Solarzelle",
+    "plural": "die Solarzellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Solarzelle",
+        "genitiv": "der Solarzelle",
+        "dativ": "der Solarzelle",
+        "akkusativ": "die Solarzelle"
+      },
+      "plural": {
+        "nominativ": "die Solarzellen",
+        "genitiv": "der Solarzellen",
+        "dativ": "den Solarzellen",
+        "akkusativ": "die Solarzellen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Solarzele",
+    "Solarzell",
+    "Solarzellle",
+    "Solazelle",
+    "Sohlarzelle",
+    "Sollarzelle"
+  ]
+}

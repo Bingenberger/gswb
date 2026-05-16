@@ -1,0 +1,72 @@
+{
+  "lemma": "Möwe",
+  "wortart": "Nomen",
+  "silben": "Mö-we",
+  "begriffserklaerung": "Eine Möwe ist ein weißer oder grauer Vogel, der am Meer oder an Seen lebt und sehr laut schreien kann.",
+  "beispielsatz": "Die Möwe fliegt über das Meer und sucht nach Fischen.",
+  "rechtschreibstrategie": "Schreibe „Möwe\" mit ö und e am Ende – sprich es laut: Mö-we. Das e am Ende hörst du beim langsamen Sprechen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Möwe.webp",
+  "audio_datei": "Möwe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seagull"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mouette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "martı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نورس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Möwe",
+    "plural": "die Möwen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Möwe",
+        "genitiv": "der Möwe",
+        "dativ": "der Möwe",
+        "akkusativ": "die Möwe"
+      },
+      "plural": {
+        "nominativ": "die Möwen",
+        "genitiv": "der Möwen",
+        "dativ": "den Möwen",
+        "akkusativ": "die Möwen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Möhwe",
+    "Möve",
+    "Mövwe",
+    "Möewe",
+    "Moewe"
+  ]
+}

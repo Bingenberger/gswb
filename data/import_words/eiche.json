@@ -1,0 +1,83 @@
+{
+  "lemma": "Eiche",
+  "wortart": "Nomen",
+  "silben": "Ei-che",
+  "begriffserklaerung": "Die Eiche ist ein großer, starker Baum. Sie hat gezackte Blätter und trägt kleine Früchte, die Eicheln heißen. Eichen können sehr alt und sehr groß werden.",
+  "beispielsatz": "Im Park steht eine riesige Eiche, unter der wir gerne spielen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Ei-che\". Das „Ei\" klingt wie in „Eis\". Denk an die Eichel – dann weißt du, wie man „Eiche\" schreibt!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Eich-"
+  ],
+  "bild_datei": "Eiche.webp",
+  "audio_datei": "Eiche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oak"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chêne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meşe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلوط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eichel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eichhörnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eiche",
+    "plural": "die Eichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eiche",
+        "genitiv": "der Eiche",
+        "dativ": "der Eiche",
+        "akkusativ": "die Eiche"
+      },
+      "plural": {
+        "nominativ": "die Eichen",
+        "genitiv": "der Eichen",
+        "dativ": "den Eichen",
+        "akkusativ": "die Eichen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aiche",
+    "Eiche",
+    "Eihe",
+    "Eichhe",
+    "Eichee",
+    "Eicche"
+  ]
+}

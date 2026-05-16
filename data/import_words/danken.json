@@ -1,0 +1,90 @@
+{
+  "lemma": "danken",
+  "wortart": "Verb",
+  "silben": "dan-ken",
+  "begriffserklaerung": "Jemandem danken bedeutet, ihm zu sagen, dass man sich über etwas freut und froh ist, was er getan hat.",
+  "beispielsatz": "Lea dankt ihrer Oma für das schöne Geschenk.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „dan-ken\". Nach dem kurzen „a\" hörst du ein „n\" und ein „k\" – schreib genau, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "dank"
+  ],
+  "bild_datei": "danken.webp",
+  "audio_datei": "danken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to thank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "remercier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teşekkür etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يشكر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dankbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich bedanken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "loben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "grüßen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "danken",
+    "praesens": {
+      "ich": "danke",
+      "du": "dankst",
+      "er_sie_es": "dankt",
+      "wir": "danken",
+      "ihr": "dankt",
+      "sie": "danken"
+    },
+    "perfekt": {
+      "ich": "habe gedankt",
+      "du": "hast gedankt",
+      "er_sie_es": "hat gedankt",
+      "wir": "haben gedankt",
+      "ihr": "habt gedankt",
+      "sie": "haben gedankt"
+    },
+    "praeteritum": {
+      "ich": "dankte",
+      "du": "danktest",
+      "er_sie_es": "dankte",
+      "wir": "dankten",
+      "ihr": "danktet",
+      "sie": "dankten"
+    }
+  },
+  "fehlschreibungen": [
+    "dancken",
+    "danken",
+    "dankken",
+    "dangken",
+    "tankken"
+  ]
+}

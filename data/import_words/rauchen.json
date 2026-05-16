@@ -1,0 +1,89 @@
+{
+  "lemma": "rauchen",
+  "wortart": "Verb",
+  "silben": "rau-chen",
+  "begriffserklaerung": "Wenn etwas brennt und Rauch erzeugt, sagt man, es raucht. Manche Menschen rauchen auch Zigaretten, was sehr ungesund ist.",
+  "beispielsatz": "Das Lagerfeuer raucht stark, weil das Holz noch nass ist.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: rau-chen. Höre das „au\" – das schreibst du mit a und u. Das „ch\" am Ende hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Rauch"
+  ],
+  "bild_datei": "rauchen.webp",
+  "audio_datei": "rauchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to smoke"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fumer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sigara içmek / tütmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُدخِّن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rauchig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "qualmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "qualmen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "rauchen",
+    "praesens": {
+      "ich": "rauche",
+      "du": "rauchst",
+      "er_sie_es": "raucht",
+      "wir": "rauchen",
+      "ihr": "raucht",
+      "sie": "rauchen"
+    },
+    "perfekt": {
+      "ich": "habe geraucht",
+      "du": "hast geraucht",
+      "er_sie_es": "hat geraucht",
+      "wir": "haben geraucht",
+      "ihr": "habt geraucht",
+      "sie": "haben geraucht"
+    },
+    "praeteritum": {
+      "ich": "rauchte",
+      "du": "rauchtest",
+      "er_sie_es": "rauchte",
+      "wir": "rauchten",
+      "ihr": "rauchtet",
+      "sie": "rauchten"
+    }
+  },
+  "fehlschreibungen": [
+    "rauchen",
+    "rauhen",
+    "rauxen",
+    "rauchenn"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Monat",
+  "wortart": "Nomen",
+  "silben": "Mo-nat",
+  "begriffserklaerung": "Ein Monat ist ein Abschnitt im Jahr. Ein Jahr hat zwölf Monate, zum Beispiel Januar, Februar oder März.",
+  "beispielsatz": "Im Monat Dezember feiern wir Weihnachten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mo-nat. Du hörst zwei Silben. Schreibe, was du hörst: M-o-n-a-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Monat"
+  ],
+  "bild_datei": "Monat.webp",
+  "audio_datei": "Monat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "month"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "monatlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Monatsende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Monat",
+    "plural": "die Monate",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Monat",
+        "genitiv": "des Monats",
+        "dativ": "dem Monat",
+        "akkusativ": "den Monat"
+      },
+      "plural": {
+        "nominativ": "die Monate",
+        "genitiv": "der Monate",
+        "dativ": "den Monaten",
+        "akkusativ": "die Monate"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Monad",
+    "Mohnat",
+    "Moonat",
+    "Monahт",
+    "Monath"
+  ]
+}

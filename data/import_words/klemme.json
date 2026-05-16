@@ -1,0 +1,86 @@
+{
+  "lemma": "Klemme",
+  "wortart": "Nomen",
+  "silben": "Klem-me",
+  "begriffserklaerung": "Eine Klemme ist ein kleines Werkzeug oder Gerät, mit dem man zwei Dinge fest zusammenhält oder etwas an einer Stelle festhält.",
+  "beispielsatz": "Papa benutzt eine Klemme, um die Holzteile zusammenzuhalten, bis der Leim getrocknet ist.",
+  "rechtschreibstrategie": "Das Wort „Klemme\" hat ein doppeltes m – das merkst du, weil das e davor kurz und knapp klingt: Kl-e-mm-e.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klemme",
+    "plural": "die Klemmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klemme",
+        "genitiv": "der Klemme",
+        "dativ": "der Klemme",
+        "akkusativ": "die Klemme"
+      },
+      "plural": {
+        "nominativ": "die Klemmen",
+        "genitiv": "der Klemmen",
+        "dativ": "den Klemmen",
+        "akkusativ": "die Klemmen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "klemm"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klemmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klemmleiste"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraubzwinge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klemme",
+    "Kleme",
+    "Klemem",
+    "Clemme",
+    "Kläme"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clamp / clip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pince / agrafe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mengene / klips"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشبك / ملزمة"
+    }
+  ],
+  "bild_datei": "Klemme.webp",
+  "audio_datei": "Klemme.mp3"
+}

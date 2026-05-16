@@ -1,0 +1,84 @@
+{
+  "lemma": "Eichenblatt",
+  "wortart": "Nomen",
+  "silben": "Ei-chen-blatt",
+  "begriffserklaerung": "Ein Eichenblatt ist das Blatt eines Eichenbaums. Es hat einen welligen Rand mit vielen runden Zacken und ist meist dunkelgrün.",
+  "beispielsatz": "Im Herbst sammelte Mia ein buntes Eichenblatt vom Boden auf.",
+  "rechtschreibstrategie": "Das Wort „Eichenblatt\" ist ein zusammengesetztes Wort aus „Eiche\" und „Blatt\". Am Ende hörst du das kurze A in „Blatt\" – deshalb schreibt man zwei t: Blatt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Eiche",
+    "Blatt"
+  ],
+  "bild_datei": "Eichenblatt.webp",
+  "audio_datei": "Eichenblatt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oak leaf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feuille de chêne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "meşe yaprağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة البلوط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eiche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laubblatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Eichenblatt",
+    "plural": "die Eichenblätter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Eichenblatt",
+        "genitiv": "des Eichenblattes",
+        "dativ": "dem Eichenblatt",
+        "akkusativ": "das Eichenblatt"
+      },
+      "plural": {
+        "nominativ": "die Eichenblätter",
+        "genitiv": "der Eichenblätter",
+        "dativ": "den Eichenblättern",
+        "akkusativ": "die Eichenblätter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eichenblat",
+    "Aichenblatt",
+    "Eichenblatt",
+    "Eichenbladt",
+    "Eichenblaht"
+  ]
+}

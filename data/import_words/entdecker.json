@@ -1,0 +1,92 @@
+{
+  "lemma": "Entdecker",
+  "wortart": "Nomen",
+  "silben": "Ent-de-cker",
+  "begriffserklaerung": "Ein Entdecker ist jemand, der neue Orte, Dinge oder Ideen findet, die vorher noch niemand kannte.",
+  "beispielsatz": "Der mutige Entdecker reiste in den tiefen Dschungel und fand einen unbekannten Fluss.",
+  "rechtschreibstrategie": "Das Wort „Entdecker\" hat ein doppeltes k, weil der Vokal davor kurz gesprochen wird: „Ent-de-cker\". Höre genau hin: de-cker – da klingt das „e\" kurz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "entdecken",
+    "Deck"
+  ],
+  "bild_datei": "Entdecker.webp",
+  "audio_datei": "Entdecker.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Entdecker",
+    "plural": "die Entdecker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Entdecker",
+        "genitiv": "des Entdeckers",
+        "dativ": "dem Entdecker",
+        "akkusativ": "den Entdecker"
+      },
+      "plural": {
+        "nominativ": "die Entdecker",
+        "genitiv": "der Entdecker",
+        "dativ": "den Entdeckern",
+        "akkusativ": "die Entdecker"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "explorer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "explorateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaşif"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستكشف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entdecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Entdeckung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Forscher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abenteurer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Expedition"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ],
+  "fehlschreibungen": [
+    "Entdeker",
+    "Entdeckker",
+    "Enddecker",
+    "Entdekker",
+    "Endecker"
+  ]
+}

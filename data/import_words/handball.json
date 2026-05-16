@@ -1,0 +1,84 @@
+{
+  "lemma": "Handball",
+  "wortart": "Nomen",
+  "silben": "Hand-ball",
+  "begriffserklaerung": "Handball ist eine Sportart, bei der zwei Mannschaften versuchen, einen Ball mit der Hand in das Tor der anderen Mannschaft zu werfen. Das Wort bezeichnet auch den Ball selbst, der dabei benutzt wird.",
+  "beispielsatz": "Nach der Schule spielen wir auf dem Sportplatz Handball.",
+  "rechtschreibstrategie": "„Handball\" ist ein zusammengesetztes Wort aus „Hand\" und „Ball\". Schreib einfach beide Wörter hintereinander – ohne Leerzeichen und ohne Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Ball"
+  ],
+  "bild_datei": "Handball.webp",
+  "audio_datei": "Handball.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "handball"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hentbol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة اليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Basketball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tor"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handball",
+    "plural": "die Handbälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handball",
+        "genitiv": "des Handballs",
+        "dativ": "dem Handball",
+        "akkusativ": "den Handball"
+      },
+      "plural": {
+        "nominativ": "die Handbälle",
+        "genitiv": "der Handbälle",
+        "dativ": "den Handbällen",
+        "akkusativ": "die Handbälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handbal",
+    "Hanball",
+    "Handball",
+    "Hand-Ball",
+    "Handpall",
+    "Handbahl"
+  ]
+}

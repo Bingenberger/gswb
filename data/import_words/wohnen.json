@@ -1,0 +1,95 @@
+{
+  "lemma": "wohnen",
+  "wortart": "Verb",
+  "silben": "woh-nen",
+  "begriffserklaerung": "Wohnen bedeutet, dass man an einem bestimmten Ort lebt und dort sein Zuhause hat.",
+  "beispielsatz": "Meine Familie wohnt in einem kleinen Haus am Waldrand.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Nach dem „o\" kommt ein „h\", das man nicht hört – woh-nen. Sprich die Silben deutlich: WOH – NEN!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wohn"
+  ],
+  "bild_datei": "wohnen.webp",
+  "audio_datei": "wohnen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "wohnen",
+    "praesens": {
+      "ich": "wohne",
+      "du": "wohnst",
+      "er_sie_es": "wohnt",
+      "wir": "wohnen",
+      "ihr": "wohnt",
+      "sie": "wohnen"
+    },
+    "perfekt": {
+      "ich": "habe gewohnt",
+      "du": "hast gewohnt",
+      "er_sie_es": "hat gewohnt",
+      "wir": "haben gewohnt",
+      "ihr": "habt gewohnt",
+      "sie": "haben gewohnt"
+    },
+    "praeteritum": {
+      "ich": "wohnte",
+      "du": "wohntest",
+      "er_sie_es": "wohnte",
+      "wir": "wohnten",
+      "ihr": "wohntet",
+      "sie": "wohnten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to live / to reside"
+    },
+    {
+      "language_code": "fr",
+      "translation": "habiter / vivre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşamak / oturmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسكن / يقطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnhaus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zuhause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbarschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "wonen",
+    "wonhen",
+    "vohen",
+    "wohhen",
+    "wohnan",
+    "wohnem"
+  ]
+}

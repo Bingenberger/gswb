@@ -1,0 +1,83 @@
+{
+  "lemma": "Jäger",
+  "wortart": "Nomen",
+  "silben": "Jä-ger",
+  "begriffserklaerung": "Ein Jäger ist ein Mensch, der im Wald Tiere jagt. Er kennt die Natur sehr gut und sorgt dafür, dass es den Tieren im Wald gut geht.",
+  "beispielsatz": "Der Jäger geht früh morgens in den Wald, um die Tiere zu beobachten.",
+  "rechtschreibstrategie": "Denke an das Wort „jagen\" – daraus wird „Jäger\". Das ä kommt vom a in „jagen\". Sprich das Wort laut in Silben: Jä-ger.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "jag"
+  ],
+  "bild_datei": "Jäger.webp",
+  "audio_datei": "Jäger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hunter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chasseur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صَيَّاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jagd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Förster"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Jäger",
+    "plural": "Jäger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Jäger",
+        "genitiv": "des Jägers",
+        "dativ": "dem Jäger",
+        "akkusativ": "den Jäger"
+      },
+      "plural": {
+        "nominativ": "die Jäger",
+        "genitiv": "der Jäger",
+        "dativ": "den Jägern",
+        "akkusativ": "die Jäger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Jeger",
+    "Jäeger",
+    "Järger",
+    "Yäger",
+    "Jägar",
+    "Jäagger"
+  ]
+}

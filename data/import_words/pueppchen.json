@@ -1,0 +1,81 @@
+{
+  "lemma": "Püppchen",
+  "wortart": "Nomen",
+  "silben": "Püpp-chen",
+  "begriffserklaerung": "Ein Püppchen ist eine kleine Puppe. Es ist ein Spielzeug, das wie ein Mensch oder ein Baby aussieht.",
+  "beispielsatz": "Das kleine Mädchen trägt ihr Püppchen überall mit sich.",
+  "rechtschreibstrategie": "In „Püppchen\" hörst du ein kurzes „ü\". Deshalb wird das „p\" doppelt geschrieben: Püpp-chen. Sprich es in Silben: Püpp – chen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Püppchen",
+    "plural": "die Püppchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Püppchen",
+        "genitiv": "des Püppchens",
+        "dativ": "dem Püppchen",
+        "akkusativ": "das Püppchen"
+      },
+      "plural": {
+        "nominativ": "die Püppchen",
+        "genitiv": "der Püppchen",
+        "dativ": "den Püppchen",
+        "akkusativ": "die Püppchen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Puppe"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Puppe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Puppenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teddy"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Puppe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Püpchen",
+    "Püppchen",
+    "Püpphen",
+    "Püppschen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little doll"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite poupée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük bebek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُمية صغيرة"
+    }
+  ],
+  "bild_datei": "Püppchen.webp",
+  "audio_datei": "Püppchen.mp3"
+}

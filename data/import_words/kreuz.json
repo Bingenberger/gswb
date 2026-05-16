@@ -1,0 +1,82 @@
+{
+  "lemma": "Kreuz",
+  "wortart": "Nomen",
+  "silben": "Kreuz",
+  "begriffserklaerung": "Ein Kreuz ist eine Form aus zwei Strichen, die sich in der Mitte schneiden – einer geht waagerecht, einer senkrecht. Ein Kreuz kann auch ein Zeichen für eine Kirche oder ein Symbol für etwas Wichtiges sein.",
+  "beispielsatz": "Anna malt ein großes Kreuz auf ihr Blatt Papier.",
+  "rechtschreibstrategie": "„Kreuz\" schreibst du mit „eu\" in der Mitte – sprich es laut: KREUZ. Höre das „eu\" deutlich heraus!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kreuz"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Kreuz",
+    "plural": "Kreuze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kreuz",
+        "genitiv": "des Kreuzes",
+        "dativ": "dem Kreuz",
+        "akkusativ": "das Kreuz"
+      },
+      "plural": {
+        "nominativ": "die Kreuze",
+        "genitiv": "der Kreuze",
+        "dativ": "den Kreuzen",
+        "akkusativ": "die Kreuze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kreus",
+    "Kreuts",
+    "Creus",
+    "Creutz",
+    "Kreutz"
+  ],
+  "bild_datei": "Kreuz.webp",
+  "audio_datei": "Kreuz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cross"
+    },
+    {
+      "language_code": "fr",
+      "translation": "croix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صليب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kreuzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreuzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Symbol"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichen"
+    }
+  ]
+}

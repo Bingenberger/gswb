@@ -1,0 +1,71 @@
+{
+  "lemma": "Papa",
+  "wortart": "Nomen",
+  "silben": "Pa-pa",
+  "begriffserklaerung": "Papa ist ein liebevolles Wort für den Vater. Er gehört zur Familie und kümmert sich um seine Kinder.",
+  "beispielsatz": "Mein Papa liest mir jeden Abend eine Geschichte vor.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pa-pa. Beide Silben klingen gleich – du schreibst zweimal „Pa\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Papa.webp",
+  "audio_datei": "Papa.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dad"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papa"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بابا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mama"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Papa",
+    "plural": "die Papas",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Papa",
+        "genitiv": "des Papas",
+        "dativ": "dem Papa",
+        "akkusativ": "den Papa"
+      },
+      "plural": {
+        "nominativ": "die Papas",
+        "genitiv": "der Papas",
+        "dativ": "den Papas",
+        "akkusativ": "die Papas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pappa",
+    "papa",
+    "Ppapa",
+    "Paapa"
+  ]
+}

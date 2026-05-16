@@ -1,0 +1,82 @@
+{
+  "lemma": "Vulkan",
+  "wortart": "Nomen",
+  "silben": "Vul-kan",
+  "begriffserklaerung": "Ein Vulkan ist ein Berg, aus dem manchmal heiße Lava, Asche und Gase herausbrechen.",
+  "beispielsatz": "Der Vulkan spuckte glühende Lava und eine riesige Rauchwolke in den Himmel.",
+  "rechtschreibstrategie": "Das Wort „Vulkan\" beginnt mit einem V, das wie ein F klingt. Merke dir: V-ul-kan – schreib es immer mit V am Anfang!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Vulkan"
+  ],
+  "bild_datei": "Vulkan.webp",
+  "audio_datei": "Vulkan.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vulkan",
+    "plural": "die Vulkane",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vulkan",
+        "genitiv": "des Vulkans",
+        "dativ": "dem Vulkan",
+        "akkusativ": "den Vulkan"
+      },
+      "plural": {
+        "nominativ": "die Vulkane",
+        "genitiv": "der Vulkane",
+        "dativ": "den Vulkanen",
+        "akkusativ": "die Vulkane"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "volcano"
+    },
+    {
+      "language_code": "fr",
+      "translation": "volcan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yanardağ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بركان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vulkanisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vulkanausbruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lava"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fulkan",
+    "Wulkan",
+    "Vulckan",
+    "Volkhan",
+    "Vulkahn"
+  ]
+}

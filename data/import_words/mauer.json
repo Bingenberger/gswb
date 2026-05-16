@@ -1,0 +1,82 @@
+{
+  "lemma": "Mauer",
+  "wortart": "Nomen",
+  "silben": "Mau-er",
+  "begriffserklaerung": "Eine Mauer ist eine dicke, feste Wand aus Steinen oder Ziegeln. Sie trennt Orte voneinander oder schützt etwas.",
+  "beispielsatz": "Im Garten steht eine hohe Mauer aus roten Ziegeln.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Mau – er. Das „au\" hörst du deutlich. Denk daran: erst „au\", dann „er\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mauer"
+  ],
+  "bild_datei": "Mauer.webp",
+  "audio_datei": "Mauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duvar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mauern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mauerwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaun"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mauer",
+    "plural": "die Mauern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mauer",
+        "genitiv": "der Mauer",
+        "dativ": "der Mauer",
+        "akkusativ": "die Mauer"
+      },
+      "plural": {
+        "nominativ": "die Mauern",
+        "genitiv": "der Mauern",
+        "dativ": "den Mauern",
+        "akkusativ": "die Mauern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maur",
+    "Mauher",
+    "Mawer",
+    "Mauuer",
+    "Mouer"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Würfel",
+  "wortart": "Nomen",
+  "silben": "Wür-fel",
+  "begriffserklaerung": "Ein Würfel ist ein geometrischer Körper mit sechs gleich großen quadratischen Seiten. Als Spielwürfel hat er auf jeder Seite Punkte von 1 bis 6.",
+  "beispielsatz": "Beim Brettspiel würfelt Lena eine Sechs und darf sechs Felder vorziehen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Wür-fel\". Das ü klingt kurz, danach folgt der Doppelkonsonant-Effekt durch das r – merke dir einfach: nach kurzem Vokal kommt oft ein Mitlaut, der die Kürze anzeigt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "würfel"
+  ],
+  "bild_datei": "Würfel.webp",
+  "audio_datei": "Würfel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cube / dice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cube / dé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küp / zar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكعب / نرد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "würfeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Würfelspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quader"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kugel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brettspiel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Würfel",
+    "plural": "die Würfel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Würfel",
+        "genitiv": "des Würfels",
+        "dativ": "dem Würfel",
+        "akkusativ": "den Würfel"
+      },
+      "plural": {
+        "nominativ": "die Würfel",
+        "genitiv": "der Würfel",
+        "dativ": "den Würfeln",
+        "akkusativ": "die Würfel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Würfel",
+    "Würffel",
+    "Wirfel",
+    "Wuerfel",
+    "Würvfel",
+    "Würfell"
+  ]
+}

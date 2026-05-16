@@ -1,0 +1,83 @@
+{
+  "lemma": "Gleiter",
+  "wortart": "Nomen",
+  "silben": "Glei-ter",
+  "begriffserklaerung": "Ein Gleiter ist ein Flugzeug ohne Motor, das still und leise durch die Luft gleitet – getragen nur vom Wind.",
+  "beispielsatz": "Der Gleiter zog lautlos seine Kreise hoch oben am Himmel.",
+  "rechtschreibstrategie": "Denk an das Wort „gleiten\" – der Gleiter ist jemand, der gleitet. Schreibe „ei\" wie in „Eis\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "gleit"
+  ],
+  "bild_datei": "Gleiter.webp",
+  "audio_datei": "Gleiter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gleiter",
+    "plural": "die Gleiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gleiter",
+        "genitiv": "des Gleiters",
+        "dativ": "dem Gleiter",
+        "akkusativ": "den Gleiter"
+      },
+      "plural": {
+        "nominativ": "die Gleiter",
+        "genitiv": "der Gleiter",
+        "dativ": "den Gleitern",
+        "akkusativ": "die Gleiter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glider"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "planör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائرة شراعية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gleiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gleitschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Segelflugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Segelflugzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gleitter",
+    "Gleider",
+    "Gleieter",
+    "Gleyter",
+    "Gliter"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Zelt",
+  "wortart": "Nomen",
+  "silben": "Zelt",
+  "begriffserklaerung": "Ein Zelt ist eine tragbare Unterkunft aus Stoff, die man draußen aufstellen kann. Viele Kinder schlafen im Zelt beim Camping.",
+  "beispielsatz": "Wir schlafen in der Nacht in unserem Zelt auf dem Campingplatz.",
+  "rechtschreibstrategie": "Verlängere das Wort: Zelt → Zel-te. Das „t\" am Ende hörst du dann deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zelt"
+  ],
+  "bild_datei": "Zelt.webp",
+  "audio_datei": "Zelt.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zelt",
+    "plural": "die Zelte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zelt",
+        "genitiv": "des Zeltes",
+        "dativ": "dem Zelt",
+        "akkusativ": "das Zelt"
+      },
+      "plural": {
+        "nominativ": "die Zelte",
+        "genitiv": "der Zelte",
+        "dativ": "den Zelten",
+        "akkusativ": "die Zelte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çadır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خيمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zelten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeltlager"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlafsack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Campingplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeltunterkunft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zeld",
+    "Tselt",
+    "Zeldt",
+    "Zzelt",
+    "Zällt"
+  ]
+}

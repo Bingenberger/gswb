@@ -1,0 +1,87 @@
+{
+  "lemma": "Hut",
+  "wortart": "Nomen",
+  "silben": "Hut",
+  "begriffserklaerung": "Ein Hut ist eine Kopfbedeckung mit einer festen Form und oft mit einer Krempe. Man trägt ihn zum Schutz vor Sonne oder Regen oder einfach zur Verschönerung.",
+  "beispielsatz": "Der Zauberer trägt immer einen schwarzen Hut.",
+  "rechtschreibstrategie": "„Hut\" hat nur eine Silbe. Wenn du mehrere Hüte meinst, sagst du „Hüte\" – das lange U wird nicht verdoppelt und braucht kein Dehnungs-h.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "hut",
+    "hüt"
+  ],
+  "bild_datei": "Hut.webp",
+  "audio_datei": "Hut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chapeau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şapka"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قبعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hüte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hutkrempe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hutschachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kappe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kopfbedeckung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hut",
+    "plural": "die Hüte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hut",
+        "genitiv": "des Hutes",
+        "dativ": "dem Hut",
+        "akkusativ": "den Hut"
+      },
+      "plural": {
+        "nominativ": "die Hüte",
+        "genitiv": "der Hüte",
+        "dativ": "den Hüten",
+        "akkusativ": "die Hüte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Huht",
+    "Huut",
+    "Huth",
+    "hut",
+    "Hutt"
+  ]
+}

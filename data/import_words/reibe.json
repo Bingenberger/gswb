@@ -1,0 +1,82 @@
+{
+  "lemma": "Reibe",
+  "wortart": "Nomen",
+  "silben": "Rei-be",
+  "begriffserklaerung": "Eine Reibe ist ein Küchengerät mit vielen kleinen, scharfen Zacken. Damit kannst du Käse, Karotten oder Äpfel in kleine Stücke raspeln.",
+  "beispielsatz": "Mama reibt den Käse mit der Reibe über die Nudeln.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Rei-be\". Du hörst ein langes „ei\" – das schreibst du mit „ei\". Am Ende kommt ein leises „e\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "reib"
+  ],
+  "bild_datei": "Reibe.webp",
+  "audio_datei": "Reibe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reibe",
+    "plural": "die Reiben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reibe",
+        "genitiv": "der Reibe",
+        "dativ": "der Reibe",
+        "akkusativ": "die Reibe"
+      },
+      "plural": {
+        "nominativ": "die Reiben",
+        "genitiv": "der Reiben",
+        "dativ": "den Reiben",
+        "akkusativ": "die Reiben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grater"
+    },
+    {
+      "language_code": "fr",
+      "translation": "râpe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rende"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مبشرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reibung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raspel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Raspel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reipe",
+    "Raibe",
+    "Reibe",
+    "Räibe",
+    "Reib"
+  ]
+}

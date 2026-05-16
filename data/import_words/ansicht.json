@@ -1,0 +1,88 @@
+{
+  "lemma": "Ansicht",
+  "wortart": "Nomen",
+  "silben": "An-sicht",
+  "begriffserklaerung": "Eine Ansicht ist das, was man sieht, wenn man etwas von einer bestimmten Seite betrachtet. Es kann auch die Meinung von jemandem bedeuten.",
+  "beispielsatz": "Von oben hat man eine tolle Ansicht auf die ganze Stadt.",
+  "rechtschreibstrategie": "Das Wort „Ansicht\" besteht aus zwei Teilen: „an\" und „Sicht\". Denk an das Wort „sehen\" – daraus wird „Sicht\". Schreibe das ch deutlich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sehen",
+    "Sicht"
+  ],
+  "bild_datei": "Ansicht.webp",
+  "audio_datei": "Ansicht.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ansicht",
+    "plural": "die Ansichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ansicht",
+        "genitiv": "der Ansicht",
+        "dativ": "der Ansicht",
+        "akkusativ": "die Ansicht"
+      },
+      "plural": {
+        "nominativ": "die Ansichten",
+        "genitiv": "der Ansichten",
+        "dativ": "den Ansichten",
+        "akkusativ": "die Ansichten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "view / opinion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vue / opinion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görünüm / görüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منظر / رأي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meinung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aussicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Perspektive"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ansich",
+    "Ansischt",
+    "Anzicht",
+    "Ansickt",
+    "Annsicht"
+  ]
+}

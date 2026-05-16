@@ -1,0 +1,87 @@
+{
+  "lemma": "Saat",
+  "wortart": "Nomen",
+  "silben": "Saat",
+  "begriffserklaerung": "Die Saat sind Samen, die in die Erde gesät werden, damit Pflanzen daraus wachsen können.",
+  "beispielsatz": "Im Frühling legt der Bauer die Saat in den Boden.",
+  "rechtschreibstrategie": "Das Wort „Saat\" hat einen langen „a\"-Laut – deshalb schreibt man zwei „a\" hintereinander: aa.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Saat",
+    "plural": "die Saaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Saat",
+        "genitiv": "der Saat",
+        "dativ": "der Saat",
+        "akkusativ": "die Saat"
+      },
+      "plural": {
+        "nominativ": "die Saaten",
+        "genitiv": "der Saaten",
+        "dativ": "den Saaten",
+        "akkusativ": "die Saaten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "sä-",
+    "saat-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aussaat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Acker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Samen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sat",
+    "Saht",
+    "Saad",
+    "Sahd",
+    "Saadt"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seed / sowing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "semence / semailles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tohum / ekim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَذْر / بَذْرة"
+    }
+  ],
+  "bild_datei": "Saat.webp",
+  "audio_datei": "Saat.mp3"
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "Nachbildung",
+  "wortart": "Nomen",
+  "silben": "Nach-bil-dung",
+  "begriffserklaerung": "Eine Nachbildung ist eine Kopie oder ein Nachbau von etwas, das es schon gibt. Sie sieht dem Original sehr ähnlich, ist aber nicht das echte Ding.",
+  "beispielsatz": "Im Museum hängt eine Nachbildung des berühmten Gemäldes, das echte Bild ist woanders.",
+  "rechtschreibstrategie": "Das Wort „Nachbildung\" besteht aus drei Teilen: „Nach\" + „bild\" + „ung\". Sprich alle Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bild",
+    "nach"
+  ],
+  "bild_datei": "Nachbildung.webp",
+  "audio_datei": "Nachbildung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "replica"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réplique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kopya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نسخة طبق الأصل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nachbilden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kopie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachbau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Original"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Modell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachbildung",
+    "plural": "die Nachbildungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachbildung",
+        "genitiv": "der Nachbildung",
+        "dativ": "der Nachbildung",
+        "akkusativ": "die Nachbildung"
+      },
+      "plural": {
+        "nominativ": "die Nachbildungen",
+        "genitiv": "der Nachbildungen",
+        "dativ": "den Nachbildungen",
+        "akkusativ": "die Nachbildungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachbieldung",
+    "Nachbilldung",
+    "Nachtbildung",
+    "Nachbilddung",
+    "Nachpildung",
+    "Nachbildunk"
+  ]
+}

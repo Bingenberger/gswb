@@ -1,0 +1,78 @@
+{
+  "lemma": "Wolf",
+  "wortart": "Nomen",
+  "silben": "Wolf",
+  "begriffserklaerung": "Ein Wolf ist ein wildes Tier, das wie ein großer Hund aussieht. Wölfe leben in Rudeln und sind sehr gute Jäger.",
+  "beispielsatz": "Der Wolf heult nachts laut in den Wald.",
+  "rechtschreibstrategie": "Wenn du „Wölfe\" sagst, hörst du das „f\" deutlich. Beim Verlängern wird aus dem „f\" am Ende ein „f\" – aber Vorsicht: Es bleibt ein „f\", nicht „ff\" oder „v\"!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wolf"
+  ],
+  "bild_datei": "Wolf.webp",
+  "audio_datei": "Wolf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wolf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loup"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذئب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wölfin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolfshund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bär"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wolf",
+    "plural": "die Wölfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wolf",
+        "genitiv": "des Wolfes",
+        "dativ": "dem Wolf",
+        "akkusativ": "den Wolf"
+      },
+      "plural": {
+        "nominativ": "die Wölfe",
+        "genitiv": "der Wölfe",
+        "dativ": "den Wölfen",
+        "akkusativ": "die Wölfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wolff",
+    "Volf",
+    "Wollf",
+    "Wulf",
+    "Wölff"
+  ]
+}

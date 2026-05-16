@@ -1,0 +1,84 @@
+{
+  "lemma": "Esslöffel",
+  "wortart": "Nomen",
+  "silben": "Ess-löf-fel",
+  "begriffserklaerung": "Ein Esslöffel ist ein großer Löffel, mit dem man Suppe oder andere Speisen isst.",
+  "beispielsatz": "Mama rührt die Suppe mit dem Esslöffel um.",
+  "rechtschreibstrategie": "Das Wort „Esslöffel\" besteht aus zwei Teilen: „Ess\" und „Löffel\". In beiden Teilen steckt ein Doppelkonsonant – das ss in „Ess\" und das ff in „Löffel\". Sprich beide Teile laut, dann hörst du sie!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "ess",
+    "löffel"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Esslöffel",
+    "plural": "die Esslöffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Esslöffel",
+        "genitiv": "des Esslöffels",
+        "dativ": "dem Esslöffel",
+        "akkusativ": "den Esslöffel"
+      },
+      "plural": {
+        "nominativ": "die Esslöffel",
+        "genitiv": "der Esslöffel",
+        "dativ": "den Esslöffeln",
+        "akkusativ": "die Esslöffel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Esslöfel",
+    "Eslöffel",
+    "Eßlöffel",
+    "Esslöfell",
+    "Esslöffl"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tablespoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuillère à soupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yemek kaşığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملعقة كبيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "essen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teelöffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    }
+  ],
+  "bild_datei": "Esslöffel.webp",
+  "audio_datei": "Esslöffel.mp3"
+}

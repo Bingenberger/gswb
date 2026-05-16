@@ -1,0 +1,82 @@
+{
+  "lemma": "Biss",
+  "wortart": "Nomen",
+  "silben": "Biss",
+  "begriffserklaerung": "Ein Biss ist das Zubeißen mit den Zähnen – zum Beispiel in einen Apfel oder durch ein Tier.",
+  "beispielsatz": "Der Hund hat dem Jungen einen Biss in die Hand gegeben.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt ein Doppel-s: Biss. Sprich es kurz: „Bi-ss\" – so hörst du, dass ein s allein nicht reicht!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "beiß"
+  ],
+  "bild_datei": "Biss.webp",
+  "audio_datei": "Biss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bite"
+    },
+    {
+      "language_code": "fr",
+      "translation": "morsure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ısırık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebiss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bißwunde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Biss",
+    "plural": "die Bisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Biss",
+        "genitiv": "des Bisses",
+        "dativ": "dem Biss",
+        "akkusativ": "den Biss"
+      },
+      "plural": {
+        "nominativ": "die Bisse",
+        "genitiv": "der Bisse",
+        "dativ": "den Bissen",
+        "akkusativ": "die Bisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bis",
+    "Biß",
+    "Bisss",
+    "Biss'",
+    "biss"
+  ]
+}

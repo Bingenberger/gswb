@@ -1,0 +1,82 @@
+{
+  "lemma": "Kicker",
+  "wortart": "Nomen",
+  "silben": "Ki-cker",
+  "begriffserklaerung": "Ein Kicker ist ein Tischfußballspiel, bei dem zwei Mannschaften kleine Figuren an Stangen drehen, um einen Ball ins gegnerische Tor zu schießen. Das Wort „Kicker\" kann auch einen Fußballspieler bezeichnen.",
+  "beispielsatz": "Nach der Schule spielen wir immer eine Runde am Kicker in der Turnhalle.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „ck\" – das zeigt dir, dass der Vokal kurz gesprochen wird. Denk daran: kurzer Vokal → ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kick"
+  ],
+  "bild_datei": "Kicker.webp",
+  "audio_datei": "Kicker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "foosball table / kicker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baby-foot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "langırt / kiker"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة القدم الطاولية (كيكر)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kicken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tischspiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tischfußball"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kicker",
+    "plural": "die Kicker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kicker",
+        "genitiv": "des Kickers",
+        "dativ": "dem Kicker",
+        "akkusativ": "den Kicker"
+      },
+      "plural": {
+        "nominativ": "die Kicker",
+        "genitiv": "der Kicker",
+        "dativ": "den Kickern",
+        "akkusativ": "die Kicker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kiker",
+    "Kikker",
+    "Kiccer",
+    "Kiccker",
+    "Kieker"
+  ]
+}

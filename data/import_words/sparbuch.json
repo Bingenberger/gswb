@@ -1,0 +1,83 @@
+{
+  "lemma": "Sparbuch",
+  "wortart": "Nomen",
+  "silben": "Spar-buch",
+  "begriffserklaerung": "Ein Sparbuch ist ein kleines Heft von der Bank. Darin steht, wie viel Geld du gespart hast.",
+  "beispielsatz": "Oma hat mir ein Sparbuch geschenkt, damit ich mein Taschengeld sicher aufbewahren kann.",
+  "rechtschreibstrategie": "„Sparbuch\" ist aus zwei Wörtern zusammengesetzt: „spar\" (von sparen) und „Buch\". Sprich beide Teile einzeln: SPAR + BUCH.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "spar",
+    "buch"
+  ],
+  "bild_datei": "Sparbuch.webp",
+  "audio_datei": "Sparbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "savings book / passbook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "livret d'épargne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banka cüzdanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دفتر التوفير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sparen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konto"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sparbuch",
+    "plural": "die Sparbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sparbuch",
+        "genitiv": "des Sparbuches / des Sparbuchs",
+        "dativ": "dem Sparbuch",
+        "akkusativ": "das Sparbuch"
+      },
+      "plural": {
+        "nominativ": "die Sparbücher",
+        "genitiv": "der Sparbücher",
+        "dativ": "den Sparbüchern",
+        "akkusativ": "die Sparbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spahrbuch",
+    "Sparbuchs",
+    "Sparbüch",
+    "Sparrbuch",
+    "Sparbucch"
+  ]
+}

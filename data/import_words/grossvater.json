@@ -1,0 +1,88 @@
+{
+  "lemma": "Großvater",
+  "wortart": "Nomen",
+  "silben": "Groß-va-ter",
+  "begriffserklaerung": "Der Großvater ist der Vater deiner Mama oder deines Papas. Viele Kinder sagen auch „Opa\" zu ihm.",
+  "beispielsatz": "Mein Großvater liest mir jeden Abend eine Geschichte vor.",
+  "rechtschreibstrategie": "„Großvater\" ist ein Bausteinwort aus „groß\" und „Vater\". Denk daran: „groß\" schreibt man mit ß, weil der Vokal davor lang gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "groß",
+    "Vater"
+  ],
+  "bild_datei": "Großvater.webp",
+  "audio_datei": "Großvater.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grandfather"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grand-père"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyükbaba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جَدّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "groß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vater"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Opa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Großmutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Enkel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Großvater",
+    "plural": "die Großväter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Großvater",
+        "genitiv": "des Großvaters",
+        "dativ": "dem Großvater",
+        "akkusativ": "den Großvater"
+      },
+      "plural": {
+        "nominativ": "die Großväter",
+        "genitiv": "der Großväter",
+        "dativ": "den Großvätern",
+        "akkusativ": "die Großväter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grossvater",
+    "Großfahter",
+    "Grosvater",
+    "Großvatter",
+    "Groszfater"
+  ]
+}

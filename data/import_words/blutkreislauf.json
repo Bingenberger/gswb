@@ -1,0 +1,85 @@
+{
+  "lemma": "Blutkreislauf",
+  "wortart": "Nomen",
+  "silben": "Blut-kreis-lauf",
+  "begriffserklaerung": "Der Blutkreislauf ist der Weg, den das Blut in deinem Körper nimmt. Das Herz pumpt das Blut durch alle Adern – immer im Kreis herum.",
+  "beispielsatz": "Das Herz sorgt dafür, dass der Blutkreislauf niemals aufhört.",
+  "rechtschreibstrategie": "„Blutkreislauf\" ist ein langes Zusammensetzwort aus drei Teilen: „Blut\" + „Kreis\" + „Lauf\". Zerlege es in seine Bausteine, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Blut",
+    "Kreis",
+    "lauf"
+  ],
+  "bild_datei": "Blutkreislauf.webp",
+  "audio_datei": "Blutkreislauf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blutkreislauf",
+    "plural": "die Blutkreisläufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blutkreislauf",
+        "genitiv": "des Blutkreislaufs",
+        "dativ": "dem Blutkreislauf",
+        "akkusativ": "den Blutkreislauf"
+      },
+      "plural": {
+        "nominativ": "die Blutkreisläufe",
+        "genitiv": "der Blutkreisläufe",
+        "dativ": "den Blutkreisläufen",
+        "akkusativ": "die Blutkreisläufe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blood circulation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "circulation sanguine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kan dolaşımı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الدورة الدموية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blut"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreislauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ader"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blutkreislaf",
+    "Blutkreislauph",
+    "Blutkreislauf",
+    "Blutkreisloff",
+    "Bluhtkreislauf",
+    "Blutkreißlauf"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "lemma": "Lappen",
+  "wortart": "Nomen",
+  "silben": "Lap-pen",
+  "begriffserklaerung": "Ein Lappen ist ein kleines Stück Stoff oder Tuch, das man zum Putzen, Wischen oder Abtrocknen benutzt.",
+  "beispielsatz": "Mama wischt den Tisch mit einem feuchten Lappen sauber.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" verdoppelst du das „p\": Lap-pen. Sprich die Silben laut mit – du hörst das doppelte „p\" deutlich!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Lapp"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lappen",
+    "plural": "die Lappen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lappen",
+        "genitiv": "des Lappens",
+        "dativ": "dem Lappen",
+        "akkusativ": "den Lappen"
+      },
+      "plural": {
+        "nominativ": "die Lappen",
+        "genitiv": "der Lappen",
+        "dativ": "den Lappen",
+        "akkusativ": "die Lappen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cloth / rag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chiffon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bez"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خرقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Läppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Putzzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tuch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lapen",
+    "Lapppen",
+    "Läppen"
+  ],
+  "bild_datei": "Lappen.webp",
+  "audio_datei": "Lappen.mp3"
+}

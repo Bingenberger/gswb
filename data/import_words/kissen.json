@@ -1,0 +1,73 @@
+{
+  "lemma": "Kissen",
+  "wortart": "Nomen",
+  "silben": "Kis-sen",
+  "begriffserklaerung": "Ein Kissen ist ein weiches, gefülltes Stück Stoff. Man legt den Kopf darauf oder es macht das Sitzen bequemer.",
+  "beispielsatz": "Abends kuschele ich mich an mein weiches Kissen.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „s\" – deshalb schreibt man „Kis-sen\" mit Doppel-s.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Kissen",
+    "plural": "Kissen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kissen",
+        "genitiv": "des Kissens",
+        "dativ": "dem Kissen",
+        "akkusativ": "das Kissen"
+      },
+      "plural": {
+        "nominativ": "die Kissen",
+        "genitiv": "der Kissen",
+        "dativ": "den Kissen",
+        "akkusativ": "die Kissen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kissen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Decke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Polster"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kisen",
+    "Kißen",
+    "Kissen",
+    "Kisssen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pillow / cushion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coussin / oreiller"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yastık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسادة"
+    }
+  ],
+  "bild_datei": "Kissen.webp",
+  "audio_datei": "Kissen.mp3"
+}

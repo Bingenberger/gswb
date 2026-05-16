@@ -1,0 +1,99 @@
+{
+  "lemma": "steigen",
+  "wortart": "Verb",
+  "silben": "stei-gen",
+  "begriffserklaerung": "Steigen bedeutet, sich nach oben zu bewegen, zum Beispiel eine Treppe hochzugehen oder auf einen Berg zu klettern.",
+  "beispielsatz": "Die Kinder steigen gemeinsam auf den hohen Berg.",
+  "rechtschreibstrategie": "Das Wort „steigen\" hat den Doppelvokal „ei\" – sprich es laut: stei-gen. Denk daran: Nach dem „ei\" kommt kein „h\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "steig"
+  ],
+  "bild_datei": "steigen.webp",
+  "audio_datei": "steigen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "steigen",
+    "praesens": {
+      "ich": "steige",
+      "du": "steigst",
+      "er_sie_es": "steigt",
+      "wir": "steigen",
+      "ihr": "steigt",
+      "sie": "steigen"
+    },
+    "perfekt": {
+      "ich": "bin gestiegen",
+      "du": "bist gestiegen",
+      "er_sie_es": "ist gestiegen",
+      "wir": "sind gestiegen",
+      "ihr": "seid gestiegen",
+      "sie": "sind gestiegen"
+    },
+    "praeteritum": {
+      "ich": "stieg",
+      "du": "stiegst",
+      "er_sie_es": "stieg",
+      "wir": "stiegen",
+      "ihr": "stiegt",
+      "sie": "stiegen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to climb / to rise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monter / grimper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tırmanmak / çıkmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتسلق / يصعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steigung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "klettern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hochgehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "springen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "klettern"
+    }
+  ],
+  "fehlschreibungen": [
+    "steigen",
+    "steihen",
+    "stheigen",
+    "steiggen",
+    "steijen",
+    "stäigen"
+  ]
+}

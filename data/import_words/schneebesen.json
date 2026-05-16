@@ -1,0 +1,84 @@
+{
+  "lemma": "Schneebesen",
+  "wortart": "Nomen",
+  "silben": "Schnee-be-sen",
+  "begriffserklaerung": "Ein Schneebesen ist ein Küchenwerkzeug aus vielen dünnen Drähten, mit dem man Sahne, Eier oder Teig schaumig schlägt.",
+  "beispielsatz": "Mama schlägt die Sahne mit dem Schneebesen steif.",
+  "rechtschreibstrategie": "„Schneebesen\" ist ein zusammengesetztes Wort aus „Schnee\" und „Besen\". Das „ee\" in „Schnee\" schreibt man mit zwei e – denk an Schnee, der auch doppelt so viel sein kann!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Besen"
+  ],
+  "bild_datei": "Schneebesen.webp",
+  "audio_datei": "Schneebesen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "whisk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fouet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çırpıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مضرب بيض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rührschüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rührbesen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schneebesen",
+    "plural": "die Schneebesen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schneebesen",
+        "genitiv": "des Schneebesens",
+        "dativ": "dem Schneebesen",
+        "akkusativ": "den Schneebesen"
+      },
+      "plural": {
+        "nominativ": "die Schneebesen",
+        "genitiv": "der Schneebesen",
+        "dativ": "den Schneebesen",
+        "akkusativ": "die Schneebesen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schnebesen",
+    "Schneebessen",
+    "Schneebehsen",
+    "Schnebessen",
+    "Schneebesen"
+  ]
+}

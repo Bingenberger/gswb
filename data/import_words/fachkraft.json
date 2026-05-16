@@ -1,0 +1,83 @@
+{
+  "lemma": "Fachkraft",
+  "wortart": "Nomen",
+  "silben": "Fach-kraft",
+  "begriffserklaerung": "Eine Fachkraft ist ein Mensch, der eine Ausbildung gemacht hat und seinen Beruf besonders gut kann.",
+  "beispielsatz": "Die Fachkraft in der Werkstatt repariert das kaputte Fahrrad sehr geschickt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Fach\" und „Kraft\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fach",
+    "Kraft"
+  ],
+  "bild_datei": "Fachkraft.webp",
+  "audio_datei": "Fachkraft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skilled worker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "professionnel / professionnelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عامل متخصص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausbildung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Experte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fachkraft",
+    "plural": "die Fachkräfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fachkraft",
+        "genitiv": "der Fachkraft",
+        "dativ": "der Fachkraft",
+        "akkusativ": "die Fachkraft"
+      },
+      "plural": {
+        "nominativ": "die Fachkräfte",
+        "genitiv": "der Fachkräfte",
+        "dativ": "den Fachkräften",
+        "akkusativ": "die Fachkräfte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fachkrafft",
+    "Fachcraft",
+    "Fachkrafd",
+    "Fachkrat",
+    "Fachkrraft"
+  ]
+}

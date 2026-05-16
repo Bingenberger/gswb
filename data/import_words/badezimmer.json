@@ -1,0 +1,89 @@
+{
+  "lemma": "Badezimmer",
+  "wortart": "Nomen",
+  "silben": "Ba-de-zim-mer",
+  "begriffserklaerung": "Das Badezimmer ist ein Raum in der Wohnung oder im Haus, in dem man sich wäscht, duscht oder badet. Dort gibt es meistens eine Badewanne oder Dusche, ein Waschbecken und oft auch eine Toilette.",
+  "beispielsatz": "Jeden Morgen putze ich im Badezimmer meine Zähne.",
+  "rechtschreibstrategie": "Das Wort „Badezimmer\" ist aus zwei Wörtern zusammengebaut: „baden\" und „Zimmer\". Schreibe einfach beide Teile hintereinander: Bade + zimmer = Badezimmer.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bad",
+    "zimmer"
+  ],
+  "bild_datei": "Badezimmer.webp",
+  "audio_datei": "Badezimmer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bathroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salle de bain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "banyo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Badezimmer",
+    "plural": "die Badezimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Badezimmer",
+        "genitiv": "des Badezimmers",
+        "dativ": "dem Badezimmer",
+        "akkusativ": "das Badezimmer"
+      },
+      "plural": {
+        "nominativ": "die Badezimmer",
+        "genitiv": "der Badezimmer",
+        "dativ": "den Badezimmern",
+        "akkusativ": "die Badezimmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Badzimmer",
+    "Badtzimmer",
+    "Badezimer",
+    "Badezimern",
+    "Baddezimmer",
+    "Badesiemer"
+  ]
+}

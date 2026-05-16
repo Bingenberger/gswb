@@ -1,0 +1,85 @@
+{
+  "lemma": "Mauerverband",
+  "wortart": "Nomen",
+  "silben": "Mau-er-ver-band",
+  "begriffserklaerung": "Ein Mauerverband ist ein bestimmtes Muster, nach dem Ziegelsteine oder Blöcke beim Bauen einer Mauer übereinandergelegt und versetzt werden, damit die Mauer fest und stabil hält.",
+  "beispielsatz": "Der Maurer erklärte den Kindern, wie der Mauerverband dafür sorgt, dass die Mauer nicht umfällt.",
+  "rechtschreibstrategie": "Das Wort „Mauerverband\" ist ein zusammengesetztes Wort aus „Mauer\" und „Verband\". Sprich beide Teile einzeln: MAUER + VERBAND. Am Ende hörst du „-band\" – das schreibt man mit d, weil man es beim Verlängern (die Verbände) deutlich hört.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Mauer",
+    "Band"
+  ],
+  "bild_datei": "Mauerverband.webp",
+  "audio_datei": "Mauerverband.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mauerverband",
+    "plural": "die Mauerverbände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mauerverband",
+        "genitiv": "des Mauerverbandes",
+        "dativ": "dem Mauerverband",
+        "akkusativ": "den Mauerverband"
+      },
+      "plural": {
+        "nominativ": "die Mauerverbände",
+        "genitiv": "der Mauerverbände",
+        "dativ": "den Mauerverbänden",
+        "akkusativ": "die Mauerverbände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "masonry bond"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareillage de maçonnerie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duvar örgüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رابطة البناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziegel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauwerk"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mauerferband",
+    "Maurerverband",
+    "Mauerverbant",
+    "Mauerverbandt",
+    "Mauerverban",
+    "Mauerverbend"
+  ]
+}

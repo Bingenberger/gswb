@@ -1,0 +1,86 @@
+{
+  "lemma": "Werkzeuggürtel",
+  "wortart": "Nomen",
+  "silben": "Werk-zeug-gür-tel",
+  "begriffserklaerung": "Ein Werkzeuggürtel ist ein breiter Gürtel mit vielen Taschen, den Handwerker um die Hüfte tragen. Darin stecken Werkzeuge wie Hammer, Schrauben oder Zangen, damit man sie immer griffbereit hat.",
+  "beispielsatz": "Der Tischler schnallt sich den Werkzeuggürtel um, bevor er mit der Arbeit beginnt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Werk\" + „zeug\" + „Gürtel\". Sprich alle drei Teile laut nach: Werk – zeug – gür – tel. Das ü in „Gürtel\" klingt wie ein kurzes Ü – merke dir, dass danach kein Dehnungs-h kommt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Werk",
+    "Zeug",
+    "Gürtel"
+  ],
+  "bild_datei": "Werkzeuggürtel.webp",
+  "audio_datei": "Werkzeuggürtel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Werkzeuggürtel",
+    "plural": "die Werkzeuggürtel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Werkzeuggürtel",
+        "genitiv": "des Werkzeuggürtels",
+        "dativ": "dem Werkzeuggürtel",
+        "akkusativ": "den Werkzeuggürtel"
+      },
+      "plural": {
+        "nominativ": "die Werkzeuggürtel",
+        "genitiv": "der Werkzeuggürtel",
+        "dativ": "den Werkzeuggürteln",
+        "akkusativ": "die Werkzeuggürtel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tool belt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ceinture à outils"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alet kemeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حزام الأدوات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gürtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraubenzieher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Werkzeugkürtel",
+    "Werkzeuggürtel",
+    "Werkzeugürtel",
+    "Werkzeukgürtel",
+    "Werkzeuggirtel",
+    "Wärkzeuggürtel"
+  ]
+}

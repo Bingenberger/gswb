@@ -1,0 +1,88 @@
+{
+  "lemma": "Abfahrt",
+  "wortart": "Nomen",
+  "silben": "Ab-fahrt",
+  "begriffserklaerung": "Eine Abfahrt ist der Moment, wenn jemand oder etwas losfährt, zum Beispiel ein Zug, ein Bus oder ein Auto.",
+  "beispielsatz": "Die Abfahrt des Zuges ist um acht Uhr morgens.",
+  "rechtschreibstrategie": "„Abfahrt\" ist ein zusammengesetztes Wort aus „ab\" und „Fahrt\". Wenn du weißt, wie man „Fahrt\" schreibt, kannst du auch „Abfahrt\" richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Abfahrt.webp",
+  "audio_datei": "Abfahrt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Abfahrt",
+    "plural": "die Abfahrten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Abfahrt",
+        "genitiv": "der Abfahrt",
+        "dativ": "der Abfahrt",
+        "akkusativ": "die Abfahrt"
+      },
+      "plural": {
+        "nominativ": "die Abfahrten",
+        "genitiv": "der Abfahrten",
+        "dativ": "den Abfahrten",
+        "akkusativ": "die Abfahrten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "departure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "départ"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kalkış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغادرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abreise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ankunft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrplan"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abfart",
+    "Abfahrd",
+    "Abfард",
+    "Apfahrt",
+    "Abfaht",
+    "Abfahrtt"
+  ]
+}

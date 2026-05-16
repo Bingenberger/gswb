@@ -1,0 +1,82 @@
+{
+  "lemma": "Gebiss",
+  "wortart": "Nomen",
+  "silben": "Ge-biss",
+  "begriffserklaerung": "Das Gebiss sind alle Zähne zusammen, die im Mund sitzen. Manchmal meint man damit auch eine künstliche Zahnprothese für Erwachsene.",
+  "beispielsatz": "Der Zahnarzt schaut sich mein Gebiss genau an.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „s\" und schreibst „ss\" – also „Ge-biss\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "beiß"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Gebiss",
+    "plural": "Gebisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebiss",
+        "genitiv": "des Gebisses",
+        "dativ": "dem Gebiss",
+        "akkusativ": "das Gebiss"
+      },
+      "plural": {
+        "nominativ": "die Gebisse",
+        "genitiv": "der Gebisse",
+        "dativ": "den Gebissen",
+        "akkusativ": "die Gebisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebis",
+    "Gebiß",
+    "Gebisss",
+    "Gebiss'",
+    "Gebißs"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnarzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teeth / dentures"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dentition / dentier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişler / takma diş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أسنان / طقم أسنان"
+    }
+  ],
+  "bild_datei": "Gebiss.webp",
+  "audio_datei": "Gebiss.mp3"
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Nummer",
+  "wortart": "Nomen",
+  "silben": "Num-mer",
+  "begriffserklaerung": "Eine Nummer ist ein Zeichen aus einer oder mehreren Ziffern, das etwas oder jemanden eindeutig kennzeichnet oder einen Platz in einer Reihenfolge angibt.",
+  "beispielsatz": "Meine Lieblingsnummer ist die Sieben.",
+  "rechtschreibstrategie": "Das Wort „Nummer\" hat ein kurzes U – deshalb verdoppelst du das M: Num-mer. Sprich es in Silben, dann hörst du das Doppel-M!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Nummer"
+  ],
+  "bild_datei": "Nummer.webp",
+  "audio_datei": "Nummer.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nummer",
+    "plural": "die Nummern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nummer",
+        "genitiv": "der Nummer",
+        "dativ": "der Nummer",
+        "akkusativ": "die Nummer"
+      },
+      "plural": {
+        "nominativ": "die Nummern",
+        "genitiv": "der Nummern",
+        "dativ": "den Nummern",
+        "akkusativ": "die Nummern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "number"
+    },
+    {
+      "language_code": "fr",
+      "translation": "numéro"
+    },
+    {
+      "language_code": "tr",
+      "translation": "numara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nummerieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nummerierung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adresse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefonnummer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Numer",
+    "Nummmer",
+    "Numner",
+    "Nommer",
+    "Nummre"
+  ]
+}

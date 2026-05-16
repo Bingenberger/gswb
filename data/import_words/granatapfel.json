@@ -1,0 +1,75 @@
+{
+  "lemma": "Granatapfel",
+  "wortart": "Nomen",
+  "silben": "Gra-nat-ap-fel",
+  "begriffserklaerung": "Der Granatapfel ist eine runde, rote Frucht mit einer festen Schale. Innen stecken viele kleine, saftige, rubinrote Kerne, die man essen kann.",
+  "beispielsatz": "Mama schneidet den Granatapfel auf, damit wir die süßen roten Kerne herausnehmen können.",
+  "rechtschreibstrategie": "Granatapfel ist ein zusammengesetztes Wort aus „Granat\" und „Apfel\". Sprich beide Teile einzeln: GRA-NAT + AP-FEL. Dann kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Granat",
+    "Apfel"
+  ],
+  "bild_datei": "Granatapfel.webp",
+  "audio_datei": "Granatapfel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pomegranate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grenade"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orange"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Granatapfel",
+    "plural": "die Granatäpfel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Granatapfel",
+        "genitiv": "des Granatapfels",
+        "dativ": "dem Granatapfel",
+        "akkusativ": "den Granatapfel"
+      },
+      "plural": {
+        "nominativ": "die Granatäpfel",
+        "genitiv": "der Granatäpfel",
+        "dativ": "den Granatäpfeln",
+        "akkusativ": "die Granatäpfel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Granadapfel",
+    "Grannatapfel",
+    "Granatappel",
+    "Granadtapfel",
+    "Granahtapfel"
+  ]
+}

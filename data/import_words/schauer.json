@@ -1,0 +1,83 @@
+{
+  "lemma": "Schauer",
+  "wortart": "Nomen",
+  "silben": "Schau-er",
+  "begriffserklaerung": "Ein Schauer ist ein kurzer, plötzlicher Regen, der schnell wieder aufhört. Das Wort kann auch ein Frösteln oder Gruseln bedeuten, das man am Körper spürt.",
+  "beispielsatz": "Nach dem kurzen Schauer schien die Sonne wieder strahlend hell.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Schau-er. Der erste Teil klingt wie „schauen\" – das hilft dir, es richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schauer",
+    "schau"
+  ],
+  "bild_datei": "Schauer.webp",
+  "audio_datei": "Schauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "averse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sağanak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زخة مطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schauern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schauerlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regenschauer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schauer",
+    "plural": "die Schauer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schauer",
+        "genitiv": "des Schauers",
+        "dativ": "dem Schauer",
+        "akkusativ": "den Schauer"
+      },
+      "plural": {
+        "nominativ": "die Schauer",
+        "genitiv": "der Schauer",
+        "dativ": "den Schauern",
+        "akkusativ": "die Schauer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schaur",
+    "Schauher",
+    "Schouer",
+    "Schaüer",
+    "Schoer"
+  ]
+}

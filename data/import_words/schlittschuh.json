@@ -1,0 +1,84 @@
+{
+  "lemma": "Schlittschuh",
+  "wortart": "Nomen",
+  "silben": "Schlit-t-schuh",
+  "begriffserklaerung": "Ein Schlittschuh ist ein Schuh mit einer langen Metallklinge unten. Mit Schlittschuhen kann man über Eis gleiten.",
+  "beispielsatz": "Im Winter ziehe ich meine Schlittschuhe an und fahre auf dem Eis.",
+  "rechtschreibstrategie": "Das Wort steckt aus zwei Teilen: „Schlitten\" und „Schuh\". Das erste t von „Schlitten\" und das erste t von „tt\" treffen sich – deshalb schreibt man „tt\". Denk an „Schlitten\" mit Doppel-t!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schlitten",
+    "Schuh"
+  ],
+  "bild_datei": "Schlittschuh.webp",
+  "audio_datei": "Schlittschuh.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlittschuh",
+    "plural": "die Schlittschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlittschuh",
+        "genitiv": "des Schlittschuhs",
+        "dativ": "dem Schlittschuh",
+        "akkusativ": "den Schlittschuh"
+      },
+      "plural": {
+        "nominativ": "die Schlittschuhe",
+        "genitiv": "der Schlittschuhe",
+        "dativ": "den Schlittschuhen",
+        "akkusativ": "die Schlittschuhe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ice skate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patin à glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buz pateni"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء التزلج على الجليد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlitten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eislaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wintersport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlitschuh",
+    "Schlittschuch",
+    "Schlidschuh",
+    "Schlitschuch",
+    "Schlittschuu"
+  ]
+}

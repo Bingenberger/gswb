@@ -1,0 +1,84 @@
+{
+  "lemma": "Hirschkäfer",
+  "wortart": "Nomen",
+  "silben": "Hirsch-kä-fer",
+  "begriffserklaerung": "Der Hirschkäfer ist ein großer Käfer mit auffälligen, geweihartigen Zangen am Kopf. Er lebt in Wäldern und ist in Deutschland selten und geschützt.",
+  "beispielsatz": "Im Wald haben wir einen Hirschkäfer auf einem alten Baumstumpf entdeckt.",
+  "rechtschreibstrategie": "Das Wort ist zusammengesetzt aus „Hirsch\" und „Käfer\". Sprich beide Teile einzeln: HIRSCH + KÄFER. Das ä in „Käfer\" klingt wie ein langes ä.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hirsch",
+    "Käfer"
+  ],
+  "bild_datei": "Hirschkäfer.webp",
+  "audio_datei": "Hirschkäfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stag beetle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cerf-volant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geyik böceği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنفساء الأيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hirsch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marienkäfer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hirschkäfer",
+    "plural": "die Hirschkäfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hirschkäfer",
+        "genitiv": "des Hirschkäfers",
+        "dativ": "dem Hirschkäfer",
+        "akkusativ": "den Hirschkäfer"
+      },
+      "plural": {
+        "nominativ": "die Hirschkäfer",
+        "genitiv": "der Hirschkäfer",
+        "dativ": "den Hirschkäfern",
+        "akkusativ": "die Hirschkäfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hirschkefer",
+    "Hirschkäffer",
+    "Hirschkefär",
+    "Hischkäfer",
+    "Hirschkäfär",
+    "Hirschkäfeer"
+  ]
+}

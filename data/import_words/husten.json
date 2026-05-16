@@ -1,0 +1,90 @@
+{
+  "lemma": "husten",
+  "wortart": "Verb",
+  "silben": "hus-ten",
+  "begriffserklaerung": "Wenn du hustest, stößt du Luft laut aus deinem Mund, weil dein Hals oder deine Lunge sich schützen will.",
+  "beispielsatz": "Tim hustet, weil er erkältet ist.",
+  "rechtschreibstrategie": "Sprich das Wort laut: hus-ten. Nach dem kurzen „u\" kommt ein „s\" – du hörst es deutlich. Denk daran: Am Ende steht immer „-en\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hust"
+  ],
+  "bild_datei": "husten.webp",
+  "audio_datei": "husten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to cough"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tousser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öksürmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسعل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Husten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hustensaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "niesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnäuzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "räuspern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "husten",
+    "praesens": {
+      "ich": "ich huste",
+      "du": "du hustest",
+      "er_sie_es": "er/sie/es hustet",
+      "wir": "wir husten",
+      "ihr": "ihr hustet",
+      "sie": "sie husten"
+    },
+    "perfekt": {
+      "ich": "ich habe gehustet",
+      "du": "du hast gehustet",
+      "er_sie_es": "er/sie/es hat gehustet",
+      "wir": "wir haben gehustet",
+      "ihr": "ihr habt gehustet",
+      "sie": "sie haben gehustet"
+    },
+    "praeteritum": {
+      "ich": "ich hustete",
+      "du": "du hustetest",
+      "er_sie_es": "er/sie/es hustete",
+      "wir": "wir husteten",
+      "ihr": "ihr hustetet",
+      "sie": "sie husteten"
+    }
+  },
+  "fehlschreibungen": [
+    "husten",
+    "hussten",
+    "hußten",
+    "huusten",
+    "hosten"
+  ]
+}

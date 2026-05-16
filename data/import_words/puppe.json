@@ -1,0 +1,80 @@
+{
+  "lemma": "Puppe",
+  "wortart": "Nomen",
+  "silben": "Pup-pe",
+  "begriffserklaerung": "Eine Puppe ist ein Spielzeug in Form eines Menschen oder einer Figur. Kinder spielen gerne damit.",
+  "beispielsatz": "Meine Puppe hat langes blondes Haar und ein rotes Kleid.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" verdoppelst du das „p\": Pup-pe. Sprich die Silben laut mit – dann hörst du das doppelte „p\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Puppe",
+    "plural": "die Puppen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Puppe",
+        "genitiv": "der Puppe",
+        "dativ": "der Puppe",
+        "akkusativ": "die Puppe"
+      },
+      "plural": {
+        "nominativ": "die Puppen",
+        "genitiv": "der Puppen",
+        "dativ": "den Puppen",
+        "akkusativ": "die Puppen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Pupp-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Puppenhaus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Puppenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teddy"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Figur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Pupe",
+    "Pupppe",
+    "Buppe"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "doll"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poupée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bebek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُمية"
+    }
+  ],
+  "bild_datei": "Puppe.webp",
+  "audio_datei": "Puppe.mp3"
+}

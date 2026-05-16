@@ -1,0 +1,72 @@
+{
+  "lemma": "Artikel",
+  "wortart": "Nomen",
+  "silben": "Ar-ti-kel",
+  "begriffserklaerung": "Ein Artikel ist ein kleines Wort, das vor einem Nomen steht. Es gibt drei Artikel auf Deutsch: der, die und das. Das Wort „Artikel\" bedeutet aber auch einen Bericht in einer Zeitung oder einem Heft.",
+  "beispielsatz": "Im Deutschunterricht lernen wir, welcher Artikel zu jedem Nomen gehört.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ar-ti-kel. Das „i\" in der Mitte ist kurz, aber es folgt nur ein „k\" – dieses Wort musst du dir einfach merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Artikel.webp",
+  "audio_datei": "Artikel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "article"
+    },
+    {
+      "language_code": "fr",
+      "translation": "article"
+    },
+    {
+      "language_code": "tr",
+      "translation": "artikel / tanımlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقالة / أداة تعريف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nomen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pronomen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Artikel",
+    "plural": "die Artikel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Artikel",
+        "genitiv": "des Artikels",
+        "dativ": "dem Artikel",
+        "akkusativ": "den Artikel"
+      },
+      "plural": {
+        "nominativ": "die Artikel",
+        "genitiv": "der Artikel",
+        "dativ": "den Artikeln",
+        "akkusativ": "die Artikel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Artickel",
+    "Artikkel",
+    "Artigel",
+    "Artiekel",
+    "Artkel"
+  ]
+}

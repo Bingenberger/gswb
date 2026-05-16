@@ -1,0 +1,89 @@
+{
+  "lemma": "Haarschnitt",
+  "wortart": "Nomen",
+  "silben": "Haar-schnitt",
+  "begriffserklaerung": "Ein Haarschnitt ist das Kürzen oder Formen der Haare mit einer Schere oder einer Haarschneidemaschine.",
+  "beispielsatz": "Mia bekommt beim Friseur einen neuen Haarschnitt.",
+  "rechtschreibstrategie": "„Haar-schnitt\" ist ein zusammengesetztes Wort aus „Haar\" und „Schnitt\". Das Wort „Schnitt\" hat am Ende zwei t, weil man es verlängern kann: „Schnitte\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Haar",
+    "schneid",
+    "schnitt"
+  ],
+  "bild_datei": "Haarschnitt.webp",
+  "audio_datei": "Haarschnitt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Haarschnitt",
+    "plural": "die Haarschnitte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Haarschnitt",
+        "genitiv": "des Haarschnitts",
+        "dativ": "dem Haarschnitt",
+        "akkusativ": "den Haarschnitt"
+      },
+      "plural": {
+        "nominativ": "die Haarschnitte",
+        "genitiv": "der Haarschnitte",
+        "dativ": "den Haarschnitten",
+        "akkusativ": "die Haarschnitte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "haircut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coupe de cheveux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç kesimi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قصة شعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnitt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Frisur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Friseur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Harschnitt",
+    "Haarschnit",
+    "Haarschnidt",
+    "Haarsschnitt"
+  ]
+}

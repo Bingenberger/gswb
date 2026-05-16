@@ -1,0 +1,83 @@
+{
+  "lemma": "Fang",
+  "wortart": "Nomen",
+  "silben": "Fang",
+  "begriffserklaerung": "Ein Fang ist das Greifen oder Aufhalten von etwas oder jemandem. Man spricht auch vom Fang, wenn jemand Fische oder Tiere gefangen hat.",
+  "beispielsatz": "Der Fischer freute sich über seinen großen Fang.",
+  "rechtschreibstrategie": "Das Wort „Fang\" hat nach dem kurzen „a\" einen einfachen Konsonanten. Wenn du es verlängerst, hörst du: „Fän-ge\" – so weißt du, dass am Ende ein „g\" steht und kein „k\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fang",
+    "fäng"
+  ],
+  "bild_datei": "Fang.webp",
+  "audio_datei": "Fang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "catch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avlama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fänger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jagd"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beute"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fang",
+    "plural": "die Fänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fang",
+        "genitiv": "des Fanges",
+        "dativ": "dem Fang",
+        "akkusativ": "den Fang"
+      },
+      "plural": {
+        "nominativ": "die Fänge",
+        "genitiv": "der Fänge",
+        "dativ": "den Fängen",
+        "akkusativ": "die Fänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fanng",
+    "Fank",
+    "Fang",
+    "Phang",
+    "Fangg"
+  ]
+}

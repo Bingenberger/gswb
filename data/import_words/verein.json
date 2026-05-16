@@ -1,0 +1,83 @@
+{
+  "lemma": "Verein",
+  "wortart": "Nomen",
+  "silben": "Ver-ein",
+  "begriffserklaerung": "Ein Verein ist eine Gruppe von Menschen, die sich zusammentun, weil sie dasselbe Hobby oder Interesse haben, zum Beispiel Fußball oder Musik.",
+  "beispielsatz": "Leon spielt jeden Samstag beim Fußball-Verein.",
+  "rechtschreibstrategie": "Das Wort „Verein\" beginnt mit dem Großbuchstaben V und enthält das Merkwort-V. Denk daran: Das V spricht sich wie ein „F\" an, aber man schreibt ein V!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "ein"
+  ],
+  "bild_datei": "Verein.webp",
+  "audio_datei": "Verein.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verein",
+    "plural": "die Vereine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verein",
+        "genitiv": "des Vereins",
+        "dativ": "dem Verein",
+        "akkusativ": "den Verein"
+      },
+      "plural": {
+        "nominativ": "die Vereine",
+        "genitiv": "der Vereine",
+        "dativ": "den Vereinen",
+        "akkusativ": "die Vereine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "club"
+    },
+    {
+      "language_code": "fr",
+      "translation": "club"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kulüp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نادٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vereinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vereinigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitglied"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klub"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferein",
+    "Vereien",
+    "Verein",
+    "Verin",
+    "Fereien",
+    "Vereyn"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Erinnerung",
+  "wortart": "Nomen",
+  "silben": "Er-in-ne-rung",
+  "begriffserklaerung": "Eine Erinnerung ist etwas, das du nicht vergessen hast. Du denkst an etwas, das früher passiert ist.",
+  "beispielsatz": "Die Fotos vom Urlaub sind eine schöne Erinnerung.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Er-in-ne-rung. Höre das doppelte „n\" in der Mitte – beide „n\" werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "erinner"
+  ],
+  "bild_datei": "Erinnerung.webp",
+  "audio_datei": "Erinnerung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erinnerung",
+    "plural": "die Erinnerungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erinnerung",
+        "genitiv": "der Erinnerung",
+        "dativ": "der Erinnerung",
+        "akkusativ": "die Erinnerung"
+      },
+      "plural": {
+        "nominativ": "die Erinnerungen",
+        "genitiv": "der Erinnerungen",
+        "dativ": "den Erinnerungen",
+        "akkusativ": "die Erinnerungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "memory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souvenir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذكرى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erinnern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erinnerlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Andenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vergangenheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gedächtnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erlebnis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erinnerung",
+    "Errinnerung",
+    "Erinnerring",
+    "Erinerung",
+    "Erinnerunk"
+  ]
+}

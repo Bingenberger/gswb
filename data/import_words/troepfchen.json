@@ -1,0 +1,93 @@
+{
+  "lemma": "Tröpfchen",
+  "wortart": "Nomen",
+  "silben": "Tröpf-chen",
+  "begriffserklaerung": "Ein Tröpfchen ist ein winzig kleiner Tropfen einer Flüssigkeit, zum Beispiel von Wasser oder Regen.",
+  "beispielsatz": "Ein kleines Tröpfchen Regen fiel auf meine Nase.",
+  "rechtschreibstrategie": "Denk an das große Wort „Tropfen\" – daraus wird „Tröpfchen\". Das ö kommt vom Umlauten des o, und das pf schreibst du genauso wie in „Tropfen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Tropf"
+  ],
+  "bild_datei": "Tröpfchen.webp",
+  "audio_datei": "Tröpfchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Tröpfchen",
+    "plural": "die Tröpfchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tröpfchen",
+        "genitiv": "des Tröpfchens",
+        "dativ": "dem Tröpfchen",
+        "akkusativ": "das Tröpfchen"
+      },
+      "plural": {
+        "nominativ": "die Tröpfchen",
+        "genitiv": "der Tröpfchen",
+        "dativ": "den Tröpfchen",
+        "akkusativ": "die Tröpfchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "droplet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gouttelette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "damla"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tropfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tropfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tröpfeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tropfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tau"
+    }
+  ],
+  "fehlschreibungen": [
+    "Trröpfchen",
+    "Tröpchen",
+    "Trøpfchen",
+    "Tröpfchen",
+    "Treopfchen",
+    "Tröpfschen",
+    "Troepfchen"
+  ]
+}

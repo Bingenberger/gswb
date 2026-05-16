@@ -1,0 +1,95 @@
+{
+  "lemma": "springen",
+  "wortart": "Verb",
+  "silben": "sprin-gen",
+  "begriffserklaerung": "Wenn du springst, stößt du dich mit den Beinen ab und fliegst kurz durch die Luft.",
+  "beispielsatz": "Die Kinder springen fröhlich über die Pfützen auf dem Schulhof.",
+  "rechtschreibstrategie": "Sprich das Wort laut: sprin-gen. Du hörst ein kurzes „i\" – danach kommen gleich zwei Mitlaute (ng), deshalb ist der Vokal kurz. Merke dir: spr-i-ng!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "spring"
+  ],
+  "bild_datei": "springen.webp",
+  "audio_datei": "springen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "springen",
+    "praesens": {
+      "ich": "springe",
+      "du": "springst",
+      "er_sie_es": "springt",
+      "wir": "springen",
+      "ihr": "springt",
+      "sie": "springen"
+    },
+    "perfekt": {
+      "ich": "bin gesprungen",
+      "du": "bist gesprungen",
+      "er_sie_es": "ist gesprungen",
+      "wir": "sind gesprungen",
+      "ihr": "seid gesprungen",
+      "sie": "sind gesprungen"
+    },
+    "praeteritum": {
+      "ich": "sprang",
+      "du": "sprangst",
+      "er_sie_es": "sprang",
+      "wir": "sprangen",
+      "ihr": "sprangt",
+      "sie": "sprangen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to jump"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sauter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَقْفِزُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Springer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hüpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "klettern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rennen"
+    }
+  ],
+  "fehlschreibungen": [
+    "schpringen",
+    "springgen",
+    "springn",
+    "springen",
+    "spriengen",
+    "spingern"
+  ]
+}

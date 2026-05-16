@@ -1,0 +1,91 @@
+{
+  "lemma": "Zug",
+  "wortart": "Nomen",
+  "silben": "Zug",
+  "begriffserklaerung": "Ein Zug ist ein langes Fahrzeug, das auf Schienen fährt und viele Menschen oder Waren transportiert.",
+  "beispielsatz": "Der Zug fährt pünktlich vom Bahnhof ab.",
+  "rechtschreibstrategie": "Wenn du „Zug\" verlängerst, heißt es „Züge\" – so hörst du, dass am Ende ein g steht und kein k!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zieh",
+    "zug"
+  ],
+  "bild_datei": "Zug.webp",
+  "audio_datei": "Zug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "train"
+    },
+    {
+      "language_code": "fr",
+      "translation": "train"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zugfahrt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zuglok"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lokomotive"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zug",
+    "plural": "die Züge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zug",
+        "genitiv": "des Zuges",
+        "dativ": "dem Zug",
+        "akkusativ": "den Zug"
+      },
+      "plural": {
+        "nominativ": "die Züge",
+        "genitiv": "der Züge",
+        "dativ": "den Zügen",
+        "akkusativ": "die Züge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tzug",
+    "Zuck",
+    "Tsug",
+    "Zugg",
+    "Zuhg"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "Rentier",
+  "wortart": "Nomen",
+  "silben": "Ren-tier",
+  "begriffserklaerung": "Ein Rentier ist ein großes Tier mit Geweihen, das in kalten Gebieten wie der Arktis lebt. Sowohl Männchen als auch Weibchen tragen ein Geweih.",
+  "beispielsatz": "Das Rentier zieht den Schlitten des Weihnachtsmanns durch die Luft.",
+  "rechtschreibstrategie": "Das Wort „Rentier\" steckt aus zwei Teilen: „Ren\" und „Tier\". Sprich beide Teile laut: Ren – Tier. Das kennst du schon – ein Tier!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tier"
+  ],
+  "bild_datei": "Rentier.webp",
+  "audio_datei": "Rentier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reindeer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "renne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ren geyiği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hirsch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rentier",
+    "plural": "die Rentiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rentier",
+        "genitiv": "des Rentiers",
+        "dativ": "dem Rentier",
+        "akkusativ": "das Rentier"
+      },
+      "plural": {
+        "nominativ": "die Rentiere",
+        "genitiv": "der Rentiere",
+        "dativ": "den Rentieren",
+        "akkusativ": "die Rentiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rentiehr",
+    "Räntier",
+    "Rendier",
+    "Rentir",
+    "Renntiehr",
+    "Renntier"
+  ]
+}

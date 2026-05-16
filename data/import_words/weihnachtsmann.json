@@ -1,0 +1,86 @@
+{
+  "lemma": "Weihnachtsmann",
+  "wortart": "Nomen",
+  "silben": "Weih-nachts-mann",
+  "begriffserklaerung": "Der Weihnachtsmann ist eine freundliche Figur mit rotem Mantel und weißem Bart. Er bringt Kindern in der Nacht zum 25. Dezember Geschenke.",
+  "beispielsatz": "Der Weihnachtsmann kommt in der Nacht und legt Geschenke unter den Tannenbaum.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Weih\" + „nachts\" + „Mann\". Denk an „Weihnachten\" und „Mann\" – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Weihnacht",
+    "Mann"
+  ],
+  "bild_datei": "Weihnachtsmann.webp",
+  "audio_datei": "Weihnachtsmann.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Weihnachtsmann",
+    "plural": "die Weihnachtsmänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Weihnachtsmann",
+        "genitiv": "des Weihnachtsmannes",
+        "dativ": "dem Weihnachtsmann",
+        "akkusativ": "den Weihnachtsmann"
+      },
+      "plural": {
+        "nominativ": "die Weihnachtsmänner",
+        "genitiv": "der Weihnachtsmänner",
+        "dativ": "den Weihnachtsmännern",
+        "akkusativ": "die Weihnachtsmänner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Santa Claus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Père Noël"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Noel Baba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بابا نويل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tannenbaum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rentier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weinachtsmann",
+    "Weihnachtsман",
+    "Weihnachtsman",
+    "Weihnachtsmann",
+    "Weichnachtsmann",
+    "Weihnachstmann",
+    "Weihnachtsмann"
+  ]
+}

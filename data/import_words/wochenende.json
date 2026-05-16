@@ -1,0 +1,84 @@
+{
+  "lemma": "Wochenende",
+  "wortart": "Nomen",
+  "silben": "Wo-chen-en-de",
+  "begriffserklaerung": "Das Wochenende sind die letzten zwei Tage der Woche: Samstag und Sonntag. An diesen Tagen gibt es meist keine Schule und keine Arbeit.",
+  "beispielsatz": "Am Wochenende spielen wir den ganzen Tag draußen.",
+  "rechtschreibstrategie": "Das Wort „Wochenende\" besteht aus zwei Teilen: „Wochen\" und „Ende\". Sprich beide Teile einzeln und schreib sie einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Woche",
+    "Ende"
+  ],
+  "bild_datei": "Wochenende.webp",
+  "audio_datei": "Wochenende.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weekend"
+    },
+    {
+      "language_code": "fr",
+      "translation": "week-end"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hafta sonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهاية الأسبوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Woche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonntag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freizeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wochenende",
+    "plural": "die Wochenenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wochenende",
+        "genitiv": "des Wochenendes",
+        "dativ": "dem Wochenende",
+        "akkusativ": "das Wochenende"
+      },
+      "plural": {
+        "nominativ": "die Wochenenden",
+        "genitiv": "der Wochenenden",
+        "dativ": "den Wochenenden",
+        "akkusativ": "die Wochenenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wochenende",
+    "Wochenede",
+    "Wochenente",
+    "Wochenennte",
+    "Wochenennde",
+    "Wochenend"
+  ]
+}

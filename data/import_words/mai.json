@@ -1,0 +1,72 @@
+{
+  "lemma": "Mai",
+  "wortart": "Nomen",
+  "silben": "Mai",
+  "begriffserklaerung": "Der Mai ist der fünfte Monat im Jahr. Er kommt nach dem April und vor dem Juni. Im Mai wird das Wetter wärmer und viele Blumen blühen.",
+  "beispielsatz": "Im Mai machen wir einen Ausflug in den Wald.",
+  "rechtschreibstrategie": "Das Wort „Mai\" klingt wie „My\" auf Englisch – aber auf Deutsch schreiben wir es mit „ai\". Denk dir: Im Mai blühen viele Blumen – M-a-i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Mai.webp",
+  "audio_datei": "Mai.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "May"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mai"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Mayıs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مايو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "April"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Juni"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mai",
+    "plural": "die Mais",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mai",
+        "genitiv": "des Mais",
+        "dativ": "dem Mai",
+        "akkusativ": "den Mai"
+      },
+      "plural": {
+        "nominativ": "die Mais",
+        "genitiv": "der Mais",
+        "dativ": "den Mais",
+        "akkusativ": "die Mais"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "May",
+    "Maii",
+    "Maij",
+    "Mai'",
+    "Mey"
+  ]
+}

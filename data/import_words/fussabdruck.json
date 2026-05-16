@@ -1,0 +1,90 @@
+{
+  "lemma": "Fußabdruck",
+  "wortart": "Nomen",
+  "silben": "Fuß-ab-druck",
+  "begriffserklaerung": "Ein Fußabdruck ist das Abbild, das ein Fuß hinterlässt, wenn man zum Beispiel barfuß durch Sand oder über eine nasse Fläche läuft.",
+  "beispielsatz": "Am Strand haben wir unsere Fußabdrücke im Sand entdeckt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Fuß\" und „Abdruck\". Denke an das lange „u\" in „Fuß\" – es wird mit ß geschrieben. „Abdruck\" hat ein kurzes „u\", daher steht am Ende „ck\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Druck"
+  ],
+  "bild_datei": "Fußabdruck.webp",
+  "audio_datei": "Fußabdruck.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußabdruck",
+    "plural": "die Fußabdrücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußabdruck",
+        "genitiv": "des Fußabdrucks",
+        "dativ": "dem Fußabdruck",
+        "akkusativ": "den Fußabdruck"
+      },
+      "plural": {
+        "nominativ": "die Fußabdrücke",
+        "genitiv": "der Fußabdrücke",
+        "dativ": "den Fußabdrücken",
+        "akkusativ": "die Fußabdrücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "footprint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "empreinte de pied"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayak izi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بصمة قدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Druck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fußspur"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fussabdruck",
+    "Fußabdruk",
+    "Fußabdrueck",
+    "Fußapdrück",
+    "Fußabdrück",
+    "Fußabdurck"
+  ]
+}

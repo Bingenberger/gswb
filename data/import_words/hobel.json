@@ -1,0 +1,82 @@
+{
+  "lemma": "Hobel",
+  "wortart": "Nomen",
+  "silben": "Ho-bel",
+  "begriffserklaerung": "Ein Hobel ist ein Werkzeug aus Holz und Metall. Damit glättet man Holzoberflächen, indem man dünne Späne abschabt.",
+  "beispielsatz": "Der Tischler schiebt den Hobel über das raue Brett, bis es ganz glatt ist.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Ho-bel\". Beide Silben klar mitsprechen – das b in der Mitte gehört zur zweiten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hobel"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hobel",
+    "plural": "die Hobel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hobel",
+        "genitiv": "des Hobels",
+        "dativ": "dem Hobel",
+        "akkusativ": "den Hobel"
+      },
+      "plural": {
+        "nominativ": "die Hobel",
+        "genitiv": "der Hobel",
+        "dativ": "den Hobeln",
+        "akkusativ": "die Hobel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hobbel",
+    "Hobeel",
+    "Hobbl",
+    "Hoobell",
+    "Hobel"
+  ],
+  "bild_datei": "Hobel.webp",
+  "audio_datei": "Hobel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plane (woodworking tool)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rabot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "planya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مِنْشَار يَدَوِي (فارة نجارة)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hobeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hobelspan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ]
+}

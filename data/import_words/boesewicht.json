@@ -1,0 +1,88 @@
+{
+  "lemma": "Bösewicht",
+  "wortart": "Nomen",
+  "silben": "Bö-se-wicht",
+  "begriffserklaerung": "Ein Bösewicht ist eine Person, die böse Dinge tut und anderen Menschen schadet oder Schaden anrichten will.",
+  "beispielsatz": "In dem Märchen besiegt der mutige Held den Bösewicht und rettet das Königreich.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „böse\" und „Wicht\". Sprich beide Teile deutlich: BÖ-SE-WICHT. Das „ö\" klingt lang, und am Ende hörst du deutlich das „t\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "böse",
+    "Wicht"
+  ],
+  "bild_datei": "Bösewicht.webp",
+  "audio_datei": "Bösewicht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "villain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "méchant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kötü adam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شرير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "böse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schurke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Held"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bösewicht",
+    "plural": "die Bösewichte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bösewicht",
+        "genitiv": "des Bösewichts",
+        "dativ": "dem Bösewicht",
+        "akkusativ": "den Bösewicht"
+      },
+      "plural": {
+        "nominativ": "die Bösewichte",
+        "genitiv": "der Bösewichte",
+        "dativ": "den Bösewichten",
+        "akkusativ": "die Bösewichte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bösewich",
+    "Bösewigt",
+    "Böswicht",
+    "Beösewicht",
+    "Bösswicht",
+    "Bösewickt"
+  ]
+}

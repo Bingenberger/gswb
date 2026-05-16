@@ -1,0 +1,83 @@
+{
+  "lemma": "Hand",
+  "wortart": "Nomen",
+  "silben": "Hand",
+  "begriffserklaerung": "Die Hand ist der Teil des Körpers am Ende des Arms. Mit der Hand kannst du greifen, schreiben und vieles mehr.",
+  "beispielsatz": "Ich halte das Buch fest in meiner Hand.",
+  "rechtschreibstrategie": "Verlängere das Wort: Hand → Hände. Dann hörst du das „d\" am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hand",
+    "plural": "die Hände",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hand",
+        "genitiv": "der Hand",
+        "dativ": "der Hand",
+        "akkusativ": "die Hand"
+      },
+      "plural": {
+        "nominativ": "die Hände",
+        "genitiv": "der Hände",
+        "dativ": "den Händen",
+        "akkusativ": "die Hände"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "hand"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handschuh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "handhaben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Finger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faust"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hant",
+    "Handt"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "main"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يد"
+    }
+  ],
+  "bild_datei": "Hand.webp",
+  "audio_datei": "Hand.mp3"
+}

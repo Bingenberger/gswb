@@ -1,0 +1,84 @@
+{
+  "lemma": "Gehör",
+  "wortart": "Nomen",
+  "silben": "Ge-hör",
+  "begriffserklaerung": "Das Gehör ist die Fähigkeit, mit den Ohren Töne und Geräusche wahrzunehmen.",
+  "beispielsatz": "Der Hund hat ein sehr feines Gehör und hört schon von weitem, wenn jemand kommt.",
+  "rechtschreibstrategie": "Das Wort „Gehör\" kommt von „hören\". Denk an das lange ö in „hören\" – so schreibst du das ö in „Gehör\" richtig!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hör"
+  ],
+  "bild_datei": "Gehör.webp",
+  "audio_datei": "Gehör.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hearing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouïe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işitme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hörvermögen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gehör",
+    "plural": "die Gehöre",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gehör",
+        "genitiv": "des Gehörs",
+        "dativ": "dem Gehör",
+        "akkusativ": "das Gehör"
+      },
+      "plural": {
+        "nominativ": "die Gehöre",
+        "genitiv": "der Gehöre",
+        "dativ": "den Gehören",
+        "akkusativ": "die Gehöre"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gehör",
+    "Gehhör",
+    "Gehöhr",
+    "Gehoer",
+    "Geheer",
+    "Gehoehr"
+  ]
+}

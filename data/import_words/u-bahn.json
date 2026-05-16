@@ -1,0 +1,82 @@
+{
+  "lemma": "U-Bahn",
+  "wortart": "Nomen",
+  "silben": "U-Bahn",
+  "begriffserklaerung": "Die U-Bahn ist ein Zug, der meistens unter der Erde durch Tunnel fährt und viele Menschen durch eine Stadt bringt.",
+  "beispielsatz": "Wir fahren mit der U-Bahn in die Stadt.",
+  "rechtschreibstrategie": "U-Bahn ist ein zusammengesetztes Wort aus „U\" (kurz für „Untergrundbahn\") und „Bahn\". Das „B\" in „Bahn\" wird großgeschrieben, weil es ein Nomen ist. Vergiss den Bindestrich zwischen „U\" und „Bahn\" nicht!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bahn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die U-Bahn",
+    "plural": "die U-Bahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die U-Bahn",
+        "genitiv": "der U-Bahn",
+        "dativ": "der U-Bahn",
+        "akkusativ": "die U-Bahn"
+      },
+      "plural": {
+        "nominativ": "die U-Bahnen",
+        "genitiv": "der U-Bahnen",
+        "dativ": "den U-Bahnen",
+        "akkusativ": "die U-Bahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "U-ban",
+    "Ubahn",
+    "u-Bahn",
+    "Ubahnn",
+    "U-Baahn"
+  ],
+  "bild_datei": "U-Bahn.webp",
+  "audio_datei": "U-Bahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "subway / underground"
+    },
+    {
+      "language_code": "fr",
+      "translation": "métro"
+    },
+    {
+      "language_code": "tr",
+      "translation": "metro"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مترو الأنفاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Amt",
+  "wortart": "Nomen",
+  "silben": "Amt",
+  "begriffserklaerung": "Ein Amt ist eine offizielle Stelle, bei der Menschen arbeiten, die sich um wichtige Aufgaben für alle kümmern – zum Beispiel im Rathaus.",
+  "beispielsatz": "Meine Mutter war heute beim Amt, um einen neuen Ausweis zu beantragen.",
+  "rechtschreibstrategie": "Wenn du „Amt\" verlängerst, heißt es „Äm-ter\" – dann hörst du das „t\" am Ende ganz deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Amt"
+  ],
+  "bild_datei": "Amt.webp",
+  "audio_datei": "Amt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "office / authority"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau / office"
+    },
+    {
+      "language_code": "tr",
+      "translation": "daire / ofis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكتب / دائرة حكومية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "amtlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beamte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rathaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behörde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Behörde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Amt",
+    "plural": "Ämter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Amt",
+        "genitiv": "des Amtes",
+        "dativ": "dem Amt",
+        "akkusativ": "das Amt"
+      },
+      "plural": {
+        "nominativ": "die Ämter",
+        "genitiv": "der Ämter",
+        "dativ": "den Ämtern",
+        "akkusativ": "die Ämter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ahmt",
+    "Ammt",
+    "Amdt",
+    "Ampt",
+    "Amth"
+  ]
+}

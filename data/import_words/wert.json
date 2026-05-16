@@ -1,0 +1,85 @@
+{
+  "lemma": "Wert",
+  "wortart": "Nomen",
+  "silben": "Wert",
+  "begriffserklaerung": "Der Wert sagt, wie wichtig oder wie viel etwas kostet oder bedeutet.",
+  "beispielsatz": "Der Wert des alten Buches ist sehr hoch, weil es so selten ist.",
+  "rechtschreibstrategie": "Wenn du „Wert\" verlängerst, sagst du „Werte\" – dann hörst du das d am Ende deutlich: wer-te. Deshalb schreibt man am Ende ein t.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wert"
+  ],
+  "bild_datei": "Wert.webp",
+  "audio_datei": "Wert.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "value"
+    },
+    {
+      "language_code": "fr",
+      "translation": "valeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قيمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewerten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wertvoll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bedeutung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Preis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wert",
+    "plural": "die Werte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wert",
+        "genitiv": "des Wertes",
+        "dativ": "dem Wert",
+        "akkusativ": "den Wert"
+      },
+      "plural": {
+        "nominativ": "die Werte",
+        "genitiv": "der Werte",
+        "dativ": "den Werten",
+        "akkusativ": "die Werte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Werd",
+    "Wärt",
+    "Wehrt",
+    "Wert"
+  ]
+}

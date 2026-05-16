@@ -1,0 +1,83 @@
+{
+  "lemma": "Waschmaschine",
+  "wortart": "Nomen",
+  "silben": "Wasch-ma-schi-ne",
+  "begriffserklaerung": "Eine Waschmaschine ist ein elektrisches Gerät, das schmutzige Wäsche mit Wasser und Waschmittel sauber wäscht.",
+  "beispielsatz": "Mama legt die schmutzigen Socken in die Waschmaschine.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „waschen\" und „Maschine\". Sprich beide Teile nacheinander: WASCH + MASCHINE. Das „sch\" klingt wie ein Zischen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wasch",
+    "Maschine"
+  ],
+  "bild_datei": "Waschmaschine.webp",
+  "audio_datei": "Waschmaschine.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Waschmaschine",
+    "plural": "die Waschmaschinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Waschmaschine",
+        "genitiv": "der Waschmaschine",
+        "dativ": "der Waschmaschine",
+        "akkusativ": "die Waschmaschine"
+      },
+      "plural": {
+        "nominativ": "die Waschmaschinen",
+        "genitiv": "der Waschmaschinen",
+        "dativ": "den Waschmaschinen",
+        "akkusativ": "die Waschmaschinen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washing machine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "machine à laver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çamaşır makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غسالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wäsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trockner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "fehlschreibungen": [
+    "Waschmaschiene",
+    "Washmaschine",
+    "Waschmasshine",
+    "Waschmachine",
+    "Wachsmaschine"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Bauernhof",
+  "wortart": "Nomen",
+  "silben": "Bau-ern-hof",
+  "begriffserklaerung": "Ein Bauernhof ist ein Ort auf dem Land, wo Bauern und Bäuerinnen arbeiten. Dort leben Tiere wie Kühe, Schweine und Hühner, und es werden Pflanzen angebaut.",
+  "beispielsatz": "Am Wochenende besuchen wir den Bauernhof und dürfen die Kühe streicheln.",
+  "rechtschreibstrategie": "Das Wort „Bauernhof\" besteht aus zwei Teilen: „Bauern\" und „Hof\". Sprich beide Teile laut: BAUERN – HOF. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bauer",
+    "Hof"
+  ],
+  "bild_datei": "Bauernhof.webp",
+  "audio_datei": "Bauernhof.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farm"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ferme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزرعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Scheune"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traktor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauernhof",
+    "plural": "die Bauernhöfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauernhof",
+        "genitiv": "des Bauernhofs",
+        "dativ": "dem Bauernhof",
+        "akkusativ": "den Bauernhof"
+      },
+      "plural": {
+        "nominativ": "die Bauernhöfe",
+        "genitiv": "der Bauernhöfe",
+        "dativ": "den Bauernhöfen",
+        "akkusativ": "die Bauernhöfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bauernhoff",
+    "Bauärnhof",
+    "Baurnhof",
+    "Bauernhov",
+    "Bauärnhoff"
+  ]
+}

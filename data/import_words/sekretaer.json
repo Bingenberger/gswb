@@ -1,0 +1,84 @@
+{
+  "lemma": "Sekretär",
+  "wortart": "Nomen",
+  "silben": "Se-kre-tär",
+  "begriffserklaerung": "Ein Sekretär ist eine Person, die im Büro wichtige Briefe schreibt, Termine plant und anderen Menschen bei ihrer Arbeit hilft.",
+  "beispielsatz": "Der Sekretär schreibt alle Briefe für die Chefin.",
+  "rechtschreibstrategie": "Das Wort Sekretär kommt aus dem Französischen. Denk daran: am Ende steht ein ä mit Accent – schreibe „tär\", nicht „ter\" oder „tähr\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Sekretär",
+    "Sekretariat"
+  ],
+  "bild_datei": "Sekretär.webp",
+  "audio_datei": "Sekretär.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "secretary"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secrétaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sekreter"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكرتير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekretariat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekretärin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schreibtisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bürokraft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sekretär",
+    "plural": "die Sekretäre",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sekretär",
+        "genitiv": "des Sekretärs",
+        "dativ": "dem Sekretär",
+        "akkusativ": "den Sekretär"
+      },
+      "plural": {
+        "nominativ": "die Sekretäre",
+        "genitiv": "der Sekretäre",
+        "dativ": "den Sekretären",
+        "akkusativ": "die Sekretäre"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sekretähr",
+    "Sekretehr",
+    "Sekrätär",
+    "Sekreter",
+    "Sekretäer",
+    "Sekrettär"
+  ]
+}

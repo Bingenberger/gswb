@@ -1,0 +1,82 @@
+{
+  "lemma": "Sumpf",
+  "wortart": "Nomen",
+  "silben": "Sumpf",
+  "begriffserklaerung": "Ein Sumpf ist ein sehr nasses, weiches Stück Land, das oft mit Schlamm und Wasser bedeckt ist. Dort wachsen besondere Pflanzen, und viele Tiere wie Frösche und Vögel leben dort.",
+  "beispielsatz": "Am Rand des Waldes liegt ein tiefer Sumpf, in dem die Frösche laut quaken.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Sumpf\". Achte auf das „mpf\" am Ende – alle drei Buchstaben werden mitgesprochen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sumpf"
+  ],
+  "bild_datei": "Sumpf.webp",
+  "audio_datei": "Sumpf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sumpf",
+    "plural": "die Sümpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sumpf",
+        "genitiv": "des Sumpfes",
+        "dativ": "dem Sumpf",
+        "akkusativ": "den Sumpf"
+      },
+      "plural": {
+        "nominativ": "die Sümpfe",
+        "genitiv": "der Sümpfe",
+        "dativ": "den Sümpfen",
+        "akkusativ": "die Sümpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marais"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bataklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستنقع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sumpfig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sumpfgebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Moor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Moor"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sumpff",
+    "Zumpf",
+    "Sumbf",
+    "Sunpf",
+    "Summpf"
+  ]
+}

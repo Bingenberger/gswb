@@ -1,0 +1,94 @@
+{
+  "lemma": "Anspannung",
+  "wortart": "Nomen",
+  "silben": "An-span-nung",
+  "begriffserklaerung": "Eine Anspannung ist das Gefühl, wenn man aufgeregt oder nervös ist und sich innerlich angespannt fühlt – zum Beispiel vor einer Prüfung oder einem wichtigen Spiel.",
+  "beispielsatz": "Vor der Schulaufführung spürte Lisa eine große Anspannung in ihrem Bauch.",
+  "rechtschreibstrategie": "Das Wort steckt aus drei Bausteinen: „an\" + „spann\" + „ung\". Das doppelte „n\" in „spann\" hört man, weil der Vokal „a\" kurz gesprochen wird – also kurzes „a\", doppeltes „n\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spannen",
+    "Spannung"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anspannung",
+    "plural": "die Anspannungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anspannung",
+        "genitiv": "der Anspannung",
+        "dativ": "der Anspannung",
+        "akkusativ": "die Anspannung"
+      },
+      "plural": {
+        "nominativ": "die Anspannungen",
+        "genitiv": "der Anspannungen",
+        "dativ": "den Anspannungen",
+        "akkusativ": "die Anspannungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Anspanug",
+    "Anspannug",
+    "Anspannung",
+    "Anspanung",
+    "Anspanunng",
+    "Anspannnung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tension"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tension"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerginlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توتر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spannen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spannung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nervosität"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufregung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stress"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entspannung"
+    }
+  ],
+  "bild_datei": "Anspannung.webp",
+  "audio_datei": "Anspannung.mp3"
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Schuh",
+  "wortart": "Nomen",
+  "silben": "Schuh",
+  "begriffserklaerung": "Ein Schuh ist eine Hülle aus Leder oder Stoff, die du an deinen Fuß ziehst, damit er warm und geschützt bleibt.",
+  "beispielsatz": "Tim bindet sich seinen Schuh, bevor er in die Schule läuft.",
+  "rechtschreibstrategie": "Das Wort „Schuh\" schreibt man mit einem Dehnungs-h am Ende – man hört es nicht, aber es macht das „u\" lang. Denk daran: Schuh – Schuhe!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schuh"
+  ],
+  "bild_datei": "Schuh.webp",
+  "audio_datei": "Schuh.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shoe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayakkabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuhwerk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuhband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stiefel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Socke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Treter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schuh",
+    "plural": "die Schuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schuh",
+        "genitiv": "des Schuhs",
+        "dativ": "dem Schuh",
+        "akkusativ": "den Schuh"
+      },
+      "plural": {
+        "nominativ": "die Schuhe",
+        "genitiv": "der Schuhe",
+        "dativ": "den Schuhen",
+        "akkusativ": "die Schuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schu",
+    "Schug",
+    "Schuch",
+    "Shu",
+    "Schuu"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "kämmen",
+  "wortart": "Verb",
+  "silben": "käm-men",
+  "begriffserklaerung": "Kämmen bedeutet, die Haare mit einem Kamm glatt und ordentlich zu machen.",
+  "beispielsatz": "Mama kämmt mir jeden Morgen die Haare, bevor ich in die Schule gehe.",
+  "rechtschreibstrategie": "Nach dem kurzen Vokal „ä\" verdoppeln wir das „m\": käm-men. Sprich das Wort in Silben, dann hörst du das doppelte „m\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kamm"
+  ],
+  "bild_datei": "kämmen.webp",
+  "audio_datei": "kämmen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "kämmen",
+    "praesens": {
+      "ich": "kämme",
+      "du": "kämmst",
+      "er_sie_es": "kämmt",
+      "wir": "kämmen",
+      "ihr": "kämmt",
+      "sie": "kämmen"
+    },
+    "perfekt": {
+      "ich": "habe gekämmt",
+      "du": "hast gekämmt",
+      "er_sie_es": "hat gekämmt",
+      "wir": "haben gekämmt",
+      "ihr": "habt gekämmt",
+      "sie": "haben gekämmt"
+    },
+    "praeteritum": {
+      "ich": "kämmte",
+      "du": "kämmtest",
+      "er_sie_es": "kämmte",
+      "wir": "kämmten",
+      "ihr": "kämmtet",
+      "sie": "kämmten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to comb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peigner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taramak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُمشِّط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kamm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kämmchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bürsten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haare"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "pflegen"
+    }
+  ],
+  "fehlschreibungen": [
+    "kemmen",
+    "kämmen",
+    "kamen",
+    "kämen",
+    "cämmen"
+  ]
+}

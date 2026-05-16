@@ -1,0 +1,83 @@
+{
+  "lemma": "Melodie",
+  "wortart": "Nomen",
+  "silben": "Me-lo-die",
+  "begriffserklaerung": "Eine Melodie ist eine Reihe von Tönen, die nacheinander gespielt oder gesungen werden und zusammen wie ein Lied klingen.",
+  "beispielsatz": "Die Melodie des Liedes ist so schön, dass ich sie den ganzen Tag vor mich hin singe.",
+  "rechtschreibstrategie": "Am Ende hörst du ein langes „i\" – das schreibst du bei Melodie als „ie\". Merke dir: Me-lo-die endet auf „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Melodie"
+  ],
+  "bild_datei": "Melodie.webp",
+  "audio_datei": "Melodie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Melodie",
+    "plural": "die Melodien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Melodie",
+        "genitiv": "der Melodie",
+        "dativ": "der Melodie",
+        "akkusativ": "die Melodie"
+      },
+      "plural": {
+        "nominativ": "die Melodien",
+        "genitiv": "der Melodien",
+        "dativ": "den Melodien",
+        "akkusativ": "die Melodien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "melody"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mélodie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "melodi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لحن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "melodisch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rhythmus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    }
+  ],
+  "fehlschreibungen": [
+    "Melodie",
+    "Melobie",
+    "Melodi",
+    "Mellodie",
+    "Melocie",
+    "Melodieh"
+  ]
+}

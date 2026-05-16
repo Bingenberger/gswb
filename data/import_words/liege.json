@@ -1,0 +1,83 @@
+{
+  "lemma": "Liege",
+  "wortart": "Nomen",
+  "silben": "Lie-ge",
+  "begriffserklaerung": "Eine Liege ist ein langes, flaches Möbelstück, auf dem man sich hinlegen und ausruhen kann. Man findet sie zum Beispiel am Strand oder im Garten.",
+  "beispielsatz": "Im Urlaub lege ich mich gerne auf die Liege am Pool.",
+  "rechtschreibstrategie": "Das Wort „Liege\" hat den langen i-Laut, der mit „ie\" geschrieben wird. Denk daran: Das „ie\" klingt lang, wie in „liegen\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "lieg"
+  ],
+  "bild_datei": "Liege.webp",
+  "audio_datei": "Liege.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lounger / deck chair"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaise longue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şezlong"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرسي استلقاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "liegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Liegestuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sofa"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Liegestuhl"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Liege",
+    "plural": "die Liegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Liege",
+        "genitiv": "der Liege",
+        "dativ": "der Liege",
+        "akkusativ": "die Liege"
+      },
+      "plural": {
+        "nominativ": "die Liegen",
+        "genitiv": "der Liegen",
+        "dativ": "den Liegen",
+        "akkusativ": "die Liegen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lihge",
+    "Lihe",
+    "Liege",
+    "Liegge",
+    "Lieje",
+    "Lyge"
+  ]
+}

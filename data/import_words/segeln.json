@@ -1,0 +1,91 @@
+{
+  "lemma": "segeln",
+  "wortart": "Verb",
+  "silben": "se-geln",
+  "begriffserklaerung": "Segeln bedeutet, mit einem Boot oder Schiff zu fahren, das vom Wind angetrieben wird. Das Boot hat ein großes Tuch, das Segel, das den Wind auffängt.",
+  "beispielsatz": "Im Sommer segeln wir mit unserem Boot über den See.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: se-geln. Das „g\" hörst du deutlich, und am Ende steht „-eln\" – wie bei „spielen\" oder „kegeln\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Segel"
+  ],
+  "bild_datei": "segeln.webp",
+  "audio_datei": "segeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sail"
+    },
+    {
+      "language_code": "fr",
+      "translation": "naviguer à la voile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yelken açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُبحر بالشراع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Segel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Segler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rudern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gleiten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "segeln",
+    "praesens": {
+      "ich": "segele",
+      "du": "segelst",
+      "er_sie_es": "segelt",
+      "wir": "segeln",
+      "ihr": "segelt",
+      "sie": "segeln"
+    },
+    "perfekt": {
+      "ich": "bin gesegelt",
+      "du": "bist gesegelt",
+      "er_sie_es": "ist gesegelt",
+      "wir": "sind gesegelt",
+      "ihr": "seid gesegelt",
+      "sie": "sind gesegelt"
+    },
+    "praeteritum": {
+      "ich": "segelte",
+      "du": "segeltest",
+      "er_sie_es": "segelte",
+      "wir": "segelten",
+      "ihr": "segeltet",
+      "sie": "segelten"
+    }
+  },
+  "fehlschreibungen": [
+    "segeln",
+    "seegeln",
+    "säägeln",
+    "segelln",
+    "zegeln",
+    "sägelln"
+  ]
+}

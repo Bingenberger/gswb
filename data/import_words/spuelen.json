@@ -1,0 +1,103 @@
+{
+  "lemma": "spülen",
+  "wortart": "Verb",
+  "silben": "spü-len",
+  "begriffserklaerung": "Spülen bedeutet, etwas mit Wasser sauber waschen, zum Beispiel Teller oder Töpfe nach dem Essen.",
+  "beispielsatz": "Nach dem Mittagessen spült Lena das Geschirr ab.",
+  "rechtschreibstrategie": "Denk an das Ü in „spülen\" – sprich es laut: spü-len. Das ü klingt lang, deshalb kommt kein Doppelkonsonant danach.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "spül"
+  ],
+  "bild_datei": "spülen.webp",
+  "audio_datei": "spülen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "spülen",
+    "praesens": {
+      "ich": "spüle",
+      "du": "spülst",
+      "er_sie_es": "spült",
+      "wir": "spülen",
+      "ihr": "spült",
+      "sie": "spülen"
+    },
+    "perfekt": {
+      "ich": "habe gespült",
+      "du": "hast gespült",
+      "er_sie_es": "hat gespült",
+      "wir": "haben gespült",
+      "ihr": "habt gespült",
+      "sie": "haben gespült"
+    },
+    "praeteritum": {
+      "ich": "spülte",
+      "du": "spültest",
+      "er_sie_es": "spülte",
+      "wir": "spülten",
+      "ihr": "spültet",
+      "sie": "spülten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rinse / to wash up"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rincer / faire la vaisselle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "durulamak / bulaşık yıkamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَشْطُفُ / يَغْسِلُ الأَوَانِي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spüle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülmaschine"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülmittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abwaschen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "auswaschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reinigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschirr"
+    }
+  ],
+  "fehlschreibungen": [
+    "spühlen",
+    "spilhen",
+    "spülen",
+    "spüllen",
+    "shpülen",
+    "spulen"
+  ]
+}

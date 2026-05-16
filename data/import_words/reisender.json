@@ -1,0 +1,83 @@
+{
+  "lemma": "Reisender",
+  "wortart": "Nomen",
+  "silben": "Rei-sen-der",
+  "begriffserklaerung": "Ein Reisender ist ein Mensch, der von einem Ort zu einem anderen fährt oder reist, zum Beispiel mit dem Zug, dem Flugzeug oder dem Auto.",
+  "beispielsatz": "Der Reisende wartet am Bahnhof auf seinen Zug.",
+  "rechtschreibstrategie": "Denk an das Wort „reisen\" – ein Reisender ist jemand, der reist. Das lange „ei\" hörst du deutlich, wenn du das Wort laut sprichst: „Rei-sen-der\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "reis"
+  ],
+  "bild_datei": "Reisender.webp",
+  "audio_datei": "Reisender.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "traveller"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voyageur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yolcu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسافر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisende"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reisende",
+    "plural": "die Reisenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reisende",
+        "genitiv": "des Reisenden",
+        "dativ": "dem Reisenden",
+        "akkusativ": "den Reisenden"
+      },
+      "plural": {
+        "nominativ": "die Reisenden",
+        "genitiv": "der Reisenden",
+        "dativ": "den Reisenden",
+        "akkusativ": "die Reisenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reißender",
+    "Reisender",
+    "Reizender",
+    "Reisenter",
+    "Raisender",
+    "Reissender"
+  ]
+}

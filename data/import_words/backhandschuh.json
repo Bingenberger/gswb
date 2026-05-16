@@ -1,0 +1,85 @@
+{
+  "lemma": "Backhandschuh",
+  "wortart": "Nomen",
+  "silben": "Back-hand-schuh",
+  "begriffserklaerung": "Ein Backhandschuh ist ein Handschuh, den man beim Backen trägt. Er schützt die Hände vor der Hitze des Backofens.",
+  "beispielsatz": "Mama zieht den Backhandschuh an, bevor sie das heiße Blech aus dem Ofen holt.",
+  "rechtschreibstrategie": "Das Wort „Backhandschuh\" besteht aus drei Teilen: „Back\" + „hand\" + „schuh\". Schreibe alle drei Teile einfach zusammen. Das „ck\" in „Back\" schreibst du, weil der Vokal „a\" davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "back",
+    "hand",
+    "schuh"
+  ],
+  "bild_datei": "Backhandschuh.webp",
+  "audio_datei": "Backhandschuh.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Backhandschuh",
+    "plural": "die Backhandschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Backhandschuh",
+        "genitiv": "des Backhandschuhs",
+        "dativ": "dem Backhandschuh",
+        "akkusativ": "den Backhandschuh"
+      },
+      "plural": {
+        "nominativ": "die Backhandschuhe",
+        "genitiv": "der Backhandschuhe",
+        "dativ": "den Backhandschuhen",
+        "akkusativ": "die Backhandschuhe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oven glove"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gant de four"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırın eldiveni"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفاز الفرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handschuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backblech"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Backhandschuch",
+    "Bakkhandschuh",
+    "Backhanschuh",
+    "Backhandschuu",
+    "Backhandschu"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Pilot",
+  "wortart": "Nomen",
+  "silben": "Pi-lot",
+  "begriffserklaerung": "Ein Pilot ist jemand, der ein Flugzeug steuert und fliegt.",
+  "beispielsatz": "Der Pilot begrüßt die Passagiere und startet das Flugzeug.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pi-lot. Am Ende hörst du ein klares „t\" – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pilot"
+  ],
+  "bild_datei": "Pilot.webp",
+  "audio_datei": "Pilot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pilot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pilote"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pilot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pilotin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Cockpit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flughafen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pilot",
+    "plural": "die Piloten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pilot",
+        "genitiv": "des Piloten",
+        "dativ": "dem Piloten",
+        "akkusativ": "den Piloten"
+      },
+      "plural": {
+        "nominativ": "die Piloten",
+        "genitiv": "der Piloten",
+        "dativ": "den Piloten",
+        "akkusativ": "die Piloten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pillot",
+    "Pielot",
+    "Pylot",
+    "Piloht",
+    "Pilott"
+  ]
+}

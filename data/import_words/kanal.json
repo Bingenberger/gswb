@@ -1,0 +1,74 @@
+{
+  "lemma": "Kanal",
+  "wortart": "Nomen",
+  "silben": "Ka-nal",
+  "begriffserklaerung": "Ein Kanal ist ein langer, schmaler Wasserweg, den Menschen gegraben haben. Schiffe können darauf fahren, oder Wasser wird damit von einem Ort zum anderen geleitet.",
+  "beispielsatz": "Das Schiff fährt langsam durch den Kanal.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ka-nal. Beide Silben haben einen langen Vokal – kein Doppelkonsonant, kein Dehnungs-h. Merke dir einfach: Ka-nal!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kanal"
+  ],
+  "bild_datei": "Kanal.webp",
+  "audio_datei": "Kanal.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kanal",
+    "plural": "die Kanäle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kanal",
+        "genitiv": "des Kanals",
+        "dativ": "dem Kanal",
+        "akkusativ": "den Kanal"
+      },
+      "plural": {
+        "nominativ": "die Kanäle",
+        "genitiv": "der Kanäle",
+        "dativ": "den Kanälen",
+        "akkusativ": "die Kanäle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "canal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanal"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قناة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kannall",
+    "Kahnahl",
+    "Ckanal",
+    "Kanahl",
+    "Kannal"
+  ]
+}

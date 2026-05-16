@@ -1,0 +1,78 @@
+{
+  "lemma": "Schädel",
+  "wortart": "Nomen",
+  "silben": "Schä-del",
+  "begriffserklaerung": "Der Schädel ist das Knochengerüst des Kopfes. Er schützt das Gehirn.",
+  "beispielsatz": "Im Biologieunterricht haben wir ein Modell eines Schädels angeschaut.",
+  "rechtschreibstrategie": "Denk an das Ä: Der Schädel gehört zum Kopf – wie der Schaden, wenn man sich den Kopf stößt. Das Ä bleibt immer gleich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schädel"
+  ],
+  "bild_datei": "Schädel.webp",
+  "audio_datei": "Schädel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skull"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crâne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kafatası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جمجمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schädelknochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehirn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Skelett"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schädel",
+    "plural": "die Schädel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schädel",
+        "genitiv": "des Schädels",
+        "dativ": "dem Schädel",
+        "akkusativ": "den Schädel"
+      },
+      "plural": {
+        "nominativ": "die Schädel",
+        "genitiv": "der Schädel",
+        "dativ": "den Schädeln",
+        "akkusativ": "die Schädel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schedel",
+    "Schadel",
+    "Schäddel",
+    "Schädell",
+    "Schätel"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Spielzeugauto",
+  "wortart": "Nomen",
+  "silben": "Spiel-zeug-au-to",
+  "begriffserklaerung": "Ein Spielzeugauto ist ein kleines Modellauto, mit dem Kinder spielen. Es sieht aus wie ein echtes Auto, ist aber viel kleiner und aus Plastik oder Metall gemacht.",
+  "beispielsatz": "Leon schiebt sein rotes Spielzeugauto über den Teppich und macht Motorengeräusche.",
+  "rechtschreibstrategie": "Das Wort „Spielzeugauto\" ist ein Baustein-Wort: Es stecken drei Wörter darin – „Spiel\", „Zeug\" und „Auto\". Sprich alle Teile laut mit: SPIEL – ZEUG – AU – TO!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Spiel",
+    "Zeug"
+  ],
+  "bild_datei": "Spielzeugauto.webp",
+  "audio_datei": "Spielzeugauto.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Spielzeugauto",
+    "plural": "die Spielzeugautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Spielzeugauto",
+        "genitiv": "des Spielzeugautos",
+        "dativ": "dem Spielzeugauto",
+        "akkusativ": "das Spielzeugauto"
+      },
+      "plural": {
+        "nominativ": "die Spielzeugautos",
+        "genitiv": "der Spielzeugautos",
+        "dativ": "den Spielzeugautos",
+        "akkusativ": "die Spielzeugautos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toy car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture jouet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oyuncak araba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة لعبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Modellauto"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spielzaugauto",
+    "Spilzeugauto",
+    "Spielzeugauто",
+    "Spielzeugautto",
+    "Spielzeugaudo",
+    "Speilzeugauto"
+  ]
+}

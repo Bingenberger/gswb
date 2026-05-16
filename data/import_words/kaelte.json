@@ -1,0 +1,86 @@
+{
+  "lemma": "Kälte",
+  "wortart": "Nomen",
+  "silben": "Käl-te",
+  "begriffserklaerung": "Kälte bedeutet, dass es sehr kalt ist – zum Beispiel im Winter, wenn es friert und man friert.",
+  "beispielsatz": "Im Winter zittere ich vor Kälte, wenn ich ohne Jacke nach draußen gehe.",
+  "rechtschreibstrategie": "Denke an das Wort „kalt\" – wenn du es verlängerst, hörst du das „l\" und das „t\" deutlich: kalt → Kälte.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "kalt"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kälte",
+    "plural": "(nur Einzahl)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kälte",
+        "genitiv": "der Kälte",
+        "dativ": "der Kälte",
+        "akkusativ": "die Kälte"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kelte",
+    "Käldte",
+    "Kältte",
+    "Kälde",
+    "Kälta"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "froid"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kalt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kühlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Frost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    }
+  ],
+  "bild_datei": "Kälte.webp",
+  "audio_datei": "Kälte.mp3"
+}

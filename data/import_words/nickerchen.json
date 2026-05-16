@@ -1,0 +1,80 @@
+{
+  "lemma": "Nickerchen",
+  "wortart": "Nomen",
+  "silben": "Ni-cker-chen",
+  "begriffserklaerung": "Ein Nickerchen ist ein kurzer, kleiner Schlaf zwischendurch – zum Beispiel am Nachmittag auf dem Sofa.",
+  "beispielsatz": "Opa macht nach dem Mittagessen immer ein kurzes Nickerchen auf dem Sofa.",
+  "rechtschreibstrategie": "Höre das Wort genau: Ni-CKER-chen. Nach dem kurzen „i\" hörst du ein „k\" – das schreibt man mit „ck\". Denk daran: kurzer Vokal + „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "nick",
+    "Nicken"
+  ],
+  "bild_datei": "Nickerchen.webp",
+  "audio_datei": "Nickerchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nickerchen",
+    "plural": "die Nickerchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nickerchen",
+        "genitiv": "des Nickerchens",
+        "dativ": "dem Nickerchen",
+        "akkusativ": "das Nickerchen"
+      },
+      "plural": {
+        "nominativ": "die Nickerchen",
+        "genitiv": "der Nickerchen",
+        "dativ": "den Nickerchen",
+        "akkusativ": "die Nickerchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit somme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kestirme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قيلولة قصيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittagsschlaf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mittagsschlaf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nickerchen",
+    "Nikerchen",
+    "Nicherchen",
+    "Nickerschen",
+    "Nickerhen"
+  ]
+}

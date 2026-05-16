@@ -1,0 +1,75 @@
+{
+  "lemma": "Internet",
+  "wortart": "Nomen",
+  "silben": "In-ter-net",
+  "begriffserklaerung": "Das Internet ist ein riesiges Netz aus vielen Computern auf der ganzen Welt. Damit kann man Informationen suchen, mit anderen Menschen schreiben und vieles mehr.",
+  "beispielsatz": "Ich suche im Internet Bilder von Dinosauriern für mein Schulprojekt.",
+  "rechtschreibstrategie": "Das Wort „Internet\" sprichst du genau so, wie du es schreibst: In-ter-net. Sprich alle drei Silben deutlich mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Internet",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Internet",
+        "genitiv": "des Internets",
+        "dativ": "dem Internet",
+        "akkusativ": "das Internet"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "net",
+    "Netz"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Website"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netzwerk"
+    }
+  ],
+  "fehlschreibungen": [
+    "Interned",
+    "Internett",
+    "Inthernet",
+    "Internät",
+    "Enternet"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "internet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "internet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "internet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الإنترنت"
+    }
+  ],
+  "bild_datei": "Internet.webp",
+  "audio_datei": "Internet.mp3"
+}

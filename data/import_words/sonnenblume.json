@@ -1,0 +1,84 @@
+{
+  "lemma": "Sonnenblume",
+  "wortart": "Nomen",
+  "silben": "Son-nen-blu-me",
+  "begriffserklaerung": "Die Sonnenblume ist eine große, gelbe Blume mit einem dicken Stiel. Sie dreht ihr Gesicht gerne zur Sonne. Aus ihren Samen kann man Öl machen oder sie als Snack essen.",
+  "beispielsatz": "Die Sonnenblume in unserem Garten ist fast so groß wie ich!",
+  "rechtschreibstrategie": "Sonnenblume ist ein Bausteinwort aus „Sonne\" und „Blume\". Sprich beide Teile einzeln: SON-NEN-BLU-ME. Das Doppel-n kommt vom Wortteil „Sonne\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Blume"
+  ],
+  "bild_datei": "Sonnenblume.webp",
+  "audio_datei": "Sonnenblume.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonnenblume",
+    "plural": "die Sonnenblumen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonnenblume",
+        "genitiv": "der Sonnenblume",
+        "dativ": "der Sonnenblume",
+        "akkusativ": "die Sonnenblume"
+      },
+      "plural": {
+        "nominativ": "die Sonnenblumen",
+        "genitiv": "der Sonnenblumen",
+        "dativ": "den Sonnenblumen",
+        "akkusativ": "die Sonnenblumen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sunflower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tournesol"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayçiçeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دوّار الشمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tulpe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sonenblume",
+    "Sonnenbluме",
+    "Sonnenbllume",
+    "Sonnenplume",
+    "Sohnnenblume"
+  ]
+}

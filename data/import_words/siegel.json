@@ -1,0 +1,83 @@
+{
+  "lemma": "Siegel",
+  "wortart": "Nomen",
+  "silben": "Sie-gel",
+  "begriffserklaerung": "Ein Siegel ist ein besonderes Zeichen oder ein Stempel, der zeigt, dass etwas echt und offiziell ist.",
+  "beispielsatz": "Der Brief hatte ein goldenes Siegel, damit alle wussten, dass er vom König kam.",
+  "rechtschreibstrategie": "Denk an „sie\" am Anfang – das Wort fängt mit dem langen „ie\" an: S-ie-gel.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "siegeln",
+    "Siegel"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Siegel",
+    "plural": "die Siegel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Siegel",
+        "genitiv": "des Siegels",
+        "dativ": "dem Siegel",
+        "akkusativ": "das Siegel"
+      },
+      "plural": {
+        "nominativ": "die Siegel",
+        "genitiv": "der Siegel",
+        "dativ": "den Siegeln",
+        "akkusativ": "die Siegel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sigel",
+    "Siegel",
+    "Sieegel",
+    "Sigegel",
+    "Siehgel"
+  ],
+  "bild_datei": "Siegel.webp",
+  "audio_datei": "Siegel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sceau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mühür"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ختم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "siegeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versiegeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stempel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urkunde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stempel"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "weisen",
+  "wortart": "Verb",
+  "silben": "wei-sen",
+  "begriffserklaerung": "Weisen bedeutet, jemandem mit dem Finger oder einer Geste zeigen, wo etwas ist oder wohin er gehen soll.",
+  "beispielsatz": "Die Lehrerin weist auf die Tafel und erklärt die Aufgabe.",
+  "rechtschreibstrategie": "In „weisen\" steckt ein langes „ei\" – sprich es laut: „w-ei-sen\". Das ei schreibst du einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "weis"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "weisen",
+    "praesens": {
+      "ich": "weise",
+      "du": "weist",
+      "er_sie_es": "weist",
+      "wir": "weisen",
+      "ihr": "weist",
+      "sie": "weisen"
+    },
+    "perfekt": {
+      "ich": "habe gewiesen",
+      "du": "hast gewiesen",
+      "er_sie_es": "hat gewiesen",
+      "wir": "haben gewiesen",
+      "ihr": "habt gewiesen",
+      "sie": "haben gewiesen"
+    },
+    "praeteritum": {
+      "ich": "wies",
+      "du": "wiest",
+      "er_sie_es": "wies",
+      "wir": "wiesen",
+      "ihr": "wiest",
+      "sie": "wiesen"
+    }
+  },
+  "fehlschreibungen": [
+    "weißen",
+    "weissen",
+    "weizen",
+    "weysen"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beweis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "deuten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "führen"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to point, to show"
+    },
+    {
+      "language_code": "fr",
+      "translation": "indiquer, montrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göstermek, işaret etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُشير، يدل"
+    }
+  ],
+  "bild_datei": "weisen.webp",
+  "audio_datei": "weisen.mp3"
+}

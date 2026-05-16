@@ -1,0 +1,83 @@
+{
+  "lemma": "Zahnschmerzen",
+  "wortart": "Nomen",
+  "silben": "Zahn-schmer-zen",
+  "begriffserklaerung": "Zahnschmerzen sind starke Schmerzen, die von einem oder mehreren Zähnen kommen. Sie können pochen oder stechen und entstehen oft durch Karies oder einen kaputten Zahn.",
+  "beispielsatz": "Lena hat seit gestern Zahnschmerzen und muss morgen zum Zahnarzt.",
+  "rechtschreibstrategie": "„Zahnschmerzen\" ist ein zusammengesetztes Wort aus „Zahn\" und „Schmerzen\". Schreibe erst „Zahn\", dann „Schmerzen\" – zusammen ergibt das „Zahnschmerzen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn",
+    "Schmerz"
+  ],
+  "bild_datei": "Zahnschmerzen.webp",
+  "audio_datei": "Zahnschmerzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toothache"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mal aux dents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diş ağrısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألم الأسنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnarzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karies"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zahnweh"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Zahnschmerz",
+    "plural": "Zahnschmerzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zahnschmerz",
+        "genitiv": "des Zahnschmerzes",
+        "dativ": "dem Zahnschmerz",
+        "akkusativ": "den Zahnschmerz"
+      },
+      "plural": {
+        "nominativ": "die Zahnschmerzen",
+        "genitiv": "der Zahnschmerzen",
+        "dativ": "den Zahnschmerzen",
+        "akkusativ": "die Zahnschmerzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zahnschmerzen",
+    "Zahnschmertzen",
+    "Zahnscmherzen",
+    "Zahnsmerzen",
+    "Zanschmerzen"
+  ]
+}

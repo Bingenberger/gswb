@@ -1,0 +1,88 @@
+{
+  "lemma": "Großteil",
+  "wortart": "Nomen",
+  "silben": "Groß-teil",
+  "begriffserklaerung": "Ein Großteil bedeutet, dass es von etwas sehr viele oder sehr viel gibt – also mehr als die Hälfte oder fast alles.",
+  "beispielsatz": "Ein Großteil der Kinder in unserer Klasse mag Schokoladeneis.",
+  "rechtschreibstrategie": "Das Wort „Großteil\" besteht aus zwei Teilen: „groß\" (mit ß) und „Teil\". Denk daran: Nach einem langen Vokal schreibt man ß – das „o\" in „groß\" ist lang!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "groß",
+    "Teil"
+  ],
+  "bild_datei": "Großteil.webp",
+  "audio_datei": "Großteil.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Großteil",
+    "plural": "die Großteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Großteil",
+        "genitiv": "des Großteils",
+        "dativ": "dem Großteil",
+        "akkusativ": "den Großteil"
+      },
+      "plural": {
+        "nominativ": "die Großteile",
+        "genitiv": "der Großteile",
+        "dativ": "den Großteilen",
+        "akkusativ": "die Großteile"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "large part / majority"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grande partie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyük bölüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجزء الأكبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "groß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mehrheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Menge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hälfte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anteil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Grossteil",
+    "Großtail",
+    "Groszteil",
+    "Großtheil",
+    "Groöteil"
+  ]
+}

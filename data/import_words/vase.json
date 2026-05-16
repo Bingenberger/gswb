@@ -1,0 +1,72 @@
+{
+  "lemma": "Vase",
+  "wortart": "Nomen",
+  "silben": "Va-se",
+  "begriffserklaerung": "Eine Vase ist ein Behälter, meist aus Glas oder Ton, in den man Blumen stellt.",
+  "beispielsatz": "Mama stellt die bunten Tulpen in die Vase auf dem Tisch.",
+  "rechtschreibstrategie": "Das Wort „Vase\" beginnt mit einem V, das wie ein F klingt. Merke dir: V-A-S-E – das V am Anfang ist ein Merkwort!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Vase",
+    "plural": "die Vasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Vase",
+        "genitiv": "der Vase",
+        "dativ": "der Vase",
+        "akkusativ": "die Vase"
+      },
+      "plural": {
+        "nominativ": "die Vasen",
+        "genitiv": "der Vasen",
+        "dativ": "den Vasen",
+        "akkusativ": "die Vasen"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blumenvase"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fase",
+    "Wahse",
+    "Vaße",
+    "Wase",
+    "Fasee"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vase"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vazo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزهرية"
+    }
+  ],
+  "bild_datei": "Vase.webp",
+  "audio_datei": "Vase.mp3"
+}

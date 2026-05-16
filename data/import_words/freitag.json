@@ -1,0 +1,76 @@
+{
+  "lemma": "Freitag",
+  "wortart": "Nomen",
+  "silben": "Frei-tag",
+  "begriffserklaerung": "Der Freitag ist der fünfte Wochentag. Er kommt nach dem Donnerstag und vor dem Samstag.",
+  "beispielsatz": "Am Freitag ist die Schule endlich vorbei und das Wochenende beginnt!",
+  "rechtschreibstrategie": "Denk an die zwei Teile: „frei\" und „Tag\". Beide Teile sprichst du deutlich mit – und zusammen schreibst du sie groß, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "frei",
+    "Tag"
+  ],
+  "bild_datei": "Freitag.webp",
+  "audio_datei": "Freitag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Friday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vendredi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Cuma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجمعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wochentag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Donnerstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samstag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Freitag",
+    "plural": "die Freitage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Freitag",
+        "genitiv": "des Freitags",
+        "dativ": "dem Freitag",
+        "akkusativ": "den Freitag"
+      },
+      "plural": {
+        "nominativ": "die Freitage",
+        "genitiv": "der Freitage",
+        "dativ": "den Freitagen",
+        "akkusativ": "die Freitage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Freitach",
+    "Freitag",
+    "Fraitag",
+    "Freitäg",
+    "Freittag"
+  ]
+}

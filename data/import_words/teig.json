@@ -1,0 +1,78 @@
+{
+  "lemma": "Teig",
+  "wortart": "Nomen",
+  "silben": "Teig",
+  "begriffserklaerung": "Ein Teig ist eine weiche, klebrige Masse aus Mehl, Wasser oder Milch und anderen Zutaten. Aus Teig backt man zum Beispiel Brot, Kuchen oder Kekse.",
+  "beispielsatz": "Mama und ich kneten den Teig für den Kuchen zusammen.",
+  "rechtschreibstrategie": "Das Wort „Teig\" klingt wie „ei\" – denk an das lange Ei im Wort! Schreibe: T-ei-g.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Teig"
+  ],
+  "bild_datei": "Teig.webp",
+  "audio_datei": "Teig.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dough"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pâte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hamur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teigig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mehl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teig",
+    "plural": "die Teige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teig",
+        "genitiv": "des Teig(e)s",
+        "dativ": "dem Teig",
+        "akkusativ": "den Teig"
+      },
+      "plural": {
+        "nominativ": "die Teige",
+        "genitiv": "der Teige",
+        "dativ": "den Teigen",
+        "akkusativ": "die Teige"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Taig",
+    "Teik",
+    "Teigh",
+    "Teyg",
+    "Tig"
+  ]
+}

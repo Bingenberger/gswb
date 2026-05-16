@@ -1,0 +1,75 @@
+{
+  "lemma": "Lachs",
+  "wortart": "Nomen",
+  "silben": "Lachs",
+  "begriffserklaerung": "Ein Lachs ist ein großer Fisch mit rosa Fleisch, der im Meer und in Flüssen lebt. Er ist bei uns ein beliebtes Essen.",
+  "beispielsatz": "Zum Mittagessen gibt es heute geräucherten Lachs auf Brot.",
+  "rechtschreibstrategie": "Das Wort „Lachs\" endet auf „chs\" – das klingt wie ein „x\", wird aber mit c-h-s geschrieben. Merke: Ein Lachs hat drei Buchstaben am Ende: c, h, s!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Lachs"
+  ],
+  "bild_datei": "Lachs.webp",
+  "audio_datei": "Lachs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salmon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saumon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "somon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلمون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Forelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lachs",
+    "plural": "die Lachse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lachs",
+        "genitiv": "des Lachses",
+        "dativ": "dem Lachs",
+        "akkusativ": "den Lachs"
+      },
+      "plural": {
+        "nominativ": "die Lachse",
+        "genitiv": "der Lachse",
+        "dativ": "den Lachsen",
+        "akkusativ": "die Lachse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laks",
+    "Lax",
+    "Lackes",
+    "Lachse",
+    "Lahchs",
+    "Lacx"
+  ]
+}

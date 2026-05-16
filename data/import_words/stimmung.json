@@ -1,0 +1,87 @@
+{
+  "lemma": "Stimmung",
+  "wortart": "Nomen",
+  "silben": "Stim-mung",
+  "begriffserklaerung": "Die Stimmung beschreibt, wie sich jemand gerade fühlt – zum Beispiel fröhlich, traurig oder aufgeregt.",
+  "beispielsatz": "Nach dem Geburtstagsfest war die Stimmung bei allen Kindern super gut!",
+  "rechtschreibstrategie": "Im Wort „Stimmung\" hörst du ein kurzes „i\". Deshalb wird das „m\" verdoppelt: Stim-mung.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stimm"
+  ],
+  "bild_datei": "Stimmung.webp",
+  "audio_datei": "Stimmung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mood"
+    },
+    {
+      "language_code": "fr",
+      "translation": "humeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ruh hali"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stimmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Laune"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stimmung",
+    "plural": "die Stimmungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stimmung",
+        "genitiv": "der Stimmung",
+        "dativ": "der Stimmung",
+        "akkusativ": "die Stimmung"
+      },
+      "plural": {
+        "nominativ": "die Stimmungen",
+        "genitiv": "der Stimmungen",
+        "dativ": "den Stimmungen",
+        "akkusativ": "die Stimmungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stimung",
+    "Stimmunk",
+    "Stimmug",
+    "Stimmunng",
+    "Stimmmung"
+  ]
+}

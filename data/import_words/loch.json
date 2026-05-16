@@ -1,0 +1,83 @@
+{
+  "lemma": "Loch",
+  "wortart": "Nomen",
+  "silben": "Loch",
+  "begriffserklaerung": "Ein Loch ist eine Öffnung oder Stelle, die durch etwas hindurchgeht oder fehlt – zum Beispiel in einem Stoff, in der Erde oder in einer Wand.",
+  "beispielsatz": "In meiner Hose ist ein Loch am Knie.",
+  "rechtschreibstrategie": "Das Wort „Loch\" hat nur eine Silbe. Das „ch\" am Ende hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "loch"
+  ],
+  "bild_datei": "Loch.webp",
+  "audio_datei": "Loch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hole"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "delik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حُفْرَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Locher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grube"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Öffnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Öffnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Loch",
+    "plural": "die Löcher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Loch",
+        "genitiv": "des Loches",
+        "dativ": "dem Loch",
+        "akkusativ": "das Loch"
+      },
+      "plural": {
+        "nominativ": "die Löcher",
+        "genitiv": "der Löcher",
+        "dativ": "den Löchern",
+        "akkusativ": "die Löcher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Loch",
+    "Lock",
+    "Lok",
+    "Lohch",
+    "Lohk",
+    "Locch"
+  ]
+}

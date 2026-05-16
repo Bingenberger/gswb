@@ -1,0 +1,82 @@
+{
+  "lemma": "Arbeiter",
+  "wortart": "Nomen",
+  "silben": "Ar-bei-ter",
+  "begriffserklaerung": "Ein Arbeiter ist ein Mensch, der körperliche Arbeit macht, zum Beispiel auf einer Baustelle oder in einer Fabrik.",
+  "beispielsatz": "Der Arbeiter baut mit seinen Kollegen eine neue Brücke.",
+  "rechtschreibstrategie": "Denk an das Wort „Arbeit\" – daraus wird „Arbeiter\". Sprich alle drei Silben laut mit: Ar-bei-ter.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit"
+  ],
+  "bild_datei": "Arbeiter.webp",
+  "audio_datei": "Arbeiter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "worker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouvrier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عامل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "arbeiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werktätiger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Arbeiter",
+    "plural": "die Arbeiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Arbeiter",
+        "genitiv": "des Arbeiters",
+        "dativ": "dem Arbeiter",
+        "akkusativ": "den Arbeiter"
+      },
+      "plural": {
+        "nominativ": "die Arbeiter",
+        "genitiv": "der Arbeiter",
+        "dativ": "den Arbeitern",
+        "akkusativ": "die Arbeiter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arbaiter",
+    "Arbeitter",
+    "Arbeitr",
+    "Arpeiter",
+    "Arbeider"
+  ]
+}

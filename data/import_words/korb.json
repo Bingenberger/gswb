@@ -1,0 +1,83 @@
+{
+  "lemma": "Korb",
+  "wortart": "Nomen",
+  "silben": "Korb",
+  "begriffserklaerung": "Ein Korb ist ein Behälter, der meistens aus geflochtenen Ästen, Weiden oder Stroh gemacht wird. Man trägt darin Sachen, zum Beispiel beim Einkaufen.",
+  "beispielsatz": "Oma legt die frischen Äpfel in den großen Korb.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: Korb. Am Ende hörst du ein „b\", aber du schreibst auch „b\" – verlängere es: Kör-be. Jetzt hörst du das „b\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Korb"
+  ],
+  "bild_datei": "Korb.webp",
+  "audio_datei": "Korb.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "basket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sepet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Körbchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einkaufskorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beutel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Behälter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Korb",
+    "plural": "die Körbe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Korb",
+        "genitiv": "des Korbes",
+        "dativ": "dem Korb",
+        "akkusativ": "den Korb"
+      },
+      "plural": {
+        "nominativ": "die Körbe",
+        "genitiv": "der Körbe",
+        "dativ": "den Körben",
+        "akkusativ": "die Körbe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Corp",
+    "Korpp",
+    "Korb",
+    "Korpt",
+    "Ckorb",
+    "Korp"
+  ]
+}

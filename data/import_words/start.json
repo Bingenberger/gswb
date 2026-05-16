@@ -1,0 +1,82 @@
+{
+  "lemma": "Start",
+  "wortart": "Nomen",
+  "silben": "Start",
+  "begriffserklaerung": "Ein Start ist der Moment, in dem etwas beginnt – zum Beispiel ein Rennen, eine Reise oder ein Spiel.",
+  "beispielsatz": "Beim Start des Rennens hielt alle den Atem an.",
+  "rechtschreibstrategie": "„Start\" endet auf -rt. Sprich das Wort laut und deutlich – du hörst alle Buchstaben: S-t-a-r-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "start"
+  ],
+  "bild_datei": "Start.webp",
+  "audio_datei": "Start.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "start"
+    },
+    {
+      "language_code": "fr",
+      "translation": "départ"
+    },
+    {
+      "language_code": "tr",
+      "translation": "başlangıç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "انطلاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "starten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Startlinie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rennen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beginn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Start",
+    "plural": "die Starts",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Start",
+        "genitiv": "des Starts",
+        "dativ": "dem Start",
+        "akkusativ": "den Start"
+      },
+      "plural": {
+        "nominativ": "die Starts",
+        "genitiv": "der Starts",
+        "dativ": "den Starts",
+        "akkusativ": "die Starts"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sart",
+    "Ztart",
+    "Stard",
+    "Sdart",
+    "Startt"
+  ]
+}

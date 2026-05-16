@@ -1,0 +1,89 @@
+{
+  "lemma": "Schlafzimmer",
+  "wortart": "Nomen",
+  "silben": "Schlaf-zim-mer",
+  "begriffserklaerung": "Ein Schlafzimmer ist der Raum in einer Wohnung oder einem Haus, in dem man schläft. Dort steht meistens ein Bett.",
+  "beispielsatz": "Abends geht Lisa in ihr Schlafzimmer und liest noch ein bisschen, bevor sie einschläft.",
+  "rechtschreibstrategie": "Das Wort „Schlafzimmer\" besteht aus zwei Teilen: „Schlaf\" und „Zimmer\". Schreibe einfach beide Wörter zusammen. Denk daran: „Zimmer\" hat zwei m!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schlaf",
+    "zimmer"
+  ],
+  "bild_datei": "Schlafzimmer.webp",
+  "audio_datei": "Schlafzimmer.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schlafzimmer",
+    "plural": "die Schlafzimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schlafzimmer",
+        "genitiv": "des Schlafzimmers",
+        "dativ": "dem Schlafzimmer",
+        "akkusativ": "das Schlafzimmer"
+      },
+      "plural": {
+        "nominativ": "die Schlafzimmer",
+        "genitiv": "der Schlafzimmer",
+        "dativ": "den Schlafzimmern",
+        "akkusativ": "die Schlafzimmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bedroom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chambre à coucher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yatak odası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة النوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlafraum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlaftzimmer",
+    "Schlaafzimmer",
+    "Schlafzimer",
+    "Schlafzimern",
+    "Schlafzimmmer",
+    "Schläfzimmer"
+  ]
+}

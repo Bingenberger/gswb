@@ -1,0 +1,82 @@
+{
+  "lemma": "Kanalisation",
+  "wortart": "Nomen",
+  "silben": "Ka-na-li-sa-ti-on",
+  "begriffserklaerung": "Die Kanalisation ist ein unterirdisches Rohrsystem, das schmutziges Wasser und Abwasser aus Häusern und Straßen abtransportiert und zu einer Kläranlage leitet.",
+  "beispielsatz": "Das Regenwasser fließt durch die Gullydeckel in die Kanalisation.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Lateinischen. Denk an das Stammwort „Kanal\" – dann fällt das K am Anfang leicht. Sprich alle Silben deutlich: Ka-na-li-sa-ti-on.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kanal"
+  ],
+  "bild_datei": "Kanalisation.webp",
+  "audio_datei": "Kanalisation.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kanalisation",
+    "plural": "die Kanalisationen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kanalisation",
+        "genitiv": "der Kanalisation",
+        "dativ": "der Kanalisation",
+        "akkusativ": "die Kanalisation"
+      },
+      "plural": {
+        "nominativ": "die Kanalisationen",
+        "genitiv": "der Kanalisationen",
+        "dativ": "den Kanalisationen",
+        "akkusativ": "die Kanalisationen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sewage system"
+    },
+    {
+      "language_code": "fr",
+      "translation": "égouts"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanalizasyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شبكة الصرف الصحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kanal"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kanalisieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kläranlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abwasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gullydeckel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Canalisation",
+    "Kanalisazion",
+    "Kanalissation",
+    "Kanaliasation",
+    "Kanallisation"
+  ]
+}

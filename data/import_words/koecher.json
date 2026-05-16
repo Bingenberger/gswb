@@ -1,0 +1,73 @@
+{
+  "lemma": "Köcher",
+  "wortart": "Nomen",
+  "silben": "Kö-cher",
+  "begriffserklaerung": "Ein Köcher ist eine längliche Tasche oder ein Behälter, in dem Pfeile aufbewahrt und getragen werden.",
+  "beispielsatz": "Der Bogenschütze trug seinen Köcher voller Pfeile auf dem Rücken.",
+  "rechtschreibstrategie": "Denk an das Ö am Anfang: Kö-cher. Sprich beide Silben deutlich: „Kö\" und „cher\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Köcher.webp",
+  "audio_datei": "Köcher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quiver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carquois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sadak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جَعْبَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bogenschütze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Köcher",
+    "plural": "die Köcher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Köcher",
+        "genitiv": "des Köchers",
+        "dativ": "dem Köcher",
+        "akkusativ": "den Köcher"
+      },
+      "plural": {
+        "nominativ": "die Köcher",
+        "genitiv": "der Köcher",
+        "dativ": "den Köchern",
+        "akkusativ": "die Köcher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Köcher",
+    "Köher",
+    "Köscher",
+    "Koecher",
+    "Köchter",
+    "Köcker"
+  ]
+}

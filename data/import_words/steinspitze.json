@@ -1,0 +1,84 @@
+{
+  "lemma": "Steinspitze",
+  "wortart": "Nomen",
+  "silben": "Stein-spit-ze",
+  "begriffserklaerung": "Eine Steinspitze ist die spitze, scharfe Ecke oder das Ende eines Steins oder Felsens.",
+  "beispielsatz": "Der Wanderer kletterte vorsichtig auf die Steinspitze des hohen Berges.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Stein\" und „Spitze\". Das „tz\" in „Spitze\" schreibt man so, weil das „i\" davor kurz gesprochen wird – nach kurzem Vokal folgt oft „tz\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stein",
+    "Spitz"
+  ],
+  "bild_datei": "Steinspitze.webp",
+  "audio_datei": "Steinspitze.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Steinspitze",
+    "plural": "die Steinspitzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Steinspitze",
+        "genitiv": "der Steinspitze",
+        "dativ": "der Steinspitze",
+        "akkusativ": "die Steinspitze"
+      },
+      "plural": {
+        "nominativ": "die Steinspitzen",
+        "genitiv": "der Steinspitzen",
+        "dativ": "den Steinspitzen",
+        "akkusativ": "die Steinspitzen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rocky peak / stone tip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pointe de pierre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taş ucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قمة صخرية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spitze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Felsgipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berggipfel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Felsnadel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Steinsbitze",
+    "Steinspize",
+    "Steinspizte",
+    "Steinspieze",
+    "Steinsptize"
+  ]
+}

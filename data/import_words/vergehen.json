@@ -1,0 +1,103 @@
+{
+  "lemma": "vergehen",
+  "wortart": "Verb",
+  "silben": "ver-ge-hen",
+  "begriffserklaerung": "Wenn Zeit vergeht, läuft sie ab und ist vorbei. Auch Schmerzen oder schlechte Gefühle können vergehen – dann hören sie auf.",
+  "beispielsatz": "Die Zeit vergeht so schnell, wenn man Spaß hat!",
+  "rechtschreibstrategie": "Das Wort „vergehen\" hat ein Dehnungs-h vor dem „e\" am Ende: ge-HEN. Sprich es deutlich: ver-ge-hen. Das „h\" hörst du beim Sprechen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "gehen"
+  ],
+  "bild_datei": "vergehen.webp",
+  "audio_datei": "vergehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "vergehen",
+    "praesens": {
+      "ich": "vergehe",
+      "du": "vergehst",
+      "er_sie_es": "vergeht",
+      "wir": "vergehen",
+      "ihr": "vergeht",
+      "sie": "vergehen"
+    },
+    "perfekt": {
+      "ich": "bin vergangen",
+      "du": "bist vergangen",
+      "er_sie_es": "ist vergangen",
+      "wir": "sind vergangen",
+      "ihr": "seid vergangen",
+      "sie": "sind vergangen"
+    },
+    "praeteritum": {
+      "ich": "verging",
+      "du": "vergingst",
+      "er_sie_es": "verging",
+      "wir": "vergingen",
+      "ihr": "vergingt",
+      "sie": "vergingen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pass (away), to elapse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "passer, s'écouler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geçmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمضي، ينقضي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergangen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vergangenheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vorbeigehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ablaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dauern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "enden"
+    }
+  ],
+  "fehlschreibungen": [
+    "fergehn",
+    "vergehen",
+    "vergeen",
+    "vergehn",
+    "vergähen",
+    "vergähn"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Handschuhe",
+  "wortart": "Nomen",
+  "silben": "Hand-schu-he",
+  "begriffserklaerung": "Handschuhe sind Kleidungsstücke, die man über die Hände zieht, um sie warm zu halten oder zu schützen.",
+  "beispielsatz": "Im Winter ziehe ich meine dicken Handschuhe an, damit meine Finger nicht frieren.",
+  "rechtschreibstrategie": "Handschuhe ist ein zusammengesetztes Wort aus „Hand\" und „Schuhe\". Schreibe beide Teile einfach hintereinander: Hand + Schuhe = Handschuhe.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Schuh"
+  ],
+  "bild_datei": "Handschuhe.webp",
+  "audio_datei": "Handschuhe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gloves"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gants"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eldivenler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفازات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Handschuh",
+    "plural": "die Handschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handschuh",
+        "genitiv": "des Handschuhs",
+        "dativ": "dem Handschuh",
+        "akkusativ": "den Handschuh"
+      },
+      "plural": {
+        "nominativ": "die Handschuhe",
+        "genitiv": "der Handschuhe",
+        "dativ": "den Handschuhen",
+        "akkusativ": "die Handschuhe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handschuhe",
+    "Hantschuhe",
+    "Handschue",
+    "Hanschuhe",
+    "Handschuge",
+    "Handscuhe"
+  ]
+}

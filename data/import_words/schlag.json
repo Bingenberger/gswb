@@ -1,0 +1,96 @@
+{
+  "lemma": "Schlag",
+  "wortart": "Nomen",
+  "silben": "Schlag",
+  "begriffserklaerung": "Ein Schlag ist eine schnelle, kräftige Bewegung, bei der etwas oder jemand getroffen wird – zum Beispiel mit der Hand oder einem Gegenstand.",
+  "beispielsatz": "Der Zimmermann gab dem Nagel einen kräftigen Schlag mit dem Hammer.",
+  "rechtschreibstrategie": "Das Wort „Schlag\" endet auf -ag. Wenn du es verlängerst, hörst du das g deutlich: Schlä-ge. So weißt du, dass am Ende ein g steht und kein k!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlag",
+    "schläg"
+  ],
+  "bild_datei": "Schlag.webp",
+  "audio_datei": "Schlag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blow / hit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coup"
+    },
+    {
+      "language_code": "tr",
+      "translation": "darbe / vuruş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schläger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anschlag"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hieb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stoß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treffer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlag",
+    "plural": "die Schläge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlag",
+        "genitiv": "des Schlages",
+        "dativ": "dem Schlag",
+        "akkusativ": "den Schlag"
+      },
+      "plural": {
+        "nominativ": "die Schläge",
+        "genitiv": "der Schläge",
+        "dativ": "den Schlägen",
+        "akkusativ": "die Schläge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlak",
+    "Schlag",
+    "Schlack",
+    "Schlagg",
+    "Sclhag",
+    "Schlahg"
+  ]
+}

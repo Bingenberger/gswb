@@ -1,0 +1,91 @@
+{
+  "lemma": "Anteil",
+  "wortart": "Nomen",
+  "silben": "An-teil",
+  "begriffserklaerung": "Ein Anteil ist ein Stück oder ein Teil von etwas Ganzem, das auf mehrere Personen oder Gruppen aufgeteilt wird.",
+  "beispielsatz": "Jedes Kind bekommt einen gleichen Anteil vom Kuchen.",
+  "rechtschreibstrategie": "Das Wort „Anteil\" ist ein Bausteinwort: Es besteht aus „An-\" und „Teil\". Sprich beide Teile deutlich: AN – TEIL.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Teil"
+  ],
+  "bild_datei": "Anteil.webp",
+  "audio_datei": "Anteil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "share / portion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "part"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pay / hisse"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصة (hissa)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Portion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hälfte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Menge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abschnitt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Anteil",
+    "plural": "Anteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anteil",
+        "genitiv": "des Anteils",
+        "dativ": "dem Anteil",
+        "akkusativ": "den Anteil"
+      },
+      "plural": {
+        "nominativ": "die Anteile",
+        "genitiv": "der Anteile",
+        "dativ": "den Anteilen",
+        "akkusativ": "die Anteile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Annteil",
+    "Antaill",
+    "Anteil",
+    "Anntail",
+    "Antäil",
+    "Anteill"
+  ]
+}

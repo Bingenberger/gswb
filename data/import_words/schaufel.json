@@ -1,0 +1,83 @@
+{
+  "lemma": "Schaufel",
+  "wortart": "Nomen",
+  "silben": "Schau-fel",
+  "begriffserklaerung": "Eine Schaufel ist ein Werkzeug mit einem langen Stiel und einem breiten, flachen Blatt. Man benutzt sie, um Erde, Sand oder Schnee zu graben oder zu schaufeln.",
+  "beispielsatz": "Leon nimmt die Schaufel und gräbt ein tiefes Loch im Sandkasten.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Schau-fel. Du hörst am Anfang „Schau\" – schreibe es mit „au\", denn das ist ein langer Doppellaut.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schaufel",
+    "schaufeln"
+  ],
+  "bild_datei": "Schaufel.webp",
+  "audio_datei": "Schaufel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shovel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kürek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schaufeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneeschaufel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spaten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hacke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spaten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schaufel",
+    "plural": "die Schaufeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schaufel",
+        "genitiv": "der Schaufel",
+        "dativ": "der Schaufel",
+        "akkusativ": "die Schaufel"
+      },
+      "plural": {
+        "nominativ": "die Schaufeln",
+        "genitiv": "der Schaufeln",
+        "dativ": "den Schaufeln",
+        "akkusativ": "die Schaufeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schauffen",
+    "Schauvel",
+    "Schauffle",
+    "Schoufel",
+    "Schauhfel"
+  ]
+}

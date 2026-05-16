@@ -1,0 +1,79 @@
+{
+  "lemma": "Schmetterling",
+  "wortart": "Nomen",
+  "silben": "Schmet-ter-ling",
+  "begriffserklaerung": "Ein Schmetterling ist ein buntes Insekt mit großen, farbigen Flügeln. Er entsteht aus einer Raupe.",
+  "beispielsatz": "Der bunte Schmetterling fliegt von Blume zu Blume.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Schmet-ter-ling. In der Mitte hörst du ein doppeltes „t\" – das schreibst du auch so!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schmetterling"
+  ],
+  "bild_datei": "Schmetterling.webp",
+  "audio_datei": "Schmetterling.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "butterfly"
+    },
+    {
+      "language_code": "fr",
+      "translation": "papillon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kelebek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فراشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmetterlingsnetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raupe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schmetterling",
+    "plural": "die Schmetterlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schmetterling",
+        "genitiv": "des Schmetterlings",
+        "dativ": "dem Schmetterling",
+        "akkusativ": "den Schmetterling"
+      },
+      "plural": {
+        "nominativ": "die Schmetterlinge",
+        "genitiv": "der Schmetterlinge",
+        "dativ": "den Schmetterlingen",
+        "akkusativ": "die Schmetterlinge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schmeteling",
+    "Schmetterlig",
+    "Schmeterling",
+    "Schmetterlink",
+    "Schmätterling"
+  ]
+}

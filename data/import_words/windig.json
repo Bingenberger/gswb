@@ -1,0 +1,73 @@
+{
+  "lemma": "windig",
+  "wortart": "Adjektiv",
+  "silben": "win-dig",
+  "begriffserklaerung": "Wenn viel Wind weht und es draußen stürmisch ist, sagt man: Es ist windig.",
+  "beispielsatz": "Heute ist es so windig, dass mein Hut weggeflogen ist!",
+  "rechtschreibstrategie": "Denk an das Wort „Wind\" – davon kommt „windig\". Du hörst das „d\" in „Wind\" deutlich, und es bleibt auch in „windig\" erhalten.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wind"
+  ],
+  "bild_datei": "windig.webp",
+  "audio_datei": "windig.mp3",
+  "grammatische_formen": {
+    "positiv": "windig",
+    "komparativ": "windiger",
+    "superlativ": "am windigsten"
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "windy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "venteux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rüzgarlı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عاصف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Windmühle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stürmisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "regnerisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sonnig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bewölkt"
+    }
+  ],
+  "fehlschreibungen": [
+    "windich",
+    "wintig",
+    "windeg",
+    "winndig",
+    "windig"
+  ]
+}

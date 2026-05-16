@@ -1,0 +1,83 @@
+{
+  "lemma": "Hotel",
+  "wortart": "Nomen",
+  "silben": "Ho-tel",
+  "begriffserklaerung": "Ein Hotel ist ein Gebäude, in dem man gegen Bezahlung schlafen und oft auch essen kann, wenn man verreist ist.",
+  "beispielsatz": "Wenn wir im Urlaub sind, übernachten wir manchmal in einem Hotel.",
+  "rechtschreibstrategie": "Das Wort „Hotel\" kommt aus dem Französischen. Schreib am Ende -el und nicht -äl oder -all. Denk daran: Ho-tel!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Hotel"
+  ],
+  "bild_datei": "Hotel.webp",
+  "audio_datei": "Hotel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hotel",
+    "plural": "die Hotels",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hotel",
+        "genitiv": "des Hotels",
+        "dativ": "dem Hotel",
+        "akkusativ": "das Hotel"
+      },
+      "plural": {
+        "nominativ": "die Hotels",
+        "genitiv": "der Hotels",
+        "dativ": "den Hotels",
+        "akkusativ": "die Hotels"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hotel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hôtel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فندق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hotelzimmer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hotelier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pension"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herberge"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hotell",
+    "Hotelh",
+    "Hodel",
+    "Hotel",
+    "Hotäl",
+    "Hotal"
+  ]
+}

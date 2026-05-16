@@ -1,0 +1,83 @@
+{
+  "lemma": "Impfpass",
+  "wortart": "Nomen",
+  "silben": "Impf-pass",
+  "begriffserklaerung": "Ein Impfpass ist ein kleines Heft, in das alle Impfungen eingetragen werden, die du bekommen hast.",
+  "beispielsatz": "Beim Arzt hat die Ärztin meinen Impfpass abgestempelt.",
+  "rechtschreibstrategie": "„Impfpass\" besteht aus zwei Wörtern: „Impf\" und „Pass\". Da „Pass\" kurz gesprochen wird, schreibt man ein Doppel-s: Pass!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "impf",
+    "pass"
+  ],
+  "bild_datei": "Impfpass.webp",
+  "audio_datei": "Impfpass.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vaccination card"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carnet de vaccination"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aşı kartı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دفتر التطعيم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "impfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Impfung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenakte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Impfpass",
+    "plural": "die Impfpässe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Impfpass",
+        "genitiv": "des Impfpasses",
+        "dativ": "dem Impfpass",
+        "akkusativ": "den Impfpass"
+      },
+      "plural": {
+        "nominativ": "die Impfpässe",
+        "genitiv": "der Impfpässe",
+        "dativ": "den Impfpässen",
+        "akkusativ": "die Impfpässe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Impfpas",
+    "Imfpass",
+    "Impfpaß",
+    "Inpfpass"
+  ]
+}

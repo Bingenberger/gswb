@@ -1,0 +1,77 @@
+{
+  "lemma": "Teenager",
+  "wortart": "Nomen",
+  "silben": "Teen-a-ger",
+  "begriffserklaerung": "Ein Teenager ist ein junger Mensch, der zwischen 13 und 19 Jahre alt ist.",
+  "beispielsatz": "Meine große Schwester ist jetzt ein Teenager und geht schon auf die weiterführende Schule.",
+  "rechtschreibstrategie": "„Teenager\" kommt aus dem Englischen. Merke dir: Es wird genau so geschrieben, wie es klingt – Teen-a-ger. Das „ee\" sprichst du lang wie in „See\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Teenager.webp",
+  "audio_datei": "Teenager.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "teenager"
+    },
+    {
+      "language_code": "fr",
+      "translation": "adolescent / adolescente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ergen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مراهق / مراهقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugendliche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erwachsene"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Jugendliche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teenager",
+    "plural": "die Teenager",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teenager",
+        "genitiv": "des Teenagers",
+        "dativ": "dem Teenager",
+        "akkusativ": "den Teenager"
+      },
+      "plural": {
+        "nominativ": "die Teenager",
+        "genitiv": "der Teenager",
+        "dativ": "den Teenagern",
+        "akkusativ": "die Teenager"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Teenäger",
+    "Tienager",
+    "Teenagir",
+    "Tenager",
+    "Teeniager",
+    "Teenagger"
+  ]
+}

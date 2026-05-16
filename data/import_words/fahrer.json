@@ -1,0 +1,83 @@
+{
+  "lemma": "Fahrer",
+  "wortart": "Nomen",
+  "silben": "Fah-rer",
+  "begriffserklaerung": "Ein Fahrer ist eine Person, die ein Fahrzeug wie ein Auto, einen Bus oder ein Motorrad steuert.",
+  "beispielsatz": "Der Fahrer hält an der roten Ampel an.",
+  "rechtschreibstrategie": "Denke an das Wort „fahren\" – davon kommt „Fahrer\". Das Dehnungs-h aus „fahren\" bleibt auch im Wort „Fahrer\" erhalten: F-A-H-R-E-R.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Fahrer.webp",
+  "audio_datei": "Fahrer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "driver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conducteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürücü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lenker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fahrer",
+    "plural": "die Fahrer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fahrer",
+        "genitiv": "des Fahrers",
+        "dativ": "dem Fahrer",
+        "akkusativ": "den Fahrer"
+      },
+      "plural": {
+        "nominativ": "die Fahrer",
+        "genitiv": "der Fahrer",
+        "dativ": "den Fahrern",
+        "akkusativ": "die Fahrer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Farer",
+    "Farher",
+    "Fahhrer",
+    "Fahrrer",
+    "Fahrer"
+  ]
+}

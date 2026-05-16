@@ -1,0 +1,82 @@
+{
+  "lemma": "Räder",
+  "wortart": "Nomen",
+  "silben": "Rä-der",
+  "begriffserklaerung": "Räder sind runde Scheiben, die sich drehen. Sie helfen Fahrzeugen wie Autos, Fahrrädern oder Zügen, sich fortzubewegen.",
+  "beispielsatz": "Das Fahrrad hat zwei Räder, die sich schnell drehen.",
+  "rechtschreibstrategie": "Denk an das Grundwort „Rad\". Wenn du es verlängerst, hörst du das „d\" am Ende deutlich: Rä-der. Deshalb schreibt man es mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rad"
+  ],
+  "bild_datei": "Räder.webp",
+  "audio_datei": "Räder.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Rad",
+    "plural": "die Räder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rad",
+        "genitiv": "des Rades",
+        "dativ": "dem Rad",
+        "akkusativ": "das Rad"
+      },
+      "plural": {
+        "nominativ": "die Räder",
+        "genitiv": "der Räder",
+        "dativ": "den Rädern",
+        "akkusativ": "die Räder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wheels"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roues"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekerlekler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجلات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Achse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reeder",
+    "Räter",
+    "Reder",
+    "Räeder",
+    "Rähder"
+  ]
+}

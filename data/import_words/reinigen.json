@@ -1,0 +1,98 @@
+{
+  "lemma": "reinigen",
+  "wortart": "Verb",
+  "silben": "rei-ni-gen",
+  "begriffserklaerung": "Wenn man etwas reinigt, macht man es sauber. Man entfernt Schmutz, Staub oder Flecken.",
+  "beispielsatz": "Lena reinigt ihr Fahrrad mit einem feuchten Tuch.",
+  "rechtschreibstrategie": "Denke an das Wort „rein\" – reinigen kommt von „rein\" (= sauber). Sprich alle drei Silben deutlich: rei-ni-gen.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "rein"
+  ],
+  "bild_datei": "reinigen.webp",
+  "audio_datei": "reinigen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "reinigen",
+    "praesens": {
+      "ich": "reinige",
+      "du": "reinigst",
+      "er_sie_es": "reinigt",
+      "wir": "reinigen",
+      "ihr": "reinigt",
+      "sie": "reinigen"
+    },
+    "perfekt": {
+      "ich": "habe gereinigt",
+      "du": "hast gereinigt",
+      "er_sie_es": "hat gereinigt",
+      "wir": "haben gereinigt",
+      "ihr": "habt gereinigt",
+      "sie": "haben gereinigt"
+    },
+    "praeteritum": {
+      "ich": "reinigte",
+      "du": "reinigtest",
+      "er_sie_es": "reinigte",
+      "wir": "reinigten",
+      "ihr": "reinigtet",
+      "sie": "reinigten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to clean"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nettoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temizlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُنَظِّف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reinigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "säubern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schrubben"
+    }
+  ],
+  "fehlschreibungen": [
+    "reiningen",
+    "reinnigen",
+    "reiniggen",
+    "reinjgen",
+    "reinigenn"
+  ]
+}

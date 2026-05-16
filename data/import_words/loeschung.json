@@ -1,0 +1,87 @@
+{
+  "lemma": "Löschung",
+  "wortart": "Nomen",
+  "silben": "Lö-schung",
+  "begriffserklaerung": "Eine Löschung bedeutet, dass etwas entfernt oder ausgelöscht wird – zum Beispiel ein Feuer, das gelöscht wird, oder Daten, die vom Computer gelöscht werden.",
+  "beispielsatz": "Nach der Löschung des Feuers war alles wieder sicher.",
+  "rechtschreibstrategie": "Denk an das Verb „löschen\" – daraus wird „Löschung\". Das ö bleibt erhalten, und nach dem sch kommt die Endung -ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lösch"
+  ],
+  "bild_datei": "Löschung.webp",
+  "audio_datei": "Löschung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Löschung",
+    "plural": "die Löschungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Löschung",
+        "genitiv": "der Löschung",
+        "dativ": "der Löschung",
+        "akkusativ": "die Löschung"
+      },
+      "plural": {
+        "nominativ": "die Löschungen",
+        "genitiv": "der Löschungen",
+        "dativ": "den Löschungen",
+        "akkusativ": "die Löschungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "deletion / extinguishing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "suppression / extinction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silme / söndürme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حذف / إطفاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "löschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löscher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuerlöscher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streichung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Leschung",
+    "Löschunk",
+    "Löchung",
+    "Leöschung",
+    "Löschuing"
+  ]
+}

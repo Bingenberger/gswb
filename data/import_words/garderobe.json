@@ -1,0 +1,73 @@
+{
+  "lemma": "Garderobe",
+  "wortart": "Nomen",
+  "silben": "Gar-de-ro-be",
+  "begriffserklaerung": "Eine Garderobe ist ein Platz oder ein Möbelstück, an dem man Jacken, Mäntel und Taschen aufhängt – zum Beispiel im Flur zu Hause oder in der Schule.",
+  "beispielsatz": "Hänge bitte deine Jacke an die Garderobe!",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Französischen und klingt fast so, wie es geschrieben wird. Sprich alle Silben laut mit: Gar-de-ro-be. Achte auf das -e am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Garderobe.webp",
+  "audio_datei": "Garderobe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wardrobe / coat rack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vestiaire / garde-robe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gardırop / elbise askısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة الملابس / علاقة المعاطف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleiderhaken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kleiderständer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Garderobe",
+    "plural": "die Garderoben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Garderobe",
+        "genitiv": "der Garderobe",
+        "dativ": "der Garderobe",
+        "akkusativ": "die Garderobe"
+      },
+      "plural": {
+        "nominativ": "die Garderoben",
+        "genitiv": "der Garderoben",
+        "dativ": "den Garderoben",
+        "akkusativ": "die Garderoben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gardarobe",
+    "Garderrobe",
+    "Garderob",
+    "Garderope",
+    "Garderopbe",
+    "Guarderobe"
+  ]
+}

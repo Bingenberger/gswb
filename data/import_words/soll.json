@@ -1,0 +1,90 @@
+{
+  "lemma": "soll",
+  "wortart": "Verb",
+  "silben": "soll",
+  "begriffserklaerung": "„Soll\" bedeutet, dass jemand etwas tun muss oder dass etwas von ihm erwartet wird. Es ist eine Form des Verbs „sollen\".",
+  "beispielsatz": "Tim soll jetzt sein Zimmer aufräumen.",
+  "rechtschreibstrategie": "Das Wort „soll\" hat einen kurzen Vokal, deshalb verdoppeln wir den Buchstaben l: s-o-ll.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "soll"
+  ],
+  "bild_datei": "soll.webp",
+  "audio_datei": "soll.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shall / should / is supposed to"
+    },
+    {
+      "language_code": "fr",
+      "translation": "doit / devrait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gerekiyor / -malı / -meli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجب / ينبغي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Soll"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "müssen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dürfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "muss"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sollen",
+    "praesens": {
+      "ich": "soll",
+      "du": "sollst",
+      "er_sie_es": "soll",
+      "wir": "sollen",
+      "ihr": "sollt",
+      "sie": "sollen"
+    },
+    "perfekt": {
+      "ich": "habe gesollt",
+      "du": "hast gesollt",
+      "er_sie_es": "hat gesollt",
+      "wir": "haben gesollt",
+      "ihr": "habt gesollt",
+      "sie": "haben gesollt"
+    },
+    "praeteritum": {
+      "ich": "sollte",
+      "du": "solltest",
+      "er_sie_es": "sollte",
+      "wir": "sollten",
+      "ihr": "solltet",
+      "sie": "sollten"
+    }
+  },
+  "fehlschreibungen": [
+    "sol",
+    "zoll",
+    "solle",
+    "sollt",
+    "zol"
+  ]
+}

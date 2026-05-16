@@ -1,0 +1,84 @@
+{
+  "lemma": "Stäbchen",
+  "wortart": "Nomen",
+  "silben": "Stäb-chen",
+  "begriffserklaerung": "Ein Stäbchen ist ein kleiner, dünner Stab. Das Wort kann einen kleinen Holz- oder Kunststoffstab meinen – zum Beispiel ein Wattestäbchen oder Essstäbchen.",
+  "beispielsatz": "Mia isst ihr Sushi mit zwei Stäbchen.",
+  "rechtschreibstrategie": "Denk an das große Wort „Stab\". Wenn du es verkleinerst, wird daraus „Stäbchen\" – mit ä und bb, weil der Vokal kurz ist.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Stab"
+  ],
+  "bild_datei": "Stäbchen.webp",
+  "audio_datei": "Stäbchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stäbchen",
+    "plural": "die Stäbchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stäbchen",
+        "genitiv": "des Stäbchens",
+        "dativ": "dem Stäbchen",
+        "akkusativ": "das Stäbchen"
+      },
+      "plural": {
+        "nominativ": "die Stäbchen",
+        "genitiv": "der Stäbchen",
+        "dativ": "den Stäbchen",
+        "akkusativ": "die Stäbchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little stick / chopstick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit bâton / baguette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük çubuk / yemek çubuğu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصا صغيرة / عيدان الأكل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stab"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stäbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essstäbchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wattestäbchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberstab"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stebchen",
+    "Stäpchen",
+    "Stabchen",
+    "Stäbschen",
+    "Stäbcen",
+    "Stäbgen"
+  ]
+}

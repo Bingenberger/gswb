@@ -1,0 +1,85 @@
+{
+  "lemma": "Wasserbecher",
+  "wortart": "Nomen",
+  "silben": "Was-ser-be-cher",
+  "begriffserklaerung": "Ein Wasserbecher ist ein kleines Gefäß, aus dem man Wasser trinkt. Er ist meistens rund und hat keinen Henkel.",
+  "beispielsatz": "Nach dem Sport trinkt Lisa einen Wasserbecher leer.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Wasser\" und „Becher\". Schreib beide Teile genau so, wie du sie kennst – also mit Doppel-s in „Wasser\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Becher"
+  ],
+  "bild_datei": "Wasserbecher.webp",
+  "audio_datei": "Wasserbecher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wasserbecher",
+    "plural": "die Wasserbecher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wasserbecher",
+        "genitiv": "des Wasserbechers",
+        "dativ": "dem Wasserbecher",
+        "akkusativ": "den Wasserbecher"
+      },
+      "plural": {
+        "nominativ": "die Wasserbecher",
+        "genitiv": "der Wasserbecher",
+        "dativ": "den Wasserbechern",
+        "akkusativ": "die Wasserbecher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water cup"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gobelet d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su bardağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوب ماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkflasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkbecher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Waserbecher",
+    "Wasserbecher",
+    "Wasserbächer",
+    "Wasserbecer",
+    "Waserbächer",
+    "Waßerbecher"
+  ]
+}

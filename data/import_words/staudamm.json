@@ -1,0 +1,85 @@
+{
+  "lemma": "Staudamm",
+  "wortart": "Nomen",
+  "silben": "Stau-damm",
+  "begriffserklaerung": "Ein Staudamm ist eine große, dicke Mauer aus Stein oder Beton, die quer über einen Fluss gebaut wird. Dahinter staut sich das Wasser zu einem großen See auf. Das Wasser kann dann genutzt werden, um Strom zu erzeugen oder Felder zu bewässern.",
+  "beispielsatz": "Der riesige Staudamm hält das Wasser des Flusses zurück und erzeugt so Strom für viele Haushalte.",
+  "rechtschreibstrategie": "„Staudamm\" ist ein zusammengesetztes Wort aus „Stau\" und „Damm\". Das Wort „Damm\" schreibt man mit Doppel-m, weil das a kurz gesprochen wird. Sprich beide Teile deutlich: STAU + DAMM.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stau",
+    "Damm"
+  ],
+  "bild_datei": "Staudamm.webp",
+  "audio_datei": "Staudamm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Staudamm",
+    "plural": "die Staudämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Staudamm",
+        "genitiv": "des Staudamms",
+        "dativ": "dem Staudamm",
+        "akkusativ": "den Staudamm"
+      },
+      "plural": {
+        "nominativ": "die Staudämme",
+        "genitiv": "der Staudämme",
+        "dativ": "den Staudämmen",
+        "akkusativ": "die Staudämme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dam"
+    },
+    {
+      "language_code": "fr",
+      "translation": "barrage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baraj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Damm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stausee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserkraftwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Staudam",
+    "Staudamm",
+    "Shtaudamm",
+    "Stau-Dam",
+    "Staudamb",
+    "Stautamm"
+  ]
+}

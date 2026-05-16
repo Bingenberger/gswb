@@ -1,0 +1,82 @@
+{
+  "lemma": "Milch",
+  "wortart": "Nomen",
+  "silben": "Milch",
+  "begriffserklaerung": "Milch ist eine weiße, gesunde Flüssigkeit, die von Kühen, Ziegen oder anderen Säugetieren kommt. Menschen trinken sie oder stellen daraus Butter, Käse und Joghurt her.",
+  "beispielsatz": "Jeden Morgen trinke ich ein Glas frische Milch zum Frühstück.",
+  "rechtschreibstrategie": "Das Wort „Milch\" hat nur eine Silbe. Sprich es laut: „Milch\" – du hörst am Ende das „lch\". Schreib es genauso, wie du es hörst: M – i – l – c – h.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Milch"
+  ],
+  "bild_datei": "Milch.webp",
+  "audio_datei": "Milch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "milk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حليب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "milchig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Milchkuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Joghurt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Butter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Milch",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Milch",
+        "genitiv": "der Milch",
+        "dativ": "der Milch",
+        "akkusativ": "die Milch"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Milsch",
+    "Milck",
+    "Millch",
+    "Milh",
+    "Milchh"
+  ]
+}

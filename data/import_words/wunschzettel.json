@@ -1,0 +1,85 @@
+{
+  "lemma": "Wunschzettel",
+  "wortart": "Nomen",
+  "silben": "Wunsch-zet-tel",
+  "begriffserklaerung": "Ein Wunschzettel ist ein Blatt Papier, auf dem du aufschreibst, was du dir zu einem besonderen Anlass – zum Beispiel zu Weihnachten oder zum Geburtstag – wünschst.",
+  "beispielsatz": "Lena schreibt ihren Wunschzettel für den Weihnachtsmann mit bunten Stiften.",
+  "rechtschreibstrategie": "„Wunschzettel\" ist ein zusammengesetztes Wort aus „Wunsch\" und „Zettel\". Das „tt\" in „Zettel\" zeigt dir, dass das „e\" davor kurz gesprochen wird – du hörst es, wenn du „Zet-tel\" in Silben sprichst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wunsch",
+    "Zettel"
+  ],
+  "bild_datei": "Wunschzettel.webp",
+  "audio_datei": "Wunschzettel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wish list"
+    },
+    {
+      "language_code": "fr",
+      "translation": "liste de souhaits"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dilek listesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قائمة الأمنيات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschenk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wunschliste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wunschzettel",
+    "plural": "die Wunschzettel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wunschzettel",
+        "genitiv": "des Wunschzettels",
+        "dativ": "dem Wunschzettel",
+        "akkusativ": "den Wunschzettel"
+      },
+      "plural": {
+        "nominativ": "die Wunschzettel",
+        "genitiv": "der Wunschzettel",
+        "dativ": "den Wunschzetteln",
+        "akkusativ": "die Wunschzettel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wunschzettel",
+    "Wunszettel",
+    "Wunschzetal",
+    "Wunschzetell",
+    "Wunschcettel",
+    "Wunschzetter"
+  ]
+}

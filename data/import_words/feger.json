@@ -1,0 +1,90 @@
+{
+  "lemma": "Feger",
+  "wortart": "Nomen",
+  "silben": "Fe-ger",
+  "begriffserklaerung": "Ein Feger ist ein Werkzeug zum Kehren und Fegen. Man benutzt ihn, um den Boden sauber zu machen. Ein anderes Wort dafür ist Handbesen.",
+  "beispielsatz": "Mama gibt mir den Feger, damit ich die Krümel vom Boden wegfege.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Fe-ger. Das „e\" in der ersten Silbe ist lang, darum schreibt man nur ein „g\". Denk daran: nach langem Vokal kommt kein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "feg"
+  ],
+  "bild_datei": "Feger.webp",
+  "audio_datei": "Feger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brush / hand broom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balayette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el süpürgesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكنسة يدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fege"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Handbesen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kehrbesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kehrschaufel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wischmopp"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feger",
+    "plural": "die Feger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feger",
+        "genitiv": "des Fegers",
+        "dativ": "dem Feger",
+        "akkusativ": "den Feger"
+      },
+      "plural": {
+        "nominativ": "die Feger",
+        "genitiv": "der Feger",
+        "dativ": "den Fegern",
+        "akkusativ": "die Feger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fegger",
+    "Veger",
+    "Fehger",
+    "Feeger",
+    "Fäger"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Ereignis",
+  "wortart": "Nomen",
+  "silben": "Er-eig-nis",
+  "begriffserklaerung": "Ein Ereignis ist etwas, das passiert oder geschieht – zum Beispiel ein Fest, ein Unfall oder etwas Aufregendes.",
+  "beispielsatz": "Der Schulfest war ein tolles Ereignis für alle Kinder.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Er-eig-nis. Das „eig\" klingt wie in „eigen\" – denk daran, wenn du es schreibst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "eigen",
+    "eign"
+  ],
+  "bild_datei": "Ereignis.webp",
+  "audio_datei": "Ereignis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "event"
+    },
+    {
+      "language_code": "fr",
+      "translation": "événement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حدث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eignen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aneignen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorfall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschehnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Überraschung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ereignis",
+    "plural": "die Ereignisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ereignis",
+        "genitiv": "des Ereignisses",
+        "dativ": "dem Ereignis",
+        "akkusativ": "das Ereignis"
+      },
+      "plural": {
+        "nominativ": "die Ereignisse",
+        "genitiv": "der Ereignisse",
+        "dativ": "den Ereignissen",
+        "akkusativ": "die Ereignisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ereigniss",
+    "Ereiknis",
+    "Ereigniß",
+    "Ereignniss",
+    "Ereignes",
+    "Ereigenis"
+  ]
+}

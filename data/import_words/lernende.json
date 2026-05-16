@@ -1,0 +1,86 @@
+{
+  "lemma": "Lernende",
+  "wortart": "Nomen",
+  "silben": "Ler-nen-de",
+  "begriffserklaerung": "Ein Lernender oder eine Lernende ist jemand, der gerade etwas Neues lernt – zum Beispiel in der Schule.",
+  "beispielsatz": "Die Lernenden in unserer Klasse üben fleißig das Einmaleins.",
+  "rechtschreibstrategie": "Das Wort „Lernende\" steckt im Verb „lernen\". Sprich es laut mit: Ler-nen-de – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lern"
+  ],
+  "bild_datei": "Lernende.webp",
+  "audio_datei": "Lernende.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "learner / learners"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apprenant / apprenants"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğrenci / öğrenciler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متعلِّم / متعلِّمون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lerner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schüler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der / die",
+    "singular": "der/die Lernende",
+    "plural": "die Lernenden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der/die Lernende",
+        "genitiv": "des/der Lernenden",
+        "dativ": "dem/der Lernenden",
+        "akkusativ": "den/die Lernende"
+      },
+      "plural": {
+        "nominativ": "die Lernenden",
+        "genitiv": "der Lernenden",
+        "dativ": "den Lernenden",
+        "akkusativ": "die Lernenden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lernände",
+    "Lernente",
+    "Lernede",
+    "Lernnende",
+    "Lehrende"
+  ]
+}

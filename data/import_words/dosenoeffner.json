@@ -1,0 +1,85 @@
+{
+  "lemma": "Dosenöffner",
+  "wortart": "Nomen",
+  "silben": "Do-sen-öff-ner",
+  "begriffserklaerung": "Ein Dosenöffner ist ein Werkzeug, mit dem man den Deckel von Konservendosen aufschneiden oder aufhebeln kann.",
+  "beispielsatz": "Mama benutzt den Dosenöffner, um die Suppendose zu öffnen.",
+  "rechtschreibstrategie": "Das Wort „Dosenöffner\" besteht aus drei Bausteinen: „Dose\" + „öffnen\" + „-er\". Wenn du das Wort in seine Teile zerlegst, kannst du es leicht richtig schreiben. Das „ff\" in „öffnen\" hörst du beim Sprechen – kurzes „ö\", also kommt ein Doppelkonsonant.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Dose",
+    "öffnen"
+  ],
+  "bild_datei": "Dosenöffner.webp",
+  "audio_datei": "Dosenöffner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dosenöffner",
+    "plural": "die Dosenöffner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dosenöffner",
+        "genitiv": "des Dosenöffners",
+        "dativ": "dem Dosenöffner",
+        "akkusativ": "den Dosenöffner"
+      },
+      "plural": {
+        "nominativ": "die Dosenöffner",
+        "genitiv": "der Dosenöffner",
+        "dativ": "den Dosenöffnern",
+        "akkusativ": "die Dosenöffner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "can opener"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouvre-boîte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konserve açacağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فتاحة علب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dose"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "öffnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flaschöffner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konservendose"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dosssenöffner",
+    "Dosenöfner",
+    "Dosenöffnner",
+    "Dosenöfener",
+    "Dosenöffener",
+    "Dozenöffner"
+  ]
+}

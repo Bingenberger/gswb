@@ -1,0 +1,88 @@
+{
+  "lemma": "Flüssigkeit",
+  "wortart": "Nomen",
+  "silben": "Flüs-sig-keit",
+  "begriffserklaerung": "Eine Flüssigkeit ist ein Stoff, der fließt und keine feste Form hat. Wasser, Milch und Saft sind zum Beispiel Flüssigkeiten.",
+  "beispielsatz": "Wasser ist die wichtigste Flüssigkeit, die unser Körper braucht.",
+  "rechtschreibstrategie": "Das Wort kommt von „flüssig\". Merke: Nach dem kurzen „ü\" schreibt man „ss\". Und am Ende steckt das Wortbaustein „-keit\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fließ",
+    "flüss"
+  ],
+  "bild_datei": "Flüssigkeit.webp",
+  "audio_datei": "Flüssigkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flüssigkeit",
+    "plural": "die Flüssigkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flüssigkeit",
+        "genitiv": "der Flüssigkeit",
+        "dativ": "der Flüssigkeit",
+        "akkusativ": "die Flüssigkeit"
+      },
+      "plural": {
+        "nominativ": "die Flüssigkeiten",
+        "genitiv": "der Flüssigkeiten",
+        "dativ": "den Flüssigkeiten",
+        "akkusativ": "die Flüssigkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "liquid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "liquide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıvı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flüssig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fließen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flüssiges"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flüsigkeit",
+    "Flüssigkeid",
+    "Flüßigkeit",
+    "Flüssigeit",
+    "Flüsigkait"
+  ]
+}

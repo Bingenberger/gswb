@@ -1,0 +1,82 @@
+{
+  "lemma": "Meer",
+  "wortart": "Nomen",
+  "silben": "Meer",
+  "begriffserklaerung": "Das Meer ist eine riesige, salzige Wasserfläche, die einen großen Teil der Erde bedeckt.",
+  "beispielsatz": "Im Sommer fahren wir ans Meer und bauen Sandburgen am Strand.",
+  "rechtschreibstrategie": "Das Wort „Meer\" hat zwei e hintereinander – denk an die großen Wellen: ee!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Meer",
+    "plural": "die Meere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Meer",
+        "genitiv": "des Meeres",
+        "dativ": "dem Meer",
+        "akkusativ": "das Meer"
+      },
+      "plural": {
+        "nominativ": "die Meere",
+        "genitiv": "der Meere",
+        "dativ": "den Meeren",
+        "akkusativ": "die Meere"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "meer"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "meer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ozean"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sea"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deniz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بحر"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mer",
+    "Meehr",
+    "Meeр",
+    "Mähr",
+    "Mehr"
+  ],
+  "bild_datei": "Meer.webp",
+  "audio_datei": "Meer.mp3"
+}

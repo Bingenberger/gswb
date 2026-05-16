@@ -1,0 +1,85 @@
+{
+  "lemma": "Kochfeld",
+  "wortart": "Nomen",
+  "silben": "Koch-feld",
+  "begriffserklaerung": "Ein Kochfeld ist die flache Fläche auf einem Herd, auf der man Töpfe und Pfannen erhitzt, um Essen zu kochen.",
+  "beispielsatz": "Mama stellt den Topf auf das Kochfeld und kocht Nudeln.",
+  "rechtschreibstrategie": "„Kochfeld\" ist ein zusammengesetztes Wort aus „kochen\" und „Feld\". Sprich beide Teile deutlich: KOCH + FELD.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Koch",
+    "Feld"
+  ],
+  "bild_datei": "Kochfeld.webp",
+  "audio_datei": "Kochfeld.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hob"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plaque de cuisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ocak yüzeyi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوحة الطهي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kochfeld",
+    "plural": "die Kochfelder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kochfeld",
+        "genitiv": "des Kochfeldes",
+        "dativ": "dem Kochfeld",
+        "akkusativ": "das Kochfeld"
+      },
+      "plural": {
+        "nominativ": "die Kochfelder",
+        "genitiv": "der Kochfelder",
+        "dativ": "den Kochfeldern",
+        "akkusativ": "die Kochfelder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kochfeldt",
+    "Kochveld",
+    "Kochfeld",
+    "Kochfelt",
+    "Kochfeldd",
+    "Kochfelld"
+  ]
+}

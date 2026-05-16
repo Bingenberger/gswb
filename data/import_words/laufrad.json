@@ -1,0 +1,84 @@
+{
+  "lemma": "Laufrad",
+  "wortart": "Nomen",
+  "silben": "Lauf-rad",
+  "begriffserklaerung": "Ein Laufrad ist ein Fahrrad ohne Pedale. Kinder sitzen darauf und stoßen sich mit den Füßen vom Boden ab, um vorwärtszukommen.",
+  "beispielsatz": "Mia fährt mit ihrem Laufrad den Weg entlang.",
+  "rechtschreibstrategie": "Das Wort „Laufrad\" besteht aus zwei Teilen: „lauf\" und „Rad\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "lauf",
+    "Rad"
+  ],
+  "bild_datei": "Laufrad.webp",
+  "audio_datei": "Laufrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "balance bike"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vélo sans pédales"
+    },
+    {
+      "language_code": "tr",
+      "translation": "denge bisikleti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة التوازن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Laufrad",
+    "plural": "die Laufräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Laufrad",
+        "genitiv": "des Laufrades",
+        "dativ": "dem Laufrad",
+        "akkusativ": "das Laufrad"
+      },
+      "plural": {
+        "nominativ": "die Laufräder",
+        "genitiv": "der Laufräder",
+        "dativ": "den Laufrädern",
+        "akkusativ": "die Laufräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laufrat",
+    "Laufrrad",
+    "Laufraad",
+    "Laufrhad",
+    "Laufrad"
+  ]
+}

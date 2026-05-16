@@ -1,0 +1,82 @@
+{
+  "lemma": "Finger",
+  "wortart": "Nomen",
+  "silben": "Fin-ger",
+  "begriffserklaerung": "Ein Finger ist ein langer, beweglicher Teil deiner Hand. Du hast an jeder Hand fünf Finger.",
+  "beispielsatz": "Ich zeige mit dem Finger auf den bunten Schmetterling.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Fin-ger. Höre das „n\" vor dem „g\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Finger",
+    "plural": "die Finger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Finger",
+        "genitiv": "des Fingers",
+        "dativ": "dem Finger",
+        "akkusativ": "den Finger"
+      },
+      "plural": {
+        "nominativ": "die Finger",
+        "genitiv": "der Finger",
+        "dativ": "den Fingern",
+        "akkusativ": "die Finger"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Finger"
+  ],
+  "fehlschreibungen": [
+    "Fingar",
+    "Fingger",
+    "Fimger",
+    "Finga",
+    "Fingre"
+  ],
+  "bild_datei": "Finger.webp",
+  "audio_datei": "Finger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "finger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "doigt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إصبع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fingern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fingerabdruck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Daumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagel"
+    }
+  ]
+}

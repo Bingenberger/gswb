@@ -1,0 +1,88 @@
+{
+  "lemma": "Polizeiauto",
+  "wortart": "Nomen",
+  "silben": "Po-li-zei-au-to",
+  "begriffserklaerung": "Ein Polizeiauto ist ein besonderes Auto, das von Polizistinnen und Polizisten benutzt wird. Es hat oft blaues Blinklicht und einen lauten Martinshorn-Ton.",
+  "beispielsatz": "Das Polizeiauto fährt mit Blaulicht und lautem Sirenengeheul durch die Straße.",
+  "rechtschreibstrategie": "„Polizeiauto\" ist aus zwei Wörtern zusammengesetzt: „Polizei\" und „Auto\". Schreibe beide Teile einfach hintereinander – kein Bindestrich nötig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Polizei",
+    "Auto"
+  ],
+  "bild_datei": "Polizeiauto.webp",
+  "audio_datei": "Polizeiauto.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Polizeiauto",
+    "plural": "die Polizeiautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Polizeiauto",
+        "genitiv": "des Polizeiautos",
+        "dativ": "dem Polizeiauto",
+        "akkusativ": "das Polizeiauto"
+      },
+      "plural": {
+        "nominativ": "die Polizeiautos",
+        "genitiv": "der Polizeiautos",
+        "dativ": "den Polizeiautos",
+        "akkusativ": "die Polizeiautos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "police car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture de police"
+    },
+    {
+      "language_code": "tr",
+      "translation": "polis arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة الشرطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blaulicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizist"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehrauto"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streifenwagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Polizeyauto",
+    "Polizieauto",
+    "Pollizeiauto",
+    "Polizeiautto",
+    "Polizei-Auto"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Bremse",
+  "wortart": "Nomen",
+  "silben": "Brem-se",
+  "begriffserklaerung": "Eine Bremse ist ein Teil an einem Fahrzeug oder einer Maschine, mit dem man langsamer werden oder anhalten kann. Zum Beispiel hat dein Fahrrad Bremsen am Lenker.",
+  "beispielsatz": "Tim drückt fest auf die Bremse, damit das Fahrrad rechtzeitig anhält.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Brem-se. Nach dem kurzen „e\" hörst du das „m\" und das „s\" deutlich – schreib beide mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bremsen",
+    "Brems-"
+  ],
+  "bild_datei": "Bremse.webp",
+  "audio_datei": "Bremse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frein"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرامل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bremsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bremsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lenker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stopper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bremse",
+    "plural": "die Bremsen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bremse",
+        "genitiv": "der Bremse",
+        "dativ": "der Bremse",
+        "akkusativ": "die Bremse"
+      },
+      "plural": {
+        "nominativ": "die Bremsen",
+        "genitiv": "der Bremsen",
+        "dativ": "den Bremsen",
+        "akkusativ": "die Bremsen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bremße",
+    "Brämsе",
+    "Brämse",
+    "Bremze",
+    "Bremsе"
+  ]
+}

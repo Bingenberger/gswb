@@ -1,0 +1,85 @@
+{
+  "lemma": "Armbanduhr",
+  "wortart": "Nomen",
+  "silben": "Arm-band-uhr",
+  "begriffserklaerung": "Eine Armbanduhr ist eine kleine Uhr, die man mit einem Band am Handgelenk trägt, um die Uhrzeit abzulesen.",
+  "beispielsatz": "Zu meinem Geburtstag habe ich eine rote Armbanduhr geschenkt bekommen.",
+  "rechtschreibstrategie": "Das Wort „Armbanduhr\" besteht aus drei Teilen: „Arm\" + „Band\" + „Uhr\". Sprich alle drei Bausteine einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Arm",
+    "Band",
+    "Uhr"
+  ],
+  "bild_datei": "Armbanduhr.webp",
+  "audio_datei": "Armbanduhr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wristwatch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "montre-bracelet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kol saati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة يد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschenuhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanduhr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Armbanduhr",
+    "plural": "die Armbanduhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Armbanduhr",
+        "genitiv": "der Armbanduhr",
+        "dativ": "der Armbanduhr",
+        "akkusativ": "die Armbanduhr"
+      },
+      "plural": {
+        "nominativ": "die Armbanduhren",
+        "genitiv": "der Armbanduhren",
+        "dativ": "den Armbanduhren",
+        "akkusativ": "die Armbanduhren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Armbandur",
+    "Armbanduhr",
+    "Armbantuhre",
+    "Ambranduhr",
+    "Armbanduhre",
+    "Armbannduhr"
+  ]
+}

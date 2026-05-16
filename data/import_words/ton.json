@@ -1,0 +1,82 @@
+{
+  "lemma": "Ton",
+  "wortart": "Nomen",
+  "silben": "Ton",
+  "begriffserklaerung": "Ein Ton ist ein Geräusch oder Klang, den man hören kann. Das Wort „Ton\" bedeutet aber auch eine weiche, formbare Erde, aus der man Töpfe und Figuren formen kann.",
+  "beispielsatz": "Der Musiker spielt einen schönen Ton auf seiner Flöte.",
+  "rechtschreibstrategie": "„Ton\" hat nur eine Silbe. Nach dem langen „o\" kommt nur ein „n\" – also kein Doppel-n. Merke: ein langer Vokal = kein Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ton",
+    "tönen"
+  ],
+  "bild_datei": "Ton.webp",
+  "audio_datei": "Ton.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sound / clay"
+    },
+    {
+      "language_code": "fr",
+      "translation": "son / argile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses / kil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صوت / طين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tönen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tönung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ton",
+    "plural": "die Töne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ton",
+        "genitiv": "des Tons",
+        "dativ": "dem Ton",
+        "akkusativ": "den Ton"
+      },
+      "plural": {
+        "nominativ": "die Töne",
+        "genitiv": "der Töne",
+        "dativ": "den Tönen",
+        "akkusativ": "die Töne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tonn",
+    "Tohn",
+    "Thon",
+    "ton"
+  ]
+}

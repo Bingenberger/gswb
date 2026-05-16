@@ -1,0 +1,94 @@
+{
+  "lemma": "impfen",
+  "wortart": "Verb",
+  "silben": "imp-fen",
+  "begriffserklaerung": "Impfen bedeutet, dass ein Arzt oder eine Ärztin dir eine Spritze gibt oder etwas in deinen Körper bringt, damit du nicht krank wirst.",
+  "beispielsatz": "Der Arzt impft das Kind gegen Grippe, damit es gesund bleibt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „imp-fen\". Nach dem kurzen „i\" hörst du das „p\" und das „f\" – schreibe beide Buchstaben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "impf"
+  ],
+  "bild_datei": "impfen.webp",
+  "audio_datei": "impfen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "impfen",
+    "praesens": {
+      "ich": "impfe",
+      "du": "impfst",
+      "er_sie_es": "impft",
+      "wir": "impfen",
+      "ihr": "impft",
+      "sie": "impfen"
+    },
+    "perfekt": {
+      "ich": "habe geimpft",
+      "du": "hast geimpft",
+      "er_sie_es": "hat geimpft",
+      "wir": "haben geimpft",
+      "ihr": "habt geimpft",
+      "sie": "haben geimpft"
+    },
+    "praeteritum": {
+      "ich": "impfte",
+      "du": "impftest",
+      "er_sie_es": "impfte",
+      "wir": "impften",
+      "ihr": "impftet",
+      "sie": "impften"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to vaccinate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vacciner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aşılamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُطعِّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Impfung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Impfstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spritze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schützen"
+    }
+  ],
+  "fehlschreibungen": [
+    "imfen",
+    "imphen",
+    "inpfen",
+    "impffen",
+    "imbfen"
+  ]
+}

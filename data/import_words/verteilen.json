@@ -1,0 +1,101 @@
+{
+  "lemma": "verteilen",
+  "wortart": "Verb",
+  "silben": "ver-tei-len",
+  "begriffserklaerung": "Etwas verteilen bedeutet, dass man Dinge an mehrere Personen oder Stellen gibt, sodass jeder etwas bekommt.",
+  "beispielsatz": "Die Lehrerin verteilt die Hefte an alle Kinder in der Klasse.",
+  "rechtschreibstrategie": "Das Wort „verteilen\" besteht aus der Vorsilbe „ver-\" und dem Stammwort „teilen\". Denke an „Teil\" – dann weißt du, dass nach dem „ei\" ein „l\" kommt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "teil"
+  ],
+  "bild_datei": "verteilen.webp",
+  "audio_datei": "verteilen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to distribute"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distribuer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağıtmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوزع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einteilen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufteilen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausgeben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verschenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weitergeben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verteilen",
+    "praesens": {
+      "ich": "verteile",
+      "du": "verteilst",
+      "er_sie_es": "verteilt",
+      "wir": "verteilen",
+      "ihr": "verteilt",
+      "sie": "verteilen"
+    },
+    "perfekt": {
+      "ich": "habe verteilt",
+      "du": "hast verteilt",
+      "er_sie_es": "hat verteilt",
+      "wir": "haben verteilt",
+      "ihr": "habt verteilt",
+      "sie": "haben verteilt"
+    },
+    "praeteritum": {
+      "ich": "verteilte",
+      "du": "verteilt est",
+      "er_sie_es": "verteilte",
+      "wir": "verteilten",
+      "ihr": "verteilt et",
+      "sie": "verteilten"
+    }
+  },
+  "fehlschreibungen": [
+    "fertailen",
+    "verteilen",
+    "vertheillen",
+    "vertheilen",
+    "vrtailen",
+    "vertailen",
+    "verteillen"
+  ]
+}

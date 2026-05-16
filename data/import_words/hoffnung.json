@@ -1,0 +1,88 @@
+{
+  "lemma": "Hoffnung",
+  "wortart": "Nomen",
+  "silben": "Hoff-nung",
+  "begriffserklaerung": "Hoffnung ist das Gefühl, dass etwas Schönes oder Gutes passieren wird, auch wenn man noch nicht weiß, ob es wirklich klappt.",
+  "beispielsatz": "Lena hat die Hoffnung, dass die Sonne morgen scheint, damit sie draußen spielen kann.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „Hoff-nung\". Man hört das kurze „o\", deshalb kommt danach ein doppeltes „f\". Denke an: hoffen → Hoffnung!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "hoff"
+  ],
+  "bild_datei": "Hoffnung.webp",
+  "audio_datei": "Hoffnung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hoffnung",
+    "plural": "die Hoffnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hoffnung",
+        "genitiv": "der Hoffnung",
+        "dativ": "der Hoffnung",
+        "akkusativ": "die Hoffnung"
+      },
+      "plural": {
+        "nominativ": "die Hoffnungen",
+        "genitiv": "der Hoffnungen",
+        "dativ": "den Hoffnungen",
+        "akkusativ": "die Hoffnungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "espoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "umut"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hoffen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hoffnungslos"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glaube"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hofnung",
+    "Hoffnung",
+    "Hoffnug",
+    "Hoffnunk",
+    "Hofffnung"
+  ]
+}

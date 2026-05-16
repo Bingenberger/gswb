@@ -1,0 +1,92 @@
+{
+  "lemma": "Erkundung",
+  "wortart": "Nomen",
+  "silben": "Er-kun-dung",
+  "begriffserklaerung": "Eine Erkundung ist, wenn du etwas Unbekanntes genau anschaust und erforschst, um mehr darüber zu erfahren.",
+  "beispielsatz": "Die Klasse geht auf Erkundung im Wald und entdeckt viele spannende Tiere.",
+  "rechtschreibstrategie": "Denk an das Verb „erkunden\": Er-kun-dung. Sprich alle drei Silben laut mit: Er – kun – dung!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kund",
+    "erkund"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erkundung",
+    "plural": "die Erkundungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erkundung",
+        "genitiv": "der Erkundung",
+        "dativ": "der Erkundung",
+        "akkusativ": "die Erkundung"
+      },
+      "plural": {
+        "nominativ": "die Erkundungen",
+        "genitiv": "der Erkundungen",
+        "dativ": "den Erkundungen",
+        "akkusativ": "die Erkundungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Erkuntung",
+    "Erkunding",
+    "Erkundunk",
+    "Erkundunng",
+    "Erkondung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exploration"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exploration"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keşif"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استكشاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erkunden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kunde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entdeckung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erforschung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Expedition"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ],
+  "bild_datei": "Erkundung.webp",
+  "audio_datei": "Erkundung.mp3"
+}

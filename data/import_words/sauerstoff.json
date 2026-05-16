@@ -1,0 +1,85 @@
+{
+  "lemma": "Sauerstoff",
+  "wortart": "Nomen",
+  "silben": "Sau-er-stoff",
+  "begriffserklaerung": "Sauerstoff ist ein unsichtbares Gas in der Luft. Menschen, Tiere und Pflanzen brauchen Sauerstoff zum Atmen und Leben.",
+  "beispielsatz": "Ohne Sauerstoff könnten wir nicht atmen.",
+  "rechtschreibstrategie": "Das Wort „Sauerstoff\" ist aus zwei Teilen zusammengesetzt: „sauer\" und „Stoff\". Beide Teile kannst du einzeln hören und schreiben. Am Ende steht ein doppeltes f, weil „Stoff\" so geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "sauer",
+    "Stoff"
+  ],
+  "bild_datei": "Sauerstoff.webp",
+  "audio_datei": "Sauerstoff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oxygen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oxygène"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oksijen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أكسجين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gas"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sauerstoff",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sauerstoff",
+        "genitiv": "des Sauerstoffs",
+        "dativ": "dem Sauerstoff",
+        "akkusativ": "den Sauerstoff"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sauersstoff",
+    "Sauershtoff",
+    "Sauerstof",
+    "Sauarstoff",
+    "Sowerstoff",
+    "Sauersdoff"
+  ]
+}

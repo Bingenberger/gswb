@@ -1,0 +1,78 @@
+{
+  "lemma": "Spatz",
+  "wortart": "Nomen",
+  "silben": "Spatz",
+  "begriffserklaerung": "Ein Spatz ist ein kleiner, brauner Vogel, der häufig in Städten und Dörfern lebt und laut zwitschert.",
+  "beispielsatz": "Der Spatz sitzt auf dem Fensterbrett und pickt die Brotkrümel auf.",
+  "rechtschreibstrategie": "Spatz endet auf -tz. Das tz zeigt, dass das a kurz gesprochen wird. Denk daran: nach einem kurzen Vokal schreibt man tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Spatz"
+  ],
+  "bild_datei": "Spatz.webp",
+  "audio_datei": "Spatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sparrow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moineau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "serçe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصفور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spätzchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Amsel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spatz",
+    "plural": "die Spatzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spatz",
+        "genitiv": "des Spatzen",
+        "dativ": "dem Spatzen",
+        "akkusativ": "den Spatzen"
+      },
+      "plural": {
+        "nominativ": "die Spatzen",
+        "genitiv": "der Spatzen",
+        "dativ": "den Spatzen",
+        "akkusativ": "die Spatzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spaz",
+    "Spats",
+    "Spattz",
+    "Sspatz",
+    "Spazu"
+  ]
+}

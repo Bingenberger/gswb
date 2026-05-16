@@ -1,0 +1,90 @@
+{
+  "lemma": "Beleg",
+  "wortart": "Nomen",
+  "silben": "Be-leg",
+  "begriffserklaerung": "Ein Beleg ist ein Zettel oder ein Papier, das zeigt, dass du etwas gekauft oder bezahlt hast. Er kann auch beweisen, dass etwas wirklich stimmt.",
+  "beispielsatz": "Mama hebt den Beleg vom Supermarkt auf, damit sie weiß, wie viel sie bezahlt hat.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Be-leg. Am Ende hörst du ein „k\", aber du schreibst ein „g\" – das erkennst du, wenn du es verlängerst: Be-le-ge.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "leg"
+  ],
+  "bild_datei": "Beleg.webp",
+  "audio_datei": "Beleg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "receipt / proof"
+    },
+    {
+      "language_code": "fr",
+      "translation": "reçu / justificatif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiş / kanıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إيصال / دليل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "belegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Belegschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Quittung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kassenbon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaufvertrag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beleg",
+    "plural": "die Belege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beleg",
+        "genitiv": "des Belegs",
+        "dativ": "dem Beleg",
+        "akkusativ": "den Beleg"
+      },
+      "plural": {
+        "nominativ": "die Belege",
+        "genitiv": "der Belege",
+        "dativ": "den Belegen",
+        "akkusativ": "die Belege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beleck",
+    "Belegg",
+    "Belleg",
+    "Beläg",
+    "Beleк"
+  ]
+}

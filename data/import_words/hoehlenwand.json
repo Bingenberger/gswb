@@ -1,0 +1,85 @@
+{
+  "lemma": "Höhlenwand",
+  "wortart": "Nomen",
+  "silben": "Höh-len-wand",
+  "begriffserklaerung": "Die Höhlenwand ist die Seite oder der Rand einer Höhle – also der feste Stein, der eine Höhle von innen umgibt.",
+  "beispielsatz": "An der Höhlenwand hingen viele bunte Fledermäuse.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Höhle\" und „Wand\". Schreibe beide Teile hintereinander: Höhlen-wand. Das Dehnungs-h in „Höhle\" hilft dir, das lange Ö zu hören.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Höhle",
+    "Wand"
+  ],
+  "bild_datei": "Höhlenwand.webp",
+  "audio_datei": "Höhlenwand.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Höhlenwand",
+    "plural": "die Höhlenwände",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Höhlenwand",
+        "genitiv": "der Höhlenwand",
+        "dativ": "der Höhlenwand",
+        "akkusativ": "die Höhlenwand"
+      },
+      "plural": {
+        "nominativ": "die Höhlenwände",
+        "genitiv": "der Höhlenwände",
+        "dativ": "den Höhlenwänden",
+        "akkusativ": "die Höhlenwände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cave wall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paroi de grotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mağara duvarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدار الكهف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Höhle"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fels"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stein"
+    }
+  ],
+  "fehlschreibungen": [
+    "Höhlenwant",
+    "Höllenwand",
+    "Hölenwand",
+    "Höhlenwandt",
+    "Höhlenwand"
+  ]
+}

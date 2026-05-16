@@ -1,0 +1,73 @@
+{
+  "lemma": "Dezember",
+  "wortart": "Nomen",
+  "silben": "De-zem-ber",
+  "begriffserklaerung": "Der Dezember ist der zwölfte und letzte Monat des Jahres. In ihm feiern wir Weihnachten und Silvester.",
+  "beispielsatz": "Im Dezember liegt oft Schnee, und wir freuen uns auf Weihnachten.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: De-zem-ber. Denk daran: Nach dem „e\" kommt ein „z\", kein „s\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Dezember.webp",
+  "audio_datei": "Dezember.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "December"
+    },
+    {
+      "language_code": "fr",
+      "translation": "décembre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Aralık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ديسمبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "November"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dezember",
+    "plural": "die Dezember",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dezember",
+        "genitiv": "des Dezembers",
+        "dativ": "dem Dezember",
+        "akkusativ": "den Dezember"
+      },
+      "plural": {
+        "nominativ": "die Dezember",
+        "genitiv": "der Dezember",
+        "dativ": "den Dezembern",
+        "akkusativ": "die Dezember"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Desember",
+    "Dezember",
+    "Detzember",
+    "Dezämbär",
+    "Deszember",
+    "Dezembar"
+  ]
+}

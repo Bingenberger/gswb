@@ -1,0 +1,83 @@
+{
+  "lemma": "Camping",
+  "wortart": "Nomen",
+  "silben": "Camp-ing",
+  "begriffserklaerung": "Camping bedeutet, dass man draußen in der Natur übernachtet – meistens in einem Zelt oder einem Wohnwagen.",
+  "beispielsatz": "Im Sommer fahren wir zum Camping an den See und schlafen im Zelt.",
+  "rechtschreibstrategie": "„Camping\" kommt aus dem Englischen. Merke dir: Am Anfang steht „Camp\" – wie ein Lager. Schreibe immer großes C am Anfang, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "camp"
+  ],
+  "bild_datei": "Camping.webp",
+  "audio_datei": "Camping.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Camping",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Camping",
+        "genitiv": "des Campings",
+        "dativ": "dem Camping",
+        "akkusativ": "das Camping"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "camping"
+    },
+    {
+      "language_code": "fr",
+      "translation": "le camping"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "التخييم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Campingplatz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "campen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zelten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kamping",
+    "Cambing",
+    "Kampink",
+    "Campping",
+    "camping"
+  ]
+}

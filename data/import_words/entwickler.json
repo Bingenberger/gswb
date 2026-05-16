@@ -1,0 +1,84 @@
+{
+  "lemma": "Entwickler",
+  "wortart": "Nomen",
+  "silben": "Ent-wick-ler",
+  "begriffserklaerung": "Ein Entwickler ist jemand, der Computer-Programme oder Apps erfindet und baut. Entwickler denken sich aus, wie Programme funktionieren sollen, und schreiben dann dafür den Computercode.",
+  "beispielsatz": "Der Entwickler hat eine tolle App für Kinder geschrieben.",
+  "rechtschreibstrategie": "Das Wort Entwickler hat den kurzen Vokal „i\" in der Mitte. Deshalb folgt danach das Doppel-Zeichen „ck\" – sprich laut mit: „ent-WICK-ler\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wickeln",
+    "entwickeln"
+  ],
+  "bild_datei": "Entwickler.webp",
+  "audio_datei": "Entwickler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Entwickler",
+    "plural": "die Entwickler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Entwickler",
+        "genitiv": "des Entwicklers",
+        "dativ": "dem Entwickler",
+        "akkusativ": "den Entwickler"
+      },
+      "plural": {
+        "nominativ": "die Entwickler",
+        "genitiv": "der Entwickler",
+        "dativ": "den Entwicklern",
+        "akkusativ": "die Entwickler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "developer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "développeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geliştirici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطوِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entwickeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Entwicklung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programmierer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Programmierer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Entwikler",
+    "Entwickller",
+    "Entwikkler",
+    "Entwicler",
+    "Entwickeler"
+  ]
+}

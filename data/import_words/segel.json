@@ -1,0 +1,82 @@
+{
+  "lemma": "Segel",
+  "wortart": "Nomen",
+  "silben": "Se-gel",
+  "begriffserklaerung": "Ein Segel ist ein großes Stück Stoff, das am Mast eines Bootes befestigt ist. Der Wind bläst in das Segel und treibt das Boot vorwärts.",
+  "beispielsatz": "Der starke Wind blähte das weiße Segel des Bootes auf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Se-gel. Beide Silben klingen weich – kein Doppelkonsonant, kein besonderer Laut. Merke dir einfach: das „g\" klingt wie in „gehen\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "segel"
+  ],
+  "bild_datei": "Segel.webp",
+  "audio_datei": "Segel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sail"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yelken"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شراع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "segeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Segler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Segel",
+    "plural": "die Segel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Segel",
+        "genitiv": "des Segels",
+        "dativ": "dem Segel",
+        "akkusativ": "das Segel"
+      },
+      "plural": {
+        "nominativ": "die Segel",
+        "genitiv": "der Segel",
+        "dativ": "den Segeln",
+        "akkusativ": "die Segel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sägel",
+    "Seegel",
+    "Segell",
+    "Zegel",
+    "Segl"
+  ]
+}

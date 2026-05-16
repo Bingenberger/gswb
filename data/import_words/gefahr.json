@@ -1,0 +1,87 @@
+{
+  "lemma": "Gefahr",
+  "wortart": "Nomen",
+  "silben": "Ge-fahr",
+  "begriffserklaerung": "Eine Gefahr ist eine Situation, in der jemand verletzt werden oder etwas Schlimmes passieren könnte.",
+  "beispielsatz": "Das Kind erkannte die Gefahr und blieb am Straßenrand stehen.",
+  "rechtschreibstrategie": "Schreibe „Gefahr\" mit einem Dehnungs-h vor dem r: Ge-f-a-h-r. Das h hörst du nicht, aber es gehört dazu!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "gefahr"
+  ],
+  "bild_datei": "Gefahr.webp",
+  "audio_datei": "Gefahr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "danger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "danger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tehlike"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefährlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefährden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Risiko"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Warnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gefahr",
+    "plural": "die Gefahren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gefahr",
+        "genitiv": "der Gefahr",
+        "dativ": "der Gefahr",
+        "akkusativ": "die Gefahr"
+      },
+      "plural": {
+        "nominativ": "die Gefahren",
+        "genitiv": "der Gefahren",
+        "dativ": "den Gefahren",
+        "akkusativ": "die Gefahren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefar",
+    "Gefahr",
+    "Geffahr",
+    "Gefaar",
+    "Gevahr",
+    "Gefahre"
+  ]
+}

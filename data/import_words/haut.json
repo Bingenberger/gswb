@@ -1,0 +1,85 @@
+{
+  "lemma": "Haut",
+  "wortart": "Nomen",
+  "silben": "Haut",
+  "begriffserklaerung": "Die Haut ist die äußere Hülle deines Körpers. Sie schützt dich vor Kälte, Wärme und Keimen.",
+  "beispielsatz": "Im Sommer sollst du deine Haut mit Sonnencreme schützen.",
+  "rechtschreibstrategie": "Das Wort „Haut\" hat ein langes „au\". Denk daran: Haut – Häute. Das „t\" am Ende hörst du beim Verlängern deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "haut"
+  ],
+  "bild_datei": "Haut.webp",
+  "audio_datei": "Haut.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جلد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "häuten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hautfarbe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hauteng"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Haut",
+    "plural": "die Häute",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Haut",
+        "genitiv": "der Haut",
+        "dativ": "der Haut",
+        "akkusativ": "die Haut"
+      },
+      "plural": {
+        "nominativ": "die Häute",
+        "genitiv": "der Häute",
+        "dativ": "den Häuten",
+        "akkusativ": "die Häute"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haud",
+    "Hautt",
+    "haut",
+    "Hauth"
+  ]
+}

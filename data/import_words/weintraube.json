@@ -1,0 +1,80 @@
+{
+  "lemma": "Weintraube",
+  "wortart": "Nomen",
+  "silben": "Wein-trau-be",
+  "begriffserklaerung": "Eine Weintraube ist eine kleine, runde, saftige Frucht, die in Büscheln an der Weinrebe wächst. Weintrauben können grün, rot oder blau sein und schmecken süß oder leicht sauer.",
+  "beispielsatz": "Mama kauft auf dem Markt eine Weintraube und teilt sie mit uns.",
+  "rechtschreibstrategie": "Das Wort „Weintraube\" ist ein zusammengesetztes Wort aus „Wein\" und „Traube\". Sprich beide Teile einzeln: WEIN + TRAUBE. Denk daran: In „Wein\" steckt das lange ei wie in „ein\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wein",
+    "Traube"
+  ],
+  "bild_datei": "Weintraube.webp",
+  "audio_datei": "Weintraube.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grape"
+    },
+    {
+      "language_code": "fr",
+      "translation": "raisin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üzüm"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عنب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Traube"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weinstock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Weintraube",
+    "plural": "die Weintrauben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Weintraube",
+        "genitiv": "der Weintraube",
+        "dativ": "der Weintraube",
+        "akkusativ": "die Weintraube"
+      },
+      "plural": {
+        "nominativ": "die Weintrauben",
+        "genitiv": "der Weintrauben",
+        "dativ": "den Weintrauben",
+        "akkusativ": "die Weintrauben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weintraupe",
+    "Weindrauben",
+    "Waintraube",
+    "Weintrauben",
+    "Weintrobe",
+    "Wientraube"
+  ]
+}

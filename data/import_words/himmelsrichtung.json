@@ -1,0 +1,85 @@
+{
+  "lemma": "Himmelsrichtung",
+  "wortart": "Nomen",
+  "silben": "Him-mels-rich-tung",
+  "begriffserklaerung": "Eine Himmelsrichtung zeigt dir, wo etwas liegt – zum Beispiel im Norden, Süden, Osten oder Westen.",
+  "beispielsatz": "Die Sonne geht im Osten auf – das ist eine Himmelsrichtung.",
+  "rechtschreibstrategie": "Das Wort „Himmelsrichtung\" ist ein zusammengesetztes Wort aus „Himmel\" und „Richtung\". Schreib beide Teile einfach hintereinander. Denke daran: „Himmel\" hat zwei „m\" – weil das „i\" kurz gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Himmel",
+    "Richtung"
+  ],
+  "bild_datei": "Himmelsrichtung.webp",
+  "audio_datei": "Himmelsrichtung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Himmelsrichtung",
+    "plural": "die Himmelsrichtungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Himmelsrichtung",
+        "genitiv": "der Himmelsrichtung",
+        "dativ": "der Himmelsrichtung",
+        "akkusativ": "die Himmelsrichtung"
+      },
+      "plural": {
+        "nominativ": "die Himmelsrichtungen",
+        "genitiv": "der Himmelsrichtungen",
+        "dativ": "den Himmelsrichtungen",
+        "akkusativ": "die Himmelsrichtungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cardinal direction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point cardinal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yön"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اتجاه جغرافي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Himmel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Richtung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Norden"
+    }
+  ],
+  "fehlschreibungen": [
+    "Himelrichtung",
+    "Himelsrichtung",
+    "Himmelsrichttung",
+    "Himmelsrichtug",
+    "Himmelssrichtung"
+  ]
+}

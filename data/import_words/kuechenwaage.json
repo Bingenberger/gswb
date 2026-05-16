@@ -1,0 +1,85 @@
+{
+  "lemma": "Küchenwaage",
+  "wortart": "Nomen",
+  "silben": "Kü-chen-waa-ge",
+  "begriffserklaerung": "Eine Küchenwaage ist ein Gerät, mit dem man Lebensmittel wiegen kann. So weiß man genau, wie viel Gramm oder Kilogramm etwas wiegt.",
+  "beispielsatz": "Mama legt das Mehl auf die Küchenwaage, um genau 200 Gramm abzumessen.",
+  "rechtschreibstrategie": "Das Wort „Küchenwaage\" ist aus zwei Wörtern zusammengesetzt: „Küche\" und „Waage\". Das Wort „Waage\" schreibt man mit zwei a – denk daran, dass die Waage zwei Schalen hat!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Küche",
+    "Waage"
+  ],
+  "bild_datei": "Küchenwaage.webp",
+  "audio_datei": "Küchenwaage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kitchen scale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "balance de cuisine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mutfak terazisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميزان المطبخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backzubehör"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Waage"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Küchenwaage",
+    "plural": "die Küchenwaagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Küchenwaage",
+        "genitiv": "der Küchenwaage",
+        "dativ": "der Küchenwaage",
+        "akkusativ": "die Küchenwaage"
+      },
+      "plural": {
+        "nominativ": "die Küchenwaagen",
+        "genitiv": "der Küchenwaagen",
+        "dativ": "den Küchenwaagen",
+        "akkusativ": "die Küchenwaagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Küchenwaege",
+    "Küchenwage",
+    "Küchenwaagge",
+    "Küchenwaage",
+    "Küchenwahge",
+    "Küchnwaage"
+  ]
+}

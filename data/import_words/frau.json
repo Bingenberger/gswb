@@ -1,0 +1,85 @@
+{
+  "lemma": "Frau",
+  "wortart": "Nomen",
+  "silben": "Frau",
+  "begriffserklaerung": "Eine Frau ist ein weiblicher Mensch, der erwachsen ist.",
+  "beispielsatz": "Die Frau kauft frisches Brot beim Bäcker.",
+  "rechtschreibstrategie": "Das Wort „Frau\" klingt genau so, wie man es schreibt – sprich es laut: FRAU. Denk daran: Es beginnt mit einem großen F, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "frau"
+  ],
+  "bild_datei": "Frau.webp",
+  "audio_datei": "Frau.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "woman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "femme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kadın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "امرأة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ehefrau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Frauchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dame"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mädchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frau",
+    "plural": "die Frauen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frau",
+        "genitiv": "der Frau",
+        "dativ": "der Frau",
+        "akkusativ": "die Frau"
+      },
+      "plural": {
+        "nominativ": "die Frauen",
+        "genitiv": "der Frauen",
+        "dativ": "den Frauen",
+        "akkusativ": "die Frauen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frau",
+    "Fraw",
+    "Frauf",
+    "Vfrau"
+  ]
+}

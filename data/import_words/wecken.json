@@ -1,0 +1,95 @@
+{
+  "lemma": "wecken",
+  "wortart": "Verb",
+  "silben": "we-cken",
+  "begriffserklaerung": "Jemanden wecken bedeutet, ihn aus dem Schlaf aufwachen zu lassen.",
+  "beispielsatz": "Mama weckt mich jeden Morgen um sieben Uhr.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" kommt „ck\" – das zeigt, dass der Vokal kurz ist: we-cken.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "weck"
+  ],
+  "bild_datei": "wecken.webp",
+  "audio_datei": "wecken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "wecken",
+    "praesens": {
+      "ich": "wecke",
+      "du": "weckst",
+      "er_sie_es": "weckt",
+      "wir": "wecken",
+      "ihr": "weckt",
+      "sie": "wecken"
+    },
+    "perfekt": {
+      "ich": "habe geweckt",
+      "du": "hast geweckt",
+      "er_sie_es": "hat geweckt",
+      "wir": "haben geweckt",
+      "ihr": "habt geweckt",
+      "sie": "haben geweckt"
+    },
+    "praeteritum": {
+      "ich": "weckte",
+      "du": "wecktest",
+      "er_sie_es": "weckte",
+      "wir": "weckten",
+      "ihr": "wecktet",
+      "sie": "weckten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wake (someone up)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réveiller"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyandırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُوقِظ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wecker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufwecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufwecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufstehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufwachen"
+    }
+  ],
+  "fehlschreibungen": [
+    "weken",
+    "wekken",
+    "wecken",
+    "wäcken",
+    "weckken",
+    "vwecken"
+  ]
+}

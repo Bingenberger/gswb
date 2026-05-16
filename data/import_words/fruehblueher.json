@@ -1,0 +1,84 @@
+{
+  "lemma": "Frühblüher",
+  "wortart": "Nomen",
+  "silben": "Früh-blü-her",
+  "begriffserklaerung": "Ein Frühblüher ist eine Pflanze, die schon im zeitigen Frühling blüht – oft wenn noch Schnee liegt.",
+  "beispielsatz": "Das Schneeglöckchen ist ein echter Frühblüher, denn es blüht schon im Februar.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „früh\" und „Blüher\". Das „h\" in „früh\" macht das ü lang – du sprichst es gedehnt. Das Wort endet auf „-er\", wie viele Nomen, die eine Person oder Sache beschreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "früh",
+    "blüh"
+  ],
+  "bild_datei": "Frühblüher.webp",
+  "audio_datei": "Frühblüher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Frühblüher",
+    "plural": "die Frühblüher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Frühblüher",
+        "genitiv": "des Frühblühers",
+        "dativ": "dem Frühblüher",
+        "akkusativ": "den Frühblüher"
+      },
+      "plural": {
+        "nominativ": "die Frühblüher",
+        "genitiv": "der Frühblüher",
+        "dativ": "den Frühblühern",
+        "akkusativ": "die Frühblüher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "early bloomer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plante printanière précoce"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erken çiçek açan bitki"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبات يزهر مبكراً"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blühen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "früh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneeglöckchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krokus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Frühblüer",
+    "Frühbliher",
+    "Frühbluher",
+    "Früpblüher",
+    "Frühblier"
+  ]
+}

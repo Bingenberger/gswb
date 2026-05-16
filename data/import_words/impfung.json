@@ -1,0 +1,86 @@
+{
+  "lemma": "Impfung",
+  "wortart": "Nomen",
+  "silben": "Imp-fung",
+  "beispielsatz": "Nach der Impfung bekam Lena ein Pflaster auf den Arm.",
+  "begriffserklaerung": "Eine Impfung ist eine kleine Spritze vom Arzt, die deinen Körper vor Krankheiten schützt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Imp-fung\". Du hörst zuerst „Imp\" mit kurzem i und dann „fung\". Schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "impf"
+  ],
+  "bild_datei": "Impfung.webp",
+  "audio_datei": "Impfung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vaccination"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vaccination"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تطعيم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "impfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Impfstoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spritze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutzimpfung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Impfung",
+    "plural": "die Impfungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Impfung",
+        "genitiv": "der Impfung",
+        "dativ": "der Impfung",
+        "akkusativ": "die Impfung"
+      },
+      "plural": {
+        "nominativ": "die Impfungen",
+        "genitiv": "der Impfungen",
+        "dativ": "den Impfungen",
+        "akkusativ": "die Impfungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Impfunk",
+    "Impung",
+    "Imfung",
+    "Impffung",
+    "Impfuung"
+  ]
+}

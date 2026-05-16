@@ -1,0 +1,84 @@
+{
+  "lemma": "Bevölkerung",
+  "wortart": "Nomen",
+  "silben": "Be-völ-ke-rung",
+  "begriffserklaerung": "Die Bevölkerung sind alle Menschen, die in einem bestimmten Gebiet oder Land leben.",
+  "beispielsatz": "Die Bevölkerung Deutschlands besteht aus vielen Millionen Menschen.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Be-völ-ke-rung. Achte auf das ö in „völ\" – denke an das Wort „Volk\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Volk"
+  ],
+  "bild_datei": "Bevölkerung.webp",
+  "audio_datei": "Bevölkerung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "population"
+    },
+    {
+      "language_code": "fr",
+      "translation": "population"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nüfus"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Volk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bevölkern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einwohner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesellschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einwohnerschaft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bevölkerung",
+    "plural": "die Bevölkerungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bevölkerung",
+        "genitiv": "der Bevölkerung",
+        "dativ": "der Bevölkerung",
+        "akkusativ": "die Bevölkerung"
+      },
+      "plural": {
+        "nominativ": "die Bevölkerungen",
+        "genitiv": "der Bevölkerungen",
+        "dativ": "den Bevölkerungen",
+        "akkusativ": "die Bevölkerungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bevölkerunk",
+    "Bevölkrung",
+    "Bevölckerung",
+    "Befölkerung",
+    "Bevölkeruing",
+    "Bevöllkerung"
+  ]
+}

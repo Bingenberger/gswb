@@ -1,0 +1,82 @@
+{
+  "lemma": "Markt",
+  "wortart": "Nomen",
+  "silben": "Markt",
+  "begriffserklaerung": "Ein Markt ist ein Ort, an dem Menschen Waren wie Obst, Gemüse oder andere Dinge verkaufen und kaufen.",
+  "beispielsatz": "Am Samstag gehen wir mit Mama auf den Markt und kaufen frisches Obst.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Markt\". Am Ende hörst du „kt\" – beide Buchstaben werden mitgeschrieben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Markt"
+  ],
+  "bild_datei": "Markt.webp",
+  "audio_datei": "Markt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "market"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marché"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pazar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Marktplatz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Basar"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Markt",
+    "plural": "die Märkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Markt",
+        "genitiv": "des Marktes",
+        "dativ": "dem Markt",
+        "akkusativ": "den Markt"
+      },
+      "plural": {
+        "nominativ": "die Märkte",
+        "genitiv": "der Märkte",
+        "dativ": "den Märkten",
+        "akkusativ": "die Märkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Marct",
+    "Marckt",
+    "Markt",
+    "Margt",
+    "Mарkt"
+  ]
+}

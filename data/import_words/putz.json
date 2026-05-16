@@ -1,0 +1,82 @@
+{
+  "lemma": "Putz",
+  "wortart": "Nomen",
+  "silben": "Putz",
+  "begriffserklaerung": "Putz ist eine glatte Schicht aus Sand und Kalk, die man auf Wände streicht. Man sagt auch „Putz\" für das Saubermachen.",
+  "beispielsatz": "Der Putz an der alten Mauer bröckelt ab.",
+  "rechtschreibstrategie": "Putz endet auf „tz\" – das schreibt man nach einem kurzen Vokal statt einfach „z\". Merke: kurzes „u\" → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "putz"
+  ],
+  "bild_datei": "Putz.webp",
+  "audio_datei": "Putz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plaster / cleaning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crépi / nettoyage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıva / temizlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بياض / تنظيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Putzlappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verputz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Putz",
+    "plural": "die Putze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Putz",
+        "genitiv": "des Putzes",
+        "dativ": "dem Putz",
+        "akkusativ": "den Putz"
+      },
+      "plural": {
+        "nominativ": "die Putze",
+        "genitiv": "der Putze",
+        "dativ": "den Putzen",
+        "akkusativ": "die Putze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Puts",
+    "Puds",
+    "Putzz",
+    "Puz",
+    "Pudz"
+  ]
+}

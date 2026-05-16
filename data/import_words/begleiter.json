@@ -1,0 +1,88 @@
+{
+  "lemma": "Begleiter",
+  "wortart": "Nomen",
+  "silben": "Be-glei-ter",
+  "begriffserklaerung": "Ein Begleiter ist eine Person oder ein Tier, das mit jemandem zusammen geht oder zusammen ist, damit er nicht allein ist.",
+  "beispielsatz": "Mein Hund ist mein bester Begleiter auf jedem Spaziergang.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Be-glei-ter. Merke dir das „ei\" in der Mitte – es klingt wie in „Eis\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "begleiten",
+    "Begleitung"
+  ],
+  "bild_datei": "Begleiter.webp",
+  "audio_datei": "Begleiter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "companion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accompagnateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eşlik eden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رفيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "begleiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Begleitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefährte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Freund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Begleiter",
+    "plural": "die Begleiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Begleiter",
+        "genitiv": "des Begleiters",
+        "dativ": "dem Begleiter",
+        "akkusativ": "den Begleiter"
+      },
+      "plural": {
+        "nominativ": "die Begleiter",
+        "genitiv": "der Begleiter",
+        "dativ": "den Begleitern",
+        "akkusativ": "die Begleiter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Begleitter",
+    "Begleiiter",
+    "Begleter",
+    "Begleieter",
+    "Beglaiter",
+    "Beleiter"
+  ]
+}

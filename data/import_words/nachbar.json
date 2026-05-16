@@ -1,0 +1,82 @@
+{
+  "lemma": "Nachbar",
+  "wortart": "Nomen",
+  "silben": "Nach-bar",
+  "begriffserklaerung": "Ein Nachbar ist eine Person, die in der Nähe wohnt – zum Beispiel nebenan oder im gleichen Haus.",
+  "beispielsatz": "Unser Nachbar hilft uns manchmal beim Gießen der Blumen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Nach-bar. Das „ch\" klingt wie in „nach\" – denk daran, es mit „ch\" zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nachbar"
+  ],
+  "bild_datei": "Nachbar.webp",
+  "audio_datei": "Nachbar.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "neighbour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voisin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "komşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachbarschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nachbarlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anwohner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nachbar",
+    "plural": "die Nachbarn",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nachbar",
+        "genitiv": "des Nachbarn",
+        "dativ": "dem Nachbarn",
+        "akkusativ": "den Nachbarn"
+      },
+      "plural": {
+        "nominativ": "die Nachbarn",
+        "genitiv": "der Nachbarn",
+        "dativ": "den Nachbarn",
+        "akkusativ": "die Nachbarn"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachbaar",
+    "Nachbahr",
+    "Nachpar",
+    "Nachbard",
+    "Nachbar"
+  ]
+}

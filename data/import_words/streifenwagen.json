@@ -1,0 +1,90 @@
+{
+  "lemma": "Streifenwagen",
+  "wortart": "Nomen",
+  "silben": "Strei-fen-wa-gen",
+  "begriffserklaerung": "Ein Streifenwagen ist ein Auto der Polizei. Es hat blau-weiße Streifen und ein Blaulicht auf dem Dach. Die Polizei fährt damit durch die Stadt, um für Sicherheit zu sorgen.",
+  "beispielsatz": "Als der Unfall passierte, kam sofort ein Streifenwagen der Polizei angefahren.",
+  "rechtschreibstrategie": "„Streifenwagen\" ist ein zusammengesetztes Wort aus „Streifen\" und „Wagen\". Sprich beide Teile einzeln: STREI-FEN + WA-GEN. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Streifen",
+    "Wagen"
+  ],
+  "bild_datei": "Streifenwagen.webp",
+  "audio_datei": "Streifenwagen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Streifenwagen",
+    "plural": "die Streifenwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Streifenwagen",
+        "genitiv": "des Streifenwagens",
+        "dativ": "dem Streifenwagen",
+        "akkusativ": "den Streifenwagen"
+      },
+      "plural": {
+        "nominativ": "die Streifenwagen",
+        "genitiv": "der Streifenwagen",
+        "dativ": "den Streifenwagen",
+        "akkusativ": "die Streifenwagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "police car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture de patrouille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "devriye arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة الشرطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Streifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Polizeiauto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blaulicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sirene"
+    }
+  ],
+  "fehlschreibungen": [
+    "Streiffenwagen",
+    "Streifenwaggen",
+    "Strreifenwagen",
+    "Straifenwagen",
+    "Streifenwagen",
+    "Streifenwagn",
+    "Streifenvagen"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Kauf",
+  "wortart": "Nomen",
+  "silben": "Kauf",
+  "begriffserklaerung": "Ein Kauf ist, wenn man etwas mit Geld bezahlt und es dann bekommt.",
+  "beispielsatz": "Der Kauf des neuen Fahrrads hat Lena sehr gefreut.",
+  "rechtschreibstrategie": "Das Wort „Kauf\" hat ein langes „au\" – sprich es laut und deutlich: KAUF. Kein Dehnungs-h, kein Doppelvokal – das „au\" schreibt man einfach so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf"
+  ],
+  "bild_datei": "Kauf.webp",
+  "audio_datei": "Kauf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "purchase"
+    },
+    {
+      "language_code": "fr",
+      "translation": "achat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "satın alma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شراء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käufer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verkaufen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erwerb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kauf",
+    "plural": "die Käufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kauf",
+        "genitiv": "des Kaufes",
+        "dativ": "dem Kauf",
+        "akkusativ": "den Kauf"
+      },
+      "plural": {
+        "nominativ": "die Käufe",
+        "genitiv": "der Käufe",
+        "dativ": "den Käufen",
+        "akkusativ": "die Käufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kouf",
+    "Kauff",
+    "Kauf​f",
+    "Cauف",
+    "Kawf",
+    "Kauv"
+  ]
+}

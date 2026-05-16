@@ -1,0 +1,84 @@
+{
+  "lemma": "Mutter",
+  "wortart": "Nomen",
+  "silben": "Mut-ter",
+  "begriffserklaerung": "Eine Mutter ist die Frau, die ein Kind geboren hat und es liebt und umsorgt.",
+  "beispielsatz": "Meine Mutter liest mir jeden Abend eine Gute-Nacht-Geschichte vor.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Mut-ter. Nach dem kurzen „u\" hörst du zwei „t\" – deshalb schreibt man „tt\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mutter",
+    "plural": "die Mütter",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mutter",
+        "genitiv": "der Mutter",
+        "dativ": "der Mutter",
+        "akkusativ": "die Mutter"
+      },
+      "plural": {
+        "nominativ": "die Mütter",
+        "genitiv": "der Mütter",
+        "dativ": "den Müttern",
+        "akkusativ": "die Mütter"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Mutter"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mütterlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mutterschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mama"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    }
+  ],
+  "fehlschreibungen": [
+    "Muter",
+    "Mutther",
+    "Muttes"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mother"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أم"
+    }
+  ],
+  "bild_datei": "Mutter.webp",
+  "audio_datei": "Mutter.mp3"
+}

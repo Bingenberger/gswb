@@ -1,0 +1,75 @@
+{
+  "lemma": "Maultier",
+  "wortart": "Nomen",
+  "silben": "Maul-tier",
+  "begriffserklaerung": "Ein Maultier ist ein Tier, das einen Esel als Vater und ein Pferd als Mutter hat. Es ist sehr stark und ausdauernd und wird oft zum Tragen von schweren Lasten benutzt.",
+  "beispielsatz": "Das Maultier trägt die schweren Körbe geduldig den steilen Berg hinauf.",
+  "rechtschreibstrategie": "Das Wort „Maultier\" ist aus zwei Wörtern zusammengesetzt: „Maul\" und „Tier\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Maul",
+    "Tier"
+  ],
+  "bild_datei": "Maultier.webp",
+  "audio_datei": "Maultier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mule"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mulet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بغل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Esel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lasttier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Maultier",
+    "plural": "die Maultiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Maultier",
+        "genitiv": "des Maultiers",
+        "dativ": "dem Maultier",
+        "akkusativ": "das Maultier"
+      },
+      "plural": {
+        "nominativ": "die Maultiere",
+        "genitiv": "der Maultiere",
+        "dativ": "den Maultieren",
+        "akkusativ": "die Maultiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Maultir",
+    "Maultühr",
+    "Maaultier",
+    "Mulltier",
+    "Maultier"
+  ]
+}

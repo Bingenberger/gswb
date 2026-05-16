@@ -1,0 +1,74 @@
+{
+  "lemma": "Löwin",
+  "wortart": "Nomen",
+  "silben": "Lö-win",
+  "begriffserklaerung": "Eine Löwin ist ein weiblicher Löwe. Sie lebt in Afrika und ist eine starke Raubkatze. Löwinnen jagen oft gemeinsam in der Gruppe.",
+  "beispielsatz": "Die Löwin passt liebevoll auf ihre Jungtiere auf.",
+  "rechtschreibstrategie": "Denke an das Wort „Löwe\" – daraus wird „Löwin\". Das ö bleibt gleich, und am Ende hörst du deutlich das „in\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Löwe"
+  ],
+  "bild_datei": "Löwin.webp",
+  "audio_datei": "Löwin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Löwin",
+    "plural": "die Löwinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Löwin",
+        "genitiv": "der Löwin",
+        "dativ": "der Löwin",
+        "akkusativ": "die Löwin"
+      },
+      "plural": {
+        "nominativ": "die Löwinnen",
+        "genitiv": "der Löwinnen",
+        "dativ": "den Löwinnen",
+        "akkusativ": "die Löwinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lioness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lionne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişi aslan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لبؤة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Löwe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepard"
+    }
+  ],
+  "fehlschreibungen": [
+    "Löwin",
+    "Lövin",
+    "Loewin",
+    "Löwinn",
+    "Löwen"
+  ]
+}

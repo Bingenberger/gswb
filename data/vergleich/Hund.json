@@ -1,0 +1,53 @@
+{
+  "lemma": "Hund",
+  "wortart": "Nomen",
+  "silben": "Hund",
+  "beispielsatz": "Der Hund bellt laut, wenn jemand an der Tür klingelt.",
+  "begriffserklaerung": "Ein Hund ist ein Haustier, das bei Menschen lebt. Er ist treu, wedelt mit dem Schwanz und bellt.",
+  "rechtschreibstrategie": "Sprich das Wort in der Mehrzahl: 'Hunde'. Da hörst du das 'd' klar. Deshalb schreibt man 'Hund' mit 'd' am Ende – nicht mit 't'.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hund"
+  ],
+  "bild_datei": "Hund.webp",
+  "audio_datei": "Hund.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "dog" },
+    { "language_code": "fr", "translation": "chien" },
+    { "language_code": "tr", "translation": "köpek" },
+    { "language_code": "ar", "translation": "كلب" }
+  ],
+  "beziehungen": [
+    { "relation_type": "word_family", "target_lemma": "Hündin" },
+    { "relation_type": "word_family", "target_lemma": "Hundehütte" },
+    { "relation_type": "synonym",     "target_lemma": "Vierbeiner" },
+    { "relation_type": "word_field",  "target_lemma": "Katze" },
+    { "relation_type": "word_field",  "target_lemma": "Haustier" }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Hund",
+    "plural": "Hunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hund",
+        "genitiv": "des Hundes",
+        "dativ": "dem Hund",
+        "akkusativ": "den Hund"
+      },
+      "plural": {
+        "nominativ": "die Hunde",
+        "genitiv": "der Hunde",
+        "dativ": "den Hunden",
+        "akkusativ": "die Hunde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hunt",
+    "Hundt",
+    "Huhnd"
+  ]
+}

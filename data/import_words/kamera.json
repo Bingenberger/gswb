@@ -1,0 +1,82 @@
+{
+  "lemma": "Kamera",
+  "wortart": "Nomen",
+  "silben": "Ka-me-ra",
+  "begriffserklaerung": "Eine Kamera ist ein Gerät, mit dem man Fotos oder Videos aufnehmen kann.",
+  "beispielsatz": "Mama hat mit ihrer Kamera viele schöne Fotos vom Ausflug gemacht.",
+  "rechtschreibstrategie": "Sprich alle drei Silben deutlich mit: Ka – me – ra. Das Wort kommt aus dem Lateinischen und schreibt sich genauso, wie man es spricht.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kamera"
+  ],
+  "bild_datei": "Kamera.webp",
+  "audio_datei": "Kamera.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "camera"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appareil photo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kamera"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاميرا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kameramann"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kamerafrau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fotoapparat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kamera",
+    "plural": "die Kameras",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kamera",
+        "genitiv": "der Kamera",
+        "dativ": "der Kamera",
+        "akkusativ": "die Kamera"
+      },
+      "plural": {
+        "nominativ": "die Kameras",
+        "genitiv": "der Kameras",
+        "dativ": "den Kameras",
+        "akkusativ": "die Kameras"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kammera",
+    "Camara",
+    "Camerra",
+    "Kammerra",
+    "Camera"
+  ]
+}

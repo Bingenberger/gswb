@@ -1,0 +1,83 @@
+{
+  "lemma": "Trinkflasche",
+  "wortart": "Nomen",
+  "silben": "Trink-fla-sche",
+  "begriffserklaerung": "Eine Trinkflasche ist ein Behälter aus Plastik, Glas oder Metall, in dem man Wasser oder andere Getränke mitnehmen und daraus trinken kann.",
+  "beispielsatz": "Lea packt ihre Trinkflasche mit Wasser in den Schulrucksack.",
+  "rechtschreibstrategie": "Das Wort „Trinkflasche\" ist aus zwei Wörtern zusammengesetzt: „trinken\" und „Flasche\". Wenn du es in seine Bausteine zerlegst, kannst du es leichter richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "trink",
+    "Flasche"
+  ],
+  "bild_datei": "Trinkflasche.webp",
+  "audio_datei": "Trinkflasche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water bottle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gourde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "matara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارورة الشرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulrucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wasserflasche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Trinkflasche",
+    "plural": "die Trinkflaschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Trinkflasche",
+        "genitiv": "der Trinkflasche",
+        "dativ": "der Trinkflasche",
+        "akkusativ": "die Trinkflasche"
+      },
+      "plural": {
+        "nominativ": "die Trinkflaschen",
+        "genitiv": "der Trinkflaschen",
+        "dativ": "den Trinkflaschen",
+        "akkusativ": "die Trinkflaschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Drinkflasche",
+    "Trinkflasche",
+    "Trinkflacshe",
+    "Trinkflashe",
+    "Trinkflaßche"
+  ]
+}

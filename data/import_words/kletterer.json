@@ -1,0 +1,83 @@
+{
+  "lemma": "Kletterer",
+  "wortart": "Nomen",
+  "silben": "Klet-te-rer",
+  "begriffserklaerung": "Ein Kletterer ist eine Person, die klettert – zum Beispiel auf Bäume, Felsen oder an einer Kletterwand.",
+  "beispielsatz": "Der Kletterer steigt mutig den hohen Felsen hinauf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Klet-te-rer. Nach dem kurzen „e\" hörst du zwei „t\" – deshalb schreibt man „tt\": Kletterer.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "klettern"
+  ],
+  "bild_datei": "Kletterer.webp",
+  "audio_datei": "Kletterer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "climber"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grimpeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tırmanıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متسلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klettern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kletterin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bergsteiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kletterwand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bergsteiger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kletterer",
+    "plural": "die Kletterer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kletterer",
+        "genitiv": "des Kletterers",
+        "dativ": "dem Kletterer",
+        "akkusativ": "den Kletterer"
+      },
+      "plural": {
+        "nominativ": "die Kletterer",
+        "genitiv": "der Kletterer",
+        "dativ": "den Kletterern",
+        "akkusativ": "die Kletterer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kleterer",
+    "Klettrer",
+    "Cletterer",
+    "Kleterrer",
+    "Kletterrer"
+  ]
+}

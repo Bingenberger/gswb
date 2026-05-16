@@ -1,0 +1,83 @@
+{
+  "lemma": "Stromausfall",
+  "wortart": "Nomen",
+  "silben": "Strom-aus-fall",
+  "begriffserklaerung": "Ein Stromausfall bedeutet, dass plötzlich kein Strom mehr fließt. Dann gehen Lichter und Geräte aus.",
+  "beispielsatz": "Wegen des Stromausfalls war es bei uns zu Hause ganz dunkel.",
+  "rechtschreibstrategie": "Das Wort „Stromausfall\" besteht aus drei Bausteinen: „Strom\" + „aus\" + „Fall\". Bei „Fall\" hörst du ein kurzes „a\", deshalb schreibt man zwei „l\" am Ende.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Strom",
+    "Fall"
+  ],
+  "bild_datei": "Stromausfall.webp",
+  "audio_datei": "Stromausfall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stromausfall",
+    "plural": "die Stromausfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stromausfall",
+        "genitiv": "des Stromausfalls",
+        "dativ": "dem Stromausfall",
+        "akkusativ": "den Stromausfall"
+      },
+      "plural": {
+        "nominativ": "die Stromausfälle",
+        "genitiv": "der Stromausfälle",
+        "dativ": "den Stromausfällen",
+        "akkusativ": "die Stromausfälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "power outage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panne de courant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik kesintisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "انقطاع التيار الكهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blackout"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stromausfahll",
+    "Stromausfal",
+    "Stormausfall",
+    "Stromaufall"
+  ]
+}

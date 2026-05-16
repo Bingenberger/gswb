@@ -1,0 +1,78 @@
+{
+  "lemma": "Löffel",
+  "wortart": "Nomen",
+  "silben": "Löf-fel",
+  "begriffserklaerung": "Ein Löffel ist ein Esswerkzeug mit einem langen Stiel und einer runden Vertiefung. Mit ihm isst man Suppe, Joghurt oder Eis.",
+  "beispielsatz": "Mama rührt die heiße Suppe mit einem großen Löffel um.",
+  "rechtschreibstrategie": "Das Wort „Löffel\" hat ein doppeltes l am Ende. Sprich es laut: Löf-fel – du hörst, dass das „f\" kurz gesprochen wird, deshalb folgen zwei l.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Löffel"
+  ],
+  "bild_datei": "Löffel.webp",
+  "audio_datei": "Löffel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuillère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaşık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملعقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "löffeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Suppenkelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Löffel",
+    "plural": "die Löffel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Löffel",
+        "genitiv": "des Löffels",
+        "dativ": "dem Löffel",
+        "akkusativ": "den Löffel"
+      },
+      "plural": {
+        "nominativ": "die Löffel",
+        "genitiv": "der Löffel",
+        "dativ": "den Löffeln",
+        "akkusativ": "die Löffel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Löfel",
+    "Loefel",
+    "Löfell",
+    "Leffel",
+    "Löfle"
+  ]
+}

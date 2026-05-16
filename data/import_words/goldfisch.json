@@ -1,0 +1,84 @@
+{
+  "lemma": "Goldfisch",
+  "wortart": "Nomen",
+  "silben": "Gold-fisch",
+  "begriffserklaerung": "Ein Goldfisch ist ein kleiner, meist orangegelber Fisch, der oft in einem Aquarium oder einem Gartenteich lebt.",
+  "beispielsatz": "Mein Goldfisch schwimmt jeden Tag fröhlich in seinem runden Glas.",
+  "rechtschreibstrategie": "Das Wort „Goldfisch\" besteht aus zwei Teilen: „Gold\" und „Fisch\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fisch",
+    "Gold"
+  ],
+  "bild_datei": "Goldfisch.webp",
+  "audio_datei": "Goldfisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goldfish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poisson rouge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "japon balığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمكة ذهبية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gold"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aquarium"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Goldfisch",
+    "plural": "die Goldfische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Goldfisch",
+        "genitiv": "des Goldfisches",
+        "dativ": "dem Goldfisch",
+        "akkusativ": "den Goldfisch"
+      },
+      "plural": {
+        "nominativ": "die Goldfische",
+        "genitiv": "der Goldfische",
+        "dativ": "den Goldfischen",
+        "akkusativ": "die Goldfische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Goldfich",
+    "Goltfisch",
+    "Goldfis",
+    "Goldfisch",
+    "Goldfish",
+    "Golldfisch"
+  ]
+}

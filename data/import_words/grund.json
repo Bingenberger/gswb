@@ -1,0 +1,79 @@
+{
+  "lemma": "Grund",
+  "wortart": "Nomen",
+  "silben": "Grund",
+  "begriffserklaerung": "Der Grund ist der unterste Teil von etwas, zum Beispiel der Boden eines Sees oder eines Topfes. Grund bedeutet auch: der Anlass oder die Ursache, warum etwas passiert.",
+  "beispielsatz": "Der Stein sank bis auf den Grund des Teiches.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Grund\". Am Ende hörst du „t\", aber du schreibst „d\" – verlängere es zu „Grün-de\", dann hörst du das „d\" deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "grund"
+  ],
+  "bild_datei": "Grund.webp",
+  "audio_datei": "Grund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ground / reason"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fond / raison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zemin / neden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاع / سبب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ursache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ursache"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Grund",
+    "plural": "die Gründe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Grund",
+        "genitiv": "des Grundes",
+        "dativ": "dem Grund",
+        "akkusativ": "den Grund"
+      },
+      "plural": {
+        "nominativ": "die Gründe",
+        "genitiv": "der Gründe",
+        "dativ": "den Gründen",
+        "akkusativ": "die Gründe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grunt",
+    "Grount",
+    "Grrund",
+    "Grund",
+    "Grunde",
+    "Grnt"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "lemma": "schmerzen",
+  "wortart": "Verb",
+  "silben": "schmer-zen",
+  "begriffserklaerung": "Wenn etwas schmerzt, tut es weh. Man spürt dann einen unangenehmen Schmerz an einer Stelle des Körpers.",
+  "beispielsatz": "Mein Knie schmerzt, weil ich hingefallen bin.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: schmer-zen. Am Ende hörst du „zen\" – das schreibst du mit z, nicht mit s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schmerz"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schmerzen",
+    "praesens": {
+      "ich": "schmerze",
+      "du": "schmerzt",
+      "er_sie_es": "schmerzt",
+      "wir": "schmerzen",
+      "ihr": "schmerzt",
+      "sie": "schmerzen"
+    },
+    "perfekt": {
+      "ich": "habe geschmerzt",
+      "du": "hast geschmerzt",
+      "er_sie_es": "hat geschmerzt",
+      "wir": "haben geschmerzt",
+      "ihr": "habt geschmerzt",
+      "sie": "haben geschmerzt"
+    },
+    "praeteritum": {
+      "ich": "schmerzte",
+      "du": "schmerztest",
+      "er_sie_es": "schmerzte",
+      "wir": "schmerzten",
+      "ihr": "schmerztet",
+      "sie": "schmerzten"
+    }
+  },
+  "fehlschreibungen": [
+    "schmerssen",
+    "schmerzen",
+    "sschmerzen",
+    "schmertzen",
+    "shmerzen"
+  ],
+  "bild_datei": "schmerzen.webp",
+  "audio_datei": "schmerzen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hurt / to ache"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire mal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acımak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يؤلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmerzlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wehtun"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "brennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    }
+  ]
+}

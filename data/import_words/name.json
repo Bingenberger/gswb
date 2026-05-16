@@ -1,0 +1,90 @@
+{
+  "lemma": "Name",
+  "wortart": "Nomen",
+  "silben": "Na-me",
+  "begriffserklaerung": "Ein Name ist ein besonderes Wort, mit dem ein Mensch, ein Tier, ein Ort oder eine Sache bezeichnet wird, damit man es erkennen und ansprechen kann.",
+  "beispielsatz": "Mein Name ist Lena und ich gehe in die zweite Klasse.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Na-me\". Nach dem langen „a\" schreibst du nur ein „m\" – kein Doppel-m!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "nenn",
+    "Nam"
+  ],
+  "bild_datei": "Name.webp",
+  "audio_datei": "Name.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Name",
+    "plural": "die Namen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Name",
+        "genitiv": "des Namens",
+        "dativ": "dem Namen",
+        "akkusativ": "den Namen"
+      },
+      "plural": {
+        "nominativ": "die Namen",
+        "genitiv": "der Namen",
+        "dativ": "den Namen",
+        "akkusativ": "die Namen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "name"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nom"
+    },
+    {
+      "language_code": "tr",
+      "translation": "isim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اسم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nennen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vorname"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachname"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bezeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adresse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Person"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausweis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nahme",
+    "Namme",
+    "Naame",
+    "name"
+  ]
+}

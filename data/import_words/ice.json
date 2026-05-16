@@ -1,0 +1,72 @@
+{
+  "lemma": "ICE",
+  "wortart": "Nomen",
+  "silben": "ICE",
+  "begriffserklaerung": "Der ICE ist ein sehr schneller Zug in Deutschland. Die Abkürzung steht für „Intercity-Express\". Er fährt zwischen großen Städten und ist einer der schnellsten Züge in Europa.",
+  "beispielsatz": "Wir fahren mit dem ICE von Hamburg nach München – das dauert nur ein paar Stunden!",
+  "rechtschreibstrategie": "ICE ist eine Abkürzung und wird immer in Großbuchstaben geschrieben. Merke: I–C–E, drei Buchstaben, fertig!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "ICE.webp",
+  "audio_datei": "ICE.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ICE (high-speed train)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "TGV (train à grande vitesse)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ICE (yüksek hızlı tren)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطار فائق السرعة ICE"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiene"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der ICE",
+    "plural": "die ICEs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der ICE",
+        "genitiv": "des ICEs",
+        "dativ": "dem ICE",
+        "akkusativ": "den ICE"
+      },
+      "plural": {
+        "nominativ": "die ICEs",
+        "genitiv": "der ICEs",
+        "dativ": "den ICEs",
+        "akkusativ": "die ICEs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ice",
+    "Iße",
+    "Eice",
+    "IZE",
+    "ICEE"
+  ]
+}

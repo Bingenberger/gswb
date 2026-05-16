@@ -1,0 +1,90 @@
+{
+  "lemma": "Seeräuber",
+  "wortart": "Nomen",
+  "silben": "See-räu-ber",
+  "begriffserklaerung": "Ein Seeräuber ist ein Mensch, der früher auf dem Meer andere Schiffe überfallen und ausgeraubt hat.",
+  "beispielsatz": "Der mutige Seeräuber segelte auf seinem großen Schiff über das weite Meer.",
+  "rechtschreibstrategie": "„Seeräuber\" ist ein zusammengesetztes Wort aus „See\" und „Räuber\". Das lange E in „See\" schreibt man mit zwei E. Das Äu in „Räuber\" kommt von „rauben\" – sprich es laut mit!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Raub"
+  ],
+  "bild_datei": "Seeräuber.webp",
+  "audio_datei": "Seeräuber.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Seeräuber",
+    "plural": "die Seeräuber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Seeräuber",
+        "genitiv": "des Seeräubers",
+        "dativ": "dem Seeräuber",
+        "akkusativ": "den Seeräuber"
+      },
+      "plural": {
+        "nominativ": "die Seeräuber",
+        "genitiv": "der Seeräuber",
+        "dativ": "den Seeräubern",
+        "akkusativ": "die Seeräuber"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pirate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pirate"
+    },
+    {
+      "language_code": "tr",
+      "translation": "korsan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرصان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Räuber"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rauben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pirat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seeräupper",
+    "Seräuber",
+    "Seereiber",
+    "Seeräubber",
+    "Seereuber",
+    "Seräubber"
+  ]
+}

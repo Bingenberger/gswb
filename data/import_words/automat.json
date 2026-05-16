@@ -1,0 +1,82 @@
+{
+  "lemma": "Automat",
+  "wortart": "Nomen",
+  "silben": "Au-to-mat",
+  "begriffserklaerung": "Ein Automat ist eine Maschine, die selbstständig etwas tut oder ausgibt, wenn man Geld einwirft oder einen Knopf drückt – zum Beispiel Süßigkeiten, Getränke oder Fahrkarten.",
+  "beispielsatz": "Am Bahnhof kauft Lena am Automaten eine Flasche Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Au-to-mat. Am Ende hörst du ein kurzes „a\" – danach kommt nur ein „t\", kein Doppelbuchstabe. Denk daran: Au-to-mat!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "automat"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Automat",
+    "plural": "die Automaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Automat",
+        "genitiv": "des Automaten",
+        "dativ": "dem Automaten",
+        "akkusativ": "den Automaten"
+      },
+      "plural": {
+        "nominativ": "die Automaten",
+        "genitiv": "der Automaten",
+        "dativ": "den Automaten",
+        "akkusativ": "die Automaten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Automath",
+    "Authomat",
+    "Aotomat",
+    "Autommat",
+    "Outhomat"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vending machine / automat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distributeur automatique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otomat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة بيع تلقائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "automatisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Automation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrkartenautomat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verkaufsautomat"
+    }
+  ],
+  "bild_datei": "Automat.webp",
+  "audio_datei": "Automat.mp3"
+}

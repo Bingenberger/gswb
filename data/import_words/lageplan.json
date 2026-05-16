@@ -1,0 +1,83 @@
+{
+  "lemma": "Lageplan",
+  "wortart": "Nomen",
+  "silben": "La-ge-plan",
+  "begriffserklaerung": "Ein Lageplan ist eine Zeichnung, die zeigt, wo etwas liegt – zum Beispiel wo ein Gebäude oder ein Spielplatz auf einem Grundstück steht.",
+  "beispielsatz": "Auf dem Lageplan können wir genau sehen, wo die Schule und der Pausenhof sind.",
+  "rechtschreibstrategie": "„Lageplan\" ist ein zusammengesetztes Wort aus „Lage\" und „Plan\". Schreibe beide Teile einfach hintereinander: Lage + Plan = Lageplan.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lage",
+    "Plan"
+  ],
+  "bild_datei": "Lageplan.webp",
+  "audio_datei": "Lageplan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "site plan"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plan de situation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vaziyet planı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخطط الموقع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grundriss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übersichtsplan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lageplan",
+    "plural": "die Lagepläne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lageplan",
+        "genitiv": "des Lageplans",
+        "dativ": "dem Lageplan",
+        "akkusativ": "den Lageplan"
+      },
+      "plural": {
+        "nominativ": "die Lagepläne",
+        "genitiv": "der Lagepläne",
+        "dativ": "den Lageplänen",
+        "akkusativ": "die Lagepläne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lageplan",
+    "Laageplan",
+    "Lagepann",
+    "Lajplan",
+    "Lage-Plan"
+  ]
+}

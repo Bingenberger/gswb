@@ -1,0 +1,96 @@
+{
+  "lemma": "Klang",
+  "wortart": "Nomen",
+  "silben": "Klang",
+  "begriffserklaerung": "Ein Klang ist ein Ton oder ein Geräusch, das angenehm klingt – zum Beispiel wenn jemand eine Glocke läutet oder ein Instrument spielt.",
+  "beispielsatz": "Der Klang der Geige war so schön, dass alle still wurden.",
+  "rechtschreibstrategie": "Das Wort „Klang\" hat nur eine Silbe. Sprich es laut: Klang. Du hörst am Ende ein „ng\" – das schreibst du auch genau so: ng.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kling",
+    "klang",
+    "klungen"
+  ],
+  "bild_datei": "Klang.webp",
+  "audio_datei": "Klang.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sound"
+    },
+    {
+      "language_code": "fr",
+      "translation": "son"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klingen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klänge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klangfarbe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ton"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Laut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Melodie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klang",
+    "plural": "die Klänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klang",
+        "genitiv": "des Klanges",
+        "dativ": "dem Klang",
+        "akkusativ": "den Klang"
+      },
+      "plural": {
+        "nominativ": "die Klänge",
+        "genitiv": "der Klänge",
+        "dativ": "den Klängen",
+        "akkusativ": "die Klänge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Clang",
+    "Klangh",
+    "Klank",
+    "Khlang",
+    "Klangg"
+  ]
+}

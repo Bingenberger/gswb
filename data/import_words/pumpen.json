@@ -1,0 +1,91 @@
+{
+  "lemma": "pumpen",
+  "wortart": "Verb",
+  "silben": "pum-pen",
+  "begriffserklaerung": "Pumpen bedeutet, Flüssigkeit oder Luft mit einer Pumpe von einem Ort zu einem anderen zu befördern.",
+  "beispielsatz": "Papa pumpt den platten Fahrradreifen wieder auf.",
+  "rechtschreibstrategie": "Höre das doppelte „m\" in „pum-men\"? Nein – nur ein „m\"! Aber das „p\" am Ende der ersten Silbe verrät uns: der Vokal „u\" ist kurz. Schreibe „pumpen\" mit nur einem „m\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "pump"
+  ],
+  "bild_datei": "pumpen.webp",
+  "audio_datei": "pumpen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pump"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pomper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pompalamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يضخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pumpe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufpumpen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "füllen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufpumpen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "pumpen",
+    "praesens": {
+      "ich": "pumpe",
+      "du": "pumpst",
+      "er_sie_es": "pumpt",
+      "wir": "pumpen",
+      "ihr": "pumpt",
+      "sie": "pumpen"
+    },
+    "perfekt": {
+      "ich": "habe gepumpt",
+      "du": "hast gepumpt",
+      "er_sie_es": "hat gepumpt",
+      "wir": "haben gepumpt",
+      "ihr": "habt gepumpt",
+      "sie": "haben gepumpt"
+    },
+    "praeteritum": {
+      "ich": "pumpte",
+      "du": "pumptest",
+      "er_sie_es": "pumpte",
+      "wir": "pumpten",
+      "ihr": "pumptet",
+      "sie": "pumpten"
+    }
+  },
+  "fehlschreibungen": [
+    "pumppen",
+    "bumpem",
+    "pumpen",
+    "pummpen",
+    "pumpfen",
+    "pumben"
+  ]
+}

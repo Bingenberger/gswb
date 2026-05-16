@@ -1,0 +1,72 @@
+{
+  "lemma": "Adjektiv",
+  "wortart": "Nomen",
+  "silben": "Ad-jek-tiv",
+  "begriffserklaerung": "Ein Adjektiv ist ein Wort, das beschreibt, wie jemand oder etwas ist – zum Beispiel groß, klein, blau oder schnell.",
+  "beispielsatz": "In dem Satz „Der große Hund bellt laut\" sind „große\" und „laut\" Adjektive.",
+  "rechtschreibstrategie": "Schreibe das Adjektiv mit „j\" nach dem „d\": Ad-jek-tiv. Sprich alle drei Silben deutlich, dann hörst du jeden Buchstaben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Adjektiv.webp",
+  "audio_datei": "Adjektiv.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "adjective"
+    },
+    {
+      "language_code": "fr",
+      "translation": "adjectif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıfat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الصفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nomen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wortart"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Adjektiv",
+    "plural": "die Adjektive",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Adjektiv",
+        "genitiv": "des Adjektivs",
+        "dativ": "dem Adjektiv",
+        "akkusativ": "das Adjektiv"
+      },
+      "plural": {
+        "nominativ": "die Adjektive",
+        "genitiv": "der Adjektive",
+        "dativ": "den Adjektiven",
+        "akkusativ": "die Adjektive"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Adjektief",
+    "Adjektif",
+    "Agjektiv",
+    "Adjectiv",
+    "Adjektiev"
+  ]
+}

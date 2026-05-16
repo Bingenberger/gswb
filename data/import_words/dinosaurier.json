@@ -1,0 +1,73 @@
+{
+  "lemma": "Dinosaurier",
+  "wortart": "Nomen",
+  "silben": "Di-no-sau-ri-er",
+  "begriffserklaerung": "Ein Dinosaurier ist ein sehr großes Tier, das vor sehr langer Zeit auf der Erde gelebt hat. Heute gibt es keine Dinosaurier mehr.",
+  "beispielsatz": "Der Dinosaurier im Museum ist riesengroß!",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Di-no-sau-ri-er. Merke dir das „au\" in der Mitte – es klingt wie „au\" beim Erschrecken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Dinosaurier.webp",
+  "audio_datei": "Dinosaurier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dinosaur"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dinosaure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dinozor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ديناصور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urzeitmensch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fossil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saurier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dinosaurier",
+    "plural": "die Dinosaurier",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dinosaurier",
+        "genitiv": "des Dinosauriers",
+        "dativ": "dem Dinosaurier",
+        "akkusativ": "den Dinosaurier"
+      },
+      "plural": {
+        "nominativ": "die Dinosaurier",
+        "genitiv": "der Dinosaurier",
+        "dativ": "den Dinosauriern",
+        "akkusativ": "die Dinosaurier"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dinausaurier",
+    "Dinosaurir",
+    "Dinosarier",
+    "Dinosourier",
+    "Dinasaurier",
+    "Dinosauier"
+  ]
+}

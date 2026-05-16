@@ -1,0 +1,85 @@
+{
+  "lemma": "Bügelbrett",
+  "wortart": "Nomen",
+  "silben": "Bü-gel-brett",
+  "begriffserklaerung": "Ein Bügelbrett ist ein schmales, langes Brett mit einem Gestell. Man legt Kleidung darauf und bügelt sie glatt.",
+  "beispielsatz": "Mama stellt das Bügelbrett auf und bügelt Papas Hemd glatt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Bügel\" und „Brett\". Brett schreibt man mit Doppel-t, weil das e kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Bügel",
+    "Brett"
+  ],
+  "bild_datei": "Bügelbrett.webp",
+  "audio_datei": "Bügelbrett.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bügelbrett",
+    "plural": "die Bügelbretter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bügelbrett",
+        "genitiv": "des Bügelbretts",
+        "dativ": "dem Bügelbrett",
+        "akkusativ": "das Bügelbrett"
+      },
+      "plural": {
+        "nominativ": "die Bügelbretter",
+        "genitiv": "der Bügelbretter",
+        "dativ": "den Bügelbrettern",
+        "akkusativ": "die Bügelbretter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ironing board"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planche à repasser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ütü masası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح الكي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bügel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bügeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bügeleisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wäsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleidung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bügelbreth",
+    "Bügelbrät",
+    "Bügelbred",
+    "Bigelbrett",
+    "Büggelbrett",
+    "Bügelbreet"
+  ]
+}

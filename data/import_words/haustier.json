@@ -1,0 +1,84 @@
+{
+  "lemma": "Haustier",
+  "wortart": "Nomen",
+  "silben": "Haus-tier",
+  "begriffserklaerung": "Ein Haustier ist ein Tier, das bei Menschen zu Hause lebt und von ihnen gepflegt und geliebt wird.",
+  "beispielsatz": "Unser Haustier ist eine kleine Katze, die gerne auf dem Sofa schläft.",
+  "rechtschreibstrategie": "„Haustier\" ist ein zusammengesetztes Wort aus „Haus\" und „Tier\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Tier"
+  ],
+  "bild_datei": "Haustier.webp",
+  "audio_datei": "Haustier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animal domestique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "evcil hayvan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان أليف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tierpflege"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Haustier",
+    "plural": "die Haustiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Haustier",
+        "genitiv": "des Haustieres",
+        "dativ": "dem Haustier",
+        "akkusativ": "das Haustier"
+      },
+      "plural": {
+        "nominativ": "die Haustiere",
+        "genitiv": "der Haustiere",
+        "dativ": "den Haustieren",
+        "akkusativ": "die Haustiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haustier",
+    "Haustirr",
+    "Haustirre",
+    "Haußtier",
+    "Haustir",
+    "Hausstier"
+  ]
+}

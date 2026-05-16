@@ -1,0 +1,87 @@
+{
+  "lemma": "Eingabe",
+  "wortart": "Nomen",
+  "silben": "Ein-ga-be",
+  "begriffserklaerung": "Eine Eingabe ist alles, was du in einen Computer oder ein Gerät eintippst oder eingibst, zum Beispiel deinen Namen oder eine Zahl.",
+  "beispielsatz": "Tina macht eine Eingabe auf der Tastatur und schreibt ihren Namen ins Suchfeld.",
+  "rechtschreibstrategie": "Das Wort „Eingabe\" besteht aus zwei Teilen: „ein\" und „Gabe\". Sprich beide Teile deutlich: EIN-GA-BE. Das „g\" hörst du beim Sprechen klar.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "geben",
+    "Gabe"
+  ],
+  "bild_datei": "Eingabe.webp",
+  "audio_datei": "Eingabe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "input"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saisie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "giriş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إدخال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gabe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eingeben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eintrag"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eingabe",
+    "plural": "die Eingaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eingabe",
+        "genitiv": "der Eingabe",
+        "dativ": "der Eingabe",
+        "akkusativ": "die Eingabe"
+      },
+      "plural": {
+        "nominativ": "die Eingaben",
+        "genitiv": "der Eingaben",
+        "dativ": "den Eingaben",
+        "akkusativ": "die Eingaben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einggabe",
+    "Eingahbe",
+    "Eingabbe",
+    "Eyngabe",
+    "Eingab"
+  ]
+}

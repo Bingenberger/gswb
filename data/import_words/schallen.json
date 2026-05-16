@@ -1,0 +1,98 @@
+{
+  "lemma": "schallen",
+  "wortart": "Verb",
+  "silben": "schal-len",
+  "begriffserklaerung": "Wenn etwas schallt, ist es sehr laut zu hören und klingt weit weg noch nach – zum Beispiel eine Glocke oder ein Ruf.",
+  "beispielsatz": "Die Glocken schallen laut über das ganze Dorf.",
+  "rechtschreibstrategie": "Höre genau hin: Das „a\" klingt kurz. Nach einem kurzen Vokal verdoppelst du den Konsonanten – deshalb schreibt man „ll\": schal-len.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schall"
+  ],
+  "bild_datei": "schallen.webp",
+  "audio_datei": "schallen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schallen",
+    "praesens": {
+      "ich": "schalle",
+      "du": "schallst",
+      "er_sie_es": "schallt",
+      "wir": "schallen",
+      "ihr": "schallt",
+      "sie": "schallen"
+    },
+    "perfekt": {
+      "ich": "habe geschallt",
+      "du": "hast geschallt",
+      "er_sie_es": "hat geschallt",
+      "wir": "haben geschallt",
+      "ihr": "habt geschallt",
+      "sie": "haben geschallt"
+    },
+    "praeteritum": {
+      "ich": "schallte",
+      "du": "schalltest",
+      "er_sie_es": "schallte",
+      "wir": "schallten",
+      "ihr": "schalltet",
+      "sie": "schallten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to resound / to echo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "résonner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yankılanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يدوي / يرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erschallen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hallen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "tönen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "klingen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dröhnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "läuten"
+    }
+  ],
+  "fehlschreibungen": [
+    "schalen",
+    "schahlen",
+    "schalln",
+    "schallen",
+    "sschallen"
+  ]
+}

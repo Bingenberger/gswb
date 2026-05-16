@@ -1,0 +1,82 @@
+{
+  "lemma": "Musik",
+  "wortart": "Nomen",
+  "silben": "Mu-sik",
+  "begriffserklaerung": "Musik sind Töne und Klänge, die zusammen schön klingen. Man kann Musik singen oder mit Instrumenten spielen.",
+  "beispielsatz": "In der Schule haben wir Musik und singen gemeinsam ein Lied.",
+  "rechtschreibstrategie": "Das Wort „Musik\" klingt am Ende wie „zik\", wird aber mit „sik\" geschrieben. Merke dir: Mu-sik – sprich es langsam in Silben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "musik"
+  ],
+  "bild_datei": "Musik.webp",
+  "audio_datei": "Musik.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Musik",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Musik",
+        "genitiv": "der Musik",
+        "dativ": "der Musik",
+        "akkusativ": "die Musik"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "music"
+    },
+    {
+      "language_code": "fr",
+      "translation": "musique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müzik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موسيقى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "musikalisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Musiker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Instrument"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rhythmus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mussik",
+    "Muzik",
+    "Musick",
+    "Mussick",
+    "Musiik"
+  ]
+}

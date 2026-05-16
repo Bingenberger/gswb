@@ -1,0 +1,86 @@
+{
+  "lemma": "Vorfahrtstraße",
+  "wortart": "Nomen",
+  "silben": "Vor-fahrts-stra-ße",
+  "begriffserklaerung": "Eine Vorfahrtstraße ist eine Straße, auf der Autos und andere Fahrzeuge Vorfahrt haben. Das bedeutet: Fahrzeuge auf dieser Straße dürfen zuerst fahren, und Fahrzeuge von Nebenstraßen müssen warten.",
+  "beispielsatz": "Auf einer Vorfahrtstraße muss man besonders aufmerksam sein, weil man immer Vorfahrt hat.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Vor\" + „fahrt\" + „straße\". Denke an das Dehnungs-h in „Fahrt\" und das ß am Ende von „Straße\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "fahrt",
+    "Straße"
+  ],
+  "bild_datei": "Vorfahrtstraße.webp",
+  "audio_datei": "Vorfahrtstraße.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "priority road"
+    },
+    {
+      "language_code": "fr",
+      "translation": "route prioritaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öncelikli yol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طريق ذو أولوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahrt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreuzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nebenstraße"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Vorfahrtstraße",
+    "plural": "die Vorfahrtstraßen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Vorfahrtstraße",
+        "genitiv": "der Vorfahrtstraße",
+        "dativ": "der Vorfahrtstraße",
+        "akkusativ": "die Vorfahrtstraße"
+      },
+      "plural": {
+        "nominativ": "die Vorfahrtstraßen",
+        "genitiv": "der Vorfahrtstraßen",
+        "dativ": "den Vorfahrtstraßen",
+        "akkusativ": "die Vorfahrtstraßen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vorfahrtsstrasse",
+    "Vorfahrstraße",
+    "Vorfartstraße",
+    "Vorfahrtstrasse",
+    "Vorfahrtsstraße",
+    "Vorfaartstraße"
+  ]
+}

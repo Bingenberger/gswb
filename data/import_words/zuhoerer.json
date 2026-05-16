@@ -1,0 +1,89 @@
+{
+  "lemma": "Zuhörer",
+  "wortart": "Nomen",
+  "silben": "Zu-hö-rer",
+  "begriffserklaerung": "Ein Zuhörer ist jemand, der aufmerksam zuhört, wenn jemand anderes spricht, singt oder vorliest.",
+  "beispielsatz": "Die Kinder waren aufmerksame Zuhörer, als die Lehrerin die Geschichte vorlas.",
+  "rechtschreibstrategie": "Das Wort „Zuhörer\" ist zusammengesetzt aus „zu\" und „Hörer\". Schreibe das ö mit zwei Punkten – denke an das Verb „hören\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "hör"
+  ],
+  "bild_datei": "Zuhörer.webp",
+  "audio_datei": "Zuhörer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zuhörer",
+    "plural": "die Zuhörer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zuhörer",
+        "genitiv": "des Zuhörers",
+        "dativ": "dem Zuhörer",
+        "akkusativ": "den Zuhörer"
+      },
+      "plural": {
+        "nominativ": "die Zuhörer",
+        "genitiv": "der Zuhörer",
+        "dativ": "den Zuhörern",
+        "akkusativ": "die Zuhörer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "listener"
+    },
+    {
+      "language_code": "fr",
+      "translation": "auditeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dinleyici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zuhörerin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zuhören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Publikum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprecher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zuschaue"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zuhhörer",
+    "Zuhöhre",
+    "Zuhörer",
+    "Zuhorer",
+    "Zuhoerer",
+    "Tzuhörer",
+    "Suhörer"
+  ]
+}

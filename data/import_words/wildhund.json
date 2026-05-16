@@ -1,0 +1,84 @@
+{
+  "lemma": "Wildhund",
+  "wortart": "Nomen",
+  "silben": "Wild-hund",
+  "begriffserklaerung": "Ein Wildhund ist ein Hund, der in der freien Natur lebt und nicht bei Menschen wohnt. Wildhunde leben in Gruppen und jagen gemeinsam.",
+  "beispielsatz": "Der Wildhund lebt mit seiner Gruppe in der afrikanischen Savanne.",
+  "rechtschreibstrategie": "Das Wort „Wildhund\" ist ein Baustein­wort aus „wild\" und „Hund\". Schreibe einfach beide Wörter zusammen: wild + Hund = Wildhund.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wild",
+    "Hund"
+  ],
+  "bild_datei": "Wildhund.webp",
+  "audio_datei": "Wildhund.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wildhund",
+    "plural": "die Wildhunde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wildhund",
+        "genitiv": "des Wildhundes",
+        "dativ": "dem Wildhund",
+        "akkusativ": "den Wildhund"
+      },
+      "plural": {
+        "nominativ": "die Wildhunde",
+        "genitiv": "der Wildhunde",
+        "dativ": "den Wildhunden",
+        "akkusativ": "die Wildhunde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wild dog"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chien sauvage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaban köpeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كلب بري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kojote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jackal"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wilthund",
+    "Wildhundt",
+    "Wiltthund",
+    "Villdhund",
+    "Wildhunnd"
+  ]
+}

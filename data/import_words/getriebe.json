@@ -1,0 +1,83 @@
+{
+  "lemma": "Getriebe",
+  "wortart": "Nomen",
+  "silben": "Ge-trie-be",
+  "begriffserklaerung": "Ein Getriebe ist ein Teil in Maschinen oder Fahrzeugen. Es überträgt Kraft und sorgt dafür, dass sich Räder oder Teile drehen.",
+  "beispielsatz": "Das Auto hat ein Getriebe, das die Kraft des Motors auf die Räder überträgt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ge-trie-be. Das „ie\" in der Mitte klingt lang – merke dir: Bei diesem Wort schreibt man „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "treib"
+  ],
+  "bild_datei": "Getriebe.webp",
+  "audio_datei": "Getriebe.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Getriebe",
+    "plural": "die Getriebe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Getriebe",
+        "genitiv": "des Getriebes",
+        "dativ": "dem Getriebe",
+        "akkusativ": "das Getriebe"
+      },
+      "plural": {
+        "nominativ": "die Getriebe",
+        "genitiv": "der Getriebe",
+        "dativ": "den Getrieben",
+        "akkusativ": "die Getriebe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gearbox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "transmission"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vites kutusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ناقل الحركة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "treiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Antrieb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnrad"
+    }
+  ],
+  "fehlschreibungen": [
+    "Getribe",
+    "Getreibe",
+    "Getriebbe",
+    "Getriepbe",
+    "Getriepe"
+  ]
+}

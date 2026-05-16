@@ -1,0 +1,81 @@
+{
+  "lemma": "Krähe",
+  "wortart": "Nomen",
+  "silben": "Krä-he",
+  "begriffserklaerung": "Eine Krähe ist ein großer, schwarzer Vogel mit einem kräftigen Schnabel. Krähen sind sehr klug und leben oft in der Nähe von Menschen.",
+  "beispielsatz": "Die Krähe sitzt laut krächzend auf dem Zaun.",
+  "rechtschreibstrategie": "Bei „Krähe\" hörst du am Ende ein langes „ä\". Das „ä\" schreibst du mit Umlautzeichen, und das stumme „h\" am Ende macht den Vokal lang – denk daran: Krä-he!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Krähe",
+    "krähen"
+  ],
+  "bild_datei": "Krähe.webp",
+  "audio_datei": "Krähe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corneille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غراب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krähen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elster"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Krähe",
+    "plural": "die Krähen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Krähe",
+        "genitiv": "der Krähe",
+        "dativ": "der Krähe",
+        "akkusativ": "die Krähe"
+      },
+      "plural": {
+        "nominativ": "die Krähen",
+        "genitiv": "der Krähen",
+        "dativ": "den Krähen",
+        "akkusativ": "die Krähen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krae",
+    "Krähe",
+    "Kraehe",
+    "Kreähe",
+    "Kräe",
+    "Krehe",
+    "Kräehe"
+  ]
+}

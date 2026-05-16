@@ -1,0 +1,85 @@
+{
+  "lemma": "Bürgermeister",
+  "wortart": "Nomen",
+  "silben": "Bür-ger-meis-ter",
+  "begriffserklaerung": "Der Bürgermeister ist der Chef einer Stadt oder Gemeinde. Er kümmert sich darum, dass es den Menschen dort gut geht, und leitet wichtige Entscheidungen.",
+  "beispielsatz": "Der Bürgermeister eröffnet heute das neue Schwimmbad in unserer Stadt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Bürger\" und „Meister\". Schreibe beide Teile einfach zusammen – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bürger",
+    "Meister"
+  ],
+  "bild_datei": "Bürgermeister.webp",
+  "audio_datei": "Bürgermeister.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bürgermeister",
+    "plural": "die Bürgermeister",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bürgermeister",
+        "genitiv": "des Bürgermeisters",
+        "dativ": "dem Bürgermeister",
+        "akkusativ": "den Bürgermeister"
+      },
+      "plural": {
+        "nominativ": "die Bürgermeister",
+        "genitiv": "der Bürgermeister",
+        "dativ": "den Bürgermeistern",
+        "akkusativ": "die Bürgermeister"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mayor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belediye başkanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمدة البلدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bürger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rathaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stadtoberhaupt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bürgermeiser",
+    "Bürgermeißter",
+    "Bürgermaister",
+    "Bürgermeister",
+    "Bürgermeisters",
+    "Biergermeister",
+    "Bürgermeiter"
+  ]
+}

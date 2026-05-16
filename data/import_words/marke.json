@@ -1,0 +1,82 @@
+{
+  "lemma": "Marke",
+  "wortart": "Nomen",
+  "silben": "Mar-ke",
+  "begriffserklaerung": "Eine Marke ist ein kleines Zeichen oder Aufkleber, der zeigt, woher etwas kommt oder wem es gehört. Zum Beispiel ist eine Briefmarke ein Aufkleber auf dem Brief.",
+  "beispielsatz": "Ich klebe eine Marke auf den Brief, bevor ich ihn in den Briefkasten werfe.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: Mar-ke. Nach dem „r\" kommt ein kurzes „a\", dann ein einfaches „k\" – kein Doppel-k, weil das „a\" betont und kurz klingt, aber das „k\" zur nächsten Silbe gehört.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "mark"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Marke",
+    "plural": "die Marken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Marke",
+        "genitiv": "der Marke",
+        "dativ": "der Marke",
+        "akkusativ": "die Marke"
+      },
+      "plural": {
+        "nominativ": "die Marken",
+        "genitiv": "der Marken",
+        "dativ": "den Marken",
+        "akkusativ": "die Marken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Marcke",
+    "Marge",
+    "Marck",
+    "Mahrke",
+    "Markke"
+  ],
+  "bild_datei": "Marke.webp",
+  "audio_datei": "Marke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stamp / brand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "timbre / marque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pul / marka"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طابع / علامة تجارية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "markieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Briefmarke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufkleber"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichen"
+    }
+  ]
+}

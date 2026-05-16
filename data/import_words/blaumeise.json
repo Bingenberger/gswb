@@ -1,0 +1,79 @@
+{
+  "lemma": "Blaumeise",
+  "wortart": "Nomen",
+  "silben": "Blau-mei-se",
+  "begriffserklaerung": "Die Blaumeise ist ein kleiner, bunter Singvogel. Sie hat einen blauen Kopf und gelbe Brust. Man sieht sie oft im Garten und im Wald.",
+  "beispielsatz": "Die Blaumeise sitzt auf dem Ast und singt ein hübsches Lied.",
+  "rechtschreibstrategie": "Das Wort „Blaumeise\" ist aus zwei Teilen zusammengebaut: „blau\" und „Meise\". Sprich beide Teile einzeln, dann kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Meise",
+    "blau"
+  ],
+  "bild_datei": "Blaumeise.webp",
+  "audio_datei": "Blaumeise.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Blaumeise",
+    "plural": "die Blaumeisen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Blaumeise",
+        "genitiv": "der Blaumeise",
+        "dativ": "der Blaumeise",
+        "akkusativ": "die Blaumeise"
+      },
+      "plural": {
+        "nominativ": "die Blaumeisen",
+        "genitiv": "der Blaumeisen",
+        "dativ": "den Blaumeisen",
+        "akkusativ": "die Blaumeisen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blue tit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mésange bleue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mavi baştankara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القرقف الأزرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kohlmeise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Singvogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blaomeise",
+    "Blaumeißse",
+    "Blaumeisse",
+    "Blaumaise",
+    "Blaumeize"
+  ]
+}

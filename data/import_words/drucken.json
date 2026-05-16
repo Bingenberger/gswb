@@ -1,0 +1,99 @@
+{
+  "lemma": "drucken",
+  "wortart": "Verb",
+  "silben": "dru-cken",
+  "begriffserklaerung": "Wenn man etwas druckt, überträgt man Buchstaben, Bilder oder Texte mit einem Drucker oder einer Druckmaschine auf Papier.",
+  "beispielsatz": "Mama druckt das Bild aus dem Computer auf Papier aus.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt ein Doppel-k – aber weil „ck\" zusammen das Doppel-k ersetzt, schreibt man „ck\": dru-cken.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "druck"
+  ],
+  "bild_datei": "drucken.webp",
+  "audio_datei": "drucken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to print"
+    },
+    {
+      "language_code": "fr",
+      "translation": "imprimer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "basmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يطبع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Druck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Drucker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausdruck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausdrucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drucker"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "drucken",
+    "praesens": {
+      "ich": "drucke",
+      "du": "druckst",
+      "er_sie_es": "druckt",
+      "wir": "drucken",
+      "ihr": "druckt",
+      "sie": "drucken"
+    },
+    "perfekt": {
+      "ich": "habe gedruckt",
+      "du": "hast gedruckt",
+      "er_sie_es": "hat gedruckt",
+      "wir": "haben gedruckt",
+      "ihr": "habt gedruckt",
+      "sie": "haben gedruckt"
+    },
+    "praeteritum": {
+      "ich": "druckte",
+      "du": "drucktest",
+      "er_sie_es": "druckte",
+      "wir": "druckten",
+      "ihr": "drucktet",
+      "sie": "druckten"
+    }
+  },
+  "fehlschreibungen": [
+    "drükken",
+    "drücken",
+    "drugken",
+    "trucken",
+    "drucen",
+    "drukken"
+  ]
+}

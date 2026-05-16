@@ -1,0 +1,75 @@
+{
+  "lemma": "Frettchen",
+  "wortart": "Nomen",
+  "silben": "Frett-chen",
+  "begriffserklaerung": "Ein Frettchen ist ein kleines, schlankes Tier mit weichem Fell, das oft als Haustier gehalten wird. Es gehört zur Familie der Marder.",
+  "beispielsatz": "Das Frettchen schlüpft neugierig durch jeden Tunnel in seinem Gehege.",
+  "rechtschreibstrategie": "Schreibe „Frettchen\" mit Doppel-t, denn nach dem kurzen „e\" verdoppeln wir den Buchstaben t: Frett-chen.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Frett"
+  ],
+  "bild_datei": "Frettchen.webp",
+  "audio_datei": "Frettchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Frettchen",
+    "plural": "die Frettchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Frettchen",
+        "genitiv": "des Frettchens",
+        "dativ": "dem Frettchen",
+        "akkusativ": "das Frettchen"
+      },
+      "plural": {
+        "nominativ": "die Frettchen",
+        "genitiv": "der Frettchen",
+        "dativ": "den Frettchen",
+        "akkusativ": "die Frettchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ferret"
+    },
+    {
+      "language_code": "fr",
+      "translation": "furet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gelincik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابن عرس المستأنس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaninchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marder"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fretchen",
+    "Fretschen",
+    "Frettchen",
+    "Freттchen",
+    "Frättchen",
+    "Fretthen"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Lichterkette",
+  "wortart": "Nomen",
+  "silben": "Lich-ter-ket-te",
+  "begriffserklaerung": "Eine Lichterkette ist eine lange Schnur mit vielen kleinen bunten oder weißen Lämpchen. Sie leuchtet und wird oft zur Dekoration aufgehängt, zum Beispiel am Weihnachtsbaum oder im Zimmer.",
+  "beispielsatz": "Wir hängen die bunte Lichterkette an den Weihnachtsbaum.",
+  "rechtschreibstrategie": "Das Wort „Lichterkette\" ist aus zwei Wörtern zusammengebaut: „Lichter\" und „Kette\". Schreib beide Teile so, wie du sie kennst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Licht",
+    "Kette"
+  ],
+  "bild_datei": "Lichterkette.webp",
+  "audio_datei": "Lichterkette.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lichterkette",
+    "plural": "die Lichterketten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lichterkette",
+        "genitiv": "der Lichterkette",
+        "dativ": "der Lichterkette",
+        "akkusativ": "die Lichterkette"
+      },
+      "plural": {
+        "nominativ": "die Lichterketten",
+        "genitiv": "der Lichterketten",
+        "dativ": "den Lichterketten",
+        "akkusativ": "die Lichterketten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fairy lights / string of lights"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guirlande lumineuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ışık zinciri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلسلة مصابيح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kette"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weihnachtsbaumschmuck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dekoration"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lichterkete",
+    "Lichtterkette",
+    "Lichtärkette",
+    "Licherkette",
+    "Lichterkätte"
+  ]
+}

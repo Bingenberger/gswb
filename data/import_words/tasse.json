@@ -1,0 +1,78 @@
+{
+  "lemma": "Tasse",
+  "wortart": "Nomen",
+  "silben": "Tas-se",
+  "begriffserklaerung": "Eine Tasse ist ein kleines Trinkgefäß mit einem Henkel. Man trinkt daraus zum Beispiel Tee, Kakao oder Milch.",
+  "beispielsatz": "Mama trinkt morgens eine heiße Tasse Tee.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Tas-se. Nach dem kurzen „a\" hörst du ein doppeltes „s\" – deshalb schreibt man „ss\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Tasse"
+  ],
+  "bild_datei": "Tasse.webp",
+  "audio_datei": "Tasse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cup"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tasse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fincan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فنجان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Untertasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teller"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tasse",
+    "plural": "die Tassen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tasse",
+        "genitiv": "der Tasse",
+        "dativ": "der Tasse",
+        "akkusativ": "die Tasse"
+      },
+      "plural": {
+        "nominativ": "die Tassen",
+        "genitiv": "der Tassen",
+        "dativ": "den Tassen",
+        "akkusativ": "die Tassen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tase",
+    "Taße",
+    "Tasse",
+    "Tassse",
+    "Taase"
+  ]
+}

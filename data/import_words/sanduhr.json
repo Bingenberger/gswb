@@ -1,0 +1,84 @@
+{
+  "lemma": "Sanduhr",
+  "wortart": "Nomen",
+  "silben": "Sand-uhr",
+  "begriffserklaerung": "Eine Sanduhr ist ein Gerät zum Zeitmessen. Sie hat zwei Glaskolben, die durch eine enge Stelle verbunden sind. Feiner Sand rieselt von oben nach unten und misst so eine bestimmte Zeit.",
+  "beispielsatz": "Wenn der Sand in der Sanduhr ganz nach unten gerieselt ist, ist die Zeit um.",
+  "rechtschreibstrategie": "Das Wort „Sanduhr\" ist zusammengesetzt aus „Sand\" und „Uhr\". Du kannst dir die Schreibung leicht merken, indem du beide Teile einzeln sprichst: Sand + Uhr.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sand",
+    "Uhr"
+  ],
+  "bild_datei": "Sanduhr.webp",
+  "audio_datei": "Sanduhr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hourglass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sablier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kum saati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة رملية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoppuhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhrzeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sanduhr",
+    "plural": "die Sanduhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sanduhr",
+        "genitiv": "der Sanduhr",
+        "dativ": "der Sanduhr",
+        "akkusativ": "die Sanduhr"
+      },
+      "plural": {
+        "nominativ": "die Sanduhren",
+        "genitiv": "der Sanduhren",
+        "dativ": "den Sanduhren",
+        "akkusativ": "die Sanduhren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zanduhr",
+    "Sandur",
+    "Santuhr",
+    "Sanduhr",
+    "Zandur",
+    "Ssanduhr"
+  ]
+}

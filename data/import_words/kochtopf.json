@@ -1,0 +1,87 @@
+{
+  "lemma": "Kochtopf",
+  "wortart": "Nomen",
+  "silben": "Koch-topf",
+  "begriffserklaerung": "Ein Kochtopf ist ein rundes Gefäß aus Metall mit einem Deckel und zwei Griffen. Darin kocht man Suppen, Nudeln, Kartoffeln und viele andere Speisen auf dem Herd.",
+  "beispielsatz": "Mama stellt den Kochtopf mit der heißen Suppe auf den Tisch.",
+  "rechtschreibstrategie": "„Kochtopf\" besteht aus zwei Wörtern: „Koch\" (von kochen) und „Topf\". Wenn du das Wort in seine Teile zerlegst, kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Koch",
+    "Topf"
+  ],
+  "bild_datei": "Kochtopf.webp",
+  "audio_datei": "Kochtopf.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kochtopf",
+    "plural": "die Kochtöpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kochtopf",
+        "genitiv": "des Kochtopfes",
+        "dativ": "dem Kochtopf",
+        "akkusativ": "den Kochtopf"
+      },
+      "plural": {
+        "nominativ": "die Kochtöpfe",
+        "genitiv": "der Kochtöpfe",
+        "dativ": "den Kochtöpfen",
+        "akkusativ": "die Kochtöpfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cooking pot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casserole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tencere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قِدْر الطَّبْخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deckel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kochtoph",
+    "Kogtopf",
+    "Kochtob",
+    "Kochttopf",
+    "Kogtoph"
+  ]
+}

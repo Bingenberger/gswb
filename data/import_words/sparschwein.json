@@ -1,0 +1,83 @@
+{
+  "lemma": "Sparschwein",
+  "wortart": "Nomen",
+  "silben": "Spar-schwein",
+  "begriffserklaerung": "Ein Sparschwein ist ein kleines Behältnis, oft in Form eines Schweins, in das man Münzen oder Geldscheine steckt, um Geld zu sparen.",
+  "beispielsatz": "Ich werfe jeden Tag eine Münze in mein Sparschwein.",
+  "rechtschreibstrategie": "„Sparschwein\" ist ein zusammengesetztes Wort aus „spar-\" (von sparen) und „Schwein\". Sprich beide Teile deutlich: SPAR + SCHWEIN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "spar",
+    "Schwein"
+  ],
+  "bild_datei": "Sparschwein.webp",
+  "audio_datei": "Sparschwein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "piggy bank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tirelire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kumbara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sparen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Sparschwein",
+    "plural": "die Sparschweine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Sparschwein",
+        "genitiv": "des Sparschweins",
+        "dativ": "dem Sparschwein",
+        "akkusativ": "das Sparschwein"
+      },
+      "plural": {
+        "nominativ": "die Sparschweine",
+        "genitiv": "der Sparschweine",
+        "dativ": "den Sparschweinen",
+        "akkusativ": "die Sparschweine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sparschein",
+    "Sparschwain",
+    "Spaarschwein",
+    "Sparschvein",
+    "Spahrschwein"
+  ]
+}

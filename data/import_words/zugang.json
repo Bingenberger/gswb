@@ -1,0 +1,84 @@
+{
+  "lemma": "Zugang",
+  "wortart": "Nomen",
+  "silben": "Zu-gang",
+  "begriffserklaerung": "Ein Zugang ist ein Weg oder eine Öffnung, durch die man irgendwohin gelangen kann. Man sagt auch Zugang, wenn man die Erlaubnis hat, etwas zu benutzen.",
+  "beispielsatz": "Der Zugang zum Schwimmbad ist durch ein großes Tor gesichert.",
+  "rechtschreibstrategie": "Das Wort „Zugang\" ist aus zwei Teilen zusammengesetzt: „zu\" und „Gang\". Schreibe beide Teile einfach hintereinander – ohne Lücke!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gehen",
+    "Gang"
+  ],
+  "bild_datei": "Zugang.webp",
+  "audio_datei": "Zugang.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zugang",
+    "plural": "die Zugänge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zugang",
+        "genitiv": "des Zugangs",
+        "dativ": "dem Zugang",
+        "akkusativ": "den Zugang"
+      },
+      "plural": {
+        "nominativ": "die Zugänge",
+        "genitiv": "der Zugänge",
+        "dativ": "den Zugängen",
+        "akkusativ": "die Zugänge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "access / entrance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accès / entrée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "giriş / erişim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدخل / وصول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gang"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zugänglich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eingang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Durchgang"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eingang"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zuggang",
+    "Zuganng",
+    "Zukang",
+    "Tzugang",
+    "Zugank"
+  ]
+}

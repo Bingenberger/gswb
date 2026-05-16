@@ -1,0 +1,87 @@
+{
+  "lemma": "Besuch",
+  "wortart": "Nomen",
+  "silben": "Be-such",
+  "begriffserklaerung": "Ein Besuch ist, wenn jemand zu dir oder zu einer anderen Person kommt, um Zeit miteinander zu verbringen.",
+  "beispielsatz": "Morgen kommt meine Oma zu uns – ich freue mich sehr auf ihren Besuch!",
+  "rechtschreibstrategie": "Sprich das Wort laut: Be-such. Am Ende hörst du „ch\" – kein „ck\" und kein „k\". Denke daran: Be- ist die Vorsilbe, und „such\" klingt wie beim Suchen!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "such"
+  ],
+  "bild_datei": "Besuch.webp",
+  "audio_datei": "Besuch.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Besuch",
+    "plural": "die Besuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Besuch",
+        "genitiv": "des Besuchs",
+        "dativ": "dem Besuch",
+        "akkusativ": "den Besuch"
+      },
+      "plural": {
+        "nominativ": "die Besuche",
+        "genitiv": "der Besuche",
+        "dativ": "den Besuchen",
+        "akkusativ": "die Besuche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "visit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "visite"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ziyaret"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زيارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "besuchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besucher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Visite"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einladung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treffen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Besuhch",
+    "Bezuch",
+    "Bessuch",
+    "Besuche",
+    "Besuck",
+    "Besuhk"
+  ]
+}

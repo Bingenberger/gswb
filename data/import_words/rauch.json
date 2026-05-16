@@ -1,0 +1,85 @@
+{
+  "lemma": "Rauch",
+  "wortart": "Nomen",
+  "silben": "Rauch",
+  "begriffserklaerung": "Rauch ist das graue oder schwarze Gas, das entsteht, wenn etwas brennt.",
+  "beispielsatz": "Aus dem Schornstein steigt dicker Rauch in den Himmel.",
+  "rechtschreibstrategie": "Das Wort „Rauch\" hat einen langen Vokal „au\". Das „ch\" am Ende hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "rauch"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rauch",
+    "plural": "die Rauche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rauch",
+        "genitiv": "des Rauches",
+        "dativ": "dem Rauch",
+        "akkusativ": "den Rauch"
+      },
+      "plural": {
+        "nominativ": "die Rauche",
+        "genitiv": "der Rauche",
+        "dativ": "den Rauchen",
+        "akkusativ": "die Rauche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raug",
+    "Rauche",
+    "Rauck",
+    "Rach"
+  ],
+  "bild_datei": "Rauch.webp",
+  "audio_datei": "Rauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smoke"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fumée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دخان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rauchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raucher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verräuchert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Qualm"
+    }
+  ]
+}

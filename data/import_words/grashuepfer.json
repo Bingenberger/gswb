@@ -1,0 +1,88 @@
+{
+  "lemma": "Grashüpfer",
+  "wortart": "Nomen",
+  "silben": "Gras-hüp-fer",
+  "begriffserklaerung": "Ein Grashüpfer ist ein kleines Insekt mit langen Hinterbeinen, das sehr hoch springen kann und oft auf Wiesen und in Gärten lebt.",
+  "beispielsatz": "Der Grashüpfer springt mit einem riesigen Satz ins hohe Gras.",
+  "rechtschreibstrategie": "Grashüpfer ist ein zusammengesetztes Wort aus „Gras\" und „hüpfer\". Sprich beide Teile einzeln: GRAS + HÜPFER. Das ü klingt kurz, deshalb steht danach doppeltes p.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Gras",
+    "hüpf"
+  ],
+  "bild_datei": "Grashüpfer.webp",
+  "audio_datei": "Grashüpfer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Grashüpfer",
+    "plural": "die Grashüpfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Grashüpfer",
+        "genitiv": "des Grashüpfers",
+        "dativ": "dem Grashüpfer",
+        "akkusativ": "den Grashüpfer"
+      },
+      "plural": {
+        "nominativ": "die Grashüpfer",
+        "genitiv": "der Grashüpfer",
+        "dativ": "den Grashüpfern",
+        "akkusativ": "die Grashüpfer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grasshopper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sauterelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekirge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جندب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hüpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gras"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heuschrecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    }
+  ],
+  "fehlschreibungen": [
+    "Grashüpper",
+    "Grasshüpfer",
+    "Grashipfer",
+    "Grashüpffer",
+    "Grashüpfer"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "Aufzeichnung",
+  "wortart": "Nomen",
+  "silben": "Auf-zeich-nung",
+  "begriffserklaerung": "Eine Aufzeichnung ist etwas, das man aufgeschrieben oder aufgenommen hat, zum Beispiel ein Video, eine Tonaufnahme oder Notizen.",
+  "beispielsatz": "Die Lehrerin machte eine Aufzeichnung von dem Schulfest, damit alle Kinder die Fotos später anschauen können.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „auf\" + „zeich\" + „nung\". Denk an das Wort „zeichnen\" – dort hörst du das „ch\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zeichen",
+    "zeichnen"
+  ],
+  "bild_datei": "Aufzeichnung.webp",
+  "audio_datei": "Aufzeichnung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aufzeichnung",
+    "plural": "die Aufzeichnungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aufzeichnung",
+        "genitiv": "der Aufzeichnung",
+        "dativ": "der Aufzeichnung",
+        "akkusativ": "die Aufzeichnung"
+      },
+      "plural": {
+        "nominativ": "die Aufzeichnungen",
+        "genitiv": "der Aufzeichnungen",
+        "dativ": "den Aufzeichnungen",
+        "akkusativ": "die Aufzeichnungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recording"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enregistrement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kayıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسجيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeichnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufnahme"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Video"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikrofon"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aufzeichung",
+    "Aufzeischnung",
+    "Aufzeichnug",
+    "Aufzeicnung",
+    "Aufzeichnnung"
+  ]
+}

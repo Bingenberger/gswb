@@ -1,0 +1,87 @@
+{
+  "lemma": "Transporter",
+  "wortart": "Nomen",
+  "silben": "Trans-por-ter",
+  "begriffserklaerung": "Ein Transporter ist ein großes Auto, das Dinge oder Waren von einem Ort zum anderen bringt.",
+  "beispielsatz": "Der Transporter bringt die neuen Möbel zu uns nach Hause.",
+  "rechtschreibstrategie": "Sprich alle drei Silben deutlich: Trans-por-ter. Achte auf das „ns\" am Anfang und das „er\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Transport",
+    "transportieren"
+  ],
+  "bild_datei": "Transporter.webp",
+  "audio_datei": "Transporter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Transporter",
+    "plural": "die Transporter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Transporter",
+        "genitiv": "des Transporters",
+        "dativ": "dem Transporter",
+        "akkusativ": "den Transporter"
+      },
+      "plural": {
+        "nominativ": "die Transporter",
+        "genitiv": "der Transporter",
+        "dativ": "den Transportern",
+        "akkusativ": "die Transporter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "van / transporter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camionnette / transporteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "minivan / nakliye aracı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة نقل / شاحنة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Transport"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "transportieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lieferwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lastwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lieferung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Transporder",
+    "Tranzporter",
+    "Transsporter",
+    "Transpoter",
+    "Transpörter"
+  ]
+}

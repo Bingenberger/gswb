@@ -1,0 +1,64 @@
+{
+  "lemma": "drei",
+  "wortart": "Numerale",
+  "silben": "drei",
+  "beispielsatz": "Ich habe drei bunte Stifte in meinem Mäppchen.",
+  "begriffserklaerung": "Drei ist eine Zahl. Sie kommt nach der Zwei und vor der Vier.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" in „drei\" – sprich es deutlich: dr-EI. Du hörst das „ei\" ganz klar, also schreibst du es auch so!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "drei"
+  ],
+  "bild_datei": "drei.webp",
+  "audio_datei": "drei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "three"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثلاثة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dritte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zwei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "vier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahl"
+    }
+  ],
+  "grammatische_formen": {},
+  "fehlschreibungen": [
+    "drai",
+    "drey",
+    "dri",
+    "drrei",
+    "dreI"
+  ]
+}

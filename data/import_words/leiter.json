@@ -1,0 +1,82 @@
+{
+  "lemma": "Leiter",
+  "wortart": "Nomen",
+  "silben": "Lei-ter",
+  "begriffserklaerung": "Eine Leiter ist ein Gerät mit Sprossen, auf dem man hinauf- und hinuntersteigen kann, um höhere Stellen zu erreichen.",
+  "beispielsatz": "Der Feuerwehrmann klettert die Leiter hoch, um das Feuer zu löschen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Lei-ter\". Du hörst ein langes „ei\" – das schreibst du mit „ei\". Kein Dehnungs-h, kein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "leit"
+  ],
+  "bild_datei": "Leiter.webp",
+  "audio_datei": "Leiter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ladder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "échelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merdiven"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سُلَّم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leiterin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprosse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stufenleiter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Leiter",
+    "plural": "die Leitern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Leiter",
+        "genitiv": "der Leiter",
+        "dativ": "der Leiter",
+        "akkusativ": "die Leiter"
+      },
+      "plural": {
+        "nominativ": "die Leitern",
+        "genitiv": "der Leitern",
+        "dativ": "den Leitern",
+        "akkusativ": "die Leitern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leiiter",
+    "Leitter",
+    "Leider",
+    "Laiter",
+    "Leyter"
+  ]
+}

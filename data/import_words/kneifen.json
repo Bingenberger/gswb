@@ -1,0 +1,99 @@
+{
+  "lemma": "kneifen",
+  "wortart": "Verb",
+  "silben": "knei-fen",
+  "begriffserklaerung": "Kneifen bedeutet, dass man jemanden mit zwei Fingern drückt und dabei die Haut ein bisschen zusammenkneift. Es kann auch bedeuten, dass man sich vor etwas drückt und es nicht tut.",
+  "beispielsatz": "Mein kleiner Bruder hat mich in den Arm gekniffen, weil er sauer war.",
+  "rechtschreibstrategie": "Hör genau hin: Das „ei\" in „kneifen\" klingt wie in „Eis\". Denk an das Wort „Kneife\" – so merkst du dir das „ei\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "kneif"
+  ],
+  "bild_datei": "kneifen.webp",
+  "audio_datei": "kneifen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "kneifen",
+    "praesens": {
+      "ich": "kneife",
+      "du": "kneifst",
+      "er_sie_es": "kneift",
+      "wir": "kneifen",
+      "ihr": "kneift",
+      "sie": "kneifen"
+    },
+    "perfekt": {
+      "ich": "habe gekniffen",
+      "du": "hast gekniffen",
+      "er_sie_es": "hat gekniffen",
+      "wir": "haben gekniffen",
+      "ihr": "habt gekniffen",
+      "sie": "haben gekniffen"
+    },
+    "praeteritum": {
+      "ich": "kniff",
+      "du": "kniffst",
+      "er_sie_es": "kniff",
+      "wir": "kniffen",
+      "ihr": "knifft",
+      "sie": "kniffen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pinch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pincer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çimdiklemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقرص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kneifer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kneifzange"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zwicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "drücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kratzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "beißen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schlagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "kneiffen",
+    "kneiven",
+    "knaifen",
+    "gnefen",
+    "knifen",
+    "kneiften"
+  ]
+}

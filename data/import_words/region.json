@@ -1,0 +1,78 @@
+{
+  "lemma": "Region",
+  "wortart": "Nomen",
+  "silben": "Re-gi-on",
+  "begriffserklaerung": "Eine Region ist ein größeres Gebiet oder eine Gegend, die durch bestimmte Merkmale zusammengehört, zum Beispiel durch ihre Lage, Sprache oder Natur.",
+  "beispielsatz": "In unserer Region gibt es viele schöne Wälder und Seen.",
+  "rechtschreibstrategie": "Das Wort „Region\" kommt aus dem Lateinischen. Achte darauf, dass es mit „g\" geschrieben wird und nicht mit „j\": Re-gi-on.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Region"
+  ],
+  "bild_datei": "Region.webp",
+  "audio_datei": "Region.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Region",
+    "plural": "die Regionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Region",
+        "genitiv": "der Region",
+        "dativ": "der Region",
+        "akkusativ": "die Region"
+      },
+      "plural": {
+        "nominativ": "die Regionen",
+        "genitiv": "der Regionen",
+        "dativ": "den Regionen",
+        "akkusativ": "die Regionen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "region"
+    },
+    {
+      "language_code": "fr",
+      "translation": "région"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bölge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منطقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "regional"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegend"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rejion",
+    "Rehgion",
+    "Regio",
+    "Regjon",
+    "Regiohn"
+  ]
+}

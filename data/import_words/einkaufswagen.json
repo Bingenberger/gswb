@@ -1,0 +1,83 @@
+{
+  "lemma": "Einkaufswagen",
+  "wortart": "Nomen",
+  "silben": "Ein-kaufs-wa-gen",
+  "begriffserklaerung": "Ein Einkaufswagen ist ein großer Korb auf Rädern, den man im Supermarkt benutzt, um Einkäufe darin zu transportieren.",
+  "beispielsatz": "Mama schiebt den Einkaufswagen durch den Supermarkt.",
+  "rechtschreibstrategie": "Das Wort „Einkaufswagen\" ist zusammengesetzt aus „ein\", „kaufen\" und „Wagen\". Sprich es in Teile: Ein-kaufs-wa-gen. Achte auf das „au\" in „kauf\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "wagen"
+  ],
+  "bild_datei": "Einkaufswagen.webp",
+  "audio_datei": "Einkaufswagen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shopping cart"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chariot de courses"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عربة التسوق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einkaufskorb"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Einkaufswagen",
+    "plural": "die Einkaufswagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Einkaufswagen",
+        "genitiv": "des Einkaufswagens",
+        "dativ": "dem Einkaufswagen",
+        "akkusativ": "den Einkaufswagen"
+      },
+      "plural": {
+        "nominativ": "die Einkaufswagen",
+        "genitiv": "der Einkaufswagen",
+        "dativ": "den Einkaufswagen",
+        "akkusativ": "die Einkaufswagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einkaufswaggen",
+    "Einkaufswägen",
+    "Einkauffswagen",
+    "Einkausfwagen",
+    "Einkaufswagn"
+  ]
+}

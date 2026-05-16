@@ -1,0 +1,88 @@
+{
+  "lemma": "Nachricht",
+  "wortart": "Nomen",
+  "silben": "Nach-richt",
+  "begriffserklaerung": "Eine Nachricht ist eine Information, die jemand an eine andere Person weitergibt – zum Beispiel per Brief, Telefon oder Handy.",
+  "beispielsatz": "Mama hat mir eine Nachricht auf dem Handy geschickt, dass sie später kommt.",
+  "rechtschreibstrategie": "Denk an das kleine Wort „nach\" am Anfang. Dann hörst du „richt\" – sprich es laut: Nach-richt. Beide Teile zusammen ergeben „Nachricht\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "richt"
+  ],
+  "bild_datei": "Nachricht.webp",
+  "audio_datei": "Nachricht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "message / news"
+    },
+    {
+      "language_code": "fr",
+      "translation": "message / nouvelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haber / mesaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رسالة / خبر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "berichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meldung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Botschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "E-Mail"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachricht",
+    "plural": "die Nachrichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachricht",
+        "genitiv": "der Nachricht",
+        "dativ": "der Nachricht",
+        "akkusativ": "die Nachricht"
+      },
+      "plural": {
+        "nominativ": "die Nachrichten",
+        "genitiv": "der Nachrichten",
+        "dativ": "den Nachrichten",
+        "akkusativ": "die Nachrichten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nachricht",
+    "Nachrigt",
+    "Nachrich"
+  ]
+}

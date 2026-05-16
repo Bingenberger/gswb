@@ -1,0 +1,88 @@
+{
+  "lemma": "Ungewissheit",
+  "wortart": "Nomen",
+  "silben": "Un-ge-wiss-heit",
+  "begriffserklaerung": "Eine Ungewissheit ist ein Gefühl oder eine Lage, bei der man etwas nicht genau weiß und nicht sicher ist, wie etwas ausgeht.",
+  "beispielsatz": "Die Ungewissheit, ob die Schulaufführung klappt, machte alle Kinder ein bisschen nervös.",
+  "rechtschreibstrategie": "Das Wort hat drei Bausteine: „Un-\" + „gewiss\" + „-heit\". In „gewiss\" steckt ein kurzes „i\", deshalb schreibt man „ss\". Denk daran: kurzer Vokal → Doppel-s!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "gewiss",
+    "wissen"
+  ],
+  "bild_datei": "Ungewissheit.webp",
+  "audio_datei": "Ungewissheit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ungewissheit",
+    "plural": "die Ungewissheiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ungewissheit",
+        "genitiv": "der Ungewissheit",
+        "dativ": "der Ungewissheit",
+        "akkusativ": "die Ungewissheit"
+      },
+      "plural": {
+        "nominativ": "die Ungewissheiten",
+        "genitiv": "der Ungewissheiten",
+        "dativ": "den Ungewissheiten",
+        "akkusativ": "die Ungewissheiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "uncertainty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "incertitude"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belirsizlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدم اليقين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gewiss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wissen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unsicherheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zweifel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hoffnung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ungewisheit",
+    "Ungewißheit",
+    "Ungewissheit",
+    "Ungewisshait",
+    "Ungewiessheit"
+  ]
+}

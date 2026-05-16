@@ -1,0 +1,90 @@
+{
+  "lemma": "beißen",
+  "wortart": "Verb",
+  "silben": "bei-ßen",
+  "begriffserklaerung": "Mit den Zähnen in etwas hineindrücken oder etwas abbeißen.",
+  "beispielsatz": "Der Hund beißt vorsichtig in seinen Knochen.",
+  "rechtschreibstrategie": "Denk an das ß in „beißen\" – nach dem langen ei kommt immer ß, nicht ss!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "beißen",
+    "praesens": {
+      "ich": "beiße",
+      "du": "beißt",
+      "er_sie_es": "beißt",
+      "wir": "beißen",
+      "ihr": "beißt",
+      "sie": "beißen"
+    },
+    "perfekt": {
+      "ich": "habe gebissen",
+      "du": "hast gebissen",
+      "er_sie_es": "hat gebissen",
+      "wir": "haben gebissen",
+      "ihr": "habt gebissen",
+      "sie": "haben gebissen"
+    },
+    "praeteritum": {
+      "ich": "biss",
+      "du": "bissest",
+      "er_sie_es": "biss",
+      "wir": "bissen",
+      "ihr": "bisst",
+      "sie": "bissen"
+    }
+  },
+  "wortfamilie_basen": [
+    "beiß"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beißer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "knabbern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schnappen"
+    }
+  ],
+  "fehlschreibungen": [
+    "beissen",
+    "beisen",
+    "beißsen",
+    "beiisen",
+    "beißen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bite"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mordre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ısırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَعَضُّ"
+    }
+  ],
+  "bild_datei": "beißen.webp",
+  "audio_datei": "beißen.mp3"
+}

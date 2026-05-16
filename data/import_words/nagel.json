@@ -1,0 +1,82 @@
+{
+  "lemma": "Nagel",
+  "wortart": "Nomen",
+  "silben": "Na-gel",
+  "begriffserklaerung": "Ein Nagel ist ein kleiner, spitzer Metallstift. Man schlägt ihn mit einem Hammer in Holz, um Dinge zu befestigen oder aufzuhängen. Nagel nennt man auch den harten Teil am Ende deiner Finger und Zehen.",
+  "beispielsatz": "Papa schlägt einen Nagel in die Wand, damit wir das Bild aufhängen können.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Na-gel. Höre die zwei Silben. Das „a\" in der ersten Silbe ist lang, deshalb schreibt man nur ein „g\" – kein Doppel-g!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Nagel"
+  ],
+  "bild_datei": "Nagel.webp",
+  "audio_datei": "Nagel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nail"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clou"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çivi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسمار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nageln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nagelpflege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schraube"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nagel",
+    "plural": "die Nägel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nagel",
+        "genitiv": "des Nagels",
+        "dativ": "dem Nagel",
+        "akkusativ": "den Nagel"
+      },
+      "plural": {
+        "nominativ": "die Nägel",
+        "genitiv": "der Nägel",
+        "dativ": "den Nägeln",
+        "akkusativ": "die Nägel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nagl",
+    "Nagell",
+    "Nägel",
+    "Naggel",
+    "Nahgel"
+  ]
+}

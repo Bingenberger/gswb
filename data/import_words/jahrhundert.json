@@ -1,0 +1,83 @@
+{
+  "lemma": "Jahrhundert",
+  "wortart": "Nomen",
+  "silben": "Jahr-hun-dert",
+  "begriffserklaerung": "Ein Jahrhundert ist ein Zeitraum von genau 100 Jahren.",
+  "beispielsatz": "Vor einem Jahrhundert gab es noch keine Smartphones.",
+  "rechtschreibstrategie": "Das Wort „Jahrhundert\" besteht aus zwei Teilen: „Jahr\" und „hundert\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Jahrhundert",
+    "plural": "die Jahrhunderte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Jahrhundert",
+        "genitiv": "des Jahrhunderts",
+        "dativ": "dem Jahrhundert",
+        "akkusativ": "das Jahrhundert"
+      },
+      "plural": {
+        "nominativ": "die Jahrhunderte",
+        "genitiv": "der Jahrhunderte",
+        "dativ": "den Jahrhunderten",
+        "akkusativ": "die Jahrhunderte"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Jahr",
+    "hundert"
+  ],
+  "fehlschreibungen": [
+    "Jahrehundert",
+    "Jahhrundert",
+    "Jahundert",
+    "Jahrhunderd",
+    "Jaherhundert"
+  ],
+  "bild_datei": "Jahrhundert.webp",
+  "audio_datei": "Jahrhundert.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "century"
+    },
+    {
+      "language_code": "fr",
+      "translation": "siècle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzyıl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jahrzehnt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahrtausend"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahrzehnt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitalter"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Balken",
+  "wortart": "Nomen",
+  "silben": "Bal-ken",
+  "begriffserklaerung": "Ein Balken ist ein langer, dicker Stab aus Holz oder Metall. Balken werden beim Bauen von Häusern, Brücken oder Zäunen verwendet.",
+  "beispielsatz": "Der Zimmermann legt einen schweren Balken auf das Dach.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Bal-ken. Nach dem kurzen „a\" kommt ein Doppelkonsonant – hier „lk\". Denk daran: Das „k\" am Ende klingt wie ein „k\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Balken"
+  ],
+  "bild_datei": "Balken.webp",
+  "audio_datei": "Balken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beam"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poutre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kiriş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عارضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Balkendecke"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holzbalken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Träger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Träger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Balken",
+    "plural": "die Balken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Balken",
+        "genitiv": "des Balkens",
+        "dativ": "dem Balken",
+        "akkusativ": "den Balken"
+      },
+      "plural": {
+        "nominativ": "die Balken",
+        "genitiv": "der Balken",
+        "dativ": "den Balken",
+        "akkusativ": "die Balken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Balcken",
+    "Balkken",
+    "Ballken",
+    "Balkon",
+    "Balgen"
+  ]
+}

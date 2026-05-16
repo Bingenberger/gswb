@@ -1,0 +1,94 @@
+{
+  "lemma": "siegen",
+  "wortart": "Verb",
+  "silben": "sie-gen",
+  "begriffserklaerung": "Siegen bedeutet, bei einem Wettkampf oder Spiel der Beste zu sein und zu gewinnen.",
+  "beispielsatz": "Unsere Mannschaft konnte heute beim Fußballspiel siegen!",
+  "rechtschreibstrategie": "Das Wort „siegen\" hat ein langes „ie\" – denk an „sie siegt\". Das „ie\" spricht man wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "sieg"
+  ],
+  "bild_datei": "siegen.webp",
+  "audio_datei": "siegen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "siegen",
+    "praesens": {
+      "ich": "siege",
+      "du": "siegst",
+      "er_sie_es": "siegt",
+      "wir": "siegen",
+      "ihr": "siegt",
+      "sie": "siegen"
+    },
+    "perfekt": {
+      "ich": "habe gesiegt",
+      "du": "hast gesiegt",
+      "er_sie_es": "hat gesiegt",
+      "wir": "haben gesiegt",
+      "ihr": "habt gesiegt",
+      "sie": "haben gesiegt"
+    },
+    "praeteritum": {
+      "ich": "siegte",
+      "du": "siegtest",
+      "er_sie_es": "siegte",
+      "wir": "siegten",
+      "ihr": "siegtet",
+      "sie": "siegten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to win"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vaincre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَنْتَصِرُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sieg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sieger"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gewinnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kämpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verlieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    }
+  ],
+  "fehlschreibungen": [
+    "siegen",
+    "sigen",
+    "siggen",
+    "sieden",
+    "seigen"
+  ]
+}

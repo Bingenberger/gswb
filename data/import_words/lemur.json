@@ -1,0 +1,72 @@
+{
+  "lemma": "Lemur",
+  "wortart": "Nomen",
+  "silben": "Le-mur",
+  "begriffserklaerung": "Ein Lemur ist ein kleines Tier mit großen Augen und einem langen, geringelten Schwanz. Lemuren leben auf der Insel Madagaskar und gehören zu den Verwandten der Affen.",
+  "beispielsatz": "Der Lemur klettert flink auf den Ast und schaut uns mit seinen großen Augen neugierig an.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Le-mur. Am Ende hörst du ein klares „r\" – schreibe es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Lemur.webp",
+  "audio_datei": "Lemur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lemur"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lémur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lemur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ليمور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Affe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Madagaskar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lemur",
+    "plural": "die Lemuren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lemur",
+        "genitiv": "des Lemurs",
+        "dativ": "dem Lemur",
+        "akkusativ": "den Lemur"
+      },
+      "plural": {
+        "nominativ": "die Lemuren",
+        "genitiv": "der Lemuren",
+        "dativ": "den Lemuren",
+        "akkusativ": "die Lemuren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lehmur",
+    "Lehmer",
+    "Lemour",
+    "Lemmer",
+    "Lemmur"
+  ]
+}

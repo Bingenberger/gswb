@@ -1,0 +1,79 @@
+{
+  "lemma": "Babybauch",
+  "wortart": "Nomen",
+  "silben": "Ba-by-bauch",
+  "begriffserklaerung": "Der Babybauch ist der runde, dicke Bauch einer schwangeren Frau, weil ein Baby in ihrem Bauch wächst.",
+  "beispielsatz": "Meine Mama hat einen großen Babybauch, weil mein Geschwisterchen bald auf die Welt kommt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Baby\" und „Bauch\". Sprich beide Teile deutlich: BA-BY-BAUCH. Beide Teile schreibt man groß zusammen, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Baby",
+    "Bauch"
+  ],
+  "bild_datei": "Babybauch.webp",
+  "audio_datei": "Babybauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baby bump"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ventre de grossesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bebek karnı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطن الحامل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwangerschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Babybauch",
+    "plural": "die Babybäuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Babybauch",
+        "genitiv": "des Babybauchs",
+        "dativ": "dem Babybauch",
+        "akkusativ": "den Babybauch"
+      },
+      "plural": {
+        "nominativ": "die Babybäuche",
+        "genitiv": "der Babybäuche",
+        "dativ": "den Babybäuchen",
+        "akkusativ": "die Babybäuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Babiebauch",
+    "Babybaush",
+    "Bäbybauch",
+    "Babybauche",
+    "Babybuch"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Gras",
+  "wortart": "Nomen",
+  "silben": "Gras",
+  "begriffserklaerung": "Gras ist eine grüne Pflanze mit schmalen Blättern, die auf Wiesen, in Gärten und Parks wächst.",
+  "beispielsatz": "Die Kuh frisst das saftige Gras auf der Wiese.",
+  "rechtschreibstrategie": "Wenn du „Gras\" verlängerst, hörst du das s deutlich: „Grä-ser\" – so weißt du, dass du ein s schreibst und kein ss oder ß.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "gras"
+  ],
+  "bild_datei": "Gras.webp",
+  "audio_datei": "Gras.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "herbe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çimen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gräser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grasen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grasgrün"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rasen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rasen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gras",
+    "plural": "die Gräser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gras",
+        "genitiv": "des Grases",
+        "dativ": "dem Gras",
+        "akkusativ": "das Gras"
+      },
+      "plural": {
+        "nominativ": "die Gräser",
+        "genitiv": "der Gräser",
+        "dativ": "den Gräsern",
+        "akkusativ": "die Gräser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grass",
+    "Graß",
+    "Grras",
+    "Grase",
+    "Grasz"
+  ]
+}

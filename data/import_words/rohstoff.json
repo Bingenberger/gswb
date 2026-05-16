@@ -1,0 +1,84 @@
+{
+  "lemma": "Rohstoff",
+  "wortart": "Nomen",
+  "silben": "Roh-stoff",
+  "beispielsatz": "Holz ist ein wichtiger Rohstoff, den wir aus dem Wald gewinnen.",
+  "begriffserklaerung": "Ein Rohstoff ist ein natürliches Material aus der Natur, das Menschen nutzen, um daraus etwas herzustellen – zum Beispiel Holz, Öl oder Eisen.",
+  "rechtschreibstrategie": "Das Wort „Rohstoff\" besteht aus zwei Teilen: „roh\" und „Stoff\". Am Ende steckt „Stoff\" – und da hörst du ein kurzes „o\", deshalb verdoppelt man das „f\": Stoff!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roh",
+    "Stoff"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rohstoff",
+    "plural": "die Rohstoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rohstoff",
+        "genitiv": "des Rohstoffs",
+        "dativ": "dem Rohstoff",
+        "akkusativ": "den Rohstoff"
+      },
+      "plural": {
+        "nominativ": "die Rohstoffe",
+        "genitiv": "der Rohstoffe",
+        "dativ": "den Rohstoffen",
+        "akkusativ": "die Rohstoffe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rohrstoff",
+    "Rohstof",
+    "Rohstov",
+    "Rosstoff",
+    "Rohstoffe (im Singular)"
+  ],
+  "bild_datei": "Rohstoff.webp",
+  "audio_datei": "Rohstoff.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "raw material"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matière première"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hammadde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة خام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "roh"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdöl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Material"
+    }
+  ]
+}

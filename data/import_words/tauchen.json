@@ -1,0 +1,91 @@
+{
+  "lemma": "tauchen",
+  "wortart": "Verb",
+  "silben": "tau-chen",
+  "begriffserklaerung": "Tauchen bedeutet, unter Wasser zu gehen oder den Kopf ins Wasser zu stecken.",
+  "beispielsatz": "Im Schwimmbad kann ich schon tauchen und halte dabei die Luft an.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „tau-chen\". Du hörst das „au\" – schreib es mit „au\". Das „ch\" am Ende klingt weich, wie in „machen\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tauch"
+  ],
+  "bild_datei": "tauchen.webp",
+  "audio_datei": "tauchen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "tauchen",
+    "praesens": {
+      "ich": "tauche",
+      "du": "tauchst",
+      "er_sie_es": "taucht",
+      "wir": "tauchen",
+      "ihr": "taucht",
+      "sie": "tauchen"
+    },
+    "perfekt": {
+      "ich": "bin getaucht",
+      "du": "bist getaucht",
+      "er_sie_es": "ist getaucht",
+      "wir": "sind getaucht",
+      "ihr": "seid getaucht",
+      "sie": "sind getaucht"
+    },
+    "praeteritum": {
+      "ich": "tauchte",
+      "du": "tauchtest",
+      "er_sie_es": "tauchte",
+      "wir": "tauchten",
+      "ihr": "tauchtet",
+      "sie": "tauchten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to dive"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plonger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dalmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغطس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taucher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tauchgang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schwimmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnorcheln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "untertauchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "dauchen",
+    "tauhen",
+    "tauchen",
+    "tauchn",
+    "tauchhen",
+    "tauсhen"
+  ]
+}

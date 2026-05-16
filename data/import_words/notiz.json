@@ -1,0 +1,91 @@
+{
+  "lemma": "Notiz",
+  "wortart": "Nomen",
+  "silben": "No-tiz",
+  "begriffserklaerung": "Eine Notiz ist ein kurzer Text, den man aufschreibt, damit man etwas nicht vergisst.",
+  "beispielsatz": "Ich schreibe mir eine Notiz auf, damit ich die Hausaufgaben nicht vergesse.",
+  "rechtschreibstrategie": "Am Ende hörst du „z\" – nach dem kurzen „i\" schreibt man tz. Sprich laut: No-tiz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "notiz",
+    "notier"
+  ],
+  "bild_datei": "Notiz.webp",
+  "audio_datei": "Notiz.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Notiz",
+    "plural": "die Notizen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Notiz",
+        "genitiv": "der Notiz",
+        "dativ": "der Notiz",
+        "akkusativ": "die Notiz"
+      },
+      "plural": {
+        "nominativ": "die Notizen",
+        "genitiv": "der Notizen",
+        "dativ": "den Notizen",
+        "akkusativ": "die Notizen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "note"
+    },
+    {
+      "language_code": "fr",
+      "translation": "note"
+    },
+    {
+      "language_code": "tr",
+      "translation": "not"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملاحظة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "notieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notizblock"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufzeichnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tagebuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Liste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Merkzettel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Notiez",
+    "Notitz",
+    "Nothiz",
+    "Notis",
+    "Notiß"
+  ]
+}

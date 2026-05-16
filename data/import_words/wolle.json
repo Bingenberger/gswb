@@ -1,0 +1,83 @@
+{
+  "lemma": "Wolle",
+  "wortart": "Nomen",
+  "silben": "Wol-le",
+  "begriffserklaerung": "Wolle ist das weiche Fell von Schafen, das zu Fäden gesponnen und dann zu Kleidung oder Decken gestrickt werden kann.",
+  "beispielsatz": "Oma strickt mir aus weicher Wolle einen warmen Pullover.",
+  "rechtschreibstrategie": "Das Wort „Wolle\" hat einen kurzen Vokal „o\" und deshalb ein doppeltes „l\": Wol-le. Sprich die beiden Silben deutlich, dann hörst du das Doppel-l!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Woll"
+  ],
+  "bild_datei": "Wolle.webp",
+  "audio_datei": "Wolle.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wool"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صوف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wollpullover"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stricken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Faden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wolle",
+    "plural": "die Wollen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wolle",
+        "genitiv": "der Wolle",
+        "dativ": "der Wolle",
+        "akkusativ": "die Wolle"
+      },
+      "plural": {
+        "nominativ": "die Wollen",
+        "genitiv": "der Wollen",
+        "dativ": "den Wollen",
+        "akkusativ": "die Wollen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wole",
+    "Wolie",
+    "Vole",
+    "Volle",
+    "Wohle",
+    "Wohlle"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Atem",
+  "wortart": "Nomen",
+  "silben": "A-tem",
+  "begriffserklaerung": "Der Atem ist die Luft, die du durch Nase oder Mund einatmest und wieder ausatmest. Ohne Atem kann kein Mensch leben.",
+  "beispielsatz": "Nach dem Rennen war ich außer Atem und musste kurz pausieren.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: A-tem. Nach dem kurzen „a\" hörst du ein „t\" – schreibe es genau so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "atem"
+  ],
+  "bild_datei": "Atem.webp",
+  "audio_datei": "Atem.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "breath"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souffle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nefes"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نَفَس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "atmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Atemzug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Atemzug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Atem",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Atem",
+        "genitiv": "des Atems",
+        "dativ": "dem Atem",
+        "akkusativ": "den Atem"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Athem",
+    "Adem",
+    "Ahtem",
+    "Attem",
+    "Athhem"
+  ]
+}

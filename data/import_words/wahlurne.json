@@ -1,0 +1,84 @@
+{
+  "lemma": "Wahlurne",
+  "wortart": "Nomen",
+  "silben": "Wahl-ur-ne",
+  "begriffserklaerung": "Eine Wahlurne ist eine verschlossene Box oder ein Behälter, in den Menschen bei einer Wahl ihre ausgefüllten Zettel einwerfen.",
+  "beispielsatz": "Die Lehrerin stellt die Wahlurne auf den Tisch, damit alle Kinder ihren Stimmzettel einwerfen können.",
+  "rechtschreibstrategie": "Das Wort „Wahlurne\" besteht aus zwei Teilen: „Wahl\" und „Urne\". Das Dehnungs-h in „Wahl\" hörst du nicht, aber es steckt in der ganzen Wortfamilie drin – zum Beispiel auch bei „wählen\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "wähl",
+    "wahl"
+  ],
+  "bild_datei": "Wahlurne.webp",
+  "audio_datei": "Wahlurne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wahlurne",
+    "plural": "die Wahlurnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wahlurne",
+        "genitiv": "der Wahlurne",
+        "dativ": "der Wahlurne",
+        "akkusativ": "die Wahlurne"
+      },
+      "plural": {
+        "nominativ": "die Wahlurnen",
+        "genitiv": "der Wahlurnen",
+        "dativ": "den Wahlurnen",
+        "akkusativ": "die Wahlurnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ballot box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "urne électorale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oy sandığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق الاقتراع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stimmzettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahl"
+    }
+  ],
+  "fehlschreibungen": [
+    "Valurne",
+    "Wahluurne",
+    "Walurne",
+    "Wahlurre",
+    "Waalurne"
+  ]
+}

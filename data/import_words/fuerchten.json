@@ -1,0 +1,102 @@
+{
+  "lemma": "fürchten",
+  "wortart": "Verb",
+  "silben": "fürch-ten",
+  "begriffserklaerung": "Wenn du dich vor etwas fürchtest, hast du Angst davor. Dein Herz klopft schnell und du möchtest weglaufen.",
+  "beispielsatz": "Das kleine Mädchen fürchtet sich im Dunkeln.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „fürch-ten\". Du hörst das „ch\" deutlich. Denk daran: Nach dem kurzen „ü\" kommt „rch\" – kein „k\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Furcht"
+  ],
+  "bild_datei": "fürchten.webp",
+  "audio_datei": "fürchten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "fürchten",
+    "praesens": {
+      "ich": "fürchte",
+      "du": "fürchtest",
+      "er_sie_es": "fürchtet",
+      "wir": "fürchten",
+      "ihr": "fürchtet",
+      "sie": "fürchten"
+    },
+    "perfekt": {
+      "ich": "habe gefürchtet",
+      "du": "hast gefürchtet",
+      "er_sie_es": "hat gefürchtet",
+      "wir": "haben gefürchtet",
+      "ihr": "habt gefürchtet",
+      "sie": "haben gefürchtet"
+    },
+    "praeteritum": {
+      "ich": "fürchtete",
+      "du": "fürchtetest",
+      "er_sie_es": "fürchtete",
+      "wir": "fürchteten",
+      "ihr": "fürchtetet",
+      "sie": "fürchteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "craindre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "korkmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يخشى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Furcht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "furchtbar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fürchterlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Angst haben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich ängstigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zittern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erschrecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "grausen"
+    }
+  ],
+  "fehlschreibungen": [
+    "fürkten",
+    "fürchtern",
+    "fürchden",
+    "firchten",
+    "fürchten"
+  ]
+}

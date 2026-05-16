@@ -1,0 +1,83 @@
+{
+  "lemma": "Schreibtisch",
+  "wortart": "Nomen",
+  "silben": "Schreib-tisch",
+  "begriffserklaerung": "Ein Schreibtisch ist ein Möbelstück mit einer flachen Platte, an dem man sitzt, um zu schreiben, zu lesen oder zu lernen.",
+  "beispielsatz": "Meine Hausaufgaben mache ich jeden Tag an meinem Schreibtisch.",
+  "rechtschreibstrategie": "„Schreibtisch\" ist ein zusammengesetztes Wort aus „schreiben\" und „Tisch\". Sprich beide Teile deutlich: SCHREIB + TISCH. Das „ei\" in „schreib\" hörst du klar, und „Tisch\" schreibst du mit „sch\" am Anfang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schreib",
+    "Tisch"
+  ],
+  "bild_datei": "Schreibtisch.webp",
+  "audio_datei": "Schreibtisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "desk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazı masası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكتب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreib"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regal"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeitstisch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schreibtisch",
+    "plural": "die Schreibtische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schreibtisch",
+        "genitiv": "des Schreibtisches",
+        "dativ": "dem Schreibtisch",
+        "akkusativ": "den Schreibtisch"
+      },
+      "plural": {
+        "nominativ": "die Schreibtische",
+        "genitiv": "der Schreibtische",
+        "dativ": "den Schreibtischen",
+        "akkusativ": "die Schreibtische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schreibdisch",
+    "Schreiptisch",
+    "Schreibtich",
+    "Schraibtisch",
+    "Schreibtisch"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Zicklein",
+  "wortart": "Nomen",
+  "silben": "Zick-lein",
+  "begriffserklaerung": "Ein Zicklein ist ein junges Ziegenkind. Es ist klein, niedlich und hüpft gerne herum.",
+  "beispielsatz": "Das Zicklein springt fröhlich über die Wiese.",
+  "rechtschreibstrategie": "Das Wort „Zicklein\" hat ein kurzes i – deshalb schreibt man „ck\". Hör genau hin: Zick-lein!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ziege",
+    "Zicke"
+  ],
+  "bild_datei": "Zicklein.webp",
+  "audio_datei": "Zicklein.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zicklein",
+    "plural": "die Zicklein",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zicklein",
+        "genitiv": "des Zickleins",
+        "dativ": "dem Zicklein",
+        "akkusativ": "das Zicklein"
+      },
+      "plural": {
+        "nominativ": "die Zicklein",
+        "genitiv": "der Zicklein",
+        "dativ": "den Zicklein",
+        "akkusativ": "die Zicklein"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kid (young goat)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chevreau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oğlak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدي صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ziege"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zicke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kitz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ziklein",
+    "Zicklain",
+    "Zikklein",
+    "Tzicklein",
+    "Zicklein"
+  ]
+}

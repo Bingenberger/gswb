@@ -1,0 +1,88 @@
+{
+  "lemma": "Rettungswagen",
+  "wortart": "Nomen",
+  "silben": "Ret-tungs-wa-gen",
+  "begriffserklaerung": "Ein Rettungswagen ist ein besonderes Auto, das Menschen in Not schnell ins Krankenhaus bringt. Darin arbeiten Sanitäterinnen und Sanitäter, die helfen können.",
+  "beispielsatz": "Als Oma hinfiel, kam der Rettungswagen mit Blaulicht und Sirene sehr schnell.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Rettung\" + „s\" + „Wagen\". Schreibe alle Teile einfach hintereinander. Denk dran: „Rettung\" hat ein Doppel-t, weil das „e\" kurz gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "retten",
+    "Wagen"
+  ],
+  "bild_datei": "Rettungswagen.webp",
+  "audio_datei": "Rettungswagen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rettungswagen",
+    "plural": "die Rettungswagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rettungswagen",
+        "genitiv": "des Rettungswagens",
+        "dativ": "dem Rettungswagen",
+        "akkusativ": "den Rettungswagen"
+      },
+      "plural": {
+        "nominativ": "die Rettungswagen",
+        "genitiv": "der Rettungswagen",
+        "dativ": "den Rettungswagen",
+        "akkusativ": "die Rettungswagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ambulance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ambulance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ambulans"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة الإسعاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rettung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sanitäter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Krankenwagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Retungswagen",
+    "Rettungswaggen",
+    "Rättungswagen",
+    "Rettungsvagen",
+    "Rettunsgwagen"
+  ]
+}

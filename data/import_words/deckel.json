@@ -1,0 +1,82 @@
+{
+  "lemma": "Deckel",
+  "wortart": "Nomen",
+  "silben": "De-ckel",
+  "begriffserklaerung": "Ein Deckel ist ein flaches Stück, das man auf eine Dose, einen Topf oder ein Glas legt, um es zu verschließen.",
+  "beispielsatz": "Mama legt den Deckel auf den Topf, damit das Essen warm bleibt.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird: De-ckel.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "deck"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Deckel",
+    "plural": "die Deckel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Deckel",
+        "genitiv": "des Deckels",
+        "dativ": "dem Deckel",
+        "akkusativ": "den Deckel"
+      },
+      "plural": {
+        "nominativ": "die Deckel",
+        "genitiv": "der Deckel",
+        "dativ": "den Deckeln",
+        "akkusativ": "die Deckel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dekel",
+    "Dekkel",
+    "Deckel",
+    "Däckel",
+    "Deckl"
+  ],
+  "bild_datei": "Deckel.webp",
+  "audio_datei": "Deckel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couvercle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غطاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "decken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abdeckung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dose"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verschluss"
+    }
+  ]
+}

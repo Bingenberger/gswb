@@ -1,0 +1,95 @@
+{
+  "lemma": "verlaufen",
+  "wortart": "Verb",
+  "silben": "ver-lau-fen",
+  "begriffserklaerung": "Wenn man verlaufen ist, hat man den richtigen Weg nicht mehr gefunden und weiß nicht mehr, wo man ist.",
+  "beispielsatz": "Im großen Wald haben wir uns verlaufen und mussten um Hilfe rufen.",
+  "rechtschreibstrategie": "Denk an das kleine Wort „laufen\" darin: ver-LAUFEN. Das „au\" sprichst du genau so, wie du es schreibst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "laufen"
+  ],
+  "bild_datei": "verlaufen.webp",
+  "audio_datei": "verlaufen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to get lost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se perdre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaybolmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يضيع / يتوه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Läufer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verirren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "suchen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verlaufen",
+    "praesens": {
+      "ich": "verlaufe",
+      "du": "verläufst",
+      "er_sie_es": "verläuft",
+      "wir": "verlaufen",
+      "ihr": "verlauft",
+      "sie": "verlaufen"
+    },
+    "perfekt": {
+      "ich": "bin verlaufen",
+      "du": "bist verlaufen",
+      "er_sie_es": "ist verlaufen",
+      "wir": "sind verlaufen",
+      "ihr": "seid verlaufen",
+      "sie": "sind verlaufen"
+    },
+    "praeteritum": {
+      "ich": "verlief",
+      "du": "liefst",
+      "er_sie_es": "verlief",
+      "wir": "verliefen",
+      "ihr": "verlauft",
+      "sie": "verliefen"
+    }
+  },
+  "fehlschreibungen": [
+    "verlauffen",
+    "ferlaufen",
+    "verlauven",
+    "verlaufen",
+    "vorlaufen",
+    "verlauhen"
+  ]
+}

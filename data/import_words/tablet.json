@@ -1,0 +1,72 @@
+{
+  "lemma": "Tablet",
+  "wortart": "Nomen",
+  "silben": "Tab-let",
+  "begriffserklaerung": "Ein Tablet ist ein flaches, tragbares Gerät mit einem Touchscreen. Man kann damit im Internet surfen, Spiele spielen, Fotos machen und Bücher lesen.",
+  "beispielsatz": "Lea liest auf ihrem Tablet ein spannendes Buch.",
+  "rechtschreibstrategie": "Das Wort „Tablet\" kommt aus dem Englischen. Sprich es so, wie es geschrieben steht: Tab-let. Denk daran: Am Ende steht ein t, auch wenn man es kaum hört!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tablet.webp",
+  "audio_datei": "Tablet.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Tablet",
+    "plural": "die Tablets",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tablet",
+        "genitiv": "des Tablets",
+        "dativ": "dem Tablet",
+        "akkusativ": "das Tablet"
+      },
+      "plural": {
+        "nominativ": "die Tablets",
+        "genitiv": "der Tablets",
+        "dativ": "den Tablets",
+        "akkusativ": "die Tablets"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tablet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tablette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tablet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز لوحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Smartphone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Touchscreen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tabled",
+    "Täblet",
+    "Tablett",
+    "Taplet",
+    "Tablät"
+  ]
+}

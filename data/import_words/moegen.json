@@ -1,0 +1,99 @@
+{
+  "lemma": "mögen",
+  "wortart": "Verb",
+  "silben": "mö-gen",
+  "begriffserklaerung": "Mögen bedeutet, dass dir etwas oder jemand gefällt oder dass du etwas gerne hast.",
+  "beispielsatz": "Ich mag Schokoladeneis sehr gerne!",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: mö-gen. Das ö klingt lang, daher kommt nach dem ö kein Doppelkonsonant. Denk an das g am Ende der ersten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "mögen",
+    "praesens": {
+      "ich": "mag",
+      "du": "magst",
+      "er_sie_es": "mag",
+      "wir": "mögen",
+      "ihr": "mögt",
+      "sie": "mögen"
+    },
+    "perfekt": {
+      "ich": "habe gemocht",
+      "du": "hast gemocht",
+      "er_sie_es": "hat gemocht",
+      "wir": "haben gemocht",
+      "ihr": "habt gemocht",
+      "sie": "haben gemocht"
+    },
+    "praeteritum": {
+      "ich": "mochte",
+      "du": "mochtest",
+      "er_sie_es": "mochte",
+      "wir": "mochten",
+      "ihr": "mochtet",
+      "sie": "mochten"
+    }
+  },
+  "wortfamilie_basen": [
+    "mög",
+    "mag"
+  ],
+  "fehlschreibungen": [
+    "mögen",
+    "mœgen",
+    "möhgen",
+    "möggen",
+    "moegen"
+  ],
+  "bild_datei": "mögen.webp",
+  "audio_datei": "mögen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to like"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aimer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sevmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُحِبّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "möglich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zuneigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gernhaben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lieben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lieben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wollen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gefallen"
+    }
+  ]
+}

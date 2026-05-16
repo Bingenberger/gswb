@@ -1,0 +1,98 @@
+{
+  "lemma": "wippen",
+  "wortart": "Verb",
+  "silben": "wip-pen",
+  "begriffserklaerung": "Wippen bedeutet, sich immer wieder auf und ab oder hin und her zu bewegen, so wie auf einer Wippe.",
+  "beispielsatz": "Die Kinder wippen fröhlich auf der Wippe im Park.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" in „wip-pen\" verdoppelst du das „p\" – das zeigt, dass der Vokal kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wipp"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "wippen",
+    "praesens": {
+      "ich": "wippe",
+      "du": "wippst",
+      "er_sie_es": "wippt",
+      "wir": "wippen",
+      "ihr": "wippt",
+      "sie": "wippen"
+    },
+    "perfekt": {
+      "ich": "habe gewippt",
+      "du": "hast gewippt",
+      "er_sie_es": "hat gewippt",
+      "wir": "haben gewippt",
+      "ihr": "habt gewippt",
+      "sie": "haben gewippt"
+    },
+    "praeteritum": {
+      "ich": "wippte",
+      "du": "wipptest",
+      "er_sie_es": "wippte",
+      "wir": "wippten",
+      "ihr": "wipptet",
+      "sie": "wippten"
+    }
+  },
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wippe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wipper"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schaukeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wackeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hüpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "balancieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schwingen"
+    }
+  ],
+  "fehlschreibungen": [
+    "wipen",
+    "wibben",
+    "wipppen",
+    "wyppen",
+    "wippen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to seesaw / to bob"
+    },
+    {
+      "language_code": "fr",
+      "translation": "basculer / se balancer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahterevalliye binmek / sallanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتأرجح / يتمايل"
+    }
+  ],
+  "bild_datei": "wippen.webp",
+  "audio_datei": "wippen.mp3"
+}

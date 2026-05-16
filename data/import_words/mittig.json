@@ -1,0 +1,68 @@
+{
+  "lemma": "mittig",
+  "wortart": "Adjektiv",
+  "silben": "mit-tig",
+  "begriffserklaerung": "Etwas ist mittig, wenn es genau in der Mitte liegt oder angeordnet ist.",
+  "beispielsatz": "Das Bild hängt mittig an der Wand, genau zwischen den beiden Fenstern.",
+  "rechtschreibstrategie": "Sprich das Wort laut: mit-tig. Nach dem kurzen „i\" hörst du ein doppeltes „t\" – deshalb schreibt man „tt\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "positiv": "mittig",
+    "komparativ": "mittiger",
+    "superlativ": "am mittigsten"
+  },
+  "wortfamilie_basen": [
+    "Mitte"
+  ],
+  "fehlschreibungen": [
+    "mitig",
+    "mitttig",
+    "midtig",
+    "mittich"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mitte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mittelpunkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zentral"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "links"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rechts"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "central, centered"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centré, au milieu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ortada, merkezde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "في المنتصف"
+    }
+  ],
+  "bild_datei": "mittig.webp",
+  "audio_datei": "mittig.mp3"
+}

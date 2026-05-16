@@ -1,0 +1,78 @@
+{
+  "lemma": "Bach",
+  "wortart": "Nomen",
+  "silben": "Bach",
+  "begriffserklaerung": "Ein Bach ist ein kleines, fließendes Gewässer. Er ist schmaler als ein Fluss und hat meist klares Wasser.",
+  "beispielsatz": "Die Kinder spielen am Bach und werfen Steine ins Wasser.",
+  "rechtschreibstrategie": "Verlängere das Wort: Bach → Bäche. Am Ende hörst du das „ch\" – das schreibst du mit „ch\", nicht mit „k\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bach"
+  ],
+  "bild_datei": "Bach.webp",
+  "audio_datei": "Bach.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stream"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ruisseau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dere"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bächlein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rinnsal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bach",
+    "plural": "die Bäche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bach",
+        "genitiv": "des Baches",
+        "dativ": "dem Bach",
+        "akkusativ": "den Bach"
+      },
+      "plural": {
+        "nominativ": "die Bäche",
+        "genitiv": "der Bäche",
+        "dativ": "den Bächen",
+        "akkusativ": "die Bäche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bak",
+    "Bач",
+    "Bach",
+    "Bakh",
+    "Baach"
+  ]
+}

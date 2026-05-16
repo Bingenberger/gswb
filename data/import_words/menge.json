@@ -1,0 +1,89 @@
+{
+  "lemma": "Menge",
+  "wortart": "Nomen",
+  "silben": "Men-ge",
+  "begriffserklaerung": "Eine Menge sagt aus, wie viel von etwas da ist. Es kann sich um Dinge, Personen oder Tiere handeln, die zusammen gezählt oder betrachtet werden.",
+  "beispielsatz": "Auf dem Markt war eine riesige Menge Menschen unterwegs.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Men-ge. Nach dem kurzen „e\" kommt ein „n\" und dann „g\". Das „g\" am Ende klingt wie ein weiches „g\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "meng"
+  ],
+  "bild_datei": "Menge.webp",
+  "audio_datei": "Menge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "quantity / crowd"
+    },
+    {
+      "language_code": "fr",
+      "translation": "quantité / foule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "miktar / kalabalık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كمية / حشد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mengen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gemenge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anzahl"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Haufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Masse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Menge",
+    "plural": "die Mengen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Menge",
+        "genitiv": "der Menge",
+        "dativ": "der Menge",
+        "akkusativ": "die Menge"
+      },
+      "plural": {
+        "nominativ": "die Mengen",
+        "genitiv": "der Mengen",
+        "dativ": "den Mengen",
+        "akkusativ": "die Mengen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mänge",
+    "Menge",
+    "Maenge",
+    "Mengge"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Streife",
+  "wortart": "Nomen",
+  "silben": "Strei-fe",
+  "begriffserklaerung": "Eine Streife ist ein Rundgang oder eine Fahrt, bei der Polizisten oder Wächter ein Gebiet regelmäßig kontrollieren, um aufzupassen, dass alles in Ordnung ist.",
+  "beispielsatz": "Die Polizisten fahren jeden Abend auf Streife durch unsere Stadt.",
+  "rechtschreibstrategie": "Das Wort „Streife\" hat ein langes „ei\" in der Mitte – sprich es deutlich: „Str-EI-fe\". Das „ei\" schreibt man immer mit e und i zusammen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "streif"
+  ],
+  "bild_datei": "Streife.webp",
+  "audio_datei": "Streife.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Streife",
+    "plural": "die Streifen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Streife",
+        "genitiv": "der Streife",
+        "dativ": "der Streife",
+        "akkusativ": "die Streife"
+      },
+      "plural": {
+        "nominativ": "die Streifen",
+        "genitiv": "der Streifen",
+        "dativ": "den Streifen",
+        "akkusativ": "die Streifen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "patrol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patrouille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "devriye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دورية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "streifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Streifenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Patrouille"
+    }
+  ],
+  "fehlschreibungen": [
+    "Streifte",
+    "Strife",
+    "Streiffe",
+    "Straife",
+    "Streife"
+  ]
+}

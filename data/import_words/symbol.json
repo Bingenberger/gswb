@@ -1,0 +1,82 @@
+{
+  "lemma": "Symbol",
+  "wortart": "Nomen",
+  "silben": "Sym-bol",
+  "begriffserklaerung": "Ein Symbol ist ein Zeichen oder ein Bild, das für etwas anderes steht. Zum Beispiel steht ein Herz für Liebe.",
+  "beispielsatz": "Das rote Herz ist ein bekanntes Symbol für Liebe.",
+  "rechtschreibstrategie": "Das Wort „Symbol\" kommt aus dem Griechischen. Denk daran: Es beginnt mit „Sym\" und endet mit „bol\" – sprich es genau so, wie es geschrieben steht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Symbol"
+  ],
+  "bild_datei": "Symbol.webp",
+  "audio_datei": "Symbol.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Symbol",
+    "plural": "die Symbole",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Symbol",
+        "genitiv": "des Symbols",
+        "dativ": "dem Symbol",
+        "akkusativ": "das Symbol"
+      },
+      "plural": {
+        "nominativ": "die Symbole",
+        "genitiv": "der Symbole",
+        "dativ": "den Symbolen",
+        "akkusativ": "die Symbole"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "symbol"
+    },
+    {
+      "language_code": "fr",
+      "translation": "symbole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sembol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "symbolisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "symbolisieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Logo"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sümbol",
+    "Simbol",
+    "Symmbol",
+    "Symbal",
+    "Symbohl"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Wortart",
+  "wortart": "Nomen",
+  "silben": "Wort-art",
+  "begriffserklaerung": "Eine Wortart ist eine Gruppe, in die man Wörter einsortiert – zum Beispiel Nomen, Verben oder Adjektive. Jede Wortart hat besondere Aufgaben im Satz.",
+  "beispielsatz": "Im Deutschunterricht lernen wir, welche Wortart ein Wort ist.",
+  "rechtschreibstrategie": "„Wortart\" ist ein zusammengesetztes Wort aus „Wort\" und „Art\". Sprich beide Teile deutlich: WORT + ART. So schreibst du beide Teile richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wort",
+    "Art"
+  ],
+  "bild_datei": "Wortart.webp",
+  "audio_datei": "Wortart.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wortart",
+    "plural": "die Wortarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wortart",
+        "genitiv": "der Wortart",
+        "dativ": "der Wortart",
+        "akkusativ": "die Wortart"
+      },
+      "plural": {
+        "nominativ": "die Wortarten",
+        "genitiv": "der Wortarten",
+        "dativ": "den Wortarten",
+        "akkusativ": "die Wortarten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "part of speech"
+    },
+    {
+      "language_code": "fr",
+      "translation": "classe grammaticale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sözcük türü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نوع الكلمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Art"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nomen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adjektiv"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wortart",
+    "Wort-Art",
+    "Wortarth",
+    "Wortardt",
+    "Wortartt",
+    "Vortart"
+  ]
+}

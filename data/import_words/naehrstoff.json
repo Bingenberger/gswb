@@ -1,0 +1,85 @@
+{
+  "lemma": "Nährstoff",
+  "wortart": "Nomen",
+  "silben": "Nähr-stoff",
+  "begriffserklaerung": "Ein Nährstoff ist ein Bestandteil in Lebensmitteln, den dein Körper braucht, um gesund zu bleiben und zu wachsen.",
+  "beispielsatz": "Obst und Gemüse sind voller wichtiger Nährstoffe, die uns stark und gesund machen.",
+  "rechtschreibstrategie": "Das Wort „Nährstoff\" ist zusammengesetzt aus „nähren\" und „Stoff\". Das Dehnungs-h nach dem „ä\" in „nähr-\" hilft dir, das lange „ä\" zu hören und richtig zu schreiben. Am Ende verdoppelst du das „f\" – das merkst du, wenn du „Stoff\" alleine schreibst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "nähren",
+    "Stoff"
+  ],
+  "bild_datei": "Nährstoff.webp",
+  "audio_datei": "Nährstoff.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nährstoff",
+    "plural": "die Nährstoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nährstoff",
+        "genitiv": "des Nährstoffs",
+        "dativ": "dem Nährstoff",
+        "akkusativ": "den Nährstoff"
+      },
+      "plural": {
+        "nominativ": "die Nährstoffe",
+        "genitiv": "der Nährstoffe",
+        "dativ": "den Nährstoffen",
+        "akkusativ": "die Nährstoffe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nutrient"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nutriment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "besin maddesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة مغذية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nähren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vitamin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eiweiß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mineral"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nehrstoff",
+    "Nährstof",
+    "Nerstoff",
+    "Närstoff",
+    "Nährstofft"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Kalender",
+  "wortart": "Nomen",
+  "silben": "Ka-len-der",
+  "begriffserklaerung": "Ein Kalender zeigt alle Tage, Wochen und Monate eines Jahres. Mit ihm kannst du sehen, welcher Wochentag heute ist, und wichtige Termine eintragen.",
+  "beispielsatz": "Mama hängt jeden Dezember einen neuen Kalender an die Wand.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Ka – len – der. Achte auf das „e\" in der Mitte: Ka-LEN-der.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kalender"
+  ],
+  "bild_datei": "Kalender.webp",
+  "audio_datei": "Kalender.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kalender",
+    "plural": "die Kalender",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kalender",
+        "genitiv": "des Kalenders",
+        "dativ": "dem Kalender",
+        "akkusativ": "den Kalender"
+      },
+      "plural": {
+        "nominativ": "die Kalender",
+        "genitiv": "der Kalender",
+        "dativ": "den Kalendern",
+        "akkusativ": "die Kalender"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "calendar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calendrier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "takvim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقويم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kalenderblatt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kalenderjahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Datum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Termin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kallender",
+    "Calender",
+    "Kalander",
+    "Kaländer",
+    "Kalennder"
+  ]
+}

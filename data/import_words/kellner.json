@@ -1,0 +1,81 @@
+{
+  "lemma": "Kellner",
+  "wortart": "Nomen",
+  "silben": "Kell-ner",
+  "begriffserklaerung": "Ein Kellner arbeitet in einem Restaurant oder Café. Er bringt den Gästen das Essen und die Getränke an den Tisch.",
+  "beispielsatz": "Der Kellner bringt uns die Speisekarte und nimmt unsere Bestellung auf.",
+  "rechtschreibstrategie": "In „Kellner\" steckt ein doppeltes „l\" – sprich das Wort langsam: „Kell-ner\". Das kurze „e\" am Anfang zeigt dir, dass du zwei „l\" schreiben musst.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Keller"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Kellner",
+    "plural": "Kellner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kellner",
+        "genitiv": "des Kellners",
+        "dativ": "dem Kellner",
+        "akkusativ": "den Kellner"
+      },
+      "plural": {
+        "nominativ": "die Kellner",
+        "genitiv": "der Kellner",
+        "dativ": "den Kellnern",
+        "akkusativ": "die Kellner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kelner",
+    "Kelnner",
+    "Kellnner",
+    "Kellnär"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waiter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "garson"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نادل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kellnerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ober"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speisekarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bestellung"
+    }
+  ],
+  "bild_datei": "Kellner.webp",
+  "audio_datei": "Kellner.mp3"
+}

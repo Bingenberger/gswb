@@ -1,0 +1,77 @@
+{
+  "lemma": "Berliner",
+  "wortart": "Nomen",
+  "silben": "Ber-li-ner",
+  "begriffserklaerung": "Ein Berliner ist ein rundes, gefülltes Gebäck aus Hefeteig, das in Fett gebacken wird. Innen steckt meistens Marmelade, und außen ist er mit Zucker bestäubt. Man nennt ihn auch Pfannkuchen oder Krapfen.",
+  "beispielsatz": "Zum Geburtstag hat Mama leckere Berliner mit Erdbeermarmelade gekauft.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ber-li-ner. Das „i\" in der Mitte ist kurz, aber es gibt keinen Doppelkonsonanten – das Wort wird einfach so geschrieben, wie man es spricht.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Berlin"
+  ],
+  "bild_datei": "Berliner.webp",
+  "audio_datei": "Berliner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jelly doughnut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "beignet berlinois"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Berliner (reçelli hamur tatlısı)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برلينر (كعكة محشوة بالمربى)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Berlin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krapfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pfannkuchen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Berliner",
+    "plural": "die Berliner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Berliner",
+        "genitiv": "des Berliners",
+        "dativ": "dem Berliner",
+        "akkusativ": "den Berliner"
+      },
+      "plural": {
+        "nominativ": "die Berliner",
+        "genitiv": "der Berliner",
+        "dativ": "den Berlinern",
+        "akkusativ": "die Berliner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bärliner",
+    "Berlienner",
+    "Berlihner",
+    "Berlinner"
+  ]
+}

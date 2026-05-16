@@ -1,0 +1,83 @@
+{
+  "lemma": "Torwart",
+  "wortart": "Nomen",
+  "silben": "Tor-wart",
+  "begriffserklaerung": "Der Torwart ist ein Spieler beim Fußball oder anderen Mannschaftssportarten, der das eigene Tor bewacht und verhindert, dass der Ball ins Netz geht.",
+  "beispielsatz": "Der Torwart hält den Ball mit beiden Händen fest und rettet das Spiel für sein Team.",
+  "rechtschreibstrategie": "„Torwart\" ist aus zwei Wörtern zusammengebaut: „Tor\" und „Wart\". Sprich beide Teile deutlich nach: TOR – WART. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tor",
+    "Wart"
+  ],
+  "bild_datei": "Torwart.webp",
+  "audio_datei": "Torwart.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goalkeeper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gardien de but"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaleci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس المرمى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tor"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Torfrau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keeper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Torwart",
+    "plural": "die Torwarte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Torwart",
+        "genitiv": "des Torwarts",
+        "dativ": "dem Torwart",
+        "akkusativ": "den Torwart"
+      },
+      "plural": {
+        "nominativ": "die Torwarte",
+        "genitiv": "der Torwarte",
+        "dativ": "den Torwarten",
+        "akkusativ": "die Torwarte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Thorwart",
+    "Torwhard",
+    "Torwahrt",
+    "Torwart",
+    "Toorwart"
+  ]
+}

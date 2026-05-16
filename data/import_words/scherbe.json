@@ -1,0 +1,79 @@
+{
+  "lemma": "Scherbe",
+  "wortart": "Nomen",
+  "silben": "Scher-be",
+  "begriffserklaerung": "Eine Scherbe ist ein spitzes Stück, das übrig bleibt, wenn etwas aus Glas oder Ton kaputtgeht.",
+  "beispielsatz": "Pass auf, auf dem Boden liegt eine Scherbe vom zerbrochenen Glas!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Scher-be. Du hörst ein kurzes „e\" nach dem „Sch\" – deshalb schreibt man „Scher\" mit nur einem „r\". Das Wort endet auf „-be\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Scherb"
+  ],
+  "bild_datei": "Scherbe.webp",
+  "audio_datei": "Scherbe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shard / piece of broken glass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tesson / éclat de verre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıymık / cam kırığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شظية / كسرة زجاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Scherben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Splitter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Splitter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Scherbe",
+    "plural": "die Scherben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Scherbe",
+        "genitiv": "der Scherbe",
+        "dativ": "der Scherbe",
+        "akkusativ": "die Scherbe"
+      },
+      "plural": {
+        "nominativ": "die Scherben",
+        "genitiv": "der Scherben",
+        "dativ": "den Scherben",
+        "akkusativ": "die Scherben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Scherbbe",
+    "Sherbe",
+    "Scherpe",
+    "Scherb",
+    "Schärbe",
+    "Scherfe"
+  ]
+}

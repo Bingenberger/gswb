@@ -1,0 +1,78 @@
+{
+  "lemma": "Flohmarkt",
+  "wortart": "Nomen",
+  "silben": "Floh-markt",
+  "begriffserklaerung": "Ein Flohmarkt ist ein Markt, auf dem Menschen gebrauchte Dinge verkaufen, die sie nicht mehr brauchen – zum Beispiel alte Spielsachen, Bücher oder Kleider.",
+  "beispielsatz": "Am Samstag gehen wir zum Flohmarkt und suchen nach günstigen Büchern und alten Spielsachen.",
+  "rechtschreibstrategie": "„Flohmarkt\" ist ein zusammengesetztes Wort aus „Floh\" und „Markt\". Sprich beide Teile getrennt und schreibe sie dann zusammen: Floh + Markt = Flohmarkt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Markt"
+  ],
+  "bild_datei": "Flohmarkt.webp",
+  "audio_datei": "Flohmarkt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flohmarkt",
+    "plural": "die Flohmärkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flohmarkt",
+        "genitiv": "des Flohmarkts",
+        "dativ": "dem Flohmarkt",
+        "akkusativ": "den Flohmarkt"
+      },
+      "plural": {
+        "nominativ": "die Flohmärkte",
+        "genitiv": "der Flohmärkte",
+        "dativ": "den Flohmärkten",
+        "akkusativ": "die Flohmärkte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flea market"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marché aux puces"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bit pazarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوق البراغيث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trödelmarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trödelmarkt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flomarkt",
+    "Flochmarkt",
+    "Flohmarck",
+    "Flohmarrd",
+    "Flowmarkt"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Magie",
+  "wortart": "Nomen",
+  "silben": "Ma-gie",
+  "begriffserklaerung": "Magie ist etwas Geheimnisvolles und Zauberhaftes, das wie ein Wunder wirkt und sich nicht einfach erklären lässt.",
+  "beispielsatz": "In dem Märchen rettet die Magie der guten Fee das kleine Mädchen.",
+  "rechtschreibstrategie": "Das Wort „Magie\" endet auf -ie. Dieses -ie musst du dir merken, denn man hört nur ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "magi"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Magie",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Magie",
+        "genitiv": "der Magie",
+        "dativ": "der Magie",
+        "akkusativ": "die Magie"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Magie",
+    "Mahgie",
+    "Maggie",
+    "Magy",
+    "Majie",
+    "Magei"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "magisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Magier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zauber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hexe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunder"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "magie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sihir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سحر"
+    }
+  ],
+  "bild_datei": "Magie.webp",
+  "audio_datei": "Magie.mp3"
+}

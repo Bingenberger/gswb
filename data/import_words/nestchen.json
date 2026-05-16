@@ -1,0 +1,83 @@
+{
+  "lemma": "Nestchen",
+  "wortart": "Nomen",
+  "silben": "Nest-chen",
+  "begriffserklaerung": "Ein Nestchen ist ein kleines Nest, zum Beispiel das winzige Zuhause eines kleinen Vogels.",
+  "beispielsatz": "Im Gebüsch versteckte sich ein niedliches Nestchen mit drei kleinen Eiern darin.",
+  "rechtschreibstrategie": "Denk an das große Wort „Nest\" – dann hängst du einfach „-chen\" dran: Nest + chen = Nestchen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Nest"
+  ],
+  "bild_datei": "Nestchen.webp",
+  "audio_datei": "Nestchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nestchen",
+    "plural": "die Nestchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nestchen",
+        "genitiv": "des Nestchens",
+        "dativ": "dem Nestchen",
+        "akkusativ": "das Nestchen"
+      },
+      "plural": {
+        "nominativ": "die Nestchen",
+        "genitiv": "der Nestchen",
+        "dativ": "den Nestchen",
+        "akkusativ": "die Nestchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little nest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit nid"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük yuva"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عُشٌّ صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nest"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nisten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nistplatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nesschen",
+    "Nästchen",
+    "Nesthen",
+    "Neschen",
+    "Netschen"
+  ]
+}

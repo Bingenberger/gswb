@@ -1,0 +1,74 @@
+{
+  "lemma": "Kilometer",
+  "wortart": "Nomen",
+  "silben": "Ki-lo-me-ter",
+  "begriffserklaerung": "Ein Kilometer ist eine Längeneinheit. Er ist 1000 Meter lang. Man schreibt dafür oft kurz „km\".",
+  "beispielsatz": "Von unserem Haus bis zur Schule sind es genau zwei Kilometer.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ki-lo-me-ter. Jede Silbe wird deutlich gesprochen – schreib einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Meter"
+  ],
+  "bild_datei": "Kilometer.webp",
+  "audio_datei": "Kilometer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "kilometer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "kilomètre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kilometre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كيلومتر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entfernung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Längenmaß"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kilometer",
+    "plural": "die Kilometer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kilometer",
+        "genitiv": "des Kilometers",
+        "dativ": "dem Kilometer",
+        "akkusativ": "den Kilometer"
+      },
+      "plural": {
+        "nominativ": "die Kilometer",
+        "genitiv": "der Kilometer",
+        "dativ": "den Kilometern",
+        "akkusativ": "die Kilometer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Killometer",
+    "Chilometer",
+    "Kilometter",
+    "Kilmeter",
+    "Kilomter"
+  ]
+}

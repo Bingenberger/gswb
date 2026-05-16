@@ -1,0 +1,77 @@
+{
+  "lemma": "Auszeit",
+  "wortart": "Nomen",
+  "silben": "Aus-zeit",
+  "begriffserklaerung": "Eine Auszeit ist eine kurze Pause, in der man sich erholt und durchatmet – zum Beispiel beim Sport oder wenn man einfach mal Ruhe braucht.",
+  "beispielsatz": "Der Trainer gibt seiner Mannschaft eine Auszeit, damit die Spieler kurz verschnaufen können.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „aus\" und „Zeit\". Schreibe einfach beide Teile zusammen: Auszeit.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zeit"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Auszeit",
+    "plural": "die Auszeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Auszeit",
+        "genitiv": "der Auszeit",
+        "dativ": "der Auszeit",
+        "akkusativ": "die Auszeit"
+      },
+      "plural": {
+        "nominativ": "die Auszeiten",
+        "genitiv": "der Auszeiten",
+        "dativ": "den Auszeiten",
+        "akkusativ": "die Auszeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Auszeid",
+    "Auszait",
+    "Austzei",
+    "Auszzeit"
+  ],
+  "bild_datei": "Auszeit.webp",
+  "audio_datei": "Auszeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "time-out"
+    },
+    {
+      "language_code": "fr",
+      "translation": "temps mort"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mola"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استراحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erholung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ]
+}

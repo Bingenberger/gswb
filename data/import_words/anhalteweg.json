@@ -1,0 +1,85 @@
+{
+  "lemma": "Anhalteweg",
+  "wortart": "Nomen",
+  "silben": "An-hal-te-weg",
+  "begriffserklaerung": "Der Anhalteweg ist die Strecke, die ein Fahrzeug nach dem Bremsen noch zurücklegt, bis es ganz stehen bleibt. Er setzt sich aus dem Reaktionsweg und dem Bremsweg zusammen.",
+  "beispielsatz": "Der Busfahrer erklärte den Kindern, dass der Anhalteweg bei Regen viel länger ist als bei trockenem Wetter.",
+  "rechtschreibstrategie": "Das Wort „Anhalteweg\" ist aus drei Teilen zusammengebaut: „An\" + „halte\" + „weg\". Sprich alle Bausteine laut mit – dann schreibst du sie richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "halt",
+    "Weg"
+  ],
+  "bild_datei": "Anhalteweg.webp",
+  "audio_datei": "Anhalteweg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anhalteweg",
+    "plural": "die Anhaltewege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anhalteweg",
+        "genitiv": "des Anhalteweges",
+        "dativ": "dem Anhalteweg",
+        "akkusativ": "den Anhalteweg"
+      },
+      "plural": {
+        "nominativ": "die Anhaltewege",
+        "genitiv": "der Anhaltewege",
+        "dativ": "den Anhaltewegen",
+        "akkusativ": "die Anhaltewege"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stopping distance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distance d'arrêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "frenleme mesafesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسافة التوقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anhalten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bremsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reaktionsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bremsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrssicherheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anhalteweeg",
+    "Anhalteweig",
+    "Anhaltewäg",
+    "Anhaltewegh",
+    "Anhaltweg",
+    "Anhalltweg"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Weide",
+  "wortart": "Nomen",
+  "silben": "Wei-de",
+  "begriffserklaerung": "Eine Weide ist ein Baum mit langen, hängenden Ästen und schmalen Blättern, der oft am Wasser wächst. Weide ist aber auch eine Wiese, auf der Tiere wie Kühe oder Schafe fressen und grasen.",
+  "beispielsatz": "Die Kühe stehen auf der grünen Weide und fressen Gras.",
+  "rechtschreibstrategie": "Das Wort „Weide\" hat ein langes „ei\" in der ersten Silbe – sprich es laut: Wei-de. Das „ei\" schreibst du mit E und I.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "weid"
+  ],
+  "bild_datei": "Weide.webp",
+  "audio_datei": "Weide.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Weide",
+    "plural": "die Weiden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Weide",
+        "genitiv": "der Weide",
+        "dativ": "der Weide",
+        "akkusativ": "die Weide"
+      },
+      "plural": {
+        "nominativ": "die Weiden",
+        "genitiv": "der Weiden",
+        "dativ": "den Weiden",
+        "akkusativ": "die Weiden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "willow / pasture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saule / pâturage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "söğüt / otlak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صفصاف / مرعى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weideland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weidebaum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weite",
+    "Weide",
+    "Vaide",
+    "Waide",
+    "Weyde"
+  ]
+}

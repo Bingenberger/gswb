@@ -1,0 +1,91 @@
+{
+  "lemma": "singen",
+  "wortart": "Verb",
+  "silben": "sin-gen",
+  "begriffserklaerung": "Singen bedeutet, mit der Stimme Melodien und Töne zu machen, oft mit Wörtern dazu.",
+  "beispielsatz": "Die Kinder singen zusammen ein schönes Lied.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „sin-gen\". Du hörst ein kurzes „i\" – deshalb schreibt man „ng\". Merke: sin-gen, wie klingen oder springen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "singen",
+    "praesens": {
+      "ich": "ich singe",
+      "du": "du singst",
+      "er_sie_es": "er/sie/es singt",
+      "wir": "wir singen",
+      "ihr": "ihr singt",
+      "sie": "sie singen"
+    },
+    "perfekt": {
+      "ich": "ich habe gesungen",
+      "du": "du hast gesungen",
+      "er_sie_es": "er/sie/es hat gesungen",
+      "wir": "wir haben gesungen",
+      "ihr": "ihr habt gesungen",
+      "sie": "sie haben gesungen"
+    },
+    "praeteritum": {
+      "ich": "ich sang",
+      "du": "du sangst",
+      "er_sie_es": "er/sie/es sang",
+      "wir": "wir sangen",
+      "ihr": "ihr sangt",
+      "sie": "sie sangen"
+    }
+  },
+  "wortfamilie_basen": [
+    "sing"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sing"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "trällern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tanzen"
+    }
+  ],
+  "fehlschreibungen": [
+    "singen",
+    "zingen",
+    "sinken",
+    "sigen",
+    "singgen",
+    "sinng"
+  ],
+  "bild_datei": "singen.webp",
+  "audio_datei": "singen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chanter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarkı söylemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُغَنِّي"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Klotz",
+  "wortart": "Nomen",
+  "silben": "Klotz",
+  "begriffserklaerung": "Ein Klotz ist ein dicker, schwerer Block aus Holz oder einem anderen festen Material.",
+  "beispielsatz": "Der Zimmermann sägt einen Klotz Holz in viele kleine Stücke.",
+  "rechtschreibstrategie": "Nach dem kurzen „o\" schreibt man „tz\" – das ist das Kürzezeichen. Sprich: Kl-o-tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Klotz"
+  ],
+  "bild_datei": "Klotz.webp",
+  "audio_datei": "Klotz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "block"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bloc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kütük"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة خشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klotzig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klotzbrücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Block"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Balken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Block"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klotz",
+    "plural": "die Klötze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klotz",
+        "genitiv": "des Klotzes",
+        "dativ": "dem Klotz",
+        "akkusativ": "den Klotz"
+      },
+      "plural": {
+        "nominativ": "die Klötze",
+        "genitiv": "der Klötze",
+        "dativ": "den Klötzen",
+        "akkusativ": "die Klötze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klos",
+    "Clotz",
+    "Kloz",
+    "Klotzz",
+    "Glotz"
+  ]
+}

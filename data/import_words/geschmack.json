@@ -1,0 +1,88 @@
+{
+  "lemma": "Geschmack",
+  "wortart": "Nomen",
+  "silben": "Ge-schmack",
+  "begriffserklaerung": "Der Geschmack ist das, was du auf deiner Zunge spürst, wenn du etwas isst oder trinkst – zum Beispiel süß, sauer, salzig oder bitter.",
+  "beispielsatz": "Der Geschmack von frischen Erdbeeren ist herrlich süß.",
+  "rechtschreibstrategie": "Das Wort endet auf -ck, weil der Vokal „a\" kurz gesprochen wird. Nach einem kurzen Vokal schreibt man immer ck statt kk!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schmeck",
+    "schmack"
+  ],
+  "bild_datei": "Geschmack.webp",
+  "audio_datei": "Geschmack.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geschmack",
+    "plural": "die Geschmäcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geschmack",
+        "genitiv": "des Geschmacks",
+        "dativ": "dem Geschmack",
+        "akkusativ": "den Geschmack"
+      },
+      "plural": {
+        "nominativ": "die Geschmäcke",
+        "genitiv": "der Geschmäcke",
+        "dativ": "den Geschmäcken",
+        "akkusativ": "die Geschmäcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "taste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "goût"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طعم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschmackvoll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aroma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geruch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gschmack",
+    "Geschmak",
+    "Geschmakk",
+    "Gescmack",
+    "Geshcmack",
+    "Geschmach"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Befehlsfolge",
+  "wortart": "Nomen",
+  "silben": "Be-fehls-fol-ge",
+  "begriffserklaerung": "Eine Befehlsfolge ist eine Reihe von Anweisungen, die nacheinander ausgeführt werden – zum Beispiel von einem Computer oder Roboter.",
+  "beispielsatz": "Der Roboter folgt einer Befehlsfolge und räumt zuerst auf, dann macht er das Licht aus.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Be-fehl\" + „s\" + „Fol-ge\". Sprich alle Teile einzeln, dann schreibst du sie leicht richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Befehl",
+    "Folge"
+  ],
+  "bild_datei": "Befehlsfolge.webp",
+  "audio_datei": "Befehlsfolge.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Befehlsfolge",
+    "plural": "die Befehlsfolgen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Befehlsfolge",
+        "genitiv": "der Befehlsfolge",
+        "dativ": "der Befehlsfolge",
+        "akkusativ": "die Befehlsfolge"
+      },
+      "plural": {
+        "nominativ": "die Befehlsfolgen",
+        "genitiv": "der Befehlsfolgen",
+        "dativ": "den Befehlsfolgen",
+        "akkusativ": "die Befehlsfolgen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sequence of commands"
+    },
+    {
+      "language_code": "fr",
+      "translation": "séquence de commandes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "komut dizisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسلسل الأوامر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Befehl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Folge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Algorithmus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anweisungsreihe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Befelsfolge",
+    "Befehlfolge",
+    "Befehlsfolgte",
+    "Befählsfolge",
+    "Befehlsfolke"
+  ]
+}

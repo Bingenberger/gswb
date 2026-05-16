@@ -1,0 +1,83 @@
+{
+  "lemma": "Bundesrepublik",
+  "wortart": "Nomen",
+  "silben": "Bun-des-re-pu-blik",
+  "begriffserklaerung": "Eine Bundesrepublik ist ein Staat, der aus mehreren Bundesländern besteht. In Deutschland heißt unser Land offiziell „Bundesrepublik Deutschland\".",
+  "beispielsatz": "Wir leben in der Bundesrepublik Deutschland.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Bundes\" + „re\" + „publik\". Sprich alle Teile laut mit: Bun-des-re-pu-blik. Das „k\" am Ende hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bund",
+    "Republik"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bundesrepublik",
+    "plural": "die Bundesrepubliken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bundesrepublik",
+        "genitiv": "der Bundesrepublik",
+        "dativ": "der Bundesrepublik",
+        "akkusativ": "die Bundesrepublik"
+      },
+      "plural": {
+        "nominativ": "die Bundesrepubliken",
+        "genitiv": "der Bundesrepubliken",
+        "dativ": "den Bundesrepubliken",
+        "akkusativ": "die Bundesrepubliken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bundesrepuplik",
+    "Bundsrepublik",
+    "Bundesrepublig",
+    "Bundesrepuplic",
+    "Bundesrepupblik"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Republik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deutschland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bundesland"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "federal republic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "république fédérale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "federal cumhuriyet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جمهورية فيدرالية"
+    }
+  ],
+  "bild_datei": "Bundesrepublik.webp",
+  "audio_datei": "Bundesrepublik.mp3"
+}

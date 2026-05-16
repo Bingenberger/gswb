@@ -1,0 +1,87 @@
+{
+  "lemma": "Volk",
+  "wortart": "Nomen",
+  "silben": "Volk",
+  "begriffserklaerung": "Ein Volk ist eine große Gruppe von Menschen, die zusammengehören, weil sie dieselbe Sprache sprechen, in einem Land leben oder eine gemeinsame Geschichte haben.",
+  "beispielsatz": "Das deutsche Volk feiert am 3. Oktober den Tag der Deutschen Einheit.",
+  "rechtschreibstrategie": "Das Wort „Volk\" beginnt mit einem großen V – das ist ein Merkwort! Denk daran: Alle Nomen schreibt man groß, und das V klingt wie ein F.",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "volk",
+    "völk"
+  ],
+  "bild_datei": "Volk.webp",
+  "audio_datei": "Volk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "people / nation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peuple"
+    },
+    {
+      "language_code": "tr",
+      "translation": "halk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شعب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Völker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "völkisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Volkslied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bevölkerung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Volk",
+    "plural": "die Völker",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Volk",
+        "genitiv": "des Volkes",
+        "dativ": "dem Volk",
+        "akkusativ": "das Volk"
+      },
+      "plural": {
+        "nominativ": "die Völker",
+        "genitiv": "der Völker",
+        "dativ": "den Völkern",
+        "akkusativ": "die Völker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Folk",
+    "Folck",
+    "Volck",
+    "Vólk",
+    "Volk's"
+  ]
+}

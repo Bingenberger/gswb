@@ -1,0 +1,90 @@
+{
+  "lemma": "Ortschaft",
+  "wortart": "Nomen",
+  "silben": "Ort-schaft",
+  "begriffserklaerung": "Eine Ortschaft ist ein kleiner Ort, ein Dorf oder eine Gemeinde, in der Menschen wohnen.",
+  "beispielsatz": "Hinter dem Wald liegt eine kleine Ortschaft mit einem Spielplatz.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Ort\" und „-schaft\". Sprich beide Teile deutlich: Ort-schaft!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Ort"
+  ],
+  "bild_datei": "Ortschaft.webp",
+  "audio_datei": "Ortschaft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "village / locality"
+    },
+    {
+      "language_code": "fr",
+      "translation": "localité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yerleşim yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "örtlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dorf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dorf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ortschaft",
+    "plural": "die Ortschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ortschaft",
+        "genitiv": "der Ortschaft",
+        "dativ": "der Ortschaft",
+        "akkusativ": "die Ortschaft"
+      },
+      "plural": {
+        "nominativ": "die Ortschaften",
+        "genitiv": "der Ortschaften",
+        "dativ": "den Ortschaften",
+        "akkusativ": "die Ortschaften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ortchaft",
+    "Ortshaft",
+    "Orrschaft",
+    "Ortschafft",
+    "Ordschaft"
+  ]
+}

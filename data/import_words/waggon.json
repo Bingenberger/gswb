@@ -1,0 +1,71 @@
+{
+  "lemma": "Waggon",
+  "wortart": "Nomen",
+  "silben": "Wag-gon",
+  "begriffserklaerung": "Ein Waggon ist ein einzelner Wagen eines Zuges, in dem Menschen sitzen oder Güter transportiert werden.",
+  "beispielsatz": "Die Kinder stiegen in den letzten Waggon des Zuges ein.",
+  "rechtschreibstrategie": "Beim Wort „Waggon\" schreibt man zwei „g\" hintereinander – das ist ein Merkwort, das du dir einfach merken musst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Waggon.webp",
+  "audio_datei": "Waggon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wagon / (railway) carriage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "wagon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vagon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عربة قطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lokomotive"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zugwagen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Waggon",
+    "plural": "die Waggons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Waggon",
+        "genitiv": "des Waggons",
+        "dativ": "dem Waggon",
+        "akkusativ": "den Waggon"
+      },
+      "plural": {
+        "nominativ": "die Waggons",
+        "genitiv": "der Waggons",
+        "dativ": "den Waggons",
+        "akkusativ": "die Waggons"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wagon",
+    "Vagон",
+    "Waggohn"
+  ]
+}

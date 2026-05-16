@@ -1,0 +1,72 @@
+{
+  "lemma": "Stier",
+  "wortart": "Nomen",
+  "silben": "Stier",
+  "begriffserklaerung": "Ein Stier ist ein erwachsenes männliches Rind. Er ist kräftig und hat oft Hörner.",
+  "beispielsatz": "Der Stier steht auf der Wiese und frisst Gras.",
+  "rechtschreibstrategie": "Das Wort „Stier\" hat ein langes „ie\" – das schreibt man immer mit ie, nicht mit einem einfachen i.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Stier.webp",
+  "audio_datei": "Stier.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bull"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taureau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boğa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bulle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bulle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stier",
+    "plural": "die Stiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stier",
+        "genitiv": "des Stieres",
+        "dativ": "dem Stier",
+        "akkusativ": "den Stier"
+      },
+      "plural": {
+        "nominativ": "die Stiere",
+        "genitiv": "der Stiere",
+        "dativ": "den Stieren",
+        "akkusativ": "die Stiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stir",
+    "Stier",
+    "Styer",
+    "Shtier",
+    "Stiehr"
+  ]
+}

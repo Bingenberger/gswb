@@ -1,0 +1,84 @@
+{
+  "lemma": "Stockbrot",
+  "wortart": "Nomen",
+  "silben": "Stock-brot",
+  "begriffserklaerung": "Stockbrot ist Brotteig, den man um einen langen Stock wickelt und über einem Lagerfeuer bäckt.",
+  "beispielsatz": "Am Lagerfeuer haben wir leckeres Stockbrot gebacken.",
+  "rechtschreibstrategie": "Stockbrot ist aus zwei Wörtern zusammengesetzt: „Stock\" und „Brot\". Schreib einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stock",
+    "Brot"
+  ],
+  "bild_datei": "Stockbrot.webp",
+  "audio_datei": "Stockbrot.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stick bread"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pain sur bâton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çubuk ekmeği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبز العصا"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lagerfeuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stockbrot",
+    "plural": "die Stockbrote",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stockbrot",
+        "genitiv": "des Stockbrotes",
+        "dativ": "dem Stockbrot",
+        "akkusativ": "das Stockbrot"
+      },
+      "plural": {
+        "nominativ": "die Stockbrote",
+        "genitiv": "der Stockbrote",
+        "dativ": "den Stockbroten",
+        "akkusativ": "die Stockbrote"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stokbrot",
+    "Stockbrodt",
+    "Stokbrodt",
+    "Shtockbrot",
+    "Stockbrod"
+  ]
+}

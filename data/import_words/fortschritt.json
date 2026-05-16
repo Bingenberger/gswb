@@ -1,0 +1,87 @@
+{
+  "lemma": "Fortschritt",
+  "wortart": "Nomen",
+  "silben": "Fort-schritt",
+  "begriffserklaerung": "Ein Fortschritt bedeutet, dass man bei etwas besser wird oder weiterkommt – zum Beispiel beim Lernen oder beim Üben.",
+  "beispielsatz": "Lena macht beim Lesen große Fortschritte und kann jetzt schon ganze Bücher lesen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „fort\" und „Schritt\". Denk an das kurze i in „Schritt\" – deshalb schreibt man zwei t!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fort",
+    "schreiten"
+  ],
+  "bild_datei": "Fortschritt.webp",
+  "audio_datei": "Fortschritt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fortschritt",
+    "plural": "die Fortschritte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fortschritt",
+        "genitiv": "des Fortschritts",
+        "dativ": "dem Fortschritt",
+        "akkusativ": "den Fortschritt"
+      },
+      "plural": {
+        "nominativ": "die Fortschritte",
+        "genitiv": "der Fortschritte",
+        "dativ": "den Fortschritten",
+        "akkusativ": "die Fortschritte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "progress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "progrès"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilerleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fortschreiten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fortschrittlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verbesserung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erfolg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leistung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fortschrit",
+    "Fortschridt",
+    "Forthschritt",
+    "Forschritt"
+  ]
+}

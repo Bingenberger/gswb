@@ -1,0 +1,91 @@
+{
+  "lemma": "Neuerung",
+  "wortart": "Nomen",
+  "silben": "Neu-e-rung",
+  "begriffserklaerung": "Eine Neuerung ist etwas, das neu eingeführt wird und etwas verändert oder verbessert.",
+  "beispielsatz": "Die Schule hat eine Neuerung eingeführt: Jetzt gibt es jeden Freitag einen Spielenachmittag.",
+  "rechtschreibstrategie": "Denk an das Wort „neu\" – das steckt am Anfang von „Neuerung\" drin. Sprich alle Silben deutlich: Neu-e-rung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "neu"
+  ],
+  "bild_datei": "Neuerung.webp",
+  "audio_datei": "Neuerung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Neuerung",
+    "plural": "die Neuerungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Neuerung",
+        "genitiv": "der Neuerung",
+        "dativ": "der Neuerung",
+        "akkusativ": "die Neuerung"
+      },
+      "plural": {
+        "nominativ": "die Neuerungen",
+        "genitiv": "der Neuerungen",
+        "dativ": "den Neuerungen",
+        "akkusativ": "die Neuerungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "innovation, new development"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nouveauté, innovation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yenilik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تجديد، ابتكار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "neu"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erneuern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Neuigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Veränderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erfindung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verbesserung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fortschritt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Neierung",
+    "Neueruing",
+    "Neuerunk",
+    "Neüerung",
+    "Newerung"
+  ]
+}

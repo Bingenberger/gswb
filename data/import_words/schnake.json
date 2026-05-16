@@ -1,0 +1,73 @@
+{
+  "lemma": "Schnake",
+  "wortart": "Nomen",
+  "silben": "Schna-ke",
+  "begriffserklaerung": "Eine Schnake ist ein großes, langbeiniges Insekt, das wie eine riesige Mücke aussieht. Sie ist harmlos und sticht nicht.",
+  "beispielsatz": "Eine Schnake sitzt auf dem Fensterglas und putzt sich die langen Beine.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Schna-ke\". Am Ende hörst du ein weiches „e\" – das schreibt man mit einem „e\". Das „ck\" am Ende gibt es hier nicht, denn der Vokal ist lang.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schnake"
+  ],
+  "bild_datei": "Schnake.webp",
+  "audio_datei": "Schnake.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crane fly"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tipule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzun bacaklı sinek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذبابة الكرين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Daddy Longlegs"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schnake",
+    "plural": "die Schnaken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schnake",
+        "genitiv": "der Schnake",
+        "dativ": "der Schnake",
+        "akkusativ": "die Schnake"
+      },
+      "plural": {
+        "nominativ": "die Schnaken",
+        "genitiv": "der Schnaken",
+        "dativ": "den Schnaken",
+        "akkusativ": "die Schnaken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schnacke",
+    "Schnaake",
+    "Shnake",
+    "Schnnake"
+  ]
+}

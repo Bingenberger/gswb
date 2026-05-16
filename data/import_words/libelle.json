@@ -1,0 +1,72 @@
+{
+  "lemma": "Libelle",
+  "wortart": "Nomen",
+  "silben": "Li-bel-le",
+  "begriffserklaerung": "Eine Libelle ist ein Insekt mit einem langen, schmalen Körper und vier durchsichtigen Flügeln. Sie lebt in der Nähe von Teichen und Bächen und kann sehr schnell fliegen.",
+  "beispielsatz": "Die bunte Libelle fliegt schnell über den Teich.",
+  "rechtschreibstrategie": "Das Wort „Libelle\" hat am Ende ein Doppel-l. Denk daran: Li-bel-le – sprich es in Silben, dann hörst du das „ll\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Libelle.webp",
+  "audio_datei": "Libelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Libelle",
+    "plural": "die Libellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Libelle",
+        "genitiv": "der Libelle",
+        "dativ": "der Libelle",
+        "akkusativ": "die Libelle"
+      },
+      "plural": {
+        "nominativ": "die Libellen",
+        "genitiv": "der Libellen",
+        "dativ": "den Libellen",
+        "akkusativ": "die Libellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dragonfly"
+    },
+    {
+      "language_code": "fr",
+      "translation": "libellule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yusufçuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اليعسوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Libele",
+    "Libbelle",
+    "Libälle",
+    "Lybelle",
+    "Libell"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Bauplatz",
+  "wortart": "Nomen",
+  "silben": "Bau-platz",
+  "begriffserklaerung": "Ein Bauplatz ist ein Stück Land, auf dem ein Haus oder ein anderes Gebäude gebaut werden soll oder gerade gebaut wird.",
+  "beispielsatz": "Auf dem Bauplatz nebenan arbeiten jeden Tag viele Bauarbeiter.",
+  "rechtschreibstrategie": "Das Wort „Bauplatz\" besteht aus zwei Teilen: „Bau\" und „Platz\". Sprich beide Teile deutlich: Bau-platz. Das „tz\" am Ende schreibst du, weil nach dem kurzen „a\" in „Platz\" ein Kürzezeichen folgt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bau",
+    "platz"
+  ],
+  "bild_datei": "Bauplatz.webp",
+  "audio_datei": "Bauplatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "construction site"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chantier de construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "inşaat alanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقع البناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "platz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Baustelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauplatz",
+    "plural": "die Bauplätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauplatz",
+        "genitiv": "des Bauplatzes",
+        "dativ": "dem Bauplatz",
+        "akkusativ": "den Bauplatz"
+      },
+      "plural": {
+        "nominativ": "die Bauplätze",
+        "genitiv": "der Bauplätze",
+        "dativ": "den Bauplätzen",
+        "akkusativ": "die Bauplätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bauplaz",
+    "Bauplattz",
+    "Bauplats",
+    "Baukplatz",
+    "Bouplatz"
+  ]
+}

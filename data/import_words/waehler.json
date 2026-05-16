@@ -1,0 +1,79 @@
+{
+  "lemma": "Wähler",
+  "wortart": "Nomen",
+  "silben": "Wäh-ler",
+  "begriffserklaerung": "Ein Wähler ist ein Mensch, der bei einer Wahl seine Stimme abgibt und so entscheidet, wer zum Beispiel in der Politik tätig sein soll.",
+  "beispielsatz": "Bei der Bürgermeisterwahl gingen viele Wähler in die Schule, um dort ihre Stimme abzugeben.",
+  "rechtschreibstrategie": "Denk an das Wort „wählen\" – das ä hörst du beim Verlängern deutlich. So weißt du, dass „Wähler\" mit ä geschrieben wird.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wähl"
+  ],
+  "bild_datei": "Wähler.webp",
+  "audio_datei": "Wähler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "voter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "électeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seçmen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ناخب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kandidat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wähler",
+    "plural": "die Wähler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wähler",
+        "genitiv": "des Wählers",
+        "dativ": "dem Wähler",
+        "akkusativ": "den Wähler"
+      },
+      "plural": {
+        "nominativ": "die Wähler",
+        "genitiv": "der Wähler",
+        "dativ": "den Wählern",
+        "akkusativ": "die Wähler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wehler",
+    "Waehler",
+    "Wähller",
+    "Weler",
+    "Välher"
+  ]
+}

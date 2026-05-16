@@ -1,0 +1,96 @@
+{
+  "lemma": "stehlen",
+  "wortart": "Verb",
+  "silben": "steh-len",
+  "begriffserklaerung": "Wenn jemand etwas stiehlt, nimmt er etwas, das ihm nicht gehört, ohne zu fragen und ohne zu bezahlen. Das ist unehrlich und verboten.",
+  "beispielsatz": "Der Dieb hat dem Kind die Geldbörse gestohlen.",
+  "rechtschreibstrategie": "Das Wort „stehlen\" hat ein Dehnungs-h nach dem „e\". Denk daran: steh-len – das „h\" macht das „e\" lang, aber man hört es nicht.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "stiehl",
+    "stahl"
+  ],
+  "bild_datei": "stehlen.webp",
+  "audio_datei": "stehlen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to steal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Diebstahl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dieb"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gestohlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "klauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lügen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "betrügen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "stehlen",
+    "praesens": {
+      "ich": "stehle",
+      "du": "stiehlst",
+      "er_sie_es": "stiehlt",
+      "wir": "stehlen",
+      "ihr": "stehlt",
+      "sie": "stehlen"
+    },
+    "perfekt": {
+      "ich": "habe gestohlen",
+      "du": "hast gestohlen",
+      "er_sie_es": "hat gestohlen",
+      "wir": "haben gestohlen",
+      "ihr": "habt gestohlen",
+      "sie": "haben gestohlen"
+    },
+    "praeteritum": {
+      "ich": "stahl",
+      "du": "stahlst",
+      "er_sie_es": "stahl",
+      "wir": "stahlen",
+      "ihr": "stahlt",
+      "sie": "stahlen"
+    }
+  },
+  "fehlschreibungen": [
+    "stelen",
+    "steelen",
+    "sthelen",
+    "stehlен",
+    "shtelen",
+    "steheln"
+  ]
+}

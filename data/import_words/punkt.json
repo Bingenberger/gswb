@@ -1,0 +1,82 @@
+{
+  "lemma": "Punkt",
+  "wortart": "Nomen",
+  "silben": "Punkt",
+  "begriffserklaerung": "Ein Punkt ist ein kleines, rundes Zeichen. Er steht am Ende eines Satzes oder markiert eine genaue Stelle.",
+  "beispielsatz": "Am Ende des Satzes steht immer ein Punkt.",
+  "rechtschreibstrategie": "Das „u\" in „Punkt\" ist kurz, und danach kommen gleich zwei Konsonanten: „n\" und „k\". Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Punkt"
+  ],
+  "bild_datei": "Punkt.webp",
+  "audio_datei": "Punkt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dot / point"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nokta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نقطة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "punkten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pünktlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Komma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satzzeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fleck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Punkt",
+    "plural": "die Punkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Punkt",
+        "genitiv": "des Punktes",
+        "dativ": "dem Punkt",
+        "akkusativ": "den Punkt"
+      },
+      "plural": {
+        "nominativ": "die Punkte",
+        "genitiv": "der Punkte",
+        "dativ": "den Punkten",
+        "akkusativ": "die Punkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pungkt",
+    "Bungt",
+    "Pungt",
+    "Punkt",
+    "Punckt"
+  ]
+}

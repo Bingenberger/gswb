@@ -1,0 +1,84 @@
+{
+  "lemma": "Schriftquelle",
+  "wortart": "Nomen",
+  "silben": "Schrift-quel-le",
+  "begriffserklaerung": "Eine Schriftquelle ist ein aufgeschriebener Text, aus dem man etwas über die Vergangenheit oder ein Thema erfahren kann – zum Beispiel ein altes Buch, ein Brief oder eine Urkunde.",
+  "beispielsatz": "Im Geschichtsunterricht haben wir eine alte Schriftquelle gelesen, die vor hundert Jahren geschrieben wurde.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Schrift\" und „Quelle\". Denk daran, dass „Qu\" immer zusammenbleibt und groß geschrieben wird, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Qu"
+  ],
+  "wortfamilie_basen": [
+    "Schrift",
+    "Quell"
+  ],
+  "bild_datei": "Schriftquelle.webp",
+  "audio_datei": "Schriftquelle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schriftquelle",
+    "plural": "die Schriftquellen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schriftquelle",
+        "genitiv": "der Schriftquelle",
+        "dativ": "der Schriftquelle",
+        "akkusativ": "die Schriftquelle"
+      },
+      "plural": {
+        "nominativ": "die Schriftquellen",
+        "genitiv": "der Schriftquellen",
+        "dativ": "den Schriftquellen",
+        "akkusativ": "die Schriftquellen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "written source"
+    },
+    {
+      "language_code": "fr",
+      "translation": "source écrite"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazılı kaynak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصدر مكتوب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schrift"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Quelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urkunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dokument"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Textquelle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schriftqele",
+    "Schrifquelle",
+    "Schriftquele",
+    "Schriffquelle",
+    "Schriftquelle"
+  ]
+}

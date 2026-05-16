@@ -1,0 +1,93 @@
+{
+  "lemma": "Abbildung",
+  "wortart": "Nomen",
+  "silben": "Ab-bil-dung",
+  "begriffserklaerung": "Eine Abbildung ist ein Bild oder eine Zeichnung, die etwas zeigt – zum Beispiel in einem Buch oder in einem Heft.",
+  "beispielsatz": "In unserem Schulbuch gibt es eine schöne Abbildung von einem Schmetterling.",
+  "rechtschreibstrategie": "Denk an das Wort „Bild\" – es steckt in „Abbildung\" drin! Deshalb schreibt man zwei „b\": ab-bil-den.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bild"
+  ],
+  "bild_datei": "Abbildung.webp",
+  "audio_datei": "Abbildung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "illustration / image"
+    },
+    {
+      "language_code": "fr",
+      "translation": "illustration / image"
+    },
+    {
+      "language_code": "tr",
+      "translation": "resim / şekil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صورة / رسم توضيحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abbilden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Illustration"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grafik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulbuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Abbildung",
+    "plural": "die Abbildungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Abbildung",
+        "genitiv": "der Abbildung",
+        "dativ": "der Abbildung",
+        "akkusativ": "die Abbildung"
+      },
+      "plural": {
+        "nominativ": "die Abbildungen",
+        "genitiv": "der Abbildungen",
+        "dativ": "den Abbildungen",
+        "akkusativ": "die Abbildungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abbilddung",
+    "Abbilldung",
+    "Abbildunk",
+    "Abilldung",
+    "Abbieldung",
+    "Abblildung"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Lauch",
+  "wortart": "Nomen",
+  "silben": "Lauch",
+  "begriffserklaerung": "Lauch ist ein langes, grünes Gemüse mit einem weißen Ende. Es sieht aus wie eine dicke Röhre und schmeckt ein bisschen wie Zwiebeln.",
+  "beispielsatz": "Mama schneidet den Lauch klein und gibt ihn in die Suppe.",
+  "rechtschreibstrategie": "Lauch hat nur eine Silbe. Denk an das „au\" in der Mitte – sprich es laut: „Lauch\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Lauch.webp",
+  "audio_datei": "Lauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leek"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poireau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pırasa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كراث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zwiebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Porree"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lauch",
+    "plural": "die Lauche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lauch",
+        "genitiv": "des Lauches",
+        "dativ": "dem Lauch",
+        "akkusativ": "den Lauch"
+      },
+      "plural": {
+        "nominativ": "die Lauche",
+        "genitiv": "der Lauche",
+        "dativ": "den Lauchen",
+        "akkusativ": "die Lauche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Laush",
+    "Lauuch",
+    "Laug",
+    "Loch",
+    "Lauche"
+  ]
+}

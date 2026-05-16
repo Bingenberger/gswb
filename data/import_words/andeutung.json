@@ -1,0 +1,85 @@
+{
+  "lemma": "Andeutung",
+  "wortart": "Nomen",
+  "silben": "An-deu-tung",
+  "begriffserklaerung": "Eine Andeutung ist ein Hinweis, bei dem man etwas nicht ganz genau sagt, sondern es nur ein bisschen durchscheinen lässt.",
+  "beispielsatz": "Lisa machte eine Andeutung, dass sie ein Geheimnis kennt, aber sie verriet es nicht.",
+  "rechtschreibstrategie": "Das Wort „Andeutung\" kommt von „deuten\". Denk beim Schreiben an das Stammwort: deu-ten → An-deu-tung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "deut"
+  ],
+  "bild_datei": "Andeutung.webp",
+  "audio_datei": "Andeutung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Andeutung",
+    "plural": "die Andeutungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Andeutung",
+        "genitiv": "der Andeutung",
+        "dativ": "der Andeutung",
+        "akkusativ": "die Andeutung"
+      },
+      "plural": {
+        "nominativ": "die Andeutungen",
+        "genitiv": "der Andeutungen",
+        "dativ": "den Andeutungen",
+        "akkusativ": "die Andeutungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hint"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allusion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ima"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تلميح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "deuten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bedeutung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinweis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geheimnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Andeutunk",
+    "Andeutung",
+    "Andeuttung",
+    "Andeitung",
+    "Andöitung",
+    "Andeudung"
+  ]
+}

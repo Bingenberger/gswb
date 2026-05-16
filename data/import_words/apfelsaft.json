@@ -1,0 +1,83 @@
+{
+  "lemma": "Apfelsaft",
+  "wortart": "Nomen",
+  "silben": "Ap-fel-saft",
+  "begriffserklaerung": "Apfelsaft ist ein süßes Getränk, das aus gepressten Äpfeln hergestellt wird.",
+  "beispielsatz": "Zum Frühstück trinke ich am liebsten ein Glas Apfelsaft.",
+  "rechtschreibstrategie": "Apfelsaft ist ein zusammengesetztes Wort aus „Apfel\" und „Saft\". Sprich beide Teile einzeln: Ap-fel + Saft. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Apfel",
+    "Saft"
+  ],
+  "bild_datei": "Apfelsaft.webp",
+  "audio_datei": "Apfelsaft.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Apfelsaft",
+    "plural": "die Apfelsäfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Apfelsaft",
+        "genitiv": "des Apfelsaftes",
+        "dativ": "dem Apfelsaft",
+        "akkusativ": "den Apfelsaft"
+      },
+      "plural": {
+        "nominativ": "die Apfelsäfte",
+        "genitiv": "der Apfelsäfte",
+        "dativ": "den Apfelsäften",
+        "akkusativ": "die Apfelsäfte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apple juice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jus de pomme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elma suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصير التفاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Apfel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orangensaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traubensaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Apfelsafft",
+    "Appfelsaft",
+    "Apfälsaft",
+    "Apflesaft",
+    "Apfelsaaft"
+  ]
+}

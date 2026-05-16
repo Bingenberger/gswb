@@ -1,0 +1,70 @@
+{
+  "lemma": "Oma",
+  "wortart": "Nomen",
+  "silben": "O-ma",
+  "begriffserklaerung": "Die Oma ist die Mutter von deiner Mama oder deinem Papa. Sie gehört zu deiner Familie und ist eine Großmutter.",
+  "beispielsatz": "Meine Oma backt die leckersten Kekse der Welt!",
+  "rechtschreibstrategie": "Das Wort „Oma\" schreibt man genau so, wie man es spricht: O-ma. Denk daran: Es ist ein Nomen, also schreiben wir es groß!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Oma.webp",
+  "audio_datei": "Oma.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grandma"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mamie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyükanne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Großmutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Opa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Oma",
+    "plural": "die Omas",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Oma",
+        "genitiv": "der Oma",
+        "dativ": "der Oma",
+        "akkusativ": "die Oma"
+      },
+      "plural": {
+        "nominativ": "die Omas",
+        "genitiv": "der Omas",
+        "dativ": "den Omas",
+        "akkusativ": "die Omas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ohma",
+    "oma",
+    "Omma"
+  ]
+}

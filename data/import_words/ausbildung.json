@@ -1,0 +1,89 @@
+{
+  "lemma": "Ausbildung",
+  "wortart": "Nomen",
+  "silben": "Aus-bil-dung",
+  "begriffserklaerung": "Eine Ausbildung ist eine gezielte Schulung, bei der man lernt, wie man einen Beruf richtig ausübt.",
+  "beispielsatz": "Meine große Schwester macht eine Ausbildung zur Köchin.",
+  "rechtschreibstrategie": "Das Wort „Ausbildung\" ist aus „aus\" und „Bildung\" zusammengesetzt. Denke an das Wort „bilden\" – dann schreibst du die Mitte richtig.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bilden",
+    "Bild"
+  ],
+  "bild_datei": "Ausbildung.webp",
+  "audio_datei": "Ausbildung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ausbildung",
+    "plural": "die Ausbildungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ausbildung",
+        "genitiv": "der Ausbildung",
+        "dativ": "der Ausbildung",
+        "akkusativ": "die Ausbildung"
+      },
+      "plural": {
+        "nominativ": "die Ausbildungen",
+        "genitiv": "der Ausbildungen",
+        "dativ": "den Ausbildungen",
+        "akkusativ": "die Ausbildungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "apprenticeship / training"
+    },
+    {
+      "language_code": "fr",
+      "translation": "formation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğitim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدريب مهني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bilden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bildung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lehre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausbildunk",
+    "Ausbildunng",
+    "Ausbieldung",
+    "Auszbildung",
+    "Ausbilduing"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Luft",
+  "wortart": "Nomen",
+  "silben": "Luft",
+  "begriffserklaerung": "Luft ist das, was uns überall umgibt und was wir zum Atmen brauchen. Wir können sie nicht sehen, aber wir spüren sie zum Beispiel als Wind.",
+  "beispielsatz": "Nach dem Laufen schnappe ich tief nach frischer Luft.",
+  "rechtschreibstrategie": "Das Wort „Luft\" hat nur eine Silbe. Am Ende hörst du „ft\" – schreibe beide Buchstaben: f und t. Verlängere das Wort zu „Lüfte\", dann hörst du beide Buchstaben deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "luft",
+    "lüft"
+  ],
+  "bild_datei": "Luft.webp",
+  "audio_datei": "Luft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "air"
+    },
+    {
+      "language_code": "fr",
+      "translation": "air"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hava"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lüften"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "luftig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atem"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Luft",
+    "plural": "die Lüfte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Luft",
+        "genitiv": "der Luft",
+        "dativ": "der Luft",
+        "akkusativ": "die Luft"
+      },
+      "plural": {
+        "nominativ": "die Lüfte",
+        "genitiv": "der Lüfte",
+        "dativ": "den Lüften",
+        "akkusativ": "die Lüfte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lufd",
+    "Lufft",
+    "Luft",
+    "Lught",
+    "Luuft"
+  ]
+}

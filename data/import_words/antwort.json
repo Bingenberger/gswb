@@ -1,0 +1,82 @@
+{
+  "lemma": "Antwort",
+  "wortart": "Nomen",
+  "silben": "Ant-wort",
+  "begriffserklaerung": "Eine Antwort ist das, was du sagst oder schreibst, wenn dich jemand etwas fragt.",
+  "beispielsatz": "Die Lehrerin stellt eine Frage, und Tim gibt die richtige Antwort.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ant – wort. Achte auf das „t\" am Ende der ersten Silbe – das hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "antwort"
+  ],
+  "bild_datei": "Antwort.webp",
+  "audio_datei": "Antwort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "answer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réponse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "cevap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إجابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "antworten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beantworten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erwiderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gespräch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Antwort",
+    "plural": "die Antworten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Antwort",
+        "genitiv": "der Antwort",
+        "dativ": "der Antwort",
+        "akkusativ": "die Antwort"
+      },
+      "plural": {
+        "nominativ": "die Antworten",
+        "genitiv": "der Antworten",
+        "dativ": "den Antworten",
+        "akkusativ": "die Antworten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Antwot",
+    "Antword",
+    "Antwurt",
+    "Antwurth",
+    "Antwoth"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "Gaststätte",
+  "wortart": "Nomen",
+  "silben": "Gast-stät-te",
+  "begriffserklaerung": "Eine Gaststätte ist ein Ort, wo Menschen essen und trinken können und dafür bezahlen.",
+  "beispielsatz": "Am Sonntag essen wir in der Gaststätte am Marktplatz.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Gast\" und „Stätte\". Bau es zusammen: Gast + Stätte = Gaststätte. Achte auf das ä in „Stätte\" – es kommt von „Stelle\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Gast",
+    "Stätte"
+  ],
+  "bild_datei": "Gaststätte.webp",
+  "audio_datei": "Gaststätte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gaststätte",
+    "plural": "die Gaststätten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gaststätte",
+        "genitiv": "der Gaststätte",
+        "dativ": "der Gaststätte",
+        "akkusativ": "die Gaststätte"
+      },
+      "plural": {
+        "nominativ": "die Gaststätten",
+        "genitiv": "der Gaststätten",
+        "dativ": "den Gaststätten",
+        "akkusativ": "die Gaststätten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "restaurant / pub"
+    },
+    {
+      "language_code": "fr",
+      "translation": "restaurant / auberge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lokanta / meyhane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطعم / حانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gast"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stätte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wirtshaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speisekarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kellner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mahlzeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gasststätte",
+    "Gaststette",
+    "Gasttätte",
+    "Gaststäte",
+    "Gaststatte"
+  ]
+}

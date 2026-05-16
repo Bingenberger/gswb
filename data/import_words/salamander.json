@@ -1,0 +1,72 @@
+{
+  "lemma": "Salamander",
+  "wortart": "Nomen",
+  "silben": "Sa-la-man-der",
+  "begriffserklaerung": "Ein Salamander ist ein kleines Tier mit glatter, feuchter Haut. Er sieht ein bisschen wie eine Eidechse aus und lebt meistens in feuchten Wäldern oder in der Nähe von Wasser.",
+  "beispielsatz": "Im Wald hat Tim unter einem feuchten Stein einen Salamander entdeckt.",
+  "rechtschreibstrategie": "Sprich alle vier Silben deutlich: Sa – la – man – der. Achte auf das kurze „a\" in „man\" – es folgt aber kein Doppelkonsonant. Merke dir das Wort einfach auswendig.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Salamander",
+    "plural": "die Salamander",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Salamander",
+        "genitiv": "des Salamanders",
+        "dativ": "dem Salamander",
+        "akkusativ": "den Salamander"
+      },
+      "plural": {
+        "nominativ": "die Salamander",
+        "genitiv": "der Salamander",
+        "dativ": "den Salamandern",
+        "akkusativ": "die Salamander"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "fehlschreibungen": [
+    "Sallamander",
+    "Salamannder",
+    "Salemander",
+    "Salamanda",
+    "Sallammander"
+  ],
+  "bild_datei": "Salamander.webp",
+  "audio_datei": "Salamander.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salamander"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salamandre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "semender"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سمندر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Molch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eidechse"
+    }
+  ]
+}

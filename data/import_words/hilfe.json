@@ -1,0 +1,83 @@
+{
+  "lemma": "Hilfe",
+  "wortart": "Nomen",
+  "silben": "Hil-fe",
+  "begriffserklaerung": "Hilfe bedeutet, dass jemand einem anderen Menschen etwas Gutes tut oder ihm bei etwas hilft, das er alleine nicht schafft.",
+  "beispielsatz": "Meine Freundin brauchte Hilfe beim Rechnen, und ich habe sie ihr gerne gegeben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Hil-fe\". Das „l\" hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "helfen",
+    "Hilf"
+  ],
+  "bild_datei": "Hilfe.webp",
+  "audio_datei": "Hilfe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "help"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yardım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساعدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "helfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Helfer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterstützung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rettung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fürsorge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hilfe",
+    "plural": "die Hilfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hilfe",
+        "genitiv": "der Hilfe",
+        "dativ": "der Hilfe",
+        "akkusativ": "die Hilfe"
+      },
+      "plural": {
+        "nominativ": "die Hilfen",
+        "genitiv": "der Hilfen",
+        "dativ": "den Hilfen",
+        "akkusativ": "die Hilfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hilve",
+    "Hilife",
+    "Hilff",
+    "Hülfe",
+    "Hilffe"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Hamster",
+  "wortart": "Nomen",
+  "silben": "Ham-ster",
+  "begriffserklaerung": "Ein Hamster ist ein kleines, rundliches Tier mit Backentaschen, in die es Futter stopfen kann. Hamster werden oft als Haustiere gehalten.",
+  "beispielsatz": "Mein Hamster läuft nachts ganz fleißig in seinem Rad.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ham – ster. Nach dem kurzen „a\" hörst du zwei Konsonanten: „m\" und „st\". Schreib beide deutlich mit.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Hamster"
+  ],
+  "bild_datei": "Hamster.webp",
+  "audio_datei": "Hamster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hamster"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hamster"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hamster"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هامستر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hamstern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hamsterkauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meerschweinchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hamster",
+    "plural": "die Hamster",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hamster",
+        "genitiv": "des Hamsters",
+        "dativ": "dem Hamster",
+        "akkusativ": "den Hamster"
+      },
+      "plural": {
+        "nominativ": "die Hamster",
+        "genitiv": "der Hamster",
+        "dativ": "den Hamstern",
+        "akkusativ": "die Hamster"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hamster",
+    "Hampster",
+    "Hamber",
+    "Hamstar",
+    "Hamsder"
+  ]
+}

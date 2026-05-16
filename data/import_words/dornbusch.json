@@ -1,0 +1,84 @@
+{
+  "lemma": "Dornbusch",
+  "wortart": "Nomen",
+  "silben": "Dorn-busch",
+  "begriffserklaerung": "Ein Dornbusch ist ein wilder Strauch mit vielen spitzen Dornen. Er wächst oft am Wegrand, in Hecken oder im Wald.",
+  "beispielsatz": "Der Igel versteckt sich gern unter einem Dornbusch.",
+  "rechtschreibstrategie": "Das Wort „Dornbusch\" besteht aus zwei Teilen: „Dorn\" und „Busch\". Sprich beide Teile laut und deutlich – dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Dorn",
+    "Busch"
+  ],
+  "bild_datei": "Dornbusch.webp",
+  "audio_datei": "Dornbusch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thornbush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "buisson épineux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dikenli çalı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجيرة شوكية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dorn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Busch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strauch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dornenstrauch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dornbusch",
+    "plural": "die Dornbüsche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dornbusch",
+        "genitiv": "des Dornbuschs",
+        "dativ": "dem Dornbusch",
+        "akkusativ": "den Dornbusch"
+      },
+      "plural": {
+        "nominativ": "die Dornbüsche",
+        "genitiv": "der Dornbüsche",
+        "dativ": "den Dornbüschen",
+        "akkusativ": "die Dornbüsche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dornbush",
+    "Dornbuhs",
+    "Dornbusch",
+    "Thornbusch",
+    "Dornbuss",
+    "Dohnbusch"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Richtung",
+  "wortart": "Nomen",
+  "silben": "Rich-tung",
+  "begriffserklaerung": "Eine Richtung zeigt an, wohin man gehen oder schauen soll, zum Beispiel nach links, rechts, oben oder unten.",
+  "beispielsatz": "Der Pfeil zeigt uns die Richtung zum Ausgang.",
+  "rechtschreibstrategie": "Denke an das Wort „richten\" – davon kommt „Richtung\". Du hörst das -ch- deutlich: rich-ten → Rich-tung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "richt"
+  ],
+  "bild_datei": "Richtung.webp",
+  "audio_datei": "Richtung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Richtung",
+    "plural": "die Richtungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Richtung",
+        "genitiv": "der Richtung",
+        "dativ": "der Richtung",
+        "akkusativ": "die Richtung"
+      },
+      "plural": {
+        "nominativ": "die Richtungen",
+        "genitiv": "der Richtungen",
+        "dativ": "den Richtungen",
+        "akkusativ": "die Richtungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "direction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "direction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yön"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اتجاه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richtig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    }
+  ],
+  "fehlschreibungen": [
+    "Richtunk",
+    "Richttung",
+    "Richtuing",
+    "Rchtung",
+    "Richtumg"
+  ]
+}

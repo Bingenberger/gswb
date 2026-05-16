@@ -1,0 +1,78 @@
+{
+  "lemma": "Fledermaus",
+  "wortart": "Nomen",
+  "silben": "Fle-der-maus",
+  "begriffserklaerung": "Eine Fledermaus ist ein kleines Tier mit Flügeln aus Haut. Sie fliegt nachts und schläft tagsüber kopfüber hängend.",
+  "beispielsatz": "Die Fledermaus fliegt in der Nacht durch den dunklen Wald.",
+  "rechtschreibstrategie": "Das Wort „Fledermaus\" ist aus zwei Teilen zusammengesetzt: „Fleder\" und „Maus\". Sprich beide Teile deutlich: Fle-der-maus. Das d in „Fleder\" hörst du klar, wenn du laut sprichst.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Maus"
+  ],
+  "bild_datei": "Fledermaus.webp",
+  "audio_datei": "Fledermaus.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fledermaus",
+    "plural": "die Fledermäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fledermaus",
+        "genitiv": "der Fledermaus",
+        "dativ": "der Fledermaus",
+        "akkusativ": "die Fledermaus"
+      },
+      "plural": {
+        "nominativ": "die Fledermäuse",
+        "genitiv": "der Fledermäuse",
+        "dativ": "den Fledermäusen",
+        "akkusativ": "die Fledermäuse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chauve-souris"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yarasa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خفاش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flettermauss",
+    "Fledermauß",
+    "Fledermauhs",
+    "Fleadermaus",
+    "Fledamaus"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Messbecher",
+  "wortart": "Nomen",
+  "silben": "Mess-be-cher",
+  "begriffserklaerung": "Ein Messbecher ist ein Behälter aus Glas oder Kunststoff, mit dem man genau messen kann, wie viel Flüssigkeit oder Mehl man braucht. Er hat Striche und Zahlen an der Seite.",
+  "beispielsatz": "Mama füllt Milch in den Messbecher, um genau 200 Milliliter abzumessen.",
+  "rechtschreibstrategie": "„Messbecher\" ist ein zusammengesetztes Wort aus „messen\" und „Becher\". Das Wort „messen\" hat ein Doppel-s, weil das „e\" davor kurz gesprochen wird. Denk daran: Mess + Becher = Messbecher!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "mess",
+    "becher"
+  ],
+  "bild_datei": "Messbecher.webp",
+  "audio_datei": "Messbecher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Messbecher",
+    "plural": "die Messbecher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Messbecher",
+        "genitiv": "des Messbechers",
+        "dativ": "dem Messbecher",
+        "akkusativ": "den Messbecher"
+      },
+      "plural": {
+        "nominativ": "die Messbecher",
+        "genitiv": "der Messbecher",
+        "dativ": "den Messbechern",
+        "akkusativ": "die Messbecher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "measuring cup"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verre doseur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçü kabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوب القياس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Meßbecher",
+    "Mesbecher",
+    "Messbechar",
+    "Meßbächer",
+    "Messbächer"
+  ]
+}

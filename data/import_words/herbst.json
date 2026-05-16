@@ -1,0 +1,82 @@
+{
+  "lemma": "Herbst",
+  "wortart": "Nomen",
+  "silben": "Herbst",
+  "begriffserklaerung": "Der Herbst ist eine Jahreszeit. Er kommt nach dem Sommer und vor dem Winter. Im Herbst werden die Blätter bunt und fallen von den Bäumen.",
+  "beispielsatz": "Im Herbst sammeln wir bunte Blätter im Park.",
+  "rechtschreibstrategie": "Das Wort „Herbst\" hat am Ende zwei Mitlaute: „b\" und „st\". Sprich sie beim Schreiben deutlich mit: Herbst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "herbst"
+  ],
+  "bild_datei": "Herbst.webp",
+  "audio_datei": "Herbst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "autumn / fall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "automne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sonbahar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خريف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "herbstlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herbstblatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sommer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahreszeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Herbst",
+    "plural": "die Herbste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Herbst",
+        "genitiv": "des Herbstes",
+        "dativ": "dem Herbst",
+        "akkusativ": "den Herbst"
+      },
+      "plural": {
+        "nominativ": "die Herbste",
+        "genitiv": "der Herbste",
+        "dativ": "den Herbsten",
+        "akkusativ": "die Herbste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Herpst",
+    "Herbsd",
+    "Herpsd",
+    "Herrbst",
+    "Herbts"
+  ]
+}

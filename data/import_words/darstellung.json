@@ -1,0 +1,98 @@
+{
+  "lemma": "Darstellung",
+  "wortart": "Nomen",
+  "silben": "Dar-stel-lung",
+  "begriffserklaerung": "Eine Darstellung zeigt oder erklärt etwas – zum Beispiel durch ein Bild, ein Theaterstück oder eine Beschreibung.",
+  "beispielsatz": "Die Darstellung der Tiere im Schulheft war sehr bunt und schön.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Dar-stel-lung. Achte auf das „ll\" in der Mitte – da steckt „stellen\" drin!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stellen"
+  ],
+  "bild_datei": "Darstellung.webp",
+  "audio_datei": "Darstellung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Darstellung",
+    "plural": "die Darstellungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Darstellung",
+        "genitiv": "der Darstellung",
+        "dativ": "der Darstellung",
+        "akkusativ": "die Darstellung"
+      },
+      "plural": {
+        "nominativ": "die Darstellungen",
+        "genitiv": "der Darstellungen",
+        "dativ": "den Darstellungen",
+        "akkusativ": "die Darstellungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "representation / depiction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "représentation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sunum / temsil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تمثيل / عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "darstellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Darsteller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beschreibung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abbildung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufführung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erklärung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Darstelung",
+    "Dahrstellung",
+    "Darsttelung",
+    "Darsttellung",
+    "Darstelhung",
+    "Darsstellung"
+  ]
+}

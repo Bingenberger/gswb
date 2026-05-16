@@ -1,0 +1,86 @@
+{
+  "lemma": "googeln",
+  "wortart": "Verb",
+  "silben": "goo-geln",
+  "begriffserklaerung": "Googeln bedeutet, etwas im Internet zu suchen – meistens mit der Suchmaschine Google.",
+  "beispielsatz": "Ich google schnell, wie das Wetter morgen wird.",
+  "rechtschreibstrategie": "Das Wort „googeln\" kommt vom Namen „Google\". Denk daran: Am Anfang stehen zwei o – goo – wie in „Boo\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "google"
+  ],
+  "bild_datei": "googeln.webp",
+  "audio_datei": "googeln.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to google"
+    },
+    {
+      "language_code": "fr",
+      "translation": "googler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "google'da aramak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبحث على غوغل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Google"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "nachschlagen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "googeln",
+    "praesens": {
+      "ich": "google",
+      "du": "googelst",
+      "er_sie_es": "googelt",
+      "wir": "googeln",
+      "ihr": "googelt",
+      "sie": "googeln"
+    },
+    "perfekt": {
+      "ich": "habe gegoogelt",
+      "du": "hast gegoogelt",
+      "er_sie_es": "hat gegoogelt",
+      "wir": "haben gegoogelt",
+      "ihr": "habt gegoogelt",
+      "sie": "haben gegoogelt"
+    },
+    "praeteritum": {
+      "ich": "googelte",
+      "du": "googeltest",
+      "er_sie_es": "googelte",
+      "wir": "googelten",
+      "ihr": "googeltet",
+      "sie": "googelten"
+    }
+  },
+  "fehlschreibungen": [
+    "gugeln",
+    "googlen",
+    "göögeln",
+    "goggeln",
+    "gougeln"
+  ]
+}

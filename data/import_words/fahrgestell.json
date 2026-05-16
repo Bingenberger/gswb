@@ -1,0 +1,84 @@
+{
+  "lemma": "Fahrgestell",
+  "wortart": "Nomen",
+  "silben": "Fahr-ge-stell",
+  "begriffserklaerung": "Das Fahrgestell ist das Grundgerüst eines Fahrzeugs. Es trägt den Aufbau und die Räder und gibt dem Auto, Lkw oder Flugzeug seine Form und Stabilität.",
+  "beispielsatz": "Der Mechaniker prüft das Fahrgestell des Autos, bevor es wieder auf die Straße darf.",
+  "rechtschreibstrategie": "„Fahrgestell\" ist aus zwei Wörtern zusammengebaut: „fahren\" und „Gestell\". Sprich beide Teile deutlich: FAHR + GESTELL. Am Ende hörst du „stell\" – das kommt von „stellen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fahren",
+    "stellen"
+  ],
+  "bild_datei": "Fahrgestell.webp",
+  "audio_datei": "Fahrgestell.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fahrgestell",
+    "plural": "die Fahrgestelle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fahrgestell",
+        "genitiv": "des Fahrgestells",
+        "dativ": "dem Fahrgestell",
+        "akkusativ": "das Fahrgestell"
+      },
+      "plural": {
+        "nominativ": "die Fahrgestelle",
+        "genitiv": "der Fahrgestelle",
+        "dativ": "den Fahrgestellen",
+        "akkusativ": "die Fahrgestelle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chassis"
+    },
+    {
+      "language_code": "fr",
+      "translation": "châssis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şasi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هيكل السيارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karosserie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Achse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fargestell",
+    "Fahrgeställ",
+    "Fargeställ",
+    "Fahrgeshtell",
+    "Fahrgestell"
+  ]
+}

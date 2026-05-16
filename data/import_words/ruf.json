@@ -1,0 +1,91 @@
+{
+  "lemma": "Ruf",
+  "wortart": "Nomen",
+  "silben": "Ruf",
+  "begriffserklaerung": "Ein Ruf ist ein lautes Rufen, das jemand von sich gibt. Ein Ruf kann auch bedeuten, wie andere Menschen über jemanden oder etwas denken.",
+  "beispielsatz": "Der Ruf des Lehrers war laut genug, damit alle Kinder ihn hörten.",
+  "rechtschreibstrategie": "„Ruf\" hat nur einen „f\" am Ende, weil der Vokal „u\" kurz klingt. Du kannst das Wort verlängern: „Rufe\" – da hörst du, dass nur ein „f\" gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "ruf"
+  ],
+  "bild_datei": "Ruf.webp",
+  "audio_datei": "Ruf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "call / reputation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appel / réputation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çağrı / itibar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نداء / سمعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausruf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufruf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schrei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ansehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ruf",
+    "plural": "die Rufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ruf",
+        "genitiv": "des Rufes",
+        "dativ": "dem Ruf",
+        "akkusativ": "den Ruf"
+      },
+      "plural": {
+        "nominativ": "die Rufe",
+        "genitiv": "der Rufe",
+        "dativ": "den Rufen",
+        "akkusativ": "die Rufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ruff",
+    "Ruhf",
+    "Ruuf",
+    "Rruf",
+    "Ruph"
+  ]
+}

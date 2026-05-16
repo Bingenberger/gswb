@@ -1,0 +1,76 @@
+{
+  "lemma": "Wellensittich",
+  "wortart": "Nomen",
+  "silben": "Wel-len-sit-tich",
+  "begriffserklaerung": "Ein Wellensittich ist ein kleiner, bunter Vogel, der oft als Haustier gehalten wird. Er kann sprechen lernen und hat bunte Federn in Grün, Blau oder Gelb.",
+  "beispielsatz": "Unser Wellensittich heißt Pippo und pfeift jeden Morgen ein Lied.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Wellen\" und „Sittich\". Das „tt\" in „Sittich\" schreibt man doppelt, weil der Vokal davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Welle",
+    "Sittich"
+  ],
+  "bild_datei": "Wellensittich.webp",
+  "audio_datei": "Wellensittich.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wellensittich",
+    "plural": "die Wellensittiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wellensittich",
+        "genitiv": "des Wellensittichs",
+        "dativ": "dem Wellensittich",
+        "akkusativ": "den Wellensittich"
+      },
+      "plural": {
+        "nominativ": "die Wellensittiche",
+        "genitiv": "der Wellensittiche",
+        "dativ": "den Wellensittichen",
+        "akkusativ": "die Wellensittiche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "budgerigar / budgie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perruche ondulée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "muhabbet kuşu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر الحب (البادجي)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papagei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wellensitich",
+    "Wellensittisch",
+    "Wellensittig",
+    "Wellensittch",
+    "Welensittich"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Wölfin",
+  "wortart": "Nomen",
+  "silben": "Wöl-fin",
+  "begriffserklaerung": "Eine Wölfin ist ein weiblicher Wolf. Wölfinnen leben oft in einer Gruppe, dem Rudel, und kümmern sich um ihre Welpen.",
+  "beispielsatz": "Die Wölfin passt gut auf ihre kleinen Welpen auf.",
+  "rechtschreibstrategie": "Denke an das Wort „Wolf\" – daraus wird „Wölfin\". Das ö hörst du deutlich, wenn du „Wolf\" umlautest: Wolf → Wölf-in.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wolf"
+  ],
+  "bild_datei": "Wölfin.webp",
+  "audio_datei": "Wölfin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wölfin",
+    "plural": "die Wölfinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wölfin",
+        "genitiv": "der Wölfin",
+        "dativ": "der Wölfin",
+        "akkusativ": "die Wölfin"
+      },
+      "plural": {
+        "nominativ": "die Wölfinnen",
+        "genitiv": "der Wölfinnen",
+        "dativ": "den Wölfinnen",
+        "akkusativ": "die Wölfinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "she-wolf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "louve"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişi kurt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذئبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wolfsrudel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rudel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welpe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wölfinn",
+    "Welfin",
+    "Wölfien",
+    "Völfin",
+    "Wöllffin"
+  ]
+}

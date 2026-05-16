@@ -1,0 +1,89 @@
+{
+  "lemma": "Regenjacke",
+  "wortart": "Nomen",
+  "silben": "Re-gen-ja-cke",
+  "begriffserklaerung": "Eine Regenjacke ist eine Jacke, die dich vor Regen schützt. Sie ist wasserdicht, damit du darunter trocken bleibst.",
+  "beispielsatz": "Wenn es regnet, ziehe ich meine Regenjacke an, damit ich nicht nass werde.",
+  "rechtschreibstrategie": "Das Wort „Regenjacke\" ist aus zwei Wörtern zusammengebaut: „Regen\" und „Jacke\". Schreibe einfach beide Wörter zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Regen",
+    "Jacke"
+  ],
+  "bild_datei": "Regenjacke.webp",
+  "audio_datei": "Regenjacke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Regenjacke",
+    "plural": "die Regenjacken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Regenjacke",
+        "genitiv": "der Regenjacke",
+        "dativ": "der Regenjacke",
+        "akkusativ": "die Regenjacke"
+      },
+      "plural": {
+        "nominativ": "die Regenjacken",
+        "genitiv": "der Regenjacken",
+        "dativ": "den Regenjacken",
+        "akkusativ": "die Regenjacken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rain jacket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "veste de pluie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yağmurluk ceket"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سترة المطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regenmantel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenstiefel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Regenjake",
+    "Regenjacka",
+    "Regenjakke",
+    "Regenjacke",
+    "Rägenjakce",
+    "Reganjacke"
+  ]
+}

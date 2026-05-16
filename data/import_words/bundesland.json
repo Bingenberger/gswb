@@ -1,0 +1,85 @@
+{
+  "lemma": "Bundesland",
+  "wortart": "Nomen",
+  "silben": "Bun-des-land",
+  "begriffserklaerung": "Ein Bundesland ist ein großes Gebiet, das zu einem Staat gehört. Deutschland besteht aus 16 Bundesländern, die jeweils eine eigene Regierung haben.",
+  "beispielsatz": "Bayern ist das größte Bundesland in Deutschland.",
+  "rechtschreibstrategie": "Das Wort „Bundesland\" ist ein zusammengesetztes Wort: „Bund\" + „es\" + „Land\". Sprich alle Teile laut mit: BUND-ES-LAND. Denk daran: Nomen schreibt man groß!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bund",
+    "Land"
+  ],
+  "bild_datei": "Bundesland.webp",
+  "audio_datei": "Bundesland.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "federal state"
+    },
+    {
+      "language_code": "fr",
+      "translation": "land (État fédéré)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "federal eyalet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ولاية فيدرالية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hauptstadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Deutschland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regierung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bundesland",
+    "plural": "die Bundesländer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bundesland",
+        "genitiv": "des Bundeslandes",
+        "dativ": "dem Bundesland",
+        "akkusativ": "das Bundesland"
+      },
+      "plural": {
+        "nominativ": "die Bundesländer",
+        "genitiv": "der Bundesländer",
+        "dativ": "den Bundesländern",
+        "akkusativ": "die Bundesländer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bundesslandt",
+    "Bundeslant",
+    "Bundisland",
+    "Bundesslang",
+    "Buntesland",
+    "Bundesländ"
+  ]
+}

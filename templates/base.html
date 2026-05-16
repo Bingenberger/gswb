@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Grundschul-Wörterbuch{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header class="site-header">
+        <a class="brand" href="{{ url_for('main.home') }}">Grundschul-Wörterbuch</a>
+        {% if request.endpoint != 'main.home' %}
+        <form class="header-search-form" action="{{ url_for('main.search') }}" method="get" autocomplete="off" data-autocomplete-form>
+            <label class="sr-only" for="header-search-input">Wort suchen</label>
+            <input
+                id="header-search-input"
+                class="header-search-input"
+                name="q"
+                type="search"
+                placeholder="Wort suchen …"
+                data-autocomplete-input
+                data-autocomplete-url="{{ url_for('main.api_autocomplete') }}"
+            >
+            <button class="header-search-button" type="submit" aria-label="Suchen">
+                <img src="{{ url_for('static', filename='vendor/phosphor/magnifying-glass.svg') }}" alt="">
+            </button>
+            <ul class="suggestions header-suggestions" data-autocomplete-results aria-live="polite"></ul>
+        </form>
+        {% endif %}
+    </header>
+    <main class="page">
+        {% block content %}{% endblock %}
+    </main>
+    <script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+</body>
+</html>

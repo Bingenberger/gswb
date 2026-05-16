@@ -1,0 +1,98 @@
+{
+  "lemma": "schwimmen",
+  "wortart": "Verb",
+  "silben": "schwim-men",
+  "begriffserklaerung": "Sich im Wasser bewegen, ohne zu sinken – mit den Armen und Beinen.",
+  "beispielsatz": "Im Sommer schwimmen wir jeden Tag im See.",
+  "rechtschreibstrategie": "Das Wort „schwimmen\" hat zwei m. Sprich es laut: schwim-men. Der kurze Vokal „i\" zeigt dir, dass ein Kürzezeichen folgt – deshalb schreibt man doppelt-m!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schwimm"
+  ],
+  "bild_datei": "schwimmen.webp",
+  "audio_datei": "schwimmen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to swim"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nager"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَسبَح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwimmer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwimmbad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geschwommen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "paddeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tauchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "plantschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schwimmen",
+    "praesens": {
+      "ich": "schwimme",
+      "du": "schwimmst",
+      "er_sie_es": "schwimmt",
+      "wir": "schwimmen",
+      "ihr": "schwimmt",
+      "sie": "schwimmen"
+    },
+    "perfekt": {
+      "ich": "bin geschwommen",
+      "du": "bist geschwommen",
+      "er_sie_es": "ist geschwommen",
+      "wir": "sind geschwommen",
+      "ihr": "seid geschwommen",
+      "sie": "sind geschwommen"
+    },
+    "praeteritum": {
+      "ich": "schwamm",
+      "du": "schwammst",
+      "er_sie_es": "schwamm",
+      "wir": "schwammen",
+      "ihr": "schwammt",
+      "sie": "schwammen"
+    }
+  },
+  "fehlschreibungen": [
+    "schwimen",
+    "shwimmen",
+    "schwimem",
+    "schwiemen",
+    "schwinnen"
+  ]
+}

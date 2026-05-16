@@ -1,0 +1,95 @@
+{
+  "lemma": "ausrechnen",
+  "wortart": "Verb",
+  "silben": "aus-rech-nen",
+  "begriffserklaerung": "Wenn du etwas ausrechnest, löst du eine Rechenaufgabe und findest das Ergebnis heraus.",
+  "beispielsatz": "Lisa rechnet die schwierige Aufgabe an der Tafel aus.",
+  "rechtschreibstrategie": "Das Wort „ausrechnen\" besteht aus zwei Teilen: „aus\" und „rechnen\". In „rechnen\" hörst du das kurze „e\", danach kommen zwei Mitlaute „ch\" und „n\" – sprich alle Laute deutlich mit!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "rechnen",
+    "Rechnung"
+  ],
+  "bild_datei": "ausrechnen.webp",
+  "audio_datei": "ausrechnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to calculate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calculer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesaplamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحسب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rechnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "berechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "addieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "subtrahieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ergebnis"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "ausrechnen",
+    "praesens": {
+      "ich": "rechne aus",
+      "du": "rechnest aus",
+      "er_sie_es": "rechnet aus",
+      "wir": "rechnen aus",
+      "ihr": "rechnet aus",
+      "sie": "rechnen aus"
+    },
+    "perfekt": {
+      "ich": "habe ausgerechnet",
+      "du": "hast ausgerechnet",
+      "er_sie_es": "hat ausgerechnet",
+      "wir": "haben ausgerechnet",
+      "ihr": "habt ausgerechnet",
+      "sie": "haben ausgerechnet"
+    },
+    "praeteritum": {
+      "ich": "rechnete aus",
+      "du": "rechnetest aus",
+      "er_sie_es": "rechnete aus",
+      "wir": "rechneten aus",
+      "ihr": "rechnetet aus",
+      "sie": "rechneten aus"
+    }
+  },
+  "fehlschreibungen": [
+    "ausrechenen",
+    "ausrechen",
+    "ausrächnen",
+    "ausrecnen",
+    "ausrechnnen"
+  ]
+}

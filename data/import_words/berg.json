@@ -1,0 +1,90 @@
+{
+  "lemma": "Berg",
+  "wortart": "Nomen",
+  "silben": "Berg",
+  "begriffserklaerung": "Ein Berg ist eine sehr hohe Erhebung aus Erde und Fels. Berge sind viel höher als Hügel und haben oft eine Spitze ganz oben.",
+  "beispielsatz": "Im Urlaub haben wir einen hohen Berg bestiegen.",
+  "rechtschreibstrategie": "Wenn du „Berg\" verlängerst, sagst du „Berge\" – dann hörst du das „g\" am Ende deutlich. Deshalb schreibt man „Berg\" mit g und nicht mit k.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Berg"
+  ],
+  "bild_datei": "Berg.webp",
+  "audio_datei": "Berg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Berg",
+    "plural": "die Berge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Berg",
+        "genitiv": "des Berges",
+        "dativ": "dem Berg",
+        "akkusativ": "den Berg"
+      },
+      "plural": {
+        "nominativ": "die Berge",
+        "genitiv": "der Berge",
+        "dativ": "den Bergen",
+        "akkusativ": "die Berge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mountain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "montagne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جَبَل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebirge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bergig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bergauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gipfel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fels"
+    }
+  ],
+  "fehlschreibungen": [
+    "Berk",
+    "Berc",
+    "Bärg",
+    "Bärck",
+    "Berck"
+  ]
+}

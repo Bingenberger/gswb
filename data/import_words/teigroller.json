@@ -1,0 +1,89 @@
+{
+  "lemma": "Teigroller",
+  "wortart": "Nomen",
+  "silben": "Teig-rol-ler",
+  "begriffserklaerung": "Ein Teigroller ist ein Küchengerät, das wie eine Walze aussieht. Man rollt damit Teig flach aus, zum Beispiel wenn man Kekse oder Pizza backt.",
+  "beispielsatz": "Mama benutzt den Teigroller, um den Plätzchenteig ganz dünn auszurollen.",
+  "rechtschreibstrategie": "Das Wort „Teigroller\" besteht aus zwei Teilen: „Teig\" und „Roller\". Das Doppel-l in „Roller\" schreibst du, weil der Vokal davor kurz gesprochen wird: rol-ler.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Teig",
+    "rollen"
+  ],
+  "bild_datei": "Teigroller.webp",
+  "audio_datei": "Teigroller.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teigroller",
+    "plural": "die Teigroller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teigroller",
+        "genitiv": "des Teigrollers",
+        "dativ": "dem Teigroller",
+        "akkusativ": "den Teigroller"
+      },
+      "plural": {
+        "nominativ": "die Teigroller",
+        "genitiv": "der Teigroller",
+        "dativ": "den Teigrollen",
+        "akkusativ": "die Teigroller"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rolling pin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rouleau à pâtisserie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oklava"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوبك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nudelholz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backform"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nudelholz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Teigrollер",
+    "Taikroller",
+    "Teigrolller",
+    "Teigrolер",
+    "Teikroller",
+    "Teigrollar"
+  ]
+}

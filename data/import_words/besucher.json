@@ -1,0 +1,88 @@
+{
+  "lemma": "Besucher",
+  "wortart": "Nomen",
+  "silben": "Be-su-cher",
+  "begriffserklaerung": "Ein Besucher ist jemand, der zu einem anderen Menschen, an einen Ort oder in eine Einrichtung kommt, um dort eine Weile zu sein.",
+  "beispielsatz": "Der Besucher klingelt an der Tür und wartet freundlich.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Be-su-cher. Das „ch\" hörst du deutlich – schreibe es genau so, wie du es sprichst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "besuchen",
+    "Besuch"
+  ],
+  "bild_datei": "Besucher.webp",
+  "audio_datei": "Besucher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "visitor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "visiteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ziyaretçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زائر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "besuchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besuch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gastgeber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einladung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Besucher",
+    "plural": "die Besucher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Besucher",
+        "genitiv": "des Besuchers",
+        "dativ": "dem Besucher",
+        "akkusativ": "den Besucher"
+      },
+      "plural": {
+        "nominativ": "die Besucher",
+        "genitiv": "der Besucher",
+        "dativ": "den Besuchern",
+        "akkusativ": "die Besucher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bessucher",
+    "Besuher",
+    "Bezucher",
+    "Besuscher",
+    "Besuchar",
+    "Besucker"
+  ]
+}

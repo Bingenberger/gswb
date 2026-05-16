@@ -1,0 +1,93 @@
+{
+  "lemma": "geschehen",
+  "wortart": "Verb",
+  "silben": "ge-sche-hen",
+  "begriffserklaerung": "Etwas geschieht, wenn es passiert oder stattfindet – ohne dass jemand es absichtlich tut.",
+  "beispielsatz": "Was ist gestern auf dem Schulhof geschehen?",
+  "rechtschreibstrategie": "Hör genau hin: ge-sche-hen. Das Wort hat ein Dehnungs-h vor dem letzten „en\". Sprich es in Silben: ge – sche – hen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "scheh",
+    "Geschehnis"
+  ],
+  "bild_datei": "geschehen.webp",
+  "audio_datei": "geschehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "geschehen",
+    "praesens": {
+      "ich": "geschehe",
+      "du": "geschieht",
+      "er_sie_es": "geschieht",
+      "wir": "geschehen",
+      "ihr": "geschieht",
+      "sie": "geschehen"
+    },
+    "perfekt": {
+      "ich": "bin geschehen",
+      "du": "bist geschehen",
+      "er_sie_es": "ist geschehen",
+      "wir": "sind geschehen",
+      "ihr": "seid geschehen",
+      "sie": "sind geschehen"
+    },
+    "praeteritum": {
+      "ich": "geschah",
+      "du": "geschahst",
+      "er_sie_es": "geschah",
+      "wir": "geschahen",
+      "ihr": "geschaht",
+      "sie": "geschahen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to happen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se passer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "olmak / gerçekleşmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يحدث / يقع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geschehnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "passieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stattfinden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erleben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ereignen"
+    }
+  ],
+  "fehlschreibungen": [
+    "geshehen",
+    "geschehn",
+    "geschehen",
+    "gescehen",
+    "gechehen",
+    "gescheen",
+    "gescheehen"
+  ]
+}

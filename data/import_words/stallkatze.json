@@ -1,0 +1,84 @@
+{
+  "lemma": "Stallkatze",
+  "wortart": "Nomen",
+  "silben": "Stall-kat-ze",
+  "begriffserklaerung": "Eine Stallkatze ist eine Katze, die in einem Stall lebt und dort Mäuse und Ratten fängt.",
+  "beispielsatz": "Die Stallkatze schleicht leise durch den Heuschober und jagt die Mäuse.",
+  "rechtschreibstrategie": "Das Wort „Stallkatze\" ist aus zwei Teilen zusammengebaut: „Stall\" und „Katze\". Bei „Stall\" hörst du ein kurzes „a\" – deshalb schreibt man zwei „l\". Bei „Katze\" hörst du ein kurzes „a\" vor „tz\" – das ist das Kürzezeichen „tz\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stall",
+    "Katze"
+  ],
+  "bild_datei": "Stallkatze.webp",
+  "audio_datei": "Stallkatze.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stallkatze",
+    "plural": "die Stallkatzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stallkatze",
+        "genitiv": "der Stallkatze",
+        "dativ": "der Stallkatze",
+        "akkusativ": "die Stallkatze"
+      },
+      "plural": {
+        "nominativ": "die Stallkatzen",
+        "genitiv": "der Stallkatzen",
+        "dativ": "den Stallkatzen",
+        "akkusativ": "die Stallkatzen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "barn cat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chat d'écurie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ahır kedisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطة الإسطبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Katze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stallkaze",
+    "Stalkatze",
+    "Stallcatze",
+    "Stalkaze",
+    "Stallkатze"
+  ]
+}

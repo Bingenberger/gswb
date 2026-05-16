@@ -1,0 +1,90 @@
+{
+  "lemma": "Fixierung",
+  "wortart": "Nomen",
+  "silben": "Fi-xie-rung",
+  "begriffserklaerung": "Eine Fixierung ist das Festmachen oder Befestigen von etwas, damit es sich nicht mehr bewegt.",
+  "beispielsatz": "Die Fixierung des Verbandes hält die Wunde gut geschützt.",
+  "rechtschreibstrategie": "Das Wort „Fixierung\" kommt von „fixieren\". Denk an das seltene X: fi-X-ie-rung. Das ie sprichst du lang, wie in „Biene\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit X",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fix",
+    "fixier"
+  ],
+  "bild_datei": "Fixierung.webp",
+  "audio_datei": "Fixierung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fixierung",
+    "plural": "die Fixierungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fixierung",
+        "genitiv": "der Fixierung",
+        "dativ": "der Fixierung",
+        "akkusativ": "die Fixierung"
+      },
+      "plural": {
+        "nominativ": "die Fixierungen",
+        "genitiv": "der Fixierungen",
+        "dativ": "den Fixierungen",
+        "akkusativ": "die Fixierungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fixation / fastening"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fixation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sabitleme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تثبيت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fixieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fix"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Befestigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klammer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Halterung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fixirung",
+    "Ficsierung",
+    "Fikxierung",
+    "Fixierung",
+    "Fixsierung",
+    "Ficsirung"
+  ]
+}

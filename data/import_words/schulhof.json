@@ -1,0 +1,82 @@
+{
+  "lemma": "Schulhof",
+  "wortart": "Nomen",
+  "silben": "Schul-hof",
+  "begriffserklaerung": "Der Schulhof ist der Platz draußen vor oder neben der Schule. Hier spielen Kinder in der Pause.",
+  "beispielsatz": "In der großen Pause spielen wir Fangen auf dem Schulhof.",
+  "rechtschreibstrategie": "„Schulhof\" ist ein zusammengesetztes Wort aus „Schule\" und „Hof\". Sprich beide Teile deutlich: SCHUL – HOF.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Hof"
+  ],
+  "bild_datei": "Schulhof.webp",
+  "audio_datei": "Schulhof.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "schoolyard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cour d'école"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okul bahçesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فناء المدرسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Pausenhof"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schulhof",
+    "plural": "die Schulhöfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schulhof",
+        "genitiv": "des Schulhofes",
+        "dativ": "dem Schulhof",
+        "akkusativ": "den Schulhof"
+      },
+      "plural": {
+        "nominativ": "die Schulhöfe",
+        "genitiv": "der Schulhöfe",
+        "dativ": "den Schulhöfen",
+        "akkusativ": "die Schulhöfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulhofe",
+    "Schullhof",
+    "Schulhoff",
+    "Schuhof"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "blühen",
+  "wortart": "Verb",
+  "silben": "blü-hen",
+  "begriffserklaerung": "Wenn eine Pflanze blüht, öffnen sich ihre bunten Blüten. Das passiert meistens im Frühling oder Sommer.",
+  "beispielsatz": "Im Frühling blühen die Tulpen im Garten ganz bunt.",
+  "rechtschreibstrategie": "Denk an das Wort „Blüte\" – beide Wörter haben ein ü. Das h in „blühen\" sprichst du nicht mit, es gehört zur Endung -en.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "blüh"
+  ],
+  "bild_datei": "blühen.webp",
+  "audio_datei": "blühen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "blühen",
+    "praesens": {
+      "ich": "blühe",
+      "du": "blühst",
+      "er_sie_es": "blüht",
+      "wir": "blühen",
+      "ihr": "blüht",
+      "sie": "blühen"
+    },
+    "perfekt": {
+      "ich": "habe geblüht",
+      "du": "hast geblüht",
+      "er_sie_es": "hat geblüht",
+      "wir": "haben geblüht",
+      "ihr": "habt geblüht",
+      "sie": "haben geblüht"
+    },
+    "praeteritum": {
+      "ich": "blühte",
+      "du": "blühtest",
+      "er_sie_es": "blühte",
+      "wir": "blühten",
+      "ihr": "blühtet",
+      "sie": "blühten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bloom / to blossom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fleurir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiçek açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتفتح / يزهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blüte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blume"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blüten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wachsen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sprießen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gedeihen"
+    }
+  ],
+  "fehlschreibungen": [
+    "blüen",
+    "blühen",
+    "blühn",
+    "blihen"
+  ]
+}

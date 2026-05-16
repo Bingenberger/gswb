@@ -1,0 +1,86 @@
+{
+  "lemma": "Fahrradprüfung",
+  "wortart": "Nomen",
+  "silben": "Fahr-rad-prü-fung",
+  "begriffserklaerung": "Eine Fahrradprüfung ist ein Test, bei dem Kinder zeigen, ob sie sicher Fahrrad fahren und die Verkehrsregeln kennen. Meistens findet sie in der Grundschule statt.",
+  "beispielsatz": "Morgen ist unsere Fahrradprüfung, und ich habe schon fleißig geübt!",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Fahr\" + „rad\" + „prüfung\". Denk daran: „Fahrrad\" schreibt man mit zwei „r\", weil „Fahr-\" und „-rad\" zusammenkommen. Das ü in „Prüfung\" hörst du beim lauten Sprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "rad",
+    "prüf"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fahrradprüfung",
+    "plural": "die Fahrradprüfungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fahrradprüfung",
+        "genitiv": "der Fahrradprüfung",
+        "dativ": "der Fahrradprüfung",
+        "akkusativ": "die Fahrradprüfung"
+      },
+      "plural": {
+        "nominativ": "die Fahrradprüfungen",
+        "genitiv": "der Fahrradprüfungen",
+        "dativ": "den Fahrradprüfungen",
+        "akkusativ": "die Fahrradprüfungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Faradprüfung",
+    "Fahradprüfung",
+    "Fahrradprüffung",
+    "Fahrradprüfuing",
+    "Fahrratprüfung",
+    "Fahrradprifung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cycling test"
+    },
+    {
+      "language_code": "fr",
+      "translation": "examen de vélo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bisiklet sınavı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اختبار ركوب الدراجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "prüfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrserziehung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Führerschein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Radfahrtest"
+    }
+  ],
+  "bild_datei": "Fahrradprüfung.webp",
+  "audio_datei": "Fahrradprüfung.mp3"
+}

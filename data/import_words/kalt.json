@@ -1,0 +1,75 @@
+{
+  "lemma": "kalt",
+  "wortart": "Adjektiv",
+  "silben": "kalt",
+  "begriffserklaerung": "Etwas ist kalt, wenn es eine niedrige Temperatur hat und sich nicht warm anfühlt – zum Beispiel Eis oder Schnee.",
+  "beispielsatz": "Im Winter ist die Luft draußen sehr kalt.",
+  "rechtschreibstrategie": "Wenn du „kalt\" verlängerst, sagst du „kalte\" – dann hörst du deutlich das „l\" und das „t\" am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kalt"
+  ],
+  "bild_datei": "kalt.webp",
+  "audio_datei": "kalt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cold"
+    },
+    {
+      "language_code": "fr",
+      "translation": "froid"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soğuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بارد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kälte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abkühlen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "eisig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "kalt",
+    "komparativ": "kälter",
+    "superlativ": "am kältesten"
+  },
+  "fehlschreibungen": [
+    "kald",
+    "kallt",
+    "calt",
+    "kaldt"
+  ]
+}

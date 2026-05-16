@@ -1,0 +1,90 @@
+{
+  "lemma": "Wohnzimmer",
+  "wortart": "Nomen",
+  "silben": "Wohn-zim-mer",
+  "begriffserklaerung": "Das Wohnzimmer ist der Raum in einer Wohnung oder einem Haus, in dem die Familie zusammenkommt, um zu entspannen, fernzusehen oder miteinander zu reden.",
+  "beispielsatz": "Abends sitzt die ganze Familie zusammen im Wohnzimmer und schaut einen Film.",
+  "rechtschreibstrategie": "Das Wort „Wohnzimmer\" ist ein zusammengesetztes Wort aus „wohnen\" und „Zimmer\". Sprich beide Teile einzeln: WOHN + ZIMMER. Das „nn\" in „wohnen\" wird zu „hn\" am Wortende – merke: „wohnen\" hat ein h!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wohn",
+    "Zimmer"
+  ],
+  "bild_datei": "Wohnzimmer.webp",
+  "audio_datei": "Wohnzimmer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "living room"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturma odası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة المعيشة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlafzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badezimmer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stube"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wohnzimmer",
+    "plural": "die Wohnzimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wohnzimmer",
+        "genitiv": "des Wohnzimmers",
+        "dativ": "dem Wohnzimmer",
+        "akkusativ": "das Wohnzimmer"
+      },
+      "plural": {
+        "nominativ": "die Wohnzimmer",
+        "genitiv": "der Wohnzimmer",
+        "dativ": "den Wohnzimmern",
+        "akkusativ": "die Wohnzimmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wonzimmer",
+    "Wohnzimer",
+    "Vohnzimmer",
+    "Wohnzimmer",
+    "Wohntzimmer",
+    "Wohnzimmmer",
+    "Wohnzimner"
+  ]
+}

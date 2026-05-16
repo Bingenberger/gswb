@@ -1,0 +1,88 @@
+{
+  "lemma": "Passwort",
+  "wortart": "Nomen",
+  "silben": "Pass-wort",
+  "begriffserklaerung": "Ein Passwort ist eine geheime Zeichenfolge aus Buchstaben, Zahlen oder Zeichen. Man braucht es, um sich bei einem Computer, einer App oder einer Webseite anzumelden.",
+  "beispielsatz": "Lea tippt ihr geheimes Passwort ein, um sich bei ihrem Lieblingsspiel anzumelden.",
+  "rechtschreibstrategie": "„Passwort\" besteht aus zwei Teilen: „Pass\" und „Wort\". Das Wort „Pass\" schreibt man mit Doppel-s, weil das „a\" kurz gesprochen wird. Sprich beide Bausteine laut: PASS – WORT!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pass",
+    "Wort"
+  ],
+  "bild_datei": "Passwort.webp",
+  "audio_datei": "Passwort.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Passwort",
+    "plural": "die Passwörter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Passwort",
+        "genitiv": "des Passworts",
+        "dativ": "dem Passwort",
+        "akkusativ": "das Passwort"
+      },
+      "plural": {
+        "nominativ": "die Passwörter",
+        "genitiv": "der Passwörter",
+        "dativ": "den Passwörtern",
+        "akkusativ": "die Passwörter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "password"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mot de passe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şifre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كلمة المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pass"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kennwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Benutzername"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ],
+  "fehlschreibungen": [
+    "Paßwort",
+    "Pasword",
+    "Passwortt",
+    "Pazwort",
+    "Paswort"
+  ]
+}

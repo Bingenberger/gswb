@@ -1,0 +1,84 @@
+{
+  "lemma": "Backblech",
+  "wortart": "Nomen",
+  "silben": "Back-blech",
+  "begriffserklaerung": "Ein Backblech ist eine flache Metallplatte, die man in den Backofen schiebt, um darauf Kekse, Kuchen oder Brötchen zu backen.",
+  "beispielsatz": "Mama legt den Teig auf das Backblech und schiebt es in den Ofen.",
+  "rechtschreibstrategie": "„Backblech\" ist ein zusammengesetztes Wort aus „back-\" und „-blech\". Das „ck\" kommt nach dem kurzen „a\" – nach kurzem Vokal steht immer „ck\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "back",
+    "blech"
+  ],
+  "bild_datei": "Backblech.webp",
+  "audio_datei": "Backblech.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Backblech",
+    "plural": "die Backbleche",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Backblech",
+        "genitiv": "des Backblechs",
+        "dativ": "dem Backblech",
+        "akkusativ": "das Backblech"
+      },
+      "plural": {
+        "nominativ": "die Backbleche",
+        "genitiv": "der Backbleche",
+        "dativ": "den Backblechen",
+        "akkusativ": "die Backbleche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "baking tray"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plaque de cuisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırın tepsisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صينية الخبز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "backen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blech"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchenform"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backpapier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bakblech",
+    "Backbleck",
+    "Backpblech",
+    "Bagblech",
+    "Backbläch"
+  ]
+}

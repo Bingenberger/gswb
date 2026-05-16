@@ -1,0 +1,76 @@
+{
+  "lemma": "Thermometer",
+  "wortart": "Nomen",
+  "silben": "Ther-mo-me-ter",
+  "begriffserklaerung": "Ein Thermometer ist ein Messgerät, das anzeigt, wie warm oder kalt etwas ist. Es misst die Temperatur in Grad.",
+  "beispielsatz": "Die Ärztin schaut auf das Thermometer und sagt, dass ich Fieber habe.",
+  "rechtschreibstrategie": "Das Wort „Thermometer\" kommt aus dem Griechischen. Das „Th\" spricht man wie ein einfaches „T\". Denke daran: Ther-mo-me-ter – sprich alle vier Silben deutlich!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Thermo",
+    "Meter"
+  ],
+  "bild_datei": "Thermometer.webp",
+  "audio_datei": "Thermometer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thermometer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thermomètre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "termometre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميزان الحرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fieber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Thermometer",
+    "plural": "die Thermometer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Thermometer",
+        "genitiv": "des Thermometers",
+        "dativ": "dem Thermometer",
+        "akkusativ": "das Thermometer"
+      },
+      "plural": {
+        "nominativ": "die Thermometer",
+        "genitiv": "der Thermometer",
+        "dativ": "den Thermometern",
+        "akkusativ": "die Thermometer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Termometer",
+    "Thermomether",
+    "Thermomiter",
+    "Tермометер",
+    "Thermomater",
+    "Termomether"
+  ]
+}

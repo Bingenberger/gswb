@@ -1,0 +1,91 @@
+{
+  "lemma": "Elektrofahrrad",
+  "wortart": "Nomen",
+  "silben": "E-lek-tro-fahr-rad",
+  "begriffserklaerung": "Ein Elektrofahrrad ist ein Fahrrad mit einem kleinen Elektromotor. Der Motor hilft beim Treten, damit du leichter fahren kannst – zum Beispiel bergauf.",
+  "beispielsatz": "Meine Oma fährt mit ihrem Elektrofahrrad bequem den steilen Berg hinauf.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Elektro\" + „Fahr\" + „Rad\". Sprich alle Teile laut mit, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "fahren",
+    "Rad"
+  ],
+  "bild_datei": "Elektrofahrrad.webp",
+  "audio_datei": "Elektrofahrrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electric bicycle (e-bike)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vélo électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli bisiklet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektromotor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Motorrad"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "E-Bike"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Elektrofahrrad",
+    "plural": "die Elektrofahrräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Elektrofahrrad",
+        "genitiv": "des Elektrofahrrades",
+        "dativ": "dem Elektrofahrrad",
+        "akkusativ": "das Elektrofahrrad"
+      },
+      "plural": {
+        "nominativ": "die Elektrofahrräder",
+        "genitiv": "der Elektrofahrräder",
+        "dativ": "den Elektrofahrrädern",
+        "akkusativ": "die Elektrofahrräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elektofahrrad",
+    "Elekrofahrrad",
+    "Elektrofarrad",
+    "Elektrofarat",
+    "Elektrrofahrrad",
+    "Elektrofahrrat",
+    "Elecktrofahrrad"
+  ]
+}

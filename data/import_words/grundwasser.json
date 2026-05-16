@@ -1,0 +1,84 @@
+{
+  "lemma": "Grundwasser",
+  "wortart": "Nomen",
+  "silben": "Grund-was-ser",
+  "begriffserklaerung": "Grundwasser ist Wasser, das tief im Boden gespeichert ist. Es sickert durch die Erde und sammelt sich zwischen Gesteinsschichten. Menschen holen es oft mit Brunnen herauf.",
+  "beispielsatz": "Der Bauer hat einen tiefen Brunnen gegraben, um das Grundwasser zu erreichen.",
+  "rechtschreibstrategie": "„Grundwasser\" ist aus zwei Wörtern zusammengebaut: „Grund\" und „Wasser\". Sprich beide Teile laut: GRUND – WAS – SER. Denk daran: Wasser schreibt man mit Doppel-S!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Grund",
+    "Wasser"
+  ],
+  "bild_datei": "Grundwasser.webp",
+  "audio_datei": "Grundwasser.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Grundwasser",
+    "plural": "die Grundwässer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Grundwasser",
+        "genitiv": "des Grundwassers",
+        "dativ": "dem Grundwasser",
+        "akkusativ": "das Grundwasser"
+      },
+      "plural": {
+        "nominativ": "die Grundwässer",
+        "genitiv": "der Grundwässer",
+        "dativ": "den Grundwässern",
+        "akkusativ": "die Grundwässer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "groundwater"
+    },
+    {
+      "language_code": "fr",
+      "translation": "eau souterraine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yeraltı suyu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "المياه الجوفية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brunnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkwasser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Quelle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Grundvasser",
+    "Grundwaßer",
+    "Gruntwaasser",
+    "Grundwaser",
+    "Grundwasßer"
+  ]
+}

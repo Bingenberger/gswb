@@ -1,0 +1,89 @@
+{
+  "lemma": "Bastelarbeit",
+  "wortart": "Nomen",
+  "silben": "Bas-tel-ar-beit",
+  "begriffserklaerung": "Eine Bastelarbeit ist etwas, das du mit deinen Händen selbst gebaut oder gebastelt hast – zum Beispiel aus Papier, Schere und Kleber.",
+  "beispielsatz": "Meine Bastelarbeit aus buntem Papier hängt jetzt an der Wand.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Bastel\" und „Arbeit\". Sprich beide Teile einzeln, dann kannst du sie richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "basteln",
+    "Arbeit"
+  ],
+  "bild_datei": "Bastelarbeit.webp",
+  "audio_datei": "Bastelarbeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bastelarbeit",
+    "plural": "die Bastelarbeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bastelarbeit",
+        "genitiv": "der Bastelarbeit",
+        "dativ": "der Bastelarbeit",
+        "akkusativ": "die Bastelarbeit"
+      },
+      "plural": {
+        "nominativ": "die Bastelarbeiten",
+        "genitiv": "der Bastelarbeiten",
+        "dativ": "den Bastelarbeiten",
+        "akkusativ": "die Bastelarbeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "craft work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travail de bricolage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el işi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل يدوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "basteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bastelstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bastelmaterial"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bastelarbaid",
+    "Bastelarbeit",
+    "Bastalarbeit",
+    "Basttelarbeit",
+    "Bastellarbeit",
+    "Basdelarbeit"
+  ]
+}

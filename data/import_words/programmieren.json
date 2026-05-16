@@ -1,0 +1,91 @@
+{
+  "lemma": "programmieren",
+  "wortart": "Verb",
+  "silben": "pro-gram-mie-ren",
+  "begriffserklaerung": "Programmieren bedeutet, einem Computer oder einer Maschine genaue Anweisungen zu geben, damit sie etwas tun kann.",
+  "beispielsatz": "Lena möchte ein lustiges Spiel programmieren.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: pro-gram-mie-ren. Merke dir das doppelte m und das ie!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Programm"
+  ],
+  "bild_datei": "programmieren.webp",
+  "audio_datei": "programmieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to program"
+    },
+    {
+      "language_code": "fr",
+      "translation": "programmer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "programlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُبرمج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Programm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Programmierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roboter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "codieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "programmieren",
+    "praesens": {
+      "ich": "programmiere",
+      "du": "programmierst",
+      "er_sie_es": "programmiert",
+      "wir": "programmieren",
+      "ihr": "programmiert",
+      "sie": "programmieren"
+    },
+    "perfekt": {
+      "ich": "habe programmiert",
+      "du": "hast programmiert",
+      "er_sie_es": "hat programmiert",
+      "wir": "haben programmiert",
+      "ihr": "habt programmiert",
+      "sie": "haben programmiert"
+    },
+    "praeteritum": {
+      "ich": "programmierte",
+      "du": "programmiertest",
+      "er_sie_es": "programmierte",
+      "wir": "programmierten",
+      "ihr": "programmiertet",
+      "sie": "programmierten"
+    }
+  },
+  "fehlschreibungen": [
+    "programieren",
+    "Programmieren",
+    "programmmieren",
+    "progammieren",
+    "programmiren"
+  ]
+}

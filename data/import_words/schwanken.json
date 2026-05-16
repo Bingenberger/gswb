@@ -1,0 +1,98 @@
+{
+  "lemma": "schwanken",
+  "wortart": "Verb",
+  "silben": "schwan-ken",
+  "begriffserklaerung": "Sich hin und her bewegen oder unsicher sein, ob man etwas tun soll.",
+  "beispielsatz": "Der Baum schwankt im starken Wind hin und her.",
+  "rechtschreibstrategie": "Sprich das Wort laut: schwan-ken. Du hörst das „k\" am Anfang von „ken\" – schreibe es auch so. Das „n\" vor dem „k\" gehört zum Stamm „schwan\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schwank"
+  ],
+  "bild_datei": "schwanken.webp",
+  "audio_datei": "schwanken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schwanken",
+    "praesens": {
+      "ich": "schwanke",
+      "du": "schwankst",
+      "er_sie_es": "schwankt",
+      "wir": "schwanken",
+      "ihr": "schwankt",
+      "sie": "schwanken"
+    },
+    "perfekt": {
+      "ich": "habe geschwankt",
+      "du": "hast geschwankt",
+      "er_sie_es": "hat geschwankt",
+      "wir": "haben geschwankt",
+      "ihr": "habt geschwankt",
+      "sie": "haben geschwankt"
+    },
+    "praeteritum": {
+      "ich": "schwankte",
+      "du": "schwanktest",
+      "er_sie_es": "schwankte",
+      "wir": "schwankten",
+      "ihr": "schwanktet",
+      "sie": "schwankten"
+    }
+  },
+  "fehlschreibungen": [
+    "schwangen",
+    "swanken",
+    "schvvanken",
+    "schwancken",
+    "schwanken"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sway / to waver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "osciller / vaciller"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sallanmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتأرجح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwankung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwankend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wackeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schaukeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zittern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wippen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "taumeln"
+    }
+  ]
+}

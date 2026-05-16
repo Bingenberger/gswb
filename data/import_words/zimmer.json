@@ -1,0 +1,82 @@
+{
+  "lemma": "Zimmer",
+  "wortart": "Nomen",
+  "silben": "Zim-mer",
+  "begriffserklaerung": "Ein Zimmer ist ein Raum in einem Haus oder einer Wohnung, zum Beispiel dein Schlafzimmer oder das Wohnzimmer.",
+  "beispielsatz": "In meinem Zimmer hängen bunte Bilder an der Wand.",
+  "rechtschreibstrategie": "Das Wort „Zimmer\" hat zwei m, weil das i kurz gesprochen wird. Sprich es laut: Zimm-mer – du hörst, dass das m doppelt klingt!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Zimmer"
+  ],
+  "bild_datei": "Zimmer.webp",
+  "audio_datei": "Zimmer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "room"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chambre / pièce"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oda"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غرفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlafzimmer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zimmerpflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Raum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zimmer",
+    "plural": "die Zimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zimmer",
+        "genitiv": "des Zimmers",
+        "dativ": "dem Zimmer",
+        "akkusativ": "das Zimmer"
+      },
+      "plural": {
+        "nominativ": "die Zimmer",
+        "genitiv": "der Zimmer",
+        "dativ": "den Zimmern",
+        "akkusativ": "die Zimmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tzimmer",
+    "Cimmer",
+    "Zimer",
+    "Zimber",
+    "Zimmmer"
+  ]
+}

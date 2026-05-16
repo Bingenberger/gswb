@@ -1,0 +1,85 @@
+{
+  "lemma": "Weidenbaum",
+  "wortart": "Nomen",
+  "silben": "Wei-den-baum",
+  "begriffserklaerung": "Ein Weidenbaum ist ein Baum mit langen, dünnen Ästen und schmalen Blättern. Er wächst oft am Wasser, zum Beispiel an Flüssen oder Teichen.",
+  "beispielsatz": "Am Ufer des Flusses steht ein großer Weidenbaum, dessen Äste bis ins Wasser hängen.",
+  "rechtschreibstrategie": "Der Weidenbaum ist ein Bausteinwort: Es besteht aus „Weide\" und „Baum\". Sprich beide Teile deutlich: Wei-de + Baum. Das lange „ei\" schreibt man mit e-i.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Weide",
+    "Baum"
+  ],
+  "bild_datei": "Weidenbaum.webp",
+  "audio_datei": "Weidenbaum.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Weidenbaum",
+    "plural": "die Weidenbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Weidenbaum",
+        "genitiv": "des Weidenbaums",
+        "dativ": "dem Weidenbaum",
+        "akkusativ": "den Weidenbaum"
+      },
+      "plural": {
+        "nominativ": "die Weidenbäume",
+        "genitiv": "der Weidenbäume",
+        "dativ": "den Weidenbäumen",
+        "akkusativ": "die Weidenbäume"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "willow tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "söğüt ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة الصفصاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weide"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Birke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Weidenbaumb",
+    "Waidenbaum",
+    "Weidenpaum",
+    "Weidentbaum",
+    "Weidembaum",
+    "Weidenbauhm"
+  ]
+}

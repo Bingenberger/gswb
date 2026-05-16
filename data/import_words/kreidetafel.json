@@ -1,0 +1,87 @@
+{
+  "lemma": "Kreidetafel",
+  "wortart": "Nomen",
+  "silben": "Krei-de-ta-fel",
+  "begriffserklaerung": "Eine Kreidetafel ist eine dunkle, glatte Tafel aus Schiefer oder einem ähnlichen Material, auf die man mit Kreide schreiben oder malen kann. Sie hängt oft vorne im Klassenzimmer.",
+  "beispielsatz": "Die Lehrerin schreibt die Aufgabe mit weißer Kreide auf die Kreidetafel.",
+  "rechtschreibstrategie": "Das Wort „Kreidetafel\" ist ein zusammengesetztes Nomen aus „Kreide\" und „Tafel\". Schreib beide Teile einfach hintereinander. Merke: ei wie in „Eis\" und das e am Ende von „Kreide\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kreide",
+    "Tafel"
+  ],
+  "bild_datei": "Kreidetafel.webp",
+  "audio_datei": "Kreidetafel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kreidetafel",
+    "plural": "die Kreidetafeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kreidetafel",
+        "genitiv": "der Kreidetafel",
+        "dativ": "der Kreidetafel",
+        "akkusativ": "die Kreidetafel"
+      },
+      "plural": {
+        "nominativ": "die Kreidetafeln",
+        "genitiv": "der Kreidetafeln",
+        "dativ": "den Kreidetafeln",
+        "akkusativ": "die Kreidetafeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chalkboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tableau noir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kara tahta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبورة الطباشير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreide"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tafel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schultafel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenzimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreide"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kreidentafel",
+    "Kreidetaffel",
+    "Kreidtafel",
+    "Creidetafel",
+    "Kreitetafel"
+  ]
+}

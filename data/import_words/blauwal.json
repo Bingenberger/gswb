@@ -1,0 +1,78 @@
+{
+  "lemma": "Blauwal",
+  "wortart": "Nomen",
+  "silben": "Blau-wal",
+  "begriffserklaerung": "Der Blauwal ist das größte Tier der Welt. Er lebt im Meer und ist ein Säugetier, das Luft zum Atmen braucht.",
+  "beispielsatz": "Der Blauwal ist so groß, dass er kaum in ein Schwimmbad passen würde!",
+  "rechtschreibstrategie": "Denk an die zwei Bausteine: „blau\" und „Wal\". Zusammen ergibt das „Blauwal\" – ein blauer Wal!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wal"
+  ],
+  "bild_datei": "Blauwal.webp",
+  "audio_datei": "Blauwal.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blauwal",
+    "plural": "die Blauwale",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blauwal",
+        "genitiv": "des Blauwals",
+        "dativ": "dem Blauwal",
+        "akkusativ": "den Blauwal"
+      },
+      "plural": {
+        "nominativ": "die Blauwale",
+        "genitiv": "der Blauwale",
+        "dativ": "den Blauwalen",
+        "akkusativ": "die Blauwale"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blue whale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baleine bleue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mavi balina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الحوت الأزرق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blauwall",
+    "Blauwahl",
+    "Blaual",
+    "Blauval",
+    "Blauwhal"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Rolle",
+  "wortart": "Nomen",
+  "silben": "Rol-le",
+  "begriffserklaerung": "Eine Rolle ist ein rundlicher Gegenstand, um den man etwas wickeln kann – zum Beispiel Papier oder Stoff. Eine Rolle kann sich auch drehen. Außerdem nennt man die Aufgabe einer Person in einem Theaterstück oder Film „Rolle\".",
+  "beispielsatz": "Der Turner macht eine Rolle vorwärts auf der Matte.",
+  "rechtschreibstrategie": "Das Wort „Rolle\" hat nach dem kurzen „o\" einen Doppel-l. Sprich kurz: „Rol-le\" – zwei gleiche Buchstaben zeigen den kurzen Vokal an!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "roll"
+  ],
+  "bild_datei": "Rolle.webp",
+  "audio_datei": "Rolle.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Rolle",
+    "plural": "die Rollen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Rolle",
+        "genitiv": "der Rolle",
+        "dativ": "der Rolle",
+        "akkusativ": "die Rolle"
+      },
+      "plural": {
+        "nominativ": "die Rollen",
+        "genitiv": "der Rollen",
+        "dativ": "den Rollen",
+        "akkusativ": "die Rollen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "roll / role"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rouleau / rôle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rulo / rol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لفافة / دور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rollen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rolltreppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Matte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wickel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Role",
+    "Roole",
+    "Rrolle",
+    "Rohle",
+    "Rölle"
+  ]
+}

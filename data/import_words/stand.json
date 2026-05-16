@@ -1,0 +1,83 @@
+{
+  "lemma": "Stand",
+  "wortart": "Nomen",
+  "silben": "Stand",
+  "begriffserklaerung": "Ein Stand ist ein Platz, an dem jemand steht oder etwas verkauft wird, zum Beispiel auf einem Markt. Ein Stand kann auch die Art sein, wie etwas gerade ist – zum Beispiel der Stand einer Sache.",
+  "beispielsatz": "Am Marktstand kauft Mama frisches Obst.",
+  "rechtschreibstrategie": "Verlängere das Wort: „Stand – Stände\". Am Ende hörst du dann das „d\" deutlich. Deshalb schreibt man „Stand\" mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steh",
+    "stand"
+  ],
+  "bild_datei": "Stand.webp",
+  "audio_datei": "Stand.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stand",
+    "plural": "die Stände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stand",
+        "genitiv": "des Standes",
+        "dativ": "dem Stand",
+        "akkusativ": "den Stand"
+      },
+      "plural": {
+        "nominativ": "die Stände",
+        "genitiv": "der Stände",
+        "dativ": "den Ständen",
+        "akkusativ": "die Stände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stand / stall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "stand / étal"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tezgâh / durum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بسطة / حالة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zustand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bude"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stant",
+    "Standt",
+    "Shtand",
+    "Stend",
+    "Stahnd"
+  ]
+}

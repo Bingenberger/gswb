@@ -1,0 +1,83 @@
+{
+  "lemma": "Lesung",
+  "wortart": "Nomen",
+  "silben": "Le-sung",
+  "begriffserklaerung": "Eine Lesung ist eine Veranstaltung, bei der jemand laut aus einem Buch oder einem Text vorliest.",
+  "beispielsatz": "Die Autorin hielt eine Lesung in unserer Schule und las aus ihrem neuen Kinderbuch vor.",
+  "rechtschreibstrategie": "Denk an das Verb „lesen\" – daraus wird „Lesung\". Das kurze „e\" am Anfang sprichst du deutlich mit.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "les"
+  ],
+  "bild_datei": "Lesung.webp",
+  "audio_datei": "Lesung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reading"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lecture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okuma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قراءة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorlesung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lesung",
+    "plural": "die Lesungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lesung",
+        "genitiv": "der Lesung",
+        "dativ": "der Lesung",
+        "akkusativ": "die Lesung"
+      },
+      "plural": {
+        "nominativ": "die Lesungen",
+        "genitiv": "der Lesungen",
+        "dativ": "den Lesungen",
+        "akkusativ": "die Lesungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lehsung",
+    "Leesung",
+    "Leßung",
+    "Lezung",
+    "Läsung"
+  ]
+}

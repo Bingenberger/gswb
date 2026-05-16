@@ -1,0 +1,80 @@
+{
+  "lemma": "Blindenstock",
+  "wortart": "Nomen",
+  "silben": "Blin-den-stock",
+  "begriffserklaerung": "Ein Blindenstock ist ein langer, weißer Stock, den blinde oder sehbehinderte Menschen benutzen. Damit können sie ertasten, ob vor ihnen etwas im Weg ist.",
+  "beispielsatz": "Die Frau tippt mit ihrem Blindenstock vorsichtig den Weg vor sich ab.",
+  "rechtschreibstrategie": "Das Wort „Blindenstock\" ist aus zwei Teilen zusammengebaut: „Blinden\" und „Stock\". Sprich beide Teile einzeln und schreibe sie zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "blind",
+    "Stock"
+  ],
+  "bild_datei": "Blindenstock.webp",
+  "audio_datei": "Blindenstock.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blindenstock",
+    "plural": "die Blindenstöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blindenstock",
+        "genitiv": "des Blindenstocks",
+        "dativ": "dem Blindenstock",
+        "akkusativ": "den Blindenstock"
+      },
+      "plural": {
+        "nominativ": "die Blindenstöcke",
+        "genitiv": "der Blindenstöcke",
+        "dativ": "den Blindenstöcken",
+        "akkusativ": "die Blindenstöcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "white cane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canne blanche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beyaz baston"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصا المكفوفين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rollstuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Führhund"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blindenshtock",
+    "Blinndenstock",
+    "Blindenshtok",
+    "Blintenstock",
+    "Blindenstok"
+  ]
+}

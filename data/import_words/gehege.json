@@ -1,0 +1,80 @@
+{
+  "lemma": "Gehege",
+  "wortart": "Nomen",
+  "silben": "Ge-he-ge",
+  "begriffserklaerung": "Ein Gehege ist ein eingezäunter Bereich, in dem Tiere sicher leben und sich bewegen können.",
+  "beispielsatz": "Im Zoo beobachten wir die Löwen in ihrem großen Gehege.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-he-ge. Das mittlere „h\" zeigt, dass das „e\" lang gesprochen wird – es ist ein Dehnungs-h!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hegen"
+  ],
+  "bild_datei": "Gehege.webp",
+  "audio_datei": "Gehege.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "enclosure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enclos"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayvan çiti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حظيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zoo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tiergehege"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gehege",
+    "plural": "die Gehege",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gehege",
+        "genitiv": "des Geheges",
+        "dativ": "dem Gehege",
+        "akkusativ": "das Gehege"
+      },
+      "plural": {
+        "nominativ": "die Gehege",
+        "genitiv": "der Gehege",
+        "dativ": "den Gehegen",
+        "akkusativ": "die Gehege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gehäge",
+    "Gehege",
+    "Geheege",
+    "Gehehge",
+    "Gehe ge",
+    "Geege",
+    "Gheege"
+  ]
+}

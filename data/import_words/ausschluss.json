@@ -1,0 +1,84 @@
+{
+  "lemma": "Ausschluss",
+  "wortart": "Nomen",
+  "silben": "Aus-schluss",
+  "begriffserklaerung": "Ein Ausschluss bedeutet, dass jemand nicht mitmachen darf oder aus einer Gruppe entfernt wird.",
+  "beispielsatz": "Der Ausschluss vom Spiel war eine Strafe dafür, dass er gemogelt hatte.",
+  "rechtschreibstrategie": "Das Wort besteht aus „aus\" und „Schluss\". Am Ende steht ein doppeltes s, weil der Vokal davor kurz ist: Schluss → kurzes u, deshalb ss.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schließen",
+    "Schluss"
+  ],
+  "bild_datei": "Ausschluss.webp",
+  "audio_datei": "Ausschluss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exclusion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exclusion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dışlanma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استبعاد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausgrenzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strafe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ausschluss",
+    "plural": "die Ausschlüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ausschluss",
+        "genitiv": "des Ausschlusses",
+        "dativ": "dem Ausschluss",
+        "akkusativ": "den Ausschluss"
+      },
+      "plural": {
+        "nominativ": "die Ausschlüsse",
+        "genitiv": "der Ausschlüsse",
+        "dativ": "den Ausschlüssen",
+        "akkusativ": "die Ausschlüsse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ausschlus",
+    "Ausschluß",
+    "Ausschluss",
+    "Ausschlüss",
+    "Ausschlusz"
+  ]
+}

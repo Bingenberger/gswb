@@ -1,0 +1,77 @@
+{
+  "lemma": "Tümpel",
+  "wortart": "Nomen",
+  "silben": "Tüm-pel",
+  "begriffserklaerung": "Ein Tümpel ist ein kleines, flaches Gewässer mit stehendem Wasser. Er ist kleiner als ein See und hat oft trübes Wasser. Frösche, Kröten und viele Insekten leben dort.",
+  "beispielsatz": "Am Tümpel im Wald quaken jeden Abend viele Frösche.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Tüm-pel\". Nach dem kurzen „ü\" hörst du ein „m\" und dann ein „p\" – schreib beide Buchstaben genau so, wie du sie hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tümpel.webp",
+  "audio_datei": "Tümpel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pond"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mare"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük gölet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بركة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tümpel",
+    "plural": "die Tümpel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tümpel",
+        "genitiv": "des Tümpels",
+        "dativ": "dem Tümpel",
+        "akkusativ": "den Tümpel"
+      },
+      "plural": {
+        "nominativ": "die Tümpel",
+        "genitiv": "der Tümpel",
+        "dativ": "den Tümpeln",
+        "akkusativ": "die Tümpel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tümpel",
+    "Tümbel",
+    "Tümpell",
+    "Tumpel",
+    "Tüempel",
+    "Thümpel"
+  ]
+}

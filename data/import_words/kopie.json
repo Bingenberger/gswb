@@ -1,0 +1,83 @@
+{
+  "lemma": "Kopie",
+  "wortart": "Nomen",
+  "silben": "Ko-pie",
+  "begriffserklaerung": "Eine Kopie ist ein zweites Exemplar von etwas, das genauso aussieht wie das Original. Man kann zum Beispiel ein Blatt Papier kopieren, damit man es doppelt hat.",
+  "beispielsatz": "Die Lehrerin macht eine Kopie des Arbeitsblatts für alle Kinder in der Klasse.",
+  "rechtschreibstrategie": "Das Wort „Kopie\" endet auf „-ie\" – das sprichst du wie ein langes „i\". Merke dir: Am Ende steht immer ie, nicht nur i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "kopier"
+  ],
+  "bild_datei": "Kopie.webp",
+  "audio_datei": "Kopie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "copy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "copie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kopya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نسخة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kopieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kopierer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drucker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Original"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschrift"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kopie",
+    "plural": "die Kopien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kopie",
+        "genitiv": "der Kopie",
+        "dativ": "der Kopie",
+        "akkusativ": "die Kopie"
+      },
+      "plural": {
+        "nominativ": "die Kopien",
+        "genitiv": "der Kopien",
+        "dativ": "den Kopien",
+        "akkusativ": "die Kopien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kopie",
+    "Coppie",
+    "Koppi",
+    "Koppie",
+    "Koppy",
+    "Copie"
+  ]
+}

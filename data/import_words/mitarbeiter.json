@@ -1,0 +1,87 @@
+{
+  "lemma": "Mitarbeiter",
+  "wortart": "Nomen",
+  "silben": "Mit-ar-bei-ter",
+  "begriffserklaerung": "Ein Mitarbeiter ist eine Person, die zusammen mit anderen Menschen an einem Ort arbeitet, zum Beispiel in einer Firma oder Schule.",
+  "beispielsatz": "Der Mitarbeiter im Supermarkt hilft den Kunden freundlich beim Einkaufen.",
+  "rechtschreibstrategie": "Teile das Wort in seine Bausteine: Mit + Ar-bei-ter. Sprich alle Teile deutlich mit: „Mit-ar-bei-ter\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "arbeit",
+    "mit"
+  ],
+  "bild_datei": "Mitarbeiter.webp",
+  "audio_datei": "Mitarbeiter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "employee / colleague"
+    },
+    {
+      "language_code": "fr",
+      "translation": "employé / collègue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalışan / iş arkadaşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موظف / زميل عمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "arbeiten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kollege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Firma"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chef"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mitarbeiter",
+    "plural": "die Mitarbeiter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mitarbeiter",
+        "genitiv": "des Mitarbeiters",
+        "dativ": "dem Mitarbeiter",
+        "akkusativ": "den Mitarbeiter"
+      },
+      "plural": {
+        "nominativ": "die Mitarbeiter",
+        "genitiv": "der Mitarbeiter",
+        "dativ": "den Mitarbeitern",
+        "akkusativ": "die Mitarbeiter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitarbaiter",
+    "Mitarbeitter",
+    "Mittarbeiter",
+    "Mitarbeitär",
+    "Mitarpeiter"
+  ]
+}

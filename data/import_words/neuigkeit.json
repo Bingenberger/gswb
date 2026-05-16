@@ -1,0 +1,91 @@
+{
+  "lemma": "Neuigkeit",
+  "wortart": "Nomen",
+  "silben": "Neu-ig-keit",
+  "begriffserklaerung": "Eine Neuigkeit ist etwas, das gerade erst passiert ist und das man noch nicht wusste. Man erzählt anderen davon, weil es interessant oder wichtig ist.",
+  "beispielsatz": "„Ich habe eine tolle Neuigkeit: Wir bekommen einen Hund!\"",
+  "rechtschreibstrategie": "Denk an das Wort „neu\" – daraus wird „Neuigkeit\". Das Wort besteht aus drei Bausteinen: neu + ig + keit. Sprich alle Teile laut mit!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "neu"
+  ],
+  "bild_datei": "Neuigkeit.webp",
+  "audio_datei": "Neuigkeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "news, novelty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nouvelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "haber, yenilik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبر جديد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "neu"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erneuerung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Meldung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerücht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bericht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Neuigkeit",
+    "plural": "die Neuigkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Neuigkeit",
+        "genitiv": "der Neuigkeit",
+        "dativ": "der Neuigkeit",
+        "akkusativ": "die Neuigkeit"
+      },
+      "plural": {
+        "nominativ": "die Neuigkeiten",
+        "genitiv": "der Neuigkeiten",
+        "dativ": "den Neuigkeiten",
+        "akkusativ": "die Neuigkeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Neugigkeit",
+    "Neuigkeid",
+    "Neuikeit",
+    "Neuigkait",
+    "Neüigkeit",
+    "Neuigkeit"
+  ]
+}

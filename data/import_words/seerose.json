@@ -1,0 +1,85 @@
+{
+  "lemma": "Seerose",
+  "wortart": "Nomen",
+  "silben": "See-ro-se",
+  "begriffserklaerung": "Eine Seerose ist eine Wasserpflanze mit großen, runden Blättern und schönen Blüten, die auf der Oberfläche von Teichen und Seen schwimmt.",
+  "beispielsatz": "Im Teich im Park blüht eine weiße Seerose.",
+  "rechtschreibstrategie": "Das Wort „Seerose\" besteht aus zwei Teilen: „See\" und „Rose\". Beide Teile sprichst du klar mit – so schreibst du es auch!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "See",
+    "Rose"
+  ],
+  "bild_datei": "Seerose.webp",
+  "audio_datei": "Seerose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Seerose",
+    "plural": "die Seerosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Seerose",
+        "genitiv": "der Seerose",
+        "dativ": "der Seerose",
+        "akkusativ": "die Seerose"
+      },
+      "plural": {
+        "nominativ": "die Seerosen",
+        "genitiv": "der Seerosen",
+        "dativ": "den Seerosen",
+        "akkusativ": "die Seerosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water lily"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nénuphar"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nilüfer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زنبق الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserpflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blüte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Seerose",
+    "Seerosse",
+    "Sehrose",
+    "Seeroße",
+    "Serose",
+    "Seerohse"
+  ]
+}

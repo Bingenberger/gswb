@@ -1,0 +1,84 @@
+{
+  "lemma": "Mauersegler",
+  "wortart": "Nomen",
+  "silben": "Mau-er-seg-ler",
+  "begriffserklaerung": "Ein Mauersegler ist ein kleiner Vogel mit langen, schmalen Flügeln. Er fliegt sehr schnell und verbringt fast sein ganzes Leben in der Luft. Er baut sein Nest oft in Mauerlöchern an Gebäuden.",
+  "beispielsatz": "Der Mauersegler fliegt so schnell, dass man ihn kaum mit den Augen verfolgen kann.",
+  "rechtschreibstrategie": "Das Wort „Mauersegler\" ist aus zwei Teilen zusammengesetzt: „Mauer\" und „Segler\". Sprich beide Teile einzeln, dann schreibst du sie auch richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Mauer",
+    "segeln"
+  ],
+  "bild_datei": "Mauersegler.webp",
+  "audio_datei": "Mauersegler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "common swift"
+    },
+    {
+      "language_code": "fr",
+      "translation": "martinet noir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ebabil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر السمامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "segeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwalbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zugvogel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mauersegler",
+    "plural": "die Mauersegler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mauersegler",
+        "genitiv": "des Mauerseglers",
+        "dativ": "dem Mauersegler",
+        "akkusativ": "den Mauersegler"
+      },
+      "plural": {
+        "nominativ": "die Mauersegler",
+        "genitiv": "der Mauersegler",
+        "dativ": "den Mauerseglern",
+        "akkusativ": "die Mauersegler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mauerseeglar",
+    "Maursegeler",
+    "Maursegler",
+    "Mauersegeler",
+    "Mauersegler",
+    "Mauersägler"
+  ]
+}

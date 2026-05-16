@@ -1,0 +1,78 @@
+{
+  "lemma": "Rebhuhn",
+  "wortart": "Nomen",
+  "silben": "Reb-huhn",
+  "begriffserklaerung": "Ein Rebhuhn ist ein kleiner, runder Vogel, der auf Feldern und Wiesen lebt. Es kann fliegen, läuft aber lieber schnell am Boden entlang.",
+  "beispielsatz": "Auf dem Acker haben wir ein Rebhuhn entdeckt, das sich im hohen Gras versteckt hat.",
+  "rechtschreibstrategie": "Das Wort „Rebhuhn\" ist ein zusammengesetztes Wort aus „Reb-\" (wie Rebe, also Weinpflanze) und „Huhn\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben: Reb + Huhn.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Huhn"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Rebhuhn",
+    "plural": "die Rebhühner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rebhuhn",
+        "genitiv": "des Rebhuhns",
+        "dativ": "dem Rebhuhn",
+        "akkusativ": "das Rebhuhn"
+      },
+      "plural": {
+        "nominativ": "die Rebhühner",
+        "genitiv": "der Rebhühner",
+        "dativ": "den Rebhühnern",
+        "akkusativ": "die Rebhühner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rephuhn",
+    "Räbhuhn",
+    "Rebhun",
+    "Rebhunn",
+    "Rebhühn"
+  ],
+  "bild_datei": "Rebhuhn.webp",
+  "audio_datei": "Rebhuhn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "partridge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perdrix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keklik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fasan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    }
+  ]
+}

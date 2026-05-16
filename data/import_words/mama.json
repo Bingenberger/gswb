@@ -1,0 +1,73 @@
+{
+  "lemma": "Mama",
+  "wortart": "Nomen",
+  "silben": "Ma-ma",
+  "begriffserklaerung": "Die Mama ist die Mutter. Sie kümmert sich um dich und liebt dich sehr.",
+  "beispielsatz": "Meine Mama liest mir jeden Abend eine Gutenachtgeschichte vor.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ma-ma. Du hörst zwei gleiche Silben – schreib einfach „Ma\" zweimal!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mama",
+    "plural": "die Mamas",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mama",
+        "genitiv": "der Mama",
+        "dativ": "der Mama",
+        "akkusativ": "die Mama"
+      },
+      "plural": {
+        "nominativ": "die Mamas",
+        "genitiv": "der Mamas",
+        "dativ": "den Mamas",
+        "akkusativ": "die Mamas"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Mutter"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papa"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mahma",
+    "Mamma",
+    "Mama",
+    "Mamer"
+  ],
+  "bild_datei": "Mama.webp",
+  "audio_datei": "Mama.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mum / mom"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maman"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ماما"
+    }
+  ]
+}

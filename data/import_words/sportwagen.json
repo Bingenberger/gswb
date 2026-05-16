@@ -1,0 +1,88 @@
+{
+  "lemma": "Sportwagen",
+  "wortart": "Nomen",
+  "silben": "Sport-wa-gen",
+  "begriffserklaerung": "Ein Sportwagen ist ein besonders schnelles und flaches Auto, das oft sehr toll aussieht.",
+  "beispielsatz": "Der rote Sportwagen fährt sehr schnell an uns vorbei.",
+  "rechtschreibstrategie": "„Sportwagen\" ist ein zusammengesetztes Wort aus „Sport\" und „Wagen\" – sprich beide Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sport",
+    "Wagen"
+  ],
+  "bild_datei": "Sportwagen.webp",
+  "audio_datei": "Sportwagen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sportwagen",
+    "plural": "die Sportwagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sportwagen",
+        "genitiv": "des Sportwagens",
+        "dativ": "dem Sportwagen",
+        "akkusativ": "den Sportwagen"
+      },
+      "plural": {
+        "nominativ": "die Sportwagen",
+        "genitiv": "der Sportwagen",
+        "dativ": "den Sportwagen",
+        "akkusativ": "die Sportwagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sports car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture de sport"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor araba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة رياضية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rennwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flitzer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sportwachen",
+    "Sportwaggen",
+    "Sportwagen",
+    "Sbordwagen",
+    "Sportwaagen",
+    "Sportwagn"
+  ]
+}

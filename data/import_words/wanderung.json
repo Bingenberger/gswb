@@ -1,0 +1,87 @@
+{
+  "lemma": "Wanderung",
+  "wortart": "Nomen",
+  "silben": "Wan-de-rung",
+  "begriffserklaerung": "Eine Wanderung ist ein langer Spaziergang, meist durch die Natur, zum Beispiel durch den Wald oder über Berge.",
+  "beispielsatz": "Am Wochenende machten wir eine schöne Wanderung durch den Wald.",
+  "rechtschreibstrategie": "Denk an das Verb „wandern\" – daraus wird „Wanderung\". Du hörst das „d\" in „wandern\", also schreibst du auch in „Wanderung\" ein „d\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wander"
+  ],
+  "bild_datei": "Wanderung.webp",
+  "audio_datei": "Wanderung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wanderung",
+    "plural": "die Wanderungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wanderung",
+        "genitiv": "der Wanderung",
+        "dativ": "der Wanderung",
+        "akkusativ": "die Wanderung"
+      },
+      "plural": {
+        "nominativ": "die Wanderungen",
+        "genitiv": "der Wanderungen",
+        "dativ": "den Wanderungen",
+        "akkusativ": "die Wanderungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hike"
+    },
+    {
+      "language_code": "fr",
+      "translation": "randonnée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüyüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نزهة مشي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wandern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wanderer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wanderunk",
+    "Vandерung",
+    "Wanterung",
+    "Wanderrung",
+    "Wanderuing"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Büroklammer",
+  "wortart": "Nomen",
+  "silben": "Bü-ro-klam-mer",
+  "begriffserklaerung": "Eine Büroklammer ist ein kleiner, gebogener Draht aus Metall. Man benutzt sie, um mehrere Blätter Papier zusammenzuhalten.",
+  "beispielsatz": "Ich halte meine Zeichnungen mit einer Büroklammer zusammen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Büro\" und „Klammer\". Sprich beide Teile laut: Bü-ro-klam-mer. Das „mm\" in „Klammer\" zeigt, dass das „a\" kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "klammer",
+    "büro"
+  ],
+  "bild_datei": "Büroklammer.webp",
+  "audio_datei": "Büroklammer.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Büroklammer",
+    "plural": "die Büroklammern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Büroklammer",
+        "genitiv": "der Büroklammer",
+        "dativ": "der Büroklammer",
+        "akkusativ": "die Büroklammer"
+      },
+      "plural": {
+        "nominativ": "die Büroklammern",
+        "genitiv": "der Büroklammern",
+        "dativ": "den Büroklammern",
+        "akkusativ": "die Büroklammern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "paper clip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trombone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ataş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشبك ورق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klammer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klammern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hefter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Locher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Paperclip"
+    }
+  ],
+  "fehlschreibungen": [
+    "Büroklamer",
+    "Bühroklammer",
+    "Büroklamme",
+    "Buroklammer",
+    "Büroklammern"
+  ]
+}

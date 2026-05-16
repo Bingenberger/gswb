@@ -1,0 +1,83 @@
+{
+  "lemma": "Betrieb",
+  "wortart": "Nomen",
+  "silben": "Be-trieb",
+  "begriffserklaerung": "Ein Betrieb ist ein Ort, an dem Menschen zusammenarbeiten, um etwas herzustellen oder einen Dienst anzubieten – zum Beispiel eine Fabrik, ein Geschäft oder eine Werkstatt.",
+  "beispielsatz": "In dem großen Betrieb werden jeden Tag viele Autos gebaut.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Be-trieb. Am Ende hörst du „trieb\" – das kommt von „treiben\". Verlängere: des Betriebes – dann erkennst du das „b\" am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "treib"
+  ],
+  "bild_datei": "Betrieb.webp",
+  "audio_datei": "Betrieb.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Betrieb",
+    "plural": "die Betriebe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Betrieb",
+        "genitiv": "des Betriebes",
+        "dativ": "dem Betrieb",
+        "akkusativ": "den Betrieb"
+      },
+      "plural": {
+        "nominativ": "die Betriebe",
+        "genitiv": "der Betriebe",
+        "dativ": "den Betrieben",
+        "akkusativ": "die Betriebe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "company / business"
+    },
+    {
+      "language_code": "fr",
+      "translation": "entreprise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işletme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشروع / شركة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "treiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "betreiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Firma"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unternehmen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Betrip",
+    "Betriep",
+    "Betrib",
+    "Betripp",
+    "Betreib"
+  ]
+}

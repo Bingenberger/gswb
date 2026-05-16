@@ -1,0 +1,67 @@
+{
+  "lemma": "tot",
+  "wortart": "Adjektiv",
+  "silben": "tot",
+  "begriffserklaerung": "Etwas oder jemand, der tot ist, lebt nicht mehr.",
+  "beispielsatz": "Die Blume auf der Fensterbank ist leider tot, weil sie kein Wasser bekommen hat.",
+  "rechtschreibstrategie": "Wenn du „tot\" verlängerst, sagst du „tote\" – dann hörst du nur ein t am Ende, aber weil der Vokal kurz ist, schreibst du tt? Nein! „tot\" hat nur ein t, denn beim Verlängern hörst du „to-te\" mit einem t. Merke: kurzes o, aber trotzdem nur ein t – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "tot"
+  ],
+  "bild_datei": "tot.webp",
+  "audio_datei": "tot.mp3",
+  "grammatische_formen": {
+    "positiv": "tot",
+    "komparativ": "–",
+    "superlativ": "–"
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dead"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mort"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tod"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "töten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "leblos"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "leblos"
+    }
+  ],
+  "fehlschreibungen": [
+    "tott",
+    "todt",
+    "tod",
+    "tote (als Grundform)"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Pflaster",
+  "wortart": "Nomen",
+  "silben": "Pflas-ter",
+  "begriffserklaerung": "Ein Pflaster ist ein kleiner Klebestreifen, den man auf eine Wunde klebt, damit sie sauber bleibt und schneller heilt.",
+  "beispielsatz": "Mama klebt mir ein Pflaster auf das aufgeschürfte Knie.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Pflas-ter. Denk daran: Am Anfang steht das seltene „Pf\" – beide Buchstaben zusammen ergeben einen Laut!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "pflastern"
+  ],
+  "bild_datei": "Pflaster.webp",
+  "audio_datei": "Pflaster.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pflaster",
+    "plural": "die Pflaster",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pflaster",
+        "genitiv": "des Pflasters",
+        "dativ": "dem Pflaster",
+        "akkusativ": "das Pflaster"
+      },
+      "plural": {
+        "nominativ": "die Pflaster",
+        "genitiv": "der Pflaster",
+        "dativ": "den Pflastern",
+        "akkusativ": "die Pflaster"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plaster / bandage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pansement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yara bandı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضمادة لاصقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pflastern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erste Hilfe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flaster",
+    "Pflaser",
+    "Phlaster",
+    "Pflasder",
+    "Pflasster"
+  ]
+}

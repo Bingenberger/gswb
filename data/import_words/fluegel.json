@@ -1,0 +1,79 @@
+{
+  "lemma": "Flügel",
+  "wortart": "Nomen",
+  "silben": "Flü-gel",
+  "begriffserklaerung": "Ein Flügel ist ein Körperteil von Vögeln, Insekten oder Fledermäusen, mit dem sie fliegen können. Auch Flugzeuge haben Flügel.",
+  "beispielsatz": "Der Vogel breitet seine Flügel aus und fliegt davon.",
+  "rechtschreibstrategie": "Denk an das Verb „fliegen\" – daraus wird „Flügel\". Das ü bleibt, weil es vom Fliegen kommt. Sprich das Wort in Silben: Flü-gel.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "fliegen",
+    "flieg"
+  ],
+  "bild_datei": "Flügel.webp",
+  "audio_datei": "Flügel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kanat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جناح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feder"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flügel",
+    "plural": "die Flügel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flügel",
+        "genitiv": "des Flügels",
+        "dativ": "dem Flügel",
+        "akkusativ": "den Flügel"
+      },
+      "plural": {
+        "nominativ": "die Flügel",
+        "genitiv": "der Flügel",
+        "dativ": "den Flügeln",
+        "akkusativ": "die Flügel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flugel",
+    "Flüggel",
+    "Flügell",
+    "Flügl",
+    "Flüegel"
+  ]
+}

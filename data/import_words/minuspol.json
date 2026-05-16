@@ -1,0 +1,82 @@
+{
+  "lemma": "Minuspol",
+  "wortart": "Nomen",
+  "silben": "Mi-nus-pol",
+  "begriffserklaerung": "Der Minuspol ist eine der beiden Seiten einer Batterie. Er ist mit einem kleinen Minus-Zeichen (−) gekennzeichnet und gibt den Strom ab.",
+  "beispielsatz": "Das Kabel muss an den Minuspol der Batterie angeschlossen werden.",
+  "rechtschreibstrategie": "Das Wort „Minuspol\" besteht aus zwei Teilen: „Minus\" und „Pol\". Sprich beide Teile einzeln, dann kannst du sie leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pol"
+  ],
+  "bild_datei": "Minuspol.webp",
+  "audio_datei": "Minuspol.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "negative pole / negative terminal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pôle négatif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "negatif kutup"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القطب السالب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pol"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pluspol"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stromkreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pluspol"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Minuspol",
+    "plural": "die Minuspole",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Minuspol",
+        "genitiv": "des Minuspols",
+        "dativ": "dem Minuspol",
+        "akkusativ": "den Minuspol"
+      },
+      "plural": {
+        "nominativ": "die Minuspole",
+        "genitiv": "der Minuspole",
+        "dativ": "den Minuspolen",
+        "akkusativ": "die Minuspole"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Minuspool",
+    "Minußpol",
+    "Minnuspol",
+    "Minospol",
+    "Minuspohl"
+  ]
+}

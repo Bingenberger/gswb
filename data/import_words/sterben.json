@@ -1,0 +1,96 @@
+{
+  "lemma": "sterben",
+  "wortart": "Verb",
+  "silben": "ster-ben",
+  "begriffserklaerung": "Wenn ein Mensch, ein Tier oder eine Pflanze stirbt, hört es auf zu leben. Das Leben endet.",
+  "beispielsatz": "Die alte Katze war sehr krank und ist letzte Nacht gestorben.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ster-ben. Du hörst das „r\" vor dem „b\" – schreibe beide Buchstaben genau so, wie du sie hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sterb",
+    "stirb"
+  ],
+  "bild_datei": "sterben.webp",
+  "audio_datei": "sterben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to die"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mourir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يموت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tod"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gestorben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sterblich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "versterben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beerdigung"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sterben",
+    "praesens": {
+      "ich": "sterbe",
+      "du": "stirbst",
+      "er_sie_es": "stirbt",
+      "wir": "sterben",
+      "ihr": "sterbt",
+      "sie": "sterben"
+    },
+    "perfekt": {
+      "ich": "bin gestorben",
+      "du": "bist gestorben",
+      "er_sie_es": "ist gestorben",
+      "wir": "sind gestorben",
+      "ihr": "seid gestorben",
+      "sie": "sind gestorben"
+    },
+    "praeteritum": {
+      "ich": "starb",
+      "du": "starbst",
+      "er_sie_es": "starb",
+      "wir": "starben",
+      "ihr": "starbt",
+      "sie": "starben"
+    }
+  },
+  "fehlschreibungen": [
+    "sterbn",
+    "stärben",
+    "sterbeen",
+    "sterbhen",
+    "sderben",
+    "stärbn"
+  ]
+}

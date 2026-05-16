@@ -1,0 +1,82 @@
+{
+  "lemma": "Kirche",
+  "wortart": "Nomen",
+  "silben": "Kir-che",
+  "begriffserklaerung": "Eine Kirche ist ein Gebäude, in dem Christen zusammenkommen, um zu beten und Gottesdienste zu feiern.",
+  "beispielsatz": "Am Sonntag geht meine Familie in die Kirche.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kir-che. Nach dem kurzen „i\" kommt ein „r\" und dann „che\" – schreib es genau so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kirch"
+  ],
+  "bild_datei": "Kirche.webp",
+  "audio_datei": "Kirche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "church"
+    },
+    {
+      "language_code": "fr",
+      "translation": "église"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kilise"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كنيسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kirchlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kirchturm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glocke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gottesdienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kirche",
+    "plural": "die Kirchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kirche",
+        "genitiv": "der Kirche",
+        "dativ": "der Kirche",
+        "akkusativ": "die Kirche"
+      },
+      "plural": {
+        "nominativ": "die Kirchen",
+        "genitiv": "der Kirchen",
+        "dativ": "den Kirchen",
+        "akkusativ": "die Kirchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kirsche",
+    "Kirche",
+    "Kirrche",
+    "Kirch",
+    "Kirchhe"
+  ]
+}

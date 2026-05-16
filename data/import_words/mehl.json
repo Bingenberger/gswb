@@ -1,0 +1,83 @@
+{
+  "lemma": "Mehl",
+  "wortart": "Nomen",
+  "silben": "Mehl",
+  "begriffserklaerung": "Mehl ist ein feines, weißes Pulver, das aus gemahlenem Getreide (meistens Weizen) hergestellt wird. Man braucht es zum Backen von Brot, Kuchen und Keksen.",
+  "beispielsatz": "Mama schüttet das Mehl in die Schüssel und rührt den Teig an.",
+  "rechtschreibstrategie": "Das Wort „Mehl\" schreibt man mit einem langen „e\" und einem „h\" am Ende – das h gehört zum Dehnungs-h und macht den Vokal lang. Denk daran: kein zweites Vokalzeichen, einfach M-e-h-l!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "mahl",
+    "mehl"
+  ],
+  "bild_datei": "Mehl.webp",
+  "audio_datei": "Mehl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "farine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "un"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دقيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mahlen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mehlstaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zucker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mehl",
+    "plural": "die Mehle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mehl",
+        "genitiv": "des Mehls",
+        "dativ": "dem Mehl",
+        "akkusativ": "das Mehl"
+      },
+      "plural": {
+        "nominativ": "die Mehle",
+        "genitiv": "der Mehle",
+        "dativ": "den Mehlen",
+        "akkusativ": "die Mehle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mel",
+    "Meel",
+    "Mehll",
+    "Mähl",
+    "Meeel"
+  ]
+}

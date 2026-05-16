@@ -1,0 +1,85 @@
+{
+  "lemma": "Feind",
+  "wortart": "Nomen",
+  "silben": "Feind",
+  "begriffserklaerung": "Ein Feind ist jemand, der einem anderen nicht wohlgesonnen ist und ihm Böses wünscht oder schadet.",
+  "beispielsatz": "In dem Märchen hat der tapfere Ritter seinen Feind besiegt.",
+  "rechtschreibstrategie": "Wenn du „Feind\" verlängerst, hörst du das „d\" am Ende deutlich: „Fein-de\". Deshalb schreibt man es mit „d\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Feind"
+  ],
+  "bild_datei": "Feind.webp",
+  "audio_datei": "Feind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "enemy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ennemi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "feindlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feindschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gegner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freund"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feind",
+    "plural": "die Feinde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feind",
+        "genitiv": "des Feindes",
+        "dativ": "dem Feind",
+        "akkusativ": "den Feind"
+      },
+      "plural": {
+        "nominativ": "die Feinde",
+        "genitiv": "der Feinde",
+        "dativ": "den Feinden",
+        "akkusativ": "die Feinde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feindt",
+    "Feint",
+    "Veind",
+    "Feinnd"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Schreibübung",
+  "wortart": "Nomen",
+  "silben": "Schreib-ü-bung",
+  "begriffserklaerung": "Eine Schreibübung ist eine Aufgabe, bei der du das Schreiben übst – zum Beispiel Buchstaben, Wörter oder Sätze aufschreiben.",
+  "beispielsatz": "In der Schule machen wir jeden Tag eine Schreibübung, damit wir schöner und richtiger schreiben lernen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „schreib\" (von schreiben) und „Übung\". Sprich beide Teile einzeln: SCHREIB + ÜBUNG. Das „ei\" in „schreib\" klingt wie in „Ei\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schreib",
+    "üb"
+  ],
+  "bild_datei": "Schreibübung.webp",
+  "audio_datei": "Schreibübung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "writing exercise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exercice d'écriture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazma alıştırması"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تمرين الكتابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "üben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Diktat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hausaufgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schreibaufgabe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schreibübung",
+    "plural": "die Schreibübungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schreibübung",
+        "genitiv": "der Schreibübung",
+        "dativ": "der Schreibübung",
+        "akkusativ": "die Schreibübung"
+      },
+      "plural": {
+        "nominativ": "die Schreibübungen",
+        "genitiv": "der Schreibübungen",
+        "dativ": "den Schreibübungen",
+        "akkusativ": "die Schreibübungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schreibübüng",
+    "Schreipübung",
+    "Schreibiebung",
+    "Schreibübung",
+    "Schreybübung",
+    "Schreibübbung",
+    "Schreibübunk"
+  ]
+}

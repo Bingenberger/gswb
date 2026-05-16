@@ -1,0 +1,85 @@
+{
+  "lemma": "Erdwärme",
+  "wortart": "Nomen",
+  "silben": "Erd-wär-me",
+  "begriffserklaerung": "Erdwärme ist die natürliche Wärme, die tief im Inneren der Erde steckt. Diese Wärme kommt aus dem heißen Gestein unter unseren Füßen und kann zum Heizen oder zur Stromerzeugung genutzt werden.",
+  "beispielsatz": "Mit Erdwärme kann man Häuser heizen, ohne Kohle oder Öl zu verbrennen.",
+  "rechtschreibstrategie": "„Erdwärme\" ist ein Zusammensetzungswort aus „Erd\" und „Wärme\". Das ä in „Wärme\" erkennst du, wenn du an „warm\" denkst – warm wird zu Wärme!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Erde",
+    "warm"
+  ],
+  "bild_datei": "Erdwärme.webp",
+  "audio_datei": "Erdwärme.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erdwärme",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erdwärme",
+        "genitiv": "der Erdwärme",
+        "dativ": "der Erdwärme",
+        "akkusativ": "die Erdwärme"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "geothermal energy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "géothermie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "jeotermal enerji"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الطاقة الحرارية الأرضية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Solarenergie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windenergie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erneuerbare Energie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erdwärme",
+    "Ertswärme",
+    "Ärdwärme",
+    "Erdwärmme",
+    "Erdwärm",
+    "Erdwerm"
+  ]
+}

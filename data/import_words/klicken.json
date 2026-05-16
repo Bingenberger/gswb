@@ -1,0 +1,90 @@
+{
+  "lemma": "klicken",
+  "wortart": "Verb",
+  "silben": "kli-cken",
+  "begriffserklaerung": "Klicken bedeutet, mit dem Finger oder der Maus kurz und schnell auf etwas zu drücken, damit der Computer etwas tut.",
+  "beispielsatz": "Du musst auf den grünen Knopf klicken, damit das Spiel startet.",
+  "rechtschreibstrategie": "Das Wort „klicken\" hat ein kurzes i. Deshalb schreibt man danach „ck\" – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "klick"
+  ],
+  "bild_datei": "klicken.webp",
+  "audio_datei": "klicken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "klicken",
+    "praesens": {
+      "ich": "klicke",
+      "du": "klickst",
+      "er_sie_es": "klickt",
+      "wir": "klicken",
+      "ihr": "klickt",
+      "sie": "klicken"
+    },
+    "perfekt": {
+      "ich": "habe geklickt",
+      "du": "hast geklickt",
+      "er_sie_es": "hat geklickt",
+      "wir": "haben geklickt",
+      "ihr": "habt geklickt",
+      "sie": "haben geklickt"
+    },
+    "praeteritum": {
+      "ich": "klickte",
+      "du": "klicktest",
+      "er_sie_es": "klickte",
+      "wir": "klickten",
+      "ihr": "klicktet",
+      "sie": "klickten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to click"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cliquer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tıklamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينقر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anklicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tippen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "scrollen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "drücken"
+    }
+  ],
+  "fehlschreibungen": [
+    "kliken",
+    "clicken",
+    "klikken",
+    "klicen",
+    "kliecken"
+  ]
+}

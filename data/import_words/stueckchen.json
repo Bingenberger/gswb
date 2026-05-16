@@ -1,0 +1,83 @@
+{
+  "lemma": "Stückchen",
+  "wortart": "Nomen",
+  "silben": "Stück-chen",
+  "begriffserklaerung": "Ein Stückchen ist ein sehr kleines Stück von etwas, zum Beispiel von einem Kuchen oder einer Schokolade.",
+  "beispielsatz": "Darf ich bitte noch ein Stückchen Kuchen haben?",
+  "rechtschreibstrategie": "In „Stückchen\" steckt das Wort „Stück\". Nach dem kurzen „ü\" schreibt man „ck\". Das kleine „chen\" am Ende macht daraus etwas ganz Kleines!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stück"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stückchen",
+    "plural": "die Stückchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stückchen",
+        "genitiv": "des Stückchens",
+        "dativ": "dem Stückchen",
+        "akkusativ": "das Stückchen"
+      },
+      "plural": {
+        "nominativ": "die Stückchen",
+        "genitiv": "der Stückchen",
+        "dativ": "den Stückchen",
+        "akkusativ": "die Stückchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stückhen",
+    "Stückschen",
+    "Stückgen",
+    "Stükchen",
+    "Stücchen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little piece"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit morceau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük parça"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stückwerk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Häppchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Scheibe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bissen"
+    }
+  ],
+  "bild_datei": "Stückchen.webp",
+  "audio_datei": "Stückchen.mp3"
+}

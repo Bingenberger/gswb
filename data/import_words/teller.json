@@ -1,0 +1,78 @@
+{
+  "lemma": "Teller",
+  "wortart": "Nomen",
+  "silben": "Tel-ler",
+  "begriffserklaerung": "Ein Teller ist ein flaches, rundes Geschirrstück, auf das man Essen legt.",
+  "beispielsatz": "Mama stellt den vollen Teller vor mich auf den Tisch.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" in „Tel-\" kommt ein Doppel-l – das zeigt uns das Kürzezeichen: Tell-er.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teller",
+    "plural": "die Teller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teller",
+        "genitiv": "des Tellers",
+        "dativ": "dem Teller",
+        "akkusativ": "den Teller"
+      },
+      "plural": {
+        "nominativ": "die Teller",
+        "genitiv": "der Teller",
+        "dativ": "den Tellern",
+        "akkusativ": "die Teller"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Teller"
+  ],
+  "fehlschreibungen": [
+    "Teler",
+    "Teller",
+    "Theller",
+    "Tellr",
+    "Deller"
+  ],
+  "bild_datei": "Teller.webp",
+  "audio_datei": "Teller.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assiette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tabak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Unterteller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschirr"
+    }
+  ]
+}

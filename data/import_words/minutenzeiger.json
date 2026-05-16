@@ -1,0 +1,84 @@
+{
+  "lemma": "Minutenzeiger",
+  "wortart": "Nomen",
+  "silben": "Mi-nu-ten-zei-ger",
+  "beispielsatz": "Der Minutenzeiger zeigt gerade auf die 12, also ist es genau zur vollen Stunde!",
+  "begriffserklaerung": "Der Minutenzeiger ist der lange Zeiger auf einer Uhr. Er zeigt an, wie viele Minuten vergangen sind.",
+  "rechtschreibstrategie": "Das Wort „Minutenzeiger\" ist aus zwei Teilen zusammengesetzt: „Minuten\" und „Zeiger\". Sprich beide Teile einzeln und schreibe sie hintereinander.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Minute",
+    "zeigen"
+  ],
+  "bild_datei": "Minutenzeiger.webp",
+  "audio_datei": "Minutenzeiger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "minute hand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aiguille des minutes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dakika ibresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقرب الدقائق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Minute"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stundenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sekundenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Minutenzeiger",
+    "plural": "die Minutenzeiger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Minutenzeiger",
+        "genitiv": "des Minutenzeigers",
+        "dativ": "dem Minutenzeiger",
+        "akkusativ": "den Minutenzeiger"
+      },
+      "plural": {
+        "nominativ": "die Minutenzeiger",
+        "genitiv": "der Minutenzeiger",
+        "dativ": "den Minutenzeigern",
+        "akkusativ": "die Minutenzeiger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Minutenzeigger",
+    "Minnutenzeiger",
+    "Minutenzeigher",
+    "Minutenzeigär",
+    "Minutenzeigr",
+    "Minutenzeier"
+  ]
+}

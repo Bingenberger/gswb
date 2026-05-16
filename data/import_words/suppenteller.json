@@ -1,0 +1,85 @@
+{
+  "lemma": "Suppenteller",
+  "wortart": "Nomen",
+  "silben": "Sup-pen-tel-ler",
+  "begriffserklaerung": "Ein Suppenteller ist ein tiefer, runder Teller, aus dem man Suppe isst. Er hat einen erhöhten Rand, damit die Suppe nicht herausläuft.",
+  "beispielsatz": "Mama füllt den Suppenteller bis zum Rand mit heißer Tomatensuppe.",
+  "rechtschreibstrategie": "„Suppenteller\" ist ein zusammengesetztes Wort aus „Suppe\" und „Teller\". Schreibe beide Wörter einfach hintereinander: Suppe + Teller = Suppenteller. Achte auf das doppelte p in „Suppe\" und das doppelte l in „Teller\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Suppe",
+    "Teller"
+  ],
+  "bild_datei": "Suppenteller.webp",
+  "audio_datei": "Suppenteller.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Suppenteller",
+    "plural": "die Suppenteller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Suppenteller",
+        "genitiv": "des Suppentellers",
+        "dativ": "dem Suppenteller",
+        "akkusativ": "den Suppenteller"
+      },
+      "plural": {
+        "nominativ": "die Suppenteller",
+        "genitiv": "der Suppenteller",
+        "dativ": "den Suppentellern",
+        "akkusativ": "die Suppenteller"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "soup plate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "assiette à soupe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çorba tabağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبق الحساء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Suppe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schüssel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essteller"
+    }
+  ],
+  "fehlschreibungen": [
+    "Supenteller",
+    "Suppenteler",
+    "Zuppenteller",
+    "Suppenteller",
+    "Suppentellr",
+    "Suppeteller"
+  ]
+}

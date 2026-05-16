@@ -1,0 +1,91 @@
+{
+  "lemma": "Licht",
+  "wortart": "Nomen",
+  "silben": "Licht",
+  "begriffserklaerung": "Licht ist das, was uns hilft zu sehen. Es kommt zum Beispiel von der Sonne, einer Lampe oder einer Kerze.",
+  "beispielsatz": "Die Sonne schickt helles Licht durch das Fenster.",
+  "rechtschreibstrategie": "Das Wort „Licht\" endet auf -cht. Sprich es laut: du hörst das ch und das t ganz deutlich. Schreib beide Buchstaben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "licht",
+    "leuchт"
+  ],
+  "bild_datei": "Licht.webp",
+  "audio_datei": "Licht.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Licht",
+    "plural": "die Lichter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Licht",
+        "genitiv": "des Lichtes",
+        "dativ": "dem Licht",
+        "akkusativ": "das Licht"
+      },
+      "plural": {
+        "nominativ": "die Lichter",
+        "genitiv": "der Lichter",
+        "dativ": "den Lichtern",
+        "akkusativ": "die Lichter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "light"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lumière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ışık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضوء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leuchten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beleuchten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beleuchtung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Helligkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Licht"
+  ]
+}

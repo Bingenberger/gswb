@@ -1,0 +1,84 @@
+{
+  "lemma": "Badewanne",
+  "wortart": "Nomen",
+  "silben": "Ba-de-wan-ne",
+  "begriffserklaerung": "Eine Badewanne ist ein großes Becken im Badezimmer, das man mit Wasser füllt, um darin zu baden.",
+  "beispielsatz": "Nach dem Spielen draußen freut sich Lena auf ein warmes Bad in der Badewanne.",
+  "rechtschreibstrategie": "„Badewanne\" ist ein zusammengesetztes Wort aus „baden\" und „Wanne\". Das „nn\" in „Wanne\" hörst du beim lauten Sprechen: Wan-ne!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "bad",
+    "wann"
+  ],
+  "bild_datei": "Badewanne.webp",
+  "audio_datei": "Badewanne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Badewanne",
+    "plural": "die Badewannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Badewanne",
+        "genitiv": "der Badewanne",
+        "dativ": "der Badewanne",
+        "akkusativ": "die Badewanne"
+      },
+      "plural": {
+        "nominativ": "die Badewannen",
+        "genitiv": "der Badewannen",
+        "dativ": "den Badewannen",
+        "akkusativ": "die Badewannen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bathtub"
+    },
+    {
+      "language_code": "fr",
+      "translation": "baignoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küvet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض الاستحمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dusche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badezimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "fehlschreibungen": [
+    "Badewane",
+    "Badewann",
+    "Badtwanne",
+    "Badevanne",
+    "Badewannne"
+  ]
+}

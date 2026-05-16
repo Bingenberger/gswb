@@ -1,0 +1,88 @@
+{
+  "lemma": "Gedächtnis",
+  "wortart": "Nomen",
+  "silben": "Ge-däch-tnis",
+  "begriffserklaerung": "Das Gedächtnis ist die Fähigkeit des Gehirns, sich Dinge zu merken und sich später daran zu erinnern.",
+  "beispielsatz": "Maria hat ein gutes Gedächtnis und erinnert sich an fast alle Vokabeln.",
+  "rechtschreibstrategie": "Denke an das Wort „denken\" – das Gedächtnis steckt im Kopf! Sprich das Wort langsam in Silben: Ge-däch-tnis. Das „ä\" hörst du deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "denk",
+    "dacht"
+  ],
+  "bild_datei": "Gedächtnis.webp",
+  "audio_datei": "Gedächtnis.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gedächtnis",
+    "plural": "die Gedächtnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gedächtnis",
+        "genitiv": "des Gedächtnisses",
+        "dativ": "dem Gedächtnis",
+        "akkusativ": "das Gedächtnis"
+      },
+      "plural": {
+        "nominativ": "die Gedächtnisse",
+        "genitiv": "der Gedächtnisse",
+        "dativ": "den Gedächtnissen",
+        "akkusativ": "die Gedächtnisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "memory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mémoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hafıza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذاكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erinnerung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erinnerungsvermögen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehirn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konzentration"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gedächtness",
+    "Gedächnis",
+    "Gedächtniß",
+    "Gedechnis",
+    "Gedäctnis",
+    "Gedächtnihs"
+  ]
+}

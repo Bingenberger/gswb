@@ -1,0 +1,96 @@
+{
+  "lemma": "Ausdruck",
+  "wortart": "Nomen",
+  "silben": "Aus-druck",
+  "begriffserklaerung": "Ein Ausdruck ist ein Wort oder ein Gesicht, das zeigt, was jemand meint oder fühlt. Man kann auch etwas aus dem Drucker ausdrucken – das nennt man dann ebenfalls einen Ausdruck.",
+  "beispielsatz": "Der Lehrer erklärte den schwierigen Ausdruck an der Tafel.",
+  "rechtschreibstrategie": "Denk an das kurze „u\" in „druck\" – deshalb schreibt man „ck\" am Ende: Aus-dr-uck.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "drucken",
+    "Druck"
+  ],
+  "bild_datei": "Ausdruck.webp",
+  "audio_datei": "Ausdruck.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ausdruck",
+    "plural": "die Ausdrücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ausdruck",
+        "genitiv": "des Ausdrucks",
+        "dativ": "dem Ausdruck",
+        "akkusativ": "den Ausdruck"
+      },
+      "plural": {
+        "nominativ": "die Ausdrücke",
+        "genitiv": "der Ausdrücke",
+        "dativ": "den Ausdrücken",
+        "akkusativ": "die Ausdrücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "expression / printout"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expression / impression"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ifade / çıktı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تعبير / مطبوعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drucken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Druck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ausdrücken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Begriff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bezeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesichtsausdruck"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausdrugg",
+    "Ausdruk",
+    "Auzdruck",
+    "Ausdrueck",
+    "Ausdrukk"
+  ]
+}

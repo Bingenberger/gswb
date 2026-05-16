@@ -1,0 +1,83 @@
+{
+  "lemma": "Handschuh",
+  "wortart": "Nomen",
+  "silben": "Hand-schuh",
+  "begriffserklaerung": "Ein Handschuh ist eine Bekleidung für die Hand. Er wärmt die Finger und schützt sie vor Kälte.",
+  "beispielsatz": "Im Winter zieht Lisa ihre Handschuhe an, damit ihre Finger warm bleiben.",
+  "rechtschreibstrategie": "„Handschuh\" ist ein zusammengesetztes Wort aus „Hand\" und „Schuh\". Sprich beide Teile einzeln: HAND + SCHUH. Dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Schuh"
+  ],
+  "bild_datei": "Handschuh.webp",
+  "audio_datei": "Handschuh.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handschuh",
+    "plural": "die Handschuhe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handschuh",
+        "genitiv": "des Handschuhs",
+        "dativ": "dem Handschuh",
+        "akkusativ": "den Handschuh"
+      },
+      "plural": {
+        "nominativ": "die Handschuhe",
+        "genitiv": "der Handschuhe",
+        "dativ": "den Handschuhen",
+        "akkusativ": "die Handschuhe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glove"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eldiven"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفاز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hantschuh",
+    "Handschue",
+    "Handshuh",
+    "Hantschuch",
+    "Handschuhe"
+  ]
+}

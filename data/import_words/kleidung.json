@@ -1,0 +1,87 @@
+{
+  "lemma": "Kleidung",
+  "wortart": "Nomen",
+  "silben": "Klei-dung",
+  "begriffserklaerung": "Kleidung sind alle Sachen, die man am Körper trägt, zum Beispiel Hosen, Pullover, Jacken und T-Shirts.",
+  "beispielsatz": "Im Winter trägt man warme Kleidung, damit man nicht friert.",
+  "rechtschreibstrategie": "Denke an das Wort „kleiden\" – davon kommt „Kleidung\". Das „ei\" sprichst du wie in „Eis\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kleid"
+  ],
+  "bild_datei": "Kleidung.webp",
+  "audio_datei": "Kleidung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kleidung",
+    "plural": "die Kleidungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kleidung",
+        "genitiv": "der Kleidung",
+        "dativ": "der Kleidung",
+        "akkusativ": "die Kleidung"
+      },
+      "plural": {
+        "nominativ": "die Kleidungen",
+        "genitiv": "der Kleidungen",
+        "dativ": "den Kleidungen",
+        "akkusativ": "die Kleidungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clothing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vêtements"
+    },
+    {
+      "language_code": "tr",
+      "translation": "giysi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملابس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kleiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kleid"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pullover"
+    }
+  ],
+  "fehlschreibungen": [
+    "Klaidung",
+    "Kleidunk",
+    "Kleiduing",
+    "Kleitunk",
+    "Kleidunng"
+  ]
+}

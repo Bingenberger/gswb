@@ -1,0 +1,85 @@
+{
+  "lemma": "Streichholz",
+  "wortart": "Nomen",
+  "silben": "Streich-holz",
+  "begriffserklaerung": "Ein Streichholz ist ein kleines dünnes Hölzchen mit einer besonderen Spitze. Wenn man es an einer rauen Fläche reibt, entsteht eine Flamme.",
+  "beispielsatz": "Papa zündet mit einem Streichholz die Kerze an.",
+  "rechtschreibstrategie": "Das Wort Streichholz besteht aus zwei Teilen: „Streich\" und „Holz\". Sprich beide Bausteine einzeln: STREICH + HOLZ. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "streich",
+    "holz"
+  ],
+  "bild_datei": "Streichholz.webp",
+  "audio_datei": "Streichholz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Streichholz",
+    "plural": "die Streichhölzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Streichholz",
+        "genitiv": "des Streichholzes",
+        "dativ": "dem Streichholz",
+        "akkusativ": "das Streichholz"
+      },
+      "plural": {
+        "nominativ": "die Streichhölzer",
+        "genitiv": "der Streichhölzer",
+        "dativ": "den Streichhölzern",
+        "akkusativ": "die Streichhölzer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "match"
+    },
+    {
+      "language_code": "fr",
+      "translation": "allumette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kibrit"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عود ثقاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "streichen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flamme"
+    }
+  ],
+  "fehlschreibungen": [
+    "Streichholtz",
+    "Streihholz",
+    "Streicholz",
+    "Streickolz",
+    "Streichhols",
+    "Streichholts"
+  ]
+}

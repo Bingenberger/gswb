@@ -1,0 +1,83 @@
+{
+  "lemma": "Geburtsort",
+  "wortart": "Nomen",
+  "silben": "Ge-burts-ort",
+  "begriffserklaerung": "Der Geburtsort ist die Stadt oder der Ort, an dem ein Mensch geboren wurde.",
+  "beispielsatz": "In meinem Pass steht mein Geburtsort: München.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Geburts\" und „Ort\". Sprich beide Teile laut: Ge-burts-ort. So vergisst du kein s in der Mitte!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Geburt",
+    "Ort"
+  ],
+  "bild_datei": "Geburtsort.webp",
+  "audio_datei": "Geburtsort.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Geburtsort",
+    "plural": "die Geburtsorte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Geburtsort",
+        "genitiv": "des Geburtsorts",
+        "dativ": "dem Geburtsort",
+        "akkusativ": "den Geburtsort"
+      },
+      "plural": {
+        "nominativ": "die Geburtsorte",
+        "genitiv": "der Geburtsorte",
+        "dativ": "den Geburtsorten",
+        "akkusativ": "die Geburtsorte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "place of birth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lieu de naissance"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğum yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكان الولادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geburt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heimatort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausweis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Geburtzort",
+    "Geburtsohrt",
+    "Geburstort",
+    "Geburtsord",
+    "Geburtzord"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Meeresschildkröte",
+  "wortart": "Nomen",
+  "silben": "Mee-res-schild-krö-te",
+  "begriffserklaerung": "Eine Meeresschildkröte ist ein großes Tier mit einem harten Panzer, das im Meer lebt und sehr gut schwimmen kann.",
+  "beispielsatz": "Die Meeresschildkröte schwimmt langsam und majestätisch durch das blaue Wasser.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Meer\" + „Schild\" + „Kröte\". Achte auf das Fugen-s zwischen „Meer\" und „Schild\": Meeres-schild-kröte. Das ö in „Kröte\" klingt lang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Meer",
+    "Schild",
+    "Kröte"
+  ],
+  "bild_datei": "Meeresschildkröte.webp",
+  "audio_datei": "Meeresschildkröte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sea turtle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tortue de mer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deniz kaplumbağası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلحفاة البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schildkröte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koralle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Meeresschildkröte",
+    "plural": "die Meeresschildkröten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Meeresschildkröte",
+        "genitiv": "der Meeresschildkröte",
+        "dativ": "der Meeresschildkröte",
+        "akkusativ": "die Meeresschildkröte"
+      },
+      "plural": {
+        "nominativ": "die Meeresschildkröten",
+        "genitiv": "der Meeresschildkröten",
+        "dativ": "den Meeresschildkröten",
+        "akkusativ": "die Meeresschildkröten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Meeressschildkröte",
+    "Meresschildkröte",
+    "Meereschildkröte",
+    "Meeresschildkrote",
+    "Meeresschildkröhte",
+    "Mehresschildkröte"
+  ]
+}

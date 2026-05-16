@@ -1,0 +1,80 @@
+{
+  "lemma": "Osten",
+  "wortart": "Nomen",
+  "silben": "Os-ten",
+  "begriffserklaerung": "Der Osten ist eine Himmelsrichtung. Dort geht die Sonne morgens auf.",
+  "beispielsatz": "Die Sonne geht im Osten auf und im Westen unter.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Os-ten. Beide Silben gut mitsprechen – das t in der Mitte gehört zur zweiten Silbe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Osten",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Osten",
+        "genitiv": "des Ostens",
+        "dativ": "dem Osten",
+        "akkusativ": "den Osten"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "ost"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "östlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ostwind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Westen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Norden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süden"
+    }
+  ],
+  "fehlschreibungen": [
+    "Osten",
+    "Ohsten",
+    "Ossten"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "east"
+    },
+    {
+      "language_code": "fr",
+      "translation": "est"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الشرق"
+    }
+  ],
+  "bild_datei": "Osten.webp",
+  "audio_datei": "Osten.mp3"
+}

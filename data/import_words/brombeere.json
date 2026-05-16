@@ -1,0 +1,75 @@
+{
+  "lemma": "Brombeere",
+  "wortart": "Nomen",
+  "silben": "Brom-bee-re",
+  "begriffserklaerung": "Die Brombeere ist eine kleine, schwarze oder dunkelrote Frucht, die wild an Sträuchern mit Dornen wächst. Sie schmeckt süß und ein bisschen sauer.",
+  "beispielsatz": "Wir haben im Wald viele Brombeeren gepflückt und daraus eine leckere Marmelade gekocht.",
+  "rechtschreibstrategie": "Das Wort „Brombeere\" ist ein Baustein-Wort: „Brom\" und „Beere\" stecken darin. Denk daran, dass „Beere\" mit zwei e in der Mitte geschrieben wird: B-ee-re!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Beere"
+  ],
+  "bild_datei": "Brombeere.webp",
+  "audio_datei": "Brombeere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Brombeere",
+    "plural": "die Brombeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Brombeere",
+        "genitiv": "der Brombeere",
+        "dativ": "der Brombeere",
+        "akkusativ": "die Brombeere"
+      },
+      "plural": {
+        "nominativ": "die Brombeeren",
+        "genitiv": "der Brombeeren",
+        "dativ": "den Brombeeren",
+        "akkusativ": "die Brombeeren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blackberry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mûre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "böğürtlen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توت العليق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    }
+  ],
+  "fehlschreibungen": [
+    "Brombere",
+    "Brombähre",
+    "Brombeehre",
+    "Bromberre",
+    "Brombeere"
+  ]
+}

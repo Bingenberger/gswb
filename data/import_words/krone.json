@@ -1,0 +1,85 @@
+{
+  "lemma": "Krone",
+  "wortart": "Nomen",
+  "silben": "Kro-ne",
+  "begriffserklaerung": "Eine Krone ist ein kreisförmiger Kopfschmuck aus Metall oder Gold, den Könige und Königinnen tragen. Manchmal meint man damit auch die Spitze eines Baumes oder eines Zahnes.",
+  "beispielsatz": "Die Königin trägt eine glänzende Krone auf dem Kopf.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Kro-ne. Nach dem langen „o\" kommt nur ein „n\" – kein Doppel-n!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kron"
+  ],
+  "bild_datei": "Krone.webp",
+  "audio_datei": "Krone.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Krone",
+    "plural": "die Kronen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Krone",
+        "genitiv": "der Krone",
+        "dativ": "der Krone",
+        "akkusativ": "die Krone"
+      },
+      "plural": {
+        "nominativ": "die Kronen",
+        "genitiv": "der Kronen",
+        "dativ": "den Kronen",
+        "akkusativ": "die Kronen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crown"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couronne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krönen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Krönung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "König"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Königin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zepter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Diadem"
+    }
+  ],
+  "fehlschreibungen": [
+    "Crone",
+    "Krohne",
+    "Kronne",
+    "Krona"
+  ]
+}

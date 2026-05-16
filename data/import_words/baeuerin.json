@@ -1,0 +1,82 @@
+{
+  "lemma": "Bäuerin",
+  "wortart": "Nomen",
+  "silben": "Bäu-e-rin",
+  "begriffserklaerung": "Eine Bäuerin ist eine Frau, die auf einem Bauernhof lebt und arbeitet. Sie kümmert sich um Tiere, Felder und Pflanzen.",
+  "beispielsatz": "Die Bäuerin melkt jeden Morgen die Kühe auf ihrem Hof.",
+  "rechtschreibstrategie": "Denk an das Wort „Bauer\" – daraus wird mit der Endung „-in\" die Bäuerin. Das ä kommt von Bauer → Bäuerin.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Bauer"
+  ],
+  "bild_datei": "Bäuerin.webp",
+  "audio_datei": "Bäuerin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farmer (female)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agricultrice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftçi kadın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزارعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Landwirtin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bäuerin",
+    "plural": "die Bäuerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bäuerin",
+        "genitiv": "der Bäuerin",
+        "dativ": "der Bäuerin",
+        "akkusativ": "die Bäuerin"
+      },
+      "plural": {
+        "nominativ": "die Bäuerinnen",
+        "genitiv": "der Bäuerinnen",
+        "dativ": "den Bäuerinnen",
+        "akkusativ": "die Bäuerinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beäuerin",
+    "Beuerin",
+    "Bäurin",
+    "Bäuerin",
+    "Bäuerinne"
+  ]
+}

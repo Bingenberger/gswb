@@ -1,0 +1,71 @@
+{
+  "lemma": "Spind",
+  "wortart": "Nomen",
+  "silben": "Spind",
+  "begriffserklaerung": "Ein Spind ist ein schmaler Schrank mit einer Tür und einem Schloss. Man bewahrt darin seine Sachen auf, zum Beispiel in der Schule oder beim Sport.",
+  "beispielsatz": "Nach dem Schwimmen legt Tim seine Badesachen in den Spind.",
+  "rechtschreibstrategie": "Hör genau hin: Am Ende hörst du ein „d\", aber schreib es trotzdem mit „d\" – denn wenn du „Spinde\" sagst, hörst du das „d\" ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Spind.webp",
+  "audio_datei": "Spind.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "locker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "casier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خزانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schließfach"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Spind",
+    "plural": "die Spinde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Spind",
+        "genitiv": "des Spindes",
+        "dativ": "dem Spind",
+        "akkusativ": "den Spind"
+      },
+      "plural": {
+        "nominativ": "die Spinde",
+        "genitiv": "der Spinde",
+        "dativ": "den Spinden",
+        "akkusativ": "die Spinde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spint",
+    "Spinn",
+    "Sphind",
+    "Spinde"
+  ]
+}

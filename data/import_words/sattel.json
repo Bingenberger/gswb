@@ -1,0 +1,82 @@
+{
+  "lemma": "Sattel",
+  "wortart": "Nomen",
+  "silben": "Sat-tel",
+  "begriffserklaerung": "Ein Sattel ist ein Sitz aus Leder oder Kunststoff, der auf den Rücken eines Pferdes oder auf ein Fahrrad befestigt wird, damit man bequem darauf sitzen kann.",
+  "beispielsatz": "Lena setzt sich auf den Sattel und reitet mit ihrem Pferd über die Wiese.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Sat-tel. Nach dem kurzen „a\" hörst du das „t\" zweimal – deshalb schreibt man „tt\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sattel"
+  ],
+  "bild_datei": "Sattel.webp",
+  "audio_datei": "Sattel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "saddle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "selle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eyer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "satteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sattler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lenker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sattel",
+    "plural": "die Sättel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sattel",
+        "genitiv": "des Sattels",
+        "dativ": "dem Sattel",
+        "akkusativ": "den Sattel"
+      },
+      "plural": {
+        "nominativ": "die Sättel",
+        "genitiv": "der Sättel",
+        "dativ": "den Sätteln",
+        "akkusativ": "die Sättel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Satel",
+    "Satell",
+    "Sadel",
+    "Satdel",
+    "Satal"
+  ]
+}

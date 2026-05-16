@@ -1,0 +1,85 @@
+{
+  "lemma": "Stoppschild",
+  "wortart": "Nomen",
+  "silben": "Stopp-schild",
+  "begriffserklaerung": "Ein Stoppschild ist ein rotes, achteckiges Verkehrszeichen. Es zeigt an, dass man anhalten muss, bevor man weiterfährt.",
+  "beispielsatz": "Vor dem Stoppschild muss das Auto anhalten.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Stopp\" und „Schild\". Bei „Stopp\" hörst du das kurze „o\" – deshalb schreibt man zwei „p\". Beide Teile zusammen ergeben „Stoppschild\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stopp",
+    "schild"
+  ],
+  "bild_datei": "Stoppschild.webp",
+  "audio_datei": "Stoppschild.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Stoppschild",
+    "plural": "die Stoppschilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Stoppschild",
+        "genitiv": "des Stoppschilds",
+        "dativ": "dem Stoppschild",
+        "akkusativ": "das Stoppschild"
+      },
+      "plural": {
+        "nominativ": "die Stoppschilder",
+        "genitiv": "der Stoppschilder",
+        "dativ": "den Stoppschildern",
+        "akkusativ": "die Stoppschilder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stop sign"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau stop"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dur işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة قف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stopp"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stopschild",
+    "Stoppschilt",
+    "Stopsschild",
+    "Stoppschid",
+    "Shtoppschild"
+  ]
+}

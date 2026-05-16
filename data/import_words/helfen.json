@@ -1,0 +1,95 @@
+{
+  "lemma": "helfen",
+  "wortart": "Verb",
+  "silben": "hel-fen",
+  "begriffserklaerung": "Wenn du jemandem hilfst, machst du etwas Gutes für ihn und unterstützt ihn dabei, etwas zu schaffen.",
+  "beispielsatz": "Ich helfe meiner kleinen Schwester beim Anziehen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „hel-fen\". Du hörst ein kurzes „e\" und danach ein „l\" – daher schreibt man „lf\" und nicht „lff\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "helfen",
+    "Hilfe"
+  ],
+  "bild_datei": "helfen.webp",
+  "audio_datei": "helfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to help"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aider"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yardım etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُساعِد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Helfer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "unterstützen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "retten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kümmern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "helfen",
+    "praesens": {
+      "ich": "helfe",
+      "du": "hilfst",
+      "er_sie_es": "hilft",
+      "wir": "helfen",
+      "ihr": "helft",
+      "sie": "helfen"
+    },
+    "perfekt": {
+      "ich": "habe geholfen",
+      "du": "hast geholfen",
+      "er_sie_es": "hat geholfen",
+      "wir": "haben geholfen",
+      "ihr": "habt geholfen",
+      "sie": "haben geholfen"
+    },
+    "praeteritum": {
+      "ich": "half",
+      "du": "halfst",
+      "er_sie_es": "half",
+      "wir": "halfen",
+      "ihr": "halft",
+      "sie": "halfen"
+    }
+  },
+  "fehlschreibungen": [
+    "hälfen",
+    "helpfen",
+    "helffen",
+    "helften",
+    "hälfst"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Begrüßung",
+  "wortart": "Nomen",
+  "silben": "Be-grü-ßung",
+  "begriffserklaerung": "Eine Begrüßung ist das, was du sagst oder tust, wenn du jemanden triffst – zum Beispiel „Hallo!\" oder ein freundliches Winken.",
+  "beispielsatz": "Die Lehrerin freute sich über die herzliche Begrüßung der Kinder.",
+  "rechtschreibstrategie": "Denk an das Verb „begrüßen\" – davon kommt das Wort. Das ü bleibt lang, und das ß zeigt den langen Vokal davor an.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ß",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "grüß",
+    "Gruß"
+  ],
+  "bild_datei": "Begrüßung.webp",
+  "audio_datei": "Begrüßung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Begrüßung",
+    "plural": "die Begrüßungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Begrüßung",
+        "genitiv": "der Begrüßung",
+        "dativ": "der Begrüßung",
+        "akkusativ": "die Begrüßung"
+      },
+      "plural": {
+        "nominativ": "die Begrüßungen",
+        "genitiv": "der Begrüßungen",
+        "dativ": "den Begrüßungen",
+        "akkusativ": "die Begrüßungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "greeting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salutation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "selamlama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تحية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "begrüßen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gruß"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gruß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abschied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Willkommen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höflichkeit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Begrüssung",
+    "Begrüßssung",
+    "Begrüsung",
+    "Begrißung",
+    "Begrüßung"
+  ]
+}

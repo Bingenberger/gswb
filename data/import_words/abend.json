@@ -1,0 +1,82 @@
+{
+  "lemma": "Abend",
+  "wortart": "Nomen",
+  "silben": "A-bend",
+  "begriffserklaerung": "Der Abend ist der Teil des Tages, wenn es draußen dunkel wird und die Sonne untergeht.",
+  "beispielsatz": "Am Abend lese ich noch ein Buch, bevor ich schlafen gehe.",
+  "rechtschreibstrategie": "Sprich das Wort laut: A-bend. Du hörst zwei Silben. Das „d\" am Ende klingt wie „t\", aber wenn du verlängerst – „des Abends\" –, hörst du das „d\" wieder deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abend",
+    "plural": "die Abende",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abend",
+        "genitiv": "des Abends",
+        "dativ": "dem Abend",
+        "akkusativ": "den Abend"
+      },
+      "plural": {
+        "nominativ": "die Abende",
+        "genitiv": "der Abende",
+        "dativ": "den Abenden",
+        "akkusativ": "die Abende"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Abend"
+  ],
+  "fehlschreibungen": [
+    "Abendt",
+    "Abent",
+    "Abbend",
+    "Aabend",
+    "Abend"
+  ],
+  "bild_datei": "Abend.webp",
+  "audio_datei": "Abend.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "evening"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akşam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abendlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abendbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dämmerung"
+    }
+  ]
+}

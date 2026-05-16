@@ -1,0 +1,90 @@
+{
+  "lemma": "Vogel",
+  "wortart": "Nomen",
+  "silben": "Vo-gel",
+  "begriffserklaerung": "Ein Vogel ist ein Tier mit Federn, Flügeln und einem Schnabel. Die meisten Vögel können fliegen.",
+  "beispielsatz": "Der bunte Vogel sitzt auf dem Ast und singt ein schönes Lied.",
+  "rechtschreibstrategie": "Das Wort „Vogel\" schreibt man mit V am Anfang, nicht mit F – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Vogel"
+  ],
+  "bild_datei": "Vogel.webp",
+  "audio_datei": "Vogel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bird"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oiseau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طائر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vögelchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogelhaus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogelkäfig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feder"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vogel",
+    "plural": "die Vögel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vogel",
+        "genitiv": "des Vogels",
+        "dativ": "dem Vogel",
+        "akkusativ": "den Vogel"
+      },
+      "plural": {
+        "nominativ": "die Vögel",
+        "genitiv": "der Vögel",
+        "dativ": "den Vögeln",
+        "akkusativ": "die Vögel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fogel",
+    "Voegel",
+    "Vogeel",
+    "Vorgel",
+    "Vögel"
+  ]
+}

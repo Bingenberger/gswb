@@ -1,0 +1,84 @@
+{
+  "lemma": "Morgenröte",
+  "wortart": "Nomen",
+  "silben": "Mor-gen-rö-te",
+  "begriffserklaerung": "Die Morgenröte ist das rötliche Leuchten am Himmel, kurz bevor die Sonne aufgeht. Der Himmel färbt sich dabei in leuchtenden Rot-, Orange- und Rosatönen.",
+  "beispielsatz": "Heute Morgen war die Morgenröte besonders schön – der ganze Himmel leuchtete in kräftigem Rot.",
+  "rechtschreibstrategie": "„Morgenröte\" ist ein zusammengesetztes Wort aus „Morgen\" und „Röte\". Schreibe es einfach so, wie du die beiden Teile kennst: Morgen + Röte = Morgenröte.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Morgen",
+    "rot"
+  ],
+  "bild_datei": "Morgenröte.webp",
+  "audio_datei": "Morgenröte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Morgenröte",
+    "plural": "die Morgenröten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Morgenröte",
+        "genitiv": "der Morgenröte",
+        "dativ": "der Morgenröte",
+        "akkusativ": "die Morgenröte"
+      },
+      "plural": {
+        "nominativ": "die Morgenröten",
+        "genitiv": "der Morgenröten",
+        "dativ": "den Morgenröten",
+        "akkusativ": "die Morgenröten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dawn / morning glow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aurore"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şafak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الفجر / الشفق الصباحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonnenaufgang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dämmerung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Morgenleuchten"
+    }
+  ],
+  "fehlschreibungen": [
+    "Morgenrötte",
+    "Morgenroete",
+    "Morgenrähte",
+    "Morgenreute",
+    "Morgenröde",
+    "Morgen-Röte"
+  ]
+}

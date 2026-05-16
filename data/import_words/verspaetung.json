@@ -1,0 +1,89 @@
+{
+  "lemma": "Verspätung",
+  "wortart": "Nomen",
+  "silben": "Ver-spä-tung",
+  "begriffserklaerung": "Eine Verspätung bedeutet, dass jemand oder etwas zu spät ankommt oder zu spät fertig ist – zum Beispiel ein Zug, der nicht pünktlich am Bahnhof ankommt.",
+  "beispielsatz": "Der Bus hatte heute zehn Minuten Verspätung, deshalb kam ich zu spät in die Schule.",
+  "rechtschreibstrategie": "Denk an das Wort „spät\" – das steckt in „Verspätung\" drin! Das ä kommt von „spät\". Sprich das Wort in Silben: Ver-spä-tung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "spät"
+  ],
+  "bild_datei": "Verspätung.webp",
+  "audio_datei": "Verspätung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verspätung",
+    "plural": "die Verspätungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verspätung",
+        "genitiv": "der Verspätung",
+        "dativ": "der Verspätung",
+        "akkusativ": "die Verspätung"
+      },
+      "plural": {
+        "nominativ": "die Verspätungen",
+        "genitiv": "der Verspätungen",
+        "dativ": "den Verspätungen",
+        "akkusativ": "die Verspätungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "delay"
+    },
+    {
+      "language_code": "fr",
+      "translation": "retard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gecikme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تأخير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spät"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verspäten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verzögerung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pünktlichkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrplan"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verspättung",
+    "Verspätung",
+    "Ferspätung",
+    "Verspähtung",
+    "Verspätunk",
+    "Verspetung"
+  ]
+}

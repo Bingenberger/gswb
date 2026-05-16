@@ -1,0 +1,84 @@
+{
+  "lemma": "Zentrum",
+  "wortart": "Nomen",
+  "silben": "Zen-trum",
+  "begriffserklaerung": "Das Zentrum ist die Mitte von etwas, zum Beispiel die Mitte einer Stadt oder eines Kreises.",
+  "beispielsatz": "Das Kaufhaus steht mitten im Zentrum der Stadt.",
+  "rechtschreibstrategie": "Denk an das Z am Anfang – es klingt wie „Ts\". Sprich das Wort langsam: Zen-trum. Das „Z\" und das „tr\" in der Mitte sind die Knackpunkte!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "zentral",
+    "zentrieren"
+  ],
+  "bild_datei": "Zentrum.webp",
+  "audio_datei": "Zentrum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "center"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merkez"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مركز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zentral"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zentrieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mitte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Marktplatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zentrum",
+    "plural": "die Zentren",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zentrum",
+        "genitiv": "des Zentrums",
+        "dativ": "dem Zentrum",
+        "akkusativ": "das Zentrum"
+      },
+      "plural": {
+        "nominativ": "die Zentren",
+        "genitiv": "der Zentren",
+        "dativ": "den Zentren",
+        "akkusativ": "die Zentren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sentrum",
+    "Zentroom",
+    "Zentrum",
+    "Zentrhum",
+    "Zentum",
+    "Zenttrum"
+  ]
+}

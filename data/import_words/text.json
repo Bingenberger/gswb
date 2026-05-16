@@ -1,0 +1,86 @@
+{
+  "lemma": "Text",
+  "wortart": "Nomen",
+  "silben": "Text",
+  "begriffserklaerung": "Ein Text ist eine Reihe von Wörtern und Sätzen, die zusammen eine Botschaft oder eine Geschichte ergeben. Texte kann man lesen und schreiben.",
+  "beispielsatz": "Die Lehrerin liest uns einen spannenden Text vor.",
+  "rechtschreibstrategie": "Das Wort „Text\" endet auf -xt. Sprich es laut aus: Du hörst am Ende zwei Konsonanten – x und t. Schreibe beide!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "text"
+  ],
+  "bild_datei": "Text.webp",
+  "audio_datei": "Text.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Text",
+    "plural": "die Texte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Text",
+        "genitiv": "des Textes",
+        "dativ": "dem Text",
+        "akkusativ": "den Text"
+      },
+      "plural": {
+        "nominativ": "die Texte",
+        "genitiv": "der Texte",
+        "dativ": "den Texten",
+        "akkusativ": "die Texte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "text"
+    },
+    {
+      "language_code": "fr",
+      "translation": "texte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "metin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نَصّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "texten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Textbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschnitt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Teckt",
+    "Texd",
+    "Tekst",
+    "Teckst",
+    "Dext"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "lemma": "Fasan",
+  "wortart": "Nomen",
+  "silben": "Fa-san",
+  "begriffserklaerung": "Ein Fasan ist ein großer, bunt gefiederter Vogel. Das Männchen hat leuchtende Farben und einen langen Schwanz. Fasane leben auf Feldern und in Wäldern.",
+  "beispielsatz": "Auf unserem Spaziergang haben wir einen Fasan am Waldrand entdeckt.",
+  "rechtschreibstrategie": "Sprich das Wort deutlich in Silben: Fa-san. Achte auf das „a\" in der zweiten Silbe – man schreibt kein „h\" dahinter.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fasan"
+  ],
+  "bild_datei": "Fasan.webp",
+  "audio_datei": "Fasan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pheasant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faisan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sülün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feder"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fasan",
+    "plural": "die Fasane",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fasan",
+        "genitiv": "des Fasans",
+        "dativ": "dem Fasan",
+        "akkusativ": "den Fasan"
+      },
+      "plural": {
+        "nominativ": "die Fasane",
+        "genitiv": "der Fasane",
+        "dativ": "den Fasanen",
+        "akkusativ": "die Fasane"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fasahn",
+    "Phasan",
+    "Fasan",
+    "Fazahn",
+    "Fasann",
+    "Fazann"
+  ]
+}

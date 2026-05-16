@@ -1,0 +1,86 @@
+{
+  "lemma": "Nässe",
+  "wortart": "Nomen",
+  "silben": "Näs-se",
+  "begriffserklaerung": "Nässe bedeutet, dass etwas sehr nass und feucht ist, zum Beispiel der Boden nach dem Regen.",
+  "beispielsatz": "Nach dem Gewitter war die Nässe auf den Straßen noch stundenlang zu spüren.",
+  "rechtschreibstrategie": "Schreibe „Nässe\" mit Doppel-s, weil das ä kurz gesprochen wird – nach einem kurzen Vokal steht immer ein Kürzezeichen wie ss.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "nass"
+  ],
+  "bild_datei": "Nässe.webp",
+  "audio_datei": "Nässe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nässe",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nässe",
+        "genitiv": "der Nässe",
+        "dativ": "der Nässe",
+        "akkusativ": "die Nässe"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wetness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "humidité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ıslaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رطوبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nass"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nässen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuchtigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tau"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nesse",
+    "Näse",
+    "Nähsse",
+    "Naesse",
+    "Nässse"
+  ]
+}

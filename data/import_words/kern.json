@@ -1,0 +1,86 @@
+{
+  "lemma": "Kern",
+  "wortart": "Nomen",
+  "silben": "Kern",
+  "begriffserklaerung": "Der Kern ist der harte, innere Teil einer Frucht, zum Beispiel beim Apfel oder der Kirsche. Er steckt ganz innen und enthält oft einen Samen.",
+  "beispielsatz": "Im Apfel steckt ein kleiner Kern, aus dem ein neuer Baum wachsen kann.",
+  "rechtschreibstrategie": "„Kern\" hat nur eine Silbe. Du hörst das kurze „e\", aber danach kommen zwei Mitlaute (r und n), deshalb bleibt es bei einem „r\" – verlängere zu „Kerne\", dann hörst du die Schreibung deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "kern"
+  ],
+  "bild_datei": "Kern.webp",
+  "audio_datei": "Kern.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "core / seed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "noyau / pépin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekirdek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نواة / بذرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kernen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kerngehäuse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kernig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mittelpunkt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kern",
+    "plural": "die Kerne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kern",
+        "genitiv": "des Kerns",
+        "dativ": "dem Kern",
+        "akkusativ": "den Kern"
+      },
+      "plural": {
+        "nominativ": "die Kerne",
+        "genitiv": "der Kerne",
+        "dativ": "den Kernen",
+        "akkusativ": "die Kerne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kern",
+    "Kärn",
+    "Cern",
+    "Kehrn",
+    "Kärne"
+  ]
+}

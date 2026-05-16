@@ -1,0 +1,91 @@
+{
+  "lemma": "Ergebnis",
+  "wortart": "Nomen",
+  "silben": "Er-geb-nis",
+  "begriffserklaerung": "Ein Ergebnis ist das, was am Ende einer Aufgabe, einer Rechnung oder eines Spiels herauskommt.",
+  "beispielsatz": "Das Ergebnis der Rechenaufgabe ist 12.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Er-geb-nis. Achte auf das „b\" in der Mitte – man hört es beim Sprechen deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "geben"
+  ],
+  "bild_datei": "Ergebnis.webp",
+  "audio_datei": "Ergebnis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "result"
+    },
+    {
+      "language_code": "fr",
+      "translation": "résultat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sonuç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نتيجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ergeben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Resultat"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rechnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lösung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ergebnis",
+    "plural": "die Ergebnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ergebnis",
+        "genitiv": "des Ergebnisses",
+        "dativ": "dem Ergebnis",
+        "akkusativ": "das Ergebnis"
+      },
+      "plural": {
+        "nominativ": "die Ergebnisse",
+        "genitiv": "der Ergebnisse",
+        "dativ": "den Ergebnissen",
+        "akkusativ": "die Ergebnisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ergebnis",
+    "Ergebniss",
+    "Ergebniß",
+    "Ergeebnis",
+    "Ärgäbnis",
+    "Ergebins"
+  ]
+}

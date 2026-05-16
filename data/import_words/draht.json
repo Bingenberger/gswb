@@ -1,0 +1,82 @@
+{
+  "lemma": "Draht",
+  "wortart": "Nomen",
+  "silben": "Draht",
+  "begriffserklaerung": "Ein Draht ist ein langer, dünner Stab aus Metall, der sich gut biegen lässt. Man benutzt ihn zum Beispiel zum Basteln oder um Dinge zu befestigen.",
+  "beispielsatz": "Mama befestigt die Girlande mit einem dünnen Draht an der Wand.",
+  "rechtschreibstrategie": "Das Wort „Draht\" hat ein Dehnungs-h nach dem „a\". Das h spricht man nicht, aber man schreibt es. Merke: Draht – Drähte, da siehst du das h auch im Plural!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Draht"
+  ],
+  "bild_datei": "Draht.webp",
+  "audio_datei": "Draht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wire"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fil métallique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Drahtschere"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drahtig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Litze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Draht",
+    "plural": "die Drähte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Draht",
+        "genitiv": "des Drahtes",
+        "dativ": "dem Draht",
+        "akkusativ": "den Draht"
+      },
+      "plural": {
+        "nominativ": "die Drähte",
+        "genitiv": "der Drähte",
+        "dativ": "den Drähten",
+        "akkusativ": "die Drähte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Drat",
+    "Dracht",
+    "Draad",
+    "Drahd",
+    "Dratt"
+  ]
+}

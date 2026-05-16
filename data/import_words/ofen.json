@@ -1,0 +1,82 @@
+{
+  "lemma": "Ofen",
+  "wortart": "Nomen",
+  "silben": "O-fen",
+  "begriffserklaerung": "Ein Ofen ist ein Gerät, das Wärme erzeugt. Man kann damit ein Zimmer heizen oder Essen backen und kochen.",
+  "beispielsatz": "Im Winter ist es schön warm am Ofen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: O-fen. Das lange „O\" am Anfang schreibst du einfach mit einem großen „O\". Danach folgt „fen\" – kein Doppel-f!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "ofen"
+  ],
+  "bild_datei": "Ofen.webp",
+  "audio_datei": "Ofen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oven / stove"
+    },
+    {
+      "language_code": "fr",
+      "translation": "four / poêle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fırın / soba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Backofen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kachelofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heizkörper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herd"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ofen",
+    "plural": "die Öfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ofen",
+        "genitiv": "des Ofens",
+        "dativ": "dem Ofen",
+        "akkusativ": "den Ofen"
+      },
+      "plural": {
+        "nominativ": "die Öfen",
+        "genitiv": "der Öfen",
+        "dativ": "den Öfen",
+        "akkusativ": "die Öfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ofenn",
+    "Offen",
+    "Ofan",
+    "ofen",
+    "Ohfen"
+  ]
+}

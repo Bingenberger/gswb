@@ -1,0 +1,81 @@
+{
+  "lemma": "Nase",
+  "wortart": "Nomen",
+  "silben": "Na-se",
+  "begriffserklaerung": "Die Nase ist ein Teil deines Gesichts. Mit ihr kannst du riechen und atmen.",
+  "beispielsatz": "Im Winter wird meine Nase ganz rot vor Kälte.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Na – se. Nach dem langen „a\" schreibst du nur ein „s\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nase",
+    "plural": "die Nasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nase",
+        "genitiv": "der Nase",
+        "dativ": "der Nase",
+        "akkusativ": "die Nase"
+      },
+      "plural": {
+        "nominativ": "die Nasen",
+        "genitiv": "der Nasen",
+        "dativ": "den Nasen",
+        "akkusativ": "die Nasen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Nas-"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nasenloch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "naserümpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auge"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nahse",
+    "Nasse",
+    "Naße",
+    "Naze"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nez"
+    },
+    {
+      "language_code": "tr",
+      "translation": "burun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنف"
+    }
+  ],
+  "bild_datei": "Nase.webp",
+  "audio_datei": "Nase.mp3"
+}

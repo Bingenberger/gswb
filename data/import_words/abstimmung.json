@@ -1,0 +1,89 @@
+{
+  "lemma": "Abstimmung",
+  "wortart": "Nomen",
+  "silben": "Ab-stim-mung",
+  "begriffserklaerung": "Bei einer Abstimmung entscheiden mehrere Menschen gemeinsam über etwas, indem jeder seine Meinung durch Aufzeigen, Ankreuzen oder Nicken zeigt.",
+  "beispielsatz": "In der Klasse gab es eine Abstimmung, welches Spiel wir in der Pause spielen wollen.",
+  "rechtschreibstrategie": "Das Wort „Abstimmung\" besteht aus den Bausteinen „ab\" + „Stimm\" + „ung\". Denk an das Wort „Stimme\" – dort hörst du das doppelte „m\" deutlich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stimm",
+    "Stimme"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Abstimmung",
+    "plural": "die Abstimmungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Abstimmung",
+        "genitiv": "der Abstimmung",
+        "dativ": "der Abstimmung",
+        "akkusativ": "die Abstimmung"
+      },
+      "plural": {
+        "nominativ": "die Abstimmungen",
+        "genitiv": "der Abstimmungen",
+        "dativ": "den Abstimmungen",
+        "akkusativ": "die Abstimmungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Apstimmung",
+    "Abstimung",
+    "Abstimmunk",
+    "Abstimmund",
+    "Abshtimmung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vote / voting"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vote"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oylama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تصويت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstimmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenrat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Demokratie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entscheidung"
+    }
+  ],
+  "bild_datei": "Abstimmung.webp",
+  "audio_datei": "Abstimmung.mp3"
+}

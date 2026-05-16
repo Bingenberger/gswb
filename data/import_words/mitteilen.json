@@ -1,0 +1,100 @@
+{
+  "lemma": "mitteilen",
+  "wortart": "Verb",
+  "silben": "mit-tei-len",
+  "begriffserklaerung": "Wenn du jemandem etwas mitteilst, sagst oder schreibst du ihm etwas, damit er es weiß.",
+  "beispielsatz": "Die Lehrerin teilt der Klasse mit, dass morgen kein Unterricht ist.",
+  "rechtschreibstrategie": "„mitteilen\" ist ein Bausteinwort aus „mit\" und „teilen\". In der Mitte steckt ein Doppel-t – sprich das Wort langsam: mit-tei-len!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "teilen",
+    "Teil"
+  ],
+  "bild_datei": "mitteilen.webp",
+  "audio_datei": "mitteilen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to inform, to communicate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "informer, communiquer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bildirmek, haber vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُخبر، يُبلّغ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mitteilung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "berichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "informieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erklären"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ankündigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erzählen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "mitteilen",
+    "praesens": {
+      "ich": "teile mit",
+      "du": "teilst mit",
+      "er_sie_es": "teilt mit",
+      "wir": "teilen mit",
+      "ihr": "teilt mit",
+      "sie": "teilen mit"
+    },
+    "perfekt": {
+      "ich": "habe mitgeteilt",
+      "du": "hast mitgeteilt",
+      "er_sie_es": "hat mitgeteilt",
+      "wir": "haben mitgeteilt",
+      "ihr": "habt mitgeteilt",
+      "sie": "haben mitgeteilt"
+    },
+    "praeteritum": {
+      "ich": "teilte mit",
+      "du": "teiltest mit",
+      "er_sie_es": "teilte mit",
+      "wir": "teilten mit",
+      "ihr": "teiltet mit",
+      "sie": "teilten mit"
+    }
+  },
+  "fehlschreibungen": [
+    "miteilen",
+    "mittheilen",
+    "mitteilen",
+    "mitdailen",
+    "mittailen"
+  ]
+}

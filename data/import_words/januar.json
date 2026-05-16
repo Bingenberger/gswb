@@ -1,0 +1,72 @@
+{
+  "lemma": "Januar",
+  "wortart": "Nomen",
+  "silben": "Ja-nu-ar",
+  "begriffserklaerung": "Der Januar ist der erste Monat des Jahres. Er hat 31 Tage und gehört zum Winter.",
+  "beispielsatz": "Im Januar liegt oft Schnee, und wir fahren Schlitten.",
+  "rechtschreibstrategie": "Sprich alle drei Silben deutlich: Ja-nu-ar. Am Ende hörst du ein langes „a\" – das schreibst du einfach als „ar\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Januar",
+    "plural": "die Januare",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Januar",
+        "genitiv": "des Januars",
+        "dativ": "dem Januar",
+        "akkusativ": "den Januar"
+      },
+      "plural": {
+        "nominativ": "die Januare",
+        "genitiv": "der Januare",
+        "dativ": "den Januaren",
+        "akkusativ": "die Januare"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Februar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Monat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jenuar",
+    "Januaar",
+    "Jannar",
+    "Jannuar",
+    "Yanuar"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "January"
+    },
+    {
+      "language_code": "fr",
+      "translation": "janvier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Ocak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يناير"
+    }
+  ],
+  "bild_datei": "Januar.webp",
+  "audio_datei": "Januar.mp3"
+}

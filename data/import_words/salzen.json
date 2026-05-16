@@ -1,0 +1,90 @@
+{
+  "lemma": "salzen",
+  "wortart": "Verb",
+  "silben": "sal-zen",
+  "begriffserklaerung": "Salz zu etwas hinzugeben, zum Beispiel beim Kochen.",
+  "beispielsatz": "Mama salzt die Suppe, damit sie besser schmeckt.",
+  "rechtschreibstrategie": "Denke an das Nomen „Salz\" – das steckt im Wort „sal-zen\" drin!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Salz"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "salzen",
+    "praesens": {
+      "ich": "salze",
+      "du": "salzt",
+      "er_sie_es": "salzt",
+      "wir": "salzen",
+      "ihr": "salzt",
+      "sie": "salzen"
+    },
+    "perfekt": {
+      "ich": "habe gesalzen",
+      "du": "hast gesalzen",
+      "er_sie_es": "hat gesalzen",
+      "wir": "haben gesalzen",
+      "ihr": "habt gesalzen",
+      "sie": "haben gesalzen"
+    },
+    "praeteritum": {
+      "ich": "salzte",
+      "du": "salztest",
+      "er_sie_es": "salzte",
+      "wir": "salzten",
+      "ihr": "salztet",
+      "sie": "salzten"
+    }
+  },
+  "fehlschreibungen": [
+    "salcen",
+    "salzzen",
+    "sallzen",
+    "salssen",
+    "salzten"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "salzig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "würzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "würzen"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to salt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuzlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُملِّح"
+    }
+  ],
+  "bild_datei": "salzen.webp",
+  "audio_datei": "salzen.mp3"
+}

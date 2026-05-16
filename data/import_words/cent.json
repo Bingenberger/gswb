@@ -1,0 +1,72 @@
+{
+  "lemma": "Cent",
+  "wortart": "Nomen",
+  "silben": "Cent",
+  "begriffserklaerung": "Ein Cent ist eine sehr kleine Geldmünze. 100 Cent ergeben zusammen einen Euro.",
+  "beispielsatz": "Ich habe noch fünf Cent in meiner Spardose gefunden.",
+  "rechtschreibstrategie": "Das Wort „Cent\" kommt aus dem Englischen und wird genauso geschrieben: C-e-n-t. Merke dir: Es beginnt mit C, nicht mit Z oder S!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Cent.webp",
+  "audio_datei": "Cent.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centime"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sent"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سنت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Euro"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Cent",
+    "plural": "die Cent",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Cent",
+        "genitiv": "des Cents",
+        "dativ": "dem Cent",
+        "akkusativ": "den Cent"
+      },
+      "plural": {
+        "nominativ": "die Cent",
+        "genitiv": "der Cent",
+        "dativ": "den Cent",
+        "akkusativ": "die Cent"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zent",
+    "Sent",
+    "Tsent",
+    "Cend",
+    "Kent"
+  ]
+}

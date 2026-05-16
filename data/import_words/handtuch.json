@@ -1,0 +1,83 @@
+{
+  "lemma": "Handtuch",
+  "wortart": "Nomen",
+  "silben": "Hand-tuch",
+  "begriffserklaerung": "Ein Handtuch ist ein weiches Tuch, mit dem man sich nach dem Waschen die Hände oder den Körper abtrocknet.",
+  "beispielsatz": "Nach dem Händewaschen trockne ich mir die Hände mit dem Handtuch ab.",
+  "rechtschreibstrategie": "Das Wort „Handtuch\" besteht aus zwei Bausteinen: „Hand\" und „Tuch\". Sprich beide Teile laut: HAND – TUCH. So vergisst du kein d und kein t!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Tuch"
+  ],
+  "bild_datei": "Handtuch.webp",
+  "audio_datei": "Handtuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "towel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serviette"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havlu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منشفة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badetuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschlappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Handtuch",
+    "plural": "die Handtücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Handtuch",
+        "genitiv": "des Handtuchs",
+        "dativ": "dem Handtuch",
+        "akkusativ": "das Handtuch"
+      },
+      "plural": {
+        "nominativ": "die Handtücher",
+        "genitiv": "der Handtücher",
+        "dativ": "den Handtüchern",
+        "akkusativ": "die Handtücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hantuch",
+    "Handtug",
+    "Handtuchs",
+    "Handt-uch",
+    "Handtusch"
+  ]
+}

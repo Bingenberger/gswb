@@ -1,0 +1,83 @@
+{
+  "lemma": "Kirsche",
+  "wortart": "Nomen",
+  "silben": "Kir-sche",
+  "begriffserklaerung": "Eine Kirsche ist eine kleine, runde Frucht, die meist rot oder dunkelrot ist. Sie wächst an Bäumen und schmeckt süß oder sauer.",
+  "beispielsatz": "Lena pflückt eine rote Kirsche vom Baum und isst sie auf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kir-sche. Nach dem kurzen „i\" hörst du „rsch\" – schreibe kein doppeltes r, aber merke dir das „sch\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kirsch"
+  ],
+  "bild_datei": "Kirsche.webp",
+  "audio_datei": "Kirsche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cherry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cerise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kiraz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kirschbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kirschsaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaume"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apfel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kirsche",
+    "plural": "die Kirschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kirsche",
+        "genitiv": "der Kirsche",
+        "dativ": "der Kirsche",
+        "akkusativ": "die Kirsche"
+      },
+      "plural": {
+        "nominativ": "die Kirschen",
+        "genitiv": "der Kirschen",
+        "dativ": "den Kirschen",
+        "akkusativ": "die Kirschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kische",
+    "Kirche",
+    "Kirrsche",
+    "Kürsche",
+    "Kirshe",
+    "Kirssche"
+  ]
+}

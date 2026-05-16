@@ -1,0 +1,78 @@
+{
+  "lemma": "Planet",
+  "wortart": "Nomen",
+  "silben": "Pla-net",
+  "begriffserklaerung": "Ein Planet ist ein sehr großer, runder Himmelskörper, der um eine Sonne kreist. In unserem Sonnensystem gibt es acht Planeten, zum Beispiel die Erde oder den Mars.",
+  "beispielsatz": "Die Erde ist der Planet, auf dem wir leben.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Pla-net. Am Ende hörst du ein weiches „t\" – schreib es einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Planet"
+  ],
+  "bild_datei": "Planet.webp",
+  "audio_datei": "Planet.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "planet"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planète"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gezegen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوكب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Planetensystem"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mond"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Planet",
+    "plural": "die Planeten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Planet",
+        "genitiv": "des Planeten",
+        "dativ": "dem Planeten",
+        "akkusativ": "den Planeten"
+      },
+      "plural": {
+        "nominativ": "die Planeten",
+        "genitiv": "der Planeten",
+        "dativ": "den Planeten",
+        "akkusativ": "die Planeten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Blanet",
+    "Planat",
+    "Plannet",
+    "Planed",
+    "Planeth"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Gießkanne",
+  "wortart": "Nomen",
+  "silben": "Gieß-kan-ne",
+  "begriffserklaerung": "Eine Gießkanne ist ein Behälter mit einem langen Ausguss und einem Griff. Man füllt sie mit Wasser und gießt damit Pflanzen und Blumen.",
+  "beispielsatz": "Lena füllt die Gießkanne mit Wasser und gießt damit die Blumen auf dem Balkon.",
+  "rechtschreibstrategie": "Das Wort „Gießkanne\" besteht aus zwei Teilen: „gieß\" (von gießen) und „Kanne\". Das „ie\" in „gieß\" spricht man lang, und das „ß\" zeigt den langen Vokal. Das „nn\" in „Kanne\" kommt vom kurzen „a\" – das hörst du, wenn du „Kan-ne\" in Silben sprichst.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Merkwort mit ß",
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "gieß",
+    "Kanne"
+  ],
+  "bild_datei": "Gießkanne.webp",
+  "audio_datei": "Gießkanne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gießkanne",
+    "plural": "die Gießkannen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gießkanne",
+        "genitiv": "der Gießkanne",
+        "dativ": "der Gießkanne",
+        "akkusativ": "die Gießkanne"
+      },
+      "plural": {
+        "nominativ": "die Gießkannen",
+        "genitiv": "der Gießkannen",
+        "dativ": "den Gießkannen",
+        "akkusativ": "die Gießkannen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "watering can"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arrosoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sulama kabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رشاشة الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gießen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blumentopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlauch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Giesskanne",
+    "Gißkanne",
+    "Giesskane",
+    "Gießkane",
+    "Giesskanna",
+    "Gießkanna"
+  ]
+}

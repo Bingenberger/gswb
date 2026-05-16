@@ -1,0 +1,96 @@
+{
+  "lemma": "Anlage",
+  "wortart": "Nomen",
+  "silben": "An-la-ge",
+  "begriffserklaerung": "Eine Anlage ist ein Ort oder ein Bereich, der für einen bestimmten Zweck gebaut oder eingerichtet wurde, zum Beispiel ein Park, ein Spielplatz oder eine Fabrik.",
+  "beispielsatz": "Die Kinder spielen nachmittags auf der schönen Anlage im Park.",
+  "rechtschreibstrategie": "Das Wort „Anlage\" besteht aus den Bausteinen „an\" und „Lage\". Denk beim Schreiben an das Wort „legen\" – daher schreibt man es mit einem einfachen „g\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "legen",
+    "Lage"
+  ],
+  "bild_datei": "Anlage.webp",
+  "audio_datei": "Anlage.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anlage",
+    "plural": "die Anlagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anlage",
+        "genitiv": "der Anlage",
+        "dativ": "der Anlage",
+        "akkusativ": "die Anlage"
+      },
+      "plural": {
+        "nominativ": "die Anlagen",
+        "genitiv": "der Anlagen",
+        "dativ": "den Anlagen",
+        "akkusativ": "die Anlagen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "facility / park"
+    },
+    {
+      "language_code": "fr",
+      "translation": "installation / parc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tesis / park"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منشأة / حديقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "legen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lage"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anlegen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Park"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einrichtung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gelände"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anlahge",
+    "Anlagge",
+    "Anlaje",
+    "Anlaage",
+    "Anlake"
+  ]
+}

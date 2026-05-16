@@ -1,0 +1,90 @@
+{
+  "lemma": "Geld",
+  "wortart": "Nomen",
+  "silben": "Geld",
+  "begriffserklaerung": "Geld sind Münzen und Scheine, die man benutzt, um Dinge zu kaufen oder zu bezahlen.",
+  "beispielsatz": "Tim spart sein Geld im Sparschwein, um sich ein neues Buch zu kaufen.",
+  "rechtschreibstrategie": "Das Wort „Geld\" endet auf -ld. Wenn du es verlängerst, hörst du das d deutlich: Gel-der. Schreibe deshalb am Ende ein d.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Geld"
+  ],
+  "bild_datei": "Geld.webp",
+  "audio_datei": "Geld.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "money"
+    },
+    {
+      "language_code": "fr",
+      "translation": "argent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "para"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geldbeutel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geldschein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geldlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Münze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kohle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geld",
+    "plural": "die Gelder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geld",
+        "genitiv": "des Geldes",
+        "dativ": "dem Geld",
+        "akkusativ": "das Geld"
+      },
+      "plural": {
+        "nominativ": "die Gelder",
+        "genitiv": "der Gelder",
+        "dativ": "den Geldern",
+        "akkusativ": "die Gelder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gelt",
+    "Gäld",
+    "Gellt",
+    "Geldt",
+    "Geld"
+  ]
+}

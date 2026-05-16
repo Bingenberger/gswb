@@ -1,0 +1,85 @@
+{
+  "lemma": "Wahrnehmung",
+  "wortart": "Nomen",
+  "silben": "Wahr-neh-mung",
+  "begriffserklaerung": "Die Wahrnehmung ist das, was du mit deinen Sinnen erlebst – also alles, was du siehst, hörst, riechst, schmeckst oder fühlst.",
+  "beispielsatz": "Durch unsere Wahrnehmung können wir die Welt um uns herum erleben.",
+  "rechtschreibstrategie": "Das Wort setzt sich aus „wahr\" und „nehmen\" zusammen. Denke an „wahr\" (Wahrheit) und „nehmen\" – zusammen ergibt das „wahrnehmen\". Das Dehnungs-h in „wahr\" und das h in „neh-men\" helfen dir beim Schreiben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "wahr",
+    "nehm"
+  ],
+  "bild_datei": "Wahrnehmung.webp",
+  "audio_datei": "Wahrnehmung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wahrnehmung",
+    "plural": "die Wahrnehmungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wahrnehmung",
+        "genitiv": "der Wahrnehmung",
+        "dativ": "der Wahrnehmung",
+        "akkusativ": "die Wahrnehmung"
+      },
+      "plural": {
+        "nominativ": "die Wahrnehmungen",
+        "genitiv": "der Wahrnehmungen",
+        "dativ": "den Wahrnehmungen",
+        "akkusativ": "die Wahrnehmungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "perception"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perception"
+    },
+    {
+      "language_code": "tr",
+      "translation": "algı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إدراك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahrnehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wahrnehmbar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sinne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eindruck"
+    }
+  ],
+  "fehlschreibungen": [
+    "Warnehmung",
+    "Wahrnemung",
+    "Wahrnemmung",
+    "Warnemmung",
+    "Wahrnehmuing"
+  ]
+}

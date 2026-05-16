@@ -1,0 +1,87 @@
+{
+  "lemma": "Liste",
+  "wortart": "Nomen",
+  "silben": "Lis-te",
+  "begriffserklaerung": "Eine Liste ist eine Aufschreibung von mehreren Dingen oder Namen untereinander.",
+  "beispielsatz": "Mama schreibt eine Liste mit allem, was wir im Supermarkt kaufen müssen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Lis-te. Du hörst ein kurzes „i\", danach folgt ein „s\" und dann „te\". Merke: Nach dem kurzen „i\" kommt kein Doppelkonsonant – einfach „Liste\" schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "list"
+  ],
+  "bild_datei": "Liste.webp",
+  "audio_datei": "Liste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "list"
+    },
+    {
+      "language_code": "fr",
+      "translation": "liste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "liste"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قائمة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "auflisten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auflistung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufzählung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tabelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zettel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Liste",
+    "plural": "die Listen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Liste",
+        "genitiv": "der Liste",
+        "dativ": "der Liste",
+        "akkusativ": "die Liste"
+      },
+      "plural": {
+        "nominativ": "die Listen",
+        "genitiv": "der Listen",
+        "dativ": "den Listen",
+        "akkusativ": "die Listen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lsite",
+    "Litse",
+    "Lißte",
+    "Lieste",
+    "Liss-te",
+    "liste"
+  ]
+}

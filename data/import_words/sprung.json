@@ -1,0 +1,96 @@
+{
+  "lemma": "Sprung",
+  "wortart": "Nomen",
+  "silben": "Sprung",
+  "begriffserklaerung": "Ein Sprung ist eine Bewegung, bei der man sich mit den Beinen abstößt und kurz durch die Luft fliegt.",
+  "beispielsatz": "Der Frosch macht einen großen Sprung ins Wasser.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: Sprung. Am Ende hörst du ein „ng\" – das schreibst du einfach so, wie du es hörst. Verlängere das Wort zu „Sprünge\" – dann hörst du das „ü\" deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "spring",
+    "sprung"
+  ],
+  "bild_datei": "Sprung.webp",
+  "audio_datei": "Sprung.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sprung",
+    "plural": "die Sprünge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sprung",
+        "genitiv": "des Sprunges",
+        "dativ": "dem Sprung",
+        "akkusativ": "den Sprung"
+      },
+      "plural": {
+        "nominativ": "die Sprünge",
+        "genitiv": "der Sprünge",
+        "dativ": "den Sprüngen",
+        "akkusativ": "die Sprünge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "jump"
+    },
+    {
+      "language_code": "fr",
+      "translation": "saut"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zıplama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "springen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Springer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abspringen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hüpfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weitsprung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hochsprung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salto"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sprunk",
+    "Sbrung",
+    "Sprunng",
+    "Sprugn",
+    "Shprung"
+  ]
+}

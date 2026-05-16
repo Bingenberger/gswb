@@ -1,0 +1,90 @@
+{
+  "lemma": "Team",
+  "wortart": "Nomen",
+  "silben": "Team",
+  "begriffserklaerung": "Ein Team ist eine Gruppe von Menschen, die gemeinsam an etwas arbeiten oder spielen.",
+  "beispielsatz": "Unser Team hat das Fußballspiel gewonnen!",
+  "rechtschreibstrategie": "„Team\" kommt aus dem Englischen. Denk daran: Es wird genau so geschrieben, wie du es kennst – T-e-a-m. Das „ea\" spricht man wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Team"
+  ],
+  "bild_datei": "Team.webp",
+  "audio_datei": "Team.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "team"
+    },
+    {
+      "language_code": "fr",
+      "translation": "équipe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "takım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teamarbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teamgeist"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zusammenarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Projekt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Team",
+    "plural": "die Teams",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Team",
+        "genitiv": "des Teams",
+        "dativ": "dem Team",
+        "akkusativ": "das Team"
+      },
+      "plural": {
+        "nominativ": "die Teams",
+        "genitiv": "der Teams",
+        "dativ": "den Teams",
+        "akkusativ": "die Teams"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Teem",
+    "Tiem",
+    "Tähm",
+    "Tem",
+    "Teahm"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "lemma": "liegen",
+  "wortart": "Verb",
+  "silben": "lie-gen",
+  "begriffserklaerung": "Wenn jemand liegt, ist sein Körper waagerecht auf einer Fläche, zum Beispiel im Bett oder auf dem Boden.",
+  "beispielsatz": "Die Katze liegt gemütlich auf dem Sofa und schläft.",
+  "rechtschreibstrategie": "In „liegen\" hörst du ein langes „i\" – das schreibt man hier mit „ie\". Denk daran: lie-gen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "lieg"
+  ],
+  "bild_datei": "liegen.webp",
+  "audio_datei": "liegen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to lie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "être allongé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yatmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَرقُد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lieg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lage"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ruhen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schlafen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "liegen",
+    "praesens": {
+      "ich": "liege",
+      "du": "liegst",
+      "er_sie_es": "liegt",
+      "wir": "liegen",
+      "ihr": "liegt",
+      "sie": "liegen"
+    },
+    "perfekt": {
+      "ich": "habe gelegen",
+      "du": "hast gelegen",
+      "er_sie_es": "hat gelegen",
+      "wir": "haben gelegen",
+      "ihr": "habt gelegen",
+      "sie": "haben gelegen"
+    },
+    "praeteritum": {
+      "ich": "lag",
+      "du": "lagst",
+      "er_sie_es": "lag",
+      "wir": "lagen",
+      "ihr": "lagt",
+      "sie": "lagen"
+    }
+  },
+  "fehlschreibungen": [
+    "ligen",
+    "liegen",
+    "lieggen",
+    "lihen",
+    "liggen"
+  ]
+}

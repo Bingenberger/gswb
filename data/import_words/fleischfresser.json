@@ -1,0 +1,89 @@
+{
+  "lemma": "Fleischfresser",
+  "wortart": "Nomen",
+  "silben": "Fleisch-fres-ser",
+  "begriffserklaerung": "Ein Fleischfresser ist ein Tier (oder manchmal ein Mensch), das hauptsächlich Fleisch frisst. Löwen, Wölfe und Krokodile sind zum Beispiel Fleischfresser.",
+  "beispielsatz": "Der Löwe ist ein Fleischfresser, denn er jagt andere Tiere und frisst ihr Fleisch.",
+  "rechtschreibstrategie": "„Fleischfresser\" ist ein zusammengesetztes Wort aus „Fleisch\" und „Fresser\". Sprich beide Teile laut: FLEISCH + FRESSER. Das „ei\" in „Fleisch\" klingt wie in „Eis\". Das doppelte „ss\" in „Fresser\" kommt nach dem kurzen „e\" – kurzer Vokal, doppelter Mitlaut!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Fleisch",
+    "fressen"
+  ],
+  "bild_datei": "Fleischfresser.webp",
+  "audio_datei": "Fleischfresser.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fleischfresser",
+    "plural": "die Fleischfresser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fleischfresser",
+        "genitiv": "des Fleischfressers",
+        "dativ": "dem Fleischfresser",
+        "akkusativ": "den Fleischfresser"
+      },
+      "plural": {
+        "nominativ": "die Fleischfresser",
+        "genitiv": "der Fleischfresser",
+        "dativ": "den Fleischfressern",
+        "akkusativ": "die Fleischfresser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "carnivore"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carnivore"
+    },
+    {
+      "language_code": "tr",
+      "translation": "etobur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آكل اللحوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fleisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fressen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raubtier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanzenfresser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Allesfresser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Raubtier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fleischfressor",
+    "Fleischfreser",
+    "Fleischfrässer",
+    "Fleishfresser",
+    "Fleischfresßer",
+    "Fleischpresser"
+  ]
+}

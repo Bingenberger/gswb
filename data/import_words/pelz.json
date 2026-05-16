@@ -1,0 +1,81 @@
+{
+  "lemma": "Pelz",
+  "wortart": "Nomen",
+  "silben": "Pelz",
+  "begriffserklaerung": "Ein Pelz ist das dichte, weiche Fell eines Tieres. Manche Tiere haben einen besonders dicken Pelz, der sie im Winter warm hält.",
+  "beispielsatz": "Der Fuchs hat einen roten, weichen Pelz.",
+  "rechtschreibstrategie": "„Pelz\" hat nur eine Silbe. Sprich das Wort laut: Du hörst am Ende ein „z\" – so schreibst du es auch!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pelz"
+  ],
+  "bild_datei": "Pelz.webp",
+  "audio_datei": "Pelz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fur"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fourrure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kürk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "pelzig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pelzmantel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fell"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pelz",
+    "plural": "die Pelze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pelz",
+        "genitiv": "des Pelzes",
+        "dativ": "dem Pelz",
+        "akkusativ": "den Pelz"
+      },
+      "plural": {
+        "nominativ": "die Pelze",
+        "genitiv": "der Pelze",
+        "dativ": "den Pelzen",
+        "akkusativ": "die Pelze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Peltz",
+    "Pälz",
+    "Pells",
+    "Pelts"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "sägen",
+  "wortart": "Verb",
+  "silben": "sä-gen",
+  "begriffserklaerung": "Sägen bedeutet, etwas mit einer Säge in Stücke zu schneiden. Dabei bewegt man die Säge hin und her.",
+  "beispielsatz": "Papa sägt das dicke Holzbrett in zwei gleich große Teile.",
+  "rechtschreibstrategie": "Denk an das Nomen „die Säge\" – davon kommt „sägen\". Das ä schreibst du, weil du es von „Säge\" ableitest.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "säg"
+  ],
+  "bild_datei": "sägen.webp",
+  "audio_datei": "sägen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sägen",
+    "praesens": {
+      "ich": "säge",
+      "du": "sägst",
+      "er_sie_es": "sägt",
+      "wir": "sägen",
+      "ihr": "sägt",
+      "sie": "sägen"
+    },
+    "perfekt": {
+      "ich": "habe gesägt",
+      "du": "hast gesägt",
+      "er_sie_es": "hat gesägt",
+      "wir": "haben gesägt",
+      "ihr": "habt gesägt",
+      "sie": "haben gesägt"
+    },
+    "praeteritum": {
+      "ich": "sägte",
+      "du": "sägtest",
+      "er_sie_es": "sägte",
+      "wir": "sägten",
+      "ihr": "sägtet",
+      "sie": "sägten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to saw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "testere ile kesmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينشر بالمنشار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Säger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "absägen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zimmern"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "durchschneiden"
+    }
+  ],
+  "fehlschreibungen": [
+    "saegen",
+    "segen",
+    "sägen",
+    "seägen",
+    "säggen",
+    "säägen"
+  ]
+}

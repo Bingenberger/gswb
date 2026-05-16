@@ -1,0 +1,73 @@
+{
+  "lemma": "Café",
+  "wortart": "Nomen",
+  "silben": "Ca-fé",
+  "begriffserklaerung": "Ein Café ist ein gemütliches Lokal, in dem man Kaffee, Tee, Kuchen und kleine Speisen kaufen und genießen kann.",
+  "beispielsatz": "Am Samstag geht unsere Familie ins Café und isst dort leckeren Kuchen.",
+  "rechtschreibstrategie": "Das Wort „Café\" kommt aus dem Französischen. Es endet mit einem betonten é – achte auf den Akzent über dem e! Schreibe: C-a-f-é.",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Café.webp",
+  "audio_datei": "Café.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "café"
+    },
+    {
+      "language_code": "fr",
+      "translation": "café"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kafe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقهى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaffee"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Café",
+    "plural": "die Cafés",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Café",
+        "genitiv": "des Cafés",
+        "dativ": "dem Café",
+        "akkusativ": "das Café"
+      },
+      "plural": {
+        "nominativ": "die Cafés",
+        "genitiv": "der Cafés",
+        "dativ": "den Cafés",
+        "akkusativ": "die Cafés"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kaffee",
+    "Cafe",
+    "Caffé",
+    "Kafee",
+    "Kafée",
+    "Caffe"
+  ]
+}

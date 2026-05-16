@@ -1,0 +1,82 @@
+{
+  "lemma": "Gummi",
+  "wortart": "Nomen",
+  "silben": "Gum-mi",
+  "begriffserklaerung": "Gummi ist ein weicher, dehnbarer Stoff. Er wird zum Beispiel für Radiergummis, Luftballons und Reifen verwendet.",
+  "beispielsatz": "Ich radiere meinen Fehler mit dem Gummi aus.",
+  "rechtschreibstrategie": "Schreibe am Ende „mm\" und „i\" – Gum-mi! Sprich beide Silben deutlich: Gum – mi.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Gummi"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gummi",
+    "plural": "die Gummis",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gummi",
+        "genitiv": "des Gummis",
+        "dativ": "dem Gummi",
+        "akkusativ": "den Gummi"
+      },
+      "plural": {
+        "nominativ": "die Gummis",
+        "genitiv": "der Gummis",
+        "dativ": "den Gummis",
+        "akkusativ": "die Gummis"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gumi",
+    "Gummy",
+    "Gumie",
+    "Gumme",
+    "Gummie"
+  ],
+  "bild_datei": "Gummi.webp",
+  "audio_datei": "Gummi.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rubber / eraser"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gomme / caoutchouc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lastik / silgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطاط / ممحاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gummiband"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radiergummi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radiergummi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Luftballon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reifen"
+    }
+  ]
+}

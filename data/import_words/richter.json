@@ -1,0 +1,82 @@
+{
+  "lemma": "Richter",
+  "wortart": "Nomen",
+  "silben": "Rich-ter",
+  "begriffserklaerung": "Ein Richter ist ein Mensch, der bei Gericht arbeitet und entscheidet, wer recht hat und was fair ist.",
+  "beispielsatz": "Der Richter hört sich alle an und entscheidet dann, was gerecht ist.",
+  "rechtschreibstrategie": "Höre genau hin: Das „i\" in „Rich-ter\" ist kurz, daher folgt das „ch\" direkt. Sprich die Silben laut: Rich – ter.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "richt"
+  ],
+  "bild_datei": "Richter.webp",
+  "audio_datei": "Richter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "judge"
+    },
+    {
+      "language_code": "fr",
+      "translation": "juge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hâkim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قاضٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gericht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anwalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gericht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schiedsrichter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Richter",
+    "plural": "die Richter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Richter",
+        "genitiv": "des Richters",
+        "dativ": "dem Richter",
+        "akkusativ": "den Richter"
+      },
+      "plural": {
+        "nominativ": "die Richter",
+        "genitiv": "der Richter",
+        "dativ": "den Richtern",
+        "akkusativ": "die Richter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Richder",
+    "Richta",
+    "Richtet",
+    "Rischter",
+    "Richther"
+  ]
+}

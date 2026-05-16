@@ -1,0 +1,86 @@
+{
+  "lemma": "Meister",
+  "wortart": "Nomen",
+  "silben": "Meis-ter",
+  "begriffserklaerung": "Ein Meister ist jemand, der etwas besonders gut kann oder in einem Handwerk die höchste Stufe erreicht hat.",
+  "beispielsatz": "Der Meister zeigt seinem Lehrling, wie man Holz richtig bearbeitet.",
+  "rechtschreibstrategie": "Schreibe „ei\" wie in „Eis\" – du hörst beide Buchstaben: e und i. Denke außerdem an das stumme „e\" am Ende: Meis-ter.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "meister"
+  ],
+  "bild_datei": "Meister.webp",
+  "audio_datei": "Meister.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "master"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maître"
+    },
+    {
+      "language_code": "tr",
+      "translation": "usta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أستاذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "meistern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Meisterin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "meisterhaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrling"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Experte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Meister",
+    "plural": "Meister",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Meister",
+        "genitiv": "des Meisters",
+        "dativ": "dem Meister",
+        "akkusativ": "den Meister"
+      },
+      "plural": {
+        "nominativ": "die Meister",
+        "genitiv": "der Meister",
+        "dativ": "den Meistern",
+        "akkusativ": "die Meister"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Meißter",
+    "Maister",
+    "Meister",
+    "Meisster",
+    "Meisder"
+  ]
+}

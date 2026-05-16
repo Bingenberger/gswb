@@ -1,0 +1,72 @@
+{
+  "lemma": "Tunnel",
+  "wortart": "Nomen",
+  "silben": "Tun-nel",
+  "begriffserklaerung": "Ein Tunnel ist ein langer Gang unter der Erde, einem Berg oder einem Fluss hindurch. Züge, Autos oder Menschen fahren oder gehen durch einen Tunnel.",
+  "beispielsatz": "Der Zug fährt durch einen langen Tunnel durch den Berg.",
+  "rechtschreibstrategie": "Das Wort „Tunnel\" hat zwei „n\" in der Mitte – daran erkennst du, dass das „u\" kurz gesprochen wird: Tun-nel.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tunnel.webp",
+  "audio_datei": "Tunnel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tunnel",
+    "plural": "die Tunnel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tunnel",
+        "genitiv": "des Tunnels",
+        "dativ": "dem Tunnel",
+        "akkusativ": "den Tunnel"
+      },
+      "plural": {
+        "nominativ": "die Tunnel",
+        "genitiv": "der Tunnel",
+        "dativ": "den Tunneln",
+        "akkusativ": "die Tunnel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tunnel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tunnel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tünel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نفق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahn"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tunel",
+    "Tunell",
+    "Tünel",
+    "Tonnel",
+    "Tunnell"
+  ]
+}

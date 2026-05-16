@@ -1,0 +1,83 @@
+{
+  "lemma": "Bücherregal",
+  "wortart": "Nomen",
+  "silben": "Bü-cher-re-gal",
+  "begriffserklaerung": "Ein Bücherregal ist ein Möbelstück mit mehreren Fächern, in denen man Bücher aufbewahren und ordnen kann.",
+  "beispielsatz": "Mia stellt ihr neues Buch ins Bücherregal.",
+  "rechtschreibstrategie": "Das Wort „Bücherregal\" ist aus „Bücher\" und „Regal\" zusammengesetzt. Achte auf das doppelte r in der Mitte: Bücher + Regal = Bücherregal!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Buch",
+    "Regal"
+  ],
+  "bild_datei": "Bücherregal.webp",
+  "audio_datei": "Bücherregal.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bücherregal",
+    "plural": "die Bücherregale",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bücherregal",
+        "genitiv": "des Bücherregals",
+        "dativ": "dem Bücherregal",
+        "akkusativ": "das Bücherregal"
+      },
+      "plural": {
+        "nominativ": "die Bücherregale",
+        "genitiv": "der Bücherregale",
+        "dativ": "den Bücherregalen",
+        "akkusativ": "die Bücherregale"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bookshelf"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étagère à livres"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kitaplık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رف الكتب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bibliothek"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bücherei"
+    }
+  ],
+  "fehlschreibungen": [
+    "Büchorregal",
+    "Bücherrägal",
+    "Büchereegal",
+    "Büchergal",
+    "Bücherregal"
+  ]
+}

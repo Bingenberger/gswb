@@ -1,0 +1,96 @@
+{
+  "lemma": "verblassen",
+  "wortart": "Verb",
+  "silben": "ver-blas-sen",
+  "begriffserklaerung": "Wenn etwas verblasst, wird seine Farbe immer heller und schwächer, bis man es kaum noch sehen kann.",
+  "beispielsatz": "Das bunte T-Shirt verblasst nach dem vielen Waschen.",
+  "rechtschreibstrategie": "Das Wort hat zwei „s\" in der Mitte – sprich es laut: ver-BLASS-en. Nach dem kurzen „a\" kommen zwei „s\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "blass"
+  ],
+  "bild_datei": "verblassen.webp",
+  "audio_datei": "verblassen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fade"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se décolorer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "solmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبهت / يشحب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blass"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blässe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verbleichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausbleichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Farbe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "färben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "verblassen",
+    "praesens": {
+      "ich": "verblasse",
+      "du": "verblasst",
+      "er_sie_es": "verblasst",
+      "wir": "verblassen",
+      "ihr": "verblasst",
+      "sie": "verblassen"
+    },
+    "perfekt": {
+      "ich": "bin verblasst",
+      "du": "bist verblasst",
+      "er_sie_es": "ist verblasst",
+      "wir": "sind verblasst",
+      "ihr": "seid verblasst",
+      "sie": "sind verblasst"
+    },
+    "praeteritum": {
+      "ich": "verblasste",
+      "du": "verblasstest",
+      "er_sie_es": "verblasste",
+      "wir": "verblassten",
+      "ihr": "verblasstet",
+      "sie": "verblassten"
+    }
+  },
+  "fehlschreibungen": [
+    "ferblassen",
+    "verblasssen",
+    "verblassen",
+    "verpblassen",
+    "verblasßen",
+    "verblaszen"
+  ]
+}

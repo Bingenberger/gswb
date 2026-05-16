@@ -1,0 +1,82 @@
+{
+  "lemma": "Decke",
+  "wortart": "Nomen",
+  "silben": "De-cke",
+  "begriffserklaerung": "Eine Decke ist ein großes Stück Stoff, das man zum Wärmen über sich legt oder mit dem man einen Raum nach oben abschließt.",
+  "beispielsatz": "Im Winter kuschele ich mich unter die warme Decke.",
+  "rechtschreibstrategie": "Nach dem kurzen „e\" kommt „ck\" – das zeigt, dass der Vokal kurz gesprochen wird: De-cke.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "deck"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Decke",
+    "plural": "die Decken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Decke",
+        "genitiv": "der Decke",
+        "dativ": "der Decke",
+        "akkusativ": "die Decke"
+      },
+      "plural": {
+        "nominativ": "die Decken",
+        "genitiv": "der Decken",
+        "dativ": "den Decken",
+        "akkusativ": "die Decken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Deke",
+    "Dekke",
+    "Decken",
+    "Däcke",
+    "Deccke"
+  ],
+  "bild_datei": "Decke.webp",
+  "audio_datei": "Decke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blanket / ceiling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couverture / plafond"
+    },
+    {
+      "language_code": "tr",
+      "translation": "battaniye / tavan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطانية / سقف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "decken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abdeckung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    }
+  ]
+}

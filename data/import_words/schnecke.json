@@ -1,0 +1,82 @@
+{
+  "lemma": "Schnecke",
+  "wortart": "Nomen",
+  "silben": "Schnecke",
+  "begriffserklaerung": "Eine Schnecke ist ein kleines Tier mit weichem Körper. Viele Schnecken tragen ein spiralförmiges Haus auf dem Rücken und bewegen sich sehr langsam fort.",
+  "beispielsatz": "Die Schnecke kriecht ganz langsam über den nassen Weg.",
+  "rechtschreibstrategie": "In „Schnecke\" steckt ein kurzes „e\" vor dem „ck\". Nach einem kurzen Vokal schreibt man immer „ck\" – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schnecke"
+  ],
+  "bild_datei": "Schnecke.webp",
+  "audio_datei": "Schnecke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schnecke",
+    "plural": "die Schnecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schnecke",
+        "genitiv": "der Schnecke",
+        "dativ": "der Schnecke",
+        "akkusativ": "die Schnecke"
+      },
+      "plural": {
+        "nominativ": "die Schnecken",
+        "genitiv": "der Schnecken",
+        "dativ": "den Schnecken",
+        "akkusativ": "die Schnecken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snail"
+    },
+    {
+      "language_code": "fr",
+      "translation": "escargot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "salyangoz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلزون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schneckenförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneckenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raupe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Shnecke",
+    "Schneke",
+    "Schnnecke",
+    "Schnäcke",
+    "Schneckte"
+  ]
+}

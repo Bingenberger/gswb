@@ -1,0 +1,82 @@
+{
+  "lemma": "Tomate",
+  "wortart": "Nomen",
+  "silben": "To-ma-te",
+  "begriffserklaerung": "Die Tomate ist eine rote, runde Frucht, die oft in der Küche verwendet wird. Sie wächst an einer Pflanze und schmeckt leicht säuerlich.",
+  "beispielsatz": "Mama schneidet eine Tomate für den Salat.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: To – ma – te. Alle drei Silben haben einen langen Vokal, also kein Doppelkonsonant. Denk daran: am Ende steht ein -e!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tomat"
+  ],
+  "bild_datei": "Tomate.webp",
+  "audio_datei": "Tomate.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tomate",
+    "plural": "die Tomaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tomate",
+        "genitiv": "der Tomate",
+        "dativ": "der Tomate",
+        "akkusativ": "die Tomate"
+      },
+      "plural": {
+        "nominativ": "die Tomaten",
+        "genitiv": "der Tomaten",
+        "dativ": "den Tomaten",
+        "akkusativ": "die Tomaten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tomato"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tomate"
+    },
+    {
+      "language_code": "tr",
+      "translation": "domates"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طماطم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tomatensoße"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tomatensalat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gurke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paprika"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tomathe",
+    "Tomatte",
+    "Tomaate",
+    "Tomahte",
+    "Tomade"
+  ]
+}

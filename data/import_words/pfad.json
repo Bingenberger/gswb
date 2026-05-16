@@ -1,0 +1,78 @@
+{
+  "lemma": "Pfad",
+  "wortart": "Nomen",
+  "silben": "Pfad",
+  "begriffserklaerung": "Ein Pfad ist ein schmaler Weg, der oft durch den Wald oder über eine Wiese führt.",
+  "beispielsatz": "Wir folgten dem schmalen Pfad durch den dunklen Wald.",
+  "rechtschreibstrategie": "Wenn du „Pfad\" verlängerst, sagst du „Pfade\" – dann hörst du das „d\" am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pfad",
+    "plural": "die Pfade",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pfad",
+        "genitiv": "des Pfades",
+        "dativ": "dem Pfad",
+        "akkusativ": "den Pfad"
+      },
+      "plural": {
+        "nominativ": "die Pfade",
+        "genitiv": "der Pfade",
+        "dativ": "den Pfaden",
+        "akkusativ": "die Pfade"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Pfad"
+  ],
+  "fehlschreibungen": [
+    "Fad",
+    "Pfat",
+    "Pfadt",
+    "Pfadd",
+    "Pad"
+  ],
+  "bild_datei": "Pfad.webp",
+  "audio_datei": "Pfad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "path"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sentier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patika"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مَمَرّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ]
+}

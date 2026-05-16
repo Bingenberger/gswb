@@ -1,0 +1,87 @@
+{
+  "lemma": "Frage",
+  "wortart": "Nomen",
+  "silben": "Fra-ge",
+  "begriffserklaerung": "Eine Frage ist ein Satz, mit dem man etwas wissen möchte. Man stellt eine Frage, wenn man eine Antwort braucht.",
+  "beispielsatz": "Die Lehrerin stellt eine schwierige Frage an die Klasse.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Fra-ge. Am Ende hörst du ein weiches „g\" – schreib es mit g, nicht mit k!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "frag"
+  ],
+  "bild_datei": "Frage.webp",
+  "audio_datei": "Frage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "question"
+    },
+    {
+      "language_code": "fr",
+      "translation": "question"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soru"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سؤال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fragen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fragebogen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fragezeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anfrage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rätsel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Frage",
+    "plural": "die Fragen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Frage",
+        "genitiv": "der Frage",
+        "dativ": "der Frage",
+        "akkusativ": "die Frage"
+      },
+      "plural": {
+        "nominativ": "die Fragen",
+        "genitiv": "der Fragen",
+        "dativ": "den Fragen",
+        "akkusativ": "die Fragen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Frage",
+    "Frakge",
+    "Vrake",
+    "Frakke",
+    "Frace",
+    "Fraige"
+  ]
+}

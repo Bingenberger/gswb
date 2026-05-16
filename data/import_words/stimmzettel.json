@@ -1,0 +1,86 @@
+{
+  "lemma": "Stimmzettel",
+  "wortart": "Nomen",
+  "silben": "Stimm-zet-tel",
+  "begriffserklaerung": "Ein Stimmzettel ist ein Blatt Papier, auf dem man bei einer Wahl ankreuzt, wen oder was man wählen möchte.",
+  "beispielsatz": "Bei der Klassensprecherwahl bekommt jedes Kind einen Stimmzettel und kreuzt seinen Lieblingskandidat an.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Stimm\" (mit doppeltem m) und „Zettel\" (mit doppeltem t). Sprich beide Teile langsam: STIMM – ZET – TEL.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stimm",
+    "Zettel"
+  ],
+  "bild_datei": "Stimmzettel.webp",
+  "audio_datei": "Stimmzettel.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stimmzettel",
+    "plural": "die Stimmzettel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stimmzettel",
+        "genitiv": "des Stimmzettels",
+        "dativ": "dem Stimmzettel",
+        "akkusativ": "den Stimmzettel"
+      },
+      "plural": {
+        "nominativ": "die Stimmzettel",
+        "genitiv": "der Stimmzettel",
+        "dativ": "den Stimmzetteln",
+        "akkusativ": "die Stimmzettel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ballot paper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bulletin de vote"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oy pusulası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة الاقتراع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wahlurne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wahlzettel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stimmzetell",
+    "Stimmzetttel",
+    "Stimmzetel",
+    "Stimmzettel",
+    "Stimzettel",
+    "Stimmzättel",
+    "Stimmzetl"
+  ]
+}

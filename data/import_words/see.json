@@ -1,0 +1,81 @@
+{
+  "lemma": "See",
+  "wortart": "Nomen",
+  "silben": "See",
+  "begriffserklaerung": "Ein See ist eine große Fläche aus Wasser, die vollständig von Land umgeben ist.",
+  "beispielsatz": "Im Sommer schwimmen wir im See.",
+  "rechtschreibstrategie": "Das Wort „See\" hat zwei gleiche Vokale: e-e. Denke daran, beide e's zu schreiben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "See"
+  ],
+  "bild_datei": "See.webp",
+  "audio_datei": "See.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der See",
+    "plural": "die Seen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der See",
+        "genitiv": "des Sees",
+        "dativ": "dem See",
+        "akkusativ": "den See"
+      },
+      "plural": {
+        "nominativ": "die Seen",
+        "genitiv": "der Seen",
+        "dativ": "den Seen",
+        "akkusativ": "die Seen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lac"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göl"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بحيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seeufer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seerose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weiher"
+    }
+  ],
+  "fehlschreibungen": [
+    "Se",
+    "Sehe",
+    "Sei",
+    "Sse"
+  ]
+}

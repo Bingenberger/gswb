@@ -1,0 +1,82 @@
+{
+  "lemma": "Klima",
+  "wortart": "Nomen",
+  "silben": "Kli-ma",
+  "begriffserklaerung": "Das Klima beschreibt, wie das Wetter an einem Ort über viele Jahre hinweg meistens ist – zum Beispiel ob es dort warm, kalt, nass oder trocken ist.",
+  "beispielsatz": "In der Wüste ist das Klima sehr heiß und trocken.",
+  "rechtschreibstrategie": "Das Wort „Klima\" kommt aus dem Griechischen. Denk daran: Nach dem „i\" folgt kein Dehnungs-h – schreib es einfach so, wie du es sprichst: Kli-ma.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Klima"
+  ],
+  "bild_datei": "Klima.webp",
+  "audio_datei": "Klima.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "climate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "climat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iklim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مناخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klimawandel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klimatisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Klima",
+    "plural": "die Klimas",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Klima",
+        "genitiv": "des Klimas",
+        "dativ": "dem Klima",
+        "akkusativ": "das Klima"
+      },
+      "plural": {
+        "nominativ": "die Klimas",
+        "genitiv": "der Klimas",
+        "dativ": "den Klimas",
+        "akkusativ": "die Klimas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Clima",
+    "Klihma",
+    "Klimar",
+    "Klyma",
+    "Klimma"
+  ]
+}

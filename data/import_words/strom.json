@@ -1,0 +1,88 @@
+{
+  "lemma": "Strom",
+  "wortart": "Nomen",
+  "silben": "Strom",
+  "begriffserklaerung": "Strom hat zwei Bedeutungen: Erstens ist Strom die Energie, die durch Leitungen fließt und Lampen, Computer und andere Geräte zum Laufen bringt. Zweitens ist ein Strom ein sehr großer, breiter Fluss.",
+  "beispielsatz": "Ohne Strom geht das Licht nicht an.",
+  "rechtschreibstrategie": "„Strom\" hat nur eine Silbe. Sprich es laut: Strom. Du hörst ein langes „o\" – da kommt kein Dehnungs-h, aber merke dir: Das Wort schreibt sich genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "strom",
+    "ström"
+  ],
+  "bild_datei": "Strom.webp",
+  "audio_datei": "Strom.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electricity / river"
+    },
+    {
+      "language_code": "fr",
+      "translation": "électricité / fleuve"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrik / ırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كهرباء / نهر كبير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "strömen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strömung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stromkreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Elektrizität"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strom",
+    "plural": "die Ströme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strom",
+        "genitiv": "des Stromes / des Stroms",
+        "dativ": "dem Strom / dem Strome",
+        "akkusativ": "den Strom"
+      },
+      "plural": {
+        "nominativ": "die Ströme",
+        "genitiv": "der Ströme",
+        "dativ": "den Strömen",
+        "akkusativ": "die Ströme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schrom",
+    "Shtrom",
+    "Stohm",
+    "Stroem",
+    "Schtrom",
+    "Strohm"
+  ]
+}

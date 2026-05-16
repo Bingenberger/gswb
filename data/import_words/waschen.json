@@ -1,0 +1,103 @@
+{
+  "lemma": "waschen",
+  "wortart": "Verb",
+  "silben": "wa-schen",
+  "begriffserklaerung": "Etwas oder jemanden mit Wasser und Seife sauber machen.",
+  "beispielsatz": "Ich wasche mir jeden Morgen die Hände, bevor ich frühstücke.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „wa-schen\". Du hörst das „sch\" ganz deutlich – schreib es immer mit „sch\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wasch"
+  ],
+  "bild_datei": "waschen.webp",
+  "audio_datei": "waschen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to wash"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yıkamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَغسِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wäsche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waschmaschine"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waschmittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "reinigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "säubern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "duschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "spülen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "waschen",
+    "praesens": {
+      "ich": "wasche",
+      "du": "wäschst",
+      "er_sie_es": "wäscht",
+      "wir": "waschen",
+      "ihr": "wascht",
+      "sie": "waschen"
+    },
+    "perfekt": {
+      "ich": "habe gewaschen",
+      "du": "hast gewaschen",
+      "er_sie_es": "hat gewaschen",
+      "wir": "haben gewaschen",
+      "ihr": "habt gewaschen",
+      "sie": "haben gewaschen"
+    },
+    "praeteritum": {
+      "ich": "wusch",
+      "du": "wuschest",
+      "er_sie_es": "wusch",
+      "wir": "wuschen",
+      "ihr": "wuscht",
+      "sie": "wuschen"
+    }
+  },
+  "fehlschreibungen": [
+    "vaschen",
+    "wachen",
+    "waßen",
+    "washen",
+    "waschhen",
+    "waaschen"
+  ]
+}

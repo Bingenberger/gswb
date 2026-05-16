@@ -1,0 +1,91 @@
+{
+  "lemma": "Windkraftanlage",
+  "wortart": "Nomen",
+  "silben": "Wind-kraft-an-la-ge",
+  "begriffserklaerung": "Eine Windkraftanlage ist eine große Maschine mit langen Flügeln, die sich im Wind drehen. Der Wind dreht die Flügel und erzeugt damit Strom für uns alle.",
+  "beispielsatz": "Auf dem Hügel stehen viele Windkraftanlagen, die sauberen Strom erzeugen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Wind\" + „Kraft\" + „Anlage\". Sprich alle Bausteine einzeln, dann kannst du das lange Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wind",
+    "Kraft",
+    "Anlage"
+  ],
+  "bild_datei": "Windkraftanlage.webp",
+  "audio_datei": "Windkraftanlage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wind turbine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éolienne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rüzgar türbini"
+    },
+    {
+      "language_code": "ar",
+      "translation": "توربين رياح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Solaranlage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Windrad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Windkraftanlage",
+    "plural": "die Windkraftanlagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Windkraftanlage",
+        "genitiv": "der Windkraftanlage",
+        "dativ": "der Windkraftanlage",
+        "akkusativ": "die Windkraftanlage"
+      },
+      "plural": {
+        "nominativ": "die Windkraftanlagen",
+        "genitiv": "der Windkraftanlagen",
+        "dativ": "den Windkraftanlagen",
+        "akkusativ": "die Windkraftanlagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Windkraftanlahge",
+    "Wintkraftanlage",
+    "Windkraftanlagge",
+    "Windkraftanlaje",
+    "Windkraftanlage",
+    "Windkrafftanlage",
+    "Windkraftannlage",
+    "Windkraftanlake"
+  ]
+}

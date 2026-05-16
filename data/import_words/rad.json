@@ -1,0 +1,81 @@
+{
+  "lemma": "Rad",
+  "wortart": "Nomen",
+  "silben": "Rad",
+  "begriffserklaerung": "Ein Rad ist ein runder Gegenstand, der sich dreht. Räder sind zum Beispiel an Fahrrädern, Autos und Zügen.",
+  "beispielsatz": "Das Rad an meinem Fahrrad ist platt.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Räder\" – du hörst das D deutlich. Deshalb schreibt man „Rad\" mit D am Ende und nicht mit T.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rad"
+  ],
+  "bild_datei": "Rad.webp",
+  "audio_datei": "Rad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wheel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekerlek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عجلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radfahrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reifen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Rad",
+    "plural": "Räder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Rad",
+        "genitiv": "des Rades",
+        "dativ": "dem Rad",
+        "akkusativ": "das Rad"
+      },
+      "plural": {
+        "nominativ": "die Räder",
+        "genitiv": "der Räder",
+        "dativ": "den Rädern",
+        "akkusativ": "die Räder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ratt",
+    "Rat",
+    "Raad",
+    "Rahd"
+  ]
+}

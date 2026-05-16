@@ -1,0 +1,89 @@
+{
+  "lemma": "Briefkasten",
+  "wortart": "Nomen",
+  "silben": "Brief-kas-ten",
+  "begriffserklaerung": "Ein Briefkasten ist ein Behälter, in den Briefe und Pakete eingeworfen werden. Er hängt meistens an der Haustür oder steht auf der Straße.",
+  "beispielsatz": "Der Postbote legt den Brief in den Briefkasten.",
+  "rechtschreibstrategie": "„Briefkasten\" ist ein zusammengesetztes Wort aus „Brief\" und „Kasten\". Sprich beide Teile einzeln: BRIEF + KASTEN. So schreibst du beide Teile richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brief",
+    "Kasten"
+  ],
+  "bild_datei": "Briefkasten.webp",
+  "audio_datei": "Briefkasten.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "letterbox / mailbox"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boîte aux lettres"
+    },
+    {
+      "language_code": "tr",
+      "translation": "posta kutusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صندوق البريد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Postbote"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umschlag"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Postkasten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Briefkasten",
+    "plural": "die Briefkästen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Briefkasten",
+        "genitiv": "des Briefkastens",
+        "dativ": "dem Briefkasten",
+        "akkusativ": "den Briefkasten"
+      },
+      "plural": {
+        "nominativ": "die Briefkästen",
+        "genitiv": "der Briefkästen",
+        "dativ": "den Briefkästen",
+        "akkusativ": "die Briefkästen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Briefkasten",
+    "Briefkastenn",
+    "Brihefkasten",
+    "Briefkastten",
+    "Briefkaßten",
+    "Brifkasten",
+    "Briefkasden"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Universum",
+  "wortart": "Nomen",
+  "silben": "U-ni-ver-sum",
+  "begriffserklaerung": "Das Universum ist der gesamte Weltraum mit allen Sternen, Planeten, Galaxien und allem, was es gibt. Es ist unvorstellbar groß und hat kein Ende.",
+  "beispielsatz": "Das Universum ist so riesig, dass man es sich kaum vorstellen kann.",
+  "rechtschreibstrategie": "Sprich alle Silben deutlich: U – ni – ver – sum. Denk daran: Am Ende steht -um, nicht -om!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "univers"
+  ],
+  "bild_datei": "Universum.webp",
+  "audio_datei": "Universum.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Universum",
+    "plural": "die Universen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Universum",
+        "genitiv": "des Universums",
+        "dativ": "dem Universum",
+        "akkusativ": "das Universum"
+      },
+      "plural": {
+        "nominativ": "die Universen",
+        "genitiv": "der Universen",
+        "dativ": "den Universen",
+        "akkusativ": "die Universen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "universe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "univers"
+    },
+    {
+      "language_code": "tr",
+      "translation": "evren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الكون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "universal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weltraum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Galaxie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Planet"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weltall"
+    }
+  ],
+  "fehlschreibungen": [
+    "Universum",
+    "Unniversum",
+    "Univerßum",
+    "Univercum",
+    "Universsum",
+    "Üniversum"
+  ]
+}

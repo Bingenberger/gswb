@@ -1,0 +1,83 @@
+{
+  "lemma": "Hammer",
+  "wortart": "Nomen",
+  "silben": "Ham-mer",
+  "begriffserklaerung": "Ein Hammer ist ein Werkzeug mit einem langen Stiel und einem schweren Kopf aus Metall. Man benutzt ihn, um Nägel in Holz zu schlagen.",
+  "beispielsatz": "Papa schlägt mit dem Hammer einen Nagel in die Wand.",
+  "rechtschreibstrategie": "Das Wort „Hammer\" hat ein kurzes „a\". Nach einem kurzen Vokal verdoppelt man den Mitlaut: Hammer – doppeltes „m\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Hammer",
+    "hämmer"
+  ],
+  "bild_datei": "Hammer.webp",
+  "audio_datei": "Hammer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hammer",
+    "plural": "die Hämmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hammer",
+        "genitiv": "des Hammers",
+        "dativ": "dem Hammer",
+        "akkusativ": "den Hammer"
+      },
+      "plural": {
+        "nominativ": "die Hämmer",
+        "genitiv": "der Hämmer",
+        "dativ": "den Hämmern",
+        "akkusativ": "die Hämmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hammer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekiç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مطرقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hämmern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hammerkopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hamer",
+    "Hammer",
+    "Haamer",
+    "Hämmer",
+    "Hamər"
+  ]
+}

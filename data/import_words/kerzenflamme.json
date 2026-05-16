@@ -1,0 +1,80 @@
+{
+  "lemma": "Kerzenflamme",
+  "wortart": "Nomen",
+  "silben": "Ker-zen-flam-me",
+  "begriffserklaerung": "Die Kerzenflamme ist das kleine, leuchtende Feuer, das oben auf einer Kerze brennt und Licht und Wärme gibt.",
+  "beispielsatz": "Die Kerzenflamme flackert im Wind und wirft einen langen Schatten an die Wand.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Kerze\" und „Flamme\". Bei „Flamme\" hörst du ein kurzes „a\" – deshalb schreibt man doppeltes „m\". Sprich die Silben laut mit: Ker-zen-flam-me!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kerze",
+    "Flamme"
+  ],
+  "bild_datei": "Kerzenflamme.webp",
+  "audio_datei": "Kerzenflamme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "candle flame"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flamme de bougie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mum alevi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لهب الشمعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flamme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kerzenflamme",
+    "plural": "die Kerzenflammen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kerzenflamme",
+        "genitiv": "der Kerzenflamme",
+        "dativ": "der Kerzenflamme",
+        "akkusativ": "die Kerzenflamme"
+      },
+      "plural": {
+        "nominativ": "die Kerzenflammen",
+        "genitiv": "der Kerzenflammen",
+        "dativ": "den Kerzenflammen",
+        "akkusativ": "die Kerzenflammen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kerzenflamme"
+  ]
+}

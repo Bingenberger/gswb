@@ -1,0 +1,55 @@
+{
+  "lemma": "Fahrrad",
+  "wortart": "Nomen",
+  "silben": "Fahr-rad",
+  "beispielsatz": "Papa fährt jeden Morgen mit dem Fahrrad zur Arbeit.",
+  "begriffserklaerung": "Ein Fahrrad ist ein Fahrzeug mit zwei Rädern. Man bewegt es, indem man in die Pedale tritt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: 'Fahr-' und 'Rad'. Beim Zusammensetzen entsteht ein Doppel-r. In 'fahren' steckt außerdem ein Dehnungs-h – man schreibt also 'Fahr', nicht 'Far'.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahren",
+    "Rad"
+  ],
+  "bild_datei": "Fahrrad.webp",
+  "audio_datei": "Fahrrad.mp3",
+  "uebersetzungen": [
+    { "language_code": "en", "translation": "bicycle" },
+    { "language_code": "fr", "translation": "vélo" },
+    { "language_code": "tr", "translation": "bisiklet" },
+    { "language_code": "ar", "translation": "دراجة" }
+  ],
+  "beziehungen": [
+    { "relation_type": "word_family", "target_lemma": "fahren" },
+    { "relation_type": "word_family", "target_lemma": "Rad" },
+    { "relation_type": "word_field",  "target_lemma": "Auto" },
+    { "relation_type": "word_field",  "target_lemma": "Bus" }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Fahrrad",
+    "plural": "Fahrräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fahrrad",
+        "genitiv": "des Fahrrads",
+        "dativ": "dem Fahrrad",
+        "akkusativ": "das Fahrrad"
+      },
+      "plural": {
+        "nominativ": "die Fahrräder",
+        "genitiv": "der Fahrräder",
+        "dativ": "den Fahrrädern",
+        "akkusativ": "die Fahrräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Farrad",
+    "Fahrad",
+    "Faarrad",
+    "Fahrrat"
+  ]
+}

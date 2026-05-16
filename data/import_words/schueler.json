@@ -1,0 +1,82 @@
+{
+  "lemma": "Schüler",
+  "wortart": "Nomen",
+  "silben": "Schü-ler",
+  "begriffserklaerung": "Ein Schüler ist ein Kind oder ein Jugendlicher, der eine Schule besucht und dort lernt.",
+  "beispielsatz": "Der Schüler packt seine Bücher in den Rucksack.",
+  "rechtschreibstrategie": "Denk an das Wort „Schule\" – daraus wird „Schüler\". Das ü kommt vom ü in „Schule\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schul-"
+  ],
+  "bild_datei": "Schüler.webp",
+  "audio_datei": "Schüler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pupil / student"
+    },
+    {
+      "language_code": "fr",
+      "translation": "élève"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğrenci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تِلْمِيذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schülerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klasse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lernender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schüler",
+    "plural": "die Schüler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schüler",
+        "genitiv": "des Schülers",
+        "dativ": "dem Schüler",
+        "akkusativ": "den Schüler"
+      },
+      "plural": {
+        "nominativ": "die Schüler",
+        "genitiv": "der Schüler",
+        "dativ": "den Schülern",
+        "akkusativ": "die Schüler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schüller",
+    "Schüher",
+    "Schüeler",
+    "Schiler",
+    "Schülar"
+  ]
+}

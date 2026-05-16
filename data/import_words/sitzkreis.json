@@ -1,0 +1,84 @@
+{
+  "lemma": "Sitzkreis",
+  "wortart": "Nomen",
+  "silben": "Sitz-kreis",
+  "begriffserklaerung": "Ein Sitzkreis ist eine Gruppe von Menschen, die in einem Kreis auf dem Boden oder auf Stühlen sitzen. In der Schule setzen sich Kinder oft zusammen in einen Sitzkreis, um miteinander zu reden oder zu spielen.",
+  "beispielsatz": "Alle Kinder setzen sich in den Sitzkreis und hören der Lehrerin zu.",
+  "rechtschreibstrategie": "Das Wort „Sitzkreis\" besteht aus zwei Teilen: „Sitz\" und „Kreis\". Sprich beide Teile laut: SITZ – KREIS. Das „tz\" in „Sitz\" kommt nach dem kurzen „i\". Das ist das Zeichen für den kurzen Vokal!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sitz",
+    "kreis"
+  ],
+  "bild_datei": "Sitzkreis.webp",
+  "audio_datei": "Sitzkreis.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sitzkreis",
+    "plural": "die Sitzkreise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sitzkreis",
+        "genitiv": "des Sitzkreises",
+        "dativ": "dem Sitzkreis",
+        "akkusativ": "den Sitzkreis"
+      },
+      "plural": {
+        "nominativ": "die Sitzkreise",
+        "genitiv": "der Sitzkreise",
+        "dativ": "den Sitzkreisen",
+        "akkusativ": "die Sitzkreise"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "circle time / sitting circle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cercle d'assise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturma çemberi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دائرة الجلوس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgenkreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassenraum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhlkreis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sizkreis",
+    "Sitzkreiss",
+    "Sitskreis",
+    "Sitzkreiß",
+    "Sizkreiß"
+  ]
+}

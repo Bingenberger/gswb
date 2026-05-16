@@ -1,0 +1,82 @@
+{
+  "lemma": "Gehäuse",
+  "wortart": "Nomen",
+  "silben": "Ge-häu-se",
+  "begriffserklaerung": "Ein Gehäuse ist eine feste Hülle oder ein Kasten, der etwas schützt, das darin steckt – zum Beispiel das Innere eines Computers oder einer Uhr.",
+  "beispielsatz": "Der Techniker öffnet das Gehäuse des Computers, um die kaputte Karte auszutauschen.",
+  "rechtschreibstrategie": "Denk an das Wort „Haus\" – es steckt im Gehäuse! Ge-HÄUS-e: Das äu kommt von Haus → Häuser.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Haus"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gehäuse",
+    "plural": "die Gehäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gehäuse",
+        "genitiv": "des Gehäuses",
+        "dativ": "dem Gehäuse",
+        "akkusativ": "das Gehäuse"
+      },
+      "plural": {
+        "nominativ": "die Gehäuse",
+        "genitiv": "der Gehäuse",
+        "dativ": "den Gehäusen",
+        "akkusativ": "die Gehäuse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gehäuße",
+    "Gehause",
+    "Gehäusse",
+    "Geheuse",
+    "Gehäuze"
+  ],
+  "bild_datei": "Gehäuse.webp",
+  "audio_datei": "Gehäuse.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "housing / casing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boîtier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kasa / muhafaza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علبة / غلاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Häuschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hülle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hülle"
+    }
+  ]
+}

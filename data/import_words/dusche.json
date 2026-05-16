@@ -1,0 +1,82 @@
+{
+  "lemma": "Dusche",
+  "wortart": "Nomen",
+  "silben": "Du-sche",
+  "begriffserklaerung": "Eine Dusche ist eine Vorrichtung im Bad, mit der man sich mit Wasser wäscht. Das Wasser kommt von oben aus einem Brausekopf.",
+  "beispielsatz": "Nach dem Sport nimmt Lena eine warme Dusche.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Du-sche. Das „sch\" klingt wie in „Schule\". Denk daran: nach dem langen „u\" kommt kein Doppelbuchstabe!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "dusch"
+  ],
+  "bild_datei": "Dusche.webp",
+  "audio_datei": "Dusche.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "douche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "duschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Duschgel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Badewanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Brause"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Dusche",
+    "plural": "die Duschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Dusche",
+        "genitiv": "der Dusche",
+        "dativ": "der Dusche",
+        "akkusativ": "die Dusche"
+      },
+      "plural": {
+        "nominativ": "die Duschen",
+        "genitiv": "der Duschen",
+        "dativ": "den Duschen",
+        "akkusativ": "die Duschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Duche",
+    "Dushe",
+    "Dusse",
+    "Tusche",
+    "Dussche"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Imbiss",
+  "wortart": "Nomen",
+  "silben": "Im-biss",
+  "begriffserklaerung": "Ein Imbiss ist ein kleines Essen zwischendurch oder ein Stand, wo man schnell etwas Leckeres kaufen und essen kann.",
+  "beispielsatz": "Nach dem Fußballspiel kaufte Jonas am Imbiss eine Portion Pommes.",
+  "rechtschreibstrategie": "Im Wort „Imbiss\" hörst du nach dem kurzen „i\" ein kräftiges „ss\" – schreibe deshalb zwei „s\": Im-biss.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "biss",
+    "beißen"
+  ],
+  "bild_datei": "Imbiss.webp",
+  "audio_datei": "Imbiss.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Imbiss",
+    "plural": "die Imbisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Imbiss",
+        "genitiv": "des Imbisses",
+        "dativ": "dem Imbiss",
+        "akkusativ": "den Imbiss"
+      },
+      "plural": {
+        "nominativ": "die Imbisse",
+        "genitiv": "der Imbisse",
+        "dativ": "den Imbissen",
+        "akkusativ": "die Imbisse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snack / snack bar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "snack / collation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "atıştırmalık / büfe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وجبة خفيفة / بسطة طعام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pommes"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Snack"
+    }
+  ],
+  "fehlschreibungen": [
+    "Imbis",
+    "Imbiß",
+    "Imbißs",
+    "Inbiss"
+  ]
+}

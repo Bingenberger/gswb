@@ -1,0 +1,82 @@
+{
+  "lemma": "Kran",
+  "wortart": "Nomen",
+  "silben": "Kran",
+  "begriffserklaerung": "Ein Kran ist eine große Maschine, die schwere Lasten hochhebt und von einem Ort zum anderen bewegt.",
+  "beispielsatz": "Der Kran hebt die schweren Stahlträger auf das Dach des neuen Hauses.",
+  "rechtschreibstrategie": "„Kran\" hat nur eine Silbe. Sprich das „a\" lang – deshalb schreibst du nur ein „n\" am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kran"
+  ],
+  "bild_datei": "Kran.webp",
+  "audio_datei": "Kran.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vinç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رافعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kräne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kranführer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bagger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lastwagen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kran",
+    "plural": "die Kräne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kran",
+        "genitiv": "des Kran(e)s",
+        "dativ": "dem Kran",
+        "akkusativ": "den Kran"
+      },
+      "plural": {
+        "nominativ": "die Kräne",
+        "genitiv": "der Kräne",
+        "dativ": "den Kränen",
+        "akkusativ": "die Kräne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krahn",
+    "Gran",
+    "Krand",
+    "Krann",
+    "Cran"
+  ]
+}

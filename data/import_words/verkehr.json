@@ -1,0 +1,86 @@
+{
+  "lemma": "Verkehr",
+  "wortart": "Nomen",
+  "silben": "Ver-kehr",
+  "begriffserklaerung": "Verkehr meint alle Fahrzeuge und Menschen, die sich auf Straßen, Schienen oder in der Luft bewegen – zum Beispiel Autos, Busse, Fahrräder und Züge.",
+  "beispielsatz": "Auf der großen Straße in der Stadt gibt es viel Verkehr.",
+  "rechtschreibstrategie": "Das Wort „Verkehr\" endet auf -ehr – genauso wie „Mehr\" oder „Lehr\". Denk daran: Kehr mit Dehnungs-h schreiben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "kehr"
+  ],
+  "bild_datei": "Verkehr.webp",
+  "audio_datei": "Verkehr.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verkehr",
+    "plural": "die Verkehre",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verkehr",
+        "genitiv": "des Verkehrs",
+        "dativ": "dem Verkehr",
+        "akkusativ": "den Verkehr"
+      },
+      "plural": {
+        "nominativ": "die Verkehre",
+        "genitiv": "der Verkehre",
+        "dativ": "den Verkehren",
+        "akkusativ": "die Verkehre"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "traffic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trafic"
+    },
+    {
+      "language_code": "tr",
+      "translation": "trafik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حركة المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kehren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verkehren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Straßentreiben"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferkehr",
+    "Verkear",
+    "Verkehre",
+    "Vehrkehr",
+    "Verkeehr"
+  ]
+}

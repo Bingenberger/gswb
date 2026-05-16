@@ -1,0 +1,90 @@
+{
+  "lemma": "sammeln",
+  "wortart": "Verb",
+  "silben": "sam-meln",
+  "begriffserklaerung": "Sammeln bedeutet, viele Dinge zusammenzusuchen und an einem Ort aufzubewahren.",
+  "beispielsatz": "Im Herbst sammeln wir bunte Blätter im Park.",
+  "rechtschreibstrategie": "Das Wort „sammeln\" hat ein doppeltes m, weil der Vokal a kurz gesprochen wird. Sprich es laut: samm-meln – du hörst das kurze a!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sammeln",
+    "praesens": {
+      "ich": "sammle",
+      "du": "sammelst",
+      "er_sie_es": "sammelt",
+      "wir": "sammeln",
+      "ihr": "sammelt",
+      "sie": "sammeln"
+    },
+    "perfekt": {
+      "ich": "habe gesammelt",
+      "du": "hast gesammelt",
+      "er_sie_es": "hat gesammelt",
+      "wir": "haben gesammelt",
+      "ihr": "habt gesammelt",
+      "sie": "haben gesammelt"
+    },
+    "praeteritum": {
+      "ich": "sammelte",
+      "du": "sammeltest",
+      "er_sie_es": "sammelte",
+      "wir": "sammelten",
+      "ihr": "sammeltet",
+      "sie": "sammelten"
+    }
+  },
+  "wortfamilie_basen": [
+    "sammel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sammlung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sammler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zusammentragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sortieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufbewahren"
+    }
+  ],
+  "fehlschreibungen": [
+    "sameln",
+    "sammlen",
+    "ssammeln",
+    "zammeln",
+    "sämeln"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to collect"
+    },
+    {
+      "language_code": "fr",
+      "translation": "collecter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجمع"
+    }
+  ],
+  "bild_datei": "sammeln.webp",
+  "audio_datei": "sammeln.mp3"
+}

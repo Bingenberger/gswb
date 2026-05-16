@@ -1,0 +1,82 @@
+{
+  "lemma": "Werk",
+  "wortart": "Nomen",
+  "silben": "Werk",
+  "begriffserklaerung": "Ein Werk ist etwas, das jemand erschaffen oder hergestellt hat – zum Beispiel ein Bild, ein Buch oder ein Musikstück.",
+  "beispielsatz": "Das Bild, das Lisa gemalt hat, ist ein wunderschönes Werk.",
+  "rechtschreibstrategie": "Wenn du „Werk\" verlängerst, sagst du „Werke\" – dann hörst du das k am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "werk"
+  ],
+  "bild_datei": "Werk.webp",
+  "audio_datei": "Werk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œuvre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eser"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wirken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunstwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arbeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Werk",
+    "plural": "die Werke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Werk",
+        "genitiv": "des Werkes",
+        "dativ": "dem Werk",
+        "akkusativ": "das Werk"
+      },
+      "plural": {
+        "nominativ": "die Werke",
+        "genitiv": "der Werke",
+        "dativ": "den Werken",
+        "akkusativ": "die Werke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Werg",
+    "Verk",
+    "Werc",
+    "Wärk",
+    "Werck"
+  ]
+}

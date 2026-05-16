@@ -1,0 +1,72 @@
+{
+  "lemma": "Konto",
+  "wortart": "Nomen",
+  "silben": "Kon-to",
+  "begriffserklaerung": "Ein Konto ist ein Platz bei einer Bank, wo man sein Geld sicher aufbewahren kann. Man kann Geld einzahlen und abheben.",
+  "beispielsatz": "Meine Oma überweist mir zum Geburtstag Geld auf mein Konto.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kon-to. Achte auf das „o\" am Ende – man schreibt es mit „o\", nicht mit „u\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Konto.webp",
+  "audio_datei": "Konto.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "account"
+    },
+    {
+      "language_code": "fr",
+      "translation": "compte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hesap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حساب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sparbuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Konto",
+    "plural": "die Konten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Konto",
+        "genitiv": "des Kontos",
+        "dativ": "dem Konto",
+        "akkusativ": "das Konto"
+      },
+      "plural": {
+        "nominativ": "die Konten",
+        "genitiv": "der Konten",
+        "dativ": "den Konten",
+        "akkusativ": "die Konten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Conto",
+    "Kondo",
+    "Konnto",
+    "Kuntu",
+    "Konto"
+  ]
+}

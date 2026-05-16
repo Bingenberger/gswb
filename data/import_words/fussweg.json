@@ -1,0 +1,93 @@
+{
+  "lemma": "Fußweg",
+  "wortart": "Nomen",
+  "silben": "Fuß-weg",
+  "begriffserklaerung": "Ein Fußweg ist ein schmaler Weg, auf dem nur Menschen zu Fuß gehen dürfen – keine Autos und meistens auch keine Fahrräder.",
+  "beispielsatz": "Wir nehmen den Fußweg durch den Park, damit wir sicher zur Schule kommen.",
+  "rechtschreibstrategie": "„Fußweg\" ist ein Bausteinwort aus „Fuß\" und „Weg\". Das ß in „Fuß\" schreibst du, weil der Vokal „u\" lang gesprochen wird. Denk daran: langes u → ß!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Weg"
+  ],
+  "bild_datei": "Fußweg.webp",
+  "audio_datei": "Fußweg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fußweg",
+    "plural": "die Fußwege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fußweg",
+        "genitiv": "des Fußweges",
+        "dativ": "dem Fußweg",
+        "akkusativ": "den Fußweg"
+      },
+      "plural": {
+        "nominativ": "die Fußwege",
+        "genitiv": "der Fußwege",
+        "dativ": "den Fußwegen",
+        "akkusativ": "die Fußwege"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "footpath"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemin piéton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaya yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ممشى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gehweg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bürgersteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Park"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fussweg",
+    "Fußweeg",
+    "Fußwäg",
+    "Fußweig",
+    "Fußweck"
+  ]
+}

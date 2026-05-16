@@ -1,0 +1,82 @@
+{
+  "lemma": "Natur",
+  "wortart": "Nomen",
+  "silben": "Na-tur",
+  "begriffserklaerung": "Die Natur ist alles, was nicht von Menschen gemacht wurde: Tiere, Pflanzen, Wälder, Flüsse, Berge und der Himmel.",
+  "beispielsatz": "Im Sommer gehen wir oft in die Natur und beobachten Tiere und Pflanzen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Na-tur. Achte auf das „u\" am Ende – es klingt lang, deshalb steht kein zweites „r\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Natur",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Natur",
+        "genitiv": "der Natur",
+        "dativ": "der Natur",
+        "akkusativ": "die Natur"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "natur"
+  ],
+  "fehlschreibungen": [
+    "Nathur",
+    "Natuur",
+    "Nahtur",
+    "Nattur",
+    "Natur"
+  ],
+  "bild_datei": "Natur.webp",
+  "audio_datei": "Natur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nature"
+    },
+    {
+      "language_code": "fr",
+      "translation": "la nature"
+    },
+    {
+      "language_code": "tr",
+      "translation": "doğa"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الطبيعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "natürlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Naturschutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    }
+  ]
+}

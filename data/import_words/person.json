@@ -1,0 +1,82 @@
+{
+  "lemma": "Person",
+  "wortart": "Nomen",
+  "silben": "Per-son",
+  "begriffserklaerung": "Eine Person ist ein Mensch – also du, ich oder jeder andere Mensch auf der Welt.",
+  "beispielsatz": "Jede Person in unserer Klasse darf ein Buch auswählen.",
+  "rechtschreibstrategie": "Denk an das „o\" am Ende: Per-son. Sprich beide Silben deutlich, dann hörst du das „o\" gut heraus.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Person",
+    "plural": "die Personen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Person",
+        "genitiv": "der Person",
+        "dativ": "der Person",
+        "akkusativ": "die Person"
+      },
+      "plural": {
+        "nominativ": "die Personen",
+        "genitiv": "der Personen",
+        "dativ": "den Personen",
+        "akkusativ": "die Personen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Person"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "persönlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mensch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Individuum"
+    }
+  ],
+  "fehlschreibungen": [
+    "Persen",
+    "Perzon",
+    "Persohn",
+    "Persone",
+    "Pärsohn"
+  ],
+  "bild_datei": "Person.webp",
+  "audio_datei": "Person.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "person"
+    },
+    {
+      "language_code": "fr",
+      "translation": "personne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kişi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شخص"
+    }
+  ]
+}

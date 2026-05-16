@@ -1,0 +1,89 @@
+{
+  "lemma": "Reinigung",
+  "wortart": "Nomen",
+  "silben": "Rei-ni-gung",
+  "begriffserklaerung": "Eine Reinigung ist das Saubermachen von etwas, zum Beispiel von Kleidung, einem Zimmer oder einem Gegenstand.",
+  "beispielsatz": "Mama bringt den Mantel zur Reinigung, damit er wieder sauber wird.",
+  "rechtschreibstrategie": "Denke an das Verb „reinigen\" – davon kommt das Wort. Es wird mit „ei\" geschrieben, so wie in „rein\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "rein",
+    "reinig"
+  ],
+  "bild_datei": "Reinigung.webp",
+  "audio_datei": "Reinigung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cleaning"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nettoyage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temizlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تنظيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reinigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Säuberung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wäscherei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Putzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hygiene"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reinigung",
+    "plural": "die Reinigungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reinigung",
+        "genitiv": "der Reinigung",
+        "dativ": "der Reinigung",
+        "akkusativ": "die Reinigung"
+      },
+      "plural": {
+        "nominativ": "die Reinigungen",
+        "genitiv": "der Reinigungen",
+        "dativ": "den Reinigungen",
+        "akkusativ": "die Reinigungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reinnigung",
+    "Reiniegung",
+    "Reinigunk",
+    "Reiniigung",
+    "Rainigung"
+  ]
+}

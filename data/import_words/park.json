@@ -1,0 +1,82 @@
+{
+  "lemma": "Park",
+  "wortart": "Nomen",
+  "silben": "Park",
+  "begriffserklaerung": "Ein Park ist eine große, grüne Fläche mit Bäumen, Wiesen und Wegen, wo Menschen spazieren gehen, spielen und sich erholen können.",
+  "beispielsatz": "Nach der Schule spielen wir im Park Fußball.",
+  "rechtschreibstrategie": "„Park\" schreibst du genau so, wie du es sprichst: P-a-r-k. Merke dir: Am Ende steht ein k!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "park"
+  ],
+  "bild_datei": "Park.webp",
+  "audio_datei": "Park.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Park",
+    "plural": "die Parks",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Park",
+        "genitiv": "des Parks",
+        "dativ": "dem Park",
+        "akkusativ": "den Park"
+      },
+      "plural": {
+        "nominativ": "die Parks",
+        "genitiv": "der Parks",
+        "dativ": "den Parks",
+        "akkusativ": "die Parks"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "park"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "park"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حديقة عامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "parken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Parkplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grünanlage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Parc",
+    "Parg",
+    "Bark",
+    "Pakr",
+    "Parck"
+  ]
+}

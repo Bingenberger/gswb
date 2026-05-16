@@ -1,0 +1,86 @@
+{
+  "lemma": "Kunde",
+  "wortart": "Nomen",
+  "silben": "Kun-de",
+  "begriffserklaerung": "Ein Kunde ist jemand, der in einem Geschäft etwas kauft oder eine Dienstleistung nutzt.",
+  "beispielsatz": "Der Kunde bezahlt an der Kasse seine Einkäufe.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt „n\" und dann „d\" – sprich das Wort laut mit: Kun-de!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kunde",
+    "plural": "die Kunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kunde",
+        "genitiv": "des Kunden",
+        "dativ": "dem Kunden",
+        "akkusativ": "den Kunden"
+      },
+      "plural": {
+        "nominativ": "die Kunden",
+        "genitiv": "der Kunden",
+        "dativ": "den Kunden",
+        "akkusativ": "die Kunden"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Kund"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kundin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kundschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Käufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkäufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Cunde",
+    "Kundde",
+    "Kunnde",
+    "Gunde",
+    "Khunde"
+  ],
+  "bild_datei": "Kunde.webp",
+  "audio_datei": "Kunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "customer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "client"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müşteri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زبون"
+    }
+  ]
+}

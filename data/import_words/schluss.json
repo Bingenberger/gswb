@@ -1,0 +1,93 @@
+{
+  "lemma": "Schluss",
+  "wortart": "Nomen",
+  "silben": "Schluss",
+  "begriffserklaerung": "Der Schluss ist das Ende von etwas, zum Beispiel das Ende einer Geschichte, eines Films oder einer Schulstunde.",
+  "beispielsatz": "Am Schluss der Geschichte lebten alle glücklich bis ans Ende ihrer Tage.",
+  "rechtschreibstrategie": "Das Wort „Schluss\" hat ein ß, weil der Vokal „u\" kurz gesprochen wird und danach zwei Konsonanten kommen – hier schreibt man ß statt ss. Merke: Nach einem kurzen Vokal kommt ß, wenn danach kein weiterer Vokal folgt!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schließ",
+    "schluss"
+  ],
+  "bild_datei": "Schluss.webp",
+  "audio_datei": "Schluss.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "end / conclusion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "son / bitiş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abschluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ende"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anfang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schluss",
+    "plural": "die Schlüsse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schluss",
+        "genitiv": "des Schlusses",
+        "dativ": "dem Schluss",
+        "akkusativ": "den Schluss"
+      },
+      "plural": {
+        "nominativ": "die Schlüsse",
+        "genitiv": "der Schlüsse",
+        "dativ": "den Schlüssen",
+        "akkusativ": "die Schlüsse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlus",
+    "Schluß",
+    "Scluss",
+    "Schlusz",
+    "Schluhs",
+    "Shluss"
+  ]
+}

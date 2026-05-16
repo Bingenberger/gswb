@@ -1,0 +1,84 @@
+{
+  "lemma": "Schokolade",
+  "wortart": "Nomen",
+  "silben": "Scho-ko-la-de",
+  "begriffserklaerung": "Schokolade ist eine süße Leckerei, die aus Kakaobohnen hergestellt wird. Sie gibt es als Tafel, als Riegel oder als Getränk.",
+  "beispielsatz": "Zu meinem Geburtstag habe ich eine große Tafel Schokolade bekommen.",
+  "rechtschreibstrategie": "Das Wort „Schokolade\" ist ein Merkwort – sprich es laut in Silben: Scho-ko-la-de. Achte besonders auf das „sch\" am Anfang und das „ck\" fehlt hier – alle Vokale sind lang!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schoko",
+    "Schokolad"
+  ],
+  "bild_datei": "Schokolade.webp",
+  "audio_datei": "Schokolade.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chocolate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chocolat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çikolata"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوكولاتة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schokoriegel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schokoladig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bonbon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Süßigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kakao"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schokolade",
+    "plural": "die Schokoladen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schokolade",
+        "genitiv": "der Schokolade",
+        "dativ": "der Schokolade",
+        "akkusativ": "die Schokolade"
+      },
+      "plural": {
+        "nominativ": "die Schokoladen",
+        "genitiv": "der Schokoladen",
+        "dativ": "den Schokoladen",
+        "akkusativ": "die Schokoladen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schokollade",
+    "Shokolade",
+    "Schocolade",
+    "Schokolaade",
+    "Schokolate",
+    "Schoklade"
+  ]
+}

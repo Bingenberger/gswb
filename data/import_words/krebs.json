@@ -1,0 +1,78 @@
+{
+  "lemma": "Krebs",
+  "wortart": "Nomen",
+  "silben": "Krebs",
+  "begriffserklaerung": "Ein Krebs ist ein Tier, das im Wasser lebt. Es hat eine harte Schale, zehn Beine und zwei Scheren. Manche Krebse leben im Meer, andere in Flüssen oder Seen.",
+  "beispielsatz": "Am Strand haben wir einen kleinen Krebs unter einem Stein entdeckt.",
+  "rechtschreibstrategie": "Das Wort „Krebs\" endet auf -ebs. Sprich es laut aus: KREBS – du hörst das B vor dem S. Vergiss das B nicht!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Krebs"
+  ],
+  "bild_datei": "Krebs.webp",
+  "audio_datei": "Krebs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "crab / cancer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crabe / écrevisse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yengeç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سرطان البحر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krebsrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hummer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garnele"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schere"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Krebs",
+    "plural": "die Krebse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Krebs",
+        "genitiv": "des Krebses",
+        "dativ": "dem Krebs",
+        "akkusativ": "den Krebs"
+      },
+      "plural": {
+        "nominativ": "die Krebse",
+        "genitiv": "der Krebse",
+        "dativ": "den Krebsen",
+        "akkusativ": "die Krebse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krepes",
+    "Krebß",
+    "Krepps",
+    "Krebes",
+    "Kreps"
+  ]
+}

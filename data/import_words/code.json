@@ -1,0 +1,82 @@
+{
+  "lemma": "Code",
+  "wortart": "Nomen",
+  "silben": "Code",
+  "begriffserklaerung": "Ein Code ist eine geheime Schrift oder eine Folge von Zeichen, Zahlen oder Buchstaben, die eine bestimmte Bedeutung hat. Computer verstehen zum Beispiel eine besondere Sprache aus solchen Zeichen.",
+  "beispielsatz": "Leo gibt den geheimen Code in die Tastatur ein, um das Schloss zu öffnen.",
+  "rechtschreibstrategie": "„Code\" kommt aus dem Englischen. Merke dir: Es wird genauso geschrieben, wie es klingt – mit C am Anfang und einem langen „o\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Code"
+  ],
+  "bild_datei": "Code.webp",
+  "audio_datei": "Code.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Code",
+    "plural": "die Codes",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Code",
+        "genitiv": "des Codes",
+        "dativ": "dem Code",
+        "akkusativ": "den Code"
+      },
+      "plural": {
+        "nominativ": "die Codes",
+        "genitiv": "der Codes",
+        "dativ": "den Codes",
+        "akkusativ": "die Codes"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "code"
+    },
+    {
+      "language_code": "fr",
+      "translation": "code"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kod"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "codieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Geheimcode"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Passwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geheimschrift"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schlüssel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kode",
+    "Coode",
+    "Cohde",
+    "code",
+    "Koode"
+  ]
+}

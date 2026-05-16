@@ -1,0 +1,90 @@
+{
+  "lemma": "Lärm",
+  "wortart": "Nomen",
+  "silben": "Lärm",
+  "begriffserklaerung": "Lärm ist ein sehr lautes, unangenehmes Geräusch, das stört.",
+  "beispielsatz": "Auf dem Schulhof machen die Kinder viel Lärm.",
+  "rechtschreibstrategie": "Denk an das Umlaut-ä: Lärm kommt von „laut\" – man hört das helle ä im Wort.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lärm"
+  ],
+  "bild_datei": "Lärm.webp",
+  "audio_datei": "Lärm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "noise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bruit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gürültü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضجيج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lärmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lärmend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Krach"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Radau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geräusch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lautstärke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stille"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lärm",
+    "plural": "(kein Plural)",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lärm",
+        "genitiv": "des Lärms",
+        "dativ": "dem Lärm",
+        "akkusativ": "den Lärm"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lerm",
+    "Läm",
+    "Lährm",
+    "Larm",
+    "Lärmt"
+  ]
+}

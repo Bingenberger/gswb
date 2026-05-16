@@ -1,0 +1,91 @@
+{
+  "lemma": "Bauch",
+  "wortart": "Nomen",
+  "silben": "Bauch",
+  "begriffserklaerung": "Der Bauch ist der vordere, runde Teil des Körpers zwischen Brust und Beinen. Darin befinden sich unter anderem Magen und Darm.",
+  "beispielsatz": "Nach dem Mittagessen tut mir der Bauch ein bisschen weh.",
+  "rechtschreibstrategie": "„Bauch\" hat den Laut „au\" in der Mitte – sprich das Wort laut mit und schreibe, was du hörst: B-au-ch.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bauch"
+  ],
+  "bild_datei": "Bauch.webp",
+  "audio_datei": "Bauch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "belly / stomach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ventre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäuchlein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bauchig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bauchschmerzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Magen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rücken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brust"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauch",
+    "plural": "die Bäuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauch",
+        "genitiv": "des Bauches",
+        "dativ": "dem Bauch",
+        "akkusativ": "den Bauch"
+      },
+      "plural": {
+        "nominativ": "die Bäuche",
+        "genitiv": "der Bäuche",
+        "dativ": "den Bäuchen",
+        "akkusativ": "die Bäuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bauch",
+    "Bauche",
+    "Baucch",
+    "Baug",
+    "Bouch",
+    "Baoch"
+  ]
+}

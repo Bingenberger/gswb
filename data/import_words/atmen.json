@@ -1,0 +1,92 @@
+{
+  "lemma": "atmen",
+  "wortart": "Verb",
+  "silben": "at-men",
+  "begriffserklaerung": "Atmen bedeutet, Luft in die Lunge einzuziehen und wieder auszupusten. Das tun alle Menschen und Tiere, um zu leben.",
+  "beispielsatz": "Nach dem Rennen muss ich tief atmen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: at-men. Du hörst zwei Silben. Das „t\" am Ende der ersten Silbe schreibst du einfach, weil der Vokal „a\" kurz klingt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "atem",
+    "atm"
+  ],
+  "bild_datei": "atmen.webp",
+  "audio_datei": "atmen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to breathe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "respirer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nefes almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتنفس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Atem"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Atmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "husten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "niesen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schnaufen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "atmen",
+    "praesens": {
+      "ich": "atme",
+      "du": "atmest",
+      "er_sie_es": "atmet",
+      "wir": "atmen",
+      "ihr": "atmet",
+      "sie": "atmen"
+    },
+    "perfekt": {
+      "ich": "habe geatmet",
+      "du": "hast geatmet",
+      "er_sie_es": "hat geatmet",
+      "wir": "haben geatmet",
+      "ihr": "habt geatmet",
+      "sie": "haben geatmet"
+    },
+    "praeteritum": {
+      "ich": "atmete",
+      "du": "atmetest",
+      "er_sie_es": "atmete",
+      "wir": "atmeten",
+      "ihr": "atmetet",
+      "sie": "atmeten"
+    }
+  },
+  "fehlschreibungen": [
+    "admen",
+    "atmmen",
+    "ahmen",
+    "atmen",
+    "attmen",
+    "atzmen"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "lemma": "addieren",
+  "wortart": "Verb",
+  "silben": "ad-die-ren",
+  "begriffserklaerung": "Addieren bedeutet, zwei oder mehr Zahlen zusammenzuzählen, um eine größere Zahl zu erhalten.",
+  "beispielsatz": "Kannst du 3 und 5 addieren? Das Ergebnis ist 8!",
+  "rechtschreibstrategie": "Denk an das doppelte „d\" am Anfang: ad-die-ren. Sprich die Silben deutlich: ad – die – ren.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Addition",
+    "addier"
+  ],
+  "bild_datei": "addieren.webp",
+  "audio_datei": "addieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to add"
+    },
+    {
+      "language_code": "fr",
+      "translation": "additionner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Addition"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Additionszeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zusammenzählen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "subtrahieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "multiplizieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rechnen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "addieren",
+    "praesens": {
+      "ich": "addiere",
+      "du": "addierst",
+      "er_sie_es": "addiert",
+      "wir": "addieren",
+      "ihr": "addiert",
+      "sie": "addieren"
+    },
+    "perfekt": {
+      "ich": "habe addiert",
+      "du": "hast addiert",
+      "er_sie_es": "hat addiert",
+      "wir": "haben addiert",
+      "ihr": "habt addiert",
+      "sie": "haben addiert"
+    },
+    "praeteritum": {
+      "ich": "addierte",
+      "du": "addiertest",
+      "er_sie_es": "addierte",
+      "wir": "addierten",
+      "ihr": "addiertet",
+      "sie": "addierten"
+    }
+  },
+  "fehlschreibungen": [
+    "adieren",
+    "additieren",
+    "addiren",
+    "addieren",
+    "addiehren"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Staub",
+  "wortart": "Nomen",
+  "silben": "Staub",
+  "begriffserklaerung": "Staub sind winzig kleine Teilchen, die in der Luft schweben oder sich auf Möbeln und Fußböden absetzen. Man kann ihn mit einem Tuch abwischen oder mit dem Staubsauger aufsaugen.",
+  "beispielsatz": "Auf dem Regal liegt so viel Staub, dass man seinen Namen hineinschreiben kann.",
+  "rechtschreibstrategie": "Das Wort „Staub\" endet auf -b. Wenn du es verlängerst, hörst du das b deutlich: „Stäu-be\". So weißt du, dass am Ende ein b steht und kein p.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "staub"
+  ],
+  "bild_datei": "Staub.webp",
+  "audio_datei": "Staub.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dust"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poussière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stauben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "staubig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Staubsauger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmutz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmutz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Staub",
+    "plural": "die Stäube",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Staub",
+        "genitiv": "des Staubes",
+        "dativ": "dem Staub",
+        "akkusativ": "den Staub"
+      },
+      "plural": {
+        "nominativ": "die Stäube",
+        "genitiv": "der Stäube",
+        "dativ": "den Stäuben",
+        "akkusativ": "die Stäube"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Shtaub",
+    "Staup",
+    "Sthaub",
+    "Sdaub",
+    "Staubb"
+  ]
+}

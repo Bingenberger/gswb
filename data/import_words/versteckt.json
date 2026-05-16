@@ -1,0 +1,94 @@
+{
+  "lemma": "versteckt",
+  "wortart": "Verb",
+  "silben": "ver-steckt",
+  "begriffserklaerung": "Etwas verstecken bedeutet, es so hinzulegen, dass andere es nicht finden können. Wenn du etwas versteckst, ist es gut verborgen.",
+  "beispielsatz": "Leon versteckt das Geschenk unter seinem Bett, damit seine Schwester es nicht findet.",
+  "rechtschreibstrategie": "Das Wort kommt von „stecken\" – da hörst du das „ck\" nach dem kurzen „e\". Beim Verlängern: „er steckt\" → „sie steckten\". So weißt du, dass am Ende „ckt\" steht.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "steck"
+  ],
+  "bild_datei": "versteckt.webp",
+  "audio_datei": "versteckt.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verstecken",
+    "praesens": {
+      "ich": "verstecke",
+      "du": "versteckst",
+      "er_sie_es": "versteckt",
+      "wir": "verstecken",
+      "ihr": "versteckt",
+      "sie": "verstecken"
+    },
+    "perfekt": {
+      "ich": "habe versteckt",
+      "du": "hast versteckt",
+      "er_sie_es": "hat versteckt",
+      "wir": "haben versteckt",
+      "ihr": "habt versteckt",
+      "sie": "haben versteckt"
+    },
+    "praeteritum": {
+      "ich": "versteckte",
+      "du": "verstecktest",
+      "er_sie_es": "versteckte",
+      "wir": "versteckten",
+      "ihr": "verstecktet",
+      "sie": "versteckten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hides"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cache"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saklar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُخفي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Versteck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verbirgt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "suchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "finden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versteckspiel"
+    }
+  ],
+  "fehlschreibungen": [
+    "verstekt",
+    "versteckt",
+    "fersteckt",
+    "verschteckt"
+  ]
+}

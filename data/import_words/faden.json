@@ -1,0 +1,83 @@
+{
+  "lemma": "Faden",
+  "wortart": "Nomen",
+  "silben": "Fa-den",
+  "begriffserklaerung": "Ein Faden ist ein sehr dünner, langer Streifen aus Wolle, Baumwolle oder einem anderen Material. Man benutzt ihn zum Nähen oder Basteln.",
+  "beispielsatz": "Mama zieht den Faden durch das Nadelöhr, um das Loch in meiner Hose zu nähen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Fa-den. Das „a\" in „Fa\" ist lang, deshalb schreibt man nur ein „d\" – kein „dd\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fad"
+  ],
+  "bild_datei": "Faden.webp",
+  "audio_datei": "Faden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thread"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iplik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خيط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fädchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "auffädeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nadel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zwirn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Faden",
+    "plural": "die Fäden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Faden",
+        "genitiv": "des Fadens",
+        "dativ": "dem Faden",
+        "akkusativ": "den Faden"
+      },
+      "plural": {
+        "nominativ": "die Fäden",
+        "genitiv": "der Fäden",
+        "dativ": "den Fäden",
+        "akkusativ": "die Fäden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fadden",
+    "Fahden",
+    "Faden",
+    "Faten",
+    "Vadem",
+    "Fahdn"
+  ]
+}

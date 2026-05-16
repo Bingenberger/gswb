@@ -1,0 +1,84 @@
+{
+  "lemma": "Rucksack",
+  "wortart": "Nomen",
+  "silben": "Ruck-sack",
+  "begriffserklaerung": "Ein Rucksack ist eine Tasche mit zwei Trägern, die man auf dem Rücken trägt. Kinder nehmen ihn oft mit in die Schule oder auf Wanderungen.",
+  "beispielsatz": "Lisa packt ihre Bücher in ihren Rucksack.",
+  "rechtschreibstrategie": "Das Wort „Rucksack\" besteht aus zwei Teilen: „Ruck\" und „Sack\". Das „ck\" schreibt man immer zusammen – du hörst das kurze „u\" in „Ruck\" und das kurze „a\" in „Sack\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ruck",
+    "Sack"
+  ],
+  "bild_datei": "Rucksack.webp",
+  "audio_datei": "Rucksack.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rucksack",
+    "plural": "die Rucksäcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rucksack",
+        "genitiv": "des Rucksacks",
+        "dativ": "dem Rucksack",
+        "akkusativ": "den Rucksack"
+      },
+      "plural": {
+        "nominativ": "die Rucksäcke",
+        "genitiv": "der Rucksäcke",
+        "dativ": "den Rucksäcken",
+        "akkusativ": "die Rucksäcke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "backpack"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sac à dos"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sırt çantası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حقيبة ظهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sack"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schultasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ranzen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rukksack",
+    "Ruksack",
+    "Rucksak",
+    "Ruckzack",
+    "Rugsack"
+  ]
+}

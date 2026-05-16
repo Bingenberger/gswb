@@ -1,0 +1,83 @@
+{
+  "lemma": "Waschbär",
+  "wortart": "Nomen",
+  "silben": "Wasch-bär",
+  "begriffserklaerung": "Ein Waschbär ist ein kleines, wildes Tier mit grauem Fell, einem buschigen, geringelten Schwanz und einer schwarzen Maske um die Augen. Er heißt so, weil er sein Futter oft im Wasser „wäscht\".",
+  "beispielsatz": "Der Waschbär sitzt am Bach und taucht seine Pfoten ins Wasser.",
+  "rechtschreibstrategie": "„Waschbär\" ist ein zusammengesetztes Wort aus „waschen\" und „Bär\". Wenn du es in seine Bausteine zerlegst – Wasch + bär –, kannst du es leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "waschen",
+    "Bär"
+  ],
+  "bild_datei": "Waschbär.webp",
+  "audio_datei": "Waschbär.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "raccoon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "raton laveur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rakun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راكون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Igel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dachs"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Waschbär",
+    "plural": "die Waschbären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Waschbär",
+        "genitiv": "des Waschbären",
+        "dativ": "dem Waschbären",
+        "akkusativ": "den Waschbären"
+      },
+      "plural": {
+        "nominativ": "die Waschbären",
+        "genitiv": "der Waschbären",
+        "dativ": "den Waschbären",
+        "akkusativ": "die Waschbären"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waschbeer",
+    "Waschbähr",
+    "Wachsbär",
+    "Waschbear",
+    "Wahschbär"
+  ]
+}

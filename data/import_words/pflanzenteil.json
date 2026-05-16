@@ -1,0 +1,84 @@
+{
+  "lemma": "Pflanzenteil",
+  "wortart": "Nomen",
+  "silben": "Pflan-zen-teil",
+  "begriffserklaerung": "Ein Pflanzenteil ist ein einzelner Abschnitt einer Pflanze, zum Beispiel die Wurzel, der Stängel, das Blatt oder die Blüte.",
+  "beispielsatz": "Die Wurzel ist ein wichtiger Pflanzenteil, der die Pflanze im Boden hält.",
+  "rechtschreibstrategie": "Das Wort „Pflanzenteil\" ist aus zwei Wörtern zusammengesetzt: „Pflanze\" und „Teil\". Schreibe beide Wörter einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pflanze",
+    "Teil"
+  ],
+  "bild_datei": "Pflanzenteil.webp",
+  "audio_datei": "Pflanzenteil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plant part"
+    },
+    {
+      "language_code": "fr",
+      "translation": "partie de la plante"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bitki parçası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزء النبات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurzel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blüte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pflanzenteil",
+    "plural": "die Pflanzenteile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pflanzenteil",
+        "genitiv": "des Pflanzenteils",
+        "dativ": "dem Pflanzenteil",
+        "akkusativ": "den Pflanzenteil"
+      },
+      "plural": {
+        "nominativ": "die Pflanzenteile",
+        "genitiv": "der Pflanzenteile",
+        "dativ": "den Pflanzenteilen",
+        "akkusativ": "die Pflanzenteile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flantzenteil",
+    "Pflanzentail",
+    "Pflantzenteil",
+    "Pflanzenteil",
+    "Pflancenteil",
+    "Pflanzentaiel"
+  ]
+}

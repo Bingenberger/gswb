@@ -1,0 +1,84 @@
+{
+  "lemma": "Fahrzeug",
+  "wortart": "Nomen",
+  "silben": "Fahr-zeug",
+  "begriffserklaerung": "Ein Fahrzeug ist ein Gerät, mit dem man von einem Ort zum anderen fahren kann, zum Beispiel ein Auto, ein Fahrrad oder ein Bus.",
+  "beispielsatz": "Das rote Fahrzeug fährt schnell die Straße entlang.",
+  "rechtschreibstrategie": "Das Wort „Fahrzeug\" besteht aus zwei Bausteinen: „fahr\" (von fahren) und „zeug\". Denk beim Schreiben einfach an beide Teile!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "zeug"
+  ],
+  "bild_datei": "Fahrzeug.webp",
+  "audio_datei": "Fahrzeug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vehicle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "véhicule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "araç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مركبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gefährt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fahrzeug",
+    "plural": "die Fahrzeuge",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fahrzeug",
+        "genitiv": "des Fahrzeugs",
+        "dativ": "dem Fahrzeug",
+        "akkusativ": "das Fahrzeug"
+      },
+      "plural": {
+        "nominativ": "die Fahrzeuge",
+        "genitiv": "der Fahrzeuge",
+        "dativ": "den Fahrzeugen",
+        "akkusativ": "die Fahrzeuge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Farrzeug",
+    "Fahrzeuck",
+    "Farzöig",
+    "Farzeug",
+    "Fahrzeug"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Wein",
+  "wortart": "Nomen",
+  "silben": "Wein",
+  "begriffserklaerung": "Wein ist ein Getränk, das aus dem Saft von Weintrauben hergestellt wird. Erwachsene trinken Wein, weil er Alkohol enthält.",
+  "beispielsatz": "Meine Eltern trinken zum Abendessen manchmal ein Glas Wein.",
+  "rechtschreibstrategie": "Das Wort „Wein\" hat ein langes „ei\" in der Mitte – sprich es laut: W-ei-n. Das „ei\" schreibst du mit e und i.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Wein"
+  ],
+  "bild_datei": "Wein.webp",
+  "audio_datei": "Wein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نبيذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weintraube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weinglas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Saft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trauben"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wein",
+    "plural": "die Weine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wein",
+        "genitiv": "des Weines",
+        "dativ": "dem Wein",
+        "akkusativ": "den Wein"
+      },
+      "plural": {
+        "nominativ": "die Weine",
+        "genitiv": "der Weine",
+        "dativ": "den Weinen",
+        "akkusativ": "die Weine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vein",
+    "Wain",
+    "Wein",
+    "Weinn",
+    "Wayn"
+  ]
+}

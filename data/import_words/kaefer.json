@@ -1,0 +1,74 @@
+{
+  "lemma": "Käfer",
+  "wortart": "Nomen",
+  "silben": "Kä-fer",
+  "begriffserklaerung": "Ein Käfer ist ein kleines Tier mit sechs Beinen und einem harten Panzer auf dem Rücken. Es gehört zu den Insekten.",
+  "beispielsatz": "Der rote Käfer krabbelt langsam über das grüne Blatt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kä-fer. Das ä hörst du deutlich – denke an das Wort „käfern\" oder schreibe einfach ein ä, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Käfer"
+  ],
+  "bild_datei": "Käfer.webp",
+  "audio_datei": "Käfer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beetle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "scarabée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "böcek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خنفساء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ameise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Käfer",
+    "plural": "die Käfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Käfer",
+        "genitiv": "des Käfers",
+        "dativ": "dem Käfer",
+        "akkusativ": "den Käfer"
+      },
+      "plural": {
+        "nominativ": "die Käfer",
+        "genitiv": "der Käfer",
+        "dativ": "den Käfern",
+        "akkusativ": "die Käfer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kefer",
+    "Käffer",
+    "Käfehr",
+    "Kaefer",
+    "Cäfer"
+  ]
+}

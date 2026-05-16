@@ -1,0 +1,82 @@
+{
+  "lemma": "Gebet",
+  "wortart": "Nomen",
+  "silben": "Ge-bet",
+  "begriffserklaerung": "Ein Gebet ist das, was man zu Gott oder einer höheren Macht sagt oder denkt – zum Beispiel um Dank auszudrücken oder um Hilfe zu bitten.",
+  "beispielsatz": "Jeden Abend spricht Lena ein Gebet, bevor sie einschläft.",
+  "rechtschreibstrategie": "Das Wort kommt von „beten\". Denke beim Schreiben an den Stamm: be-TEN → Ge-BET. Das „t\" in der Mitte schreibt man einfach, weil der Vokal lang gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "bet"
+  ],
+  "bild_datei": "Gebet.webp",
+  "audio_datei": "Gebet.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "prayer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dua"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صلاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glaube"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fürbitte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebet",
+    "plural": "die Gebete",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebet",
+        "genitiv": "des Gebetes / des Gebets",
+        "dativ": "dem Gebet / dem Gebete",
+        "akkusativ": "das Gebet"
+      },
+      "plural": {
+        "nominativ": "die Gebete",
+        "genitiv": "der Gebete",
+        "dativ": "den Gebeten",
+        "akkusativ": "die Gebete"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gebett",
+    "Gebehd",
+    "Gebeht",
+    "Gebedt",
+    "Gebäht"
+  ]
+}

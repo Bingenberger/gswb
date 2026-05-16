@@ -1,0 +1,71 @@
+{
+  "lemma": "App",
+  "wortart": "Nomen",
+  "silben": "App",
+  "begriffserklaerung": "Eine App ist ein kleines Programm auf einem Smartphone oder Tablet. Mit einer App kann man spielen, lernen oder Bilder anschauen.",
+  "beispielsatz": "Ich lade eine neue App auf mein Tablet herunter.",
+  "rechtschreibstrategie": "„App\" schreibt man mit zwei p am Ende, weil der Vokal davor kurz gesprochen wird. Sprich kurz: „App\" – dann hörst du, dass ein Buchstabe allein nicht reicht!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "App.webp",
+  "audio_datei": "App.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "app"
+    },
+    {
+      "language_code": "fr",
+      "translation": "appli"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uygulama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تطبيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Smartphone"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tablet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Programm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die App",
+    "plural": "die Apps",
+    "deklination": {
+      "singular": {
+        "nominativ": "die App",
+        "genitiv": "der App",
+        "dativ": "der App",
+        "akkusativ": "die App"
+      },
+      "plural": {
+        "nominativ": "die Apps",
+        "genitiv": "der Apps",
+        "dativ": "den Apps",
+        "akkusativ": "die Apps"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ap",
+    "Aap",
+    "Abb",
+    "App's"
+  ]
+}

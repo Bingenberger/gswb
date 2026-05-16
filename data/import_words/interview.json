@@ -1,0 +1,83 @@
+{
+  "lemma": "Interview",
+  "wortart": "Nomen",
+  "silben": "In-ter-view",
+  "begriffserklaerung": "Ein Interview ist ein Gespräch, bei dem jemand einer anderen Person Fragen stellt. Das wird oft aufgeschrieben oder aufgenommen, zum Beispiel für eine Zeitung oder das Fernsehen.",
+  "beispielsatz": "Die Reporterin machte ein Interview mit dem Bürgermeister.",
+  "rechtschreibstrategie": "Das Wort „Interview\" kommt aus dem Englischen. Denk daran: Am Ende steht „-view\" – sprich es wie „wju\". Lern es einfach auswendig!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Interview"
+  ],
+  "bild_datei": "Interview.webp",
+  "audio_datei": "Interview.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "interview"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interview"
+    },
+    {
+      "language_code": "tr",
+      "translation": "röportaj"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقابلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "interviewen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Interviewer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reportage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Journalist"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Befragung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Interview",
+    "plural": "die Interviews",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Interview",
+        "genitiv": "des Interviews",
+        "dativ": "dem Interview",
+        "akkusativ": "das Interview"
+      },
+      "plural": {
+        "nominativ": "die Interviews",
+        "genitiv": "der Interviews",
+        "dativ": "den Interviews",
+        "akkusativ": "die Interviews"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Interviu",
+    "Intervjuw",
+    "Enterview",
+    "Interviev",
+    "Innterview",
+    "Interiew"
+  ]
+}

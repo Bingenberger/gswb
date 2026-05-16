@@ -1,0 +1,75 @@
+{
+  "lemma": "Exemplar",
+  "wortart": "Nomen",
+  "silben": "Ex-em-plar",
+  "begriffserklaerung": "Ein Exemplar ist ein einzelnes Stück von etwas, das es mehrmals gibt – zum Beispiel ein einzelnes Buch aus vielen gleichen Büchern.",
+  "beispielsatz": "In der Bücherei gibt es nur noch ein Exemplar dieses spannenden Romans.",
+  "rechtschreibstrategie": "Denk an das X am Anfang: Ex-em-plar. Sprich alle drei Silben deutlich mit: Ex – em – plar!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Exemplar"
+  ],
+  "bild_datei": "Exemplar.webp",
+  "audio_datei": "Exemplar.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "copy / specimen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "exemplaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kopya / nüsha"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نسخة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stück"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Exemplar",
+    "plural": "die Exemplare",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Exemplar",
+        "genitiv": "des Exemplars",
+        "dativ": "dem Exemplar",
+        "akkusativ": "das Exemplar"
+      },
+      "plural": {
+        "nominativ": "die Exemplare",
+        "genitiv": "der Exemplare",
+        "dativ": "den Exemplaren",
+        "akkusativ": "die Exemplare"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Exempler",
+    "Examplar",
+    "Exsemplar",
+    "Egzemplar",
+    "Exemplahr",
+    "Exemmplar"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Regisseur",
+  "wortart": "Nomen",
+  "silben": "Re-gis-seur",
+  "begriffserklaerung": "Ein Regisseur ist jemand, der bei einem Film oder Theaterstück bestimmt, wie alles aussehen und ablaufen soll. Er leitet die Schauspieler und sagt ihnen, was sie tun sollen.",
+  "beispielsatz": "Der Regisseur rief „Kamera läuft!\" und alle Schauspieler begannen zu spielen.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Französischen. Merke: Nach dem kurzen „i\" kommen zwei „s\" – Re-gis-seur. Das „eu\" am Ende sprichst du wie „öhr\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Regie"
+  ],
+  "bild_datei": "Regisseur.webp",
+  "audio_datei": "Regisseur.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Regisseur",
+    "plural": "die Regisseure",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Regisseur",
+        "genitiv": "des Regisseurs",
+        "dativ": "dem Regisseur",
+        "akkusativ": "den Regisseur"
+      },
+      "plural": {
+        "nominativ": "die Regisseure",
+        "genitiv": "der Regisseure",
+        "dativ": "den Regisseuren",
+        "akkusativ": "die Regisseure"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "director"
+    },
+    {
+      "language_code": "fr",
+      "translation": "réalisateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yönetmen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخرج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regisseurin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schauspieler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Film"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    }
+  ],
+  "fehlschreibungen": [
+    "Regiseur",
+    "Regißeur",
+    "Rejisseur",
+    "Regissör",
+    "Regisseuer",
+    "Regiesseur"
+  ]
+}

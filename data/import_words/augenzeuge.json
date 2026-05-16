@@ -1,0 +1,84 @@
+{
+  "lemma": "Augenzeuge",
+  "wortart": "Nomen",
+  "silben": "Au-gen-zeu-ge",
+  "begriffserklaerung": "Ein Augenzeuge ist eine Person, die etwas selbst gesehen hat – zum Beispiel einen Unfall oder ein besonderes Ereignis.",
+  "beispielsatz": "Der Augenzeuge erzählte der Polizei genau, was er gesehen hatte.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Auge\" und „Zeuge\". Sprich beide Teile einzeln: Au-gen-zeu-ge. Denk daran, dass „Zeuge\" mit „eu\" geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Auge",
+    "Zeuge"
+  ],
+  "bild_datei": "Augenzeuge.webp",
+  "audio_datei": "Augenzeuge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "eyewitness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "témoin oculaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görgü tanığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاهد عيان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeuge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeuge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unfall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Augenzeuge",
+    "plural": "die Augenzeugen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Augenzeuge",
+        "genitiv": "des Augenzeugen",
+        "dativ": "dem Augenzeugen",
+        "akkusativ": "den Augenzeugen"
+      },
+      "plural": {
+        "nominativ": "die Augenzeugen",
+        "genitiv": "der Augenzeugen",
+        "dativ": "den Augenzeugen",
+        "akkusativ": "die Augenzeugen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Augenzäuge",
+    "Augenszeuge",
+    "Augenzeugen",
+    "Augenzuge",
+    "Augenzeuge"
+  ]
+}

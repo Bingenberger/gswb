@@ -1,0 +1,96 @@
+{
+  "lemma": "hinfallen",
+  "wortart": "Verb",
+  "silben": "hin-fal-len",
+  "begriffserklaerung": "Wenn jemand hinfällt, verliert er das Gleichgewicht und landet auf dem Boden.",
+  "beispielsatz": "Auf dem glatten Eis ist Lisa hingefallen und hat sich das Knie aufgeschrammt.",
+  "rechtschreibstrategie": "Das Wort „hinfallen\" besteht aus zwei Bausteinen: „hin\" und „fallen\". Bei „fallen\" hörst du das kurze „a\" – deshalb schreibt man zwei „l\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fallen",
+    "Fall"
+  ],
+  "bild_datei": "hinfallen.webp",
+  "audio_datei": "hinfallen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to fall down"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tomber"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düşmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسقط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stürzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stolpern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rutschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufstehen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "hinfallen",
+    "praesens": {
+      "ich": "falle hin",
+      "du": "fällst hin",
+      "er_sie_es": "fällt hin",
+      "wir": "fallen hin",
+      "ihr": "fallt hin",
+      "sie": "fallen hin"
+    },
+    "perfekt": {
+      "ich": "bin hingefallen",
+      "du": "bist hingefallen",
+      "er_sie_es": "ist hingefallen",
+      "wir": "sind hingefallen",
+      "ihr": "seid hingefallen",
+      "sie": "sind hingefallen"
+    },
+    "praeteritum": {
+      "ich": "fiel hin",
+      "du": "fielst hin",
+      "er_sie_es": "fiel hin",
+      "wir": "fielen hin",
+      "ihr": "fielt hin",
+      "sie": "fielen hin"
+    }
+  },
+  "fehlschreibungen": [
+    "hinfalen",
+    "hinfahlen",
+    "hinnfallen",
+    "hinfällen",
+    "hinvallen"
+  ]
+}

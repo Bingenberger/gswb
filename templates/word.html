@@ -1,0 +1,303 @@
+{% extends "base.html" %}
+
+{% block title %}{{ word.lemma }} | Grundschul-Wörterbuch{% endblock %}
+
+{% block content %}
+{% set pos = part_of_speech_meta.get(word.part_of_speech, {"label": word.part_of_speech, "class_name": "is-generic"}) %}
+<article class="word-page word-detail-page">
+    <section class="card word-hero-card card-accent card-word-main">
+        <div class="word-hero-copy">
+            <p class="eyebrow">Das Wort</p>
+            <h1>{{ word.lemma }}</h1>
+            <div class="syllable-stack">
+                <div class="syllable-row" aria-label="Silben">
+                    {% for syllable in word.syllable_parts %}
+                    <span class="syllable-arc syllable-{{ loop.cycle('odd', 'even') }}">{{ syllable }}</span>
+                    {% endfor %}
+                </div>
+                {% if not word.syllable_parts %}
+                <p class="muted">Keine Silbenangabe vorhanden.</p>
+                {% endif %}
+            </div>
+            <div class="word-meta-row">
+                <span class="pos-pill {{ pos.class_name }}">{{ pos.label }}</span>
+            </div>
+        </div>
+        <div class="word-hero-media">
+            <div class="word-image-frame">
+                {% if word.image_exists %}
+                <img src="{{ url_for('static', filename='images/' ~ word.image_filename) }}" alt="Bild zu {{ word.lemma }}">
+                {% else %}
+                <div class="image-placeholder">
+                    <img src="{{ url_for('static', filename='images/placeholder.svg') }}" alt="">
+                    <p>Bild wird später ergänzt.</p>
+                </div>
+                {% endif %}
+            </div>
+            <div class="audio-panel">
+                <div class="section-heading compact">
+                    <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/speaker-high.svg') }}" alt="">
+                    <h2>Hören</h2>
+                </div>
+                {% if word.audio_exists %}
+                <audio controls preload="none">
+                    <source src="{{ url_for('static', filename='audio/' ~ word.audio_filename) }}" type="audio/mpeg">
+                </audio>
+                {% else %}
+                <button class="secondary-button" type="button" disabled>Audio folgt später</button>
+                {% endif %}
+            </div>
+        </div>
+    </section>
+
+    <section class="card detail-card card-accent card-understand">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/book-open-text.svg') }}" alt="">
+            <h2>Das Wort verstehen</h2>
+        </div>
+        <div class="detail-copy">
+            <p class="definition-text">{{ word.definition }}</p>
+            <div class="example-box">
+                <span class="example-label">Beispielsatz</span>
+                <p>{{ word.example_sentence }}</p>
+            </div>
+        </div>
+        <div class="translations-panel">
+            <h3>Übersetzungen</h3>
+            {% if word.translations %}
+            <ul class="translation-list">
+                {% for translation in word.translations %}
+                {% set meta = translation_meta.get(translation.language_code, {"label": translation.language_code, "flag": "🏳️"}) %}
+                <li class="translation-chip">
+                    <span class="flag">{{ meta.flag }}</span>
+                    <span class="translation-language">{{ meta.label }}</span>
+                    <span class="translation-word">{{ translation.translation }}</span>
+                </li>
+                {% endfor %}
+            </ul>
+            {% else %}
+            <p class="muted">Noch keine Übersetzungen hinterlegt.</p>
+            {% endif %}
+        </div>
+    </section>
+
+    <section class="card detail-card card-accent card-spelling">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/pencil-line.svg') }}" alt="">
+            <h2>Rechtschreibung</h2>
+        </div>
+        <div class="spelling-layout">
+            <div>
+                <h3>Rechtschreibkategorien</h3>
+                {% if word.spelling_categories %}
+                <ul class="tag-list category-list">
+                    {% for category in word.spelling_categories %}
+                    <li><a class="category-link" href="{{ url_for('main.category_words', category=category) }}">{{ category }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <p class="muted">Keine Kategorien hinterlegt.</p>
+                {% endif %}
+            </div>
+            <div>
+                <h3>Symbole</h3>
+                {% if word.spelling_categories %}
+                <ul class="symbol-list">
+                    {% for category in word.spelling_categories %}
+                    <li class="symbol-chip">
+                        <img class="symbol-chip-icon" src="{{ url_for('static', filename='vendor/phosphor/tag.svg') }}" alt="">
+                        <span>{{ category }}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <p class="muted">Symbole können später ergänzt werden.</p>
+                {% endif %}
+            </div>
+        </div>
+        <div class="strategy-box">
+            <span class="example-label">Rechtschreibstrategie</span>
+            <p>{{ word.spelling_strategy or 'Noch keine Strategie hinterlegt.' }}</p>
+        </div>
+    </section>
+
+    {% if word.misspellings %}
+    <section class="card detail-card card-accent card-misspellings">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/tag.svg') }}" alt="">
+            <h2>Häufige Fehler</h2>
+        </div>
+        <p class="muted-hint">Diese Schreibweisen sind falsch – weißt du, wo der Fehler steckt?</p>
+        <ul class="misspelling-list">
+            {% for variant in word.misspellings %}
+            <li class="misspelling-chip">
+                <span class="misspelling-x" aria-hidden="true">✗</span>
+                <span class="misspelling-word">{{ variant | capitalize }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endif %}
+
+    <section class="card detail-card card-accent card-family">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/tree-structure.svg') }}" alt="">
+            <h2>Wortfamilie und sinnverwandte Wörter</h2>
+        </div>
+        {% if word.word_family_boxes %}
+        {% for box in word.word_family_boxes %}
+        <div class="family-tree">
+            <div class="family-tree-root">
+                <span class="family-root-label">Wortstamm</span>
+                <span class="family-root-word">{{ box.family_base }}</span>
+            </div>
+            <div class="family-tree-members">
+                <a class="family-member family-member-current" href="{{ url_for('main.word_page', lemma=word.lemma) }}">{{ word.lemma }}</a>
+                {% for lemma in box.related_words %}
+                <a class="family-member" href="{{ url_for('main.word_page', lemma=lemma) }}">{{ lemma }}</a>
+                {% endfor %}
+                {% if not box.related_words %}
+                <span class="muted">Noch keine weiteren Wörter in dieser Wortfamilie.</span>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+        {% else %}
+        <p class="muted">Keine Wortfamilie hinterlegt.</p>
+        {% endif %}
+
+        {% set synonyms = word.relations_grouped.get("synonym", []) %}
+        {% if synonyms %}
+        <div class="word-field-grid" style="margin-top: 1rem;">
+            <section class="word-field-box">
+                <p class="field-title">Sinnverwandte Wörter</p>
+                <ul class="link-list">
+                    {% for lemma in synonyms %}
+                    <li><a href="{{ url_for('main.word_page', lemma=lemma) }}">{{ lemma }}</a></li>
+                    {% endfor %}
+                </ul>
+            </section>
+        </div>
+        {% endif %}
+    </section>
+
+    <section class="card detail-card card-accent card-fields">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/shapes.svg') }}" alt="">
+            <h2>Wortfelder</h2>
+        </div>
+        {% if word.word_field_boxes %}
+        <div class="word-field-grid">
+            {% for box in word.word_field_boxes %}
+            <section class="word-field-box">
+                <p class="field-title">
+                    <a href="{{ url_for('main.word_page', lemma=box.field_lemma) }}">{{ box.field_lemma }}</a>
+                </p>
+                {% if box.related_words %}
+                <ul class="link-list">
+                    {% for lemma in box.related_words %}
+                    <li><a href="{{ url_for('main.word_page', lemma=lemma) }}">{{ lemma }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% else %}
+                <p class="muted">Noch keine weiteren Wörter in diesem Wortfeld.</p>
+                {% endif %}
+            </section>
+            {% endfor %}
+        </div>
+        {% else %}
+        <p class="muted">Keine Wortfelder vorhanden.</p>
+        {% endif %}
+    </section>
+
+    <section class="card detail-card card-accent card-forms">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/text-aa.svg') }}" alt="">
+            <h2>Formen des Wortes</h2>
+        </div>
+
+        {% if word.part_of_speech == "Nomen" and word.noun_forms %}
+        <table>
+            <tr><th>Artikel</th><td>{{ word.noun_forms.article }}</td></tr>
+            <tr><th>Singular</th><td>{{ word.noun_forms.singular_form }}</td></tr>
+            <tr><th>Plural</th><td>{{ word.noun_forms.plural_form }}</td></tr>
+        </table>
+        {% if word.noun_forms.nominativ_singular or word.noun_forms.nominativ_plural %}
+        <h3>Deklination</h3>
+        <table>
+            <tr>
+                <th>Fall</th>
+                <th>Singular</th>
+                <th>Plural</th>
+            </tr>
+            <tr>
+                <th>Nominativ</th>
+                <td>{{ word.noun_forms.nominativ_singular }}</td>
+                <td>{{ word.noun_forms.nominativ_plural }}</td>
+            </tr>
+            <tr>
+                <th>Genitiv</th>
+                <td>{{ word.noun_forms.genitiv_singular }}</td>
+                <td>{{ word.noun_forms.genitiv_plural }}</td>
+            </tr>
+            <tr>
+                <th>Dativ</th>
+                <td>{{ word.noun_forms.dativ_singular }}</td>
+                <td>{{ word.noun_forms.dativ_plural }}</td>
+            </tr>
+            <tr>
+                <th>Akkusativ</th>
+                <td>{{ word.noun_forms.akkusativ_singular }}</td>
+                <td>{{ word.noun_forms.akkusativ_plural }}</td>
+            </tr>
+        </table>
+        {% endif %}
+        {% elif word.part_of_speech == "Verb" and word.verb_forms %}
+        <table>
+            <tr><th>Infinitiv</th><td>{{ word.verb_forms.infinitive }}</td></tr>
+        </table>
+
+        <h3>Präsens</h3>
+        <table>
+            <tr><th>ich</th><td>{{ word.verb_forms.ich_form }}</td></tr>
+            <tr><th>du</th><td>{{ word.verb_forms.du_form }}</td></tr>
+            <tr><th>er/sie/es</th><td>{{ word.verb_forms.er_sie_es_form }}</td></tr>
+            <tr><th>wir</th><td>{{ word.verb_forms.wir_form }}</td></tr>
+            <tr><th>ihr</th><td>{{ word.verb_forms.ihr_form }}</td></tr>
+            <tr><th>sie</th><td>{{ word.verb_forms.sie_form }}</td></tr>
+        </table>
+        {% if word.verb_forms.perfekt_ich or word.verb_forms.perfekt_du or word.verb_forms.perfekt_er_sie_es or word.verb_forms.perfekt_wir or word.verb_forms.perfekt_ihr or word.verb_forms.perfekt_sie %}
+        <h3>Perfekt</h3>
+        <table>
+            <tr><th>ich</th><td>{{ word.verb_forms.perfekt_ich }}</td></tr>
+            <tr><th>du</th><td>{{ word.verb_forms.perfekt_du }}</td></tr>
+            <tr><th>er/sie/es</th><td>{{ word.verb_forms.perfekt_er_sie_es }}</td></tr>
+            <tr><th>wir</th><td>{{ word.verb_forms.perfekt_wir }}</td></tr>
+            <tr><th>ihr</th><td>{{ word.verb_forms.perfekt_ihr }}</td></tr>
+            <tr><th>sie</th><td>{{ word.verb_forms.perfekt_sie }}</td></tr>
+        </table>
+        {% endif %}
+
+        {% if word.verb_forms.praeteritum_ich or word.verb_forms.praeteritum_du or word.verb_forms.praeteritum_er_sie_es or word.verb_forms.praeteritum_wir or word.verb_forms.praeteritum_ihr or word.verb_forms.praeteritum_sie %}
+        <h3>Präteritum</h3>
+        <table>
+            <tr><th>ich</th><td>{{ word.verb_forms.praeteritum_ich }}</td></tr>
+            <tr><th>du</th><td>{{ word.verb_forms.praeteritum_du }}</td></tr>
+            <tr><th>er/sie/es</th><td>{{ word.verb_forms.praeteritum_er_sie_es }}</td></tr>
+            <tr><th>wir</th><td>{{ word.verb_forms.praeteritum_wir }}</td></tr>
+            <tr><th>ihr</th><td>{{ word.verb_forms.praeteritum_ihr }}</td></tr>
+            <tr><th>sie</th><td>{{ word.verb_forms.praeteritum_sie }}</td></tr>
+        </table>
+        {% endif %}
+        {% elif word.part_of_speech == "Adjektiv" and word.adjective_forms %}
+        <table>
+            <tr><th>Positiv</th><td>{{ word.adjective_forms.positive_form }}</td></tr>
+            <tr><th>Komparativ</th><td>{{ word.adjective_forms.comparative_form }}</td></tr>
+            <tr><th>Superlativ</th><td>{{ word.adjective_forms.superlative_form }}</td></tr>
+        </table>
+        {% else %}
+        <p class="muted">Für dieses Wort sind noch keine Formen hinterlegt.</p>
+        {% endif %}
+    </section>
+</article>
+{% endblock %}

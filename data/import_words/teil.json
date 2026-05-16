@@ -1,0 +1,94 @@
+{
+  "lemma": "Teil",
+  "wortart": "Nomen",
+  "silben": "Teil",
+  "begriffserklaerung": "Ein Teil ist ein Stück von etwas Größerem. Mehrere Teile zusammen ergeben ein Ganzes.",
+  "beispielsatz": "Ein Teil des Puzzles fehlt noch.",
+  "rechtschreibstrategie": "Wenn du „Teil\" verlängerst, hörst du das „l\" deutlich: Tei-le. Deshalb schreibt man am Ende nur ein „l\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "teil"
+  ],
+  "bild_datei": "Teil.webp",
+  "audio_datei": "Teil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "part"
+    },
+    {
+      "language_code": "fr",
+      "translation": "partie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parça"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "teilen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anteil"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Viertel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ganzes"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hälfte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Puzzle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teil",
+    "plural": "die Teile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teil",
+        "genitiv": "des Teils",
+        "dativ": "dem Teil",
+        "akkusativ": "den Teil"
+      },
+      "plural": {
+        "nominativ": "die Teile",
+        "genitiv": "der Teile",
+        "dativ": "den Teilen",
+        "akkusativ": "die Teile"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Teill",
+    "Teil'",
+    "Deil",
+    "Teiel",
+    "Theil"
+  ]
+}

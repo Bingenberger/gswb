@@ -1,0 +1,72 @@
+{
+  "lemma": "Parcours",
+  "wortart": "Nomen",
+  "silben": "Par-cours",
+  "begriffserklaerung": "Ein Parcours ist eine Strecke mit Hindernissen, die man zu Fuß, auf dem Fahrrad oder beim Sport überwinden muss.",
+  "beispielsatz": "Die Kinder laufen begeistert durch den bunten Parcours auf dem Schulhof.",
+  "rechtschreibstrategie": "„Parcours\" kommt aus dem Französischen und wird genauso geschrieben, wie es dort üblich ist – merke dir die ungewöhnliche Schreibung mit „ou\" am Ende!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Parcours.webp",
+  "audio_datei": "Parcours.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "obstacle course"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parcours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "engel parkuru"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار العقبات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hindernis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strecke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hindernisparcours"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Parcours",
+    "plural": "die Parcours",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Parcours",
+        "genitiv": "des Parcours",
+        "dativ": "dem Parcours",
+        "akkusativ": "den Parcours"
+      },
+      "plural": {
+        "nominativ": "die Parcours",
+        "genitiv": "der Parcours",
+        "dativ": "den Parcours",
+        "akkusativ": "die Parcours"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Parkour",
+    "Parkours",
+    "Parcour",
+    "Parkhurs",
+    "Parkuhrs"
+  ]
+}

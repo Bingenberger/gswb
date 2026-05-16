@@ -1,0 +1,78 @@
+{
+  "lemma": "Sekunde",
+  "wortart": "Nomen",
+  "silben": "Se-kun-de",
+  "begriffserklaerung": "Eine Sekunde ist eine sehr kurze Zeit. 60 Sekunden ergeben eine Minute.",
+  "beispielsatz": "In einer Sekunde kann man einmal schnell mit den Fingern schnippen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Se – kun – de. Achte auf das „k\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sekunde",
+    "plural": "die Sekunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sekunde",
+        "genitiv": "der Sekunde",
+        "dativ": "der Sekunde",
+        "akkusativ": "die Sekunde"
+      },
+      "plural": {
+        "nominativ": "die Sekunden",
+        "genitiv": "der Sekunden",
+        "dativ": "den Sekunden",
+        "akkusativ": "die Sekunden"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Sekunde"
+  ],
+  "fehlschreibungen": [
+    "Sekunde",
+    "Zekunde",
+    "Secunde",
+    "Sekunnde",
+    "Sekunte"
+  ],
+  "bild_datei": "Sekunde.webp",
+  "audio_datei": "Sekunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "second"
+    },
+    {
+      "language_code": "fr",
+      "translation": "seconde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saniye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ثانية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sekundenlang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minute"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ]
+}

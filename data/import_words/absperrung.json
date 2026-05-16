@@ -1,0 +1,92 @@
+{
+  "lemma": "Absperrung",
+  "wortart": "Nomen",
+  "silben": "Ab-sper-rung",
+  "begriffserklaerung": "Eine Absperrung ist eine Schranke oder ein Zaun, der einen Weg versperrt, damit niemand hindurchgehen kann.",
+  "beispielsatz": "Die Polizei hat eine Absperrung aufgestellt, damit die Autos nicht durch die Straße fahren können.",
+  "rechtschreibstrategie": "Das Wort „Absperrung\" besteht aus drei Bausteinen: „ab\" + „sperr\" + „ung\". Das doppelte „rr\" erkennst du, wenn du das Wort verlängerst: „sperren\" – da hörst du das kurze „e\" vor dem „rr\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sperr"
+  ],
+  "bild_datei": "Absperrung.webp",
+  "audio_datei": "Absperrung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Absperrung",
+    "plural": "die Absperrungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Absperrung",
+        "genitiv": "der Absperrung",
+        "dativ": "der Absperrung",
+        "akkusativ": "die Absperrung"
+      },
+      "plural": {
+        "nominativ": "die Absperrungen",
+        "genitiv": "der Absperrungen",
+        "dativ": "den Absperrungen",
+        "akkusativ": "die Absperrungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "barrier"
+    },
+    {
+      "language_code": "fr",
+      "translation": "barrage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "barikat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاجز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sperren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sperre"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schranke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sperre"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaun"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abspärung",
+    "Absperrüng",
+    "Abspeerung",
+    "Absperre",
+    "Absperung"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Handschlag",
+  "wortart": "Nomen",
+  "silben": "Hand-schlag",
+  "begriffserklaerung": "Ein Handschlag ist, wenn zwei Menschen sich gegenseitig die Hand nehmen und kurz schütteln. Das macht man zur Begrüßung oder um etwas zu versprechen.",
+  "beispielsatz": "Nach dem Spiel gaben sich die beiden Mannschaften einen freundlichen Handschlag.",
+  "rechtschreibstrategie": "„Handschlag\" ist ein zusammengesetztes Wort aus „Hand\" und „Schlag\". Schreibe beide Teile einfach hintereinander: Hand + Schlag = Handschlag.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "schlag"
+  ],
+  "bild_datei": "Handschlag.webp",
+  "audio_datei": "Handschlag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handshake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poignée de main"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el sıkışma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصافحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Begrüßung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Versprechen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Händedruck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handschlag",
+    "plural": "die Handschläge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handschlag",
+        "genitiv": "des Handschlags",
+        "dativ": "dem Handschlag",
+        "akkusativ": "den Handschlag"
+      },
+      "plural": {
+        "nominativ": "die Handschläge",
+        "genitiv": "der Handschläge",
+        "dativ": "den Handschlägen",
+        "akkusativ": "die Handschläge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handschlag",
+    "Hantschlag",
+    "Handschag",
+    "Handslag",
+    "Handschlack",
+    "Hanschlag"
+  ]
+}

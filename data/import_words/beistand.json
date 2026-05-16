@@ -1,0 +1,90 @@
+{
+  "lemma": "Beistand",
+  "wortart": "Nomen",
+  "silben": "Bei-stand",
+  "begriffserklaerung": "Beistand bedeutet, dass jemand dir hilft und für dich da ist, wenn du Hilfe brauchst.",
+  "beispielsatz": "Als ich gestürzt bin, hat mir meine beste Freundin Beistand geleistet und mich getröstet.",
+  "rechtschreibstrategie": "Das Wort „Beistand\" ist ein Bausteinwort: „Bei\" + „Stand\". Sprich beide Teile deutlich: Bei – stand.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stehen",
+    "Stand",
+    "bei"
+  ],
+  "bild_datei": "Beistand.webp",
+  "audio_datei": "Beistand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "support"
+    },
+    {
+      "language_code": "fr",
+      "translation": "soutien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "destek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مساندة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hilfe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterstützung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fürsorge"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Beistand",
+    "plural": "die Beistände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Beistand",
+        "genitiv": "des Beistands",
+        "dativ": "dem Beistand",
+        "akkusativ": "den Beistand"
+      },
+      "plural": {
+        "nominativ": "die Beistände",
+        "genitiv": "der Beistände",
+        "dativ": "den Beiständen",
+        "akkusativ": "die Beistände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Beishtand",
+    "Beistand",
+    "Baistand",
+    "Beystand",
+    "Beistandt",
+    "Beistandd"
+  ]
+}

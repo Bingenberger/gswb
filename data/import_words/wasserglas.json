@@ -1,0 +1,88 @@
+{
+  "lemma": "Wasserglas",
+  "wortart": "Nomen",
+  "silben": "Was-ser-glas",
+  "begriffserklaerung": "Ein Wasserglas ist ein Trinkgefäß aus Glas, das man meistens für Wasser benutzt.",
+  "beispielsatz": "Ich stelle ein volles Wasserglas auf den Tisch.",
+  "rechtschreibstrategie": "Das Wort „Wasserglas\" ist zusammengesetzt aus „Wasser\" und „Glas\". Bei „Wasser\" hörst du ein kurzes „a\" – deshalb schreibt man zwei „s\". Sprich beide Teile laut mit!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Glas"
+  ],
+  "bild_datei": "Wasserglas.webp",
+  "audio_datei": "Wasserglas.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wasserglas",
+    "plural": "die Wassergläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wasserglas",
+        "genitiv": "des Wasserglases",
+        "dativ": "dem Wasserglas",
+        "akkusativ": "das Wasserglas"
+      },
+      "plural": {
+        "nominativ": "die Wassergläser",
+        "genitiv": "der Wassergläser",
+        "dativ": "den Wassergläsern",
+        "akkusativ": "die Wassergläser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water glass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verre d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su bardağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوب ماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkglas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkglas"
+    }
+  ],
+  "fehlschreibungen": [
+    "Waserglas",
+    "Wasserglass",
+    "Wasserglaß",
+    "Wässerglas",
+    "Wasserglас"
+  ]
+}

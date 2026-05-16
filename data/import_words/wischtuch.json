@@ -1,0 +1,84 @@
+{
+  "lemma": "Wischtuch",
+  "wortart": "Nomen",
+  "silben": "Wisch-tuch",
+  "begriffserklaerung": "Ein Wischtuch ist ein Tuch, mit dem man Flächen sauber wischt, zum Beispiel einen Tisch oder eine Küche.",
+  "beispielsatz": "Mama nimmt ein Wischtuch und putzt den Tisch damit ab.",
+  "rechtschreibstrategie": "Das Wort „Wischtuch\" ist aus zwei Teilen gebaut: „wisch\" und „tuch\". Sprich beide Teile laut: Wisch – tuch!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wisch",
+    "tuch"
+  ],
+  "bild_datei": "Wischtuch.webp",
+  "audio_datei": "Wischtuch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wischtuch",
+    "plural": "die Wischtücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wischtuch",
+        "genitiv": "des Wischtuchs",
+        "dativ": "dem Wischtuch",
+        "akkusativ": "das Wischtuch"
+      },
+      "plural": {
+        "nominativ": "die Wischtücher",
+        "genitiv": "der Wischtücher",
+        "dativ": "den Wischtüchern",
+        "akkusativ": "die Wischtücher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cleaning cloth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chiffon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "silme bezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قماش التنظيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Putzlappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Putzlappen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wischtug",
+    "Wischttuch",
+    "Vischtuch",
+    "Wischtüch",
+    "Wischttug"
+  ]
+}

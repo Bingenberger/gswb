@@ -1,0 +1,95 @@
+{
+  "lemma": "sitzen",
+  "wortart": "Verb",
+  "silben": "sit-zen",
+  "begriffserklaerung": "Wenn du sitzt, ruhst du auf deinem Hintern – zum Beispiel auf einem Stuhl oder auf dem Boden.",
+  "beispielsatz": "Die Kinder sitzen ruhig auf ihren Stühlen im Klassenzimmer.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „tz\" – das zeigt, dass der Vokal kurz ist. Denk daran: kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "sitz"
+  ],
+  "bild_datei": "sitzen.webp",
+  "audio_datei": "sitzen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sitzen",
+    "praesens": {
+      "ich": "sitze",
+      "du": "sitzt",
+      "er_sie_es": "sitzt",
+      "wir": "sitzen",
+      "ihr": "sitzt",
+      "sie": "sitzen"
+    },
+    "perfekt": {
+      "ich": "habe gesessen",
+      "du": "hast gesessen",
+      "er_sie_es": "hat gesessen",
+      "wir": "haben gesessen",
+      "ihr": "habt gesessen",
+      "sie": "haben gesessen"
+    },
+    "praeteritum": {
+      "ich": "saß",
+      "du": "saßt",
+      "er_sie_es": "saß",
+      "wir": "saßen",
+      "ihr": "saßt",
+      "sie": "saßen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "être assis"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يجلس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sitz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sessel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hocken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "liegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "knien"
+    }
+  ],
+  "fehlschreibungen": [
+    "sizen",
+    "sizzen",
+    "sitsen",
+    "säßen",
+    "gesesen",
+    "geseßen"
+  ]
+}

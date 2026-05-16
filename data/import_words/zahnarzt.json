@@ -1,0 +1,83 @@
+{
+  "lemma": "Zahnarzt",
+  "wortart": "Nomen",
+  "silben": "Zahn-arzt",
+  "begriffserklaerung": "Ein Zahnarzt ist ein Arzt, der sich um deine Zähne kümmert. Er untersucht sie, reinigt sie und hilft, wenn ein Zahn wehtut.",
+  "beispielsatz": "Zweimal im Jahr gehe ich zum Zahnarzt, damit meine Zähne gesund bleiben.",
+  "rechtschreibstrategie": "„Zahnarzt\" ist ein zusammengesetztes Wort aus „Zahn\" und „Arzt\". Schreib einfach beide Wörter hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn",
+    "Arzt"
+  ],
+  "bild_datei": "Zahnarzt.webp",
+  "audio_datei": "Zahnarzt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dentist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dentiste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diş hekimi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب الأسنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Praxis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dentist"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zahnarzt",
+    "plural": "die Zahnärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zahnarzt",
+        "genitiv": "des Zahnarztes",
+        "dativ": "dem Zahnarzt",
+        "akkusativ": "den Zahnarzt"
+      },
+      "plural": {
+        "nominativ": "die Zahnärzte",
+        "genitiv": "der Zahnärzte",
+        "dativ": "den Zahnärzten",
+        "akkusativ": "die Zahnärzte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zanarzt",
+    "Zahnartz",
+    "Zannarzt",
+    "Zahnarst",
+    "Zahnartzt"
+  ]
+}

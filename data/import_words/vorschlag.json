@@ -1,0 +1,90 @@
+{
+  "lemma": "Vorschlag",
+  "wortart": "Nomen",
+  "silben": "Vor-schlag",
+  "begriffserklaerung": "Ein Vorschlag ist eine Idee, die man anderen Menschen nennt, damit sie darüber nachdenken und entscheiden können.",
+  "beispielsatz": "Lisa hatte einen tollen Vorschlag: „Lasst uns zusammen ein Buch lesen!\"",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „vor\" und „Schlag\". Sprich beide Teile laut mit: VOR-SCHLAG. Das „sch\" schreibt man immer mit s-c-h zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schlag",
+    "vor"
+  ],
+  "bild_datei": "Vorschlag.webp",
+  "audio_datei": "Vorschlag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "suggestion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "proposition"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öneri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اقتراح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vorschlagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlag"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Idee"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tipp"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meinung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entscheidung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vorschlag",
+    "plural": "die Vorschläge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vorschlag",
+        "genitiv": "des Vorschlags",
+        "dativ": "dem Vorschlag",
+        "akkusativ": "den Vorschlag"
+      },
+      "plural": {
+        "nominativ": "die Vorschläge",
+        "genitiv": "der Vorschläge",
+        "dativ": "den Vorschlägen",
+        "akkusativ": "die Vorschläge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vorschlag",
+    "Forschlag",
+    "Vorshlag",
+    "Vorslag",
+    "Vorrschlag",
+    "Vorschlak"
+  ]
+}

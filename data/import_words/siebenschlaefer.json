@@ -1,0 +1,85 @@
+{
+  "lemma": "Siebenschläfer",
+  "wortart": "Nomen",
+  "silben": "Sie-ben-schlä-fer",
+  "begriffserklaerung": "Der Siebenschläfer ist ein kleines, niedliches Nagetier mit großen Augen und einem buschigen Schwanz. Er schläft den ganzen Winter lang – das nennt man Winterschlaf.",
+  "beispielsatz": "Der Siebenschläfer schläft fast sieben Monate lang in seiner Höhle.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „sieben\" und „Schläfer\". Denk an die Zahl „sieben\" und das Wort „schlafen\" – der Siebenschläfer schläft sehr lange!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sieben",
+    "Schlaf"
+  ],
+  "bild_datei": "Siebenschläfer.webp",
+  "audio_datei": "Siebenschläfer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Siebenschläfer",
+    "plural": "die Siebenschläfer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Siebenschläfer",
+        "genitiv": "des Siebenschläfers",
+        "dativ": "dem Siebenschläfer",
+        "akkusativ": "den Siebenschläfer"
+      },
+      "plural": {
+        "nominativ": "die Siebenschläfer",
+        "genitiv": "der Siebenschläfer",
+        "dativ": "den Siebenschläfern",
+        "akkusativ": "die Siebenschläfer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dormouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "loir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yedi uyur (sincap türü)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبع نايم (قوارض صغيرة)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winterschlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nagetier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichhörnchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sibenschläfer",
+    "Siebenschlaefer",
+    "Siebenschlefer",
+    "Siebenschlähfer",
+    "Siebenschläffer",
+    "Siebenschschläfer"
+  ]
+}

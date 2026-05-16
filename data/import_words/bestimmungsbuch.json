@@ -1,0 +1,84 @@
+{
+  "lemma": "Bestimmungsbuch",
+  "wortart": "Nomen",
+  "silben": "Be-stim-mungs-buch",
+  "begriffserklaerung": "Ein Bestimmungsbuch ist ein Buch, mit dem du Tiere, Pflanzen oder Pilze erkennen und ihren Namen herausfinden kannst. Es enthält viele Bilder und Beschreibungen.",
+  "beispielsatz": "Mit meinem Bestimmungsbuch habe ich den bunten Schmetterling im Garten erkannt.",
+  "rechtschreibstrategie": "Das Wort „Bestimmungsbuch\" ist aus drei Bausteinen zusammengesetzt: „Be-stimmung\" + „s\" + „Buch\". Das doppelte m kommt vom kurzen i in „stimmen\" – nach einem kurzen Vokal wird der Konsonant verdoppelt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stimm",
+    "Buch"
+  ],
+  "bild_datei": "Bestimmungsbuch.webp",
+  "audio_datei": "Bestimmungsbuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "field guide"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guide d'identification"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tanımlama kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب التعرف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bestimmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Naturführer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lexikon"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Naturführer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bestimmungsbuch",
+    "plural": "die Bestimmungsbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bestimmungsbuch",
+        "genitiv": "des Bestimmungsbuches",
+        "dativ": "dem Bestimmungsbuch",
+        "akkusativ": "das Bestimmungsbuch"
+      },
+      "plural": {
+        "nominativ": "die Bestimmungsbücher",
+        "genitiv": "der Bestimmungsbücher",
+        "dativ": "den Bestimmungsbüchern",
+        "akkusativ": "die Bestimmungsbücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bestimungsbuch",
+    "Bestimmungsbuhc",
+    "Bestimmmungsbuch",
+    "Bestimmunsbuch",
+    "Bestimmungsbuck"
+  ]
+}

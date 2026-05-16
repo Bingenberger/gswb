@@ -1,0 +1,82 @@
+{
+  "lemma": "Fliege",
+  "wortart": "Nomen",
+  "silben": "Flie-ge",
+  "begriffserklaerung": "Eine Fliege ist ein kleines Insekt mit zwei Flügeln. Fliegen leben überall und ernähren sich oft von Lebensmitteln oder Abfällen.",
+  "beispielsatz": "Die Fliege sitzt auf dem Fenster und putzt ihre Vorderbeine.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" in „Fliege\" – es klingt wie ein langes „i\". Merk dir: Die Fliege fliegt – beide Wörter haben ein „ie\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "flieg"
+  ],
+  "bild_datei": "Fliege.webp",
+  "audio_datei": "Fliege.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fliege",
+    "plural": "die Fliegen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fliege",
+        "genitiv": "der Fliege",
+        "dativ": "der Fliege",
+        "akkusativ": "die Fliege"
+      },
+      "plural": {
+        "nominativ": "die Fliegen",
+        "genitiv": "der Fliegen",
+        "dativ": "den Fliegen",
+        "akkusativ": "die Fliegen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fly"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mouche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sinek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ذبابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flieger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mücke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flihge",
+    "Flige",
+    "Flyge",
+    "Fliegge",
+    "Flieje"
+  ]
+}

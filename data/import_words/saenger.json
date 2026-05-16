@@ -1,0 +1,82 @@
+{
+  "lemma": "Sänger",
+  "wortart": "Nomen",
+  "silben": "Sän-ger",
+  "begriffserklaerung": "Ein Sänger ist ein Mensch, der singt – zum Beispiel in einer Band, in einem Chor oder auf einer Bühne.",
+  "beispielsatz": "Der Sänger singt ein schönes Lied auf der Bühne.",
+  "rechtschreibstrategie": "Denke an das Wort „singen\" – der Umlaut ä kommt von dem „a\" in „sang\". Schreibe also Sä-nger mit ä!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sing"
+  ],
+  "bild_datei": "Sänger.webp",
+  "audio_datei": "Sänger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "singer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chanteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarkıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مغنٍّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "singen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sängerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musiker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chor"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Solist"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sänger",
+    "plural": "die Sänger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sänger",
+        "genitiv": "des Sängers",
+        "dativ": "dem Sänger",
+        "akkusativ": "den Sänger"
+      },
+      "plural": {
+        "nominativ": "die Sänger",
+        "genitiv": "der Sänger",
+        "dativ": "den Sängern",
+        "akkusativ": "die Sänger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Saenger",
+    "Senger",
+    "Säncker",
+    "Sängger",
+    "Zänger"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Handwerker",
+  "wortart": "Nomen",
+  "silben": "Hand-wer-ker",
+  "begriffserklaerung": "Ein Handwerker ist ein Mensch, der mit seinen Händen und mit Werkzeug arbeitet, zum Beispiel als Tischler, Maurer oder Klempner.",
+  "beispielsatz": "Der Handwerker repariert das kaputte Fenster in unserem Haus.",
+  "rechtschreibstrategie": "Denk an die zwei Wortbausteine: HAND + WERK + ER. Sprich beide Teile laut: „Hand\" und „Werk\" – dann schreibst du das Wort richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Hand",
+    "Werk"
+  ],
+  "bild_datei": "Handwerker.webp",
+  "audio_datei": "Handwerker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "craftsman"
+    },
+    {
+      "language_code": "fr",
+      "translation": "artisan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zanaatkâr"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حرفي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handwerk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "handwerklich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baustelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fachmann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Handwerker",
+    "plural": "die Handwerker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Handwerker",
+        "genitiv": "des Handwerkers",
+        "dativ": "dem Handwerker",
+        "akkusativ": "den Handwerker"
+      },
+      "plural": {
+        "nominativ": "die Handwerker",
+        "genitiv": "der Handwerker",
+        "dativ": "den Handwerkern",
+        "akkusativ": "die Handwerker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handwärker",
+    "Handwercker",
+    "Hantwärker",
+    "Handwerker",
+    "Hantwerker",
+    "Handwerkker"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Sportler",
+  "wortart": "Nomen",
+  "silben": "Sport-ler",
+  "begriffserklaerung": "Ein Sportler ist eine Person, die regelmäßig Sport treibt und an Wettkämpfen oder Übungen teilnimmt.",
+  "beispielsatz": "Der Sportler trainiert jeden Tag fleißig für den großen Wettkampf.",
+  "rechtschreibstrategie": "Denk an das Wort „Sport\" – das steckt vorne drin! Dann kommt die Nachsilbe „-ler\": Sport + ler = Sportler.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sport"
+  ],
+  "bild_datei": "Sportler.webp",
+  "audio_datei": "Sportler.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sportler",
+    "plural": "die Sportler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sportler",
+        "genitiv": "des Sportlers",
+        "dativ": "dem Sportler",
+        "akkusativ": "den Sportler"
+      },
+      "plural": {
+        "nominativ": "die Sportler",
+        "genitiv": "der Sportler",
+        "dativ": "den Sportlern",
+        "akkusativ": "die Sportler"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "athlete"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sportif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sporcu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رياضي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sportlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Athlet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Training"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sportlер",
+    "Spordler",
+    "Sportleer",
+    "Sbortler",
+    "Sportller"
+  ]
+}

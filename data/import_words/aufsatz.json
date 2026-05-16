@@ -1,0 +1,83 @@
+{
+  "lemma": "Aufsatz",
+  "wortart": "Nomen",
+  "silben": "Auf-satz",
+  "begriffserklaerung": "Ein Aufsatz ist ein Text, den du selbst schreibst – zum Beispiel in der Schule. Du erzählst darin etwas oder beschreibst etwas genau.",
+  "beispielsatz": "In der Schule schreibe ich heute einen Aufsatz über meinen Sommerurlaub.",
+  "rechtschreibstrategie": "Das Wort „Aufsatz\" besteht aus zwei Bausteinen: „auf\" und „Satz\". Sprich beide Teile deutlich: AUF – SATZ. Das „z\" am Ende kommt vom Baustein „Satz\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "setzen",
+    "Satz"
+  ],
+  "bild_datei": "Aufsatz.webp",
+  "audio_datei": "Aufsatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "essay"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rédaction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kompozisyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "setzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Text"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulaufsatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Aufsatz",
+    "plural": "die Aufsätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Aufsatz",
+        "genitiv": "des Aufsatzes",
+        "dativ": "dem Aufsatz",
+        "akkusativ": "den Aufsatz"
+      },
+      "plural": {
+        "nominativ": "die Aufsätze",
+        "genitiv": "der Aufsätze",
+        "dativ": "den Aufsätzen",
+        "akkusativ": "die Aufsätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aufsaz",
+    "Auffsatz",
+    "Aufsattz",
+    "Aufssatz",
+    "Aufsatze"
+  ]
+}

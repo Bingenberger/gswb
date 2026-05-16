@@ -1,0 +1,82 @@
+{
+  "lemma": "Kontinent",
+  "wortart": "Nomen",
+  "silben": "Kon-ti-nent",
+  "begriffserklaerung": "Ein Kontinent ist eine sehr große Landfläche auf der Erde. Es gibt sieben Kontinente: Europa, Asien, Afrika, Nordamerika, Südamerika, Australien und die Antarktis.",
+  "beispielsatz": "Europa ist der Kontinent, auf dem wir leben.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Kon-ti-nent. Achte auf das „t\" in der Mitte – man hört es deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kontinent"
+  ],
+  "bild_datei": "Kontinent.webp",
+  "audio_datei": "Kontinent.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "continent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "continent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kıta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kontinental"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erdteil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ozean"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erdteil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kontinent",
+    "plural": "die Kontinente",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kontinent",
+        "genitiv": "des Kontinents",
+        "dativ": "dem Kontinent",
+        "akkusativ": "den Kontinent"
+      },
+      "plural": {
+        "nominativ": "die Kontinente",
+        "genitiv": "der Kontinente",
+        "dativ": "den Kontinenten",
+        "akkusativ": "die Kontinente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kontienent",
+    "Kontinend",
+    "Kontinant",
+    "Kondinend",
+    "Kontinnent"
+  ]
+}

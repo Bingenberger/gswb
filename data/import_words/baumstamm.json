@@ -1,0 +1,83 @@
+{
+  "lemma": "Baumstamm",
+  "wortart": "Nomen",
+  "silben": "Baum-stamm",
+  "beispielsatz": "Der dicke Baumstamm ist so groß, dass ich ihn nicht umarmen kann.",
+  "begriffserklaerung": "Der Baumstamm ist der dicke, runde Hauptteil eines Baumes. Er wächst zwischen den Wurzeln und den Ästen.",
+  "rechtschreibstrategie": "„Baumstamm\" ist aus zwei Wörtern zusammengesetzt: „Baum\" und „Stamm\". Das mm am Ende kommt vom kurzen a in „Stamm\" – man hört: stam-mm!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Baum",
+    "Stamm"
+  ],
+  "bild_datei": "Baumstamm.webp",
+  "audio_datei": "Baumstamm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tree trunk"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tronc d'arbre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağaç gövdesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جذع الشجرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ast"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wurzel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rinde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Baumstamm",
+    "plural": "die Baumstämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Baumstamm",
+        "genitiv": "des Baumstammes",
+        "dativ": "dem Baumstamm",
+        "akkusativ": "den Baumstamm"
+      },
+      "plural": {
+        "nominativ": "die Baumstämme",
+        "genitiv": "der Baumstämme",
+        "dativ": "den Baumstämmen",
+        "akkusativ": "die Baumstämme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Baumstam",
+    "Baumstamb",
+    "Baumshtamm",
+    "Baumstammt"
+  ]
+}

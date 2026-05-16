@@ -1,0 +1,73 @@
+{
+  "lemma": "Rabatt",
+  "wortart": "Nomen",
+  "silben": "Ra-batt",
+  "begriffserklaerung": "Ein Rabatt ist ein Preisnachlass beim Einkaufen. Das bedeutet: Du zahlst weniger als den normalen Preis.",
+  "beispielsatz": "Im Spielzeuggeschäft gibt es heute 20 Prozent Rabatt, deshalb ist das Buch viel günstiger.",
+  "rechtschreibstrategie": "Sprich das Wort genau mit: Ra-batt. Höre das kurze „a\" – danach schreibst du „tt\", weil der Vokal kurz ist: Rabatt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Rabatt.webp",
+  "audio_datei": "Rabatt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "discount"
+    },
+    {
+      "language_code": "fr",
+      "translation": "remise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "indirim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خصم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Angebot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Preisnachlass"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rabatt",
+    "plural": "die Rabatte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rabatt",
+        "genitiv": "des Rabatts",
+        "dativ": "dem Rabatt",
+        "akkusativ": "den Rabatt"
+      },
+      "plural": {
+        "nominativ": "die Rabatte",
+        "genitiv": "der Rabatte",
+        "dativ": "den Rabatten",
+        "akkusativ": "die Rabatte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rabat",
+    "Rабatt",
+    "Raabatt",
+    "Rabbatt",
+    "Rabart",
+    "Rabattt"
+  ]
+}

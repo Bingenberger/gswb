@@ -1,0 +1,88 @@
+{
+  "lemma": "Bootfahrt",
+  "wortart": "Nomen",
+  "silben": "Boot-fahrt",
+  "begriffserklaerung": "Eine Bootfahrt ist eine Reise oder ein Ausflug, den man auf dem Wasser in einem Boot macht.",
+  "beispielsatz": "Am Sonntag machen wir eine Bootfahrt auf dem See.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Boot\" und „Fahrt\". Beide Wörter schreibst du einfach zusammen. Denk daran: „Boot\" hat ein langes O und wird mit zwei O geschrieben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Boot",
+    "fahrt"
+  ],
+  "bild_datei": "Bootfahrt.webp",
+  "audio_datei": "Bootfahrt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bootfahrt",
+    "plural": "die Bootfahrten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bootfahrt",
+        "genitiv": "der Bootfahrt",
+        "dativ": "der Bootfahrt",
+        "akkusativ": "die Bootfahrt"
+      },
+      "plural": {
+        "nominativ": "die Bootfahrten",
+        "genitiv": "der Bootfahrten",
+        "dativ": "den Bootfahrten",
+        "akkusativ": "die Bootfahrten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boat trip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tour en bateau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tekne gezisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة بالقارب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Boot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bootsausflug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Segelboot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ruderboot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    }
+  ],
+  "fehlschreibungen": [
+    "Botfahrt",
+    "Boottfahrt",
+    "Bootfart",
+    "Bootfahd",
+    "Butfahrt"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Küken",
+  "wortart": "Nomen",
+  "silben": "Kü-ken",
+  "begriffserklaerung": "Ein Küken ist ein gerade aus dem Ei geschlüpftes junges Huhn. Es ist klein, flauschig und gelb.",
+  "beispielsatz": "Das kleine Küken piept laut und sucht seine Mutter.",
+  "rechtschreibstrategie": "Das Wort „Küken\" hat ein langes Ü. Denk daran: Es wird nur mit einem „k\" in der Mitte geschrieben – Kü-ken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Küken.webp",
+  "audio_datei": "Küken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poussin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "civciv"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتكوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Küken",
+    "plural": "die Küken",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Küken",
+        "genitiv": "des Kükens",
+        "dativ": "dem Küken",
+        "akkusativ": "das Küken"
+      },
+      "plural": {
+        "nominativ": "die Küken",
+        "genitiv": "der Küken",
+        "dativ": "den Küken",
+        "akkusativ": "die Küken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kücken",
+    "Küken",
+    "Kükan",
+    "Kühken",
+    "Cüken"
+  ]
+}

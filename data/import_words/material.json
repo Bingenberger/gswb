@@ -1,0 +1,82 @@
+{
+  "lemma": "Material",
+  "wortart": "Nomen",
+  "silben": "Ma-te-ri-al",
+  "begriffserklaerung": "Ein Material ist ein Stoff oder eine Sache, aus der man etwas herstellen oder bauen kann – zum Beispiel Holz, Papier oder Metall.",
+  "beispielsatz": "Für den Bastelkurs brauchen wir das richtige Material.",
+  "rechtschreibstrategie": "Sprich alle vier Silben deutlich: Ma – te – ri – al. Am Ende steht ein „al\" – nicht „all\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "material"
+  ],
+  "bild_datei": "Material.webp",
+  "audio_datei": "Material.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "material"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matériau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "malzeme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "materiell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Materialien"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werkstoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Material",
+    "plural": "die Materialien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Material",
+        "genitiv": "des Materials",
+        "dativ": "dem Material",
+        "akkusativ": "das Material"
+      },
+      "plural": {
+        "nominativ": "die Materialien",
+        "genitiv": "der Materialien",
+        "dativ": "den Materialien",
+        "akkusativ": "die Materialien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Materiel",
+    "Materiall",
+    "Matterial",
+    "Materyal",
+    "Materiahl"
+  ]
+}

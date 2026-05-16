@@ -1,0 +1,81 @@
+{
+  "lemma": "Schiffer",
+  "wortart": "Nomen",
+  "silben": "Schif-fer",
+  "begriffserklaerung": "Ein Schiffer ist jemand, der ein Schiff oder Boot auf dem Wasser steuert und fährt.",
+  "beispielsatz": "Der Schiffer lenkt sein Schiff sicher durch den Fluss.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" verdoppelst du das „f\": Schif-fer. Sprich die Silben laut mit: Schif – fer!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schiff"
+  ],
+  "bild_datei": "Schiffer.webp",
+  "audio_datei": "Schiffer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "boatman / skipper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "batelier / marin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gemici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَحَّار / مَلَّاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schifffahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kapitän"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hafen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bootsmann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schiffer",
+    "plural": "die Schiffer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schiffer",
+        "genitiv": "des Schiffers",
+        "dativ": "dem Schiffer",
+        "akkusativ": "den Schiffer"
+      },
+      "plural": {
+        "nominativ": "die Schiffer",
+        "genitiv": "der Schiffer",
+        "dativ": "den Schiffern",
+        "akkusativ": "die Schiffer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schifer",
+    "Schyffer",
+    "Schifffer",
+    "Shifter"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Organ",
+  "wortart": "Nomen",
+  "silben": "Or-gan",
+  "begriffserklaerung": "Ein Organ ist ein Teil in deinem Körper, der eine wichtige Aufgabe hat. Zum Beispiel pumpt das Herz Blut durch den Körper und die Lunge hilft dir beim Atmen.",
+  "beispielsatz": "Das Herz ist ein lebenswichtiges Organ.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Or-gan. Beide Silben haben einen kurzen Vokal, aber es gibt keinen Doppelkonsonanten – merke dir die Schreibung einfach so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "organ"
+  ],
+  "bild_datei": "Organ.webp",
+  "audio_datei": "Organ.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "organ"
+    },
+    {
+      "language_code": "fr",
+      "translation": "organe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "organ"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عضو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Organismus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "organisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lunge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Organ",
+    "plural": "die Organe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Organ",
+        "genitiv": "des Organs",
+        "dativ": "dem Organ",
+        "akkusativ": "das Organ"
+      },
+      "plural": {
+        "nominativ": "die Organe",
+        "genitiv": "der Organe",
+        "dativ": "den Organen",
+        "akkusativ": "die Organe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Orган",
+    "Orgahn",
+    "Organn",
+    "Ohgan",
+    "Orgaan"
+  ]
+}

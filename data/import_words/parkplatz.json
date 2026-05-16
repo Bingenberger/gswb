@@ -1,0 +1,84 @@
+{
+  "lemma": "Parkplatz",
+  "wortart": "Nomen",
+  "silben": "Park-platz",
+  "begriffserklaerung": "Ein Parkplatz ist ein Ort, wo Autos abgestellt und geparkt werden dürfen.",
+  "beispielsatz": "Papa sucht nach einem freien Parkplatz vor dem Supermarkt.",
+  "rechtschreibstrategie": "„Parkplatz\" ist ein zusammengesetztes Wort aus „Park\" und „Platz\". Das „tz\" am Ende zeigt, dass das „a\" in „Platz\" kurz gesprochen wird – nach kurzem Vokal schreibt man tz.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Park",
+    "Platz"
+  ],
+  "bild_datei": "Parkplatz.webp",
+  "audio_datei": "Parkplatz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Parkplatz",
+    "plural": "die Parkplätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Parkplatz",
+        "genitiv": "des Parkplatzes",
+        "dativ": "dem Parkplatz",
+        "akkusativ": "den Parkplatz"
+      },
+      "plural": {
+        "nominativ": "die Parkplätze",
+        "genitiv": "der Parkplätze",
+        "dativ": "den Parkplätzen",
+        "akkusativ": "die Parkplätze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parking lot / parking space"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parking / place de stationnement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otopark / park yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقف سيارات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Park"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stellplatz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Parkplaz",
+    "Parcplatz",
+    "Parkplats",
+    "Pargplatz",
+    "Parkplattz"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Wisch",
+  "wortart": "Nomen",
+  "silben": "Wisch",
+  "begriffserklaerung": "Ein Wisch ist ein kleines Stück Papier, auf dem etwas notiert ist, oder ein schnelles Wischen mit einem Tuch.",
+  "beispielsatz": "Auf dem Wisch stand die Telefonnummer von Lenas bester Freundin.",
+  "rechtschreibstrategie": "Das Wort „Wisch\" hat nach dem kurzen „i\" ein „sch\" – sprich es laut mit: Wisch! Das „sch\" am Ende gehört zusammen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wisch"
+  ],
+  "bild_datei": "Wisch.webp",
+  "audio_datei": "Wisch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "slip (of paper)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bout de papier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kâğıt parçası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ورقة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wischen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wischer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Notiz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zettel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wisch",
+    "plural": "die Wische",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wisch",
+        "genitiv": "des Wisches",
+        "dativ": "dem Wisch",
+        "akkusativ": "den Wisch"
+      },
+      "plural": {
+        "nominativ": "die Wische",
+        "genitiv": "der Wische",
+        "dativ": "den Wischen",
+        "akkusativ": "die Wische"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wisch",
+    "Visch",
+    "Wiß",
+    "Wißch",
+    "Wiesch"
+  ]
+}

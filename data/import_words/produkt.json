@@ -1,0 +1,84 @@
+{
+  "lemma": "Produkt",
+  "wortart": "Nomen",
+  "silben": "Pro-dukt",
+  "begriffserklaerung": "Ein Produkt ist etwas, das hergestellt oder verkauft wird – zum Beispiel ein Buch, ein Spielzeug oder ein Lebensmittel. In der Mathematik ist ein Produkt das Ergebnis einer Multiplikation.",
+  "beispielsatz": "Im Supermarkt gibt es viele verschiedene Produkte zu kaufen.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Pro-dukt. Am Ende hörst du „kt\" – beide Buchstaben werden mitgesprochen, also schreib sie auch beide auf!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "produzier",
+    "Produktion"
+  ],
+  "bild_datei": "Produkt.webp",
+  "audio_datei": "Produkt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "product"
+    },
+    {
+      "language_code": "fr",
+      "translation": "produit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ürün"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منتج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "produzieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Produktion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ware"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ergebnis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erzeugnis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Produkt",
+    "plural": "die Produkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Produkt",
+        "genitiv": "des Produktes",
+        "dativ": "dem Produkt",
+        "akkusativ": "das Produkt"
+      },
+      "plural": {
+        "nominativ": "die Produkte",
+        "genitiv": "der Produkte",
+        "dativ": "den Produkten",
+        "akkusativ": "die Produkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Produgt",
+    "Proddukt",
+    "Produnkt",
+    "Product",
+    "Prudokt",
+    "Protukt"
+  ]
+}

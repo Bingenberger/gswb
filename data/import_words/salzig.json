@@ -1,0 +1,73 @@
+{
+  "lemma": "salzig",
+  "wortart": "Adjektiv",
+  "silben": "sal-zig",
+  "begriffserklaerung": "Etwas schmeckt nach Salz oder enthält viel Salz.",
+  "beispielsatz": "Die Chips schmecken sehr salzig.",
+  "rechtschreibstrategie": "Denke an das Nomen „Salz\" – davon kommt „salzig\". Das z bleibt erhalten: Salz → salzig.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Salz"
+  ],
+  "grammatische_formen": {
+    "positiv": "salzig",
+    "komparativ": "salziger",
+    "superlativ": "am salzigsten"
+  },
+  "fehlschreibungen": [
+    "salzzig",
+    "saltsig",
+    "salcig",
+    "sallzig",
+    "salzich"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "salzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "versalzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "süß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bitter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sauer"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "salty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "salé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tuzlu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مالح"
+    }
+  ],
+  "bild_datei": "salzig.webp",
+  "audio_datei": "salzig.mp3"
+}

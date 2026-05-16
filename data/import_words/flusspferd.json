@@ -1,0 +1,85 @@
+{
+  "lemma": "Flusspferd",
+  "wortart": "Nomen",
+  "silben": "Fluss-pferd",
+  "begriffserklaerung": "Ein Flusspferd ist ein sehr großes, schweres Tier, das in Afrika lebt. Es verbringt viel Zeit im Wasser und hat eine dicke, fast haarlose Haut.",
+  "beispielsatz": "Das Flusspferd liegt den ganzen Tag faul im kühlen Wasser.",
+  "rechtschreibstrategie": "„Flusspferd\" ist aus zwei Wörtern zusammengebaut: „Fluss\" und „Pferd\". Denk daran: „Fluss\" schreibt man mit Doppel-s, weil das u kurz gesprochen wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Fluss",
+    "Pferd"
+  ],
+  "bild_datei": "Flusspferd.webp",
+  "audio_datei": "Flusspferd.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Flusspferd",
+    "plural": "die Flusspferde",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Flusspferd",
+        "genitiv": "des Flusspferdes",
+        "dativ": "dem Flusspferd",
+        "akkusativ": "das Flusspferd"
+      },
+      "plural": {
+        "nominativ": "die Flusspferde",
+        "genitiv": "der Flusspferde",
+        "dativ": "den Flusspferden",
+        "akkusativ": "die Flusspferde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hippopotamus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hippopotame"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su aygırı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرس النهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nilpferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krokodil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elefant"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flusspfert",
+    "Flußpferd",
+    "Flussperd",
+    "Fluspherd",
+    "Flusspfehrd"
+  ]
+}

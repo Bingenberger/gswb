@@ -1,0 +1,94 @@
+{
+  "lemma": "Preis",
+  "wortart": "Nomen",
+  "silben": "Preis",
+  "begriffserklaerung": "Ein Preis ist der Betrag, den man für etwas bezahlen muss. Zum Beispiel steht auf einem Preisschild, wie viel ein Spielzeug kostet. Ein Preis kann aber auch eine Auszeichnung sein, die man für eine besondere Leistung bekommt.",
+  "beispielsatz": "Der Preis für das Buch beträgt fünf Euro.",
+  "rechtschreibstrategie": "Das Wort „Preis\" endet auf -eis. Das „ei\" sprichst du wie in „Ei\" – merke dir: „Preis\" schreibt man mit ei, nicht mit ai!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Preis"
+  ],
+  "bild_datei": "Preis.webp",
+  "audio_datei": "Preis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "price / prize"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiyat / ödül"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سعر / جائزة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "preisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Preisschild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "preiswert"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kosten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auszeichnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewinn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Preis",
+    "plural": "die Preise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Preis",
+        "genitiv": "des Preises",
+        "dativ": "dem Preis",
+        "akkusativ": "den Preis"
+      },
+      "plural": {
+        "nominativ": "die Preise",
+        "genitiv": "der Preise",
+        "dativ": "den Preisen",
+        "akkusativ": "die Preise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prais",
+    "Breis",
+    "Preiss",
+    "Preiß",
+    "Preis"
+  ]
+}

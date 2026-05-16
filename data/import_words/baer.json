@@ -1,0 +1,83 @@
+{
+  "lemma": "Bär",
+  "wortart": "Nomen",
+  "silben": "Bär",
+  "begriffserklaerung": "Ein Bär ist ein großes, starkes Wildtier mit dickem Fell. Bären leben im Wald oder in den Bergen und fressen am liebsten Beeren, Honig und Fische.",
+  "beispielsatz": "Der Bär schläft den ganzen Winter in seiner Höhle.",
+  "rechtschreibstrategie": "Das Wort „Bär\" klingt wie ein langes „ä\". Denk an die Mehrzahl „Bären\" – da hörst du das ä ganz deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Bär"
+  ],
+  "bild_datei": "Bär.webp",
+  "audio_datei": "Bär.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دُبّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bärenjunge"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bärenstark"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuchs"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildtier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bär",
+    "plural": "die Bären",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bär",
+        "genitiv": "des Bären",
+        "dativ": "dem Bären",
+        "akkusativ": "den Bären"
+      },
+      "plural": {
+        "nominativ": "die Bären",
+        "genitiv": "der Bären",
+        "dativ": "den Bären",
+        "akkusativ": "die Bären"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bähr",
+    "Behr",
+    "Beer",
+    "Bäer",
+    "Baer"
+  ]
+}

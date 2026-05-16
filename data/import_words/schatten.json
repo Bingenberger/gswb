@@ -1,0 +1,86 @@
+{
+  "lemma": "Schatten",
+  "wortart": "Nomen",
+  "silben": "Schat-ten",
+  "begriffserklaerung": "Ein Schatten entsteht, wenn ein Gegenstand oder eine Person das Licht verdeckt. Dort, wo das Licht nicht hinkommt, wird es dunkel.",
+  "beispielsatz": "An einem heißen Sommertag sitzen wir gerne im Schatten eines Baumes.",
+  "rechtschreibstrategie": "Das Wort „Schatten\" hat ein doppeltes t in der Mitte. Sprich es laut: Schat-ten – du hörst, dass das „a\" kurz klingt. Bei kurzem Vokal folgen oft zwei gleiche Buchstaben!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schatten"
+  ],
+  "bild_datei": "Schatten.webp",
+  "audio_datei": "Schatten.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schatten",
+    "plural": "die Schatten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schatten",
+        "genitiv": "des Schattens",
+        "dativ": "dem Schatten",
+        "akkusativ": "den Schatten"
+      },
+      "plural": {
+        "nominativ": "die Schatten",
+        "genitiv": "der Schatten",
+        "dativ": "den Schatten",
+        "akkusativ": "die Schatten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shadow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ombre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gölge"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ظل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schattig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beschatten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dunkelheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dunkel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schaten",
+    "Schatten",
+    "Schattten",
+    "Schadn",
+    "Schattan"
+  ]
+}

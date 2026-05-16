@@ -1,0 +1,84 @@
+{
+  "lemma": "Temperatur",
+  "wortart": "Nomen",
+  "silben": "Tem-pe-ra-tur",
+  "begriffserklaerung": "Die Temperatur sagt uns, wie warm oder kalt etwas ist. Man misst sie mit einem Thermometer, zum Beispiel in Grad Celsius (°C).",
+  "beispielsatz": "Die Temperatur draußen ist heute sehr niedrig, deshalb ziehe ich eine Jacke an.",
+  "rechtschreibstrategie": "Sprich das Wort in vier Silben: Tem-pe-ra-tur. Achte besonders auf das „a\" in der dritten Silbe und das „u\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tempera",
+    "temper"
+  ],
+  "bild_datei": "Temperatur.webp",
+  "audio_datei": "Temperatur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "temperature"
+    },
+    {
+      "language_code": "fr",
+      "translation": "température"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıcaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "درجة الحرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "temperieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Temperaturanstieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Thermometer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wärmegrad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Temperatur",
+    "plural": "die Temperaturen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Temperatur",
+        "genitiv": "der Temperatur",
+        "dativ": "der Temperatur",
+        "akkusativ": "die Temperatur"
+      },
+      "plural": {
+        "nominativ": "die Temperaturen",
+        "genitiv": "der Temperaturen",
+        "dativ": "den Temperaturen",
+        "akkusativ": "die Temperaturen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Temperatur",
+    "Temparatur",
+    "Tempratur",
+    "Temperadur",
+    "Temperatuhr",
+    "Temperratur"
+  ]
+}

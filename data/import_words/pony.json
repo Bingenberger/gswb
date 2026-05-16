@@ -1,0 +1,72 @@
+{
+  "lemma": "Pony",
+  "wortart": "Nomen",
+  "silben": "Po-ny",
+  "begriffserklaerung": "Ein Pony ist ein kleines Pferd. Ponys sind oft sehr sanft und beliebt bei Kindern.",
+  "beispielsatz": "Das Pony frisst frisches Gras auf der Wiese.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Po-ny. Am Ende hörst du ein „y\" – das kommt oft bei Wörtern vor, die aus einer anderen Sprache stammen. Merke dir: Pony schreibt man mit y!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Pony.webp",
+  "audio_datei": "Pony.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pony"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poney"
+    },
+    {
+      "language_code": "tr",
+      "translation": "midilli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهر صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Pony",
+    "plural": "die Ponys",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Pony",
+        "genitiv": "des Ponys",
+        "dativ": "dem Pony",
+        "akkusativ": "das Pony"
+      },
+      "plural": {
+        "nominativ": "die Ponys",
+        "genitiv": "der Ponys",
+        "dativ": "den Ponys",
+        "akkusativ": "die Ponys"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Poni",
+    "Pohny",
+    "Ponni",
+    "Ponny",
+    "Pohni"
+  ]
+}

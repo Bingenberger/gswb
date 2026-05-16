@@ -1,0 +1,82 @@
+{
+  "lemma": "Jägerin",
+  "wortart": "Nomen",
+  "silben": "Jä-ge-rin",
+  "begriffserklaerung": "Eine Jägerin ist eine Frau, die im Wald Tiere jagt. Sie kennt die Natur sehr gut und passt auf die Tiere im Wald auf.",
+  "beispielsatz": "Die Jägerin geht früh morgens in den Wald und beobachtet die Tiere.",
+  "rechtschreibstrategie": "Denk an das Wort „jagen\" – daraus wird „Jäger\" und dann „Jägerin\". Das ä schreibst du, weil es von „jagen\" mit einem „a\" kommt: ja → jä.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "jag"
+  ],
+  "bild_datei": "Jägerin.webp",
+  "audio_datei": "Jägerin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jägerin",
+    "plural": "die Jägerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jägerin",
+        "genitiv": "der Jägerin",
+        "dativ": "der Jägerin",
+        "akkusativ": "die Jägerin"
+      },
+      "plural": {
+        "nominativ": "die Jägerinnen",
+        "genitiv": "der Jägerinnen",
+        "dativ": "den Jägerinnen",
+        "akkusativ": "die Jägerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "huntress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chasseuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "avcı kadın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jäger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Förster"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jegerin",
+    "Jaegerin",
+    "Jähgerin",
+    "Jäggerin",
+    "Jägerinn"
+  ]
+}

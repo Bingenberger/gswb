@@ -1,0 +1,87 @@
+{
+  "lemma": "Mäher",
+  "wortart": "Nomen",
+  "silben": "Mä-her",
+  "begriffserklaerung": "Ein Mäher ist eine Maschine oder ein Gerät, mit dem man Gras oder Getreide abschneidet.",
+  "beispielsatz": "Papa schiebt den Mäher über die Wiese, damit das Gras schön kurz bleibt.",
+  "rechtschreibstrategie": "Das Wort kommt von „mähen\". Denk beim Schreiben an das ä wie in „Gräser mähen\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "mäh"
+  ],
+  "bild_datei": "Mäher.webp",
+  "audio_datei": "Mäher.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mäher",
+    "plural": "die Mäher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mäher",
+        "genitiv": "des Mähers",
+        "dativ": "dem Mäher",
+        "akkusativ": "den Mäher"
+      },
+      "plural": {
+        "nominativ": "die Mäher",
+        "genitiv": "der Mäher",
+        "dativ": "den Mähern",
+        "akkusativ": "die Mäher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mower"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tondeuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çim biçme makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جزازة العشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mähen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mahd"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rasenmäher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sense"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rasen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Meher",
+    "Mäer",
+    "Mähr",
+    "Mähre",
+    "Mähher"
+  ]
+}

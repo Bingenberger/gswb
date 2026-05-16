@@ -1,0 +1,95 @@
+{
+  "lemma": "abbrechen",
+  "wortart": "Verb",
+  "silben": "ab-bre-chen",
+  "begriffserklaerung": "Etwas abbrechen bedeutet, etwas, das man gerade tut, plötzlich aufzuhören oder etwas Festes zu zerbrechen, sodass ein Stück abbricht.",
+  "beispielsatz": "Lea muss das Spiel abbrechen, weil es schon dunkel wird.",
+  "rechtschreibstrategie": "Das Wort steckt aus zwei Teilen zusammen: „ab\" und „brechen\". Sprich beide Teile laut: ab – bre – chen. Das „ch\" hörst du am Ende deutlich.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "brechen"
+  ],
+  "bild_datei": "abbrechen.webp",
+  "audio_datei": "abbrechen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "abbrechen",
+    "praesens": {
+      "ich": "breche ab",
+      "du": "brichst ab",
+      "er_sie_es": "bricht ab",
+      "wir": "brechen ab",
+      "ihr": "brecht ab",
+      "sie": "brechen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgebrochen",
+      "du": "hast abgebrochen",
+      "er_sie_es": "hat abgebrochen",
+      "wir": "haben abgebrochen",
+      "ihr": "habt abgebrochen",
+      "sie": "haben abgebrochen"
+    },
+    "praeteritum": {
+      "ich": "brach ab",
+      "du": "brachst ab",
+      "er_sie_es": "brach ab",
+      "wir": "brachen ab",
+      "ihr": "brach ab",
+      "sie": "brachen ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to break off / to stop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interrompre / casser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kırmak / durdurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوقف / يكسر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bruch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufhören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beenden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "unterbrechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "stoppen"
+    }
+  ],
+  "fehlschreibungen": [
+    "abrechen",
+    "abbrechen",
+    "abbrächen",
+    "abbreGen",
+    "abbrecchen",
+    "abbreсhen"
+  ]
+}

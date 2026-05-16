@@ -1,0 +1,82 @@
+{
+  "lemma": "Bläser",
+  "wortart": "Nomen",
+  "silben": "Blä-ser",
+  "begriffserklaerung": "Ein Bläser ist jemand, der ein Blasinstrument spielt, zum Beispiel eine Trompete, eine Flöte oder ein Horn.",
+  "beispielsatz": "Der Bläser in der Musikkapelle spielt laut und schön auf seiner Trompete.",
+  "rechtschreibstrategie": "Denke an das Wort „blasen\" – daraus wird „Bläser\". Das ä kommt vom a in „blasen\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "blas"
+  ],
+  "bild_datei": "Bläser.webp",
+  "audio_datei": "Bläser.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wind player / brass player"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souffleur / joueur d'instrument à vent"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üflemeli çalgı çalan kişi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عازف على آلة نفخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blasen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blasinstrument"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musiker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Orchester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Instrument"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bläser",
+    "plural": "die Bläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bläser",
+        "genitiv": "des Bläsers",
+        "dativ": "dem Bläser",
+        "akkusativ": "den Bläser"
+      },
+      "plural": {
+        "nominativ": "die Bläser",
+        "genitiv": "der Bläser",
+        "dativ": "den Bläsern",
+        "akkusativ": "die Bläser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bleser",
+    "Bläßer",
+    "Blähser",
+    "Blaser",
+    "Bläzer"
+  ]
+}

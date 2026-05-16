@@ -1,0 +1,88 @@
+{
+  "lemma": "Kunststoff",
+  "wortart": "Nomen",
+  "silben": "Kunst-stoff",
+  "begriffserklaerung": "Kunststoff ist ein von Menschen hergestelltes Material, das aus Erdöl gewonnen wird. Es lässt sich leicht formen und ist in vielen Alltagsgegenständen zu finden, zum Beispiel in Flaschen, Spielzeug oder Verpackungen.",
+  "beispielsatz": "Die Wasserflasche ist aus Kunststoff und lässt sich nicht so leicht zerbrechen.",
+  "rechtschreibstrategie": "Das Wort „Kunststoff\" besteht aus zwei Teilen: „Kunst\" und „Stoff\". Sprich beide Teile deutlich: KUNST – STOFF. So vergisst du kein Zeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kunst",
+    "Stoff"
+  ],
+  "bild_datei": "Kunststoff.webp",
+  "audio_datei": "Kunststoff.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kunststoff",
+    "plural": "die Kunststoffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kunststoff",
+        "genitiv": "des Kunststoffs",
+        "dativ": "dem Kunststoff",
+        "akkusativ": "den Kunststoff"
+      },
+      "plural": {
+        "nominativ": "die Kunststoffe",
+        "genitiv": "der Kunststoffe",
+        "dativ": "den Kunststoffen",
+        "akkusativ": "die Kunststoffe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plastic"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plastique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "plastik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلاستيك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kunst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Plastik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verpackung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Material"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plastik"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kunststof",
+    "Kunststoffe",
+    "Kunsstoff",
+    "Kunztstoff",
+    "Kunstoff",
+    "Kunschtoff"
+  ]
+}

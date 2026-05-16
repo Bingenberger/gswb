@@ -1,0 +1,88 @@
+{
+  "lemma": "Einsatz",
+  "wortart": "Nomen",
+  "silben": "Ein-satz",
+  "begriffserklaerung": "Ein Einsatz bedeutet, dass man sich sehr für etwas bemüht oder bei etwas mitmacht. Das Wort kann auch einen Spielstein oder einen Geldbetrag meinen, den man bei einem Spiel einsetzt.",
+  "beispielsatz": "Durch ihren großen Einsatz beim Training wurde Laura zur besten Läuferin der Klasse.",
+  "rechtschreibstrategie": "„Einsatz\" ist ein Bausteinwort aus „ein\" und „Satz\". Das „tz\" am Ende schreibt man, weil davor ein kurzer Vokal „a\" gesprochen wird – das ist das Kürzezeichen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "setz",
+    "satz"
+  ],
+  "bild_datei": "Einsatz.webp",
+  "audio_datei": "Einsatz.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Einsatz",
+    "plural": "die Einsätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Einsatz",
+        "genitiv": "des Einsatzes",
+        "dativ": "dem Einsatz",
+        "akkusativ": "den Einsatz"
+      },
+      "plural": {
+        "nominativ": "die Einsätze",
+        "genitiv": "der Einsätze",
+        "dativ": "den Einsätzen",
+        "akkusativ": "die Einsätze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "effort / deployment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "effort / engagement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çaba / müdahale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهد / تدخل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einsetzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Satz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bemühung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anstrengung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leistung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Engagement"
+    }
+  ],
+  "fehlschreibungen": [
+    "Einsaz",
+    "Einsattz",
+    "Einsats",
+    "Einsazz",
+    "Einsätz"
+  ]
+}

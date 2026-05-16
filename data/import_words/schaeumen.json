@@ -1,0 +1,97 @@
+{
+  "lemma": "schäumen",
+  "wortart": "Verb",
+  "silben": "schäu-men",
+  "begriffserklaerung": "Wenn eine Flüssigkeit schäumt, entstehen viele kleine Blasen an ihrer Oberfläche, zum Beispiel beim Spülmittel oder beim Waschen.",
+  "beispielsatz": "Das Wasser im Topf schäumt, weil Mama Seife hineingegeben hat.",
+  "rechtschreibstrategie": "Denke an das Nomen „der Schaum\" – von „Schaum\" leitest du „schäumen\" ab. Das äu kommt vom au in „Schaum\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Schaum"
+  ],
+  "bild_datei": "schäumen.webp",
+  "audio_datei": "schäumen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schäumen",
+    "praesens": {
+      "ich": "schäume",
+      "du": "schäumst",
+      "er_sie_es": "schäumt",
+      "wir": "schäumen",
+      "ihr": "schäumt",
+      "sie": "schäumen"
+    },
+    "perfekt": {
+      "ich": "habe geschäumt",
+      "du": "hast geschäumt",
+      "er_sie_es": "hat geschäumt",
+      "wir": "haben geschäumt",
+      "ihr": "habt geschäumt",
+      "sie": "haben geschäumt"
+    },
+    "praeteritum": {
+      "ich": "schäumte",
+      "du": "schäumtest",
+      "er_sie_es": "schäumte",
+      "wir": "schäumten",
+      "ihr": "schäumtet",
+      "sie": "schäumten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to foam / to lather"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mousser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "köpürmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُزبد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schaumig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "blubbern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sprudeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brodeln"
+    }
+  ],
+  "fehlschreibungen": [
+    "scheumen",
+    "scheumt",
+    "schäumt",
+    "schäuumen",
+    "schäumen",
+    "schoimen",
+    "schäumet"
+  ]
+}

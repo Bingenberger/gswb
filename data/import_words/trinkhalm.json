@@ -1,0 +1,87 @@
+{
+  "lemma": "Trinkhalm",
+  "wortart": "Nomen",
+  "silben": "Trink-halm",
+  "begriffserklaerung": "Ein Trinkhalm ist ein dünnes, langes Röhrchen aus Plastik oder Papier. Damit kann man ein Getränk aufsaugen und trinken.",
+  "beispielsatz": "Lisa trinkt ihre Limonade mit einem bunten Trinkhalm.",
+  "rechtschreibstrategie": "Trinkhalm ist aus zwei Bausteinen zusammengesetzt: „trink\" (von trinken) und „Halm\". Sprich beide Teile deutlich: TRINK + HALM.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "trink",
+    "Halm"
+  ],
+  "bild_datei": "Trinkhalm.webp",
+  "audio_datei": "Trinkhalm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drinking straw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "paille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pipet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قشة شرب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Halm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strohhalm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Becher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flasche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trinkhalm",
+    "plural": "die Trinkhalme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trinkhalm",
+        "genitiv": "des Trinkhalms",
+        "dativ": "dem Trinkhalm",
+        "akkusativ": "den Trinkhalm"
+      },
+      "plural": {
+        "nominativ": "die Trinkhalme",
+        "genitiv": "der Trinkhalme",
+        "dativ": "den Trinkhalmen",
+        "akkusativ": "die Trinkhalme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trinkhalb",
+    "Drinkhalm",
+    "Trinchalm",
+    "Trinckhalm",
+    "Trinkhalme"
+  ]
+}

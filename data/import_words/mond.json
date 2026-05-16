@@ -1,0 +1,82 @@
+{
+  "lemma": "Mond",
+  "wortart": "Nomen",
+  "silben": "Mond",
+  "begriffserklaerung": "Der Mond ist ein großer runder Himmelskörper, der die Erde umkreist. Nachts leuchtet er hell am Himmel.",
+  "beispielsatz": "Heute Nacht scheint der Mond besonders hell.",
+  "rechtschreibstrategie": "Verlängere das Wort: Mond → Monde. Am Ende hörst du das „d\" deutlich. Deshalb schreibt man Mond mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Mond"
+  ],
+  "bild_datei": "Mond.webp",
+  "audio_datei": "Mond.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "moon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lune"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mondförmig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mondschein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mond",
+    "plural": "die Monde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mond",
+        "genitiv": "des Mondes",
+        "dativ": "dem Mond",
+        "akkusativ": "den Mond"
+      },
+      "plural": {
+        "nominativ": "die Monde",
+        "genitiv": "der Monde",
+        "dativ": "den Monden",
+        "akkusativ": "die Monde"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mont",
+    "Moond",
+    "Monnd",
+    "Moned",
+    "Mmont"
+  ]
+}

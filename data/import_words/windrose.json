@@ -1,0 +1,83 @@
+{
+  "lemma": "Windrose",
+  "wortart": "Nomen",
+  "silben": "Wind-ro-se",
+  "begriffserklaerung": "Eine Windrose ist ein Zeichen auf Landkarten und Kompassen. Sie zeigt die Himmelsrichtungen an: Nord, Süd, Ost und West.",
+  "beispielsatz": "Auf der Schatzkarte war eine Windrose eingezeichnet, damit wir den richtigen Weg finden konnten.",
+  "rechtschreibstrategie": "„Windrose\" ist ein zusammengesetztes Wort aus „Wind\" und „Rose\". Schreib beide Teile einfach hintereinander – ganz ohne Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wind",
+    "Rose"
+  ],
+  "bild_datei": "Windrose.webp",
+  "audio_datei": "Windrose.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "compass rose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rose des vents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pusula gülü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وردة الرياح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompass"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himmelsrichtung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landkarte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Windrose",
+    "plural": "die Windrosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Windrose",
+        "genitiv": "der Windrose",
+        "dativ": "der Windrose",
+        "akkusativ": "die Windrose"
+      },
+      "plural": {
+        "nominativ": "die Windrosen",
+        "genitiv": "der Windrosen",
+        "dativ": "den Windrosen",
+        "akkusativ": "die Windrosen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Windrohse",
+    "Windrosse",
+    "Windt-Rose",
+    "Windtrose",
+    "Wintrose"
+  ]
+}

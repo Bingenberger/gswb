@@ -1,0 +1,75 @@
+{
+  "lemma": "Reptil",
+  "wortart": "Nomen",
+  "silben": "Rep-til",
+  "begriffserklaerung": "Ein Reptil ist ein Tier mit Schuppen auf der Haut, das kaltblütig ist. Das bedeutet, es wärmt sich an der Sonne auf. Eidechsen, Schlangen und Krokodile sind Reptilien.",
+  "beispielsatz": "Die Eidechse ist ein Reptil, das gerne in der Sonne liegt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Rep-til. Denk daran, dass am Ende „til\" steht – nicht „tell\" oder „tiel\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Reptil"
+  ],
+  "bild_datei": "Reptil.webp",
+  "audio_datei": "Reptil.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reptile"
+    },
+    {
+      "language_code": "fr",
+      "translation": "reptile"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sürüngen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زاحف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eidechse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlange"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krokodil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Reptil",
+    "plural": "die Reptilien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Reptil",
+        "genitiv": "des Reptils",
+        "dativ": "dem Reptil",
+        "akkusativ": "das Reptil"
+      },
+      "plural": {
+        "nominativ": "die Reptilien",
+        "genitiv": "der Reptilien",
+        "dativ": "den Reptilien",
+        "akkusativ": "die Reptilien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reptiel",
+    "Reptihl",
+    "Repthil",
+    "Reptill",
+    "Reptile",
+    "Räptil"
+  ]
+}

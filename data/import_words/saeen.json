@@ -1,0 +1,92 @@
+{
+  "lemma": "säen",
+  "wortart": "Verb",
+  "silben": "sä-en",
+  "begriffserklaerung": "Säen bedeutet, Samen in die Erde zu streuen oder zu legen, damit daraus Pflanzen wachsen.",
+  "beispielsatz": "Im Frühling säen wir Blumensamen in den Garten.",
+  "rechtschreibstrategie": "Denk an das Wort „Saat\" – dort hörst du das lange „ä\" deutlich. Deshalb schreibt man säen mit ä und nicht mit e.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "sä"
+  ],
+  "bild_datei": "säen.webp",
+  "audio_datei": "säen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "säen",
+    "praesens": {
+      "ich": "säe",
+      "du": "säst",
+      "er_sie_es": "sät",
+      "wir": "säen",
+      "ihr": "säet",
+      "sie": "säen"
+    },
+    "perfekt": {
+      "ich": "habe gesät",
+      "du": "hast gesät",
+      "er_sie_es": "hat gesät",
+      "wir": "haben gesät",
+      "ihr": "habt gesät",
+      "sie": "haben gesät"
+    },
+    "praeteritum": {
+      "ich": "säte",
+      "du": "sätest",
+      "er_sie_es": "säte",
+      "wir": "säten",
+      "ihr": "sätet",
+      "sie": "säten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to sow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "semer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يزرع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Saat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Säer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "pflanzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ernten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aussäen"
+    }
+  ],
+  "fehlschreibungen": [
+    "seen",
+    "seeen",
+    "sähen",
+    "sehen",
+    "seäen",
+    "säeen"
+  ]
+}

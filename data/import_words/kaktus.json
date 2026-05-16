@@ -1,0 +1,74 @@
+{
+  "lemma": "Kaktus",
+  "wortart": "Nomen",
+  "silben": "Kak-tus",
+  "begriffserklaerung": "Ein Kaktus ist eine Pflanze, die in trockenen, heißen Gebieten wächst. Sie hat dicke, saftige Stämme und oft viele spitze Stacheln, aber keine richtigen Blätter.",
+  "beispielsatz": "Im Wohnzimmer steht ein kleiner Kaktus auf dem Fensterbrett.",
+  "rechtschreibstrategie": "Denk an das doppelte „k\" in „Kak-tus\" – sprich die Silben laut mit: Kak – tus!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kaktus"
+  ],
+  "bild_datei": "Kaktus.webp",
+  "audio_datei": "Kaktus.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kaktus",
+    "plural": "die Kakteen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kaktus",
+        "genitiv": "des Kaktus",
+        "dativ": "dem Kaktus",
+        "akkusativ": "den Kaktus"
+      },
+      "plural": {
+        "nominativ": "die Kakteen",
+        "genitiv": "der Kakteen",
+        "dativ": "den Kakteen",
+        "akkusativ": "die Kakteen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cactus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cactus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaktüs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wüste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stachel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Caktus",
+    "Kactus",
+    "Kakktus",
+    "Kaktuss",
+    "Kaktues"
+  ]
+}

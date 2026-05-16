@@ -1,0 +1,53 @@
+{
+  "lemma": "das",
+  "wortart": "Artikel",
+  "silben": "das",
+  "begriffserklaerung": "„Das\" ist ein bestimmter Artikel. Er steht vor Nomen, die sächlich sind, also weder männlich noch weiblich.",
+  "beispielsatz": "Das Buch liegt auf dem Tisch.",
+  "rechtschreibstrategie": "„Das\" schreibt man mit nur einem „s\". Denk daran: „Das\" ist kurz und klar – d-a-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "das.webp",
+  "audio_datei": "das.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "the"
+    },
+    {
+      "language_code": "fr",
+      "translation": "le / la"
+    },
+    {
+      "language_code": "tr",
+      "translation": "(tekil belirli artikel)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الـ (أداة التعريف)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "der"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "die"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "dasjenige"
+    }
+  ],
+  "grammatische_formen": {},
+  "fehlschreibungen": [
+    "dass",
+    "daz",
+    "daß",
+    "das's"
+  ]
+}

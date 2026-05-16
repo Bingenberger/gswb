@@ -1,0 +1,73 @@
+{
+  "lemma": "ungesund",
+  "wortart": "Adjektiv",
+  "silben": "un-ge-sund",
+  "begriffserklaerung": "Etwas ist ungesund, wenn es dem Körper schadet oder ihn krank machen kann.",
+  "beispielsatz": "Zu viele Süßigkeiten sind ungesund.",
+  "rechtschreibstrategie": "Denk an das Gegenteil: „gesund\" – dann hängst du einfach „un-\" davor: un-ge-sund.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "positiv": "ungesund",
+    "komparativ": "ungesünder",
+    "superlativ": "am ungesündesten"
+  },
+  "wortfamilie_basen": [
+    "gesund"
+  ],
+  "fehlschreibungen": [
+    "ungesundt",
+    "ungesunnd",
+    "ungesumd",
+    "ungesunth",
+    "ungesünd"
+  ],
+  "bild_datei": "ungesund.webp",
+  "audio_datei": "ungesund.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "unhealthy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "malsain"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sağlıksız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غير صحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gesund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gesundheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schädlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Junk Food"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernährung"
+    }
+  ]
+}

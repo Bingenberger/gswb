@@ -1,0 +1,77 @@
+{
+  "lemma": "Roboter",
+  "wortart": "Nomen",
+  "silben": "Ro-bo-ter",
+  "begriffserklaerung": "Ein Roboter ist eine Maschine, die bestimmte Aufgaben selbstständig oder nach Anweisungen ausführen kann.",
+  "beispielsatz": "Der Roboter in der Fabrik schweißt Autoteile zusammen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ro – bo – ter. Alle drei Silben hören sich genau so an, wie man sie schreibt.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Roboter"
+  ],
+  "bild_datei": "Roboter.webp",
+  "audio_datei": "Roboter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "robot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "robot"
+    },
+    {
+      "language_code": "tr",
+      "translation": "robot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "روبوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Robotik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Technik"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Roboter",
+    "plural": "die Roboter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Roboter",
+        "genitiv": "des Roboters",
+        "dativ": "dem Roboter",
+        "akkusativ": "den Roboter"
+      },
+      "plural": {
+        "nominativ": "die Roboter",
+        "genitiv": "der Roboter",
+        "dativ": "den Robotern",
+        "akkusativ": "die Roboter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Robbotter",
+    "Robotter",
+    "Roboeter",
+    "Robotär"
+  ]
+}

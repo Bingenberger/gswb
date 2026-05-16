@@ -1,0 +1,82 @@
+{
+  "lemma": "Waffel",
+  "wortart": "Nomen",
+  "silben": "Waf-fel",
+  "begriffserklaerung": "Eine Waffel ist ein knuspriges Gebäck, das in einem Waffeleisen gebacken wird. Es hat ein typisches Muster mit kleinen Kästchen. Waffeln schmecken süß und werden oft mit Sahne oder Eis gegessen.",
+  "beispielsatz": "Auf dem Jahrmarkt kauft Lisa eine frische Waffel mit Sahne und Erdbeeren.",
+  "rechtschreibstrategie": "Das Wort „Waffel\" hat einen kurzen Vokal „a\", deshalb folgen zwei „f\" hintereinander – man schreibt „ff\" und am Ende „el\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Waffel",
+    "plural": "die Waffeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Waffel",
+        "genitiv": "der Waffel",
+        "dativ": "der Waffel",
+        "akkusativ": "die Waffel"
+      },
+      "plural": {
+        "nominativ": "die Waffeln",
+        "genitiv": "der Waffeln",
+        "dativ": "den Waffeln",
+        "akkusativ": "die Waffeln"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Waffel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waffeleisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waffelteig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfannkuchen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weckerl"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waffle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gaufre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "waffle"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وافل"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wafel",
+    "Waffell",
+    "Vaffel",
+    "Wafle",
+    "Waffele"
+  ],
+  "bild_datei": "Waffel.webp",
+  "audio_datei": "Waffel.mp3"
+}

@@ -1,0 +1,87 @@
+{
+  "lemma": "Feldmaus",
+  "wortart": "Nomen",
+  "silben": "Feld-maus",
+  "begriffserklaerung": "Die Feldmaus ist ein kleines Tier mit braunem Fell, das auf Feldern und Wiesen lebt. Sie frisst Körner, Gras und Wurzeln.",
+  "beispielsatz": "Die Feldmaus huscht schnell durch das hohe Gras.",
+  "rechtschreibstrategie": "Das Wort „Feldmaus\" besteht aus zwei Teilen: „Feld\" und „Maus\". Sprich beide Teile einzeln, dann kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Feld",
+    "Maus"
+  ],
+  "bild_datei": "Feldmaus.webp",
+  "audio_datei": "Feldmaus.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Feldmaus",
+    "plural": "die Feldmäuse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Feldmaus",
+        "genitiv": "der Feldmaus",
+        "dativ": "der Feldmaus",
+        "akkusativ": "die Feldmaus"
+      },
+      "plural": {
+        "nominativ": "die Feldmäuse",
+        "genitiv": "der Feldmäuse",
+        "dativ": "den Feldmäusen",
+        "akkusativ": "die Feldmäuse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "field mouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "campagnol des champs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tarla faresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فأر الحقل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wühlmaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Igel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wühlmaus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fältmaus",
+    "Feldtmaus",
+    "Felmaus",
+    "Feldmauß",
+    "Feldmauhs"
+  ]
+}

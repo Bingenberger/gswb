@@ -1,0 +1,82 @@
+{
+  "lemma": "Chemiker",
+  "wortart": "Nomen",
+  "silben": "Che-mi-ker",
+  "begriffserklaerung": "Ein Chemiker ist ein Wissenschaftler, der Stoffe und ihre Eigenschaften untersucht. Er erforscht, woraus Dinge bestehen und wie sie sich verändern.",
+  "beispielsatz": "Der Chemiker mischt im Labor zwei Flüssigkeiten zusammen und beobachtet, was passiert.",
+  "rechtschreibstrategie": "Das Wort „Chemiker\" beginnt mit „Ch\", das wie ein „K\" klingt. Denk daran: „Ch\" am Wortanfang klingt oft wie „K\" – zum Beispiel auch bei „Chaos\" oder „Chor\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "Chemie"
+  ],
+  "bild_datei": "Chemiker.webp",
+  "audio_datei": "Chemiker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chemist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chimiste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kimyacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كيميائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chemie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Chemikerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Physiker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Chemiker",
+    "plural": "die Chemiker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Chemiker",
+        "genitiv": "des Chemikers",
+        "dativ": "dem Chemiker",
+        "akkusativ": "den Chemiker"
+      },
+      "plural": {
+        "nominativ": "die Chemiker",
+        "genitiv": "der Chemiker",
+        "dativ": "den Chemikern",
+        "akkusativ": "die Chemiker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kemiker",
+    "Kchemiker",
+    "Chemicker",
+    "Chemmiker",
+    "Cemiker"
+  ]
+}

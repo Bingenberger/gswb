@@ -1,0 +1,93 @@
+{
+  "lemma": "Vorführung",
+  "wortart": "Nomen",
+  "silben": "Vor-füh-rung",
+  "begriffserklaerung": "Eine Vorführung ist, wenn jemand etwas vor anderen Menschen zeigt oder aufführt, zum Beispiel ein Theaterstück, einen Zaubertrick oder einen Film.",
+  "beispielsatz": "Die Kinder üben fleißig für die große Vorführung am Ende des Schuljahres.",
+  "rechtschreibstrategie": "Das Wort „Vorführung\" ist ein Bausteinwort aus „vor\" + „führ\" + „ung\". Das Dehnungs-h im Wortteil „führ\" hilft dir: Du hörst ein langes ü, das mit „h\" gedehnt wird – wie beim Wort „führen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "führen"
+  ],
+  "bild_datei": "Vorführung.webp",
+  "audio_datei": "Vorführung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Vorführung",
+    "plural": "die Vorführungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Vorführung",
+        "genitiv": "der Vorführung",
+        "dativ": "der Vorführung",
+        "akkusativ": "die Vorführung"
+      },
+      "plural": {
+        "nominativ": "die Vorführungen",
+        "genitiv": "der Vorführungen",
+        "dativ": "den Vorführungen",
+        "akkusativ": "die Vorführungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "performance / presentation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "représentation / présentation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gösteri / sunum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "führen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufführung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufführung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Darbietung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zirkus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    }
+  ],
+  "fehlschreibungen": [
+    "Vorfürung",
+    "Vorführrung",
+    "Vorfuehrung",
+    "Vorfürrung",
+    "Vorfürrhung",
+    "Vorführug"
+  ]
+}

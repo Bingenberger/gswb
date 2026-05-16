@@ -1,0 +1,84 @@
+{
+  "lemma": "Lebensphase",
+  "wortart": "Nomen",
+  "silben": "Le-bens-pha-se",
+  "begriffserklaerung": "Eine Lebensphase ist ein bestimmter Abschnitt im Leben eines Menschen, zum Beispiel die Kindheit, die Jugend oder das Erwachsensein.",
+  "beispielsatz": "Die Kindheit ist eine schöne Lebensphase, in der man viel lernt und spielt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Leben\" und „Phase\". Schreibe beide Teile einfach zusammen: Lebens-phase. Das „ph\" in „Phase\" klingt wie ein „f\", wird aber mit „ph\" geschrieben – das musst du dir merken!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "leben",
+    "Phase"
+  ],
+  "bild_datei": "Lebensphase.webp",
+  "audio_datei": "Lebensphase.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "phase of life"
+    },
+    {
+      "language_code": "fr",
+      "translation": "phase de vie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşam evresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرحلة حياة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lebensabschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kindheit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jugend"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebensabschnitt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lebensphase",
+    "plural": "die Lebensphasen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lebensphase",
+        "genitiv": "der Lebensphase",
+        "dativ": "der Lebensphase",
+        "akkusativ": "die Lebensphase"
+      },
+      "plural": {
+        "nominativ": "die Lebensphasen",
+        "genitiv": "der Lebensphasen",
+        "dativ": "den Lebensphasen",
+        "akkusativ": "die Lebensphasen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Lebensfahse",
+    "Lebensfase",
+    "Lebensphaze",
+    "Lebenspase",
+    "Lebensphasse"
+  ]
+}

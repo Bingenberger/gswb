@@ -1,0 +1,93 @@
+{
+  "lemma": "Anstieg",
+  "wortart": "Nomen",
+  "silben": "An-stieg",
+  "begriffserklaerung": "Ein Anstieg ist eine Stelle, an der es steil nach oben geht, zum Beispiel ein Berg oder eine Treppe. Das Wort kann auch bedeuten, dass etwas mehr wird, zum Beispiel wenn die Temperatur steigt.",
+  "beispielsatz": "Der Anstieg zum Gipfel war steil, aber wir haben es geschafft!",
+  "rechtschreibstrategie": "Das Wort „Anstieg\" enthält das Dehnungs-ie: spr-ie-ch laut mit und höre das lange „i\" in „stieg\". Denk daran: Nach dem „st\" kommt ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steig",
+    "stieg"
+  ],
+  "bild_datei": "Anstieg.webp",
+  "audio_datei": "Anstieg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Anstieg",
+    "plural": "die Anstiege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Anstieg",
+        "genitiv": "des Anstiegs",
+        "dativ": "dem Anstieg",
+        "akkusativ": "den Anstieg"
+      },
+      "plural": {
+        "nominativ": "die Anstiege",
+        "genitiv": "der Anstiege",
+        "dativ": "den Anstiegen",
+        "akkusativ": "die Anstiege"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ascent / rise"
+    },
+    {
+      "language_code": "fr",
+      "translation": "montée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yokuş / tırmanış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صعود / ارتفاع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Steigung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefälle"
+    }
+  ],
+  "fehlschreibungen": [
+    "Anstiek",
+    "Anstik",
+    "Anstig",
+    "Anstieg",
+    "Anstieck",
+    "Anstíeg"
+  ]
+}

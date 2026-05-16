@@ -1,0 +1,89 @@
+{
+  "lemma": "Veränderung",
+  "wortart": "Nomen",
+  "silben": "Ver-än-de-rung",
+  "begriffserklaerung": "Eine Veränderung ist, wenn etwas anders wird als es vorher war.",
+  "beispielsatz": "Der Umzug in die neue Stadt war eine große Veränderung für unsere Familie.",
+  "rechtschreibstrategie": "Denke an das Verb „ändern\" – daraus wird „Ver-änderung\". Das ä kommt von „ändern\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Veränderung",
+    "plural": "die Veränderungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Veränderung",
+        "genitiv": "der Veränderung",
+        "dativ": "der Veränderung",
+        "akkusativ": "die Veränderung"
+      },
+      "plural": {
+        "nominativ": "die Veränderungen",
+        "genitiv": "der Veränderungen",
+        "dativ": "den Veränderungen",
+        "akkusativ": "die Veränderungen"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "ändern"
+  ],
+  "fehlschreibungen": [
+    "Veränderung",
+    "Veraenderung",
+    "Verändrung",
+    "Ferränderung",
+    "Veränterung",
+    "Veänderung"
+  ],
+  "bild_datei": "Veränderung.webp",
+  "audio_datei": "Veränderung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "change"
+    },
+    {
+      "language_code": "fr",
+      "translation": "changement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "değişim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغيير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ändern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Änderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wandel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Entwicklung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterschied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wechsel"
+    }
+  ]
+}

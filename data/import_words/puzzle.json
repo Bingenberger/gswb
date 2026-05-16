@@ -1,0 +1,77 @@
+{
+  "lemma": "Puzzle",
+  "wortart": "Nomen",
+  "silben": "Puz-zle",
+  "begriffserklaerung": "Ein Puzzle ist ein Spiel, bei dem viele kleine Teile zusammengesetzt werden, um ein Bild zu ergeben.",
+  "beispielsatz": "Lena legt mit ihrer Familie ein großes Puzzle mit 500 Teilen.",
+  "rechtschreibstrategie": "Das Wort „Puzzle\" kommt aus dem Englischen. Denk daran: Nach dem kurzen „u\" folgt „zz\" – wie im Englischen! Sprich es so aus: „Pazzle\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Puzzle",
+    "plural": "die Puzzles",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Puzzle",
+        "genitiv": "des Puzzles",
+        "dativ": "dem Puzzle",
+        "akkusativ": "das Puzzle"
+      },
+      "plural": {
+        "nominativ": "die Puzzles",
+        "genitiv": "der Puzzles",
+        "dativ": "den Puzzles",
+        "akkusativ": "die Puzzles"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Puzzle"
+  ],
+  "fehlschreibungen": [
+    "Puzle",
+    "Pusle",
+    "Pussle",
+    "Puzzel"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "puzzeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geduldsspiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Legespiel"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "puzzle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "puzzle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapboz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أحجية الصور المقطعة"
+    }
+  ],
+  "bild_datei": "Puzzle.webp",
+  "audio_datei": "Puzzle.mp3"
+}

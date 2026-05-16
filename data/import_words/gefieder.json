@@ -1,0 +1,82 @@
+{
+  "lemma": "Gefieder",
+  "wortart": "Nomen",
+  "silben": "Ge-fie-der",
+  "begriffserklaerung": "Das Gefieder sind alle Federn eines Vogels zusammen. Es hält den Vogel warm und hilft ihm beim Fliegen.",
+  "beispielsatz": "Der Pfau hat ein besonders buntes und schönes Gefieder.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-fie-der. In der Mitte hörst du ein langes „i\" – das schreibt man hier als „ie\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Feder"
+  ],
+  "bild_datei": "Gefieder.webp",
+  "audio_datei": "Gefieder.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "plumage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plumage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüyler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ريش"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feder"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "befiedern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flügel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Federkleid"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefieder",
+    "plural": "die Gefieder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefieder",
+        "genitiv": "des Gefieders",
+        "dativ": "dem Gefieder",
+        "akkusativ": "das Gefieder"
+      },
+      "plural": {
+        "nominativ": "die Gefieder",
+        "genitiv": "der Gefieder",
+        "dativ": "den Gefiedern",
+        "akkusativ": "die Gefieder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gefieder",
+    "Gefider",
+    "Gefiehder",
+    "Gefietter",
+    "Gefiederh"
+  ]
+}

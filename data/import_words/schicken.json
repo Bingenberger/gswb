@@ -1,0 +1,95 @@
+{
+  "lemma": "schicken",
+  "wortart": "Verb",
+  "silben": "schi-cken",
+  "begriffserklaerung": "Etwas oder jemanden von einem Ort zu einem anderen Ort bringen lassen.",
+  "beispielsatz": "Ich schicke meiner Oma einen Brief.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt ein Doppel-k – aber weil „k\" nach „c\" steht, schreibt man „ck\" statt „kk\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schick"
+  ],
+  "bild_datei": "schicken.webp",
+  "audio_datei": "schicken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to send"
+    },
+    {
+      "language_code": "fr",
+      "translation": "envoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göndermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرسِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schicksal"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abschicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "senden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schicken",
+    "praesens": {
+      "ich": "schicke",
+      "du": "schickst",
+      "er_sie_es": "schickt",
+      "wir": "schicken",
+      "ihr": "schickt",
+      "sie": "schicken"
+    },
+    "perfekt": {
+      "ich": "habe geschickt",
+      "du": "hast geschickt",
+      "er_sie_es": "hat geschickt",
+      "wir": "haben geschickt",
+      "ihr": "habt geschickt",
+      "sie": "haben geschickt"
+    },
+    "praeteritum": {
+      "ich": "schickte",
+      "du": "schicktest",
+      "er_sie_es": "schickte",
+      "wir": "schickten",
+      "ihr": "schicktet",
+      "sie": "schickten"
+    }
+  },
+  "fehlschreibungen": [
+    "schiken",
+    "schikken",
+    "shicken",
+    "schicen",
+    "schickken",
+    "schikcen"
+  ]
+}

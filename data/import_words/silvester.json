@@ -1,0 +1,71 @@
+{
+  "lemma": "Silvester",
+  "wortart": "Nomen",
+  "silben": "Sil-ves-ter",
+  "begriffserklaerung": "Silvester ist der letzte Tag des Jahres, der 31. Dezember. An diesem Tag feiern viele Menschen, dass das alte Jahr endet und ein neues Jahr beginnt. Um Mitternacht gibt es oft ein buntes Feuerwerk.",
+  "beispielsatz": "An Silvester schauen wir gemeinsam das Feuerwerk an und wünschen uns ein frohes neues Jahr.",
+  "rechtschreibstrategie": "Sprich das Wort in drei Silben: Sil – ves – ter. Achte auf das „v\" in der Mitte – das schreibst du wie in „Vater\", nicht mit „f\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Silvester.webp",
+  "audio_datei": "Silvester.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "New Year's Eve"
+    },
+    {
+      "language_code": "fr",
+      "translation": "la Saint-Sylvestre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Yılbaşı Gecesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ليلة رأس السنة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Neujahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jahreswechsel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Silvester",
+    "plural": "die Silvester",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Silvester",
+        "genitiv": "des Silvesters",
+        "dativ": "dem Silvester",
+        "akkusativ": "den Silvester"
+      },
+      "plural": {
+        "nominativ": "die Silvester",
+        "genitiv": "der Silvester",
+        "dativ": "den Silvestern",
+        "akkusativ": "die Silvester"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Silvester",
+    "Sylvester",
+    "Sillvester",
+    "Silfester"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "lemma": "Papagei",
+  "wortart": "Nomen",
+  "silben": "Pa-pa-gei",
+  "begriffserklaerung": "Ein Papagei ist ein bunter Vogel, der oft sprechen und Wörter nachahmen kann.",
+  "beispielsatz": "Der bunte Papagei sitzt auf der Stange und ruft laut: „Hallo!\"",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Pa-pa-gei. Am Ende hörst du „gei\" – das schreibst du mit ei, nicht mit ai.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Papagei.webp",
+  "audio_datei": "Papagei.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "parrot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "perroquet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "papağan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ببغاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnabel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Papagei",
+    "plural": "die Papageien",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Papagei",
+        "genitiv": "des Papageis",
+        "dativ": "dem Papagei",
+        "akkusativ": "den Papagei"
+      },
+      "plural": {
+        "nominativ": "die Papageien",
+        "genitiv": "der Papageien",
+        "dativ": "den Papageien",
+        "akkusativ": "die Papageien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Papagai",
+    "Papagay",
+    "Papagey",
+    "Papagei"
+  ]
+}

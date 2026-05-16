@@ -1,0 +1,83 @@
+{
+  "lemma": "Säugling",
+  "wortart": "Nomen",
+  "silben": "Säug-ling",
+  "begriffserklaerung": "Ein Säugling ist ein sehr kleines Baby, das noch keine festen Speisen essen kann und nur Milch trinkt.",
+  "beispielsatz": "Der Säugling schläft fast den ganzen Tag und weint, wenn er Hunger hat.",
+  "rechtschreibstrategie": "Denk an das Wort „saugen\" – ein Säugling saugt Milch. Daher schreibt man „Säug-ling\" mit äu und g.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "saug"
+  ],
+  "bild_datei": "Säugling.webp",
+  "audio_datei": "Säugling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Säugling",
+    "plural": "die Säuglinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Säugling",
+        "genitiv": "des Säuglings",
+        "dativ": "dem Säugling",
+        "akkusativ": "den Säugling"
+      },
+      "plural": {
+        "nominativ": "die Säuglinge",
+        "genitiv": "der Säuglinge",
+        "dativ": "den Säuglingen",
+        "akkusativ": "die Säuglinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "infant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nourrisson"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bebek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رضيع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "saugen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleinkind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Säugeling",
+    "Seügling",
+    "Säukling",
+    "Seugling",
+    "Säuglink"
+  ]
+}

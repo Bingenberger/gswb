@@ -1,0 +1,86 @@
+{
+  "lemma": "Insekt",
+  "wortart": "Nomen",
+  "silben": "In-sekt",
+  "begriffserklaerung": "Ein Insekt ist ein kleines Tier mit sechs Beinen und einem Körper, der in drei Teile gegliedert ist: Kopf, Brust und Hinterleib. Viele Insekten haben Flügel.",
+  "beispielsatz": "Die Biene ist ein Insekt, das fleißig Nektar sammelt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: In-sekt. Denk daran: Am Ende steht „kt\" – beide Buchstaben hörst du beim langsamen Sprechen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Insekt"
+  ],
+  "bild_datei": "Insekt.webp",
+  "audio_datei": "Insekt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "insect"
+    },
+    {
+      "language_code": "fr",
+      "translation": "insecte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "böcek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حشرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Insektenkunde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Insektenspray"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmetterling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kerbtier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Insekt",
+    "plural": "die Insekten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Insekt",
+        "genitiv": "des Insekts",
+        "dativ": "dem Insekt",
+        "akkusativ": "das Insekt"
+      },
+      "plural": {
+        "nominativ": "die Insekten",
+        "genitiv": "der Insekten",
+        "dativ": "den Insekten",
+        "akkusativ": "die Insekten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Inseckt",
+    "Inzekt",
+    "Insäkt",
+    "Insäct",
+    "Inssekt"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Spiegelei",
+  "wortart": "Nomen",
+  "silben": "Spie-gel-ei",
+  "begriffserklaerung": "Ein Spiegelei ist ein gebratenes Ei, bei dem das Eigelb in der Mitte ganz bleibt und aussieht wie ein Spiegel.",
+  "beispielsatz": "Mama brät mir morgens ein Spiegelei in der Pfanne.",
+  "rechtschreibstrategie": "Das Wort Spiegelei ist aus zwei Teilen zusammengesetzt: „Spiegel\" und „Ei\". Merke dir: Spiegel hat ein langes „ie\" – wie in „siegen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Spiegel",
+    "Ei"
+  ],
+  "bild_datei": "Spiegelei.webp",
+  "audio_datei": "Spiegelei.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Spiegelei",
+    "plural": "die Spiegeleier",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Spiegelei",
+        "genitiv": "des Spiegeleis",
+        "dativ": "dem Spiegelei",
+        "akkusativ": "das Spiegelei"
+      },
+      "plural": {
+        "nominativ": "die Spiegeleier",
+        "genitiv": "der Spiegeleier",
+        "dativ": "den Spiegeleiern",
+        "akkusativ": "die Spiegeleier"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fried egg"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œuf au plat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahanda yumurta"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بيضة مقلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiegel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rührei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfannkuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühstück"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spieglei",
+    "Spiegeley",
+    "Spiegelai",
+    "Spiggelei",
+    "Spiegelley"
+  ]
+}

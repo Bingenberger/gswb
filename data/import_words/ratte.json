@@ -1,0 +1,82 @@
+{
+  "lemma": "Ratte",
+  "wortart": "Nomen",
+  "silben": "Rat-te",
+  "begriffserklaerung": "Eine Ratte ist ein kleines Tier mit spitzer Schnauze, langen Zähnen und einem langen, dünnen Schwanz. Ratten leben oft in der Nähe von Menschen.",
+  "beispielsatz": "Die Ratte huscht schnell hinter die Mülltonne.",
+  "rechtschreibstrategie": "Bei „Ratte\" hörst du ein kurzes „a\". Deshalb wird das „t\" verdoppelt: Rat-te. Sprich die Silben laut mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ratt-"
+  ],
+  "bild_datei": "Ratte.webp",
+  "audio_datei": "Ratte.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ratte",
+    "plural": "die Ratten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ratte",
+        "genitiv": "der Ratte",
+        "dativ": "der Ratte",
+        "akkusativ": "die Ratte"
+      },
+      "plural": {
+        "nominativ": "die Ratten",
+        "genitiv": "der Ratten",
+        "dativ": "den Ratten",
+        "akkusativ": "die Ratten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sıçan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جرذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ratten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rattenfänger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nagetier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Rate",
+    "Ratte",
+    "Radte",
+    "Rahtte",
+    "Rате"
+  ]
+}

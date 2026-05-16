@@ -1,0 +1,86 @@
+{
+  "lemma": "Kunst",
+  "wortart": "Nomen",
+  "silben": "Kunst",
+  "begriffserklaerung": "Kunst ist alles, was Menschen kreativ gestalten – zum Beispiel Bilder malen, Musik machen oder tanzen. Kunst drückt Gefühle und Ideen aus.",
+  "beispielsatz": "Im Kunstunterricht malen wir heute bunte Bilder mit Wasserfarben.",
+  "rechtschreibstrategie": "„Kunst\" hat nur eine Silbe. Sprich das Wort laut: Du hörst am Ende ein „st\". Schreibe es genau so, wie du es hörst: K-u-n-s-t.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kunst"
+  ],
+  "bild_datei": "Kunst.webp",
+  "audio_datei": "Kunst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "art"
+    },
+    {
+      "language_code": "fr",
+      "translation": "art"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sanat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "künstlerisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Künstler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Malerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kreativität"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kunst",
+    "plural": "die Künste",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kunst",
+        "genitiv": "der Kunst",
+        "dativ": "der Kunst",
+        "akkusativ": "die Kunst"
+      },
+      "plural": {
+        "nominativ": "die Künste",
+        "genitiv": "der Künste",
+        "dativ": "den Künsten",
+        "akkusativ": "die Künste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Cunst",
+    "Kunts",
+    "Kunnst",
+    "Kunsst",
+    "Gunst"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Instrument",
+  "wortart": "Nomen",
+  "silben": "In-stru-ment",
+  "begriffserklaerung": "Ein Instrument ist ein Gegenstand, mit dem man Musik machen kann, zum Beispiel eine Gitarre oder eine Flöte.",
+  "beispielsatz": "Lena spielt jeden Tag auf ihrem Instrument.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: In-stru-ment. Achte auf das „u\" in der Mitte und das „t\" am Ende – man hört beide deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Instrument"
+  ],
+  "bild_datei": "Instrument.webp",
+  "audio_datei": "Instrument.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "instrument"
+    },
+    {
+      "language_code": "fr",
+      "translation": "instrument"
+    },
+    {
+      "language_code": "tr",
+      "translation": "enstrüman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "آلة موسيقية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "instrumentieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Instrumentierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Melodie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Musikinstrument"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Instrument",
+    "plural": "die Instrumente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Instrument",
+        "genitiv": "des Instruments",
+        "dativ": "dem Instrument",
+        "akkusativ": "das Instrument"
+      },
+      "plural": {
+        "nominativ": "die Instrumente",
+        "genitiv": "der Instrumente",
+        "dativ": "den Instrumenten",
+        "akkusativ": "die Instrumente"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Instrumend",
+    "Insrument",
+    "Instrumänt",
+    "Instroment",
+    "Instrument"
+  ]
+}

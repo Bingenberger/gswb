@@ -1,0 +1,82 @@
+{
+  "lemma": "Rabe",
+  "wortart": "Nomen",
+  "silben": "Ra-be",
+  "begriffserklaerung": "Ein Rabe ist ein großer, schwarzer Vogel mit einem kräftigen Schnabel. Raben sind sehr klug und können sogar einige Wörter nachahmen.",
+  "beispielsatz": "Der schwarze Rabe sitzt laut krächzend auf dem alten Baum.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ra-be. Am Ende hörst du ein weiches „b\" – aber du schreibst es mit „b\", weil du es beim Verlängern (die Raben) deutlich hörst.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Rabe"
+  ],
+  "bild_datei": "Rabe.webp",
+  "audio_datei": "Rabe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "raven"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corbeau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karga"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غراب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rabenmutter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rabenschwarz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krähe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kolkrabe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rabe",
+    "plural": "die Raben",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rabe",
+        "genitiv": "des Raben",
+        "dativ": "dem Raben",
+        "akkusativ": "den Raben"
+      },
+      "plural": {
+        "nominativ": "die Raben",
+        "genitiv": "der Raben",
+        "dativ": "den Raben",
+        "akkusativ": "die Raben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Raabe",
+    "Rapen",
+    "Rave",
+    "Rahbe",
+    "Rabbe"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Unterricht",
+  "wortart": "Nomen",
+  "silben": "Un-ter-richt",
+  "begriffserklaerung": "Der Unterricht ist die Zeit in der Schule, in der eine Lehrerin oder ein Lehrer den Kindern etwas beibringt.",
+  "beispielsatz": "Der Unterricht beginnt heute um acht Uhr.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Un-ter-richt. Höre das „r\" in „richt\" – es steckt das Wort „richten\" darin!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "richt"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Unterricht",
+    "plural": "die Unterrichte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Unterricht",
+        "genitiv": "des Unterrichts",
+        "dativ": "dem Unterricht",
+        "akkusativ": "den Unterricht"
+      },
+      "plural": {
+        "nominativ": "die Unterrichte",
+        "genitiv": "der Unterrichte",
+        "dativ": "den Unterrichten",
+        "akkusativ": "die Unterrichte"
+      }
+    }
+  },
+  "bild_datei": "Unterricht.webp",
+  "audio_datei": "Unterricht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lesson / class"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دَرْس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "unterrichten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulstunde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Unterich",
+    "Unterrigt",
+    "Untherrricht",
+    "Unterrict",
+    "Unttericht"
+  ]
+}

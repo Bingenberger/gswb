@@ -1,0 +1,84 @@
+{
+  "lemma": "Zahnrad",
+  "wortart": "Nomen",
+  "silben": "Zahn-rad",
+  "begriffserklaerung": "Ein Zahnrad ist ein rundes Maschinenteil mit vielen kleinen Zacken am Rand. Diese Zacken greifen in andere Zahnräder und übertragen so Kraft und Bewegung.",
+  "beispielsatz": "In der alten Uhr drehen sich viele Zahnräder, damit die Zeiger sich bewegen.",
+  "rechtschreibstrategie": "„Zahnrad\" ist aus zwei Wörtern zusammengebaut: „Zahn\" und „Rad\". Sprich beide Teile einzeln: ZAHN + RAD. So schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn",
+    "Rad"
+  ],
+  "bild_datei": "Zahnrad.webp",
+  "audio_datei": "Zahnrad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gear / cogwheel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "roue dentée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dişli çark"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تروس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getriebe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Zahnrad",
+    "plural": "die Zahnräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Zahnrad",
+        "genitiv": "des Zahnrades",
+        "dativ": "dem Zahnrad",
+        "akkusativ": "das Zahnrad"
+      },
+      "plural": {
+        "nominativ": "die Zahnräder",
+        "genitiv": "der Zahnräder",
+        "dativ": "den Zahnrädern",
+        "akkusativ": "die Zahnräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zahnradt",
+    "Zanrad",
+    "Zahnrat",
+    "Zahnnrad",
+    "Zanrrad"
+  ]
+}

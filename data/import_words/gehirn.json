@@ -1,0 +1,73 @@
+{
+  "lemma": "Gehirn",
+  "wortart": "Nomen",
+  "silben": "Ge-hirn",
+  "begriffserklaerung": "Das Gehirn ist das wichtigste Organ in deinem Kopf. Es steuert alles, was du denkst, fühlst und tust.",
+  "beispielsatz": "Das Gehirn arbeitet auch dann, wenn wir schlafen.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: Ge-HIRN – das „h\" hörst du nicht, aber du schreibst es trotzdem!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gehirn.webp",
+  "audio_datei": "Gehirn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cerveau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beyin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دماغ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kopf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nerv"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Organ"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gehirn",
+    "plural": "die Gehirne",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gehirn",
+        "genitiv": "des Gehirns",
+        "dativ": "dem Gehirn",
+        "akkusativ": "das Gehirn"
+      },
+      "plural": {
+        "nominativ": "die Gehirne",
+        "genitiv": "der Gehirne",
+        "dativ": "den Gehirnen",
+        "akkusativ": "die Gehirne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gehirhn",
+    "Gehirn",
+    "Gerirn",
+    "Gehihrn",
+    "Gehrin",
+    "Gehhirn"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kellnerin",
+  "wortart": "Nomen",
+  "silben": "Kell-ne-rin",
+  "begriffserklaerung": "Eine Kellnerin arbeitet in einem Restaurant oder Café. Sie bringt den Gästen das Essen und die Getränke an den Tisch.",
+  "beispielsatz": "Die Kellnerin bringt uns zwei Portionen Eis und lächelt freundlich.",
+  "rechtschreibstrategie": "Das Wort „Kellnerin\" hat ein doppeltes l, weil das e davor kurz gesprochen wird. Sprich laut: Kell-ne-rin – dann hörst du beide l!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kellner"
+  ],
+  "bild_datei": "Kellnerin.webp",
+  "audio_datei": "Kellnerin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kellnerin",
+    "plural": "die Kellnerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kellnerin",
+        "genitiv": "der Kellnerin",
+        "dativ": "der Kellnerin",
+        "akkusativ": "die Kellnerin"
+      },
+      "plural": {
+        "nominativ": "die Kellnerinnen",
+        "genitiv": "der Kellnerinnen",
+        "dativ": "den Kellnerinnen",
+        "akkusativ": "die Kellnerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waitress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "serveuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "garson (kadın)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نادلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kellner"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kellnern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speisekarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkgeld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Servicekraft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kelnerin",
+    "Kellnnerin",
+    "Kelnnerin",
+    "Kellnerrin",
+    "Kelnnerrin"
+  ]
+}

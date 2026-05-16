@@ -1,0 +1,82 @@
+{
+  "lemma": "Gürtel",
+  "wortart": "Nomen",
+  "silben": "Gür-tel",
+  "begriffserklaerung": "Ein Gürtel ist ein schmales Band aus Leder oder Stoff, das du um die Hose oder den Rock trägst, damit er nicht rutscht.",
+  "beispielsatz": "Max schnallt seinen Gürtel fest, bevor er in die Schule geht.",
+  "rechtschreibstrategie": "Denke beim Schreiben an das Ü am Anfang – sprich laut: GÜRR-tel. Das ü klingt kurz, deshalb bleibt es beim Schreiben ein ü.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Gürtel"
+  ],
+  "bild_datei": "Gürtel.webp",
+  "audio_datei": "Gürtel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "belt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ceinture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kemer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حزام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gürteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gürteltier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnalle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauchband"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gürtel",
+    "plural": "die Gürtel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gürtel",
+        "genitiv": "des Gürtels",
+        "dativ": "dem Gürtel",
+        "akkusativ": "den Gürtel"
+      },
+      "plural": {
+        "nominativ": "die Gürtel",
+        "genitiv": "der Gürtel",
+        "dativ": "den Gürteln",
+        "akkusativ": "die Gürtel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Giertel",
+    "Gürttel",
+    "Gürtell",
+    "Gürtal",
+    "Gürtel"
+  ]
+}

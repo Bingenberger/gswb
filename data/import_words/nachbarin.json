@@ -1,0 +1,83 @@
+{
+  "lemma": "Nachbarin",
+  "wortart": "Nomen",
+  "silben": "Nach-ba-rin",
+  "begriffserklaerung": "Eine Nachbarin ist eine Frau, die in der Nähe wohnt, zum Beispiel nebenan oder in der gleichen Straße.",
+  "beispielsatz": "Unsere Nachbarin bringt uns manchmal frischen Kuchen vorbei.",
+  "rechtschreibstrategie": "Höre genau hin: Nach-ba-rin. Das Wort steckt in „Nachbar\" – sprich alle drei Silben deutlich mit!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Nachbar"
+  ],
+  "bild_datei": "Nachbarin.webp",
+  "audio_datei": "Nachbarin.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Nachbarin",
+    "plural": "die Nachbarinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Nachbarin",
+        "genitiv": "der Nachbarin",
+        "dativ": "der Nachbarin",
+        "akkusativ": "die Nachbarin"
+      },
+      "plural": {
+        "nominativ": "die Nachbarinnen",
+        "genitiv": "der Nachbarinnen",
+        "dativ": "den Nachbarinnen",
+        "akkusativ": "die Nachbarinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "neighbour (female)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voisine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "komşu (kadın)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachbar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachbarschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anwohnerin"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nachbahrin",
+    "Nachberin",
+    "Nachbarin",
+    "Nachparin",
+    "Nachbaarin",
+    "Nachtbarin"
+  ]
+}

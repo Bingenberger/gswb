@@ -1,0 +1,95 @@
+{
+  "lemma": "Wertstofftonne",
+  "wortart": "Nomen",
+  "silben": "Wert-stoff-ton-ne",
+  "begriffserklaerung": "Eine Wertstofftonne ist eine große Mülltonne, in die man Dinge wirft, die wiederverwertet werden können – zum Beispiel Plastik, Metall oder Verpackungen.",
+  "beispielsatz": "Mama wirft die leere Plastikflasche in die Wertstofftonne.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Wert\" + „Stoff\" + „Tonne\". Sprich alle drei Teile nacheinander: Wert – Stoff – Ton – ne.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wert",
+    "Stoff",
+    "Tonne"
+  ],
+  "bild_datei": "Wertstofftonne.webp",
+  "audio_datei": "Wertstofftonne.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wertstofftonne",
+    "plural": "die Wertstofftonnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wertstofftonne",
+        "genitiv": "der Wertstofftonne",
+        "dativ": "der Wertstofftonne",
+        "akkusativ": "die Wertstofftonne"
+      },
+      "plural": {
+        "nominativ": "die Wertstofftonnen",
+        "genitiv": "der Wertstofftonnen",
+        "dativ": "den Wertstofftonnen",
+        "akkusativ": "die Wertstofftonnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "recycling bin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poubelle de recyclage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geri dönüşüm kutusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حاوية إعادة التدوير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stoff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltrennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gelbe Tonne"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Recyclingtonne"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wertstofftone",
+    "Wertstoftonne",
+    "Wertsstofftonne",
+    "Wärtstofftonne",
+    "Wertstofftonne",
+    "Wertstoftone",
+    "Wertsstoftonne"
+  ]
+}

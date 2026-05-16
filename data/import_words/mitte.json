@@ -1,0 +1,89 @@
+{
+  "lemma": "Mitte",
+  "wortart": "Nomen",
+  "silben": "Mit-te",
+  "begriffserklaerung": "Die Mitte ist der Punkt oder Bereich, der von allen Seiten gleich weit entfernt ist.",
+  "beispielsatz": "Der Apfel liegt genau in der Mitte des Tisches.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt ein Doppel-t: Mit-te. Sprich beide t's deutlich mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mitte",
+    "plural": "die Mitten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mitte",
+        "genitiv": "der Mitte",
+        "dativ": "der Mitte",
+        "akkusativ": "die Mitte"
+      },
+      "plural": {
+        "nominativ": "die Mitten",
+        "genitiv": "der Mitten",
+        "dativ": "den Mitten",
+        "akkusativ": "die Mitten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "mitt"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mittig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mittelmäßig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zentrum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mittelpunkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ecke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hälfte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mite",
+    "Mitte",
+    "Mide",
+    "Miti"
+  ],
+  "bild_datei": "Mitte.webp",
+  "audio_datei": "Mitte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "middle, center"
+    },
+    {
+      "language_code": "fr",
+      "translation": "milieu, centre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orta, merkez"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وسط، مركز"
+    }
+  ]
+}

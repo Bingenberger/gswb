@@ -1,0 +1,86 @@
+{
+  "lemma": "Stein",
+  "wortart": "Nomen",
+  "silben": "Stein",
+  "begriffserklaerung": "Ein Stein ist ein hartes, festes Stück aus Gestein, das man auf der Erde oder am Boden findet.",
+  "beispielsatz": "Lena hebt einen kleinen Stein vom Boden auf und wirft ihn ins Wasser.",
+  "rechtschreibstrategie": "Das Wort „Stein\" hat den Doppellaut „ei\" – sprich beide Buchstaben gemeinsam: ei wie in „ein\". Denk daran: Stein beginnt mit großem S, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "stein"
+  ],
+  "bild_datei": "Stein.webp",
+  "audio_datei": "Stein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pierre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steinig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steinzeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Edelstein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fels"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kiesel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Felsen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stein",
+    "plural": "die Steine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stein",
+        "genitiv": "des Steines",
+        "dativ": "dem Stein",
+        "akkusativ": "den Stein"
+      },
+      "plural": {
+        "nominativ": "die Steine",
+        "genitiv": "der Steine",
+        "dativ": "den Steinen",
+        "akkusativ": "die Steine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stain",
+    "Sstein",
+    "Shtein",
+    "Stien",
+    "Steinn"
+  ]
+}

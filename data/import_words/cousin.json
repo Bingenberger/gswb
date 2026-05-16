@@ -1,0 +1,73 @@
+{
+  "lemma": "Cousin",
+  "wortart": "Nomen",
+  "silben": "Cou-sin",
+  "begriffserklaerung": "Ein Cousin ist der Sohn deines Onkels oder deiner Tante. Er gehört zu deiner Familie, aber ist nicht dein Bruder.",
+  "beispielsatz": "Mein Cousin kommt am Wochenende zu Besuch, und wir spielen zusammen im Garten.",
+  "rechtschreibstrategie": "Das Wort „Cousin\" kommt aus dem Französischen. Schreibe am Anfang „Cou\" – sprich es wie „Ku\" – und dann „sin\". Merke dir: C-o-u-s-i-n!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Cousin.webp",
+  "audio_datei": "Cousin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cousin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cousin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuzen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ابن العم / ابن الخال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Cousine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Onkel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Cousin",
+    "plural": "die Cousins",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Cousin",
+        "genitiv": "des Cousins",
+        "dativ": "dem Cousin",
+        "akkusativ": "den Cousin"
+      },
+      "plural": {
+        "nominativ": "die Cousins",
+        "genitiv": "der Cousins",
+        "dativ": "den Cousins",
+        "akkusativ": "die Cousins"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kussin",
+    "Cusin",
+    "Kuzin",
+    "Cousen",
+    "Couzin",
+    "Cousin"
+  ]
+}

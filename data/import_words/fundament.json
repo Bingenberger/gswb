@@ -1,0 +1,78 @@
+{
+  "lemma": "Fundament",
+  "wortart": "Nomen",
+  "silben": "Fun-da-ment",
+  "begriffserklaerung": "Ein Fundament ist der unterste, feste Teil eines Gebäudes. Es steckt meist im Boden und trägt das ganze Haus.",
+  "beispielsatz": "Bevor das Haus gebaut wurde, haben die Arbeiter zuerst ein stabiles Fundament gegossen.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Fun-da-ment. Achte auf das „a\" in der Mitte – es klingt kurz und deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "fundamental"
+  ],
+  "bild_datei": "Fundament.webp",
+  "audio_datei": "Fundament.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fundament",
+    "plural": "die Fundamente",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fundament",
+        "genitiv": "des Fundaments",
+        "dativ": "dem Fundament",
+        "akkusativ": "das Fundament"
+      },
+      "plural": {
+        "nominativ": "die Fundamente",
+        "genitiv": "der Fundamente",
+        "dativ": "den Fundamenten",
+        "akkusativ": "die Fundamente"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "foundation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fondation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أساس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fundamental"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grundlage"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fundamend",
+    "Funtament",
+    "Fondament",
+    "Fundamant",
+    "Fundamemt"
+  ]
+}

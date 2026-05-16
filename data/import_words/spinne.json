@@ -1,0 +1,82 @@
+{
+  "lemma": "Spinne",
+  "wortart": "Nomen",
+  "silben": "Spin-ne",
+  "begriffserklaerung": "Eine Spinne ist ein kleines Tier mit acht Beinen. Sie baut ein Netz aus feinen Fäden, um Insekten zu fangen.",
+  "beispielsatz": "Die Spinne sitzt in der Mitte ihres Netzes und wartet auf eine Fliege.",
+  "rechtschreibstrategie": "Das Wort „Spinne\" hat ein doppeltes n. Du hörst das kurze i – deshalb verdoppelst du das n: Spin-ne.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "spinn"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Spinne",
+    "plural": "die Spinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Spinne",
+        "genitiv": "der Spinne",
+        "dativ": "der Spinne",
+        "akkusativ": "die Spinne"
+      },
+      "plural": {
+        "nominativ": "die Spinnen",
+        "genitiv": "der Spinnen",
+        "dativ": "den Spinnen",
+        "akkusativ": "die Spinnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Spine",
+    "Spiene",
+    "Spinnne",
+    "Zpinne",
+    "Spinen"
+  ],
+  "bild_datei": "Spinne.webp",
+  "audio_datei": "Spinne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spider"
+    },
+    {
+      "language_code": "fr",
+      "translation": "araignée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "örümcek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عنكبوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spinnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spinnennetz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netz"
+    }
+  ]
+}

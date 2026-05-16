@@ -1,0 +1,86 @@
+{
+  "lemma": "Wache",
+  "wortart": "Nomen",
+  "silben": "Wa-che",
+  "begriffserklaerung": "Eine Wache ist eine Person oder eine Gruppe, die aufpasst und etwas oder jemanden beschützt. Eine Wache steht zum Beispiel vor einem Gebäude.",
+  "beispielsatz": "Die Wache vor dem Schloss steht ganz still und passt gut auf.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Wa-che\". Das „ch\" hörst du deutlich – schreib es genauso, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wach"
+  ],
+  "bild_datei": "Wache.webp",
+  "audio_datei": "Wache.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wache",
+    "plural": "die Wachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wache",
+        "genitiv": "der Wache",
+        "dativ": "der Wache",
+        "akkusativ": "die Wache"
+      },
+      "plural": {
+        "nominativ": "die Wachen",
+        "genitiv": "der Wachen",
+        "dativ": "den Wachen",
+        "akkusativ": "die Wachen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "guard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "garde"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nöbetçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حارس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bewachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wächter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Soldat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schutz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wacke",
+    "Wahche",
+    "Wace",
+    "Wahe",
+    "Wachs"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "lemma": "Ticket",
+  "wortart": "Nomen",
+  "silben": "Tic-ket",
+  "begriffserklaerung": "Ein Ticket ist ein kleiner Zettel oder eine Karte, die zeigt, dass du für etwas bezahlt hast – zum Beispiel für eine Zugfahrt oder einen Kinobesuch.",
+  "beispielsatz": "Ohne ein gültiges Ticket darfst du nicht in den Zug einsteigen.",
+  "rechtschreibstrategie": "Das Wort „Ticket\" kommt aus dem Englischen. Denk daran: Nach dem kurzen „i\" folgt „ck\" – wie in „Knick\" oder „Fleck\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Ticket.webp",
+  "audio_datei": "Ticket.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ticket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "billet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bilet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تذكرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eintrittskarte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fahrkarte"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ticket",
+    "plural": "die Tickets",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ticket",
+        "genitiv": "des Tickets",
+        "dativ": "dem Ticket",
+        "akkusativ": "das Ticket"
+      },
+      "plural": {
+        "nominativ": "die Tickets",
+        "genitiv": "der Tickets",
+        "dativ": "den Tickets",
+        "akkusativ": "die Tickets"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tiket",
+    "Tigget",
+    "Ticked",
+    "Tickett",
+    "Ticet"
+  ]
+}

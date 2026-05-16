@@ -1,0 +1,88 @@
+{
+  "lemma": "Müllmann",
+  "wortart": "Nomen",
+  "silben": "Müll-mann",
+  "begriffserklaerung": "Ein Müllmann ist jemand, der mit einem großen Müllauto die vollen Mülltonnen leert und den Müll wegfährt.",
+  "beispielsatz": "Der Müllmann kommt jeden Dienstag und leert unsere Mülltonne.",
+  "rechtschreibstrategie": "Das Wort „Müllmann\" besteht aus zwei Teilen: „Müll\" und „Mann\". Bei „Müll\" hörst du ein kurzes ü – deshalb wird das l verdoppelt. Sprich beide Teile beim Schreiben einzeln: Müll – Mann.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Mann"
+  ],
+  "bild_datei": "Müllmann.webp",
+  "audio_datei": "Müllmann.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Müllmann",
+    "plural": "die Müllmänner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Müllmann",
+        "genitiv": "des Müllmannes",
+        "dativ": "dem Müllmann",
+        "akkusativ": "den Müllmann"
+      },
+      "plural": {
+        "nominativ": "die Müllmänner",
+        "genitiv": "der Müllmänner",
+        "dativ": "den Müllmännern",
+        "akkusativ": "die Müllmänner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage collector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éboueur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöpçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عامل النظافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müllwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müllauto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Müllman",
+    "Mulmann",
+    "Mülmann",
+    "Müllmahn",
+    "Müllmán"
+  ]
+}

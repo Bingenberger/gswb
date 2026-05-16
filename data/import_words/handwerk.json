@@ -1,0 +1,87 @@
+{
+  "lemma": "Handwerk",
+  "wortart": "Nomen",
+  "silben": "Hand-werk",
+  "begriffserklaerung": "Ein Handwerk ist eine Arbeit, bei der man vor allem mit den Händen und mit Werkzeug etwas herstellt oder repariert, zum Beispiel Schuhe nähen oder Möbel bauen.",
+  "beispielsatz": "Mein Onkel hat das Handwerk des Tischlers gelernt und baut wunderschöne Stühle.",
+  "rechtschreibstrategie": "„Handwerk\" ist ein zusammengesetztes Wort aus „Hand\" und „Werk\". Schreibe beide Teile einfach zusammen: Hand + Werk = Handwerk.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "hand",
+    "werk"
+  ],
+  "bild_datei": "Handwerk.webp",
+  "audio_datei": "Handwerk.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "craft / handicraft"
+    },
+    {
+      "language_code": "fr",
+      "translation": "artisanat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el sanatı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حرفة يدوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Handwerker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewerbe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Handwerk",
+    "plural": "die Handwerke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Handwerk",
+        "genitiv": "des Handwerks",
+        "dativ": "dem Handwerk",
+        "akkusativ": "das Handwerk"
+      },
+      "plural": {
+        "nominativ": "die Handwerke",
+        "genitiv": "der Handwerke",
+        "dativ": "den Handwerken",
+        "akkusativ": "die Handwerke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Handwerg",
+    "Hantwerg",
+    "Handwärk",
+    "Handwerck",
+    "Hanwerk"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Eingriff",
+  "wortart": "Nomen",
+  "silben": "Ein-griff",
+  "begriffserklaerung": "Ein Eingriff ist eine Behandlung, bei der ein Arzt am Körper eines Menschen etwas repariert oder heilt, zum Beispiel bei einer Operation.",
+  "beispielsatz": "Nach dem kleinen Eingriff am Knie fühlte sich Jonas schon viel besser.",
+  "rechtschreibstrategie": "Das Wort „Eingriff\" ist ein Bausteinwort: „Ein\" + „Griff\". Das „ff\" am Ende kommt vom kurzen „i\" davor – nach einem kurzen Vokal verdoppeln wir den Konsonanten!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "greifen",
+    "Griff"
+  ],
+  "bild_datei": "Eingriff.webp",
+  "audio_datei": "Eingriff.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eingriff",
+    "plural": "die Eingriffe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eingriff",
+        "genitiv": "des Eingriffs",
+        "dativ": "dem Eingriff",
+        "akkusativ": "den Eingriff"
+      },
+      "plural": {
+        "nominativ": "die Eingriffe",
+        "genitiv": "der Eingriffe",
+        "dativ": "den Eingriffen",
+        "akkusativ": "die Eingriffe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "operation / procedure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "intervention"
+    },
+    {
+      "language_code": "tr",
+      "translation": "operasyon / müdahale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدخل جراحي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Griff"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eingreifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Operation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behandlung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eingrif",
+    "Einkriff",
+    "Aingriff",
+    "Eimgriff",
+    "Eingriff"
+  ]
+}

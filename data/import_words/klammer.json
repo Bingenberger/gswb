@@ -1,0 +1,85 @@
+{
+  "lemma": "Klammer",
+  "wortart": "Nomen",
+  "silben": "Klam-mer",
+  "begriffserklaerung": "Eine Klammer ist ein kleines Hilfsmittel, das Dinge zusammenhält oder festhält, zum Beispiel Papierblätter oder Wäsche.",
+  "beispielsatz": "Mama hängt die Socken mit einer Klammer an die Wäscheleine.",
+  "rechtschreibstrategie": "Das Wort „Klammer\" hat in der Mitte zwei „m\" – sprich es deutlich: Klam-mer. Nach dem kurzen „a\" kommt der Doppelbuchstabe „mm\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "klammer",
+    "Klamm"
+  ],
+  "bild_datei": "Klammer.webp",
+  "audio_datei": "Klammer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clip / clamp"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agrafe / pince"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mandal / kıskaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشبك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "klammern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "festklammern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wäscheleine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büroklammer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Spange"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Klammer",
+    "plural": "die Klammern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Klammer",
+        "genitiv": "der Klammer",
+        "dativ": "der Klammer",
+        "akkusativ": "die Klammer"
+      },
+      "plural": {
+        "nominativ": "die Klammern",
+        "genitiv": "der Klammern",
+        "dativ": "den Klammern",
+        "akkusativ": "die Klammern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klamer",
+    "Klamер",
+    "Klammerr",
+    "Klammer",
+    "Clamber",
+    "Glammer",
+    "Klammar"
+  ]
+}

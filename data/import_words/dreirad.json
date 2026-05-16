@@ -1,0 +1,84 @@
+{
+  "lemma": "Dreirad",
+  "wortart": "Nomen",
+  "silben": "Drei-rad",
+  "begriffserklaerung": "Ein Dreirad ist ein Fahrzeug mit drei Rädern. Kleine Kinder fahren damit, bevor sie Fahrrad fahren lernen.",
+  "beispielsatz": "Mein kleiner Bruder fährt auf seinem roten Dreirad durch den Garten.",
+  "rechtschreibstrategie": "Das Wort „Dreirad\" setzt sich aus zwei Teilen zusammen: „drei\" und „Rad\". Sprich beide Teile einzeln, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "drei",
+    "Rad"
+  ],
+  "bild_datei": "Dreirad.webp",
+  "audio_datei": "Dreirad.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tricycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tricycle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üç tekerlekli bisiklet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دراجة ثلاثية العجلات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rad"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roller"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laufrad"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Dreirad",
+    "plural": "die Dreiräder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Dreirad",
+        "genitiv": "des Dreirads",
+        "dativ": "dem Dreirad",
+        "akkusativ": "das Dreirad"
+      },
+      "plural": {
+        "nominativ": "die Dreiräder",
+        "genitiv": "der Dreiräder",
+        "dativ": "den Dreirädern",
+        "akkusativ": "die Dreiräder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dreirat",
+    "Dreyrad",
+    "Drairad",
+    "Dreihrad",
+    "Dreirahd"
+  ]
+}

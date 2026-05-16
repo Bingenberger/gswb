@@ -1,0 +1,78 @@
+{
+  "lemma": "Dame",
+  "wortart": "Nomen",
+  "silben": "Da-me",
+  "begriffserklaerung": "Eine Dame ist eine erwachsene Frau, die sich höflich und freundlich verhält. Das Wort kann auch eine Spielfigur beim Schach oder Damespiel meinen.",
+  "beispielsatz": "Die Dame an der Kasse lächelt uns freundlich an.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Da-me. Am Ende hörst du ein weiches „e\" – schreib es mit einem stummen „e\" am Schluss.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Dame"
+  ],
+  "bild_datei": "Dame.webp",
+  "audio_datei": "Dame.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lady"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dame"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hanım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Damespiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Königin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Frau"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Dame",
+    "plural": "die Damen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Dame",
+        "genitiv": "der Dame",
+        "dativ": "der Dame",
+        "akkusativ": "die Dame"
+      },
+      "plural": {
+        "nominativ": "die Damen",
+        "genitiv": "der Damen",
+        "dativ": "den Damen",
+        "akkusativ": "die Damen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dahme",
+    "Damen",
+    "Damma",
+    "Damme",
+    "Daame"
+  ]
+}

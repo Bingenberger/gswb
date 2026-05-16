@@ -1,0 +1,90 @@
+{
+  "lemma": "Einladung",
+  "wortart": "Nomen",
+  "silben": "Ein-la-dung",
+  "beispielsatz": "Lena hat eine bunte Einladung zu ihrem Geburtstag gebastelt.",
+  "begriffserklaerung": "Eine Einladung ist eine Aufforderung, irgendwohin zu kommen, zum Beispiel zu einer Party oder einem Fest.",
+  "rechtschreibstrategie": "Das Wort „Einladung\" kommt vom Verb „einladen\". Denk daran: ein-laden → Einladung. Das „d\" hörst du beim Verlängern deutlich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "laden",
+    "einladen"
+  ],
+  "bild_datei": "Einladung.webp",
+  "audio_datei": "Einladung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "invitation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "invitation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "davet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دعوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einladen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einladekarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Party"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einladung",
+    "plural": "die Einladungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einladung",
+        "genitiv": "der Einladung",
+        "dativ": "der Einladung",
+        "akkusativ": "die Einladung"
+      },
+      "plural": {
+        "nominativ": "die Einladungen",
+        "genitiv": "der Einladungen",
+        "dativ": "den Einladungen",
+        "akkusativ": "die Einladungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einladunk",
+    "Einlatung",
+    "Einladunng",
+    "Ainladung",
+    "Einladuing",
+    "Einlaadung"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "lemma": "Sirene",
+  "wortart": "Nomen",
+  "silben": "Si-re-ne",
+  "begriffserklaerung": "Eine Sirene ist ein Gerät, das einen sehr lauten, oft auf- und abschwellenden Ton erzeugt. Sie warnt Menschen vor Gefahr, zum Beispiel bei Feuerwehreinsätzen oder Unwettern.",
+  "beispielsatz": "Als die Feuerwehr mit laut heulender Sirene um die Ecke bog, hielten sich alle Kinder die Ohren zu.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Si-re-ne. Jede Silbe hat ein „e\" – denk daran, alle drei zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Siren"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sirene",
+    "plural": "die Sirenen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sirene",
+        "genitiv": "der Sirene",
+        "dativ": "der Sirene",
+        "akkusativ": "die Sirene"
+      },
+      "plural": {
+        "nominativ": "die Sirenen",
+        "genitiv": "der Sirenen",
+        "dativ": "den Sirenen",
+        "akkusativ": "die Sirenen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sierene",
+    "Syrene",
+    "Sirrene",
+    "Sirenne",
+    "Sirene"
+  ],
+  "bild_datei": "Sirene.webp",
+  "audio_datei": "Sirene.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "siren"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sirène"
+    },
+    {
+      "language_code": "tr",
+      "translation": "siren"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صفارة إنذار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Alarm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    }
+  ]
+}

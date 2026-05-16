@@ -1,0 +1,78 @@
+{
+  "lemma": "preiswert",
+  "wortart": "Adjektiv",
+  "silben": "preis-wert",
+  "begriffserklaerung": "Etwas ist preiswert, wenn es nicht viel Geld kostet und trotzdem gut ist.",
+  "beispielsatz": "Die Äpfel auf dem Markt sind sehr preiswert.",
+  "rechtschreibstrategie": "„Preiswert\" ist ein zusammengesetztes Wort aus „Preis\" und „wert\". Sprich beide Teile einzeln: PREIS + WERT.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Preis",
+    "wert"
+  ],
+  "bild_datei": "preiswert.webp",
+  "audio_datei": "preiswert.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cheap, affordable"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bon marché, abordable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ucuz, hesaplı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بسعر معقول، رخيص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wert"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "günstig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "billig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    }
+  ],
+  "grammatische_formen": {
+    "positiv": "preiswert",
+    "komparativ": "preiswerter",
+    "superlativ": "am preiswertesten"
+  },
+  "fehlschreibungen": [
+    "preißwert",
+    "preiswerd",
+    "preizwert",
+    "Preiswert",
+    "preißwerd",
+    "preisswert"
+  ]
+}

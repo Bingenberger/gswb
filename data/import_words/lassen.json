@@ -1,0 +1,102 @@
+{
+  "lemma": "lassen",
+  "wortart": "Verb",
+  "silben": "las-sen",
+  "begriffserklaerung": "Wenn du etwas lässt, tust du es nicht oder erlaubst, dass jemand anderes es tut.",
+  "beispielsatz": "Mama lässt mich heute länger aufbleiben.",
+  "rechtschreibstrategie": "Das Wort „lassen\" hat zwei s, weil der Vokal „a\" kurz gesprochen wird: las-sen. Hör genau hin!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "lass"
+  ],
+  "bild_datei": "lassen.webp",
+  "audio_datei": "lassen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to let / to leave"
+    },
+    {
+      "language_code": "fr",
+      "translation": "laisser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bırakmak / izin vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يترك / يسمح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lass"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lässig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zulassen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erlauben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "gestatten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dürfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erlauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "freigeben"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "lassen",
+    "praesens": {
+      "ich": "lasse",
+      "du": "lässt",
+      "er_sie_es": "lässt",
+      "wir": "lassen",
+      "ihr": "lasst",
+      "sie": "lassen"
+    },
+    "perfekt": {
+      "ich": "habe gelassen",
+      "du": "hast gelassen",
+      "er_sie_es": "hat gelassen",
+      "wir": "haben gelassen",
+      "ihr": "habt gelassen",
+      "sie": "haben gelassen"
+    },
+    "praeteritum": {
+      "ich": "ließ",
+      "du": "ließt",
+      "er_sie_es": "ließ",
+      "wir": "ließen",
+      "ihr": "ließt",
+      "sie": "ließen"
+    }
+  },
+  "fehlschreibungen": [
+    "lasen",
+    "lasssen",
+    "lässen",
+    "laßen",
+    "lasен"
+  ]
+}

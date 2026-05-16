@@ -1,0 +1,91 @@
+{
+  "lemma": "fließen",
+  "wortart": "Verb",
+  "silben": "flie-ßen",
+  "begriffserklaerung": "Wenn Wasser oder eine andere Flüssigkeit sich bewegt und dabei von einem Ort zum anderen strömt, dann fließt es.",
+  "beispielsatz": "Der Bach fließt durch den Wald.",
+  "rechtschreibstrategie": "Dieses Wort hat ein langes „ie\" und ein „ß\" – beides musst du dir merken: flie-ßen. Das „ie\" spricht sich wie ein langer i-Laut, und nach dem langen Vokal schreibt man ß.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "fließ"
+  ],
+  "bild_datei": "fließen.webp",
+  "audio_datei": "fließen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "fließen",
+    "praesens": {
+      "ich": "fließe",
+      "du": "fließt",
+      "er_sie_es": "fließt",
+      "wir": "fließen",
+      "ihr": "fließt",
+      "sie": "fließen"
+    },
+    "perfekt": {
+      "ich": "bin geflossen",
+      "du": "bist geflossen",
+      "er_sie_es": "ist geflossen",
+      "wir": "sind geflossen",
+      "ihr": "seid geflossen",
+      "sie": "sind geflossen"
+    },
+    "praeteritum": {
+      "ich": "floss",
+      "du": "flossest",
+      "er_sie_es": "floss",
+      "wir": "flossen",
+      "ihr": "flosst",
+      "sie": "flossen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to flow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "akmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتدفق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flüssigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "strömen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "strömen"
+    }
+  ],
+  "fehlschreibungen": [
+    "fliessen",
+    "fliesen",
+    "flißen",
+    "fleißen",
+    "fließsen"
+  ]
+}

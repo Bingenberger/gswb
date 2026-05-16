@@ -1,0 +1,88 @@
+{
+  "lemma": "Winkel",
+  "wortart": "Nomen",
+  "silben": "Win-kel",
+  "begriffserklaerung": "Ein Winkel ist der Abstand zwischen zwei Linien oder Flächen, die sich an einem Punkt treffen. Winkel werden in Grad gemessen. Ein rechter Winkel hat genau 90 Grad – so wie die Ecke eines Blattes Papier.",
+  "beispielsatz": "Der Lehrer zeigt uns mit dem Geodreieck, wie man einen rechten Winkel zeichnet.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Win-kel. Nach dem kurzen „i\" kommt „n\" – kein doppeltes „n\"! Das „el\" am Ende hört sich manchmal wie „äl\" an, wird aber immer mit „el\" geschrieben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "winkeln",
+    "Winkel"
+  ],
+  "bild_datei": "Winkel.webp",
+  "audio_datei": "Winkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "angle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "angle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زاوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "winkeln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anwinkeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geodreieck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grad"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ecke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Winkel",
+    "plural": "die Winkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Winkel",
+        "genitiv": "des Winkels",
+        "dativ": "dem Winkel",
+        "akkusativ": "den Winkel"
+      },
+      "plural": {
+        "nominativ": "die Winkel",
+        "genitiv": "der Winkel",
+        "dativ": "den Winkeln",
+        "akkusativ": "die Winkel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Winckel",
+    "Wingel",
+    "Winkell",
+    "Winkäl",
+    "Winkal",
+    "Winkle"
+  ]
+}

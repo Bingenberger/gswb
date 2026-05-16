@@ -1,0 +1,84 @@
+{
+  "lemma": "Köchin",
+  "wortart": "Nomen",
+  "silben": "Kö-chin",
+  "begriffserklaerung": "Eine Köchin ist eine Frau, die beruflich oder zuhause leckeres Essen kocht.",
+  "beispielsatz": "Die Köchin in unserer Schule macht jeden Tag ein warmes Mittagessen.",
+  "rechtschreibstrategie": "Schreibe „Köchin\" mit ö und ch. Das Wort kommt von „Koch\" – denk daran: Koch → Köchin.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Koch"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Köchin",
+    "plural": "die Köchinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Köchin",
+        "genitiv": "der Köchin",
+        "dativ": "der Köchin",
+        "akkusativ": "die Köchin"
+      },
+      "plural": {
+        "nominativ": "die Köchinnen",
+        "genitiv": "der Köchinnen",
+        "dativ": "den Köchinnen",
+        "akkusativ": "die Köchinnen"
+      }
+    }
+  },
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kochfrau"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cook (female)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuisinière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aşçı kadın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طاهية"
+    }
+  ],
+  "fehlschreibungen": [
+    "Köchin",
+    "Kechin",
+    "Köching",
+    "Köcin",
+    "Köhcin",
+    "Kochin"
+  ],
+  "bild_datei": "Köchin.webp",
+  "audio_datei": "Köchin.mp3"
+}

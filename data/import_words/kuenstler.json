@@ -1,0 +1,83 @@
+{
+  "lemma": "Künstler",
+  "wortart": "Nomen",
+  "silben": "Künst-ler",
+  "begriffserklaerung": "Ein Künstler ist ein Mensch, der etwas Kreatives erschafft – zum Beispiel Bilder malt, Musik macht oder tanzt.",
+  "beispielsatz": "Der Künstler malt bunte Bilder in seinem Atelier.",
+  "rechtschreibstrategie": "Denke an das Wort „Kunst\" – davon kommt „Künstler\". Das ü hörst du klar, und nach dem ü kommen zwei Konsonanten: n und st.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kunst"
+  ],
+  "bild_datei": "Künstler.webp",
+  "audio_datei": "Künstler.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "artist"
+    },
+    {
+      "language_code": "fr",
+      "translation": "artiste"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sanatçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فنان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kunst"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Künstlerin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atelier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schöpfer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Künstler",
+    "plural": "die Künstler",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Künstler",
+        "genitiv": "des Künstlers",
+        "dativ": "dem Künstler",
+        "akkusativ": "den Künstler"
+      },
+      "plural": {
+        "nominativ": "die Künstler",
+        "genitiv": "der Künstler",
+        "dativ": "den Künstlern",
+        "akkusativ": "die Künstler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Künsteler",
+    "Künstlar",
+    "Künstlер",
+    "Kinstler",
+    "Künstler",
+    "Künstlr"
+  ]
+}

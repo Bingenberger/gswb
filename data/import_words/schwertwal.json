@@ -1,0 +1,79 @@
+{
+  "lemma": "Schwertwal",
+  "wortart": "Nomen",
+  "silben": "Schwert-wal",
+  "begriffserklaerung": "Ein Schwertwal ist ein großes, schwarz-weißes Meerestier. Er gehört zur Familie der Delfine und ist ein sehr schneller und kluger Jäger im Ozean.",
+  "beispielsatz": "Der Schwertwal springt hoch aus dem Wasser und landet mit einem riesigen Platschen.",
+  "rechtschreibstrategie": "Das Wort „Schwertwal\" setzt sich aus zwei Bausteinen zusammen: „Schwert\" und „Wal\". Sprich beide Teile einzeln, dann kannst du das Wort leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Wal"
+  ],
+  "bild_datei": "Schwertwal.webp",
+  "audio_datei": "Schwertwal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "orca / killer whale"
+    },
+    {
+      "language_code": "fr",
+      "translation": "orque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katil balina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الحوت القاتل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Delfin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ozean"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schwertwal",
+    "plural": "die Schwertwale",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schwertwal",
+        "genitiv": "des Schwertwals",
+        "dativ": "dem Schwertwal",
+        "akkusativ": "den Schwertwal"
+      },
+      "plural": {
+        "nominativ": "die Schwertwale",
+        "genitiv": "der Schwertwale",
+        "dativ": "den Schwertwalen",
+        "akkusativ": "die Schwertwale"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Shwertwal",
+    "Schwärtwal",
+    "Schwerttwal",
+    "Schwertval",
+    "Swertwal",
+    "Schwerdwal"
+  ]
+}

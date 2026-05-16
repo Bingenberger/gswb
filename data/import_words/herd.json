@@ -1,0 +1,77 @@
+{
+  "lemma": "Herd",
+  "wortart": "Nomen",
+  "silben": "Herd",
+  "begriffserklaerung": "Ein Herd ist ein Küchengerät zum Kochen und Backen. Er hat Kochplatten oben und oft einen Backofen unten.",
+  "beispielsatz": "Mama kocht die Suppe auf dem Herd.",
+  "rechtschreibstrategie": "Wenn du „Herd\" verlängerst, sagst du „Herde\" – da hörst du das „d\" am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Herd"
+  ],
+  "bild_datei": "Herd.webp",
+  "audio_datei": "Herd.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Herd",
+    "plural": "die Herde",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Herd",
+        "genitiv": "des Herdes",
+        "dativ": "dem Herd",
+        "akkusativ": "den Herd"
+      },
+      "plural": {
+        "nominativ": "die Herde",
+        "genitiv": "der Herde",
+        "dativ": "den Herden",
+        "akkusativ": "die Herde"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stove / cooker"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cuisinière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ocak / fırın"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Herdplatte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backofen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hert",
+    "Herd",
+    "Härd",
+    "Herrd"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Flaschenzug",
+  "wortart": "Nomen",
+  "silben": "Fla-schen-zug",
+  "begriffserklaerung": "Ein Flaschenzug ist eine einfache Maschine aus Seilen und Rollen. Mit ihm kann man schwere Dinge leichter hochheben.",
+  "beispielsatz": "Mit einem Flaschenzug können sogar Kinder schwere Kisten hochziehen.",
+  "rechtschreibstrategie": "Das Wort „Flaschenzug\" besteht aus zwei Teilen: „Flasche\" und „Zug\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Flasche",
+    "ziehen"
+  ],
+  "bild_datei": "Flaschenzug.webp",
+  "audio_datei": "Flaschenzug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pulley"
+    },
+    {
+      "language_code": "fr",
+      "translation": "palan"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makara sistemi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَكَرَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flasche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hebel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rolle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kran"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flaschenzug",
+    "plural": "die Flaschenzüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flaschenzug",
+        "genitiv": "des Flaschenzugs",
+        "dativ": "dem Flaschenzug",
+        "akkusativ": "den Flaschenzug"
+      },
+      "plural": {
+        "nominativ": "die Flaschenzüge",
+        "genitiv": "der Flaschenzüge",
+        "dativ": "den Flaschenzügen",
+        "akkusativ": "die Flaschenzüge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flaschenzuck",
+    "Flashenzug",
+    "Flaschenzuhg",
+    "Flaschenzug"
+  ]
+}

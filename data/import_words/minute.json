@@ -1,0 +1,79 @@
+{
+  "lemma": "Minute",
+  "wortart": "Nomen",
+  "silben": "Mi-nu-te",
+  "begriffserklaerung": "Eine Minute ist eine Zeitspanne von 60 Sekunden. Eine Stunde hat 60 Minuten.",
+  "beispielsatz": "In einer Minute kann ich mein Lieblingsgedicht aufsagen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mi-nu-te. Jeder Vokal klingt klar und lang. Denke daran: Am Ende steht ein -e!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Minute",
+    "plural": "die Minuten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Minute",
+        "genitiv": "der Minute",
+        "dativ": "der Minute",
+        "akkusativ": "die Minute"
+      },
+      "plural": {
+        "nominativ": "die Minuten",
+        "genitiv": "der Minuten",
+        "dativ": "den Minuten",
+        "akkusativ": "die Minuten"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Minut-"
+  ],
+  "bild_datei": "Minute.webp",
+  "audio_datei": "Minute.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "minute"
+    },
+    {
+      "language_code": "fr",
+      "translation": "minute"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dakika"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دقيقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Minutenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sekunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Minunte",
+    "Minüte",
+    "Minote",
+    "Minuten",
+    "Minudte",
+    "Minuete"
+  ]
+}

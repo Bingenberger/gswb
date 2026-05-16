@@ -1,0 +1,86 @@
+{
+  "lemma": "Bruder",
+  "wortart": "Nomen",
+  "silben": "Bru-der",
+  "begriffserklaerung": "Ein Bruder ist ein Junge oder Mann, der dieselben Eltern hat wie du.",
+  "beispielsatz": "Mein Bruder und ich spielen jeden Nachmittag zusammen Fußball.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Bru-der. Am Ende hörst du ein weiches „d\" – schreibe es mit d, nicht mit t!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bruder",
+    "plural": "die Brüder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bruder",
+        "genitiv": "des Bruders",
+        "dativ": "dem Bruder",
+        "akkusativ": "den Bruder"
+      },
+      "plural": {
+        "nominativ": "die Brüder",
+        "genitiv": "der Brüder",
+        "dativ": "den Brüdern",
+        "akkusativ": "die Brüder"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "brüderlich",
+    "Brüderlichkeit",
+    "Bruderschaft",
+    "verbrüdern"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brüderlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bruderschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwester"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschwister"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bruderr",
+    "Bruder",
+    "Brutor",
+    "Brueder",
+    "Brudar",
+    "Brutder"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brother"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frère"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erkek kardeş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أخ"
+    }
+  ],
+  "bild_datei": "Bruder.webp",
+  "audio_datei": "Bruder.mp3"
+}

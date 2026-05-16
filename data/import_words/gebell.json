@@ -1,0 +1,87 @@
+{
+  "lemma": "Gebell",
+  "wortart": "Nomen",
+  "silben": "Ge-bell",
+  "begriffserklaerung": "Das Gebell ist das laute Bellen von einem oder mehreren Hunden.",
+  "beispielsatz": "Das laute Gebell des Hundes weckte die ganze Nachbarschaft.",
+  "rechtschreibstrategie": "Im Wort „Gebell\" hörst du das kurze „e\" vor dem „ll\". Weil der Vokal kurz ist, schreibt man zwei „l\" hintereinander – das ist das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gebell",
+    "plural": "die Gebelle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gebell",
+        "genitiv": "des Gebells",
+        "dativ": "dem Gebell",
+        "akkusativ": "das Gebell"
+      },
+      "plural": {
+        "nominativ": "die Gebelle",
+        "genitiv": "der Gebelle",
+        "dativ": "den Gebellen",
+        "akkusativ": "die Gebelle"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "bell"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hund"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gebel",
+    "Geböll",
+    "Gebäll",
+    "Gebell",
+    "Gebelll",
+    "Gebehl"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "barking"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aboiements"
+    },
+    {
+      "language_code": "tr",
+      "translation": "havlama"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نباح"
+    }
+  ],
+  "bild_datei": "Gebell.webp",
+  "audio_datei": "Gebell.mp3"
+}

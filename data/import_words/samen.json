@@ -1,0 +1,87 @@
+{
+  "lemma": "Samen",
+  "wortart": "Nomen",
+  "silben": "Sa-men",
+  "begriffserklaerung": "Ein Samen ist ein kleines Körnchen einer Pflanze. Aus ihm kann eine neue Pflanze wachsen, wenn man ihn in die Erde legt.",
+  "beispielsatz": "Wir legen die Samen in die Erde und gießen sie jeden Tag.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Sa-men. Höre das lange „a\" – deshalb schreibt man nur ein „m\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "säen",
+    "Saat"
+  ],
+  "bild_datei": "Samen.webp",
+  "audio_datei": "Samen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Samen",
+    "plural": "die Samen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Samen",
+        "genitiv": "des Samens",
+        "dativ": "dem Samen",
+        "akkusativ": "den Samen"
+      },
+      "plural": {
+        "nominativ": "die Samen",
+        "genitiv": "der Samen",
+        "dativ": "den Samen",
+        "akkusativ": "die Samen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "graine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tohum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بذرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Saat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Korn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keim"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ssammen",
+    "Sahmen",
+    "Sammen",
+    "Zamen",
+    "Saamen"
+  ]
+}

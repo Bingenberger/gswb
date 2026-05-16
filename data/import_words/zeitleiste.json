@@ -1,0 +1,84 @@
+{
+  "lemma": "Zeitleiste",
+  "wortart": "Nomen",
+  "silben": "Zeit-leis-te",
+  "begriffserklaerung": "Eine Zeitleiste ist eine Linie, auf der Ereignisse in der Reihenfolge eingetragen werden, in der sie passiert sind. So kann man sehen, was zuerst und was danach kam.",
+  "beispielsatz": "In unserem Sachunterricht haben wir eine Zeitleiste gemalt, auf der die Erfindung des Rades und des Buchdrucks eingetragen sind.",
+  "rechtschreibstrategie": "„Zeitleiste\" ist ein zusammengesetztes Wort aus „Zeit\" und „Leiste\". Sprich beide Teile laut: ZEIT – LEIS – TE. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Zeit",
+    "Leiste"
+  ],
+  "bild_datei": "Zeitleiste.webp",
+  "audio_datei": "Zeitleiste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "timeline"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frise chronologique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zaman çizelgesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خط الزمن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leiste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tabelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Zeitleiste",
+    "plural": "die Zeitleisten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Zeitleiste",
+        "genitiv": "der Zeitleiste",
+        "dativ": "der Zeitleiste",
+        "akkusativ": "die Zeitleiste"
+      },
+      "plural": {
+        "nominativ": "die Zeitleisten",
+        "genitiv": "der Zeitleisten",
+        "dativ": "den Zeitleisten",
+        "akkusativ": "die Zeitleisten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zeitliste",
+    "Zeitleiste",
+    "Zeitleisde",
+    "Zeidleiste",
+    "Zeitlaiste",
+    "Zeitleste"
+  ]
+}

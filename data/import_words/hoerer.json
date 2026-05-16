@@ -1,0 +1,82 @@
+{
+  "lemma": "Hörer",
+  "wortart": "Nomen",
+  "silben": "Hö-rer",
+  "begriffserklaerung": "Ein Hörer ist jemand, der zuhört – zum Beispiel im Radio. Hörer nennt man auch den Teil des Telefons, den man ans Ohr hält.",
+  "beispielsatz": "Der Hörer des Telefons war kaputt, deshalb konnte Lena nichts verstehen.",
+  "rechtschreibstrategie": "Denke an das Verb „hören\" – davon kommt „Hörer\". Das Ö bleibt lang, daher kein Doppelbuchstabe.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "hör"
+  ],
+  "bild_datei": "Hörer.webp",
+  "audio_datei": "Hörer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "listener / receiver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "auditeur / récepteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dinleyici / ahize"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستمع / سماعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gehör"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuhörer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hörer",
+    "plural": "die Hörer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hörer",
+        "genitiv": "des Hörers",
+        "dativ": "dem Hörer",
+        "akkusativ": "den Hörer"
+      },
+      "plural": {
+        "nominativ": "die Hörer",
+        "genitiv": "der Hörer",
+        "dativ": "den Hörern",
+        "akkusativ": "die Hörer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hörrer",
+    "Höhrer",
+    "Hoerer",
+    "Hörer",
+    "Hörär"
+  ]
+}

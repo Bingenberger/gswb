@@ -1,0 +1,74 @@
+{
+  "lemma": "Pfote",
+  "wortart": "Nomen",
+  "silben": "Pfo-te",
+  "begriffserklaerung": "Eine Pfote ist der Fuß eines Tieres mit Krallen, zum Beispiel bei einer Katze oder einem Hund.",
+  "beispielsatz": "Der Hund reicht mir seine Pfote zum Begrüßen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pfo-te. Du hörst zwei Silben. Denk daran: Am Anfang stehen P und f zusammen – das klingt ungewöhnlich, aber man schreibt es so!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pfote"
+  ],
+  "bild_datei": "Pfote.webp",
+  "audio_datei": "Pfote.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "paw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "patte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pençe"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كف الحيوان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kralle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fell"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schnauze"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Pfote",
+    "plural": "die Pfoten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Pfote",
+        "genitiv": "der Pfote",
+        "dativ": "der Pfote",
+        "akkusativ": "die Pfote"
+      },
+      "plural": {
+        "nominativ": "die Pfoten",
+        "genitiv": "der Pfoten",
+        "dativ": "den Pfoten",
+        "akkusativ": "die Pfoten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fote",
+    "Pfotte",
+    "Pfohte",
+    "Fotte",
+    "Pfoote"
+  ]
+}

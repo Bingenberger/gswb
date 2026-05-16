@@ -1,0 +1,82 @@
+{
+  "lemma": "Mixer",
+  "wortart": "Nomen",
+  "silben": "Mi-xer",
+  "begriffserklaerung": "Ein Mixer ist ein Küchengerät mit schnell drehenden Messern oder Quirlen. Er zerkleinert und vermischt Lebensmittel, zum Beispiel für Smoothies oder Teig.",
+  "beispielsatz": "Mama macht mit dem Mixer einen leckeren Frucht-Smoothie.",
+  "rechtschreibstrategie": "Das Wort „Mixer\" hat ein X in der Mitte – sprich es deutlich: Mi-xer. Das X klingt wie „ks\" und wird immer mit X geschrieben.",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "mix"
+  ],
+  "bild_datei": "Mixer.webp",
+  "audio_datei": "Mixer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blender / mixer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mixeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mikser"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خلاط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mixen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mixgetränk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küchengerät"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pürierstab"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rührgerät"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mixer",
+    "plural": "die Mixer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mixer",
+        "genitiv": "des Mixers",
+        "dativ": "dem Mixer",
+        "akkusativ": "den Mixer"
+      },
+      "plural": {
+        "nominativ": "die Mixer",
+        "genitiv": "der Mixer",
+        "dativ": "den Mixern",
+        "akkusativ": "die Mixer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mikser",
+    "Mixser",
+    "Miser",
+    "Mixxer",
+    "Mickser"
+  ]
+}

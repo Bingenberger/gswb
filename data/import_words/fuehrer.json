@@ -1,0 +1,83 @@
+{
+  "lemma": "Führer",
+  "wortart": "Nomen",
+  "silben": "Füh-rer",
+  "begriffserklaerung": "Ein Führer ist eine Person, die eine Gruppe von Menschen leitet oder ihnen den Weg zeigt, zum Beispiel bei einer Führung durch ein Museum.",
+  "beispielsatz": "Der Führer erklärte uns alles über die alten Bilder im Museum.",
+  "rechtschreibstrategie": "Denk an das Dehnungs-h: „füh-ren\" – das h macht das ü lang. Deshalb schreibt man „Führer\" mit h nach dem ü.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "führ"
+  ],
+  "bild_datei": "Führer.webp",
+  "audio_datei": "Führer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "guide / leader"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guide / chef"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rehber / lider"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرشد / قائد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "führen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Führung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reiseführer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leiter"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Führer",
+    "plural": "die Führer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Führer",
+        "genitiv": "des Führers",
+        "dativ": "dem Führer",
+        "akkusativ": "den Führer"
+      },
+      "plural": {
+        "nominativ": "die Führer",
+        "genitiv": "der Führer",
+        "dativ": "den Führern",
+        "akkusativ": "die Führer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fürer",
+    "Fürher",
+    "Fuehrer",
+    "Führer",
+    "Füherer",
+    "Führrer"
+  ]
+}

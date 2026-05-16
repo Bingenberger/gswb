@@ -1,0 +1,84 @@
+{
+  "lemma": "Beuteltier",
+  "wortart": "Nomen",
+  "silben": "Beu-tel-tier",
+  "begriffserklaerung": "Ein Beuteltier ist ein Säugetier, das seine Jungtiere in einem Beutel am Bauch großzieht. Bekannte Beuteltiere sind zum Beispiel das Känguru und der Koala.",
+  "beispielsatz": "Das Känguru ist ein Beuteltier und trägt sein Baby sicher in seinem Beutel.",
+  "rechtschreibstrategie": "Das Wort „Beuteltier\" ist aus zwei Wörtern zusammengesetzt: „Beutel\" und „Tier\". Sprich beide Teile einzeln, dann kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Beutel",
+    "Tier"
+  ],
+  "bild_datei": "Beuteltier.webp",
+  "audio_datei": "Beuteltier.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Beuteltier",
+    "plural": "die Beuteltiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Beuteltier",
+        "genitiv": "des Beuteltiers",
+        "dativ": "dem Beuteltier",
+        "akkusativ": "das Beuteltier"
+      },
+      "plural": {
+        "nominativ": "die Beuteltiere",
+        "genitiv": "der Beuteltiere",
+        "dativ": "den Beuteltieren",
+        "akkusativ": "die Beuteltiere"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "marsupial"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marsupial"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keseli hayvan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوان جرابي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beutel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Känguru"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koala"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Säugetier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Beudeltier",
+    "Beuteltir",
+    "Bauteltier",
+    "Böuteltier",
+    "Beuteltier",
+    "Bütteltier"
+  ]
+}

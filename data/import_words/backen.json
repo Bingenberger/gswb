@@ -1,0 +1,95 @@
+{
+  "lemma": "backen",
+  "wortart": "Verb",
+  "silben": "ba-cken",
+  "begriffserklaerung": "Wenn man backen möchte, macht man aus Teig etwas Leckeres im Ofen, zum Beispiel Brot, Kuchen oder Kekse.",
+  "beispielsatz": "Wir backen heute zusammen einen Schokoladenkuchen.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" hörst du ein „k\" – das schreibst du als „ck\". Sprich laut: ba-cken!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "back"
+  ],
+  "bild_datei": "backen.webp",
+  "audio_datei": "backen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire cuire au four"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pişirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يخبز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bäcker"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Backofens"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zubereiten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "backen",
+    "praesens": {
+      "ich": "backe",
+      "du": "bäckst",
+      "er_sie_es": "bäckt",
+      "wir": "backen",
+      "ihr": "backt",
+      "sie": "backen"
+    },
+    "perfekt": {
+      "ich": "habe gebacken",
+      "du": "hast gebacken",
+      "er_sie_es": "hat gebacken",
+      "wir": "haben gebacken",
+      "ihr": "habt gebacken",
+      "sie": "haben gebacken"
+    },
+    "praeteritum": {
+      "ich": "buk",
+      "du": "bukst",
+      "er_sie_es": "buk",
+      "wir": "buken",
+      "ihr": "bukt",
+      "sie": "buken"
+    }
+  },
+  "fehlschreibungen": [
+    "bacen",
+    "bakken",
+    "backen",
+    "baken",
+    "backken",
+    "backon"
+  ]
+}

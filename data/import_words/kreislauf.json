@@ -1,0 +1,88 @@
+{
+  "lemma": "Kreislauf",
+  "wortart": "Nomen",
+  "silben": "Kreis-lauf",
+  "begriffserklaerung": "Ein Kreislauf ist ein Weg, der immer wieder von vorne beginnt und kein Ende hat – wie das Blut, das ständig durch deinen Körper fließt.",
+  "beispielsatz": "Das Herz pumpt das Blut durch den Kreislauf des Körpers.",
+  "rechtschreibstrategie": "Das Wort „Kreislauf\" besteht aus zwei Teilen: „Kreis\" und „Lauf\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kreis",
+    "lauf"
+  ],
+  "bild_datei": "Kreislauf.webp",
+  "audio_datei": "Kreislauf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cycle / circulation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cycle / circulation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "döngü / dolaşım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دورة / دورة دموية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blutkreislauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserkreislauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zyklus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kreislauf",
+    "plural": "die Kreisläufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kreislauf",
+        "genitiv": "des Kreislaufs",
+        "dativ": "dem Kreislauf",
+        "akkusativ": "den Kreislauf"
+      },
+      "plural": {
+        "nominativ": "die Kreisläufe",
+        "genitiv": "der Kreisläufe",
+        "dativ": "den Kreisläufen",
+        "akkusativ": "die Kreisläufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kreislauft",
+    "Kreißlauf",
+    "Kreisloff",
+    "Krreislauf",
+    "Kreislaf",
+    "Kreislauv"
+  ]
+}

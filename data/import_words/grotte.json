@@ -1,0 +1,72 @@
+{
+  "lemma": "Grotte",
+  "wortart": "Nomen",
+  "silben": "Grot-te",
+  "begriffserklaerung": "Eine Grotte ist eine kleine Höhle, die oft felsig und feucht ist. Man findet sie am Meer, im Gebirge oder in einem Garten.",
+  "beispielsatz": "In der dunklen Grotte entdeckten wir glitzernde Steine an der Wand.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Grot-te\". Du hörst ein kurzes „o\", deshalb verdoppelst du das „t\": Grotte – mit Doppel-t!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Grotte.webp",
+  "audio_datei": "Grotte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grotto"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grotte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mağara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كهف صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höhle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Felsen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Höhle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Grotte",
+    "plural": "die Grotten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Grotte",
+        "genitiv": "der Grotte",
+        "dativ": "der Grotte",
+        "akkusativ": "die Grotte"
+      },
+      "plural": {
+        "nominativ": "die Grotten",
+        "genitiv": "der Grotten",
+        "dativ": "den Grotten",
+        "akkusativ": "die Grotten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grodte",
+    "Grode",
+    "Grote",
+    "Grothte",
+    "Grrotte"
+  ]
+}

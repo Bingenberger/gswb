@@ -1,0 +1,82 @@
+{
+  "lemma": "Schärfe",
+  "wortart": "Nomen",
+  "silben": "Schär-fe",
+  "beispielsatz": "Die Schärfe des Messers ist sehr groß, deshalb müssen Kinder vorsichtig damit umgehen.",
+  "begriffserklaerung": "Die Schärfe sagt, wie spitz oder schneidend etwas ist – zum Beispiel bei einem Messer. Sie kann auch bedeuten, wie stark etwas brennt oder beißt, zum Beispiel bei scharfem Essen.",
+  "rechtschreibstrategie": "Denk an das Wort „scharf\" – davon leitet sich „Schärfe\" ab. Das ä kommt aus dem a in „scharf\": scharf → Schärfe.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "scharf"
+  ],
+  "bild_datei": "Schärfe.webp",
+  "audio_datei": "Schärfe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sharpness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "acuité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "keskinlik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scharf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schärfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Würze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schnittkraft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schärfe",
+    "plural": "die Schärfen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schärfe",
+        "genitiv": "der Schärfe",
+        "dativ": "der Schärfe",
+        "akkusativ": "die Schärfe"
+      },
+      "plural": {
+        "nominativ": "die Schärfen",
+        "genitiv": "der Schärfen",
+        "dativ": "den Schärfen",
+        "akkusativ": "die Schärfen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Scherfe",
+    "Schärffe",
+    "Schärpfe",
+    "Scharfe",
+    "Schärfhe"
+  ]
+}

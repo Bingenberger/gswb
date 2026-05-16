@@ -1,0 +1,93 @@
+{
+  "lemma": "Einigung",
+  "wortart": "Nomen",
+  "silben": "Ei-ni-gung",
+  "begriffserklaerung": "Eine Einigung ist das Ergebnis, wenn sich zwei oder mehr Personen einigen und gemeinsam eine Lösung finden, mit der alle zufrieden sind.",
+  "beispielsatz": "Nach langem Streit kamen die beiden Freunde endlich zu einer Einigung.",
+  "rechtschreibstrategie": "Denk an das Verb „einigen\": Ein-i-gung. Sprich alle Silben laut mit: Ei-ni-gung. Das „ig\" am Ende sprichst du wie „ich\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "einig",
+    "einigen"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einigung",
+    "plural": "die Einigungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einigung",
+        "genitiv": "der Einigung",
+        "dativ": "der Einigung",
+        "akkusativ": "die Einigung"
+      },
+      "plural": {
+        "nominativ": "die Einigungen",
+        "genitiv": "der Einigungen",
+        "dativ": "den Einigungen",
+        "akkusativ": "die Einigungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Einiegung",
+    "Einniigung",
+    "Einigug",
+    "Einikung",
+    "Ainigung",
+    "Enigung"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "agreement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accord"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzlaşma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اتفاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Übereinkunft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einverständnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Streit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frieden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompromiss"
+    }
+  ],
+  "bild_datei": "Einigung.webp",
+  "audio_datei": "Einigung.mp3"
+}

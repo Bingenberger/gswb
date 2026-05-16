@@ -1,0 +1,83 @@
+{
+  "lemma": "Taschenlampe",
+  "wortart": "Nomen",
+  "silben": "Ta-schen-lam-pe",
+  "begriffserklaerung": "Eine Taschenlampe ist ein kleines Gerät, das Licht macht. Man kann sie in der Hand halten und überallhin mitnehmen.",
+  "beispielsatz": "Im dunklen Keller leuchtet Lisa mit ihrer Taschenlampe den Weg aus.",
+  "rechtschreibstrategie": "Das Wort „Taschenlampe\" ist aus zwei Wörtern zusammengebaut: „Taschen\" und „Lampe\". Sprich beide Teile deutlich: TA-SCHEN + LAM-PE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lampe",
+    "Tasche"
+  ],
+  "bild_datei": "Taschenlampe.webp",
+  "audio_datei": "Taschenlampe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Taschenlampe",
+    "plural": "die Taschenlampen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Taschenlampe",
+        "genitiv": "der Taschenlampe",
+        "dativ": "der Taschenlampe",
+        "akkusativ": "die Taschenlampe"
+      },
+      "plural": {
+        "nominativ": "die Taschenlampen",
+        "genitiv": "der Taschenlampen",
+        "dativ": "den Taschenlampen",
+        "akkusativ": "die Taschenlampen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "torch / flashlight"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lampe de poche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el feneri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصباح يدوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lampe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laterne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kerze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Taschenlambe",
+    "Taschenlanpe",
+    "Taschenlamppe",
+    "Taschelampe",
+    "Taschenlamp"
+  ]
+}

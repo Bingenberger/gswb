@@ -1,0 +1,83 @@
+{
+  "lemma": "Bogen",
+  "wortart": "Nomen",
+  "silben": "Bo-gen",
+  "begriffserklaerung": "Ein Bogen ist eine gebogene Linie oder Form. Es kann auch ein Werkzeug zum Schießen von Pfeilen sein oder ein Blatt Papier.",
+  "beispielsatz": "Der Ritter spannte seinen Bogen und schoss den Pfeil weit in die Luft.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Bo-gen. Du hörst zwei Silben. Das „o\" ist lang, daher schreibst du nur ein „g\" – kein Doppelkonsonant!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "bieg",
+    "bog"
+  ],
+  "bild_datei": "Bogen.webp",
+  "audio_datei": "Bogen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bow / arc"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yay / kavis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قوس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "biegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gebogen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeil"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kurve"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bogen",
+    "plural": "die Bögen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bogen",
+        "genitiv": "des Bogens",
+        "dativ": "dem Bogen",
+        "akkusativ": "den Bogen"
+      },
+      "plural": {
+        "nominativ": "die Bögen",
+        "genitiv": "der Bögen",
+        "dativ": "den Bögen",
+        "akkusativ": "die Bögen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bohgen",
+    "Boggen",
+    "Bohggen",
+    "Boogen",
+    "Bogen"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "tanken",
+  "wortart": "Verb",
+  "silben": "tan-ken",
+  "begriffserklaerung": "Tanken bedeutet, ein Auto oder ein anderes Fahrzeug mit Kraftstoff (zum Beispiel Benzin) zu befüllen, damit es fahren kann.",
+  "beispielsatz": "Papa hält an der Tankstelle an, um das Auto zu tanken.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: tan-ken. Nach dem kurzen „a\" hörst du ein „n\" – das gehört zur ersten Silbe. Denk daran: tan-ken, nicht tankken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tank"
+  ],
+  "bild_datei": "tanken.webp",
+  "audio_datei": "tanken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to refuel"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire le plein"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yakıt doldurmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يملأ الوقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tankstelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Benzin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auto"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "tanken",
+    "praesens": {
+      "ich": "tanke",
+      "du": "tankst",
+      "er_sie_es": "tankt",
+      "wir": "tanken",
+      "ihr": "tankt",
+      "sie": "tanken"
+    },
+    "perfekt": {
+      "ich": "habe getankt",
+      "du": "hast getankt",
+      "er_sie_es": "hat getankt",
+      "wir": "haben getankt",
+      "ihr": "habt getankt",
+      "sie": "haben getankt"
+    },
+    "praeteritum": {
+      "ich": "tankte",
+      "du": "tanktest",
+      "er_sie_es": "tankte",
+      "wir": "tankten",
+      "ihr": "tanktet",
+      "sie": "tankten"
+    }
+  },
+  "fehlschreibungen": [
+    "tankken",
+    "danken",
+    "tancken",
+    "tanken",
+    "taanken",
+    "tangken"
+  ]
+}

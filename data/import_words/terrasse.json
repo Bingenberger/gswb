@@ -1,0 +1,73 @@
+{
+  "lemma": "Terrasse",
+  "wortart": "Nomen",
+  "silben": "Ter-ras-se",
+  "begriffserklaerung": "Eine Terrasse ist ein befestigter, flacher Platz direkt neben einem Haus, auf dem man sitzen, spielen oder essen kann.",
+  "beispielsatz": "Im Sommer frühstücken wir oft auf der Terrasse.",
+  "rechtschreibstrategie": "Denk an das doppelte „r\" und das doppelte „s\" in der Mitte: Ter-ras-se. Sprich die Silben laut mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Terrasse.webp",
+  "audio_datei": "Terrasse.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Terrasse",
+    "plural": "die Terrassen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Terrasse",
+        "genitiv": "der Terrasse",
+        "dativ": "der Terrasse",
+        "akkusativ": "die Terrasse"
+      },
+      "plural": {
+        "nominativ": "die Terrassen",
+        "genitiv": "der Terrassen",
+        "dativ": "den Terrassen",
+        "akkusativ": "die Terrassen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "terrace / patio"
+    },
+    {
+      "language_code": "fr",
+      "translation": "terrasse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teras"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تِراس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Balkon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Terasse",
+    "Terrase",
+    "Terrasse",
+    "Terraze",
+    "Teraze",
+    "Terraße"
+  ]
+}

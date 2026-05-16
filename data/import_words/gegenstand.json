@@ -1,0 +1,89 @@
+{
+  "lemma": "Gegenstand",
+  "wortart": "Nomen",
+  "silben": "Ge-gen-stand",
+  "begriffserklaerung": "Ein Gegenstand ist ein Ding, das man anfassen und sehen kann, zum Beispiel ein Buch, ein Stuhl oder ein Ball.",
+  "beispielsatz": "Auf dem Tisch liegt ein komischer Gegenstand, den ich noch nie gesehen habe.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-gen-stand. Denke an die drei Teile: „Ge\" + „gen\" + „stand\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "stand",
+    "stehen"
+  ],
+  "bild_datei": "Gegenstand.webp",
+  "audio_datei": "Gegenstand.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gegenstand",
+    "plural": "die Gegenstände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gegenstand",
+        "genitiv": "des Gegenstandes",
+        "dativ": "dem Gegenstand",
+        "akkusativ": "den Gegenstand"
+      },
+      "plural": {
+        "nominativ": "die Gegenstände",
+        "genitiv": "der Gegenstände",
+        "dativ": "den Gegenständen",
+        "akkusativ": "die Gegenstände"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "object"
+    },
+    {
+      "language_code": "fr",
+      "translation": "objet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nesne"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شيء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ding"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Möbel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gegenshtand",
+    "Gegenstant",
+    "Gegenstand",
+    "Geegenstandt",
+    "Gegensztand",
+    "Gägenstand"
+  ]
+}

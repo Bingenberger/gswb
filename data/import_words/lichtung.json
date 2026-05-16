@@ -1,0 +1,83 @@
+{
+  "lemma": "Lichtung",
+  "wortart": "Nomen",
+  "silben": "Lich-tung",
+  "begriffserklaerung": "Eine Lichtung ist eine freie, offene Stelle mitten im Wald, wo keine Bäume wachsen und die Sonne den Boden erreicht.",
+  "beispielsatz": "Die Rehe standen friedlich auf der sonnigen Lichtung im Wald.",
+  "rechtschreibstrategie": "Das Wort kommt von „Licht\", weil auf der Lichtung viel Licht scheint. Achte auf das „ch\" – du hörst es deutlich: LICHT-ung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Licht"
+  ],
+  "bild_datei": "Lichtung.webp",
+  "audio_datei": "Lichtung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Lichtung",
+    "plural": "die Lichtungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Lichtung",
+        "genitiv": "der Lichtung",
+        "dativ": "der Lichtung",
+        "akkusativ": "die Lichtung"
+      },
+      "plural": {
+        "nominativ": "die Lichtungen",
+        "genitiv": "der Lichtungen",
+        "dativ": "den Lichtungen",
+        "akkusativ": "die Lichtungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clearing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clairière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "orman açıklığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فسحة في الغابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lichten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Waldwiese"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lichtunk",
+    "Lichtuing",
+    "Lictung",
+    "Lißtung",
+    "Lihctung"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Oma und Opa",
+  "wortart": "Nomen",
+  "silben": "O-ma und O-pa",
+  "begriffserklaerung": "Oma ist die Mutter deiner Mutter oder deines Vaters. Opa ist der Vater deiner Mutter oder deines Vaters. Zusammen sind sie deine Großeltern.",
+  "beispielsatz": "Am Wochenende besuchen wir Oma und Opa, und sie backen mit uns Kuchen.",
+  "rechtschreibstrategie": "Beide Wörter sind kurz und einfach: O-ma und O-pa. Schreibe sie immer groß, denn sie sind Nomen. Merke: Oma endet auf -ma, Opa endet auf -pa.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Großmutter",
+    "Großvater"
+  ],
+  "bild_datei": "Oma und Opa.webp",
+  "audio_datei": "Oma und Opa.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grandma and grandpa"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mamie et papy"
+    },
+    {
+      "language_code": "tr",
+      "translation": "büyükanne ve büyükbaba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدة وجد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Großeltern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Großmutter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Großvater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eltern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Enkel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Oma / der Opa",
+    "plural": "die Omas / die Opas",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Oma / der Opa",
+        "genitiv": "der Oma / des Opas",
+        "dativ": "der Oma / dem Opa",
+        "akkusativ": "die Oma / den Opa"
+      },
+      "plural": {
+        "nominativ": "die Omas / die Opas",
+        "genitiv": "der Omas / der Opas",
+        "dativ": "den Omas / den Opas",
+        "akkusativ": "die Omas / die Opas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ohma",
+    "Ohpa",
+    "oma",
+    "opa",
+    "Omma",
+    "Oppa"
+  ]
+}

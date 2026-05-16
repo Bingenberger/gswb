@@ -1,0 +1,99 @@
+{
+  "lemma": "arbeiten",
+  "wortart": "Verb",
+  "silben": "ar-bei-ten",
+  "begriffserklaerung": "Wenn man arbeitet, tut man etwas Wichtiges oder Schwieriges, zum Beispiel in der Schule lernen oder einem Beruf nachgehen.",
+  "beispielsatz": "Mama arbeitet jeden Tag im Büro.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: ar-bei-ten. Achte auf das „ei\" in der Mitte – das klingt wie in „Eis\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit"
+  ],
+  "bild_datei": "arbeiten.webp",
+  "audio_datei": "arbeiten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "arbeiten",
+    "praesens": {
+      "ich": "ich arbeite",
+      "du": "du arbeitest",
+      "er_sie_es": "er/sie/es arbeitet",
+      "wir": "wir arbeiten",
+      "ihr": "ihr arbeitet",
+      "sie": "sie arbeiten"
+    },
+    "perfekt": {
+      "ich": "ich habe gearbeitet",
+      "du": "du hast gearbeitet",
+      "er_sie_es": "er/sie/es hat gearbeitet",
+      "wir": "wir haben gearbeitet",
+      "ihr": "ihr habt gearbeitet",
+      "sie": "sie haben gearbeitet"
+    },
+    "praeteritum": {
+      "ich": "ich arbeitete",
+      "du": "du arbeitetest",
+      "er_sie_es": "er/sie/es arbeitete",
+      "wir": "wir arbeiteten",
+      "ihr": "ihr arbeitetet",
+      "sie": "sie arbeiteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to work"
+    },
+    {
+      "language_code": "fr",
+      "translation": "travailler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalışmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَعْمَلُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeiter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "tätig sein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schaffen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lernen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "helfen"
+    }
+  ],
+  "fehlschreibungen": [
+    "arbeidden",
+    "arbaiten",
+    "arbeiten",
+    "arbeithen",
+    "arbeíten",
+    "arbeitten"
+  ]
+}

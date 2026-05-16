@@ -1,0 +1,88 @@
+{
+  "lemma": "Schwäche",
+  "wortart": "Nomen",
+  "silben": "Schwä-che",
+  "begriffserklaerung": "Eine Schwäche ist etwas, das man nicht so gut kann, oder ein Gefühl, wenn man wenig Kraft hat.",
+  "beispielsatz": "Rechnen ist meine größte Schwäche, aber ich übe jeden Tag.",
+  "rechtschreibstrategie": "Denk an das Wort „schwach\" – wenn du es verlängerst, hörst du das „ä\": schwach → Schwäche.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "schwach"
+  ],
+  "bild_datei": "Schwäche.webp",
+  "audio_datei": "Schwäche.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schwäche",
+    "plural": "die Schwächen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schwäche",
+        "genitiv": "der Schwäche",
+        "dativ": "der Schwäche",
+        "akkusativ": "die Schwäche"
+      },
+      "plural": {
+        "nominativ": "die Schwächen",
+        "genitiv": "der Schwächen",
+        "dativ": "den Schwächen",
+        "akkusativ": "die Schwächen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weakness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faiblesse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zayıflık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضعف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwach"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwächen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fehler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stärke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schwäche",
+    "Schweke",
+    "Schwecke",
+    "Schwäke",
+    "Schwähche",
+    "Schväche"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "lemma": "knallen",
+  "wortart": "Verb",
+  "silben": "knal-len",
+  "begriffserklaerung": "Wenn etwas knallt, macht es einen sehr lauten, kurzen Lärm – zum Beispiel ein Luftballon, der platzt.",
+  "beispielsatz": "Der Luftballon knallt laut, als Max ihn mit einer Nadel berührt.",
+  "rechtschreibstrategie": "Höre genau hin: Nach dem kurzen „a\" verdoppelst du das „l\" – deshalb schreibt man „kn-a-ll-en\" mit zwei „l\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "knall"
+  ],
+  "bild_datei": "knallen.webp",
+  "audio_datei": "knallen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "knallen",
+    "praesens": {
+      "ich": "knalle",
+      "du": "knallst",
+      "er_sie_es": "knallt",
+      "wir": "knallen",
+      "ihr": "knallt",
+      "sie": "knallen"
+    },
+    "perfekt": {
+      "ich": "habe geknallt",
+      "du": "hast geknallt",
+      "er_sie_es": "hat geknallt",
+      "wir": "haben geknallt",
+      "ihr": "habt geknallt",
+      "sie": "haben geknallt"
+    },
+    "praeteritum": {
+      "ich": "knallte",
+      "du": "knalltest",
+      "er_sie_es": "knallte",
+      "wir": "knallten",
+      "ihr": "knalltet",
+      "sie": "knallten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to bang / to pop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "claquer / éclater"
+    },
+    {
+      "language_code": "tr",
+      "translation": "patlamak / çatlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُحدث صوتاً مدوياً / يُفرقع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Knall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knallig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "krachen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "platzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "donnern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lärmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "explodieren"
+    }
+  ],
+  "fehlschreibungen": [
+    "knalen",
+    "cnallen",
+    "knalln",
+    "gnallen",
+    "knallan"
+  ]
+}

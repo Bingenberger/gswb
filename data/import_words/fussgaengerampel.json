@@ -1,0 +1,87 @@
+{
+  "lemma": "Fussgängerampel",
+  "wortart": "Nomen",
+  "silben": "Fuß-gän-ger-am-pel",
+  "begriffserklaerung": "Eine Fußgängerampel ist eine Ampel an der Straße. Sie zeigt Fußgängern mit roten und grünen Lichtern, wann sie sicher über die Straße gehen dürfen.",
+  "beispielsatz": "Emma wartet an der Fußgängerampel, bis das Licht grün wird.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Fuß\" + „Gänger\" + „Ampel\". Schreib das ß in „Fuß\" und das ä in „Gänger\" – das kommt von „gehen\" → „Gang\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Fuß",
+    "Gang",
+    "Ampel"
+  ],
+  "bild_datei": "Fussgängerampel.webp",
+  "audio_datei": "Fussgängerampel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fußgängerampel",
+    "plural": "die Fußgängerampeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fußgängerampel",
+        "genitiv": "der Fußgängerampel",
+        "dativ": "der Fußgängerampel",
+        "akkusativ": "die Fußgängerampel"
+      },
+      "plural": {
+        "nominativ": "die Fußgängerampeln",
+        "genitiv": "der Fußgängerampeln",
+        "dativ": "den Fußgängerampeln",
+        "akkusativ": "die Fußgängerampeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pedestrian traffic light"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feu pour piétons"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaya trafik ışığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشارة المشاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußgänger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fußweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fußgängerampell",
+    "Fußgängerampel",
+    "Fussgängerampel",
+    "Fußgaengerampel",
+    "Fußgängerammpel",
+    "Fußgäängerampel"
+  ]
+}

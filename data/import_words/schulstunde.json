@@ -1,0 +1,88 @@
+{
+  "lemma": "Schulstunde",
+  "wortart": "Nomen",
+  "silben": "Schul-stun-de",
+  "begriffserklaerung": "Eine Schulstunde ist ein Unterrichtsabschnitt in der Schule, in dem du etwas Neues lernst. Sie dauert meistens 45 Minuten.",
+  "beispielsatz": "In der ersten Schulstunde haben wir heute Mathe geübt.",
+  "rechtschreibstrategie": "„Schulstunde\" ist ein zusammengesetztes Wort aus „Schul\" (von Schule) und „Stunde\". Sprich beide Teile einzeln: SCHUL + STUN + DE. So merkst du dir, wie man das Wort schreibt!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Stunde"
+  ],
+  "bild_datei": "Schulstunde.webp",
+  "audio_datei": "Schulstunde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "school lesson"
+    },
+    {
+      "language_code": "fr",
+      "translation": "heure de cours"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders saati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حصة دراسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stunde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterrichtsstunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pause"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stundenplan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schulstunde",
+    "plural": "die Schulstunden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schulstunde",
+        "genitiv": "der Schulstunde",
+        "dativ": "der Schulstunde",
+        "akkusativ": "die Schulstunde"
+      },
+      "plural": {
+        "nominativ": "die Schulstunden",
+        "genitiv": "der Schulstunden",
+        "dativ": "den Schulstunden",
+        "akkusativ": "die Schulstunden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schulstunnde",
+    "Schulstunde",
+    "Schullstunde",
+    "Schulstundte",
+    "Shulstunde",
+    "Schulstundde"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "lemma": "Abbild",
+  "wortart": "Nomen",
+  "silben": "Ab-bild",
+  "begriffserklaerung": "Ein Abbild ist eine genaue Darstellung oder Kopie von etwas, zum Beispiel ein Foto oder ein Gemälde, das zeigt, wie etwas oder jemand aussieht.",
+  "beispielsatz": "Das Foto ist ein genaues Abbild meiner kleinen Schwester.",
+  "rechtschreibstrategie": "Das Wort „Abbild\" besteht aus zwei Teilen: „ab\" und „Bild\". Weil das erste Teil auf „b\" endet und „Bild\" mit „B\" beginnt, schreibst du zwei „b\" hintereinander: Ab-bild.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bild",
+    "ab"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Abbild",
+    "plural": "die Abbilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Abbild",
+        "genitiv": "des Abbilds",
+        "dativ": "dem Abbild",
+        "akkusativ": "das Abbild"
+      },
+      "plural": {
+        "nominativ": "die Abbilder",
+        "genitiv": "der Abbilder",
+        "dativ": "den Abbildern",
+        "akkusativ": "die Abbilder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abild",
+    "Abbielt",
+    "Abbilld",
+    "Abbilder",
+    "abbild"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "image / depiction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "représentation / image"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görüntü / tasvir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صورة / تمثيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abbilden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Darstellung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemälde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichnung"
+    }
+  ],
+  "bild_datei": "Abbild.webp",
+  "audio_datei": "Abbild.mp3"
+}

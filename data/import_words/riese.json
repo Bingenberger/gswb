@@ -1,0 +1,82 @@
+{
+  "lemma": "Riese",
+  "wortart": "Nomen",
+  "silben": "Rie-se",
+  "begriffserklaerung": "Ein Riese ist ein sehr großer, starker Mensch oder ein Fabelwesen aus Märchen, das viel größer als ein normaler Mensch ist.",
+  "beispielsatz": "In dem Märchen lebt ein freundlicher Riese in den Bergen.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" am Anfang: Rie-se. Das „ie\" spricht man lang, wie in „Biene\" oder „Tier\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Riese"
+  ],
+  "bild_datei": "Riese.webp",
+  "audio_datei": "Riese.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "giant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "géant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dev"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عملاق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "riesig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Riesin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gigant"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Riese",
+    "plural": "die Riesen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Riese",
+        "genitiv": "des Riesen",
+        "dativ": "dem Riesen",
+        "akkusativ": "den Riesen"
+      },
+      "plural": {
+        "nominativ": "die Riesen",
+        "genitiv": "der Riesen",
+        "dativ": "den Riesen",
+        "akkusativ": "die Riesen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Riesse",
+    "Rieße",
+    "Riehse",
+    "Rese",
+    "Rihse"
+  ]
+}

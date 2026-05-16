@@ -1,0 +1,89 @@
+{
+  "lemma": "fester Körper",
+  "wortart": "Nomen",
+  "silben": "fes-ter Kör-per",
+  "begriffserklaerung": "Ein fester Körper ist ein Stoff, der eine bestimmte Form hat und diese behält. Er lässt sich nicht so leicht verformen wie Wasser oder Luft.",
+  "beispielsatz": "Ein Stein ist ein fester Körper, denn er behält immer seine Form.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „fest\" und „Körper\". Bei „Körper\" hörst du das ö – schreib es mit einem Umlaut-o. Das „r\" am Ende von „Körper\" sprichst du leise mit.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "fest",
+    "Körper"
+  ],
+  "bild_datei": "fester Körper.webp",
+  "audio_datei": "fester Körper.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der feste Körper",
+    "plural": "die festen Körper",
+    "deklination": {
+      "singular": {
+        "nominativ": "der feste Körper",
+        "genitiv": "des festen Körpers",
+        "dativ": "dem festen Körper",
+        "akkusativ": "den festen Körper"
+      },
+      "plural": {
+        "nominativ": "die festen Körper",
+        "genitiv": "der festen Körper",
+        "dativ": "den festen Körpern",
+        "akkusativ": "die festen Körper"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "solid"
+    },
+    {
+      "language_code": "fr",
+      "translation": "corps solide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katı cisim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جسم صلب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fest"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Körper"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flüssigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aggregatzustand"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feststoff"
+    }
+  ],
+  "fehlschreibungen": [
+    "fester Körpa",
+    "fester Koerper",
+    "fester Körber",
+    "fester Körper",
+    "fester Körpre",
+    "fester Körpär"
+  ]
+}

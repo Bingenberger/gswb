@@ -1,0 +1,83 @@
+{
+  "lemma": "Arbeitszeit",
+  "wortart": "Nomen",
+  "silben": "Ar-beits-zeit",
+  "begriffserklaerung": "Die Arbeitszeit ist die Zeit, in der jemand arbeitet – zum Beispiel die Stunden, die ein Erwachsener täglich im Büro oder an seinem Arbeitsplatz verbringt.",
+  "beispielsatz": "Die Arbeitszeit meiner Mutter endet jeden Tag um 17 Uhr.",
+  "rechtschreibstrategie": "„Arbeitszeit\" ist ein zusammengesetztes Wort aus „Arbeit\" und „Zeit\". Sprich beide Teile einzeln: AR-BEIT + ZEIT. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Arbeit",
+    "Zeit"
+  ],
+  "bild_datei": "Arbeitszeit.webp",
+  "audio_datei": "Arbeitszeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "working hours"
+    },
+    {
+      "language_code": "fr",
+      "translation": "heures de travail"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çalışma saatleri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعات العمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeitsplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Dienstzeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Arbeitszeit",
+    "plural": "die Arbeitszeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Arbeitszeit",
+        "genitiv": "der Arbeitszeit",
+        "dativ": "der Arbeitszeit",
+        "akkusativ": "die Arbeitszeit"
+      },
+      "plural": {
+        "nominativ": "die Arbeitszeiten",
+        "genitiv": "der Arbeitszeiten",
+        "dativ": "den Arbeitszeiten",
+        "akkusativ": "die Arbeitszeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Arbeitszeid",
+    "Arbeitzzeit",
+    "Arbaitszeit",
+    "Arbeiszeit",
+    "Arbeitszeitt"
+  ]
+}

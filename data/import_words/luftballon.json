@@ -1,0 +1,84 @@
+{
+  "lemma": "Luftballon",
+  "wortart": "Nomen",
+  "silben": "Luft-bal-lon",
+  "begriffserklaerung": "Ein Luftballon ist ein bunter, aufblasbarer Gummibeutel, der mit Luft oder Gas gefüllt wird und dann rund und prall ist.",
+  "beispielsatz": "Auf dem Geburtstag hat Mia einen roten Luftballon aufgeblasen.",
+  "rechtschreibstrategie": "Das Wort „Luftballon\" besteht aus zwei Teilen: „Luft\" und „Ballon\". Denk daran: „Ballon\" schreibt man mit doppeltem l und am Ende on – nicht un!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Luft",
+    "Ballon"
+  ],
+  "bild_datei": "Luftballon.webp",
+  "audio_datei": "Luftballon.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Luftballon",
+    "plural": "die Luftballons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Luftballon",
+        "genitiv": "des Luftballons",
+        "dativ": "dem Luftballon",
+        "akkusativ": "den Luftballon"
+      },
+      "plural": {
+        "nominativ": "die Luftballons",
+        "genitiv": "der Luftballons",
+        "dativ": "den Luftballons",
+        "akkusativ": "die Luftballons"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "balloon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ballon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "balon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بالون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Luft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ballon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geburtstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ballon"
+    }
+  ],
+  "fehlschreibungen": [
+    "Luftbalon",
+    "Luftballun",
+    "Lufballon",
+    "Luftballong",
+    "Luftbалон"
+  ]
+}

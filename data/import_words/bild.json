@@ -1,0 +1,81 @@
+{
+  "lemma": "Bild",
+  "wortart": "Nomen",
+  "silben": "Bild",
+  "begriffserklaerung": "Ein Bild zeigt etwas, das gemalt, gezeichnet oder fotografiert wurde. Man kann es anschauen.",
+  "beispielsatz": "Lena malt ein buntes Bild von ihrer Familie.",
+  "rechtschreibstrategie": "Wenn du „Bild\" verlängerst, hörst du das D am Ende deutlich: „Bil-der\". Deshalb schreibt man „Bild\" mit d und nicht mit t.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bild"
+  ],
+  "bild_datei": "Bild.webp",
+  "audio_datei": "Bild.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "picture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "image"
+    },
+    {
+      "language_code": "tr",
+      "translation": "resim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "malen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abbilden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeichnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gemälde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Bild",
+    "plural": "Bilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bild",
+        "genitiv": "des Bildes",
+        "dativ": "dem Bild",
+        "akkusativ": "das Bild"
+      },
+      "plural": {
+        "nominativ": "die Bilder",
+        "genitiv": "der Bilder",
+        "dativ": "den Bildern",
+        "akkusativ": "die Bilder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bilt",
+    "Bildt",
+    "Bield",
+    "Billd"
+  ]
+}

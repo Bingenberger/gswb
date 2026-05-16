@@ -1,0 +1,82 @@
+{
+  "lemma": "Magen",
+  "wortart": "Nomen",
+  "silben": "Ma-gen",
+  "begriffserklaerung": "Der Magen ist ein Organ in deinem Bauch. Er zerkleinert das Essen, das du schluckst, und verdaut es weiter.",
+  "beispielsatz": "Nach dem Mittagessen knurrt mein Magen manchmal noch – er verdaut fleißig das Essen.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Ma-gen. Das „g\" in der zweiten Silbe klingt weich – denk daran, es nicht mit „k\" zu schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Magen"
+  ],
+  "bild_datei": "Magen.webp",
+  "audio_datei": "Magen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stomach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "estomac"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mide"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Magendrücken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Magenschmerzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Darm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verdauung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Magen",
+    "plural": "die Mägen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Magen",
+        "genitiv": "des Magens",
+        "dativ": "dem Magen",
+        "akkusativ": "den Magen"
+      },
+      "plural": {
+        "nominativ": "die Mägen",
+        "genitiv": "der Mägen",
+        "dativ": "den Mägen",
+        "akkusativ": "die Mägen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mahgen",
+    "Magen",
+    "Maken",
+    "Maagen",
+    "Magon"
+  ]
+}

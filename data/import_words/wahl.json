@@ -1,0 +1,95 @@
+{
+  "lemma": "Wahl",
+  "wortart": "Nomen",
+  "silben": "Wahl",
+  "begriffserklaerung": "Eine Wahl ist, wenn du dich für etwas entscheidest oder zwischen mehreren Möglichkeiten eine auswählst. Bei einer Wahl können auch viele Menschen abstimmen, zum Beispiel wer ihr Klassensprecher werden soll.",
+  "beispielsatz": "Bei der Wahl zum Klassensprecher haben alle Kinder ihre Stimme abgegeben.",
+  "rechtschreibstrategie": "Das Wort „Wahl\" hat ein Dehnungs-h – das h nach dem a spricht man nicht, aber man schreibt es mit. Merke: W-A-H-L!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "wähl"
+  ],
+  "bild_datei": "Wahl.webp",
+  "audio_datei": "Wahl.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "choice / election"
+    },
+    {
+      "language_code": "fr",
+      "translation": "choix / élection"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seçim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اختيار / انتخاب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wähler"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "auswählen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entscheidung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stimme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abstimmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klassensprecher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wahl",
+    "plural": "die Wahlen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wahl",
+        "genitiv": "der Wahl",
+        "dativ": "der Wahl",
+        "akkusativ": "die Wahl"
+      },
+      "plural": {
+        "nominativ": "die Wahlen",
+        "genitiv": "der Wahlen",
+        "dativ": "den Wahlen",
+        "akkusativ": "die Wahlen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Val",
+    "Wal",
+    "Waal",
+    "Wahl",
+    "Vahl",
+    "Waahl"
+  ]
+}

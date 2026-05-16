@@ -1,0 +1,90 @@
+{
+  "lemma": "Grenze",
+  "wortart": "Nomen",
+  "silben": "Gren-ze",
+  "begriffserklaerung": "Eine Grenze ist eine Linie, die zwei Orte, Länder oder Bereiche voneinander trennt.",
+  "beispielsatz": "An der Grenze zwischen Deutschland und Frankreich steht ein Schild.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Gren-ze\". Du hörst zwei Silben. Denk daran: Nach dem „n\" kommt ein „z\", nicht ein „s\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "grenz"
+  ],
+  "bild_datei": "Grenze.webp",
+  "audio_datei": "Grenze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "border"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frontière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınır"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حدود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grenzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "begrenzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grenzstein"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zaun"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Übergang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Grenze",
+    "plural": "die Grenzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Grenze",
+        "genitiv": "der Grenze",
+        "dativ": "der Grenze",
+        "akkusativ": "die Grenze"
+      },
+      "plural": {
+        "nominativ": "die Grenzen",
+        "genitiv": "der Grenzen",
+        "dativ": "den Grenzen",
+        "akkusativ": "die Grenzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grenße",
+    "Grense",
+    "Gränze",
+    "Grenze",
+    "Grentz"
+  ]
+}

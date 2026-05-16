@@ -1,0 +1,88 @@
+{
+  "lemma": "Preisschild",
+  "wortart": "Nomen",
+  "silben": "Preis-schild",
+  "begriffserklaerung": "Ein Preisschild ist ein kleines Schild oder Zettel, auf dem steht, wie viel etwas kostet.",
+  "beispielsatz": "Am Pullover hängt ein Preisschild mit der Zahl 12,99 Euro.",
+  "rechtschreibstrategie": "„Preisschild\" ist aus zwei Wörtern zusammengebaut: „Preis\" und „Schild\". Wenn du beide Teile erkennst, kannst du das Wort richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Preis",
+    "Schild"
+  ],
+  "bild_datei": "Preisschild.webp",
+  "audio_datei": "Preisschild.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Preisschild",
+    "plural": "die Preisschilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Preisschild",
+        "genitiv": "des Preisschildes",
+        "dativ": "dem Preisschild",
+        "akkusativ": "das Preisschild"
+      },
+      "plural": {
+        "nominativ": "die Preisschilder",
+        "genitiv": "der Preisschilder",
+        "dativ": "den Preisschildern",
+        "akkusativ": "die Preisschilder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "price tag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étiquette de prix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiyat etiketi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطاقة السعر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Preis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Preiszettel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kasse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Preisschildt",
+    "Preißschild",
+    "Preisschilt",
+    "Preischild",
+    "Preissshild"
+  ]
+}

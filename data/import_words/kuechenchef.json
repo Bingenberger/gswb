@@ -1,0 +1,89 @@
+{
+  "lemma": "Küchenchef",
+  "wortart": "Nomen",
+  "silben": "Kü-chen-chef",
+  "begriffserklaerung": "Ein Küchenchef ist der wichtigste Koch in einem Restaurant. Er leitet die anderen Köche und bestimmt, welche Gerichte gekocht werden.",
+  "beispielsatz": "Der Küchenchef bereitet heute eine leckere Gemüsesuppe zu.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Küchen\" und „Chef\". Denk daran, dass „Chef\" mit „Ch\" beginnt – das klingt wie „sch\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Küche",
+    "Chef"
+  ],
+  "bild_datei": "Küchenchef.webp",
+  "audio_datei": "Küchenchef.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Küchenchef",
+    "plural": "die Küchenchefs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Küchenchef",
+        "genitiv": "des Küchenchefs",
+        "dativ": "dem Küchenchef",
+        "akkusativ": "den Küchenchef"
+      },
+      "plural": {
+        "nominativ": "die Küchenchefs",
+        "genitiv": "der Küchenchefs",
+        "dativ": "den Küchenchefs",
+        "akkusativ": "die Küchenchefs"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "head chef"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chef cuisinier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baş aşçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رئيس الطهاة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Küche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Koch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Chefkoch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Restaurant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speisekarte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Küchenshef",
+    "Küchentschef",
+    "Küchencheff",
+    "Küchenchef",
+    "Küchenschaft",
+    "Küchenscheck"
+  ]
+}

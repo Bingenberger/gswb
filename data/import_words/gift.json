@@ -1,0 +1,82 @@
+{
+  "lemma": "Gift",
+  "wortart": "Nomen",
+  "silben": "Gift",
+  "begriffserklaerung": "Ein Gift ist ein Stoff, der Menschen, Tieren oder Pflanzen schaden oder sie krank machen kann, wenn man ihn schluckt, einatmet oder berührt.",
+  "beispielsatz": "Manche Beeren im Wald sind giftig – iss sie niemals, denn sie enthalten Gift!",
+  "rechtschreibstrategie": "„Gift\" schreibt man mit kurzem „i\" und „ft\" am Ende. Sprich es deutlich: G-i-ft. Das „ft\" hörst du klar beim Mitsprechen.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "gift"
+  ],
+  "bild_datei": "Gift.webp",
+  "audio_datei": "Gift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "poison"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poison"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zehir"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سُمّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "giftig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vergiften"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Warnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Giftstoff"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gift",
+    "plural": "die Gifte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gift",
+        "genitiv": "des Giftes",
+        "dativ": "dem Gift",
+        "akkusativ": "das Gift"
+      },
+      "plural": {
+        "nominativ": "die Gifte",
+        "genitiv": "der Gifte",
+        "dativ": "den Giften",
+        "akkusativ": "die Gifte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Giff",
+    "Gjft",
+    "Gifft",
+    "Gipft",
+    "Gihft"
+  ]
+}

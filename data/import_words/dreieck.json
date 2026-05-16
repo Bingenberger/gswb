@@ -1,0 +1,88 @@
+{
+  "lemma": "Dreieck",
+  "wortart": "Nomen",
+  "silben": "Drei-eck",
+  "begriffserklaerung": "Ein Dreieck ist eine geometrische Form mit genau drei Ecken und drei Seiten.",
+  "beispielsatz": "Die Verkehrsschilder haben oft die Form eines Dreiecks.",
+  "rechtschreibstrategie": "Das Wort „Dreieck\" besteht aus zwei Teilen: „drei\" und „Eck\". Sprich beide Teile einzeln und schreibe sie zusammen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "drei",
+    "Eck"
+  ],
+  "bild_datei": "Dreieck.webp",
+  "audio_datei": "Dreieck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "triangle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "triangle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üçgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مثلث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "drei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dreieckig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Viereck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geometrie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Dreieck",
+    "plural": "die Dreiecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Dreieck",
+        "genitiv": "des Dreiecks",
+        "dativ": "dem Dreieck",
+        "akkusativ": "das Dreieck"
+      },
+      "plural": {
+        "nominativ": "die Dreiecke",
+        "genitiv": "der Dreiecke",
+        "dativ": "den Dreiecken",
+        "akkusativ": "die Dreiecke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dreiek",
+    "Dreiehck",
+    "Dreyeck",
+    "Dreieckk",
+    "Dreick"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "lemma": "Pluspol",
+  "wortart": "Nomen",
+  "silben": "Plus-pol",
+  "begriffserklaerung": "Der Pluspol ist eine Seite einer Batterie oder eines Akkus. Er ist meistens mit einem „+\" Zeichen markiert und gibt den elektrischen Strom ab.",
+  "beispielsatz": "Das rote Kabel wird an den Pluspol der Batterie angeschlossen.",
+  "rechtschreibstrategie": "Das Wort „Pluspol\" besteht aus zwei Teilen: „Plus\" und „Pol\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben: Plus – Pol.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Pol"
+  ],
+  "bild_datei": "Pluspol.webp",
+  "audio_datei": "Pluspol.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "positive pole"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pôle positif"
+    },
+    {
+      "language_code": "tr",
+      "translation": "artı kutup"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القطب الموجب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Pol"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minuspol"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stromkreis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pluspol",
+    "plural": "die Pluspole",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pluspol",
+        "genitiv": "des Pluspols",
+        "dativ": "dem Pluspol",
+        "akkusativ": "den Pluspol"
+      },
+      "plural": {
+        "nominativ": "die Pluspole",
+        "genitiv": "der Pluspole",
+        "dativ": "den Pluspolen",
+        "akkusativ": "die Pluspole"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pluspohl",
+    "Pluspole",
+    "Pluspoll",
+    "Plusspol",
+    "Pluhspol"
+  ]
+}

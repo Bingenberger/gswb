@@ -1,0 +1,84 @@
+{
+  "lemma": "Waschbecken",
+  "wortart": "Nomen",
+  "silben": "Wasch-be-cken",
+  "begriffserklaerung": "Ein Waschbecken ist eine kleine Schüssel aus Porzellan oder Keramik, die fest an der Wand hängt oder auf einem Schrank steht. Man wäscht sich dort die Hände oder das Gesicht.",
+  "beispielsatz": "Vor dem Essen wäscht Lena ihre Hände am Waschbecken mit Seife.",
+  "rechtschreibstrategie": "„Waschbecken\" ist aus zwei Wörtern zusammengebaut: „waschen\" und „Becken\". Das „ck\" in „Becken\" zeigt, dass das „e\" davor kurz gesprochen wird – nach einem kurzen Vokal schreibt man ck.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wasch",
+    "beck"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Waschbecken",
+    "plural": "die Waschbecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Waschbecken",
+        "genitiv": "des Waschbeckens",
+        "dativ": "dem Waschbecken",
+        "akkusativ": "das Waschbecken"
+      },
+      "plural": {
+        "nominativ": "die Waschbecken",
+        "genitiv": "der Waschbecken",
+        "dativ": "den Waschbecken",
+        "akkusativ": "die Waschbecken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waschbeken",
+    "Waschbecen",
+    "Wachbecken",
+    "Waschbäcken",
+    "Waschbekken"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Becken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasserhahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washbasin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lavabo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "lavabo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض الغسيل"
+    }
+  ],
+  "bild_datei": "Waschbecken.webp",
+  "audio_datei": "Waschbecken.mp3"
+}

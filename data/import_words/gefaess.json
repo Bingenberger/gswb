@@ -1,0 +1,83 @@
+{
+  "lemma": "Gefäß",
+  "wortart": "Nomen",
+  "silben": "Ge-fäß",
+  "begriffserklaerung": "Ein Gefäß ist ein Behälter, in den man Flüssigkeiten oder andere Dinge hineinfüllen kann, zum Beispiel eine Tasse, ein Glas oder ein Topf.",
+  "beispielsatz": "Mama stellt ein Gefäß mit Wasser auf den Tisch.",
+  "rechtschreibstrategie": "Schreibe am Ende ß, nicht ss! Das Wort endet auf einen langen Vokal (ä), deshalb kommt danach ß statt ss.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "fassen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefäß",
+    "plural": "die Gefäße",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefäß",
+        "genitiv": "des Gefäßes",
+        "dativ": "dem Gefäß",
+        "akkusativ": "das Gefäß"
+      },
+      "plural": {
+        "nominativ": "die Gefäße",
+        "genitiv": "der Gefäße",
+        "dativ": "den Gefäßen",
+        "akkusativ": "die Gefäße"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "vessel / container"
+    },
+    {
+      "language_code": "fr",
+      "translation": "récipient"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kap"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fassen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Behälter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Topf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tasse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glas"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gefäss",
+    "Gefass",
+    "Gefäß",
+    "Gefäs",
+    "Gefas",
+    "Gefässs"
+  ],
+  "bild_datei": "Gefäß.webp",
+  "audio_datei": "Gefäß.mp3"
+}

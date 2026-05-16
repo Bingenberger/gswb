@@ -1,0 +1,93 @@
+{
+  "lemma": "Antrieb",
+  "wortart": "Nomen",
+  "silben": "An-trieb",
+  "begriffserklaerung": "Ein Antrieb ist das, was etwas oder jemanden in Bewegung bringt oder antreibt – zum Beispiel ein Motor bei einem Auto oder der innere Wunsch, etwas zu tun.",
+  "beispielsatz": "Das Elektroauto hat einen leisen Antrieb und fährt ganz ohne Benzin.",
+  "rechtschreibstrategie": "Denk an das Verb „antreiben\": An-trieb. Das Wort setzt sich aus „an\" und „Trieb\" zusammen – hör beide Bausteine genau hin!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "treib",
+    "Trieb"
+  ],
+  "bild_datei": "Antrieb.webp",
+  "audio_datei": "Antrieb.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Antrieb",
+    "plural": "die Antriebe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Antrieb",
+        "genitiv": "des Antriebs",
+        "dativ": "dem Antrieb",
+        "akkusativ": "den Antrieb"
+      },
+      "plural": {
+        "nominativ": "die Antriebe",
+        "genitiv": "der Antriebe",
+        "dativ": "den Antrieben",
+        "akkusativ": "die Antriebe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "drive / propulsion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "propulsion / motivation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "itici güç / tahrik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دافع / محرك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "antreiben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trieb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Motor"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Motivation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bewegung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Andrieb",
+    "Antreib",
+    "Antrib",
+    "Antriep",
+    "Antriepp"
+  ]
+}

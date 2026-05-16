@@ -1,0 +1,87 @@
+{
+  "lemma": "Fotograf",
+  "wortart": "Nomen",
+  "silben": "Fo-to-graf",
+  "begriffserklaerung": "Ein Fotograf ist jemand, der mit einer Kamera Bilder aufnimmt – zum Beispiel von Menschen, Tieren oder Landschaften.",
+  "beispielsatz": "Der Fotograf macht ein schönes Bild von unserer Klasse.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Griechischen. Schreibe es mit „F\" am Anfang und „f\" am Ende: Fo-to-graf. Kein „ph\", kein „ck\" – einfach so, wie du es hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "foto",
+    "fotograf"
+  ],
+  "bild_datei": "Fotograf.webp",
+  "audio_datei": "Fotograf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "photographer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "photographe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fotoğrafçı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُصَوِّر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Foto"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fotografieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fotografie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bildmacher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fotograf",
+    "plural": "die Fotografen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fotograf",
+        "genitiv": "des Fotografen",
+        "dativ": "dem Fotografen",
+        "akkusativ": "den Fotografen"
+      },
+      "plural": {
+        "nominativ": "die Fotografen",
+        "genitiv": "der Fotografen",
+        "dativ": "den Fotografen",
+        "akkusativ": "die Fotografen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fotograf",
+    "Photograf",
+    "Fotograhf",
+    "Fottograf",
+    "Fotograaf"
+  ]
+}

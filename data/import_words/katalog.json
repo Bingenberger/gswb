@@ -1,0 +1,78 @@
+{
+  "lemma": "Katalog",
+  "wortart": "Nomen",
+  "silben": "Ka-ta-log",
+  "begriffserklaerung": "Ein Katalog ist ein Heft oder ein Buch, in dem viele Dinge aufgelistet und oft mit Bildern gezeigt werden – zum Beispiel Spielzeug, Bücher oder Produkte zum Bestellen.",
+  "beispielsatz": "Im Weihnachtskatalog hat Lena viele schöne Spielsachen entdeckt.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ka – ta – log. Merke: Am Ende steht -log, nicht -lock oder -lok!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Katalog"
+  ],
+  "bild_datei": "Katalog.webp",
+  "audio_datei": "Katalog.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "catalogue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "catalogue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "katalog"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتالوج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "katalogisieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Liste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verzeichnis"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Katalog",
+    "plural": "die Kataloge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Katalog",
+        "genitiv": "des Katalogs",
+        "dativ": "dem Katalog",
+        "akkusativ": "den Katalog"
+      },
+      "plural": {
+        "nominativ": "die Kataloge",
+        "genitiv": "der Kataloge",
+        "dativ": "den Katalogen",
+        "akkusativ": "die Kataloge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Katalock",
+    "Katalok",
+    "Kataolog",
+    "Cattalog",
+    "Kataloog"
+  ]
+}

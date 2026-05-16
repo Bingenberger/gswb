@@ -1,0 +1,88 @@
+{
+  "lemma": "Staat",
+  "wortart": "Nomen",
+  "silben": "Staat",
+  "begriffserklaerung": "Ein Staat ist ein Land mit einer eigenen Regierung, Gesetzen und Grenzen. Viele Menschen leben zusammen in einem Staat und halten gemeinsame Regeln ein.",
+  "beispielsatz": "Deutschland ist ein Staat in Europa.",
+  "rechtschreibstrategie": "Das Wort „Staat\" hat zwei a hintereinander – sprich beide a deutlich: „Sta-at\". Doppelter Vokal – merke dir: Staat schreibt man mit aa!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Staat"
+  ],
+  "bild_datei": "Staat.webp",
+  "audio_datei": "Staat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "state / country"
+    },
+    {
+      "language_code": "fr",
+      "translation": "État"
+    },
+    {
+      "language_code": "tr",
+      "translation": "devlet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دولة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "staatlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Staatsschule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesetz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Land"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Staat",
+    "plural": "die Staaten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Staat",
+        "genitiv": "des Staates",
+        "dativ": "dem Staat",
+        "akkusativ": "den Staat"
+      },
+      "plural": {
+        "nominativ": "die Staaten",
+        "genitiv": "der Staaten",
+        "dativ": "den Staaten",
+        "akkusativ": "die Staaten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stat",
+    "Statt",
+    "Staat",
+    "Shtaat",
+    "Staad",
+    "Stahd",
+    "Stahdt"
+  ]
+}

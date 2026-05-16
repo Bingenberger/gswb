@@ -1,0 +1,83 @@
+{
+  "lemma": "Schwimmer",
+  "wortart": "Nomen",
+  "silben": "Schwim-mer",
+  "begriffserklaerung": "Ein Schwimmer ist eine Person, die im Wasser schwimmt – zum Spaß oder beim Sport.",
+  "beispielsatz": "Der Schwimmer taucht vom Beckenrand ins kühle Wasser.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" in „Schwim-\" kommt ein Doppel-m. Sprich das Wort in Silben: Schwim – mer!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schwimm"
+  ],
+  "bild_datei": "Schwimmer.webp",
+  "audio_datei": "Schwimmer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "swimmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nageur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yüzücü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سبّاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwimmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schwimmbad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bademeister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwimmbecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwimmerin"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schwimmer",
+    "plural": "die Schwimmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schwimmer",
+        "genitiv": "des Schwimmers",
+        "dativ": "dem Schwimmer",
+        "akkusativ": "den Schwimmer"
+      },
+      "plural": {
+        "nominativ": "die Schwimmer",
+        "genitiv": "der Schwimmer",
+        "dativ": "den Schwimmern",
+        "akkusativ": "die Schwimmer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwimer",
+    "Schvimmer",
+    "Swimmer",
+    "Schwimmer",
+    "Schwiimer",
+    "Shwimmer"
+  ]
+}

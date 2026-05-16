@@ -1,0 +1,72 @@
+{
+  "lemma": "Amsel",
+  "wortart": "Nomen",
+  "silben": "Am-sel",
+  "begriffserklaerung": "Die Amsel ist ein Singvogel mit schwarzem Gefieder und orangefarbenem Schnabel. Sie singt sehr schön und lebt in Gärten, Parks und Wäldern.",
+  "beispielsatz": "Die Amsel singt jeden Morgen ein schönes Lied auf dem Dach.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Am – sel. Höre genau hin: Nach dem kurzen „A\" folgt ein „m\" – schreibe es so, wie du es hörst.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Amsel.webp",
+  "audio_datei": "Amsel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blackbird"
+    },
+    {
+      "language_code": "fr",
+      "translation": "merle noir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karatavuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شحرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Singvogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meise"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Amsel",
+    "plural": "die Amseln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Amsel",
+        "genitiv": "der Amsel",
+        "dativ": "der Amsel",
+        "akkusativ": "die Amsel"
+      },
+      "plural": {
+        "nominativ": "die Amseln",
+        "genitiv": "der Amseln",
+        "dativ": "den Amseln",
+        "akkusativ": "die Amseln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Amßel",
+    "Amzel",
+    "Amcel",
+    "Ammsel",
+    "Amssel"
+  ]
+}

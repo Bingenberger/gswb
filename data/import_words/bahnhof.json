@@ -1,0 +1,83 @@
+{
+  "lemma": "Bahnhof",
+  "wortart": "Nomen",
+  "silben": "Bahn-hof",
+  "begriffserklaerung": "Ein Bahnhof ist ein Ort, an dem Züge halten. Menschen können dort in einen Zug einsteigen oder aussteigen.",
+  "beispielsatz": "Wir treffen uns um zehn Uhr am Bahnhof und fahren dann gemeinsam mit dem Zug in die Stadt.",
+  "rechtschreibstrategie": "„Bahnhof\" ist ein zusammengesetztes Wort aus „Bahn\" und „Hof\". Denk an beide Teile einzeln, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bahn",
+    "Hof"
+  ],
+  "bild_datei": "Bahnhof.webp",
+  "audio_datei": "Bahnhof.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bahnhof",
+    "plural": "die Bahnhöfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bahnhof",
+        "genitiv": "des Bahnhofs",
+        "dativ": "dem Bahnhof",
+        "akkusativ": "den Bahnhof"
+      },
+      "plural": {
+        "nominativ": "die Bahnhöfe",
+        "genitiv": "der Bahnhöfe",
+        "dativ": "den Bahnhöfen",
+        "akkusativ": "die Bahnhöfe"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "train station"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gare"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tren istasyonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محطة القطار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gleis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrkarte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bannhof",
+    "Bahnhoef",
+    "Bahnoff",
+    "Banhofe",
+    "Bahnhoff"
+  ]
+}

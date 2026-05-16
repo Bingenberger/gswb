@@ -1,0 +1,89 @@
+{
+  "lemma": "haben",
+  "wortart": "Verb",
+  "silben": "ha-ben",
+  "begriffserklaerung": "Wenn du etwas hast, gehört es dir oder du trägst es bei dir.",
+  "beispielsatz": "Ich habe einen roten Rucksack.",
+  "rechtschreibstrategie": "Sprich das Wort laut: ha-ben. Du hörst zwei Silben. Das „h\" am Anfang sprichst du mit – schreib es auch!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hab"
+  ],
+  "bild_datei": "haben.webp",
+  "audio_datei": "haben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to have"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahip olmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يملك / عنده"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Habe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Besitz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "besitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "besitzen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "haben",
+    "praesens": {
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie": "haben"
+    },
+    "perfekt": {
+      "ich": "habe gehabt",
+      "du": "hast gehabt",
+      "er_sie_es": "hat gehabt",
+      "wir": "haben gehabt",
+      "ihr": "habt gehabt",
+      "sie": "haben gehabt"
+    },
+    "praeteritum": {
+      "ich": "hatte",
+      "du": "hattest",
+      "er_sie_es": "hatte",
+      "wir": "hatten",
+      "ihr": "hattet",
+      "sie": "hatten"
+    }
+  },
+  "fehlschreibungen": [
+    "hapen",
+    "habn",
+    "haben",
+    "habe"
+  ]
+}

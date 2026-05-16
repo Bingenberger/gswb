@@ -1,0 +1,75 @@
+{
+  "lemma": "Fach",
+  "wortart": "Nomen",
+  "silben": "Fach",
+  "begriffserklaerung": "Ein Fach ist ein bestimmter Lernbereich in der Schule, zum Beispiel Mathe oder Deutsch. Ein Fach kann auch ein einzelnes Abteil in einem Regal oder einer Tasche sein.",
+  "beispielsatz": "Mathe ist mein Lieblingsfach in der Schule.",
+  "rechtschreibstrategie": "Das Wort „Fach\" hat nur eine Silbe. Nach dem kurzen „a\" kommt „ch\" – das ist kein Kürzezeichen, aber man hört das „ch\" deutlich. Schreib einfach so, wie du es sprichst: F-a-ch.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fach"
+  ],
+  "bild_datei": "Fach.webp",
+  "audio_datei": "Fach.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "subject / compartment"
+    },
+    {
+      "language_code": "fr",
+      "translation": "matière / compartiment"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders / bölme"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مادة / خانة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Unterricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulfach"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Fach",
+    "plural": "Fächer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fach",
+        "genitiv": "des Fachs",
+        "dativ": "dem Fach",
+        "akkusativ": "das Fach"
+      },
+      "plural": {
+        "nominativ": "die Fächer",
+        "genitiv": "der Fächer",
+        "dativ": "den Fächern",
+        "akkusativ": "die Fächer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fash",
+    "Vach",
+    "Fach",
+    "Fack",
+    "Faach",
+    "Fsche"
+  ]
+}

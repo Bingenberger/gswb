@@ -1,0 +1,92 @@
+{
+  "lemma": "schneiden",
+  "wortart": "Verb",
+  "silben": "schnei-den",
+  "begriffserklaerung": "Mit einem Messer oder einer Schere etwas in Teile trennen.",
+  "beispielsatz": "Mama schneidet das Brot in dicke Scheiben.",
+  "rechtschreibstrategie": "Denk an „Schnitt\" – das kurze „ei\" in „schneiden\" klingt wie ein langer Diphthong. Schreib immer „ei\" und nicht „ai\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schneid",
+    "schnitt"
+  ],
+  "bild_datei": "schneiden.webp",
+  "audio_datei": "schneiden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to cut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kesmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقطع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnitt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schneider"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sägen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reißen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerschneiden"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "schneiden",
+    "praesens": {
+      "ich": "schneide",
+      "du": "schneidest",
+      "er_sie_es": "schneidet",
+      "wir": "schneiden",
+      "ihr": "schneidet",
+      "sie": "schneiden"
+    },
+    "perfekt": {
+      "ich": "habe geschnitten",
+      "du": "hast geschnitten",
+      "er_sie_es": "hat geschnitten",
+      "wir": "haben geschnitten",
+      "ihr": "habt geschnitten",
+      "sie": "haben geschnitten"
+    },
+    "praeteritum": {
+      "ich": "schnitt",
+      "du": "schnittst",
+      "er_sie_es": "schnitt",
+      "wir": "schnitten",
+      "ihr": "schnittet",
+      "sie": "schnitten"
+    }
+  },
+  "fehlschreibungen": [
+    "schniden",
+    "schnaiden",
+    "schneiden",
+    "shneiden",
+    "schniten",
+    "schnneiden"
+  ]
+}

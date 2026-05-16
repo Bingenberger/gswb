@@ -1,0 +1,96 @@
+{
+  "lemma": "Schreck",
+  "wortart": "Nomen",
+  "silben": "Schreck",
+  "begriffserklaerung": "Ein Schreck ist ein plötzliches, unangenehmes Gefühl, das entsteht, wenn etwas Unerwartetes passiert und man sich erschrickt.",
+  "beispielsatz": "Als die Katze plötzlich auf den Tisch sprang, bekam ich einen großen Schreck.",
+  "rechtschreibstrategie": "Das Wort „Schreck\" endet auf -ck. Das ck kommt nach dem kurzen Vokal e – das zeigt dir, dass der Vokal kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schreck"
+  ],
+  "bild_datei": "Schreck.webp",
+  "audio_datei": "Schreck.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fright"
+    },
+    {
+      "language_code": "fr",
+      "translation": "frayeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "korku"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فزع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erschrecken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schreckен"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schrecklich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Angst"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Überraschung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schreck",
+    "plural": "die Schrecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schreck",
+        "genitiv": "des Schrecks",
+        "dativ": "dem Schreck",
+        "akkusativ": "den Schreck"
+      },
+      "plural": {
+        "nominativ": "die Schrecken",
+        "genitiv": "der Schrecken",
+        "dativ": "den Schrecken",
+        "akkusativ": "die Schrecken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schreg",
+    "Shreck",
+    "Schreck",
+    "Schrec",
+    "Schrek",
+    "Schrekk",
+    "Schrrekk"
+  ]
+}

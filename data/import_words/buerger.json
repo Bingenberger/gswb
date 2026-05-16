@@ -1,0 +1,82 @@
+{
+  "lemma": "Bürger",
+  "wortart": "Nomen",
+  "silben": "Bür-ger",
+  "begriffserklaerung": "Ein Bürger ist ein Mensch, der in einer Stadt oder einem Land lebt und dort bestimmte Rechte und Pflichten hat.",
+  "beispielsatz": "Jeder Bürger darf wählen, wenn er alt genug ist.",
+  "rechtschreibstrategie": "Das Wort „Bürger\" hat ein Ü mit Umlaut. Sprich es laut: Bür – ger. Das ü hörst du deutlich!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bürger"
+  ],
+  "bild_datei": "Bürger.webp",
+  "audio_datei": "Bürger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "citizen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "citoyen"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vatandaş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مواطن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bürgerlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bürgermeister"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einwohner"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bürger",
+    "plural": "die Bürger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bürger",
+        "genitiv": "des Bürgers",
+        "dativ": "dem Bürger",
+        "akkusativ": "den Bürger"
+      },
+      "plural": {
+        "nominativ": "die Bürger",
+        "genitiv": "der Bürger",
+        "dativ": "den Bürgern",
+        "akkusativ": "die Bürger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Buerger",
+    "Birger",
+    "Bürjer",
+    "Bürgher",
+    "Büger"
+  ]
+}

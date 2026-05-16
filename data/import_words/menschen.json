@@ -1,0 +1,82 @@
+{
+  "lemma": "Menschen",
+  "wortart": "Nomen",
+  "silben": "Men-schen",
+  "begriffserklaerung": "Menschen sind alle Männer, Frauen und Kinder auf der Welt. Jeder Mensch ist einzigartig und besonders.",
+  "beispielsatz": "Auf dem Marktplatz sind viele Menschen unterwegs.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Men-schen. Denk an das „sch\" am Ende – das klingt wie in „Schule\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mensch"
+  ],
+  "bild_datei": "Menschen.webp",
+  "audio_datei": "Menschen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "people / humans"
+    },
+    {
+      "language_code": "fr",
+      "translation": "personnes / êtres humains"
+    },
+    {
+      "language_code": "tr",
+      "translation": "insanlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بَشَر / نَاس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mensch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "menschlich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesellschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leute"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Mensch",
+    "plural": "die Menschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mensch",
+        "genitiv": "des Menschen",
+        "dativ": "dem Menschen",
+        "akkusativ": "den Menschen"
+      },
+      "plural": {
+        "nominativ": "die Menschen",
+        "genitiv": "der Menschen",
+        "dativ": "den Menschen",
+        "akkusativ": "die Menschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Menshen",
+    "Mentschen",
+    "Menshcen",
+    "Meenschen",
+    "Mänchen"
+  ]
+}

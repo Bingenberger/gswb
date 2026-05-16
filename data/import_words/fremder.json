@@ -1,0 +1,83 @@
+{
+  "lemma": "Fremder",
+  "wortart": "Nomen",
+  "silben": "Frem-der",
+  "begriffserklaerung": "Ein Fremder ist eine Person, die man nicht kennt oder die von woanders herkommt.",
+  "beispielsatz": "Ein Fremder fragte uns nach dem Weg zum Bahnhof.",
+  "rechtschreibstrategie": "Denk an das Wort „fremd\" – davon kommt „Fremder\". Das „d\" am Ende von „fremd\" hörst du, wenn du verlängerst: frem-de, frem-der.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fremd"
+  ],
+  "bild_datei": "Fremder.webp",
+  "audio_datei": "Fremder.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fremde",
+    "plural": "die Fremden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fremde",
+        "genitiv": "des Fremden",
+        "dativ": "dem Fremden",
+        "akkusativ": "den Fremden"
+      },
+      "plural": {
+        "nominativ": "die Fremden",
+        "genitiv": "der Fremden",
+        "dativ": "den Fremden",
+        "akkusativ": "die Fremden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stranger"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étranger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yabancı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "غريب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fremd"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fremdheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unbekannter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Besucher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbar"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fremmder",
+    "Fremter",
+    "Fremdder",
+    "Vrember",
+    "Fremder"
+  ]
+}

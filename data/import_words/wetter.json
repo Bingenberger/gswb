@@ -1,0 +1,90 @@
+{
+  "lemma": "Wetter",
+  "wortart": "Nomen",
+  "silben": "Wet-ter",
+  "begriffserklaerung": "Das Wetter beschreibt, wie es draußen ist – zum Beispiel ob die Sonne scheint, ob es regnet oder schneit.",
+  "beispielsatz": "Das Wetter heute ist wunderbar – die Sonne scheint und es ist warm!",
+  "rechtschreibstrategie": "Das Wort „Wetter\" hat ein Doppel-t in der Mitte, weil der Vokal e davor kurz gesprochen wird. Sprich laut: Wet-ter – du hörst das kurze e!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wetter"
+  ],
+  "bild_datei": "Wetter.webp",
+  "audio_datei": "Wetter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weather"
+    },
+    {
+      "language_code": "fr",
+      "translation": "temps"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hava"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طقس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wettern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Unwetter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wettervorhersage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Witterung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wetter",
+    "plural": "die Wetter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wetter",
+        "genitiv": "des Wetters",
+        "dativ": "dem Wetter",
+        "akkusativ": "das Wetter"
+      },
+      "plural": {
+        "nominativ": "die Wetter",
+        "genitiv": "der Wetter",
+        "dativ": "den Wettern",
+        "akkusativ": "die Wetter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Weter",
+    "Vetter",
+    "Wetter",
+    "Wether",
+    "Wetther"
+  ]
+}

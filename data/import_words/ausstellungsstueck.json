@@ -1,0 +1,84 @@
+{
+  "lemma": "Ausstellungsstück",
+  "wortart": "Nomen",
+  "silben": "Aus-stel-lungs-stück",
+  "begriffserklaerung": "Ein Ausstellungsstück ist ein Gegenstand, der in einem Museum oder auf einer Ausstellung gezeigt wird, damit die Besucher ihn anschauen können.",
+  "beispielsatz": "Das alte Schwert ist das wertvollste Ausstellungsstück im Museum.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Ausstellung\" + „s\" + „Stück\". Schreibe es einfach zusammen – und denk daran, dass „Stück\" mit ü und ck geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stellen",
+    "stücken"
+  ],
+  "bild_datei": "Ausstellungsstück.webp",
+  "audio_datei": "Ausstellungsstück.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ausstellungsstück",
+    "plural": "die Ausstellungsstücke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ausstellungsstück",
+        "genitiv": "des Ausstellungsstückes",
+        "dativ": "dem Ausstellungsstück",
+        "akkusativ": "das Ausstellungsstück"
+      },
+      "plural": {
+        "nominativ": "die Ausstellungsstücke",
+        "genitiv": "der Ausstellungsstücke",
+        "dativ": "den Ausstellungsstücken",
+        "akkusativ": "die Ausstellungsstücke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exhibit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pièce d'exposition"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sergi parçası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطعة معروضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausstellung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vitrine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Exponat"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausstellungstück",
+    "Austellungsstück",
+    "Ausstellungsstükk",
+    "Ausstellungsstüeck",
+    "Ausstellungsstuck"
+  ]
+}

@@ -1,0 +1,95 @@
+{% extends "base.html" %}
+
+{% block title %}Suche | Grundschul-Wörterbuch{% endblock %}
+
+{% block content %}
+<section class="search-hero">
+    <div class="search-panel">
+        <p class="eyebrow">Grundschul-Wörterbuch</p>
+        <h1>Finde ein Wort</h1>
+        <p class="subtitle">Tippe ein Wort ein.</p>
+
+        <form class="search-form" action="{{ url_for('main.search') }}" method="get" autocomplete="off" data-autocomplete-form>
+            <label class="sr-only" for="search-input">Wort suchen</label>
+            <input
+                id="search-input"
+                name="q"
+                type="search"
+                placeholder="Zum Beispiel: Hund"
+                value="{{ search_query or '' }}"
+                data-autocomplete-input
+                data-autocomplete-url="{{ url_for('main.api_autocomplete') }}"
+                autofocus
+            >
+            <button class="primary-button" type="submit">
+                <img class="button-icon" src="{{ url_for('static', filename='vendor/phosphor/magnifying-glass.svg') }}" alt="">
+                <span>Suchen</span>
+            </button>
+        </form>
+
+        <ul class="suggestions" data-autocomplete-results aria-live="polite"></ul>
+
+        {% if search_error %}
+        <div class="search-feedback">
+            <p>Zu diesem Wort haben wir noch keinen direkten Treffer gefunden.</p>
+            {% if suggestions %}
+            <p>Vielleicht meinst du eines dieser Wörter:</p>
+            {% endif %}
+        </div>
+        {% endif %}
+
+        {% if suggestions %}
+        <ul class="fallback-suggestions">
+            {% for suggestion in suggestions %}
+            <li class="suggestion-item suggestion-{{ suggestion.match_type }}">
+                <a href="{{ url_for('main.word_page', lemma=suggestion.lemma) }}">{{ suggestion.lemma }}</a>
+                <span class="suggestion-badge suggestion-badge-{{ suggestion.match_type }}">
+                    {{ suggestion_match_labels.get(suggestion.match_type, suggestion.match_type) }}
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+
+        <div class="home-secondary-links">
+            <a class="home-secondary-link" href="{{ url_for('main.categories') }}">
+                <img src="{{ url_for('static', filename='vendor/phosphor/pencil-line.svg') }}" alt="">
+                Rechtschreibkategorien
+            </a>
+        </div>
+    </div>
+</section>
+
+{% if word_of_day %}
+<section class="wotd-section">
+    <div class="wotd-card">
+        <p class="eyebrow wotd-eyebrow">Wort des Tages</p>
+        <div class="wotd-body">
+            <div class="wotd-text">
+                <h2 class="wotd-lemma">
+                    <a href="{{ url_for('main.word_page', lemma=word_of_day.lemma) }}">{{ word_of_day.lemma }}</a>
+                </h2>
+                {% if word_of_day.syllable_parts | length > 1 %}
+                <div class="syllable-row wotd-syllables">
+                    {% for syllable in word_of_day.syllable_parts %}
+                    <span class="syllable-arc syllable-{{ loop.cycle('odd', 'even') }}">{{ syllable }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+                {% set pos = part_of_speech_meta.get(word_of_day.part_of_speech, {"label": word_of_day.part_of_speech, "class_name": "is-generic"}) %}
+                <span class="pos-pill {{ pos.class_name }}">{{ pos.label }}</span>
+                {% if word_of_day.definition %}
+                <p class="wotd-definition">{{ word_of_day.definition }}</p>
+                {% endif %}
+                <a class="wotd-link" href="{{ url_for('main.word_page', lemma=word_of_day.lemma) }}">Mehr erfahren →</a>
+            </div>
+            {% if word_of_day.image_exists %}
+            <div class="wotd-image">
+                <img src="{{ url_for('static', filename='images/' ~ word_of_day.image_filename) }}" alt="Bild zu {{ word_of_day.lemma }}">
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</section>
+{% endif %}
+{% endblock %}

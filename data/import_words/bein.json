@@ -1,0 +1,85 @@
+{
+  "lemma": "Bein",
+  "wortart": "Nomen",
+  "silben": "Bein",
+  "begriffserklaerung": "Das Bein ist ein Körperteil, mit dem du stehst, gehst und läufst. Menschen haben zwei Beine.",
+  "beispielsatz": "Mia hat sich das Bein beim Fußballspielen aufgeschürft.",
+  "rechtschreibstrategie": "Das Wort „Bein\" hat ein langes „ei\" – das hörst du beim Sprechen. Denk daran: ei wie in „Ei\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Bein"
+  ],
+  "bild_datei": "Bein.webp",
+  "audio_datei": "Bein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "leg"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jambe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bacak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beinig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Oberbein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fuß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knie"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schenkel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Bein",
+    "plural": "Beine",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bein",
+        "genitiv": "des Beines",
+        "dativ": "dem Bein",
+        "akkusativ": "das Bein"
+      },
+      "plural": {
+        "nominativ": "die Beine",
+        "genitiv": "der Beine",
+        "dativ": "den Beinen",
+        "akkusativ": "die Beine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bain",
+    "Bein",
+    "Biene",
+    "Bäin"
+  ]
+}

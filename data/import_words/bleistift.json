@@ -1,0 +1,79 @@
+{
+  "lemma": "Bleistift",
+  "wortart": "Nomen",
+  "silben": "Blei-stift",
+  "begriffserklaerung": "Ein Bleistift ist ein Schreibwerkzeug aus Holz mit einer Graphitmine in der Mitte. Man kann damit schreiben, zeichnen und auch wieder radieren.",
+  "beispielsatz": "Ich schreibe meine Hausaufgaben mit dem Bleistift.",
+  "rechtschreibstrategie": "Das Wort „Bleistift\" besteht aus zwei Teilen: „Blei\" und „Stift\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stift"
+  ],
+  "bild_datei": "Bleistift.webp",
+  "audio_datei": "Bleistift.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pencil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crayon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurşun kalem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلم رصاص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buntstift"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radiergummi"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bleistift",
+    "plural": "die Bleistifte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bleistift",
+        "genitiv": "des Bleistifts",
+        "dativ": "dem Bleistift",
+        "akkusativ": "den Bleistift"
+      },
+      "plural": {
+        "nominativ": "die Bleistifte",
+        "genitiv": "der Bleistifte",
+        "dativ": "den Bleistiften",
+        "akkusativ": "die Bleistifte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bleistif",
+    "Bleisstift",
+    "Bleistifft",
+    "Bleißtift",
+    "Blaistift",
+    "Bleistipft"
+  ]
+}

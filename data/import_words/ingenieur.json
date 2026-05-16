@@ -1,0 +1,75 @@
+{
+  "lemma": "Ingenieur",
+  "wortart": "Nomen",
+  "silben": "In-ge-ni-eur",
+  "begriffserklaerung": "Ein Ingenieur ist jemand, der Maschinen, Brücken, Computer oder andere technische Dinge plant und baut.",
+  "beispielsatz": "Der Ingenieur zeichnet genaue Pläne für die neue Brücke.",
+  "rechtschreibstrategie": "Das Wort „Ingenieur\" kommt aus dem Französischen. Das Ende „-eur\" sprichst du wie „öhr\". Merk dir: In-ge-ni-eur – vier Silben!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Ingenieur"
+  ],
+  "bild_datei": "Ingenieur.webp",
+  "audio_datei": "Ingenieur.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "engineer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ingénieur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mühendis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مهندس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ingenieurin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Architekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Techniker"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ingenieur",
+    "plural": "die Ingenieure",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ingenieur",
+        "genitiv": "des Ingenieurs",
+        "dativ": "dem Ingenieur",
+        "akkusativ": "den Ingenieur"
+      },
+      "plural": {
+        "nominativ": "die Ingenieure",
+        "genitiv": "der Ingenieure",
+        "dativ": "den Ingenieuren",
+        "akkusativ": "die Ingenieure"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ingenier",
+    "Ingenieuer",
+    "Ingeniör",
+    "Ingebieur",
+    "Ingeniuer",
+    "Ingeneur"
+  ]
+}

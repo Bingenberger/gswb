@@ -1,0 +1,85 @@
+{
+  "lemma": "Rauchmelder",
+  "wortart": "Nomen",
+  "silben": "Rauch-mel-der",
+  "begriffserklaerung": "Ein Rauchmelder ist ein kleines Gerät, das an der Decke hängt und einen lauten Alarm macht, wenn es Rauch riecht. So warnt es die Menschen vor einem Brand.",
+  "beispielsatz": "Der Rauchmelder hat laut gepiept, weil Papa das Essen auf dem Herd vergessen hatte.",
+  "rechtschreibstrategie": "Das Wort „Rauchmelder\" ist aus zwei Wörtern zusammengebaut: „Rauch\" und „Melder\". Sprich beide Teile einzeln: RAUCH + MELDER. Das hilft dir, das Wort richtig zu schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Rauch",
+    "meld"
+  ],
+  "bild_datei": "Rauchmelder.webp",
+  "audio_datei": "Rauchmelder.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rauchmelder",
+    "plural": "die Rauchmelder",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rauchmelder",
+        "genitiv": "des Rauchmelders",
+        "dativ": "dem Rauchmelder",
+        "akkusativ": "den Rauchmelder"
+      },
+      "plural": {
+        "nominativ": "die Rauchmelder",
+        "genitiv": "der Rauchmelder",
+        "dativ": "den Rauchmeldern",
+        "akkusativ": "die Rauchmelder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "smoke detector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "détecteur de fumée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duman dedektörü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاشف الدخان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Rauch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "melden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Alarm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Raukmelder",
+    "Rauchmelter",
+    "Rauchmellder",
+    "Rauchmelder",
+    "Rauchälter",
+    "Rauchmeldr",
+    "Rauchmälder"
+  ]
+}

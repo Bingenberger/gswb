@@ -1,0 +1,88 @@
+{
+  "lemma": "Lebensmittel",
+  "wortart": "Nomen",
+  "silben": "Le-bens-mit-tel",
+  "begriffserklaerung": "Lebensmittel sind alle Dinge, die Menschen essen und trinken können, zum Beispiel Brot, Obst, Gemüse oder Milch.",
+  "beispielsatz": "Mama kauft frische Lebensmittel auf dem Markt.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Leben\" + „s\" + „Mittel\". Sprich alle Teile deutlich: Le-bens-mit-tel. Das doppelte „t\" in „Mittel\" hörst du beim langsamen Sprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "leben",
+    "Mittel"
+  ],
+  "bild_datei": "Lebensmittel.webp",
+  "audio_datei": "Lebensmittel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Lebensmittel",
+    "plural": "die Lebensmittel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lebensmittel",
+        "genitiv": "des Lebensmittels",
+        "dativ": "dem Lebensmittel",
+        "akkusativ": "das Lebensmittel"
+      },
+      "plural": {
+        "nominativ": "die Lebensmittel",
+        "genitiv": "der Lebensmittel",
+        "dativ": "den Lebensmitteln",
+        "akkusativ": "die Lebensmittel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "food / groceries"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aliment / denrée alimentaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gıda / yiyecek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مواد غذائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lebensmittelgeschäft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Essen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Einkauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nahrung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nahrungsmittel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lebensmitel",
+    "Lebensmitell",
+    "Lebensmitttel",
+    "Läbensmittel",
+    "Lebänsmittel"
+  ]
+}

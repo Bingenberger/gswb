@@ -1,0 +1,84 @@
+{
+  "lemma": "Hochhaus",
+  "wortart": "Nomen",
+  "silben": "Hoch-haus",
+  "begriffserklaerung": "Ein Hochhaus ist ein sehr hohes Gebäude mit vielen Stockwerken, in dem viele Menschen wohnen oder arbeiten.",
+  "beispielsatz": "Von unserem Hochhaus aus kann man die ganze Stadt sehen.",
+  "rechtschreibstrategie": "Das Wort „Hochhaus\" besteht aus zwei Teilen: „hoch\" und „Haus\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "hoch",
+    "Haus"
+  ],
+  "bild_datei": "Hochhaus.webp",
+  "audio_datei": "Hochhaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "skyscraper / high-rise building"
+    },
+    {
+      "language_code": "fr",
+      "translation": "immeuble de grande hauteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gökdelen / yüksek bina"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ناطحة سحاب / مبنى شاهق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hoch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnblock"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wolkenkratzer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hochhaus",
+    "plural": "die Hochhäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hochhaus",
+        "genitiv": "des Hochhauses",
+        "dativ": "dem Hochhaus",
+        "akkusativ": "das Hochhaus"
+      },
+      "plural": {
+        "nominativ": "die Hochhäuser",
+        "genitiv": "der Hochhäuser",
+        "dativ": "den Hochhäusern",
+        "akkusativ": "die Hochhäuser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hochhauß",
+    "Hochhaus",
+    "Hohchaus",
+    "Hockhaus",
+    "Hochhaws",
+    "Hohhhaus"
+  ]
+}

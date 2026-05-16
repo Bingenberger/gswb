@@ -1,0 +1,83 @@
+{
+  "lemma": "Kampfsport",
+  "wortart": "Nomen",
+  "silben": "Kampf-sport",
+  "begriffserklaerung": "Kampfsport ist eine Sportart, bei der man lernt, sich zu verteidigen und mit dem eigenen Körper zu kämpfen – zum Beispiel beim Karate oder Judo.",
+  "beispielsatz": "Mia trainiert zweimal in der Woche Kampfsport und hat schon einen gelben Gürtel.",
+  "rechtschreibstrategie": "„Kampfsport\" besteht aus zwei Teilen: „Kampf\" und „Sport\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Kampf",
+    "Sport"
+  ],
+  "bild_datei": "Kampfsport.webp",
+  "audio_datei": "Kampfsport.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kampfsport",
+    "plural": "die Kampfsportarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kampfsport",
+        "genitiv": "des Kampfsports",
+        "dativ": "dem Kampfsport",
+        "akkusativ": "den Kampfsport"
+      },
+      "plural": {
+        "nominativ": "die Kampfsportarten",
+        "genitiv": "der Kampfsportarten",
+        "dativ": "den Kampfsportarten",
+        "akkusativ": "die Kampfsportarten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "martial art"
+    },
+    {
+      "language_code": "fr",
+      "translation": "art martial"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dövüş sporu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رياضة قتالية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kampf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karate"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Judo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Training"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kampfspordt",
+    "Kampsport",
+    "Kampfspord",
+    "Kampfßport",
+    "Kampfsporth"
+  ]
+}

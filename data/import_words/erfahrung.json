@@ -1,0 +1,88 @@
+{
+  "lemma": "Erfahrung",
+  "wortart": "Nomen",
+  "silben": "Er-fah-rung",
+  "begriffserklaerung": "Eine Erfahrung ist etwas, das du erlebt oder ausprobiert hast und dabei gelernt hast.",
+  "beispielsatz": "Durch viele Übungen sammelt Leon immer mehr Erfahrung beim Fahrradfahren.",
+  "rechtschreibstrategie": "Denke an das Wort „fahren\" – es steckt in „Erfahrung\" drin: er-FAHR-ung. Deshalb schreibt man „ah\" mit Dehnungs-h.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "Erfahrung.webp",
+  "audio_datei": "Erfahrung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erfahrung",
+    "plural": "die Erfahrungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erfahrung",
+        "genitiv": "der Erfahrung",
+        "dativ": "der Erfahrung",
+        "akkusativ": "die Erfahrung"
+      },
+      "plural": {
+        "nominativ": "die Erfahrungen",
+        "genitiv": "der Erfahrungen",
+        "dativ": "den Erfahrungen",
+        "akkusativ": "die Erfahrungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "experience"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expérience"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deneyim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تجربة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erfahren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erlebnis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Übung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lernen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erfarung",
+    "Erfahrrung",
+    "Erfahrunk",
+    "Erfharung",
+    "Erfahrunng"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Waschbrett",
+  "wortart": "Nomen",
+  "silben": "Wasch-brett",
+  "beispielsatz": "Früher haben die Menschen ihre Wäsche auf dem Waschbrett sauber gerieben.",
+  "begriffserklaerung": "Ein Waschbrett ist ein altes Gerät zum Wäschewaschen. Es hat eine gerillte Oberfläche, über die man den Stoff reibt, damit er sauber wird.",
+  "rechtschreibstrategie": "„Waschbrett\" ist ein zusammengesetztes Wort aus „waschen\" und „Brett\". Schreibe beide Teile einfach hintereinander: Wasch + brett = Waschbrett. Das „sch\" sprichst du wie in „Schule\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "wasch",
+    "brett"
+  ],
+  "bild_datei": "Waschbrett.webp",
+  "audio_datei": "Waschbrett.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washboard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "planche à laver"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çamaşır tahtası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لوح الغسيل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "waschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wäsche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschzuber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschmittel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Waschbrett",
+    "plural": "die Waschbretter",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Waschbrett",
+        "genitiv": "des Waschbretts",
+        "dativ": "dem Waschbrett",
+        "akkusativ": "das Waschbrett"
+      },
+      "plural": {
+        "nominativ": "die Waschbretter",
+        "genitiv": "der Waschbretter",
+        "dativ": "den Waschbrettern",
+        "akkusativ": "die Waschbretter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waschbred",
+    "Waschbret",
+    "Wachbrett",
+    "Waschprett",
+    "Washbrett"
+  ]
+}

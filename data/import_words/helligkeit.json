@@ -1,0 +1,88 @@
+{
+  "lemma": "Helligkeit",
+  "wortart": "Nomen",
+  "silben": "Hel-lig-keit",
+  "begriffserklaerung": "Die Helligkeit sagt, wie viel Licht irgendwo ist. Ist es sehr hell, ist die Helligkeit groß. Ist es dunkel, ist die Helligkeit klein.",
+  "beispielsatz": "Die Helligkeit der Sonne blendet mich manchmal.",
+  "rechtschreibstrategie": "Das Wort „Helligkeit\" hat zwei l-Buchstaben, weil der Vokal e kurz gesprochen wird. Merke: hell → Helligkeit. Am Ende steckt die Nachsilbe -keit.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "hell"
+  ],
+  "bild_datei": "Helligkeit.webp",
+  "audio_datei": "Helligkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Helligkeit",
+    "plural": "die Helligkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Helligkeit",
+        "genitiv": "der Helligkeit",
+        "dativ": "der Helligkeit",
+        "akkusativ": "die Helligkeit"
+      },
+      "plural": {
+        "nominativ": "die Helligkeiten",
+        "genitiv": "der Helligkeiten",
+        "dativ": "den Helligkeiten",
+        "akkusativ": "die Helligkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "brightness"
+    },
+    {
+      "language_code": "fr",
+      "translation": "luminosité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "parlaklık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سطوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hell"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hellen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leuchtkraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Licht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dunkelheit"
+    }
+  ],
+  "fehlschreibungen": [
+    "Heligkeit",
+    "Helliegkeit",
+    "Helligkeid",
+    "Helligeit",
+    "Hellickkeit"
+  ]
+}

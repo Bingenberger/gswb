@@ -1,0 +1,85 @@
+{
+  "lemma": "Maßband",
+  "wortart": "Nomen",
+  "silben": "Maß-band",
+  "begriffserklaerung": "Ein Maßband ist ein langes, biegsames Band mit Zentimeter- und Millimeter-Einteilungen. Man benutzt es, um Längen oder Abstände zu messen.",
+  "beispielsatz": "Mama nimmt das Maßband, um zu messen, wie lang das Regal sein soll.",
+  "rechtschreibstrategie": "„Maßband\" besteht aus zwei Teilen: „Maß\" und „Band\". Das „ß\" in „Maß\" kommt nach dem langen „a\". Denk daran: langes a → ß!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Maß",
+    "Band"
+  ],
+  "bild_datei": "Maßband.webp",
+  "audio_datei": "Maßband.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Maßband",
+    "plural": "die Maßbänder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Maßband",
+        "genitiv": "des Maßbandes",
+        "dativ": "dem Maßband",
+        "akkusativ": "das Maßband"
+      },
+      "plural": {
+        "nominativ": "die Maßbänder",
+        "genitiv": "der Maßbänder",
+        "dativ": "den Maßbändern",
+        "akkusativ": "die Maßbänder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tape measure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mètre ruban"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mezura"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شريط القياس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zollstock"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Messband"
+    }
+  ],
+  "fehlschreibungen": [
+    "Massband",
+    "Maßbant",
+    "Maßbandt",
+    "Masband",
+    "Maßbend"
+  ]
+}

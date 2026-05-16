@@ -1,0 +1,89 @@
+{
+  "lemma": "Aufzug",
+  "wortart": "Nomen",
+  "silben": "Auf-zug",
+  "begriffserklaerung": "Ein Aufzug ist eine Kabine in einem Gebäude, die Menschen und Gegenstände nach oben oder unten fährt, ohne dass man Treppen steigen muss.",
+  "beispielsatz": "Wir fahren mit dem Aufzug in den dritten Stock, weil Oma nicht so gut Treppen steigen kann.",
+  "rechtschreibstrategie": "„Aufzug\" ist ein zusammengesetztes Wort aus „auf\" und „Zug\". Sprich beide Teile deutlich: AUF + ZUG. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "ziehen",
+    "Zug"
+  ],
+  "bild_datei": "Aufzug.webp",
+  "audio_datei": "Aufzug.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "elevator / lift"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ascenseur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "asansör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ziehen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fahrstuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rolltreppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Aufzug",
+    "plural": "die Aufzüge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Aufzug",
+        "genitiv": "des Aufzuges / des Aufzugs",
+        "dativ": "dem Aufzug",
+        "akkusativ": "den Aufzug"
+      },
+      "plural": {
+        "nominativ": "die Aufzüge",
+        "genitiv": "der Aufzüge",
+        "dativ": "den Aufzügen",
+        "akkusativ": "die Aufzüge"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Auftzug",
+    "Auffsug",
+    "Aufzuck",
+    "Aufzuhg",
+    "Aufzugg",
+    "Aufszug"
+  ]
+}

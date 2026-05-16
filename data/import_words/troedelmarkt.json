@@ -1,0 +1,88 @@
+{
+  "lemma": "Trödelmarkt",
+  "wortart": "Nomen",
+  "silben": "Trö-del-markt",
+  "begriffserklaerung": "Ein Trödelmarkt ist ein Markt, auf dem Menschen alte und gebrauchte Sachen verkaufen, die sie nicht mehr brauchen.",
+  "beispielsatz": "Am Samstag gehen wir auf den Trödelmarkt und suchen nach alten Spielsachen.",
+  "rechtschreibstrategie": "Das Wort ist aus zwei Bausteinen zusammengesetzt: „Trödel\" und „Markt\". Schreibe es einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Trödel",
+    "Markt"
+  ],
+  "bild_datei": "Trödelmarkt.webp",
+  "audio_datei": "Trödelmarkt.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trödelmarkt",
+    "plural": "die Trödelmärkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trödelmarkt",
+        "genitiv": "des Trödelmarkts",
+        "dativ": "dem Trödelmarkt",
+        "akkusativ": "den Trödelmarkt"
+      },
+      "plural": {
+        "nominativ": "die Trödelmärkte",
+        "genitiv": "der Trödelmärkte",
+        "dativ": "den Trödelmärkten",
+        "akkusativ": "die Trödelmärkte"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flea market"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marché aux puces"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bit pazarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سوق البراغيث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Trödel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flohmarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flohmarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebrauchtwarenladen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Basar"
+    }
+  ],
+  "fehlschreibungen": [
+    "Tröddelmarkt",
+    "Troetelmarkt",
+    "Trödlemarkt",
+    "Trödelmart",
+    "Tröddelmart",
+    "Troedelmarkt"
+  ]
+}

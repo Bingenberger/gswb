@@ -1,0 +1,82 @@
+{
+  "lemma": "Motor",
+  "wortart": "Nomen",
+  "silben": "Mo-tor",
+  "begriffserklaerung": "Ein Motor ist eine Maschine, die Dinge antreibt und zum Laufen bringt – zum Beispiel ein Auto oder ein Flugzeug.",
+  "beispielsatz": "Der Motor des Autos brummt laut, wenn Papa den Schlüssel umdreht.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Mo-tor. Beide Silben hören sich klar an – schreib einfach, was du hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Motor"
+  ],
+  "bild_datei": "Motor.webp",
+  "audio_datei": "Motor.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Motor",
+    "plural": "die Motoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Motor",
+        "genitiv": "des Motors",
+        "dativ": "dem Motor",
+        "akkusativ": "den Motor"
+      },
+      "plural": {
+        "nominativ": "die Motoren",
+        "genitiv": "der Motoren",
+        "dativ": "den Motoren",
+        "akkusativ": "die Motoren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "engine / motor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "motor"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محرك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "motorisiert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Motorrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antrieb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mottor",
+    "Moter",
+    "Mohtor",
+    "Mothor",
+    "Moktor"
+  ]
+}

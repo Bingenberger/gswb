@@ -1,0 +1,79 @@
+{
+  "lemma": "Ellbogen",
+  "wortart": "Nomen",
+  "silben": "Ell-bo-gen",
+  "begriffserklaerung": "Der Ellbogen ist das Gelenk in der Mitte deines Armes, wo sich der Arm biegen lässt.",
+  "beispielsatz": "Tim hat sich beim Hinfallen den Ellbogen aufgeschrammt.",
+  "rechtschreibstrategie": "Denk an das doppelte „l\" am Anfang: Ell-bogen – sprich die Silben deutlich, dann hörst du es!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bogen"
+  ],
+  "bild_datei": "Ellbogen.webp",
+  "audio_datei": "Ellbogen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ellbogen",
+    "plural": "die Ellbogen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ellbogen",
+        "genitiv": "des Ellbogens",
+        "dativ": "dem Ellbogen",
+        "akkusativ": "den Ellbogen"
+      },
+      "plural": {
+        "nominativ": "die Ellbogen",
+        "genitiv": "der Ellbogen",
+        "dativ": "den Ellbogen",
+        "akkusativ": "die Ellbogen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "elbow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coude"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dirsek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كوع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bogen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gelenk"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ellenbogen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Elbogen",
+    "Elboken",
+    "Ellboken",
+    "Ellebogen",
+    "Ällbogen"
+  ]
+}

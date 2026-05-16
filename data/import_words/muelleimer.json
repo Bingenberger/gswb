@@ -1,0 +1,84 @@
+{
+  "lemma": "Mülleimer",
+  "wortart": "Nomen",
+  "silben": "Müll-ei-mer",
+  "begriffserklaerung": "Ein Mülleimer ist ein Behälter, in den man Abfälle und Dinge wirft, die man nicht mehr braucht.",
+  "beispielsatz": "Die Bananenschale gehört in den Mülleimer.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Müll\" und „Eimer\". Sprich beide Teile einzeln, dann kannst du es richtig schreiben: MÜLL + EIMER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Eimer"
+  ],
+  "bild_datei": "Mülleimer.webp",
+  "audio_datei": "Mülleimer.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mülleimer",
+    "plural": "die Mülleimer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mülleimer",
+        "genitiv": "des Mülleimers",
+        "dativ": "dem Mülleimer",
+        "akkusativ": "den Mülleimer"
+      },
+      "plural": {
+        "nominativ": "die Mülleimer",
+        "genitiv": "der Mülleimer",
+        "dativ": "den Mülleimern",
+        "akkusativ": "die Mülleimer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trash can / bin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poubelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp kovası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سلة المهملات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abfalleimer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abfall"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mülleimmer",
+    "Müllaimer",
+    "Müleimer",
+    "Mühleimer",
+    "Müllheimer"
+  ]
+}

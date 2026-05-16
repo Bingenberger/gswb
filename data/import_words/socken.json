@@ -1,0 +1,78 @@
+{
+  "lemma": "Socken",
+  "wortart": "Nomen",
+  "silben": "So-cken",
+  "begriffserklaerung": "Socken sind weiche Kleidungsstücke aus Stoff, die man an den Füßen trägt. Sie gehen meistens bis zum Knöchel oder über die Wade.",
+  "beispielsatz": "Meine Socken haben ein lustiges Muster mit bunten Sternen.",
+  "rechtschreibstrategie": "Das Wort „Socken\" hat nach dem kurzen „o\" ein Doppel-k, das als „ck\" geschrieben wird. Sprich es laut: So-cken!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Sock"
+  ],
+  "bild_datei": "Socken.webp",
+  "audio_datei": "Socken.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Socke",
+    "plural": "die Socken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Socke",
+        "genitiv": "der Socke",
+        "dativ": "der Socke",
+        "akkusativ": "die Socke"
+      },
+      "plural": {
+        "nominativ": "die Socken",
+        "genitiv": "der Socken",
+        "dativ": "den Socken",
+        "akkusativ": "die Socken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "socks"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussettes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çoraplar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جوارب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Socke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schuhe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strumpf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strümpfe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Zocken",
+    "Sokken",
+    "Socen",
+    "Soken",
+    "Sockken"
+  ]
+}

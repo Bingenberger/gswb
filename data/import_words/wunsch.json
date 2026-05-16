@@ -1,0 +1,83 @@
+{
+  "lemma": "Wunsch",
+  "wortart": "Nomen",
+  "silben": "Wunsch",
+  "begriffserklaerung": "Ein Wunsch ist etwas, das man sich sehr erhofft oder haben möchte.",
+  "beispielsatz": "Zum Geburtstag hatte Lisa einen einzigen großen Wunsch: ein Fahrrad.",
+  "rechtschreibstrategie": "Höre genau hin: Das „u\" in „Wunsch\" ist kurz. Deshalb folgen gleich zwei Konsonanten: „n\" und „sch\". Sprich das Wort laut: Wunsch!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wünsch"
+  ],
+  "bild_datei": "Wunsch.webp",
+  "audio_datei": "Wunsch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wish"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souhait"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dilek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أمنية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wünschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wunschzettel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bitte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Traum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hoffnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wunsch",
+    "plural": "die Wünsche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wunsch",
+        "genitiv": "des Wunsches",
+        "dativ": "dem Wunsch",
+        "akkusativ": "den Wunsch"
+      },
+      "plural": {
+        "nominativ": "die Wünsche",
+        "genitiv": "der Wünsche",
+        "dativ": "den Wünschen",
+        "akkusativ": "die Wünsche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wunsh",
+    "Wunßch",
+    "Wuhnsch",
+    "Wunche",
+    "Vuhnsch",
+    "Wunshc"
+  ]
+}

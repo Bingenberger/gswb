@@ -1,0 +1,99 @@
+{
+  "lemma": "schütteln",
+  "wortart": "Verb",
+  "silben": "schüt-teln",
+  "begriffserklaerung": "Wenn du etwas schüttelst, bewegst du es schnell hin und her.",
+  "beispielsatz": "Tom schüttelt die Flasche, damit sich der Saft gut vermischt.",
+  "rechtschreibstrategie": "Hör genau hin: Das ü klingt kurz, deshalb kommt danach ein Doppel-t: schüt-teln.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schüttel"
+  ],
+  "bild_datei": "schütteln.webp",
+  "audio_datei": "schütteln.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schütteln",
+    "praesens": {
+      "ich": "schüttle",
+      "du": "schüttelst",
+      "er_sie_es": "schüttelt",
+      "wir": "schütteln",
+      "ihr": "schüttelt",
+      "sie": "schütteln"
+    },
+    "perfekt": {
+      "ich": "habe geschüttelt",
+      "du": "hast geschüttelt",
+      "er_sie_es": "hat geschüttelt",
+      "wir": "haben geschüttelt",
+      "ihr": "habt geschüttelt",
+      "sie": "haben geschüttelt"
+    },
+    "praeteritum": {
+      "ich": "schüttelte",
+      "du": "schütteltest",
+      "er_sie_es": "schüttelte",
+      "wir": "schüttelten",
+      "ihr": "schütteltet",
+      "sie": "schüttelten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to shake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "secouer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sallamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يهز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schütteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufschütteln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "rütteln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schwenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bewegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schwingen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wiegen"
+    }
+  ],
+  "fehlschreibungen": [
+    "schütteln",
+    "schüteln",
+    "schüdeln",
+    "schuetteln",
+    "schüttlen",
+    "schüdteln"
+  ]
+}

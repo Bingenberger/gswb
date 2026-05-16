@@ -1,0 +1,105 @@
+{
+  "lemma": "leiden",
+  "wortart": "Verb",
+  "silben": "lei-den",
+  "begriffserklaerung": "Leiden bedeutet, dass man Schmerzen hat oder sich sehr unwohl fühlt – körperlich oder auch innerlich, weil man traurig ist.",
+  "beispielsatz": "Der kleine Hund leidet, weil er sich das Bein verletzt hat.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „lei-den\". Das „ei\" hörst du deutlich – schreibe es mit e und i. Am Ende hörst du ein weiches „d\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "leid",
+    "leiden"
+  ],
+  "bild_datei": "leiden.webp",
+  "audio_datei": "leiden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to suffer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souffrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acı çekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يعاني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leid"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leidend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leiden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schmerzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "dulden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmerz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weinen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "traurig"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "leiden",
+    "praesens": {
+      "ich": "leide",
+      "du": "leidest",
+      "er_sie_es": "leidet",
+      "wir": "leiden",
+      "ihr": "leidet",
+      "sie": "leiden"
+    },
+    "perfekt": {
+      "ich": "habe gelitten",
+      "du": "hast gelitten",
+      "er_sie_es": "hat gelitten",
+      "wir": "haben gelitten",
+      "ihr": "habt gelitten",
+      "sie": "haben gelitten"
+    },
+    "praeteritum": {
+      "ich": "litt",
+      "du": "littst",
+      "er_sie_es": "litt",
+      "wir": "litten",
+      "ihr": "littet",
+      "sie": "litten"
+    }
+  },
+  "fehlschreibungen": [
+    "leidden",
+    "leidn",
+    "leiden",
+    "leiten",
+    "leidenn",
+    "lyden",
+    "ledin"
+  ]
+}

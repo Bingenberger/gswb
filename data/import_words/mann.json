@@ -1,0 +1,85 @@
+{
+  "lemma": "Mann",
+  "wortart": "Nomen",
+  "silben": "Mann",
+  "begriffserklaerung": "Ein Mann ist ein erwachsener Mensch männlichen Geschlechts.",
+  "beispielsatz": "Der Mann trägt einen blauen Hut.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" verdoppelst du das „n\": Mann – schreib zwei n!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mann",
+    "plural": "die Männer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mann",
+        "genitiv": "des Mannes",
+        "dativ": "dem Mann",
+        "akkusativ": "den Mann"
+      },
+      "plural": {
+        "nominativ": "die Männer",
+        "genitiv": "der Männer",
+        "dativ": "den Männern",
+        "akkusativ": "die Männer"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Mann"
+  ],
+  "fehlschreibungen": [
+    "Man",
+    "Mahn",
+    "Maan",
+    "Manne"
+  ],
+  "bild_datei": "Mann.webp",
+  "audio_datei": "Mann.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "man"
+    },
+    {
+      "language_code": "fr",
+      "translation": "homme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "adam"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رجل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "männlich"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ]
+}

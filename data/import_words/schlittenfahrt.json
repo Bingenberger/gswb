@@ -1,0 +1,85 @@
+{
+  "lemma": "Schlittenfahrt",
+  "wortart": "Nomen",
+  "silben": "Schlit-ten-fahrt",
+  "begriffserklaerung": "Eine Schlittenfahrt ist eine Fahrt auf einem Schlitten, meistens einen schneebedeckten Hügel hinunter.",
+  "beispielsatz": "Im Winter machen wir mit dem Schlitten eine tolle Schlittenfahrt den Hügel hinunter.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Schlitten\" und „Fahrt\". Bei „Schlitten\" hörst du ein kurzes „i\", deshalb schreibt man „tt\" in der Mitte. „Fahrt\" schreibt man mit „ah\" – das Dehnungs-h macht das „a\" lang.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "schlitten",
+    "fahrt"
+  ],
+  "bild_datei": "Schlittenfahrt.webp",
+  "audio_datei": "Schlittenfahrt.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schlittenfahrt",
+    "plural": "die Schlittenfahrten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schlittenfahrt",
+        "genitiv": "der Schlittenfahrt",
+        "dativ": "der Schlittenfahrt",
+        "akkusativ": "die Schlittenfahrt"
+      },
+      "plural": {
+        "nominativ": "die Schlittenfahrten",
+        "genitiv": "der Schlittenfahrten",
+        "dativ": "den Schlittenfahrten",
+        "akkusativ": "die Schlittenfahrten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sledge ride"
+    },
+    {
+      "language_code": "fr",
+      "translation": "promenade en luge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kızak sürüşü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحلة التزلج بالزلاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlitten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rodeln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rodelfahrt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlittenfahrth",
+    "Schlitenfart",
+    "Schlitenfahrt",
+    "Schlittenfahrd",
+    "Schlittenfaht"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "lemma": "sprechen",
+  "wortart": "Verb",
+  "silben": "spre-chen",
+  "begriffserklaerung": "Sprechen bedeutet, mit der Stimme Wörter und Sätze zu sagen, damit andere Menschen dich verstehen.",
+  "beispielsatz": "Lea spricht laut und deutlich vor der ganzen Klasse.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „spre-chen\". Das „ch\" hörst du deutlich – schreib es auch so. Das Wort hat kein Dehnungs-h und kein Doppel-s.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "sprech",
+    "sprich"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "sprechen",
+    "praesens": {
+      "ich": "spreche",
+      "du": "sprichst",
+      "er_sie_es": "spricht",
+      "wir": "sprechen",
+      "ihr": "sprecht",
+      "sie": "sprechen"
+    },
+    "perfekt": {
+      "ich": "habe gesprochen",
+      "du": "hast gesprochen",
+      "er_sie_es": "hat gesprochen",
+      "wir": "haben gesprochen",
+      "ihr": "habt gesprochen",
+      "sie": "haben gesprochen"
+    },
+    "praeteritum": {
+      "ich": "sprach",
+      "du": "sprachst",
+      "er_sie_es": "sprach",
+      "wir": "sprachen",
+      "ihr": "spracht",
+      "sie": "sprachen"
+    }
+  },
+  "fehlschreibungen": [
+    "sprechen",
+    "schprechen",
+    "sprächen",
+    "sprchen",
+    "spreechen",
+    "shprechen"
+  ],
+  "bild_datei": "sprechen.webp",
+  "audio_datei": "sprechen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to speak"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konuşmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتكلم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "reden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "antworten"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Sekundenzeiger",
+  "wortart": "Nomen",
+  "silben": "Se-kun-den-zei-ger",
+  "begriffserklaerung": "Der Sekundenzeiger ist der dünne, schnelle Zeiger an einer Uhr. Er dreht sich einmal pro Minute und zeigt die Sekunden an.",
+  "beispielsatz": "Der Sekundenzeiger der Wanduhr tickt ganz schnell im Kreis.",
+  "rechtschreibstrategie": "Das Wort „Sekundenzeiger\" ist aus drei Teilen zusammengebaut: „Sekunden\" + „Zeiger\". Sprich alle Teile einzeln: Se-kun-den-zei-ger. Denk daran: Im Wort „zeigen\" steckt das „ei\", also auch im „Zeiger\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sekunde",
+    "zeigen"
+  ],
+  "bild_datei": "Sekundenzeiger.webp",
+  "audio_datei": "Sekundenzeiger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sekundenzeiger",
+    "plural": "die Sekundenzeiger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sekundenzeiger",
+        "genitiv": "des Sekundenzeigers",
+        "dativ": "dem Sekundenzeiger",
+        "akkusativ": "den Sekundenzeiger"
+      },
+      "plural": {
+        "nominativ": "die Sekundenzeiger",
+        "genitiv": "der Sekundenzeiger",
+        "dativ": "den Sekundenzeigern",
+        "akkusativ": "die Sekundenzeiger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "second hand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "trotteuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saniye ibresi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقرب الثواني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sekunde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zeigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minutenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stundenzeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sekundenzeicker",
+    "Sekundenzeigger",
+    "Sekuntenzeiger",
+    "Sekundenzeigher",
+    "Secundenzeiger",
+    "Sekundenzeigär"
+  ]
+}

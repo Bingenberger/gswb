@@ -1,0 +1,82 @@
+{
+  "lemma": "Imker",
+  "wortart": "Nomen",
+  "silben": "Im-ker",
+  "begriffserklaerung": "Ein Imker ist ein Mensch, der Bienen hält und pflegt. Er sammelt den Honig, den die Bienen in ihren Stöcken herstellen.",
+  "beispielsatz": "Der Imker trägt einen besonderen Schutzanzug, damit ihn die Bienen nicht stechen können.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Im – ker. Achte darauf, dass am Anfang ein großes „I\" steht, weil Imker ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Imk"
+  ],
+  "bild_datei": "Imker.webp",
+  "audio_datei": "Imker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beekeeper"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apiculteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "arıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نحّال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Imkerei"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "imkern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bienenstock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Imker",
+    "plural": "die Imker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Imker",
+        "genitiv": "des Imkers",
+        "dativ": "dem Imker",
+        "akkusativ": "den Imker"
+      },
+      "plural": {
+        "nominativ": "die Imker",
+        "genitiv": "der Imker",
+        "dativ": "den Imkern",
+        "akkusativ": "die Imker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ymker",
+    "Imcker",
+    "Imkker",
+    "imker",
+    "Imgker"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "lemma": "erstellen",
+  "wortart": "Verb",
+  "silben": "er-stel-len",
+  "begriffserklaerung": "Etwas erstellen bedeutet, etwas Neues zu machen oder herzustellen, zum Beispiel ein Bild, ein Dokument oder ein Bauwerk.",
+  "beispielsatz": "Leon erstellt für die Schule eine bunte Präsentation über Schmetterlinge.",
+  "rechtschreibstrategie": "Das Wort „erstellen\" hat zwei l am Ende – das erkennst du, wenn du das verwandte Wort „stellen\" verlängerst: stell-en → du hörst beide l deutlich!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "stell"
+  ],
+  "bild_datei": "erstellen.webp",
+  "audio_datei": "erstellen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "erstellen",
+    "praesens": {
+      "ich": "erstelle",
+      "du": "erstellst",
+      "er_sie_es": "erstellt",
+      "wir": "erstellen",
+      "ihr": "erstellt",
+      "sie": "erstellen"
+    },
+    "perfekt": {
+      "ich": "habe erstellt",
+      "du": "hast erstellt",
+      "er_sie_es": "hat erstellt",
+      "wir": "haben erstellt",
+      "ihr": "habt erstellt",
+      "sie": "haben erstellt"
+    },
+    "praeteritum": {
+      "ich": "erstellte",
+      "du": "erstelltest",
+      "er_sie_es": "erstellte",
+      "wir": "erstellten",
+      "ihr": "erstelltet",
+      "sie": "erstellten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to create"
+    },
+    {
+      "language_code": "fr",
+      "translation": "créer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oluşturmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُنشئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stellen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anfertigen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "herstellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gestalten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "basteln"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schreiben"
+    }
+  ],
+  "fehlschreibungen": [
+    "ersteleln",
+    "erstelen",
+    "errstellen",
+    "ersttellen"
+  ]
+}

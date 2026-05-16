@@ -1,0 +1,74 @@
+{
+  "lemma": "Luchs",
+  "wortart": "Nomen",
+  "silben": "Luchs",
+  "begriffserklaerung": "Ein Luchs ist eine wilde Katze, die im Wald lebt. Er hat Büschel an den Ohren, ein geflecktes Fell und kurze Beine. Luchse sind sehr scheu und werden selten gesehen.",
+  "beispielsatz": "Im Zoo durfte Lisa einen Luchs durch die Scheibe beobachten.",
+  "rechtschreibstrategie": "Das Wort „Luchs\" endet auf -chs. Das klingt wie „ks\" – denk daran, wenn du es schreibst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Luchs"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Luchs",
+    "plural": "Luchse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Luchs",
+        "genitiv": "des Luchses",
+        "dativ": "dem Luchs",
+        "akkusativ": "den Luchs"
+      },
+      "plural": {
+        "nominativ": "die Luchse",
+        "genitiv": "der Luchse",
+        "dativ": "den Luchsen",
+        "akkusativ": "die Luchse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Luks",
+    "Lucks",
+    "Lux",
+    "Lukhs",
+    "Luxs"
+  ],
+  "bild_datei": "Luchs.webp",
+  "audio_datei": "Luchs.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lynx"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lynx"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vaşak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وشق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bär"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wildkatze"
+    }
+  ]
+}

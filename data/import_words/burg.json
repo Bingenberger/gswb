@@ -1,0 +1,86 @@
+{
+  "lemma": "Burg",
+  "wortart": "Nomen",
+  "silben": "Burg",
+  "begriffserklaerung": "Eine Burg ist ein großes, festes Gebäude aus Stein. Früher lebten Ritter und Könige darin und schützten sich vor Feinden.",
+  "beispielsatz": "Auf dem Berg steht eine alte Burg mit einem hohen Turm.",
+  "rechtschreibstrategie": "Sprich „Burg\" laut aus. Am Ende hörst du ein „k\"-Klang, aber du schreibst ein „g\" – das erkennst du, wenn du verlängerst: Bur-gen. Dann hörst du das „g\" deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Burg"
+  ],
+  "bild_datei": "Burg.webp",
+  "audio_datei": "Burg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "castle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "château"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قلعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Burggraben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Burgruine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ritter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Festung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Burg",
+    "plural": "die Burgen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Burg",
+        "genitiv": "der Burg",
+        "dativ": "der Burg",
+        "akkusativ": "die Burg"
+      },
+      "plural": {
+        "nominativ": "die Burgen",
+        "genitiv": "der Burgen",
+        "dativ": "den Burgen",
+        "akkusativ": "die Burgen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Burk",
+    "Burch",
+    "Burg",
+    "Burgg",
+    "Burc"
+  ]
+}

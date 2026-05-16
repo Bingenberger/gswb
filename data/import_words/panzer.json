@@ -1,0 +1,82 @@
+{
+  "lemma": "Panzer",
+  "wortart": "Nomen",
+  "silben": "Pan-zer",
+  "begriffserklaerung": "Ein Panzer ist ein schweres Fahrzeug aus dickem Metall, das im Krieg eingesetzt wird. Er hat Ketten statt Räder und ist rundum gepanzert, damit nichts eindringen kann.",
+  "beispielsatz": "Im Museum steht ein alter Panzer, den die Kinder aus der Nähe anschauen dürfen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Pan-zer. Du hörst zwei Silben. Das „z\" klingt wie „ts\" – denk an „Zahn\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "panzer"
+  ],
+  "bild_datei": "Panzer.webp",
+  "audio_datei": "Panzer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "char (d'assaut)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tank"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دبابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gepanzert"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Panzerung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Helm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Panzer",
+    "plural": "die Panzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Panzer",
+        "genitiv": "des Panzers",
+        "dativ": "dem Panzer",
+        "akkusativ": "den Panzer"
+      },
+      "plural": {
+        "nominativ": "die Panzer",
+        "genitiv": "der Panzer",
+        "dativ": "den Panzern",
+        "akkusativ": "die Panzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pancer",
+    "Pantzer",
+    "Panser",
+    "Panzar",
+    "Bannzer"
+  ]
+}

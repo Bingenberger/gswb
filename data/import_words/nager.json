@@ -1,0 +1,85 @@
+{
+  "lemma": "Nager",
+  "wortart": "Nomen",
+  "silben": "Na-ger",
+  "begriffserklaerung": "Ein Nager ist ein Tier, das starke Vorderzähne hat und damit Holz, Nüsse oder andere harte Sachen anknabbern kann. Mäuse, Ratten und Eichhörnchen sind zum Beispiel Nager.",
+  "beispielsatz": "Das Eichhörnchen ist ein Nager und knabbert gerne an Nüssen.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Na-ger. Nach dem langen „a\" kommt nur ein „g\" – kein Doppelkonsonant.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "nag"
+  ],
+  "bild_datei": "Nager.webp",
+  "audio_datei": "Nager.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rodent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rongeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kemirgen"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قارض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "nagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nagetier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichhörnchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nagetier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nager",
+    "plural": "die Nager",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nager",
+        "genitiv": "des Nagers",
+        "dativ": "dem Nager",
+        "akkusativ": "den Nager"
+      },
+      "plural": {
+        "nominativ": "die Nager",
+        "genitiv": "der Nager",
+        "dativ": "den Nagern",
+        "akkusativ": "die Nager"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nagger",
+    "Naager",
+    "Najer",
+    "Nahger"
+  ]
+}

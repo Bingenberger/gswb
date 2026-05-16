@@ -1,0 +1,82 @@
+{
+  "lemma": "Jagd",
+  "wortart": "Nomen",
+  "silben": "Jagd",
+  "begriffserklaerung": "Die Jagd ist das Suchen und Fangen von wilden Tieren im Wald oder in der Natur. Menschen, die jagen, nennt man Jäger.",
+  "beispielsatz": "Der Jäger geht früh morgens auf die Jagd im Wald.",
+  "rechtschreibstrategie": "Das Wort „Jagd\" endet auf -gd. Wenn du es verlängerst, hörst du beide Buchstaben deutlich: „Jag-den\". So weißt du, dass am Ende ein g und ein d stehen.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "jag"
+  ],
+  "bild_datei": "Jagd.webp",
+  "audio_datei": "Jagd.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Jagd",
+    "plural": "die Jagden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Jagd",
+        "genitiv": "der Jagd",
+        "dativ": "der Jagd",
+        "akkusativ": "die Jagd"
+      },
+      "plural": {
+        "nominativ": "die Jagden",
+        "genitiv": "der Jagden",
+        "dativ": "den Jagden",
+        "akkusativ": "die Jagden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hunt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chasse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "av"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صيد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "jagen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Jäger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verfolgung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Jacht",
+    "Jagdt",
+    "Yagd",
+    "Jagtt",
+    "Jakd"
+  ]
+}

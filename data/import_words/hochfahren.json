@@ -1,0 +1,91 @@
+{
+  "lemma": "hochfahren",
+  "wortart": "Verb",
+  "silben": "hoch-fah-ren",
+  "begriffserklaerung": "Hochfahren bedeutet, dass etwas nach oben fährt oder bewegt wird – zum Beispiel ein Aufzug oder ein Computer, der eingeschaltet wird.",
+  "beispielsatz": "Der Aufzug fährt langsam in den dritten Stock hoch.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „hoch\" und „fahren\". Denk beim Schreiben an das Dehnungs-h in „fahren\": fah-ren!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahren",
+    "hoch"
+  ],
+  "bild_datei": "hochfahren.webp",
+  "audio_datei": "hochfahren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to go up / to start up (computer)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monter / démarrer (ordinateur)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yukarı çıkmak / başlatmak (bilgisayar)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يصعد / يُشغِّل (الحاسوب)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "hochfahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufsteigen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "starten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinauffahren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "hochfahren",
+    "praesens": {
+      "ich": "fahre hoch",
+      "du": "fährst hoch",
+      "er_sie_es": "fährt hoch",
+      "wir": "fahren hoch",
+      "ihr": "fahrt hoch",
+      "sie": "fahren hoch"
+    },
+    "perfekt": {
+      "ich": "bin hochgefahren",
+      "du": "bist hochgefahren",
+      "er_sie_es": "ist hochgefahren",
+      "wir": "sind hochgefahren",
+      "ihr": "seid hochgefahren",
+      "sie": "sind hochgefahren"
+    },
+    "praeteritum": {
+      "ich": "fuhr hoch",
+      "du": "fuhrst hoch",
+      "er_sie_es": "fuhr hoch",
+      "wir": "fuhren hoch",
+      "ihr": "fuhrt hoch",
+      "sie": "fuhren hoch"
+    }
+  },
+  "fehlschreibungen": [
+    "hochfaren",
+    "hochfahern",
+    "hochfahren",
+    "hochfahrn"
+  ]
+}

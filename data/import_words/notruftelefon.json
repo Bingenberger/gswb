@@ -1,0 +1,85 @@
+{
+  "lemma": "Notruftelefon",
+  "wortart": "Nomen",
+  "silben": "Not-ruf-te-le-fon",
+  "begriffserklaerung": "Ein Notruftelefon ist ein besonderes Telefon, mit dem man in einer Notlage schnell um Hilfe rufen kann – zum Beispiel an Bahnhöfen oder auf Autobahnen.",
+  "beispielsatz": "An der Straße steht ein Notruftelefon, damit man bei einem Unfall sofort Hilfe rufen kann.",
+  "rechtschreibstrategie": "Das Wort „Notruftelefon\" ist ein Bausteinwort. Es stecken drei Teile drin: „Not\" + „Ruf\" + „Telefon\". Wenn du dir die Bausteine merkst, kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "Ruf",
+    "Telefon"
+  ],
+  "bild_datei": "Notruftelefon.webp",
+  "audio_datei": "Notruftelefon.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency telephone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "téléphone d'urgence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil durum telefonu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هاتف الطوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Not"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rettungsdienst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Notruftelefon",
+    "plural": "die Notruftelefone",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Notruftelefon",
+        "genitiv": "des Notruftelefons",
+        "dativ": "dem Notruftelefon",
+        "akkusativ": "das Notruftelefon"
+      },
+      "plural": {
+        "nominativ": "die Notruftelefone",
+        "genitiv": "der Notruftelefone",
+        "dativ": "den Notruftelefonen",
+        "akkusativ": "die Notruftelefone"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Notruftellefon",
+    "Nodruftelefon",
+    "Notruphtelefon",
+    "Notruftelephon",
+    "Notruftelephone",
+    "Notrufteläfon"
+  ]
+}

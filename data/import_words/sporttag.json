@@ -1,0 +1,85 @@
+{
+  "lemma": "Sporttag",
+  "wortart": "Nomen",
+  "silben": "Sport-tag",
+  "begriffserklaerung": "Ein Sporttag ist ein besonderer Schultag, an dem die Kinder viele verschiedene Sportarten ausprobieren und Wettkämpfe mitmachen.",
+  "beispielsatz": "Am Sporttag rennen, springen und werfen wir um die Wette!",
+  "rechtschreibstrategie": "„Sporttag\" ist aus zwei Wörtern zusammengesetzt: „Sport\" und „Tag\". Beide Teile schreibst du einfach zusammen – und schon ist das neue Wort fertig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Sport",
+    "Tag"
+  ],
+  "bild_datei": "Sporttag.webp",
+  "audio_datei": "Sporttag.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sports day"
+    },
+    {
+      "language_code": "fr",
+      "translation": "journée sportive"
+    },
+    {
+      "language_code": "tr",
+      "translation": "spor günü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يوم الرياضة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulfest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Olympiade"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sporttag",
+    "plural": "die Sporttage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sporttag",
+        "genitiv": "des Sporttages",
+        "dativ": "dem Sporttag",
+        "akkusativ": "den Sporttag"
+      },
+      "plural": {
+        "nominativ": "die Sporttage",
+        "genitiv": "der Sporttage",
+        "dativ": "den Sporttagen",
+        "akkusativ": "die Sporttage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sporttag",
+    "Spordag",
+    "Sporttach",
+    "Sporthag",
+    "Sporttaag",
+    "Sborttag"
+  ]
+}

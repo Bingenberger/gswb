@@ -1,0 +1,84 @@
+{
+  "lemma": "Tageszeit",
+  "wortart": "Nomen",
+  "silben": "Ta-ges-zeit",
+  "begriffserklaerung": "Eine Tageszeit ist ein bestimmter Abschnitt des Tages, zum Beispiel Morgen, Mittag, Nachmittag oder Nacht.",
+  "beispielsatz": "Meine liebste Tageszeit ist der Morgen, weil dann alles so still und frisch ist.",
+  "rechtschreibstrategie": "Das Wort „Tageszeit\" ist aus zwei Wörtern zusammengebaut: „Tages\" und „Zeit\". Sprich beide Teile einzeln: Ta-ges-zeit. Das „s\" in der Mitte kommt vom Fugenlaut.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Tag",
+    "Zeit"
+  ],
+  "bild_datei": "Tageszeit.webp",
+  "audio_datei": "Tageszeit.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "time of day"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moment de la journée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "günün saati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وقت اليوم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morgen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mittag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tageszeit",
+    "plural": "die Tageszeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tageszeit",
+        "genitiv": "der Tageszeit",
+        "dativ": "der Tageszeit",
+        "akkusativ": "die Tageszeit"
+      },
+      "plural": {
+        "nominativ": "die Tageszeiten",
+        "genitiv": "der Tageszeiten",
+        "dativ": "den Tageszeiten",
+        "akkusativ": "die Tageszeiten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tagessezeit",
+    "Tagesszeit",
+    "Tageszeit",
+    "Tagestzeid",
+    "Tagezeit",
+    "Tagezzeit"
+  ]
+}

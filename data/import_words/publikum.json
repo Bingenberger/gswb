@@ -1,0 +1,81 @@
+{
+  "lemma": "Publikum",
+  "wortart": "Nomen",
+  "silben": "Pu-bli-kum",
+  "begriffserklaerung": "Das Publikum sind alle Menschen, die zusammen etwas anschauen oder zuhören – zum Beispiel bei einem Konzert, im Theater oder im Kino.",
+  "beispielsatz": "Das Publikum klatschte laut, als die Schüler ihr Theaterstück aufführten.",
+  "rechtschreibstrategie": "Das Wort „Publikum\" kommt aus dem Lateinischen. Es klingt so, wie man es schreibt: Pu-bli-kum. Merke dir: Am Ende steht -kum, nicht -com oder -cum!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "publik"
+  ],
+  "bild_datei": "Publikum.webp",
+  "audio_datei": "Publikum.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "audience"
+    },
+    {
+      "language_code": "fr",
+      "translation": "public"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seyirci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجمهور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "publik"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zuschauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Konzert"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Theater"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Publikum",
+    "plural": "die Publika",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Publikum",
+        "genitiv": "des Publikums",
+        "dativ": "dem Publikum",
+        "akkusativ": "das Publikum"
+      },
+      "plural": {
+        "nominativ": "die Publika",
+        "genitiv": "der Publika",
+        "dativ": "den Publika",
+        "akkusativ": "die Publika"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Publicum",
+    "Publikkum",
+    "Publigum",
+    "Pubilkum"
+  ]
+}

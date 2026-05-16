@@ -1,0 +1,72 @@
+{
+  "lemma": "Ananas",
+  "wortart": "Nomen",
+  "silben": "A-na-nas",
+  "begriffserklaerung": "Die Ananas ist eine große, süße Frucht mit einer stacheligen, braunen Schale und einem grünen Blätterschopf oben drauf. Innen ist sie gelb und saftig.",
+  "beispielsatz": "Die Ananas schmeckt süß und ein bisschen sauer.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: A – na – nas. Alle drei Silben klingen gleich, aber am Ende steht nur ein „s\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Ananas.webp",
+  "audio_datei": "Ananas.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pineapple"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ananas"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ananas"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أناناس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Banane"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mango"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frucht"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ananas",
+    "plural": "die Ananas",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ananas",
+        "genitiv": "der Ananas",
+        "dativ": "der Ananas",
+        "akkusativ": "die Ananas"
+      },
+      "plural": {
+        "nominativ": "die Ananas",
+        "genitiv": "der Ananas",
+        "dativ": "den Ananas",
+        "akkusativ": "die Ananas"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Annanas",
+    "Anannas",
+    "Anannnas",
+    "Anahnas",
+    "Anaanas"
+  ]
+}

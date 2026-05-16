@@ -1,0 +1,83 @@
+{
+  "lemma": "Fensterbank",
+  "wortart": "Nomen",
+  "silben": "Fens-ter-bank",
+  "begriffserklaerung": "Die Fensterbank ist die flache Ablage am unteren Rand eines Fensters – innen oder außen am Haus.",
+  "beispielsatz": "Auf der Fensterbank stehen viele bunte Blumentöpfe.",
+  "rechtschreibstrategie": "„Fensterbank\" ist ein zusammengesetztes Wort aus „Fenster\" und „Bank\". Sprich beide Teile deutlich: FENS-ter-BANK.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Fenster",
+    "Bank"
+  ],
+  "bild_datei": "Fensterbank.webp",
+  "audio_datei": "Fensterbank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "windowsill"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rebord de fenêtre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pencere eşiği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافة النافذة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fensterbrett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fensterrahmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fensterläden"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fensterbank",
+    "plural": "die Fensterbänke",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fensterbank",
+        "genitiv": "der Fensterbank",
+        "dativ": "der Fensterbank",
+        "akkusativ": "die Fensterbank"
+      },
+      "plural": {
+        "nominativ": "die Fensterbänke",
+        "genitiv": "der Fensterbänke",
+        "dativ": "den Fensterbänken",
+        "akkusativ": "die Fensterbänke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fensterbanck",
+    "Fensterbanke",
+    "Fänsterbank",
+    "Fensterbenk",
+    "Fensterbangk"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Dauer",
+  "wortart": "Nomen",
+  "silben": "Dau-er",
+  "begriffserklaerung": "Die Dauer sagt uns, wie lange etwas dauert – zum Beispiel wie viele Minuten ein Film geht oder wie viele Tage ein Urlaub ist.",
+  "beispielsatz": "Die Dauer des Schultages beträgt sechs Stunden.",
+  "rechtschreibstrategie": "Denk an das Wort „dauern\" – dann hörst du das „au\" ganz deutlich: D-au-er.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "dauer"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Dauer",
+    "plural": "(keine übliche Pluralform)",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Dauer",
+        "genitiv": "der Dauer",
+        "dativ": "der Dauer",
+        "akkusativ": "die Dauer"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Daur",
+    "Dower",
+    "Dauher",
+    "Dauehr"
+  ],
+  "bild_datei": "Dauer.webp",
+  "audio_datei": "Dauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "duration"
+    },
+    {
+      "language_code": "fr",
+      "translation": "durée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "süre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dauern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dauerhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeitspanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weile"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeitraum"
+    }
+  ]
+}

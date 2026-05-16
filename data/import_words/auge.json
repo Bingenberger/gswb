@@ -1,0 +1,79 @@
+{
+  "lemma": "Auge",
+  "wortart": "Nomen",
+  "silben": "Au-ge",
+  "begriffserklaerung": "Das Auge ist ein Körperteil im Gesicht. Mit den Augen kannst du sehen.",
+  "beispielsatz": "Mia schließt die Augen, wenn sie schläft.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Au-ge. Du hörst zwei Silben. Das „Au\" klingt wie in „Auto\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "aug"
+  ],
+  "bild_datei": "Auge.webp",
+  "audio_datei": "Auge.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Auge",
+    "plural": "die Augen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Auge",
+        "genitiv": "des Auges",
+        "dativ": "dem Auge",
+        "akkusativ": "das Auge"
+      },
+      "plural": {
+        "nominativ": "die Augen",
+        "genitiv": "der Augen",
+        "dativ": "den Augen",
+        "akkusativ": "die Augen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "eye"
+    },
+    {
+      "language_code": "fr",
+      "translation": "œil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عَيْن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "äugen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Augenblick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ohr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesicht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Auge",
+    "Ouge"
+  ]
+}

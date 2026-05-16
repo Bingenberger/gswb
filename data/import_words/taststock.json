@@ -1,0 +1,83 @@
+{
+  "lemma": "Taststock",
+  "wortart": "Nomen",
+  "silben": "Tast-stock",
+  "begriffserklaerung": "Ein Taststock ist ein langer Stock, den blinde oder sehbehinderte Menschen vor sich hertasten, um Hindernisse zu erkennen und sicher zu gehen.",
+  "beispielsatz": "Lisa benutzt ihren weißen Taststock, um sich auf dem Schulweg zurechtzufinden.",
+  "rechtschreibstrategie": "Das Wort „Taststock\" ist aus zwei Wörtern zusammengesetzt: „tasten\" und „Stock\". Schreibe einfach beide Teile hintereinander!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "tast",
+    "Stock"
+  ],
+  "bild_datei": "Taststock.webp",
+  "audio_datei": "Taststock.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "white cane"
+    },
+    {
+      "language_code": "fr",
+      "translation": "canne blanche"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beyaz baston"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عصا الأعمى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tasten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blindenstock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sehbehinderung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blindenstock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Taststock",
+    "plural": "die Taststöcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Taststock",
+        "genitiv": "des Taststocks",
+        "dativ": "dem Taststock",
+        "akkusativ": "den Taststock"
+      },
+      "plural": {
+        "nominativ": "die Taststöcke",
+        "genitiv": "der Taststöcke",
+        "dativ": "den Taststöcken",
+        "akkusativ": "die Taststöcke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Taaststock",
+    "Tastshtock",
+    "Tastshtok",
+    "Taststok",
+    "Tasstock"
+  ]
+}

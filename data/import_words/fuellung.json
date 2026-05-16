@@ -1,0 +1,90 @@
+{
+  "lemma": "Füllung",
+  "wortart": "Nomen",
+  "silben": "Fül-lung",
+  "begriffserklaerung": "Eine Füllung ist das, womit etwas gefüllt wird – zum Beispiel die Schokolade in einer Praline oder die Creme in einem Kuchen.",
+  "beispielsatz": "Der Donut hat eine süße Marmeladen-Füllung.",
+  "rechtschreibstrategie": "Denke an das Wort „füllen\" – daraus entsteht „Füllung\" mit Doppel-l, weil der Vokal ü kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "füll"
+  ],
+  "bild_datei": "Füllung.webp",
+  "audio_datei": "Füllung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Füllung",
+    "plural": "die Füllungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Füllung",
+        "genitiv": "der Füllung",
+        "dativ": "der Füllung",
+        "akkusativ": "die Füllung"
+      },
+      "plural": {
+        "nominativ": "die Füllungen",
+        "genitiv": "der Füllungen",
+        "dativ": "den Füllungen",
+        "akkusativ": "die Füllungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "filling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "garniture"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dolgu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حشوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "füllen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gefüllt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Füller"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Inhalt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Praline"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Füllung",
+    "Fülung",
+    "Fuelling"
+  ]
+}

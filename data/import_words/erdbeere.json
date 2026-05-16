@@ -1,0 +1,84 @@
+{
+  "lemma": "Erdbeere",
+  "wortart": "Nomen",
+  "silben": "Erd-bee-re",
+  "begriffserklaerung": "Die Erdbeere ist eine kleine, rote Frucht, die süß schmeckt und am Boden wächst. Sie hat viele kleine Körnchen auf der Oberfläche.",
+  "beispielsatz": "Im Sommer pflücken wir saftige Erdbeeren im Garten.",
+  "rechtschreibstrategie": "Denk an die zwei Teile: „Erd\" und „Beere\". Die Erdbeere wächst nahe an der Erde – und sie ist eine Beere!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Erde",
+    "Beere"
+  ],
+  "bild_datei": "Erdbeere.webp",
+  "audio_datei": "Erdbeere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erdbeere",
+    "plural": "die Erdbeeren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erdbeere",
+        "genitiv": "der Erdbeere",
+        "dativ": "der Erdbeere",
+        "akkusativ": "die Erdbeere"
+      },
+      "plural": {
+        "nominativ": "die Erdbeeren",
+        "genitiv": "der Erdbeeren",
+        "dativ": "den Erdbeeren",
+        "akkusativ": "die Erdbeeren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "strawberry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fraise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çilek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فراولة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Himbeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blaubeere"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Obst"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erdbäre",
+    "Ertbeere",
+    "Erdbeerre",
+    "Erdbere",
+    "Erdbehere"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Linien",
+  "wortart": "Nomen",
+  "silben": "Li-ni-en",
+  "begriffserklaerung": "Linien sind lange, dünne Striche. Sie können gerade oder gebogen sein und werden zum Beispiel auf Papier gezeichnet.",
+  "beispielsatz": "Die Linien auf dem Heft helfen mir, gerade zu schreiben.",
+  "rechtschreibstrategie": "Das Wort „Linien\" endet auf -ien. Sprich alle drei Silben deutlich: Li – ni – en. Das „i\" in der Mitte ist lang, deshalb steht kein Doppelbuchstabe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Linie"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Linie",
+    "plural": "Linien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Linie",
+        "genitiv": "der Linie",
+        "dativ": "der Linie",
+        "akkusativ": "die Linie"
+      },
+      "plural": {
+        "nominativ": "die Linien",
+        "genitiv": "der Linien",
+        "dativ": "den Linien",
+        "akkusativ": "die Linien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Linein",
+    "Linjen",
+    "Lihnien",
+    "Lienien",
+    "Linien"
+  ],
+  "bild_datei": "Linien.webp",
+  "audio_datei": "Linien.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lines"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lignes"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizgiler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خطوط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Linie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "linieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Striche"
+    }
+  ]
+}

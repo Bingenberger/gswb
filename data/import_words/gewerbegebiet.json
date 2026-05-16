@@ -1,0 +1,85 @@
+{
+  "lemma": "Gewerbegebiet",
+  "wortart": "Nomen",
+  "silben": "Ge-wer-be-ge-biet",
+  "begriffserklaerung": "Ein Gewerbegebiet ist ein Bereich in einer Stadt oder Gemeinde, wo viele Betriebe, Fabriken, Geschäfte und Büros stehen. Dort wird gearbeitet, produziert und gehandelt – aber es wohnen keine Menschen.",
+  "beispielsatz": "Am Rand unserer Stadt liegt ein großes Gewerbegebiet, in dem viele Firmen ihre Büros und Lagerhallen haben.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Gewerbe\" + „ge\" + „biet\". Am Ende steckt das Wort „Biet\" aus „bieten\" – schreibe es mit ie, nicht mit i!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Gewerbe",
+    "Gebiet"
+  ],
+  "bild_datei": "Gewerbegebiet.webp",
+  "audio_datei": "Gewerbegebiet.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "industrial area"
+    },
+    {
+      "language_code": "fr",
+      "translation": "zone industrielle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sanayi bölgesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منطقة صناعية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewerbe"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Industriegebiet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Betrieb"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Industriegebiet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewerbegebiet",
+    "plural": "die Gewerbegebiete",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewerbegebiet",
+        "genitiv": "des Gewerbegebiets",
+        "dativ": "dem Gewerbegebiet",
+        "akkusativ": "das Gewerbegebiet"
+      },
+      "plural": {
+        "nominativ": "die Gewerbegebiete",
+        "genitiv": "der Gewerbegebiete",
+        "dativ": "den Gewerbegebieten",
+        "akkusativ": "die Gewerbegebiete"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewerbegebiet",
+    "Gewerbegebieth",
+    "Gewärbegebiet",
+    "Gewerbegebied",
+    "Gewerbegebiett",
+    "Gewerbgebiet"
+  ]
+}

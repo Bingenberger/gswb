@@ -1,0 +1,82 @@
+{
+  "lemma": "Urlauber",
+  "wortart": "Nomen",
+  "silben": "Ur-lau-ber",
+  "begriffserklaerung": "Ein Urlauber ist jemand, der Urlaub macht und verreist, um sich zu erholen und neue Orte kennenzulernen.",
+  "beispielsatz": "Die Urlauber liegen entspannt am Strand und genießen die Sonne.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ur-lau-ber. Das „au\" hörst du deutlich – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Urlaub"
+  ],
+  "bild_datei": "Urlauber.webp",
+  "audio_datei": "Urlauber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tourist / vacationer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vacancier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tatilci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُصطاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "urlauben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reisender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tourist"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feriengast"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Urlauber",
+    "plural": "die Urlauber",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Urlauber",
+        "genitiv": "des Urlaubers",
+        "dativ": "dem Urlauber",
+        "akkusativ": "den Urlauber"
+      },
+      "plural": {
+        "nominativ": "die Urlauber",
+        "genitiv": "der Urlauber",
+        "dativ": "den Urlaubern",
+        "akkusativ": "die Urlauber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Urlaupper",
+    "Urlauper",
+    "Urlouber",
+    "Uhrlauber",
+    "Urlaber"
+  ]
+}

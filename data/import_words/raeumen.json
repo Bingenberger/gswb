@@ -1,0 +1,99 @@
+{
+  "lemma": "räumen",
+  "wortart": "Verb",
+  "silben": "räu-men",
+  "begriffserklaerung": "Etwas räumen bedeutet, einen Platz oder Raum frei zu machen, indem man Dinge wegräumt oder ordnet.",
+  "beispielsatz": "Bitte räum dein Zimmer auf, bevor du spielen gehst!",
+  "rechtschreibstrategie": "Denk an das Wort „Raum\" – daraus kommt „räumen\". Das äu schreibst du genauso wie in „Raum\" (au → äu).",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Raum"
+  ],
+  "bild_datei": "räumen.webp",
+  "audio_datei": "räumen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to clear (up) / to tidy up"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ranger / débarrasser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "toplamak / boşaltmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرتِّب / يُخلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Raum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufräumen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufräumen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "wegräumen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ordnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "säubern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "räumen",
+    "praesens": {
+      "ich": "räume",
+      "du": "räumst",
+      "er_sie_es": "räumt",
+      "wir": "räumen",
+      "ihr": "räumt",
+      "sie": "räumen"
+    },
+    "perfekt": {
+      "ich": "habe geräumt",
+      "du": "hast geräumt",
+      "er_sie_es": "hat geräumt",
+      "wir": "haben geräumt",
+      "ihr": "habt geräumt",
+      "sie": "haben geräumt"
+    },
+    "praeteritum": {
+      "ich": "räumte",
+      "du": "räumtest",
+      "er_sie_es": "räumte",
+      "wir": "räumten",
+      "ihr": "räumtet",
+      "sie": "räumten"
+    }
+  },
+  "fehlschreibungen": [
+    "reumen",
+    "räumen",
+    "räuumen",
+    "räummen",
+    "raeumen"
+  ]
+}

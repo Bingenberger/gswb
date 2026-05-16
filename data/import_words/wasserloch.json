@@ -1,0 +1,84 @@
+{
+  "lemma": "Wasserloch",
+  "wortart": "Nomen",
+  "silben": "Was-ser-loch",
+  "begriffserklaerung": "Ein Wasserloch ist eine kleine, natürliche Vertiefung im Boden, die mit Wasser gefüllt ist. Tiere trinken dort oder kühlen sich ab.",
+  "beispielsatz": "Die Elefanten treffen sich am Wasserloch, um zu trinken.",
+  "rechtschreibstrategie": "Das Wort „Wasserloch\" ist zusammengesetzt aus „Wasser\" und „Loch\". Das „ss\" in „Wasser\" hörst du beim langsamen Sprechen: Was-ser. Bei „Loch\" schreibst du am Ende ein „ch\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Loch"
+  ],
+  "bild_datei": "Wasserloch.webp",
+  "audio_datei": "Wasserloch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "waterhole"
+    },
+    {
+      "language_code": "fr",
+      "translation": "point d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su birikintisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حفرة الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Loch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tränke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tümpel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wasserloch",
+    "plural": "die Wasserlöcher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wasserloch",
+        "genitiv": "des Wasserlochs",
+        "dativ": "dem Wasserloch",
+        "akkusativ": "das Wasserloch"
+      },
+      "plural": {
+        "nominativ": "die Wasserlöcher",
+        "genitiv": "der Wasserlöcher",
+        "dativ": "den Wasserlöchern",
+        "akkusativ": "die Wasserlöcher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Waserloch",
+    "Wasserlok",
+    "Wasserloche",
+    "Waserlok",
+    "Wasserlotsch"
+  ]
+}

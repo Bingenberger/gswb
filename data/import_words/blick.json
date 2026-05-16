@@ -1,0 +1,95 @@
+{
+  "lemma": "Blick",
+  "wortart": "Nomen",
+  "silben": "Blick",
+  "begriffserklaerung": "Ein Blick ist, wenn du mit deinen Augen auf etwas oder jemanden schaust.",
+  "beispielsatz": "Mia warf einen neugierigen Blick aus dem Fenster.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ck\" – also nicht „Blik\" oder „Blikk\", sondern „Blick\"!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Blick",
+    "plural": "die Blicke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Blick",
+        "genitiv": "des Blickes",
+        "dativ": "dem Blick",
+        "akkusativ": "den Blick"
+      },
+      "plural": {
+        "nominativ": "die Blicke",
+        "genitiv": "der Blicke",
+        "dativ": "den Blicken",
+        "akkusativ": "die Blicke"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "blick"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blick"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blicken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schauen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "blicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anblick"
+    }
+  ],
+  "fehlschreibungen": [
+    "Blik",
+    "Blikk",
+    "Blick",
+    "Blikh",
+    "Blieck"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "glance / look"
+    },
+    {
+      "language_code": "fr",
+      "translation": "regard"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bakış"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نظرة"
+    }
+  ],
+  "bild_datei": "Blick.webp",
+  "audio_datei": "Blick.mp3"
+}

@@ -1,0 +1,103 @@
+{
+  "lemma": "reißen",
+  "wortart": "Verb",
+  "silben": "rei-ßen",
+  "begriffserklaerung": "Etwas reißen bedeutet, es mit Kraft auseinanderzuziehen oder zu zerteilen, sodass es kaputtgeht.",
+  "beispielsatz": "Das Papier reißt, wenn du zu fest daran ziehst.",
+  "rechtschreibstrategie": "Nach dem langen „ei\" schreibt man „ß\" – kein „ss\", denn der Vokal davor ist lang. Merke: langes ei → ß!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "reiß"
+  ],
+  "bild_datei": "reißen.webp",
+  "audio_datei": "reißen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to tear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déchirer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yırtmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يمزق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "der Riss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zerreißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "das Reißen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerreißen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerteilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schneiden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "brechen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zerbrechen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "reißen",
+    "praesens": {
+      "ich": "reiße",
+      "du": "reißt",
+      "er_sie_es": "reißt",
+      "wir": "reißen",
+      "ihr": "reißt",
+      "sie": "reißen"
+    },
+    "perfekt": {
+      "ich": "habe gerissen",
+      "du": "hast gerissen",
+      "er_sie_es": "hat gerissen",
+      "wir": "haben gerissen",
+      "ihr": "habt gerissen",
+      "sie": "haben gerissen"
+    },
+    "praeteritum": {
+      "ich": "riss",
+      "du": "rissest",
+      "er_sie_es": "riss",
+      "wir": "rissen",
+      "ihr": "risst",
+      "sie": "rissen"
+    }
+  },
+  "fehlschreibungen": [
+    "reissen",
+    "reisen",
+    "reißen",
+    "rreißen",
+    "reißsen",
+    "reison"
+  ]
+}

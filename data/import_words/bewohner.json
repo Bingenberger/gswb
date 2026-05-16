@@ -1,0 +1,87 @@
+{
+  "lemma": "Bewohner",
+  "wortart": "Nomen",
+  "silben": "Be-woh-ner",
+  "begriffserklaerung": "Ein Bewohner ist eine Person, die an einem bestimmten Ort lebt, zum Beispiel in einem Haus, einer Wohnung oder einer Stadt.",
+  "beispielsatz": "Die Bewohner des Hauses treffen sich jeden Samstag im Garten.",
+  "rechtschreibstrategie": "Denke an das Wort „wohnen\" – darin steckt ein langes „o\", das mit einem „h\" gedehnt wird: woh-nen. Dieses Dehnungs-h bleibt auch in „Be-woh-ner\" erhalten.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wohn"
+  ],
+  "bild_datei": "Bewohner.webp",
+  "audio_datei": "Bewohner.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bewohner",
+    "plural": "die Bewohner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bewohner",
+        "genitiv": "des Bewohners",
+        "dativ": "dem Bewohner",
+        "akkusativ": "den Bewohner"
+      },
+      "plural": {
+        "nominativ": "die Bewohner",
+        "genitiv": "der Bewohner",
+        "dativ": "den Bewohnern",
+        "akkusativ": "die Bewohner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "inhabitant / resident"
+    },
+    {
+      "language_code": "fr",
+      "translation": "habitant"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sakin / ikamet eden"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساكن / مقيم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einwohner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachbar"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mieter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bewoner",
+    "Bewohnar",
+    "Bewohmer",
+    "Bewonner",
+    "Bawohner"
+  ]
+}

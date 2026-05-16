@@ -1,0 +1,87 @@
+{
+  "lemma": "Interesse",
+  "wortart": "Nomen",
+  "silben": "In-ter-es-se",
+  "begriffserklaerung": "Interesse bedeutet, dass du etwas spannend findest und mehr darüber wissen möchtest.",
+  "beispielsatz": "Lena hat großes Interesse an Tieren und liest viele Bücher darüber.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: In-ter-es-se. Am Ende steht ein Doppel-s, weil das „e\" davor kurz klingt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "interessant",
+    "interessieren"
+  ],
+  "bild_datei": "Interesse.webp",
+  "audio_datei": "Interesse.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Interesse",
+    "plural": "die Interessen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Interesse",
+        "genitiv": "des Interesses",
+        "dativ": "dem Interesse",
+        "akkusativ": "das Interesse"
+      },
+      "plural": {
+        "nominativ": "die Interessen",
+        "genitiv": "der Interessen",
+        "dativ": "den Interessen",
+        "akkusativ": "die Interessen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "interest"
+    },
+    {
+      "language_code": "fr",
+      "translation": "intérêt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "اهتمام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "interessieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "interessant"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Neugier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Begeisterung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hobby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leidenschaft"
+    }
+  ],
+  "fehlschreibungen": [
+    "Interese",
+    "Intresse",
+    "Interes",
+    "Interresse",
+    "Interässe"
+  ]
+}

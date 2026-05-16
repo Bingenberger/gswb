@@ -1,0 +1,83 @@
+{
+  "lemma": "Verbraucher",
+  "wortart": "Nomen",
+  "silben": "Ver-brau-cher",
+  "begriffserklaerung": "Ein Verbraucher ist jemand, der Dinge kauft und benutzt, zum Beispiel Lebensmittel, Kleidung oder Strom.",
+  "beispielsatz": "Als Verbraucher kann man im Supermarkt zwischen vielen Produkten wählen.",
+  "rechtschreibstrategie": "Das Wort besteht aus der Vorsilbe „Ver-\" und dem Stamm „brauchen\". Denk daran: „Ver-\" schreibt man immer mit „V\" und „brauchen\" mit „au\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "brauchen"
+  ],
+  "bild_datei": "Verbraucher.webp",
+  "audio_datei": "Verbraucher.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "consumer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consommateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tüketici"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستهلك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "brauchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verbrauch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Markt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Käufer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Verbraucher",
+    "plural": "die Verbraucher",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Verbraucher",
+        "genitiv": "des Verbrauchers",
+        "dativ": "dem Verbraucher",
+        "akkusativ": "den Verbraucher"
+      },
+      "plural": {
+        "nominativ": "die Verbraucher",
+        "genitiv": "der Verbraucher",
+        "dativ": "den Verbrauchern",
+        "akkusativ": "die Verbraucher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ferbraucher",
+    "Verbrauchter",
+    "Verbrauher",
+    "Verpraucher",
+    "Verbraucer"
+  ]
+}

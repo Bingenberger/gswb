@@ -1,0 +1,84 @@
+{
+  "lemma": "Brettspiel",
+  "wortart": "Nomen",
+  "silben": "Brett-spiel",
+  "begriffserklaerung": "Ein Brettspiel ist ein Spiel, das auf einem flachen Brett gespielt wird. Oft gibt es dabei Figuren, Würfel oder Karten.",
+  "beispielsatz": "Am Abend spielen wir alle zusammen ein spannendes Brettspiel.",
+  "rechtschreibstrategie": "„Brettspiel\" besteht aus zwei Teilen: „Brett\" und „Spiel\". Das „t\" in „Brett\" hörst du kurz, deshalb schreibt man zwei t.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brett",
+    "Spiel"
+  ],
+  "bild_datei": "Brettspiel.webp",
+  "audio_datei": "Brettspiel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Brettspiel",
+    "plural": "die Brettspiele",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Brettspiel",
+        "genitiv": "des Brettspiels",
+        "dativ": "dem Brettspiel",
+        "akkusativ": "das Brettspiel"
+      },
+      "plural": {
+        "nominativ": "die Brettspiele",
+        "genitiv": "der Brettspiele",
+        "dativ": "den Brettspielen",
+        "akkusativ": "die Brettspiele"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "board game"
+    },
+    {
+      "language_code": "fr",
+      "translation": "jeu de société"
+    },
+    {
+      "language_code": "tr",
+      "translation": "masa oyunu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لعبة الطاولة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spiel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Würfelspiel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kartenspiel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gesellschaftsspiel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bretspiel",
+    "Brettspil",
+    "Brettspiehl",
+    "Brätspiel",
+    "Bretspil"
+  ]
+}

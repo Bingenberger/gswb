@@ -1,0 +1,87 @@
+{
+  "lemma": "Telefonat",
+  "wortart": "Nomen",
+  "silben": "Te-le-fo-nat",
+  "begriffserklaerung": "Ein Telefonat ist ein Gespräch, das man am Telefon mit einer anderen Person führt.",
+  "beispielsatz": "Mama führt gerade ein langes Telefonat mit der Oma.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Te-le-fo-nat. Höre alle vier Silben genau – jede wird so geschrieben, wie man sie hört!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Telefonat",
+    "plural": "die Telefonate",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Telefonat",
+        "genitiv": "des Telefonats",
+        "dativ": "dem Telefonat",
+        "akkusativ": "das Telefonat"
+      },
+      "plural": {
+        "nominativ": "die Telefonate",
+        "genitiv": "der Telefonate",
+        "dativ": "den Telefonaten",
+        "akkusativ": "die Telefonate"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Telefon"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Telefon"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "telefonieren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gespräch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handy"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Telefonath",
+    "Telefonnat",
+    "Telefonad",
+    "Telefonatt",
+    "Telephonат",
+    "Tellefonat"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "phone call"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coup de téléphone"
+    },
+    {
+      "language_code": "tr",
+      "translation": "telefon görüşmesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكالمة هاتفية"
+    }
+  ],
+  "bild_datei": "Telefonat.webp",
+  "audio_datei": "Telefonat.mp3"
+}

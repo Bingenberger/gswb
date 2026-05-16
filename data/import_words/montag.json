@@ -1,0 +1,76 @@
+{
+  "lemma": "Montag",
+  "wortart": "Nomen",
+  "silben": "Mon-tag",
+  "begriffserklaerung": "Der Montag ist der erste Tag der Woche. Er kommt nach dem Sonntag und vor dem Dienstag.",
+  "beispielsatz": "Am Montag gehe ich wieder in die Schule.",
+  "rechtschreibstrategie": "Denk an die zwei Wortteile: „Mon\" und „tag\". Sprich beide Teile deutlich: Mon-tag!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Tag"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Montag",
+    "plural": "die Montage",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Montag",
+        "genitiv": "des Montags",
+        "dativ": "dem Montag",
+        "akkusativ": "den Montag"
+      },
+      "plural": {
+        "nominativ": "die Montage",
+        "genitiv": "der Montage",
+        "dativ": "den Montagen",
+        "akkusativ": "die Montage"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Montag",
+    "Montack",
+    "Montach",
+    "Mohntag",
+    "Monntag",
+    "Montaag"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "Monday"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lundi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Pazartesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الاثنين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dienstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Woche"
+    }
+  ],
+  "bild_datei": "Montag.webp",
+  "audio_datei": "Montag.mp3"
+}

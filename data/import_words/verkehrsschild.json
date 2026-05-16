@@ -1,0 +1,86 @@
+{
+  "lemma": "Verkehrsschild",
+  "wortart": "Nomen",
+  "silben": "Ver-kehrs-schild",
+  "begriffserklaerung": "Ein Verkehrsschild ist ein Schild am Straßenrand, das Autofahrern, Radfahrern und Fußgängern wichtige Regeln und Hinweise zeigt.",
+  "beispielsatz": "Das rote Verkehrsschild zeigt, dass man hier nicht fahren darf.",
+  "rechtschreibstrategie": "Das Wort „Verkehrsschild\" ist aus drei Teilen zusammengebaut: „Ver-kehrs\" + „schild\". Sprich alle Teile genau mit – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Verkehr",
+    "Schild"
+  ],
+  "bild_datei": "Verkehrsschild.webp",
+  "audio_datei": "Verkehrsschild.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Verkehrsschild",
+    "plural": "die Verkehrsschilder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Verkehrsschild",
+        "genitiv": "des Verkehrsschildes",
+        "dativ": "dem Verkehrsschild",
+        "akkusativ": "das Verkehrsschild"
+      },
+      "plural": {
+        "nominativ": "die Verkehrsschilder",
+        "genitiv": "der Verkehrsschilder",
+        "dativ": "den Verkehrsschildern",
+        "akkusativ": "die Verkehrsschilder"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "traffic sign"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau de signalisation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "trafik işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ampel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Verkehrsschielt",
+    "Ferkehrsschild",
+    "Verkehrsschilt",
+    "Verkersschild",
+    "Verkehrsild",
+    "Verkehrschild"
+  ]
+}

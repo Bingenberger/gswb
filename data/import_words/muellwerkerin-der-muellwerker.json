@@ -1,0 +1,85 @@
+{
+  "lemma": "Müllwerkerin / der Müllwerker",
+  "wortart": "Nomen",
+  "silben": "Müll-wer-ke-rin / der Müll-wer-ker",
+  "begriffserklaerung": "Ein Müllwerker oder eine Müllwerkerin ist jemand, der unseren Müll abholt und dafür sorgt, dass unsere Straßen sauber bleiben.",
+  "beispielsatz": "Die Müllwerkerin leert jeden Dienstag unsere Mülltonne.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „Müll\" und „Werker\". Schreib beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Werk"
+  ],
+  "bild_datei": "Müllwerkerin / der Müllwerker.webp",
+  "audio_datei": "Müllwerkerin / der Müllwerker.mp3",
+  "grammatische_formen": {
+    "artikel": "der / die",
+    "singular": "der Müllwerker / die Müllwerkerin",
+    "plural": "die Müllwerker / die Müllwerkerinnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Müllwerker / die Müllwerkerin",
+        "genitiv": "des Müllwerkers / der Müllwerkerin",
+        "dativ": "dem Müllwerker / der Müllwerkerin",
+        "akkusativ": "den Müllwerker / die Müllwerkerin"
+      },
+      "plural": {
+        "nominativ": "die Müllwerker / die Müllwerkerinnen",
+        "genitiv": "der Müllwerker / der Müllwerkerinnen",
+        "dativ": "den Müllwerkern / den Müllwerkerinnen",
+        "akkusativ": "die Müllwerker / die Müllwerkerinnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage collector / waste collector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "éboueur / éboueuse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöpçü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عامل النظافة / عاملة النظافة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Werk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müllauto"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müllmann"
+    }
+  ],
+  "fehlschreibungen": [
+    "Mülwerkerin",
+    "Müllwärkerin",
+    "Müllwercerin",
+    "Müllwerkerin",
+    "Mülwärker",
+    "Müllwärker"
+  ]
+}

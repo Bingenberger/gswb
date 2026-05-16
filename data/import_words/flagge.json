@@ -1,0 +1,83 @@
+{
+  "lemma": "Flagge",
+  "wortart": "Nomen",
+  "silben": "Flag-ge",
+  "begriffserklaerung": "Eine Flagge ist ein buntes Tuch mit einem bestimmten Muster oder Zeichen. Flaggen zeigen, zu welchem Land, Verein oder einer Gruppe etwas gehört.",
+  "beispielsatz": "Die bunte Flagge weht im Wind vor unserem Schulgebäude.",
+  "rechtschreibstrategie": "Das Wort „Flagge\" hat ein doppeltes „g\" – denn nach dem kurzen „a\" kommt immer ein Kürzezeichen. Sprich es laut: Flag-ge!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Flagge"
+  ],
+  "bild_datei": "Flagge.webp",
+  "audio_datei": "Flagge.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "flag"
+    },
+    {
+      "language_code": "fr",
+      "translation": "drapeau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bayrak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flaggen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "beflaggen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wappen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fahne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Flagge",
+    "plural": "die Flaggen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Flagge",
+        "genitiv": "der Flagge",
+        "dativ": "der Flagge",
+        "akkusativ": "die Flagge"
+      },
+      "plural": {
+        "nominativ": "die Flaggen",
+        "genitiv": "der Flaggen",
+        "dativ": "den Flaggen",
+        "akkusativ": "die Flaggen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flage",
+    "Flagge",
+    "Flaage",
+    "Flagke",
+    "Flakke",
+    "Fläge"
+  ]
+}

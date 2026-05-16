@@ -1,0 +1,87 @@
+{
+  "lemma": "Schulbuch",
+  "wortart": "Nomen",
+  "silben": "Schul-buch",
+  "begriffserklaerung": "Ein Schulbuch ist ein Buch, das Kinder in der Schule zum Lernen benutzen.",
+  "beispielsatz": "Ich schlage mein Schulbuch auf Seite 12 auf.",
+  "rechtschreibstrategie": "„Schulbuch\" besteht aus zwei Wörtern: „Schul-\" (von Schule) und „-buch\". Sprich beide Teile deutlich: SCHUL – BUCH. Zusammen schreibst du sie als ein Wort.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Schule",
+    "Buch"
+  ],
+  "bild_datei": "Schulbuch.webp",
+  "audio_datei": "Schulbuch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schulbuch",
+    "plural": "die Schulbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schulbuch",
+        "genitiv": "des Schulbuches",
+        "dativ": "dem Schulbuch",
+        "akkusativ": "das Schulbuch"
+      },
+      "plural": {
+        "nominativ": "die Schulbücher",
+        "genitiv": "der Schulbücher",
+        "dativ": "den Schulbüchern",
+        "akkusativ": "die Schulbücher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "schoolbook / textbook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manuel scolaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ders kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب مدرسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lehrbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tafel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schulbuck",
+    "Shulbuch",
+    "Schulbug",
+    "Schullbuch",
+    "Sulbuch"
+  ]
+}

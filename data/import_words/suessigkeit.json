@@ -1,0 +1,88 @@
+{
+  "lemma": "Süßigkeit",
+  "wortart": "Nomen",
+  "silben": "Sü-ßig-keit",
+  "begriffserklaerung": "Eine Süßigkeit ist etwas Leckeres zum Essen, das süß schmeckt, zum Beispiel Schokolade, Bonbons oder Gummibärchen.",
+  "beispielsatz": "Zu meinem Geburtstag habe ich eine Tüte voller Süßigkeiten bekommen.",
+  "rechtschreibstrategie": "Das Wort kommt von „süß\" – schreibe deshalb „ß\" und hänge „-igkeit\" dran: süß → Süß-ig-keit.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "süß"
+  ],
+  "bild_datei": "Süßigkeit.webp",
+  "audio_datei": "Süßigkeit.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Süßigkeit",
+    "plural": "die Süßigkeiten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Süßigkeit",
+        "genitiv": "der Süßigkeit",
+        "dativ": "der Süßigkeit",
+        "akkusativ": "die Süßigkeit"
+      },
+      "plural": {
+        "nominativ": "die Süßigkeiten",
+        "genitiv": "der Süßigkeiten",
+        "dativ": "den Süßigkeiten",
+        "akkusativ": "die Süßigkeiten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sweet / candy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "friandise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tatlı / şeker"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حلوى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "süß"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "süßen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Leckerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schokolade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bonbon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Keks"
+    }
+  ],
+  "fehlschreibungen": [
+    "Süsigkeit",
+    "Süssigkeit",
+    "Süßigkeid",
+    "Süßichkeit",
+    "Süßigkait",
+    "Sühßigkeit"
+  ]
+}

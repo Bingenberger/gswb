@@ -1,0 +1,83 @@
+{
+  "lemma": "Mannschaft",
+  "wortart": "Nomen",
+  "silben": "Mann-schaft",
+  "begriffserklaerung": "Eine Mannschaft ist eine Gruppe von Menschen, die zusammen spielen oder etwas gemeinsam tun – zum Beispiel beim Sport.",
+  "beispielsatz": "Unsere Mannschaft hat das Fußballspiel gewonnen!",
+  "rechtschreibstrategie": "Schreibe zuerst „Mann\" (mit zwei n) und dann „-schaft\". Denk an den Mann mit dem doppelten n!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Mann"
+  ],
+  "bild_datei": "Mannschaft.webp",
+  "audio_datei": "Mannschaft.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Mannschaft",
+    "plural": "die Mannschaften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Mannschaft",
+        "genitiv": "der Mannschaft",
+        "dativ": "der Mannschaft",
+        "akkusativ": "die Mannschaft"
+      },
+      "plural": {
+        "nominativ": "die Mannschaften",
+        "genitiv": "der Mannschaften",
+        "dativ": "den Mannschaften",
+        "akkusativ": "die Mannschaften"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "team"
+    },
+    {
+      "language_code": "fr",
+      "translation": "équipe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "takım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فريق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mann"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Team"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spieler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trainer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnier"
+    }
+  ],
+  "fehlschreibungen": [
+    "Manschaft",
+    "Mannschaff",
+    "Mannschafft",
+    "Manschaff",
+    "Mannchaft"
+  ]
+}

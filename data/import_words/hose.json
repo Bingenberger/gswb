@@ -1,0 +1,82 @@
+{
+  "lemma": "Hose",
+  "wortart": "Nomen",
+  "silben": "Ho-se",
+  "begriffserklaerung": "Eine Hose ist ein Kleidungsstück, das du an den Beinen trägst. Sie hat zwei Beinteile und einen Bund oben.",
+  "beispielsatz": "Heute zieht Lena ihre neue blaue Hose an.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ho-se. Das „o\" ist lang, darum schreibst du nur ein „s\" – kein Doppel-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Hose"
+  ],
+  "bild_datei": "Hose.webp",
+  "audio_datei": "Hose.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "trousers / pants"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pantalon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "pantolon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بنطلون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hosentasche"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hosenbein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hemd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rock"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hose",
+    "plural": "die Hosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hose",
+        "genitiv": "der Hose",
+        "dativ": "der Hose",
+        "akkusativ": "die Hose"
+      },
+      "plural": {
+        "nominativ": "die Hosen",
+        "genitiv": "der Hosen",
+        "dativ": "den Hosen",
+        "akkusativ": "die Hosen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hossen",
+    "Hosse",
+    "Hoze",
+    "Hohse",
+    "Hosen (als Singular)"
+  ]
+}

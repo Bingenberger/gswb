@@ -1,0 +1,82 @@
+{
+  "lemma": "Linie",
+  "wortart": "Nomen",
+  "silben": "Li-nie",
+  "begriffserklaerung": "Eine Linie ist ein langer, dünner Strich, den man z. B. mit einem Lineal ziehen kann.",
+  "beispielsatz": "Ich ziehe mit dem Lineal eine gerade Linie auf mein Blatt Papier.",
+  "rechtschreibstrategie": "Das Wort „Linie\" endet auf -ie. Denk daran: Am Ende schreibt man -ie, nicht -i oder -y!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Linie",
+    "plural": "die Linien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Linie",
+        "genitiv": "der Linie",
+        "dativ": "der Linie",
+        "akkusativ": "die Linie"
+      },
+      "plural": {
+        "nominativ": "die Linien",
+        "genitiv": "der Linien",
+        "dativ": "den Linien",
+        "akkusativ": "die Linien"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "lini"
+  ],
+  "fehlschreibungen": [
+    "Linie",
+    "Liny",
+    "Lini",
+    "Linnie",
+    "Linije"
+  ],
+  "bild_datei": "Linie.webp",
+  "audio_datei": "Linie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "line"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ligne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çizgi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "linieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kurve"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Strich"
+    }
+  ]
+}

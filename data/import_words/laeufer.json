@@ -1,0 +1,87 @@
+{
+  "lemma": "Läufer",
+  "wortart": "Nomen",
+  "silben": "Läu-fer",
+  "begriffserklaerung": "Ein Läufer ist eine Person, die läuft oder am Laufen teilnimmt. Das Wort kann auch einen langen, schmalen Teppich oder eine Schachfigur bezeichnen.",
+  "beispielsatz": "Der Läufer gewann das Rennen mit großem Vorsprung.",
+  "rechtschreibstrategie": "Denk an das Verb „laufen\" – daraus wird „Läufer\". Das Ä hörst du, wenn du „laufen\" verlängerst: lauf → Läufer.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "lauf"
+  ],
+  "bild_datei": "Läufer.webp",
+  "audio_datei": "Läufer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "runner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "coureur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koşucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عدّاء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "laufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lauf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Renner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Athlet"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Läufer",
+    "plural": "die Läufer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Läufer",
+        "genitiv": "des Läufers",
+        "dativ": "dem Läufer",
+        "akkusativ": "den Läufer"
+      },
+      "plural": {
+        "nominativ": "die Läufer",
+        "genitiv": "der Läufer",
+        "dativ": "den Läufern",
+        "akkusativ": "die Läufer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Leifer",
+    "Läuffer",
+    "Leufer",
+    "Läufer",
+    "Laufer",
+    "Läuver"
+  ]
+}

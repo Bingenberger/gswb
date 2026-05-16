@@ -1,0 +1,83 @@
+{
+  "lemma": "Bauplan",
+  "wortart": "Nomen",
+  "silben": "Bau-plan",
+  "begriffserklaerung": "Ein Bauplan ist eine genaue Zeichnung, die zeigt, wie ein Gebäude oder ein Gegenstand gebaut werden soll.",
+  "beispielsatz": "Der Architekt zeichnet einen Bauplan für das neue Schulgebäude.",
+  "rechtschreibstrategie": "„Bauplan\" besteht aus zwei Teilen: „Bau\" und „Plan\". Sprich beide Teile laut, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bau",
+    "Plan"
+  ],
+  "bild_datei": "Bauplan.webp",
+  "audio_datei": "Bauplan.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "blueprint / building plan"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plan de construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapı planı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مخطط البناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plan"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Architekt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Grundriss"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bauplan",
+    "plural": "die Baupläne",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bauplan",
+        "genitiv": "des Bauplans",
+        "dativ": "dem Bauplan",
+        "akkusativ": "den Bauplan"
+      },
+      "plural": {
+        "nominativ": "die Baupläne",
+        "genitiv": "der Baupläne",
+        "dativ": "den Bauplänen",
+        "akkusativ": "die Baupläne"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bauplan",
+    "Baukplan",
+    "Bauplann",
+    "Bouplan",
+    "Bauplahn"
+  ]
+}

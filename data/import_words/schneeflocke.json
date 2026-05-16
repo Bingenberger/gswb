@@ -1,0 +1,86 @@
+{
+  "lemma": "Schneeflocke",
+  "wortart": "Nomen",
+  "silben": "Schnee-flo-cke",
+  "begriffserklaerung": "Eine Schneeflocke ist ein kleines, zartes Eiskörnchen, das vom Himmel fällt, wenn es sehr kalt ist. Jede Schneeflocke hat ein einzigartiges Muster.",
+  "beispielsatz": "Eine weiße Schneeflocke landet auf meiner Nasenspitze und schmilzt sofort.",
+  "rechtschreibstrategie": "„Schneeflocke\" ist ein zusammengesetztes Wort aus „Schnee\" und „Flocke\". Das „ee\" in „Schnee\" sprichst du lang, und „Flocke\" schreibst du mit „ck\", weil das „o\" kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Flocke"
+  ],
+  "bild_datei": "Schneeflocke.webp",
+  "audio_datei": "Schneeflocke.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schneeflocke",
+    "plural": "die Schneeflocken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schneeflocke",
+        "genitiv": "der Schneeflocke",
+        "dativ": "der Schneeflocke",
+        "akkusativ": "die Schneeflocke"
+      },
+      "plural": {
+        "nominativ": "die Schneeflocken",
+        "genitiv": "der Schneeflocken",
+        "dativ": "den Schneeflocken",
+        "akkusativ": "die Schneeflocken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snowflake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "flocon de neige"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar tanesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ندفة الثلج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flocke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Winter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schneefall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schneeflocke",
+    "Schneflocke",
+    "Schneefloke",
+    "Schneeflogge",
+    "Schkneefloke",
+    "Schneeflocken"
+  ]
+}

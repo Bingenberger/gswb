@@ -1,0 +1,82 @@
+{
+  "lemma": "Uhr",
+  "wortart": "Nomen",
+  "silben": "Uhr",
+  "begriffserklaerung": "Eine Uhr zeigt dir an, wie spät es ist. Sie hat Zeiger oder Ziffern und misst die Zeit.",
+  "beispielsatz": "Die Uhr an der Wand zeigt, dass es schon acht Uhr ist.",
+  "rechtschreibstrategie": "Das Wort „Uhr\" hat ein Dehnungs-h. Das h sprichst du nicht, aber du schreibst es: U-h-r.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Uhr"
+  ],
+  "bild_datei": "Uhr.webp",
+  "audio_datei": "Uhr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "clock / watch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "horloge / montre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhrzeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Armbanduhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Minute"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Uhr",
+    "plural": "Uhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Uhr",
+        "genitiv": "der Uhr",
+        "dativ": "der Uhr",
+        "akkusativ": "die Uhr"
+      },
+      "plural": {
+        "nominativ": "die Uhren",
+        "genitiv": "der Uhren",
+        "dativ": "den Uhren",
+        "akkusativ": "die Uhren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ur",
+    "Uur",
+    "Uhr",
+    "Ure",
+    "Uhre"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Isolierung",
+  "wortart": "Nomen",
+  "silben": "I-so-lie-rung",
+  "begriffserklaerung": "Eine Isolierung schützt etwas, indem sie es von seiner Umgebung trennt. Sie hält zum Beispiel Wärme drinnen oder verhindert, dass Strom irgendwohin fließt, wo er nicht sein soll.",
+  "beispielsatz": "Die Isolierung an der Wand hält unser Haus im Winter schön warm.",
+  "rechtschreibstrategie": "Das Wort kommt von „isolieren\". Achte auf das „ie\" in der Mitte: i-so-LIE-rung. Das „ie\" spricht man lang, wie in „Biene\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "isolier"
+  ],
+  "bild_datei": "Isolierung.webp",
+  "audio_datei": "Isolierung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Isolierung",
+    "plural": "die Isolierungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Isolierung",
+        "genitiv": "der Isolierung",
+        "dativ": "der Isolierung",
+        "akkusativ": "die Isolierung"
+      },
+      "plural": {
+        "nominativ": "die Isolierungen",
+        "genitiv": "der Isolierungen",
+        "dativ": "den Isolierungen",
+        "akkusativ": "die Isolierungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "insulation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "isolation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yalıtım"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "isolieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Isolator"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wärme"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schutzschicht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Issolierung",
+    "Isolirung",
+    "Isolierung",
+    "Isohlierung",
+    "Isollierung"
+  ]
+}

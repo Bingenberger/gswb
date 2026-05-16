@@ -1,0 +1,83 @@
+{
+  "lemma": "Ersatz",
+  "wortart": "Nomen",
+  "silben": "Er-satz",
+  "begriffserklaerung": "Ein Ersatz ist etwas oder jemand, der an die Stelle von etwas oder jemandem tritt, das fehlt oder kaputt ist.",
+  "beispielsatz": "Weil der Ball kaputt war, haben wir einen Ersatz geholt.",
+  "rechtschreibstrategie": "Das Wort „Ersatz\" endet auf -atz. Das „tz\" schreibt man so, weil der Vokal davor kurz gesprochen wird – man hört kurzes „a\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "satz",
+    "setzen"
+  ],
+  "bild_datei": "Ersatz.webp",
+  "audio_datei": "Ersatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "replacement"
+    },
+    {
+      "language_code": "fr",
+      "translation": "remplacement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yedek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بديل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ersetzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ersatzteile"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stellvertreter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reparatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tausch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ersatz",
+    "plural": "die Ersätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ersatz",
+        "genitiv": "des Ersatzes",
+        "dativ": "dem Ersatz",
+        "akkusativ": "den Ersatz"
+      },
+      "plural": {
+        "nominativ": "die Ersätze",
+        "genitiv": "der Ersätze",
+        "dativ": "den Ersätzen",
+        "akkusativ": "die Ersätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ersaz",
+    "Ersattz",
+    "Ersats",
+    "Ersatss",
+    "Ehrsatz"
+  ]
+}

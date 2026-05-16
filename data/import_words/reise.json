@@ -1,0 +1,94 @@
+{
+  "lemma": "Reise",
+  "wortart": "Nomen",
+  "silben": "Rei-se",
+  "begriffserklaerung": "Eine Reise ist ein Ausflug oder eine Fahrt, bei der man für eine Weile woanders hingeht oder hinfährt – zum Beispiel in den Urlaub oder zu Verwandten.",
+  "beispielsatz": "Nächste Woche fahren wir auf eine lange Reise ans Meer!",
+  "rechtschreibstrategie": "Das Wort „Reise\" hat ein langes „ei\" – sprich es laut: „R-ei-se\". Das „s\" zwischen zwei Vokalen klingt wie ein „s\", nicht wie ein „z\". Denk daran: „Reise\" reimt sich auf „Weise\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "reis"
+  ],
+  "bild_datei": "Reise.webp",
+  "audio_datei": "Reise.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "journey / trip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voyage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yolculuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رِحْلَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reisende"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abreisen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urlaub"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Koffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Reise",
+    "plural": "die Reisen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Reise",
+        "genitiv": "der Reise",
+        "dativ": "der Reise",
+        "akkusativ": "die Reise"
+      },
+      "plural": {
+        "nominativ": "die Reisen",
+        "genitiv": "der Reisen",
+        "dativ": "den Reisen",
+        "akkusativ": "die Reisen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reisse",
+    "Reize",
+    "Reyse",
+    "Reißse",
+    "Reise"
+  ]
+}

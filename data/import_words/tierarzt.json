@@ -1,0 +1,84 @@
+{
+  "lemma": "Tierarzt",
+  "wortart": "Nomen",
+  "silben": "Tier-arzt",
+  "begriffserklaerung": "Ein Tierarzt ist ein Arzt, der kranke oder verletzte Tiere untersucht und behandelt, damit sie wieder gesund werden.",
+  "beispielsatz": "Als unsere Katze krank war, hat der Tierarzt sie untersucht und ihr eine Spritze gegeben.",
+  "rechtschreibstrategie": "Das Wort „Tierarzt\" besteht aus zwei Bausteinen: „Tier\" und „Arzt\". Sprich beide Teile einzeln, dann schreibst du sie leicht richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Tier",
+    "Arzt"
+  ],
+  "bild_datei": "Tierarzt.webp",
+  "audio_datei": "Tierarzt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "veterinarian"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vétérinaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "veteriner"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طبيب بيطري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Praxis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Impfung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Veterinär"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Tierarzt",
+    "plural": "die Tierärzte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Tierarzt",
+        "genitiv": "des Tierarztes",
+        "dativ": "dem Tierarzt",
+        "akkusativ": "den Tierarzt"
+      },
+      "plural": {
+        "nominativ": "die Tierärzte",
+        "genitiv": "der Tierärzte",
+        "dativ": "den Tierärzten",
+        "akkusativ": "die Tierärzte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tierartz",
+    "Thierarzt",
+    "Tieharzt",
+    "Tierarst",
+    "Tiearzt"
+  ]
+}

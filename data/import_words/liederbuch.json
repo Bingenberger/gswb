@@ -1,0 +1,85 @@
+{
+  "lemma": "Liederbuch",
+  "wortart": "Nomen",
+  "silben": "Lie-der-buch",
+  "begriffserklaerung": "Ein Liederbuch ist ein Buch, in dem viele Lieder mit Text und manchmal auch Noten stehen.",
+  "beispielsatz": "In der Schule singen wir die Lieder aus unserem Liederbuch.",
+  "rechtschreibstrategie": "Das Wort „Liederbuch\" besteht aus zwei Teilen: „Lieder\" und „Buch\". Schreibe beide Teile zusammen und denke an das ie in „Lieder\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Lied",
+    "Buch"
+  ],
+  "bild_datei": "Liederbuch.webp",
+  "audio_datei": "Liederbuch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Liederbuch",
+    "plural": "die Liederbücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Liederbuch",
+        "genitiv": "des Liederbuchs",
+        "dativ": "dem Liederbuch",
+        "akkusativ": "das Liederbuch"
+      },
+      "plural": {
+        "nominativ": "die Liederbücher",
+        "genitiv": "der Liederbücher",
+        "dativ": "den Liederbüchern",
+        "akkusativ": "die Liederbücher"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "songbook"
+    },
+    {
+      "language_code": "fr",
+      "translation": "recueil de chansons"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şarkı kitabı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتاب الأغاني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lied"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesangbuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gesangbuch"
+    }
+  ],
+  "fehlschreibungen": [
+    "Liederbuchs",
+    "Liederbug",
+    "Liderbuch",
+    "Liederbúch",
+    "Liehderbuch",
+    "Liederbuhch"
+  ]
+}

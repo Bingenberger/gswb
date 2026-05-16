@@ -1,0 +1,83 @@
+{
+  "lemma": "Reisebus",
+  "wortart": "Nomen",
+  "silben": "Rei-se-bus",
+  "begriffserklaerung": "Ein Reisebus ist ein großer Bus, mit dem viele Menschen zusammen weite Strecken fahren, zum Beispiel in den Urlaub oder auf einen Ausflug.",
+  "beispielsatz": "Unsere Klasse fährt mit dem Reisebus in den Tierpark.",
+  "rechtschreibstrategie": "„Reisebus\" ist ein zusammengesetztes Wort aus „Reise\" und „Bus\". Schreibe einfach beide Wörter zusammen: Reise + Bus = Reisebus.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "reise",
+    "bus"
+  ],
+  "bild_datei": "Reisebus.webp",
+  "audio_datei": "Reisebus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coach / tour bus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "autocar"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otobüs / tur otobüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافلة السفر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fernbus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Reisebus",
+    "plural": "die Reisebusse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Reisebus",
+        "genitiv": "des Reisebusses",
+        "dativ": "dem Reisebus",
+        "akkusativ": "den Reisebus"
+      },
+      "plural": {
+        "nominativ": "die Reisebusse",
+        "genitiv": "der Reisebusse",
+        "dativ": "den Reisebussen",
+        "akkusativ": "die Reisebusse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Reisebuss",
+    "Reißebus",
+    "Reizebus",
+    "Reisebuhss",
+    "Reisepus"
+  ]
+}

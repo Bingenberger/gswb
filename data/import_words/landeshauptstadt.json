@@ -1,0 +1,86 @@
+{
+  "lemma": "Landeshauptstadt",
+  "wortart": "Nomen",
+  "silben": "Lan-des-haupt-stadt",
+  "begriffserklaerung": "Die Landeshauptstadt ist die wichtigste Stadt in einem Bundesland. Dort arbeitet die Regierung des Bundeslandes.",
+  "beispielsatz": "München ist die Landeshauptstadt von Bayern.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „Landes\" + „Haupt\" + „Stadt\". Sprich alle Teile laut mit und schreibe sie zusammen. Das „dt\" am Ende kommt vom Wort „Stadt\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Land",
+    "Haupt",
+    "Stadt"
+  ],
+  "bild_datei": "Landeshauptstadt.webp",
+  "audio_datei": "Landeshauptstadt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "state capital"
+    },
+    {
+      "language_code": "fr",
+      "translation": "capitale régionale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eyalet başkenti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عاصمة الولاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bundesland"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hauptstadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regierung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Landeshauptstadt",
+    "plural": "die Landeshauptstädte",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Landeshauptstadt",
+        "genitiv": "der Landeshauptstadt",
+        "dativ": "der Landeshauptstadt",
+        "akkusativ": "die Landeshauptstadt"
+      },
+      "plural": {
+        "nominativ": "die Landeshauptstädte",
+        "genitiv": "der Landeshauptstädte",
+        "dativ": "den Landeshauptstädten",
+        "akkusativ": "die Landeshauptstädte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Landeshauptstad",
+    "Landeshauptsadt",
+    "Landeshauptstat",
+    "Landeshaupstadt",
+    "Landeshauptsstadt",
+    "Landeshaupttstadt"
+  ]
+}

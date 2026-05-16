@@ -1,0 +1,83 @@
+{
+  "lemma": "Klimawandel",
+  "wortart": "Nomen",
+  "silben": "Kli-ma-wan-del",
+  "begriffserklaerung": "Der Klimawandel beschreibt, wie sich das Wetter auf der ganzen Erde langsam verändert. Es wird immer wärmer, und das bringt Probleme für Tiere, Pflanzen und Menschen.",
+  "beispielsatz": "Durch den Klimawandel schmelzen die Eisberge am Nordpol immer schneller.",
+  "rechtschreibstrategie": "„Klimawandel\" ist ein zusammengesetztes Wort aus „Klima\" und „Wandel\". Wenn du es aufteilst, kannst du beide Teile leichter richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Klima",
+    "Wandel"
+  ],
+  "bild_datei": "Klimawandel.webp",
+  "audio_datei": "Klimawandel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "climate change"
+    },
+    {
+      "language_code": "fr",
+      "translation": "changement climatique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iklim değişikliği"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تغير المناخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Klima"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wandel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Umwelt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erderwärmung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treibhauseffekt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Klimawandel",
+    "plural": "die Klimawandel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Klimawandel",
+        "genitiv": "des Klimawandels",
+        "dativ": "dem Klimawandel",
+        "akkusativ": "den Klimawandel"
+      },
+      "plural": {
+        "nominativ": "die Klimawandel",
+        "genitiv": "der Klimawandel",
+        "dativ": "den Klimawandeln",
+        "akkusativ": "die Klimawandel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Climawandel",
+    "Klimawandell",
+    "Klimavandel",
+    "Klimmawandel",
+    "Klimawandal"
+  ]
+}

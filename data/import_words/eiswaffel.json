@@ -1,0 +1,84 @@
+{
+  "lemma": "Eiswaffel",
+  "wortart": "Nomen",
+  "silben": "Eis-waf-fel",
+  "begriffserklaerung": "Eine Eiswaffel ist ein knuspriges, dünnes Gebäck aus Teig, das wie ein Trichter oder eine Tüte geformt ist. In eine Eiswaffel füllt man eine oder mehrere Kugeln Speiseeis.",
+  "beispielsatz": "Im Sommer kaufe ich mir am liebsten eine Eiswaffel mit zwei Kugeln Erdbeereis.",
+  "rechtschreibstrategie": "Das Wort „Eiswaffel\" ist aus zwei Wörtern zusammengesetzt: „Eis\" und „Waffel\". Bei „Waffel\" hörst du ein kurzes „a\", deshalb wird das „f\" verdoppelt: waf-fel.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Eis",
+    "Waffel"
+  ],
+  "bild_datei": "Eiswaffel.webp",
+  "audio_datei": "Eiswaffel.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eiswaffel",
+    "plural": "die Eiswaffeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eiswaffel",
+        "genitiv": "der Eiswaffel",
+        "dativ": "der Eiswaffel",
+        "akkusativ": "die Eiswaffel"
+      },
+      "plural": {
+        "nominativ": "die Eiswaffeln",
+        "genitiv": "der Eiswaffeln",
+        "dativ": "den Eiswaffeln",
+        "akkusativ": "die Eiswaffeln"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ice cream cone"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cornet de glace"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dondurma külahı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قمع الآيس كريم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Waffel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speiseeis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eistüte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eistüte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Eiswafle",
+    "Eiswaffel",
+    "Eiswafel",
+    "Eisswaffel",
+    "Eiswaffell"
+  ]
+}

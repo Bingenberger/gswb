@@ -1,0 +1,82 @@
+{
+  "lemma": "Sitz",
+  "wortart": "Nomen",
+  "silben": "Sitz",
+  "begriffserklaerung": "Ein Sitz ist ein Platz, auf dem man sitzen kann, zum Beispiel ein Stuhl, eine Bank oder ein Platz im Auto.",
+  "beispielsatz": "Mein Sitz im Klassenzimmer ist direkt neben dem Fenster.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „tz\" – das ist das Kürzezeichen. Denk daran: kurzer Vokal → tz!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "sitz"
+  ],
+  "bild_datei": "Sitz.webp",
+  "audio_datei": "Sitz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "siège"
+    },
+    {
+      "language_code": "tr",
+      "translation": "oturak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقعد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sitzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sitzkissen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Platz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sitz",
+    "plural": "die Sitze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sitz",
+        "genitiv": "des Sitzes",
+        "dativ": "dem Sitz",
+        "akkusativ": "den Sitz"
+      },
+      "plural": {
+        "nominativ": "die Sitze",
+        "genitiv": "der Sitze",
+        "dativ": "den Sitzen",
+        "akkusativ": "die Sitze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sits",
+    "Siz",
+    "Sitzz",
+    "Sitts",
+    "Sitz's"
+  ]
+}

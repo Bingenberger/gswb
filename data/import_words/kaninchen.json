@@ -1,0 +1,73 @@
+{
+  "lemma": "Kaninchen",
+  "wortart": "Nomen",
+  "silben": "Ka-nin-chen",
+  "begriffserklaerung": "Ein Kaninchen ist ein kleines Tier mit langen Ohren, weichem Fell und einem kurzen Schwanz. Es frisst Gras, Karotten und Gemüse. Kaninchen leben wild in der Natur oder als Haustiere bei Menschen.",
+  "beispielsatz": "Das Kaninchen hoppelt fröhlich durch den Garten.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ka-nin-chen. Merke: Nach dem kurzen „i\" in „nin\" kommt ein doppeltes „n\" – das zeigt den kurzen Vokal an.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Kaninchen.webp",
+  "audio_datei": "Kaninchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rabbit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lapin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavşan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أرنب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kaninchen",
+    "plural": "die Kaninchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kaninchen",
+        "genitiv": "des Kaninchens",
+        "dativ": "dem Kaninchen",
+        "akkusativ": "das Kaninchen"
+      },
+      "plural": {
+        "nominativ": "die Kaninchen",
+        "genitiv": "der Kaninchen",
+        "dativ": "den Kaninchen",
+        "akkusativ": "die Kaninchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kannichen",
+    "Kaninchen",
+    "Kaninschen",
+    "Kaningchen",
+    "Kanichen",
+    "Kanninchen"
+  ]
+}

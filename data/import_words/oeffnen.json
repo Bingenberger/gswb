@@ -1,0 +1,92 @@
+{
+  "lemma": "öffnen",
+  "wortart": "Verb",
+  "silben": "öff-nen",
+  "begriffserklaerung": "Etwas öffnen bedeutet, es aufzumachen, damit man hineinschauen oder hindurchgehen kann.",
+  "beispielsatz": "Lisa öffnet morgens die Fenster, damit frische Luft hereinkommt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: öff-nen. Nach dem kurzen „ö\" hörst du zwei „f\" – deshalb schreibt man „ff\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "offen",
+    "öffnen"
+  ],
+  "bild_datei": "öffnen.webp",
+  "audio_datei": "öffnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to open"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ouvrir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "açmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يفتح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "offen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Öffnung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "aufmachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufschließen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "öffnen",
+    "praesens": {
+      "ich": "öffne",
+      "du": "öffnest",
+      "er_sie_es": "öffnet",
+      "wir": "öffnen",
+      "ihr": "öffnet",
+      "sie": "öffnen"
+    },
+    "perfekt": {
+      "ich": "habe geöffnet",
+      "du": "hast geöffnet",
+      "er_sie_es": "hat geöffnet",
+      "wir": "haben geöffnet",
+      "ihr": "habt geöffnet",
+      "sie": "haben geöffnet"
+    },
+    "praeteritum": {
+      "ich": "öffnete",
+      "du": "öffnetest",
+      "er_sie_es": "öffnete",
+      "wir": "öffneten",
+      "ihr": "öffnetet",
+      "sie": "öffneten"
+    }
+  },
+  "fehlschreibungen": [
+    "öfnen",
+    "öfften",
+    "öften",
+    "öffnen",
+    "oeffnen",
+    "öffnet (statt öffnest)"
+  ]
+}

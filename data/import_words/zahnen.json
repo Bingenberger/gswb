@@ -1,0 +1,87 @@
+{
+  "lemma": "zahnen",
+  "wortart": "Verb",
+  "silben": "zah-nen",
+  "begriffserklaerung": "Zahnen bedeutet, dass bei einem Baby die ersten Zähne durch das Zahnfleisch wachsen.",
+  "beispielsatz": "Das kleine Baby zahnt gerade und weint deshalb oft.",
+  "rechtschreibstrategie": "Denk an das Wort „Zahn\" – daraus wird „zahnen\". Das h bleibt erhalten, weil es zur Wortfamilie gehört.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Zahn"
+  ],
+  "bild_datei": "zahnen.webp",
+  "audio_datei": "zahnen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to teethe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire ses dents"
+    },
+    {
+      "language_code": "tr",
+      "translation": "diş çıkarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُخرج أسنانه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zahnfleisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahn"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "zahnen",
+    "praesens": {
+      "ich": "zahne",
+      "du": "zahnst",
+      "er_sie_es": "zahnt",
+      "wir": "zahnen",
+      "ihr": "zahnt",
+      "sie": "zahnen"
+    },
+    "perfekt": {
+      "ich": "habe gezahnt",
+      "du": "hast gezahnt",
+      "er_sie_es": "hat gezahnt",
+      "wir": "haben gezahnt",
+      "ihr": "habt gezahnt",
+      "sie": "haben gezahnt"
+    },
+    "praeteritum": {
+      "ich": "zahnte",
+      "du": "zahntest",
+      "er_sie_es": "zahnte",
+      "wir": "zahnten",
+      "ihr": "zahntet",
+      "sie": "zahnten"
+    }
+  },
+  "fehlschreibungen": [
+    "zanen",
+    "zahnen",
+    "tsahnen",
+    "zannen",
+    "zaahnen"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "lemma": "Grill",
+  "wortart": "Nomen",
+  "silben": "Grill",
+  "begriffserklaerung": "Ein Grill ist ein Gerät, auf dem man Fleisch, Würstchen oder Gemüse über Feuer oder Hitze brät.",
+  "beispielsatz": "Papa legt die Würstchen auf den Grill.",
+  "rechtschreibstrategie": "Höre genau hin: Das „i\" in „Grill\" ist kurz, deshalb schreibt man zwei „l\" am Ende – „Grill\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "grill"
+  ],
+  "bild_datei": "Grill.webp",
+  "audio_datei": "Grill.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grill / barbecue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gril / barbecue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ızgara / barbekü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شواية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "grillen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grillparty"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Würstchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Grill",
+    "plural": "die Grills",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Grill",
+        "genitiv": "des Grills",
+        "dativ": "dem Grill",
+        "akkusativ": "den Grill"
+      },
+      "plural": {
+        "nominativ": "die Grills",
+        "genitiv": "der Grills",
+        "dativ": "den Grills",
+        "akkusativ": "die Grills"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gril",
+    "Griel",
+    "Gryll"
+  ]
+}

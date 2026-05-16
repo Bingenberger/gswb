@@ -1,0 +1,84 @@
+{
+  "lemma": "Bioabfall",
+  "wortart": "Nomen",
+  "silben": "Bio-ab-fall",
+  "begriffserklaerung": "Bioabfall sind alle Reste aus der Küche und dem Garten, die früher einmal lebendig waren – zum Beispiel Obst- und Gemüseschalen, Kaffeesatz oder welke Blätter. Sie können zu Kompost werden.",
+  "beispielsatz": "Die Bananenschale kommt in die Biotonne, weil sie Bioabfall ist.",
+  "rechtschreibstrategie": "Das Wort „Bioabfall\" besteht aus zwei Teilen: „Bio\" und „Abfall\". Sprich beide Teile einzeln, dann schreibst du sie auch richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "bio",
+    "fall"
+  ],
+  "bild_datei": "Bioabfall.webp",
+  "audio_datei": "Bioabfall.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "organic waste"
+    },
+    {
+      "language_code": "fr",
+      "translation": "déchets organiques"
+    },
+    {
+      "language_code": "tr",
+      "translation": "organik atık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نفايات عضوية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abfall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Biotonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kompost"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltrennung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Küchenabfall"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bioabfall",
+    "plural": "die Bioabfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bioabfall",
+        "genitiv": "des Bioabfalls",
+        "dativ": "dem Bioabfall",
+        "akkusativ": "den Bioabfall"
+      },
+      "plural": {
+        "nominativ": "die Bioabfälle",
+        "genitiv": "der Bioabfälle",
+        "dativ": "den Bioabfällen",
+        "akkusativ": "die Bioabfälle"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bieabfall",
+    "Bioabfal",
+    "Bioabfall",
+    "Bio-Abfal",
+    "Bioabffall",
+    "Biohababfall"
+  ]
+}

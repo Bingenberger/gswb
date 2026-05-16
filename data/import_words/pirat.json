@@ -1,0 +1,83 @@
+{
+  "lemma": "Pirat",
+  "wortart": "Nomen",
+  "silben": "Pi-rat",
+  "begriffserklaerung": "Ein Pirat ist ein Seeräuber, der auf dem Meer andere Schiffe überfällt und deren Schätze stiehlt.",
+  "beispielsatz": "Der Pirat segelt mit seinem Schiff über das weite Meer und sucht nach einem verborgenen Schatz.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Pi-rat. Beide Silben hörst du deutlich. Das „i\" in der ersten Silbe ist lang, darum steht kein Doppelbuchstabe.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Pirat"
+  ],
+  "bild_datei": "Pirat.webp",
+  "audio_datei": "Pirat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pirate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pirate"
+    },
+    {
+      "language_code": "tr",
+      "translation": "korsan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرصان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Piratin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Piratenschiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schiff"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Seeräuber"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Pirat",
+    "plural": "die Piraten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Pirat",
+        "genitiv": "des Piraten",
+        "dativ": "dem Piraten",
+        "akkusativ": "den Piraten"
+      },
+      "plural": {
+        "nominativ": "die Piraten",
+        "genitiv": "der Piraten",
+        "dativ": "den Piraten",
+        "akkusativ": "die Piraten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Pirat",
+    "Pirrat",
+    "Piraht",
+    "Pirad",
+    "Pihrat",
+    "Pirett"
+  ]
+}

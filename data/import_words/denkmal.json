@@ -1,0 +1,83 @@
+{
+  "lemma": "Denkmal",
+  "wortart": "Nomen",
+  "silben": "Denk-mal",
+  "begriffserklaerung": "Ein Denkmal ist ein Bauwerk, eine Statue oder ein Stein, der an einen wichtigen Menschen oder ein besonderes Ereignis erinnert.",
+  "beispielsatz": "Auf dem Marktplatz steht ein altes Denkmal für die Stadtgründer.",
+  "rechtschreibstrategie": "Das Wort „Denkmal\" setzt sich aus „denk\" (von denken) und „Mal\" (Zeichen) zusammen. Sprich beide Teile deutlich: DENK-MAL.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "denk",
+    "Mal"
+  ],
+  "bild_datei": "Denkmal.webp",
+  "audio_datei": "Denkmal.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "monument"
+    },
+    {
+      "language_code": "fr",
+      "translation": "monument"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anıt"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نُصُب تذكاري"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "denken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mahnmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Statue"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gedenkstätte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mahnmal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Denkmal",
+    "plural": "die Denkmäler",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Denkmal",
+        "genitiv": "des Denkmals",
+        "dativ": "dem Denkmal",
+        "akkusativ": "das Denkmal"
+      },
+      "plural": {
+        "nominativ": "die Denkmäler",
+        "genitiv": "der Denkmäler",
+        "dativ": "den Denkmälern",
+        "akkusativ": "die Denkmäler"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Denkhmahl",
+    "Denckmal",
+    "Denckmahl",
+    "Denkmahl",
+    "Denkmal"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "lemma": "Stadtkarte",
+  "wortart": "Nomen",
+  "silben": "Stadt-kar-te",
+  "begriffserklaerung": "Eine Stadtkarte ist eine Zeichnung oder ein Plan, der zeigt, wie eine Stadt aussieht. Man kann darauf Straßen, Parks, Gebäude und andere Orte finden.",
+  "beispielsatz": "Wir schauen auf die Stadtkarte, um den Weg zum Museum zu finden.",
+  "rechtschreibstrategie": "Das Wort „Stadtkarte\" besteht aus zwei Teilen: „Stadt\" und „Karte\". Sprich beide Teile einzeln: STADT – KAR – TE. So vergisst du keinen Buchstaben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stadt",
+    "Karte"
+  ],
+  "bild_datei": "Stadtkarte.webp",
+  "audio_datei": "Stadtkarte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "city map"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plan de ville"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şehir haritası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خريطة المدينة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenkarte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadtplan"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stadtplan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stadtkarte",
+    "plural": "die Stadtkarten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stadtkarte",
+        "genitiv": "der Stadtkarte",
+        "dativ": "der Stadtkarte",
+        "akkusativ": "die Stadtkarte"
+      },
+      "plural": {
+        "nominativ": "die Stadtkarten",
+        "genitiv": "der Stadtkarten",
+        "dativ": "den Stadtkarten",
+        "akkusativ": "die Stadtkarten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stadkarte",
+    "Stattkarte",
+    "Stadtcarte",
+    "Stadtkart",
+    "Stadkarten"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Stimme",
+  "wortart": "Nomen",
+  "silben": "Stim-me",
+  "begriffserklaerung": "Die Stimme ist der Klang, den du mit deinem Mund und deinem Hals erzeugst, wenn du sprichst oder singst.",
+  "beispielsatz": "Die Stimme der Lehrerin ist sehr freundlich und deutlich.",
+  "rechtschreibstrategie": "Das Wort „Stimme\" hat zwei m – das erkennst du, wenn du es dehnst: „Stim-me\". Nach dem kurzen „i\" kommt ein Doppel-m!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stimm"
+  ],
+  "bild_datei": "Stimme.webp",
+  "audio_datei": "Stimme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "voice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صوت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stimmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stimmung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abstimmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gesang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stimme",
+    "plural": "die Stimmen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stimme",
+        "genitiv": "der Stimme",
+        "dativ": "der Stimme",
+        "akkusativ": "die Stimme"
+      },
+      "plural": {
+        "nominativ": "die Stimmen",
+        "genitiv": "der Stimmen",
+        "dativ": "den Stimmen",
+        "akkusativ": "die Stimmen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stime",
+    "Shtimme",
+    "Stieme",
+    "Stimm",
+    "Stimmme"
+  ]
+}

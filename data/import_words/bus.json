@@ -1,0 +1,81 @@
+{
+  "lemma": "Bus",
+  "wortart": "Nomen",
+  "silben": "Bus",
+  "begriffserklaerung": "Ein Bus ist ein großes Fahrzeug, das viele Menschen gleichzeitig von einem Ort zum anderen bringt.",
+  "beispielsatz": "Jeden Morgen fahre ich mit dem Bus zur Schule.",
+  "rechtschreibstrategie": "Das Wort „Bus\" hat nur eine Silbe. Nach dem kurzen „u\" kommt nur ein „s\" – aber im Plural heißt es „Busse\" mit Doppel-s, weil der Vokal kurz bleibt.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bus",
+    "plural": "die Busse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bus",
+        "genitiv": "des Busses",
+        "dativ": "dem Bus",
+        "akkusativ": "den Bus"
+      },
+      "plural": {
+        "nominativ": "die Busse",
+        "genitiv": "der Busse",
+        "dativ": "den Bussen",
+        "akkusativ": "die Busse"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Bus"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Busfahrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bushaltestelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reisebus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Buss",
+    "Buß",
+    "Buhss",
+    "Buz"
+  ],
+  "bild_datei": "Bus.webp",
+  "audio_datei": "Bus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bus"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bus"
+    },
+    {
+      "language_code": "tr",
+      "translation": "otobüs"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافلة"
+    }
+  ]
+}

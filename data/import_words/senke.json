@@ -1,0 +1,82 @@
+{
+  "lemma": "Senke",
+  "wortart": "Nomen",
+  "silben": "Sen-ke",
+  "begriffserklaerung": "Eine Senke ist eine Vertiefung im Boden oder in der Landschaft, die tiefer liegt als das Land drumherum.",
+  "beispielsatz": "Im Herbst sammelt sich das Regenwasser in der Senke auf der Wiese.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Sen-ke. Nach dem kurzen „e\" hörst du das „n\" und dann das „k\" – schreib einfach, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Senke",
+    "plural": "die Senken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Senke",
+        "genitiv": "der Senke",
+        "dativ": "der Senke",
+        "akkusativ": "die Senke"
+      },
+      "plural": {
+        "nominativ": "die Senken",
+        "genitiv": "der Senken",
+        "dativ": "den Senken",
+        "akkusativ": "die Senken"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "senk"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "senken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "absenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mulde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mulde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Sänke",
+    "Sencke",
+    "Senk",
+    "Zenke",
+    "Sennke"
+  ],
+  "bild_datei": "Senke.webp",
+  "audio_datei": "Senke.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hollow / depression"
+    },
+    {
+      "language_code": "fr",
+      "translation": "dépression / creux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çukur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منخفض"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Hafer",
+  "wortart": "Nomen",
+  "silben": "Ha-fer",
+  "begriffserklaerung": "Hafer ist eine Getreidepflanze. Ihre Körner werden zum Beispiel zu Haferflocken verarbeitet und sind sehr gesund.",
+  "beispielsatz": "Das Pferd frisst gerne Hafer aus dem Eimer.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Ha-fer. Du hörst ein langes „a\" – da kommt kein Doppelkonsonant. Schreib einfach: H-a-f-e-r.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Hafer"
+  ],
+  "bild_datei": "Hafer.webp",
+  "audio_datei": "Hafer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "oat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avoine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yulaf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوفان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haferflocken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hafergrütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weizen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gerste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Getreide"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Hafer",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hafer",
+        "genitiv": "des Hafers",
+        "dativ": "dem Hafer",
+        "akkusativ": "den Hafer"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haffer",
+    "Haafer",
+    "Hafer",
+    "Hafehr",
+    "Hafar"
+  ]
+}

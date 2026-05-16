@@ -1,0 +1,92 @@
+{
+  "lemma": "Erzählung",
+  "wortart": "Nomen",
+  "silben": "Er-zäh-lung",
+  "begriffserklaerung": "Eine Erzählung ist eine Geschichte, die jemand mündlich oder schriftlich erzählt. Sie hat eine Handlung mit Personen und Ereignissen.",
+  "beispielsatz": "Die Lehrerin liest uns eine spannende Erzählung über einen mutigen Drachen vor.",
+  "rechtschreibstrategie": "Denk an das Wort „erzählen\" – das Dehnungs-h bleibt auch in „Erzählung\" erhalten: er-ZÄHL-ung.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h",
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "zähl"
+  ],
+  "bild_datei": "Erzählung.webp",
+  "audio_datei": "Erzählung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Erzählung",
+    "plural": "die Erzählungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Erzählung",
+        "genitiv": "der Erzählung",
+        "dativ": "der Erzählung",
+        "akkusativ": "die Erzählung"
+      },
+      "plural": {
+        "nominativ": "die Erzählungen",
+        "genitiv": "der Erzählungen",
+        "dativ": "den Erzählungen",
+        "akkusativ": "die Erzählungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "story / narrative"
+    },
+    {
+      "language_code": "fr",
+      "translation": "récit / histoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hikâye / anlatı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قصة / حكاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erzählen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erzähler"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Märchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Roman"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gedicht"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erzehlung",
+    "Erzälung",
+    "Erzählung",
+    "Erzällung",
+    "Erzählig"
+  ]
+}

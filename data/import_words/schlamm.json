@@ -1,0 +1,86 @@
+{
+  "lemma": "Schlamm",
+  "wortart": "Nomen",
+  "silben": "Schlamm",
+  "begriffserklaerung": "Schlamm ist eine weiche, feuchte Masse aus Erde und Wasser. Er entsteht zum Beispiel nach dem Regen auf Wegen oder am Ufer von Bächen und Seen.",
+  "beispielsatz": "Nach dem Regen sind Tims Stiefel voller Schlamm.",
+  "rechtschreibstrategie": "Schlamm endet auf -mm, weil der Vokal „a\" kurz gesprochen wird. Nach einem kurzen Vokal steht oft ein doppelter Mitlaut – hier ein Doppel-m!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schlamm"
+  ],
+  "bild_datei": "Schlamm.webp",
+  "audio_datei": "Schlamm.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlamm",
+    "plural": "die Schlämme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlamm",
+        "genitiv": "des Schlamm(e)s",
+        "dativ": "dem Schlamm",
+        "akkusativ": "den Schlamm"
+      },
+      "plural": {
+        "nominativ": "die Schlämme",
+        "genitiv": "der Schlämme",
+        "dativ": "den Schlämmen",
+        "akkusativ": "die Schlämme"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "mud"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çamur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlammig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schlammpfütze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Matsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfütze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Morast"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlam",
+    "Shlam",
+    "Schlamb",
+    "Schlammt",
+    "Slhamm"
+  ]
+}

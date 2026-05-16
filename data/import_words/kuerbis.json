@@ -1,0 +1,74 @@
+{
+  "lemma": "Kürbis",
+  "wortart": "Nomen",
+  "silben": "Kür-bis",
+  "begriffserklaerung": "Ein Kürbis ist eine große, runde Frucht mit einer harten, orangefarbenen oder grünen Schale. Er wächst auf dem Boden und gehört zum Gemüse.",
+  "beispielsatz": "Im Herbst schnitzen wir aus dem Kürbis eine lustige Laterne.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Kür – bis. Das ü klingt kurz und bekommt kein Dehnungs-h. Das Wort endet auf -bis – merke es dir!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kürbis"
+  ],
+  "bild_datei": "Kürbis.webp",
+  "audio_datei": "Kürbis.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pumpkin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "citrouille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kabak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قرع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Laterne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kürbis",
+    "plural": "die Kürbisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kürbis",
+        "genitiv": "des Kürbisses",
+        "dativ": "dem Kürbis",
+        "akkusativ": "den Kürbis"
+      },
+      "plural": {
+        "nominativ": "die Kürbisse",
+        "genitiv": "der Kürbisse",
+        "dativ": "den Kürbissen",
+        "akkusativ": "die Kürbisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kürbiss",
+    "Kirbis",
+    "Kürbies",
+    "Gürbis",
+    "Kurbis"
+  ]
+}

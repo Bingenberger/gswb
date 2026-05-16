@@ -1,0 +1,71 @@
+{
+  "lemma": "Nektar",
+  "wortart": "Nomen",
+  "silben": "Nek-tar",
+  "begriffserklaerung": "Nektar ist ein süßer Saft, den Blumen in ihren Blüten bilden. Bienen sammeln ihn, um daraus Honig zu machen.",
+  "beispielsatz": "Die Biene saugt den süßen Nektar aus der Blüte.",
+  "rechtschreibstrategie": "Denk an den harten „k\"-Laut in der Mitte: Nek-tar. Das Wort klingt genau so, wie es geschrieben wird – sprich es laut in zwei Silben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Nektar.webp",
+  "audio_datei": "Nektar.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "nectar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nectar"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nektar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رحيق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Blüte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Honig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Nektar",
+    "plural": "die Nektare",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Nektar",
+        "genitiv": "des Nektars",
+        "dativ": "dem Nektar",
+        "akkusativ": "den Nektar"
+      },
+      "plural": {
+        "nominativ": "die Nektare",
+        "genitiv": "der Nektare",
+        "dativ": "den Nektaren",
+        "akkusativ": "die Nektare"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Nectar",
+    "Necktar",
+    "Nekter",
+    "Nektahr"
+  ]
+}

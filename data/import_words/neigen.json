@@ -1,0 +1,95 @@
+{
+  "lemma": "neigen",
+  "wortart": "Verb",
+  "silben": "nei-gen",
+  "begriffserklaerung": "Etwas neigen bedeutet, es schräg zu kippen oder zur Seite zu beugen. Man kann zum Beispiel den Kopf neigen, wenn man etwas genau anschaut.",
+  "beispielsatz": "Die Sonnenblume neigt ihren Kopf zur Sonne hin.",
+  "rechtschreibstrategie": "Das Wort „neigen\" hat den Doppellaut „ei\" – sprich ihn deutlich: „n-EI-gen\". Denk an „nein\" – da steckt das „ei\" auch drin!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "neig"
+  ],
+  "bild_datei": "neigen.webp",
+  "audio_datei": "neigen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to tilt / to lean"
+    },
+    {
+      "language_code": "fr",
+      "translation": "incliner / pencher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "eğmek / yatırmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يميل / ينحني"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Neigung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geneigt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "beugen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "kippen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lehnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "biegen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "neigen",
+    "praesens": {
+      "ich": "neige",
+      "du": "neigst",
+      "er_sie_es": "neigt",
+      "wir": "neigen",
+      "ihr": "neigt",
+      "sie": "neigen"
+    },
+    "perfekt": {
+      "ich": "habe geneigt",
+      "du": "hast geneigt",
+      "er_sie_es": "hat geneigt",
+      "wir": "haben geneigt",
+      "ihr": "habt geneigt",
+      "sie": "haben geneigt"
+    },
+    "praeteritum": {
+      "ich": "neigte",
+      "du": "neigtest",
+      "er_sie_es": "neigte",
+      "wir": "neigten",
+      "ihr": "neigtet",
+      "sie": "neigten"
+    }
+  },
+  "fehlschreibungen": [
+    "naigen",
+    "neigen",
+    "neygen",
+    "neiggen",
+    "nigen",
+    "neigän"
+  ]
+}

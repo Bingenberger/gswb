@@ -1,0 +1,78 @@
+{
+  "lemma": "Trockner",
+  "wortart": "Nomen",
+  "silben": "Trock-ner",
+  "begriffserklaerung": "Ein Trockner ist ein elektrisches Gerät, das nasse Wäsche durch warme Luft schnell trocknet.",
+  "beispielsatz": "Mama legt die nasse Wäsche in den Trockner.",
+  "rechtschreibstrategie": "Das „ck\" im Wort „Trock-ner\" zeigt, dass das „o\" kurz gesprochen wird. Nach einem kurzen Vokal schreibt man oft „ck\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "trocken"
+  ],
+  "bild_datei": "Trockner.webp",
+  "audio_datei": "Trockner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dryer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sèche-linge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurutma makinesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجفف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trocken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "trocknen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschmaschine"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wäsche"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Trockner",
+    "plural": "die Trockner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Trockner",
+        "genitiv": "des Trockners",
+        "dativ": "dem Trockner",
+        "akkusativ": "den Trockner"
+      },
+      "plural": {
+        "nominativ": "die Trockner",
+        "genitiv": "der Trockner",
+        "dativ": "den Trocknern",
+        "akkusativ": "die Trockner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trokner",
+    "Trockener",
+    "Trokkner",
+    "Trocknar",
+    "Trocner"
+  ]
+}

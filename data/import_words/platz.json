@@ -1,0 +1,93 @@
+{
+  "lemma": "Platz",
+  "wortart": "Nomen",
+  "silben": "Platz",
+  "begriffserklaerung": "Ein Platz ist ein bestimmter Ort oder eine freie Fläche, z. B. auf einem Stuhl, in einer Stadt oder auf einem Spielfeld.",
+  "beispielsatz": "Auf dem Marktplatz spielen viele Kinder.",
+  "rechtschreibstrategie": "Nach dem kurzen „a\" schreibt man „tz\" – das ist das Kürzezeichen: Platz.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Platz"
+  ],
+  "bild_datei": "Platz.webp",
+  "audio_datei": "Platz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "place / square"
+    },
+    {
+      "language_code": "fr",
+      "translation": "place / endroit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yer / meydan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكان / ساحة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Plätze"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "platzieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Marktplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sitzplatz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raum"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Platz",
+    "plural": "die Plätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Platz",
+        "genitiv": "des Platzes",
+        "dativ": "dem Platz",
+        "akkusativ": "den Platz"
+      },
+      "plural": {
+        "nominativ": "die Plätze",
+        "genitiv": "der Plätze",
+        "dativ": "den Plätzen",
+        "akkusativ": "die Plätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Plaz",
+    "Plats",
+    "Pllatz",
+    "Plattz"
+  ]
+}

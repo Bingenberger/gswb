@@ -1,0 +1,83 @@
+{
+  "lemma": "Reagenzglas",
+  "wortart": "Nomen",
+  "silben": "Re-a-genz-glas",
+  "begriffserklaerung": "Ein Reagenzglas ist ein kleines, langes Glasröhrchen, das im Unterricht und im Labor benutzt wird, um Flüssigkeiten zu mischen oder zu untersuchen.",
+  "beispielsatz": "Im Chemieunterricht füllt die Lehrerin das Reagenzglas mit einer bunten Flüssigkeit.",
+  "rechtschreibstrategie": "Das Wort „Reagenzglas\" ist ein zusammengesetztes Nomen aus „Reagenz\" und „Glas\". Sprich beide Teile deutlich: Re-a-genz-glas. Das Wort „Glas\" kennst du schon – das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Reagenz",
+    "Glas"
+  ],
+  "bild_datei": "Reagenzglas.webp",
+  "audio_datei": "Reagenzglas.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Reagenzglas",
+    "plural": "die Reagenzgläser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Reagenzglas",
+        "genitiv": "des Reagenzglases",
+        "dativ": "dem Reagenzglas",
+        "akkusativ": "das Reagenzglas"
+      },
+      "plural": {
+        "nominativ": "die Reagenzgläser",
+        "genitiv": "der Reagenzgläser",
+        "dativ": "den Reagenzgläsern",
+        "akkusativ": "die Reagenzgläser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "test tube"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tube à essai"
+    },
+    {
+      "language_code": "tr",
+      "translation": "deney tüpü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أنبوب اختبار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Reagenz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Labor"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Experiment"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mikroskop"
+    }
+  ],
+  "fehlschreibungen": [
+    "Reagänzglas",
+    "Reagenzglass",
+    "Reahgenzglas",
+    "Reagensglas",
+    "Reagenzglaß"
+  ]
+}

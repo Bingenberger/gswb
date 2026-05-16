@@ -1,0 +1,72 @@
+{
+  "lemma": "Ampel",
+  "wortart": "Nomen",
+  "silben": "Am-pel",
+  "begriffserklaerung": "Eine Ampel ist ein Leuchtzeichen an der Straße. Sie zeigt mit den Farben Rot, Gelb und Grün, ob man gehen oder stehen bleiben soll.",
+  "beispielsatz": "Wir warten an der Ampel, bis sie grün wird.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Am – pel. Höre das „m\" und das „p\" genau – schreibe beide Buchstaben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Ampel.webp",
+  "audio_datei": "Ampel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "traffic light"
+    },
+    {
+      "language_code": "fr",
+      "translation": "feu de signalisation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "trafik ışığı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشارة المرور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zebrastreifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehr"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ampel",
+    "plural": "die Ampeln",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ampel",
+        "genitiv": "der Ampel",
+        "dativ": "der Ampel",
+        "akkusativ": "die Ampel"
+      },
+      "plural": {
+        "nominativ": "die Ampeln",
+        "genitiv": "der Ampeln",
+        "dativ": "den Ampeln",
+        "akkusativ": "die Ampeln"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ampell",
+    "Ammpel",
+    "Anpel",
+    "Ambel",
+    "Ampal"
+  ]
+}

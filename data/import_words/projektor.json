@@ -1,0 +1,83 @@
+{
+  "lemma": "Projektor",
+  "wortart": "Nomen",
+  "silben": "Pro-jek-tor",
+  "begriffserklaerung": "Ein Projektor ist ein Gerät, das Bilder oder Videos an eine Wand oder Leinwand wirft, damit viele Menschen sie gut sehen können.",
+  "beispielsatz": "Die Lehrerin schaltet den Projektor ein, und das Bild erscheint groß an der Wand.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Pro – jek – tor. Achte auf das „j\" in der Mitte – es klingt wie ein „j\", auch wenn es sich fremd anfühlt!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "projizier",
+    "Projektion"
+  ],
+  "bild_datei": "Projektor.webp",
+  "audio_datei": "Projektor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "projector"
+    },
+    {
+      "language_code": "fr",
+      "translation": "projecteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "projektör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جهاز عرض"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Projektion"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "projizieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leinwand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beamer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beamer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Projektor",
+    "plural": "die Projektoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Projektor",
+        "genitiv": "des Projektors",
+        "dativ": "dem Projektor",
+        "akkusativ": "den Projektor"
+      },
+      "plural": {
+        "nominativ": "die Projektoren",
+        "genitiv": "der Projektoren",
+        "dativ": "den Projektoren",
+        "akkusativ": "die Projektoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Projekktor",
+    "Projetor",
+    "Projector",
+    "Projekter",
+    "Proijektor"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "lemma": "Müllauto",
+  "wortart": "Nomen",
+  "silben": "Müll-au-to",
+  "begriffserklaerung": "Ein Müllauto ist ein großes Fahrzeug, das den Müll von den Häusern abholt und wegfährt.",
+  "beispielsatz": "Das Müllauto kommt jeden Dienstag und leert unsere Mülltonne.",
+  "rechtschreibstrategie": "Das Wort „Müllauto\" ist zusammengesetzt aus „Müll\" und „Auto\". Schreib beide Teile einfach zusammen: Müll + Auto = Müllauto.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Müll",
+    "Auto"
+  ],
+  "bild_datei": "Müllauto.webp",
+  "audio_datei": "Müllauto.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Müllauto",
+    "plural": "die Müllautos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Müllauto",
+        "genitiv": "des Müllautos",
+        "dativ": "dem Müllauto",
+        "akkusativ": "das Müllauto"
+      },
+      "plural": {
+        "nominativ": "die Müllautos",
+        "genitiv": "der Müllautos",
+        "dativ": "den Müllautos",
+        "akkusativ": "die Müllautos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "garbage truck"
+    },
+    {
+      "language_code": "fr",
+      "translation": "camion poubelle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çöp arabası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة القمامة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Müll"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mülltonne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müllmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Recycling"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Müllwagen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Müllautto",
+    "Müllauto",
+    "Müllaudo",
+    "Mülauto",
+    "Müllautos"
+  ]
+}

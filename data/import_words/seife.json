@@ -1,0 +1,83 @@
+{
+  "lemma": "Seife",
+  "wortart": "Nomen",
+  "silben": "Sei-fe",
+  "begriffserklaerung": "Eine Seife ist ein Reinigungsmittel, das beim Waschen hilft, Schmutz und Bakterien von den Händen oder vom Körper zu entfernen.",
+  "beispielsatz": "Nach dem Spielen draußen wäscht Lena ihre Hände gründlich mit Seife.",
+  "rechtschreibstrategie": "Denk an das lange „ei\" wie in „zwei\" – Seife schreibt man mit „ei\", nicht mit „ai\" oder „ey\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "seif"
+  ],
+  "bild_datei": "Seife.webp",
+  "audio_datei": "Seife.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Seife",
+    "plural": "die Seifen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Seife",
+        "genitiv": "der Seife",
+        "dativ": "der Seife",
+        "akkusativ": "die Seife"
+      },
+      "plural": {
+        "nominativ": "die Seifen",
+        "genitiv": "der Seifen",
+        "dativ": "den Seifen",
+        "akkusativ": "die Seifen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "soap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "savon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sabun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صابون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "seifig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Seifenblase"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Shampoo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handtuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waschbecken"
+    }
+  ],
+  "fehlschreibungen": [
+    "Saife",
+    "Seiffe",
+    "Seyfe",
+    "Seife",
+    "Säife",
+    "Seifе"
+  ]
+}

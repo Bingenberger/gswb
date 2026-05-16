@@ -1,0 +1,84 @@
+{
+  "lemma": "Hauptsache",
+  "wortart": "Nomen",
+  "silben": "Haupt-sa-che",
+  "begriffserklaerung": "Die Hauptsache ist das Wichtigste von allem. Es ist das, worauf es wirklich ankommt.",
+  "beispielsatz": "Hauptsache, du bist gesund und glücklich!",
+  "rechtschreibstrategie": "„Hauptsache\" ist ein zusammengesetztes Wort aus „Haupt\" und „Sache\". Sprich beide Teile deutlich: HAUPT + SACHE. Das „pt\" am Ende von „Haupt\" hörst du beim Mitsprechen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haupt",
+    "Sache"
+  ],
+  "bild_datei": "Hauptsache.webp",
+  "audio_datei": "Hauptsache.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "main thing"
+    },
+    {
+      "language_code": "fr",
+      "translation": "l'essentiel"
+    },
+    {
+      "language_code": "tr",
+      "translation": "asıl mesele"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الشيء الأساسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haupt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sache"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wichtigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Inhalt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hauptsache",
+    "plural": "die Hauptsachen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hauptsache",
+        "genitiv": "der Hauptsache",
+        "dativ": "der Hauptsache",
+        "akkusativ": "die Hauptsache"
+      },
+      "plural": {
+        "nominativ": "die Hauptsachen",
+        "genitiv": "der Hauptsachen",
+        "dativ": "den Hauptsachen",
+        "akkusativ": "die Hauptsachen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haupsache",
+    "Hauptsashe",
+    "Hauptzache",
+    "Haupdsache",
+    "Haubtsache",
+    "Hauptsahce"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "Steinbock",
+  "wortart": "Nomen",
+  "silben": "Stein-bock",
+  "begriffserklaerung": "Ein Steinbock ist ein wildes Tier, das in den Bergen lebt. Er hat lange, gebogene Hörner und kann sehr gut klettern.",
+  "beispielsatz": "Der Steinbock klettert sicher über die steilen Felsen in den Alpen.",
+  "rechtschreibstrategie": "Steinbock ist ein Bausteinwort aus „Stein\" und „Bock\". Das „ck\" am Ende kommt nach dem kurzen Vokal „o\" – das ist ein Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stein",
+    "Bock"
+  ],
+  "bild_datei": "Steinbock.webp",
+  "audio_datei": "Steinbock.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ibex"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bouquetin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dağ keçisi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وعل الجبل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gämse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Adler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Alpen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Steinbock",
+    "plural": "die Steinböcke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Steinbock",
+        "genitiv": "des Steinbocks",
+        "dativ": "dem Steinbock",
+        "akkusativ": "den Steinbock"
+      },
+      "plural": {
+        "nominativ": "die Steinböcke",
+        "genitiv": "der Steinböcke",
+        "dativ": "den Steinböcken",
+        "akkusativ": "die Steinböcke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Steinbok",
+    "Steinbog",
+    "Stainbock",
+    "Steinbokk",
+    "Steimbock"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "lemma": "liefern",
+  "wortart": "Verb",
+  "silben": "lie-fern",
+  "begriffserklaerung": "Etwas liefern bedeutet, dass man eine Ware oder ein Paket zu jemandem bringt oder schickt.",
+  "beispielsatz": "Der Postbote liefert heute ein Paket an unsere Haustür.",
+  "rechtschreibstrategie": "Das Wort „liefern\" beginnt mit „lie\" – das ie sprichst du lang, wie in „Liebe\". Denk daran: lie-fern!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "grammatische_formen": {
+    "infinitiv": "liefern",
+    "praesens": {
+      "ich": "liefere",
+      "du": "lieferst",
+      "er_sie_es": "liefert",
+      "wir": "liefern",
+      "ihr": "liefert",
+      "sie": "liefern"
+    },
+    "perfekt": {
+      "ich": "habe geliefert",
+      "du": "hast geliefert",
+      "er_sie_es": "hat geliefert",
+      "wir": "haben geliefert",
+      "ihr": "habt geliefert",
+      "sie": "haben geliefert"
+    },
+    "praeteritum": {
+      "ich": "lieferte",
+      "du": "liefertest",
+      "er_sie_es": "lieferte",
+      "wir": "lieferten",
+      "ihr": "liefertet",
+      "sie": "lieferten"
+    }
+  },
+  "wortfamilie_basen": [
+    "liefern"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lieferung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lieferant"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "bringen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Paket"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bestellen"
+    }
+  ],
+  "fehlschreibungen": [
+    "liffern",
+    "lieffern",
+    "lifern",
+    "liefern",
+    "lihefern",
+    "liefen"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to deliver"
+    },
+    {
+      "language_code": "fr",
+      "translation": "livrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teslim etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُسلِّم"
+    }
+  ],
+  "bild_datei": "liefern.webp",
+  "audio_datei": "liefern.mp3"
+}

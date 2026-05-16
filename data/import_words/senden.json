@@ -1,0 +1,94 @@
+{
+  "lemma": "senden",
+  "wortart": "Verb",
+  "silben": "sen-den",
+  "begriffserklaerung": "Etwas senden bedeutet, etwas an eine andere Person oder einen anderen Ort zu schicken – zum Beispiel einen Brief, eine Nachricht oder ein Paket.",
+  "beispielsatz": "Lena sendet ihrer Oma eine bunte Postkarte aus dem Urlaub.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: sen-den. Du hörst ein kurzes „e\" vor dem „n\" – deshalb schreibt man es mit einfachem „n\" und nicht mit „nn\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "send"
+  ],
+  "bild_datei": "senden.webp",
+  "audio_datei": "senden.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to send"
+    },
+    {
+      "language_code": "fr",
+      "translation": "envoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "göndermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُرسِل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sendung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Absender"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schicken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brief"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Post"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "senden",
+    "praesens": {
+      "ich": "sende",
+      "du": "sendest",
+      "er_sie_es": "sendet",
+      "wir": "senden",
+      "ihr": "sendet",
+      "sie": "senden"
+    },
+    "perfekt": {
+      "ich": "habe gesendet",
+      "du": "hast gesendet",
+      "er_sie_es": "hat gesendet",
+      "wir": "haben gesendet",
+      "ihr": "habt gesendet",
+      "sie": "haben gesendet"
+    },
+    "praeteritum": {
+      "ich": "sendete",
+      "du": "sendetest",
+      "er_sie_es": "sendete",
+      "wir": "sendeten",
+      "ihr": "sendetet",
+      "sie": "sendeten"
+    }
+  },
+  "fehlschreibungen": [
+    "sennden",
+    "zenden",
+    "seneden",
+    "sennten",
+    "senten"
+  ]
+}

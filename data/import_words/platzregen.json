@@ -1,0 +1,92 @@
+{
+  "lemma": "Platzregen",
+  "wortart": "Nomen",
+  "silben": "Platz-re-gen",
+  "begriffserklaerung": "Ein Platzregen ist ein sehr starker Regen, der plötzlich und für kurze Zeit fällt. Dabei kommt sehr viel Wasser auf einmal vom Himmel.",
+  "beispielsatz": "Beim Spielen auf dem Schulhof wurden wir von einem Platzregen überrascht und waren sofort nass.",
+  "rechtschreibstrategie": "„Platzregen\" ist aus zwei Wörtern zusammengesetzt: „Platz\" und „Regen\". „Platz\" schreibt man mit tz, weil das a kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Platz",
+    "Regen"
+  ],
+  "bild_datei": "Platzregen.webp",
+  "audio_datei": "Platzregen.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Platzregen",
+    "plural": "die Platzregen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Platzregen",
+        "genitiv": "des Platzregens",
+        "dativ": "dem Platzregen",
+        "akkusativ": "den Platzregen"
+      },
+      "plural": {
+        "nominativ": "die Platzregen",
+        "genitiv": "der Platzregen",
+        "dativ": "den Platzregen",
+        "akkusativ": "die Platzregen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "downpour"
+    },
+    {
+      "language_code": "fr",
+      "translation": "averse"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sağanak yağmur"
+    },
+    {
+      "language_code": "ar",
+      "translation": "زخة مطر غزيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Starkregen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regenschauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewitter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolkenbruch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wetter"
+    }
+  ],
+  "fehlschreibungen": [
+    "Platzsregen",
+    "Plazregen",
+    "Platsregen",
+    "Plazzregen",
+    "Platzrägen"
+  ]
+}

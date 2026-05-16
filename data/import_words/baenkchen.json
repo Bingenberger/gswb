@@ -1,0 +1,83 @@
+{
+  "lemma": "Bänkchen",
+  "wortart": "Nomen",
+  "silben": "Bänk-chen",
+  "begriffserklaerung": "Ein Bänkchen ist eine kleine Bank, auf der man sitzen kann.",
+  "beispielsatz": "Im Park steht ein kleines Bänkchen unter dem Baum.",
+  "rechtschreibstrategie": "Denke an das große Wort „Bank\" – daraus wird „Bänkchen\". Das ä kommt vom Umlaut des a in „Bank\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Bank"
+  ],
+  "bild_datei": "Bänkchen.webp",
+  "audio_datei": "Bänkchen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bänkchen",
+    "plural": "die Bänkchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bänkchen",
+        "genitiv": "des Bänkchens",
+        "dativ": "dem Bänkchen",
+        "akkusativ": "das Bänkchen"
+      },
+      "plural": {
+        "nominativ": "die Bänkchen",
+        "genitiv": "der Bänkchen",
+        "dativ": "den Bänkchen",
+        "akkusativ": "die Bänkchen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little bench"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit banc"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük bank"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقعد صغير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bänke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sitzplatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sitzbänkchen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Benkchen",
+    "Bänkhen",
+    "Bängchen",
+    "Bänkken",
+    "Bänchen"
+  ]
+}

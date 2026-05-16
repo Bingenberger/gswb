@@ -1,0 +1,82 @@
+{
+  "lemma": "Ritter",
+  "wortart": "Nomen",
+  "silben": "Rit-ter",
+  "begriffserklaerung": "Ein Ritter war früher ein tapferer Kämpfer, der eine glänzende Rüstung trug und auf einem Pferd ritt. Ritter lebten auf Burgen und dienten einem König oder einer Königin.",
+  "beispielsatz": "Der mutige Ritter ritt auf seinem weißen Pferd zur Burg.",
+  "rechtschreibstrategie": "„Ritter\" schreibt man mit Doppel-t, weil das i kurz gesprochen wird. Sprich es deutlich: Rit-ter!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Ritt"
+  ],
+  "bild_datei": "Ritter.webp",
+  "audio_datei": "Ritter.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ritter",
+    "plural": "die Ritter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ritter",
+        "genitiv": "des Ritters",
+        "dativ": "dem Ritter",
+        "akkusativ": "den Ritter"
+      },
+      "plural": {
+        "nominativ": "die Ritter",
+        "genitiv": "der Ritter",
+        "dativ": "den Rittern",
+        "akkusativ": "die Ritter"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "knight"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chevalier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şövalye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فارس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ritt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "reiten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Burg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rüstung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwert"
+    }
+  ],
+  "fehlschreibungen": [
+    "Riter",
+    "Ritar",
+    "Ritter",
+    "Ridder",
+    "Rieter"
+  ]
+}

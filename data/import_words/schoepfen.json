@@ -1,0 +1,87 @@
+{
+  "lemma": "Schöpfen",
+  "wortart": "Nomen",
+  "silben": "Schöp-fen",
+  "begriffserklaerung": "Das Schöpfen ist das Herausnehmen von Flüssigkeit mit einem Löffel, einer Kelle oder einem Eimer. Man schöpft zum Beispiel Suppe aus einem Topf.",
+  "beispielsatz": "Beim Schöpfen der Suppe muss ich aufpassen, dass ich nichts verschütte.",
+  "rechtschreibstrategie": "Denk an das kurze „ö\" in „schöpf\" – danach kommt ein „p\" und dann ein „f\". Sprich das Wort laut: Schöp-fen. Das „p\" und das „f\" hörst du beide deutlich.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "schöpf"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schöpfen",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schöpfen",
+        "genitiv": "des Schöpfens",
+        "dativ": "dem Schöpfen",
+        "akkusativ": "das Schöpfen"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schöpffen",
+    "Schöpfenn",
+    "Schöphen",
+    "Schöpfn",
+    "Schepfen",
+    "Schöpfen"
+  ],
+  "bild_datei": "Schöpfen.webp",
+  "audio_datei": "Schöpfen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scooping / ladling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "puiser / écoper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kepçeyle almak / su çekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الغرف / الاغتراف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schöpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schöpfer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schöpfkelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kochen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Suppe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Entnehmen"
+    }
+  ]
+}

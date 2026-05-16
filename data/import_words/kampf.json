@@ -1,0 +1,91 @@
+{
+  "lemma": "Kampf",
+  "wortart": "Nomen",
+  "silben": "Kampf",
+  "begriffserklaerung": "Ein Kampf ist ein Streit oder ein Wettkampf, bei dem zwei oder mehr Personen oder Gruppen gegeneinander antreten oder um etwas ringen.",
+  "beispielsatz": "Die beiden Ritter trugen einen fairen Kampf aus.",
+  "rechtschreibstrategie": "Das Wort „Kampf\" endet auf „mpf\" – sprich es laut mit: K-a-m-p-f. So hörst du alle Buchstaben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "kämpf",
+    "Kampf"
+  ],
+  "bild_datei": "Kampf.webp",
+  "audio_datei": "Kampf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fight / struggle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "combat / lutte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "savaş / mücadele"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قتال / نضال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kämpfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kämpfer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Streit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krieg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sieg"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kampf",
+    "plural": "die Kämpfe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kampf",
+        "genitiv": "des Kampfes",
+        "dativ": "dem Kampf",
+        "akkusativ": "den Kampf"
+      },
+      "plural": {
+        "nominativ": "die Kämpfe",
+        "genitiv": "der Kämpfe",
+        "dativ": "den Kämpfen",
+        "akkusativ": "die Kämpfe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Campf",
+    "Kambf",
+    "Kampff",
+    "Kamf",
+    "Kamp"
+  ]
+}

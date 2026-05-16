@@ -1,0 +1,81 @@
+{
+  "lemma": "Dose",
+  "wortart": "Nomen",
+  "silben": "Do-se",
+  "begriffserklaerung": "Eine Dose ist ein rundes Behältnis aus Metall oder Kunststoff mit einem Deckel. Darin kann man Lebensmittel, Getränke oder andere Dinge aufbewahren.",
+  "beispielsatz": "Mama öffnet eine Dose mit Tomaten für die Soße.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Do-se\". Nach dem langen „o\" kommt nur ein „s\" – kein Doppel-s!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Dose"
+  ],
+  "bild_datei": "Dose.webp",
+  "audio_datei": "Dose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Dose",
+    "plural": "die Dosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Dose",
+        "genitiv": "der Dose",
+        "dativ": "der Dose",
+        "akkusativ": "die Dose"
+      },
+      "plural": {
+        "nominativ": "die Dosen",
+        "genitiv": "der Dosen",
+        "dativ": "den Dosen",
+        "akkusativ": "die Dosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "can / tin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boîte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kutu / teneke"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عُلبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Döschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dosenöffner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Büchse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Behälter"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Büchse"
+    }
+  ],
+  "fehlschreibungen": [
+    "Dosse",
+    "Dohse",
+    "Doze",
+    "dose"
+  ]
+}

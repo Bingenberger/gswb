@@ -1,0 +1,85 @@
+{
+  "lemma": "Tor",
+  "wortart": "Nomen",
+  "silben": "Tor",
+  "begriffserklaerung": "Ein Tor ist eine große Öffnung in einem Zaun oder einer Mauer, durch die man hindurchgehen oder -fahren kann. Beim Fußball ist das Tor das Gestell aus Pfosten und Netz, in das man den Ball schießt.",
+  "beispielsatz": "Der Stürmer schoss den Ball ins Tor und alle jubelten laut.",
+  "rechtschreibstrategie": "„Tor\" hat nur eine Silbe. Sprich es laut: Du hörst ein langes „o\". Deshalb schreibt man nur ein „r\" – kein Doppel-r!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Tor"
+  ],
+  "bild_datei": "Tor.webp",
+  "audio_datei": "Tor.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gate / goal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "portail / but"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kapı / kale"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بوابة / مرمى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Torwart"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Torschuss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Netz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfosten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Einfahrt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Tor",
+    "plural": "die Tore",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tor",
+        "genitiv": "des Tores",
+        "dativ": "dem Tor",
+        "akkusativ": "das Tor"
+      },
+      "plural": {
+        "nominativ": "die Tore",
+        "genitiv": "der Tore",
+        "dativ": "den Toren",
+        "akkusativ": "die Tore"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Torr",
+    "Tohr",
+    "Toor",
+    "Thor"
+  ]
+}

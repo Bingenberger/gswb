@@ -1,0 +1,89 @@
+{
+  "lemma": "Fahrbahn",
+  "wortart": "Nomen",
+  "silben": "Fahr-bahn",
+  "begriffserklaerung": "Die Fahrbahn ist der Teil der Straße, auf dem Autos, Busse und andere Fahrzeuge fahren.",
+  "beispielsatz": "Die Kinder warten am Gehweg, bis keine Autos mehr auf der Fahrbahn sind.",
+  "rechtschreibstrategie": "„Fahrbahn\" besteht aus zwei Bausteinen: „fahr\" (von fahren) und „Bahn\". Sprich beide Teile einzeln: FAHR + BAHN.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "fahr",
+    "Bahn"
+  ],
+  "bild_datei": "Fahrbahn.webp",
+  "audio_datei": "Fahrbahn.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fahrbahn",
+    "plural": "die Fahrbahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fahrbahn",
+        "genitiv": "der Fahrbahn",
+        "dativ": "der Fahrbahn",
+        "akkusativ": "die Fahrbahn"
+      },
+      "plural": {
+        "nominativ": "die Fahrbahnen",
+        "genitiv": "der Fahrbahnen",
+        "dativ": "den Fahrbahnen",
+        "akkusativ": "die Fahrbahnen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "road / carriageway"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chaussée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "taşıt yolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسار السيارات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Straße"
+    }
+  ],
+  "fehlschreibungen": [
+    "Farbahn",
+    "Fahrebahn",
+    "Fahrbann",
+    "Fahrbahnn",
+    "Farbahnn",
+    "Fahrbahn"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "lemma": "Ball",
+  "wortart": "Nomen",
+  "silben": "Ball",
+  "begriffserklaerung": "Ein Ball ist ein rundes Spielzeug, das man werfen, fangen, treten oder prellen kann.",
+  "beispielsatz": "Leon schießt den Ball ins Tor.",
+  "rechtschreibstrategie": "Das Wort „Ball\" hat nach dem kurzen „a\" zwei „l\" – das zeigt dir das Kürzezeichen: kurzer Vokal, doppelter Buchstabe!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Ball",
+    "plural": "die Bälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Ball",
+        "genitiv": "des Balles",
+        "dativ": "dem Ball",
+        "akkusativ": "den Ball"
+      },
+      "plural": {
+        "nominativ": "die Bälle",
+        "genitiv": "der Bälle",
+        "dativ": "den Bällen",
+        "akkusativ": "die Bälle"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Ball"
+  ],
+  "fehlschreibungen": [
+    "Bal",
+    "Baal",
+    "Baall",
+    "Bahl"
+  ],
+  "bild_datei": "Ball.webp",
+  "audio_datei": "Ball.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ball"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ballon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "top"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ballen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ballon"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fußball"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kugel"
+    }
+  ]
+}

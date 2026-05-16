@@ -1,0 +1,75 @@
+{
+  "lemma": "Tram",
+  "wortart": "Nomen",
+  "silben": "Tram",
+  "begriffserklaerung": "Eine Tram ist ein Fahrzeug, das auf Schienen fährt und Menschen in der Stadt von einer Haltestelle zur nächsten bringt.",
+  "beispielsatz": "Wir steigen an der Haltestelle in die Tram ein und fahren bis zum Marktplatz.",
+  "rechtschreibstrategie": "„Tram\" ist ein kurzes Wort mit nur einer Silbe – sprich es laut mit: Tram. Denke daran, dass es mit großem T geschrieben wird, weil es ein Nomen ist.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Tram.webp",
+  "audio_datei": "Tram.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tram"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tramway"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tramvay"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ترام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straßenbahn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haltestelle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Straßenbahn"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tram",
+    "plural": "die Trams",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tram",
+        "genitiv": "der Tram",
+        "dativ": "der Tram",
+        "akkusativ": "die Tram"
+      },
+      "plural": {
+        "nominativ": "die Trams",
+        "genitiv": "der Trams",
+        "dativ": "den Trams",
+        "akkusativ": "die Trams"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trahm",
+    "Tramm",
+    "Dram",
+    "Tram's"
+  ]
+}

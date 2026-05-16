@@ -1,0 +1,88 @@
+{
+  "lemma": "Rotkohl",
+  "wortart": "Nomen",
+  "silben": "Rot-kohl",
+  "begriffserklaerung": "Rotkohl ist ein rundes Gemüse mit dunkelvioletten Blättern. Es wächst auf dem Feld und schmeckt leicht süßlich. Man isst es oft als Beilage zum Mittag­essen.",
+  "beispielsatz": "Zu Weihnachten gibt es bei uns immer Rotkohl mit Klößen.",
+  "rechtschreibstrategie": "Rotkohl ist ein zusammengesetztes Wort aus „rot\" und „Kohl\". Sprich beide Teile deutlich: ROT-KOHL. Am Ende hörst du ein langes „o\" – das schreibst du einfach mit „oh\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Kohl",
+    "rot"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Rotkohl",
+    "plural": "die Rotkohlsorten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Rotkohl",
+        "genitiv": "des Rotkohls",
+        "dativ": "dem Rotkohl",
+        "akkusativ": "den Rotkohl"
+      },
+      "plural": {
+        "nominativ": "die Rotkohlsorten",
+        "genitiv": "der Rotkohlsorten",
+        "dativ": "den Rotkohlsorten",
+        "akkusativ": "die Rotkohlsorten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Rodkohl",
+    "Rotkol",
+    "Rottkoohl",
+    "Rohtkohl",
+    "Rotkoohl"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "red cabbage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chou rouge"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kırmızı lahana"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ملفوف أحمر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kohl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rot"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blaukraut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Weißkohl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gemüse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Beilage"
+    }
+  ],
+  "bild_datei": "Rotkohl.webp",
+  "audio_datei": "Rotkohl.mp3"
+}

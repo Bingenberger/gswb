@@ -1,0 +1,91 @@
+{
+  "lemma": "Bindung",
+  "wortart": "Nomen",
+  "silben": "Bin-dung",
+  "begriffserklaerung": "Eine Bindung ist eine starke Verbindung zwischen Menschen, Dingen oder auch Teilen – zum Beispiel wenn man jemanden sehr lieb hat oder wenn etwas fest zusammengehalten wird.",
+  "beispielsatz": "Die Bindung zwischen Lisa und ihrem Hund ist sehr stark.",
+  "rechtschreibstrategie": "Denk an das Verb „binden\": Bin-dung – das „d\" hörst du beim Verlängern deutlich!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bind"
+  ],
+  "bild_datei": "Bindung.webp",
+  "audio_datei": "Bindung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bindung",
+    "plural": "die Bindungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bindung",
+        "genitiv": "der Bindung",
+        "dativ": "der Bindung",
+        "akkusativ": "die Bindung"
+      },
+      "plural": {
+        "nominativ": "die Bindungen",
+        "genitiv": "der Bindungen",
+        "dativ": "den Bindungen",
+        "akkusativ": "die Bindungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bond / binding"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lien / attache"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bağ / bağlantı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رابطة / ارتباط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Verband"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verbindung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Liebe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vertrauen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bintung",
+    "Bindunk",
+    "Bindunng",
+    "Bingdung",
+    "Binnding"
+  ]
+}

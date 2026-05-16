@@ -1,0 +1,83 @@
+{
+  "lemma": "Gewürz",
+  "wortart": "Nomen",
+  "silben": "Ge-würz",
+  "begriffserklaerung": "Ein Gewürz ist etwas, das man beim Kochen zum Essen gibt, damit es besonders lecker schmeckt. Bekannte Gewürze sind zum Beispiel Salz, Pfeffer oder Zimt.",
+  "beispielsatz": "Mama gibt ein bisschen Gewürz in die Suppe, damit sie besser schmeckt.",
+  "rechtschreibstrategie": "Denk an das Wort „würzig\" – dann hörst du das ü deutlich. Und am Ende schreibst du ein stimmloses s, also ß, weil der Vokal davor kurz ist.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ß",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "würz"
+  ],
+  "bild_datei": "Gewürz.webp",
+  "audio_datei": "Gewürz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gewürz",
+    "plural": "die Gewürze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewürz",
+        "genitiv": "des Gewürzes",
+        "dativ": "dem Gewürz",
+        "akkusativ": "das Gewürz"
+      },
+      "plural": {
+        "nominativ": "die Gewürze",
+        "genitiv": "der Gewürze",
+        "dativ": "den Gewürzen",
+        "akkusativ": "die Gewürze"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spice"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épice"
+    },
+    {
+      "language_code": "tr",
+      "translation": "baharat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بهار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "würzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "würzig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pfeffer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimt"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gewürts",
+    "Gewürs",
+    "Gewurz",
+    "Gewürzz",
+    "Gewirz"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Deutsche",
+  "wortart": "Nomen",
+  "silben": "Deut-sche",
+  "begriffserklaerung": "Eine Deutsche ist eine Frau oder ein Mädchen, das aus Deutschland kommt oder die deutsche Staatsangehörigkeit hat.",
+  "beispielsatz": "Meine Freundin ist eine Deutsche und wohnt in München.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Deut-sche\". Am Anfang hörst du „eu\" – das schreibst du mit e-u. Das „t\" am Ende von „Deut\" hörst du beim Verlängern: „Deut-sche\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "deutsch"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Deutsche",
+    "plural": "die Deutschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Deutsche",
+        "genitiv": "der Deutschen",
+        "dativ": "der Deutschen",
+        "akkusativ": "die Deutsche"
+      },
+      "plural": {
+        "nominativ": "die Deutschen",
+        "genitiv": "der Deutschen",
+        "dativ": "den Deutschen",
+        "akkusativ": "die Deutschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Deitsche",
+    "Deusche",
+    "Deutche",
+    "Deutsce",
+    "Däutsche"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "deutsch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutschland"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Deutscher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staatsbürger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nationalität"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Europäerin"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "German woman / German girl"
+    },
+    {
+      "language_code": "fr",
+      "translation": "Allemande"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Alman kadın / Alman kız"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ألمانية"
+    }
+  ],
+  "bild_datei": "Deutsche.webp",
+  "audio_datei": "Deutsche.mp3"
+}

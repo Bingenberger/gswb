@@ -1,0 +1,74 @@
+{
+  "lemma": "Messer",
+  "wortart": "Nomen",
+  "silben": "Mes-ser",
+  "begriffserklaerung": "Ein Messer ist ein Werkzeug mit einem scharfen Metallblatt und einem Griff. Man benutzt es zum Schneiden von Brot, Gemüse oder anderen Dingen.",
+  "beispielsatz": "Mama schneidet das Brot mit einem scharfen Messer.",
+  "rechtschreibstrategie": "Das Wort „Messer\" hat ein kurzes „e\" am Anfang – deshalb schreibt man doppeltes „ss\". Sprich es laut: Mes-ser!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Messer"
+  ],
+  "bild_datei": "Messer.webp",
+  "audio_datei": "Messer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "knife"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bıçak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سكين"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taschenmesser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Messer",
+    "plural": "die Messer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Messer",
+        "genitiv": "des Messers",
+        "dativ": "dem Messer",
+        "akkusativ": "das Messer"
+      },
+      "plural": {
+        "nominativ": "die Messer",
+        "genitiv": "der Messer",
+        "dativ": "den Messern",
+        "akkusativ": "die Messer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Messer",
+    "Mässer",
+    "Mesßer",
+    "Meser",
+    "Meeser"
+  ]
+}

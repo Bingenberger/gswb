@@ -1,0 +1,83 @@
+{
+  "lemma": "Schwerkraft",
+  "wortart": "Nomen",
+  "silben": "Schwe-r-kraft",
+  "begriffserklaerung": "Die Schwerkraft ist eine unsichtbare Kraft, die alle Dinge auf der Erde nach unten zieht. Deshalb fällt ein Ball immer zu Boden, wenn du ihn loslässt.",
+  "beispielsatz": "Wegen der Schwerkraft fällt der Apfel vom Baum nach unten.",
+  "rechtschreibstrategie": "Das Wort „Schwerkraft\" ist ein zusammengesetztes Wort aus „schwer\" und „Kraft\". Schreibe einfach beide Wörter zusammen: schwer + Kraft = Schwerkraft.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schwer",
+    "Kraft"
+  ],
+  "bild_datei": "Schwerkraft.webp",
+  "audio_datei": "Schwerkraft.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "gravity"
+    },
+    {
+      "language_code": "fr",
+      "translation": "gravité"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yerçekimi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الجاذبية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anziehungskraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gewicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Erdanziehung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schwerkraft",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schwerkraft",
+        "genitiv": "der Schwerkraft",
+        "dativ": "der Schwerkraft",
+        "akkusativ": "die Schwerkraft"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schwärkraft",
+    "Shwerkraft",
+    "Schwerkrafft",
+    "Schwehrkraft",
+    "Schwercraft"
+  ]
+}

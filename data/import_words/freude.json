@@ -1,0 +1,93 @@
+{
+  "lemma": "Freude",
+  "wortart": "Nomen",
+  "silben": "Freu-de",
+  "begriffserklaerung": "Freude ist das schöne Gefühl, das du hast, wenn dir etwas Tolles passiert oder du etwas sehr magst.",
+  "beispielsatz": "Die Freude über das Geschenk war riesig!",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Freu-de. Am Ende hörst du ein weiches „e\". Denk daran: Freude hat kein „t\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "freuen",
+    "froh"
+  ],
+  "bild_datei": "Freude.webp",
+  "audio_datei": "Freude.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "joy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "joie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sevinç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فرح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "freuen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "freudig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Glück"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Begeisterung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lachen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Glücksgefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fest"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Freude",
+    "plural": "die Freuden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Freude",
+        "genitiv": "der Freude",
+        "dativ": "der Freude",
+        "akkusativ": "die Freude"
+      },
+      "plural": {
+        "nominativ": "die Freuden",
+        "genitiv": "der Freuden",
+        "dativ": "den Freuden",
+        "akkusativ": "die Freuden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Freuде",
+    "Freude",
+    "Freute",
+    "Freut",
+    "Freüde",
+    "Frreude",
+    "Freuede"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Flussbett",
+  "wortart": "Nomen",
+  "silben": "Fluss-bett",
+  "begriffserklaerung": "Das Flussbett ist die Vertiefung im Boden, in der ein Fluss fließt. Es besteht meist aus Sand, Kies oder Steinen.",
+  "beispielsatz": "Nach dem starken Regen füllte sich das Flussbett wieder mit Wasser.",
+  "rechtschreibstrategie": "„Flussbett\" ist ein zusammengesetztes Wort aus „Fluss\" und „Bett\". Beide Wörter hintereinander – und weil „Fluss\" auf -ss endet und „Bett\" mit B beginnt, stehen drei Konsonanten zusammen: ss + B.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "Fluss",
+    "Bett"
+  ],
+  "bild_datei": "Flussbett.webp",
+  "audio_datei": "Flussbett.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Flussbett",
+    "plural": "die Flussbetten",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Flussbett",
+        "genitiv": "des Flussbettes",
+        "dativ": "dem Flussbett",
+        "akkusativ": "das Flussbett"
+      },
+      "plural": {
+        "nominativ": "die Flussbetten",
+        "genitiv": "der Flussbetten",
+        "dativ": "den Flussbetten",
+        "akkusativ": "die Flussbetten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "riverbed"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lit de rivière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "nehir yatağı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مجرى النهر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bett"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ufer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strömung"
+    }
+  ],
+  "fehlschreibungen": [
+    "Flusbett",
+    "Flusbet",
+    "Flussbeth",
+    "Flußbett",
+    "Flussbett"
+  ]
+}

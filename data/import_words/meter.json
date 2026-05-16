@@ -1,0 +1,82 @@
+{
+  "lemma": "Meter",
+  "wortart": "Nomen",
+  "silben": "Me-ter",
+  "begriffserklaerung": "Ein Meter ist eine Maßeinheit für Längen. Mit einem Metermaß kannst du messen, wie lang oder groß etwas ist.",
+  "beispielsatz": "Der Tisch ist einen Meter lang.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Me – ter. Am Ende hörst du ein weiches „er\" – schreib es mit „er\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Meter"
+  ],
+  "bild_datei": "Meter.webp",
+  "audio_datei": "Meter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "meter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mètre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "metre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kilometer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zentimeter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Länge"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maßband"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Meter",
+    "plural": "die Meter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Meter",
+        "genitiv": "des Meters",
+        "dativ": "dem Meter",
+        "akkusativ": "den Meter"
+      },
+      "plural": {
+        "nominativ": "die Meter",
+        "genitiv": "der Meter",
+        "dativ": "den Metern",
+        "akkusativ": "die Meter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Meeter",
+    "Mehter",
+    "Mäter",
+    "Metar",
+    "Metter"
+  ]
+}

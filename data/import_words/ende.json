@@ -1,0 +1,90 @@
+{
+  "lemma": "Ende",
+  "wortart": "Nomen",
+  "silben": "En-de",
+  "begriffserklaerung": "Das Ende ist der letzte Teil von etwas. Nach dem Ende kommt nichts mehr – zum Beispiel das Ende einer Geschichte oder einer Straße.",
+  "beispielsatz": "Am Ende des Buches sind alle Kinder glücklich.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „En-de\". Du hörst zwei Silben. Schreibe es genau so, wie du es sprichst – mit „e\" am Anfang und „e\" am Ende.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "end"
+  ],
+  "bild_datei": "Ende.webp",
+  "audio_datei": "Ende.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Ende",
+    "plural": "die Enden",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Ende",
+        "genitiv": "des Endes",
+        "dativ": "dem Ende",
+        "akkusativ": "das Ende"
+      },
+      "plural": {
+        "nominativ": "die Enden",
+        "genitiv": "der Enden",
+        "dativ": "den Enden",
+        "akkusativ": "die Enden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "end"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "son"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نهاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "enden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "endlich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Abschluss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anfang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ente",
+    "Ennde",
+    "Ände",
+    "Ende",
+    "Aende"
+  ]
+}

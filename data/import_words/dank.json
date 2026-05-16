@@ -1,0 +1,86 @@
+{
+  "lemma": "Dank",
+  "wortart": "Nomen",
+  "silben": "Dank",
+  "begriffserklaerung": "Dank ist das, was du jemandem zeigst, wenn er dir geholfen hat oder etwas Nettes für dich getan hat.",
+  "beispielsatz": "Lena sagt herzlichen Dank, weil ihr Freund ihr beim Lernen geholfen hat.",
+  "rechtschreibstrategie": "Das Wort „Dank\" endet auf -nk. Sprich es laut aus: Du hörst am Ende zwei Mitlaute – n und k. Schreib beide!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "dank"
+  ],
+  "bild_datei": "Dank.webp",
+  "audio_datei": "Dank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thanks / gratitude"
+    },
+    {
+      "language_code": "fr",
+      "translation": "remerciement / gratitude"
+    },
+    {
+      "language_code": "tr",
+      "translation": "teşekkür / şükran"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شُكْر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "danken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dankbar"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anerkennung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lob"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Freundlichkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Höflichkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dank",
+    "plural": "die Danke",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dank",
+        "genitiv": "des Dankes",
+        "dativ": "dem Dank",
+        "akkusativ": "den Dank"
+      },
+      "plural": {
+        "nominativ": "die Danke",
+        "genitiv": "der Danke",
+        "dativ": "den Danken",
+        "akkusativ": "die Danke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Danck",
+    "Dankk",
+    "Tank",
+    "Dang",
+    "Danke"
+  ]
+}

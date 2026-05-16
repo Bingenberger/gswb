@@ -1,0 +1,82 @@
+{
+  "lemma": "Kakao",
+  "wortart": "Nomen",
+  "silben": "Ka-kao",
+  "begriffserklaerung": "Kakao ist ein braunes Pulver oder ein warmes Getränk aus Kakaobohnen. Es schmeckt schokoladig und oft süß.",
+  "beispielsatz": "Am Morgen trinke ich gerne eine Tasse warmen Kakao.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Ka-kao. Am Ende hörst du „ao\" – beide Vokale werden nacheinander geschrieben. Denk daran: kein „h\" und kein „qu\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Kakao"
+  ],
+  "bild_datei": "Kakao.webp",
+  "audio_datei": "Kakao.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kakao",
+    "plural": "die Kakaos",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kakao",
+        "genitiv": "des Kakaos",
+        "dativ": "dem Kakao",
+        "akkusativ": "den Kakao"
+      },
+      "plural": {
+        "nominativ": "die Kakaos",
+        "genitiv": "der Kakaos",
+        "dativ": "den Kakaos",
+        "akkusativ": "die Kakaos"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cocoa"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cacao"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kakao"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كاكاو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kakaobohne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kakaopulver"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schokolade"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Milch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Trinkschokolade"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kakau",
+    "Kakow",
+    "Cacao",
+    "Cacau",
+    "Kacao"
+  ]
+}

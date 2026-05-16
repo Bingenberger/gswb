@@ -1,0 +1,92 @@
+{
+  "lemma": "Abstieg",
+  "wortart": "Nomen",
+  "silben": "Ab-stieg",
+  "begriffserklaerung": "Ein Abstieg ist der Weg nach unten, zum Beispiel wenn man einen Berg hinuntergeht.",
+  "beispielsatz": "Der Abstieg vom Berg war steil und anstrengend.",
+  "rechtschreibstrategie": "Das Wort „Abstieg\" hat das Dehnungs-ie: stieg. Denk daran: Nach dem „t\" kommt „ie\", nicht nur „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "steig"
+  ],
+  "bild_datei": "Abstieg.webp",
+  "audio_datei": "Abstieg.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abstieg",
+    "plural": "die Abstiege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abstieg",
+        "genitiv": "des Abstiegs",
+        "dativ": "dem Abstieg",
+        "akkusativ": "den Abstieg"
+      },
+      "plural": {
+        "nominativ": "die Abstiege",
+        "genitiv": "der Abstiege",
+        "dativ": "den Abstiegen",
+        "akkusativ": "die Abstiege"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "descent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "descente"
+    },
+    {
+      "language_code": "tr",
+      "translation": "iniş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نزول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufstieg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "steigen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Einstieg"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hinabweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Treppe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Abstick",
+    "Absteig",
+    "Abstik",
+    "Abshtieg",
+    "Abstiegg"
+  ]
+}

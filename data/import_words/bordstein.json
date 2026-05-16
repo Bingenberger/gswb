@@ -1,0 +1,78 @@
+{
+  "lemma": "Bordstein",
+  "wortart": "Nomen",
+  "silben": "Bord-stein",
+  "begriffserklaerung": "Ein Bordstein ist der erhöhte Rand aus Stein, der den Gehweg von der Straße trennt.",
+  "beispielsatz": "Lea setzt sich auf den Bordstein und wartet auf ihre Mutter.",
+  "rechtschreibstrategie": "„Bordstein\" ist ein zusammengesetztes Wort aus „Bord\" und „Stein\". Schreib beide Teile einfach hintereinander.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stein"
+  ],
+  "bild_datei": "Bordstein.webp",
+  "audio_datei": "Bordstein.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "curb / kerb"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bordure de trottoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaldırım taşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حافة الرصيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gehweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Straße"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgersteig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bordstein",
+    "plural": "die Bordsteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bordstein",
+        "genitiv": "des Bordsteins",
+        "dativ": "dem Bordstein",
+        "akkusativ": "den Bordstein"
+      },
+      "plural": {
+        "nominativ": "die Bordsteine",
+        "genitiv": "der Bordsteine",
+        "dativ": "den Bordsteinen",
+        "akkusativ": "die Bordsteine"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Borstein",
+    "Bortstein",
+    "Bordshtein",
+    "Boordstein",
+    "Bordsten"
+  ]
+}

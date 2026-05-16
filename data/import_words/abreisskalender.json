@@ -1,0 +1,85 @@
+{
+  "lemma": "Abreißkalender",
+  "wortart": "Nomen",
+  "silben": "Ab-reiß-ka-len-der",
+  "begriffserklaerung": "Ein Abreißkalender ist ein Kalender, bei dem du jeden Tag ein Blatt abreißt. Auf jedem Blatt steht ein neues Datum.",
+  "beispielsatz": "Jeden Morgen reißt Oma ein Blatt vom Abreißkalender ab, um den neuen Tag zu begrüßen.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Teilen: „ab\" + „reiß\" + „Kalender\". Das „ß\" in „reiß\" kommt nach dem langen Vokal „ei\". Sprich die Teile einzeln: AB-REISS-KA-LEN-DER.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "reiß",
+    "Kalender"
+  ],
+  "bild_datei": "Abreißkalender.webp",
+  "audio_datei": "Abreißkalender.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tear-off calendar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "calendrier à effeuiller"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koparmalı takvim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تقويم الأيام القابلة للتقطير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abreißen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wandkalender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Datum"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tageskalender"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Abreißkalender",
+    "plural": "die Abreißkalender",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Abreißkalender",
+        "genitiv": "des Abreißkalenders",
+        "dativ": "dem Abreißkalender",
+        "akkusativ": "den Abreißkalender"
+      },
+      "plural": {
+        "nominativ": "die Abreißkalender",
+        "genitiv": "der Abreißkalender",
+        "dativ": "den Abreißkalendern",
+        "akkusativ": "die Abreißkalender"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Abreiskalender",
+    "Abreißcalender",
+    "Abreibkalender",
+    "Abreisßkalender",
+    "Abrreißkalender",
+    "Abreißkallender"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Feuerplatz",
+  "wortart": "Nomen",
+  "silben": "Feu-er-platz",
+  "begriffserklaerung": "Ein Feuerplatz ist ein besonderer Ort im Freien oder in einem Gebäude, an dem man ein Feuer machen und sich wärmen kann.",
+  "beispielsatz": "Am Abend saßen wir alle zusammen am Feuerplatz und rösteten Stockbrot.",
+  "rechtschreibstrategie": "Das Wort „Feuerplatz\" besteht aus zwei Teilen: „Feuer\" und „Platz\". Sprich beide Teile einzeln, dann kannst du das Wort richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Feuer",
+    "Platz"
+  ],
+  "bild_datei": "Feuerplatz.webp",
+  "audio_datei": "Feuerplatz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fireplace / fire pit"
+    },
+    {
+      "language_code": "fr",
+      "translation": "foyer / emplacement de feu"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateş yeri / şömine"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقد النار / مكان النار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Feuer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Platz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Feuerstelle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lagerfeuer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Grillplatz"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Feuerplatz",
+    "plural": "die Feuerplätze",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Feuerplatz",
+        "genitiv": "des Feuerplatzes",
+        "dativ": "dem Feuerplatz",
+        "akkusativ": "den Feuerplatz"
+      },
+      "plural": {
+        "nominativ": "die Feuerplätze",
+        "genitiv": "der Feuerplätze",
+        "dativ": "den Feuerplätzen",
+        "akkusativ": "die Feuerplätze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Feuerplaz",
+    "Feuerplats",
+    "Feuirplatz",
+    "Fewerplatz",
+    "Feueplatz",
+    "Feuerplattz"
+  ]
+}

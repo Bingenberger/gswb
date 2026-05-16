@@ -1,0 +1,79 @@
+{
+  "lemma": "Hälfte",
+  "wortart": "Nomen",
+  "silben": "Häl-fte",
+  "begriffserklaerung": "Eine Hälfte ist einer von zwei gleich großen Teilen, in die man etwas aufteilt.",
+  "beispielsatz": "Ich gebe dir die Hälfte meines Apfels.",
+  "rechtschreibstrategie": "Denk an das Wort „halb\" – daraus wird „Häl-fte\". Das ä kommt vom a in „halb\"!",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "halb"
+  ],
+  "bild_datei": "Hälfte.webp",
+  "audio_datei": "Hälfte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "half"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moitié"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yarı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نصف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halb"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "halbieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Viertel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teil"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hälfte",
+    "plural": "die Hälften",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hälfte",
+        "genitiv": "der Hälfte",
+        "dativ": "der Hälfte",
+        "akkusativ": "die Hälfte"
+      },
+      "plural": {
+        "nominativ": "die Hälften",
+        "genitiv": "der Hälften",
+        "dativ": "den Hälften",
+        "akkusativ": "die Hälften"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Helfte",
+    "Hälfte",
+    "Hälfde",
+    "Hälte",
+    "Helfde",
+    "Häflte"
+  ]
+}

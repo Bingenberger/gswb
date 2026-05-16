@@ -1,0 +1,82 @@
+{
+  "lemma": "Gans",
+  "wortart": "Nomen",
+  "silben": "Gans",
+  "begriffserklaerung": "Eine Gans ist ein großer Vogel mit einem langen Hals, der quaken kann. Gänse leben auf Bauernhöfen oder am Wasser.",
+  "beispielsatz": "Die Gans watschelt schnatternd über den Hof.",
+  "rechtschreibstrategie": "Wenn du „Gans\" verlängerst, hörst du das „s\" am Ende deutlich: Gän-se. So weißt du, dass am Ende ein „s\" steht und kein „z\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Gans"
+  ],
+  "bild_datei": "Gans.webp",
+  "audio_datei": "Gans.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "goose"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وزّة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gänschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gänseblümchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ente"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwan"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gans",
+    "plural": "die Gänse",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gans",
+        "genitiv": "der Gans",
+        "dativ": "der Gans",
+        "akkusativ": "die Gans"
+      },
+      "plural": {
+        "nominativ": "die Gänse",
+        "genitiv": "der Gänse",
+        "dativ": "den Gänsen",
+        "akkusativ": "die Gänse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ganz",
+    "Ganß",
+    "Ganns",
+    "Ganse",
+    "Gaens"
+  ]
+}

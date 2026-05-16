@@ -1,0 +1,91 @@
+{
+  "lemma": "zucken",
+  "wortart": "Verb",
+  "silben": "zu-cken",
+  "begriffserklaerung": "Wenn sich etwas plötzlich und schnell ein kleines Stück bewegt, nennt man das zucken. Zum Beispiel kann ein Körperteil kurz zucken, wenn man erschrickt.",
+  "beispielsatz": "Als der Blitz am Himmel erschien, zuckte Max kurz zusammen.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" schreibst du „ck\" – das ist das Kürzezeichen: zu-cken.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "zuck"
+  ],
+  "bild_datei": "zucken.webp",
+  "audio_datei": "zucken.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to twitch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tressaillir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seğirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يرتجف / يتشنج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zuckung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufzucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zittern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erschrecken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zittern"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "zucken",
+    "praesens": {
+      "ich": "zucke",
+      "du": "zuckst",
+      "er_sie_es": "zuckt",
+      "wir": "zucken",
+      "ihr": "zuckt",
+      "sie": "zucken"
+    },
+    "perfekt": {
+      "ich": "habe gezuckt",
+      "du": "hast gezuckt",
+      "er_sie_es": "hat gezuckt",
+      "wir": "haben gezuckt",
+      "ihr": "habt gezuckt",
+      "sie": "haben gezuckt"
+    },
+    "praeteritum": {
+      "ich": "zuckte",
+      "du": "zucktest",
+      "er_sie_es": "zuckte",
+      "wir": "zuckten",
+      "ihr": "zucktet",
+      "sie": "zuckten"
+    }
+  },
+  "fehlschreibungen": [
+    "zukken",
+    "zucen",
+    "zücken",
+    "zuken",
+    "zuckt (statt zuckte)",
+    "tzucken"
+  ]
+}

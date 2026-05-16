@@ -1,0 +1,94 @@
+{
+  "lemma": "blasen",
+  "wortart": "Verb",
+  "silben": "bla-sen",
+  "begriffserklaerung": "Luft kräftig aus dem Mund oder durch ein Rohr pusten.",
+  "beispielsatz": "Tim bläst die Kerzen auf seinem Geburtstagskuchen aus.",
+  "rechtschreibstrategie": "Sprich das Wort laut: bla-sen. Du hörst ein langes „a\" – deshalb schreibt man nur ein „s\" und kein „ss\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "blas"
+  ],
+  "bild_datei": "blasen.webp",
+  "audio_datei": "blasen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "blasen",
+    "praesens": {
+      "ich": "blase",
+      "du": "bläst",
+      "er_sie_es": "bläst",
+      "wir": "blasen",
+      "ihr": "blast",
+      "sie": "blasen"
+    },
+    "perfekt": {
+      "ich": "habe geblasen",
+      "du": "hast geblasen",
+      "er_sie_es": "hat geblasen",
+      "wir": "haben geblasen",
+      "ihr": "habt geblasen",
+      "sie": "haben geblasen"
+    },
+    "praeteritum": {
+      "ich": "blies",
+      "du": "bliest",
+      "er_sie_es": "blies",
+      "wir": "bliesen",
+      "ihr": "bliest",
+      "sie": "bliesen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to blow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "souffler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üflemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينفخ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bläser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Blasinstrument"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "pusten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trompete"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wind"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flöte"
+    }
+  ],
+  "fehlschreibungen": [
+    "blaßen",
+    "blassen",
+    "blazen",
+    "bläsen",
+    "blasssen"
+  ]
+}

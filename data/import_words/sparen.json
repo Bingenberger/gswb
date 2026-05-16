@@ -1,0 +1,90 @@
+{
+  "lemma": "sparen",
+  "wortart": "Verb",
+  "silben": "spa-ren",
+  "begriffserklaerung": "Wenn du sparst, legst du Geld oder etwas anderes zurück und gibst es nicht sofort aus.",
+  "beispielsatz": "Lena spart ihr Taschengeld, um sich ein neues Buch zu kaufen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „spa-ren\". Nach dem langen „a\" kommt nur ein „r\" – kein Doppel-r!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "spar"
+  ],
+  "bild_datei": "sparen.webp",
+  "audio_datei": "sparen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "sparen",
+    "praesens": {
+      "ich": "spare",
+      "du": "sparst",
+      "er_sie_es": "spart",
+      "wir": "sparen",
+      "ihr": "spart",
+      "sie": "sparen"
+    },
+    "perfekt": {
+      "ich": "habe gespart",
+      "du": "hast gespart",
+      "er_sie_es": "hat gespart",
+      "wir": "haben gespart",
+      "ihr": "habt gespart",
+      "sie": "haben gespart"
+    },
+    "praeteritum": {
+      "ich": "sparte",
+      "du": "spartest",
+      "er_sie_es": "sparte",
+      "wir": "sparten",
+      "ihr": "spartet",
+      "sie": "sparten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to save"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épargner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "biriktirmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَدَّخِر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sparschwein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ersparnisse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Taschengeld"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zurücklegen"
+    }
+  ],
+  "fehlschreibungen": [
+    "spaaren",
+    "sparren",
+    "spahren",
+    "spparen",
+    "sbaren"
+  ]
+}

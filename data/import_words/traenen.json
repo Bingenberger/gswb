@@ -1,0 +1,89 @@
+{
+  "lemma": "tränen",
+  "wortart": "Verb",
+  "silben": "trä-nen",
+  "beispielsatz": "Nach dem Zwiebelschneiden tränen mir die Augen.",
+  "begriffserklaerung": "Wenn die Augen tränen, fließen Tränen aus ihnen heraus, ohne dass man wirklich weint – zum Beispiel wenn es windig ist oder man eine Zwiebel schneidet.",
+  "rechtschreibstrategie": "Denk an das Nomen „die Träne\" – daraus wird das Verb „tränen\". Das ä kommt vom Umlaut, und das n am Ende gehört zum Wortstamm.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Träne"
+  ],
+  "bild_datei": "tränen.webp",
+  "audio_datei": "tränen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to water (eyes)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "larmoyer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gözyaşarmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تدمع (العيون)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Träne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verweint"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weinen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schluchzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "weinen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "tränen",
+    "praesens": {
+      "ich": "träne",
+      "du": "tränst",
+      "er_sie_es": "tränt",
+      "wir": "tränen",
+      "ihr": "tränt",
+      "sie": "tränen"
+    },
+    "perfekt": {
+      "ich": "habe getränt",
+      "du": "hast getränt",
+      "er_sie_es": "hat getränt",
+      "wir": "haben getränt",
+      "ihr": "habt getränt",
+      "sie": "haben getränt"
+    },
+    "praeteritum": {
+      "ich": "tränte",
+      "du": "träntst",
+      "er_sie_es": "tränte",
+      "wir": "trän­ten",
+      "ihr": "trän­tet",
+      "sie": "trän­ten"
+    }
+  },
+  "fehlschreibungen": [
+    "trenen",
+    "trähnen",
+    "trännen",
+    "traenen"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Stress",
+  "wortart": "Nomen",
+  "silben": "Stress",
+  "begriffserklaerung": "Stress bedeutet, dass man sich sehr gehetzt, überfordert oder aufgeregt fühlt, weil man zu viel auf einmal tun muss.",
+  "beispielsatz": "Vor dem Schulfest hatte Lisa so viel Stress, dass sie kaum schlafen konnte.",
+  "rechtschreibstrategie": "„Stress\" schreibt man mit Doppel-s am Ende, weil das „e\" davor kurz gesprochen wird. Sprich es laut: Str-e-ss!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [
+    "stress"
+  ],
+  "bild_datei": "Stress.webp",
+  "audio_datei": "Stress.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "stress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "stress"
+    },
+    {
+      "language_code": "tr",
+      "translation": "stres"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضغط نفسي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stressen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stressig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Druck"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Hektik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Müdigkeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufregung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erschöpfung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stress",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stress",
+        "genitiv": "des Stresses",
+        "dativ": "dem Stress",
+        "akkusativ": "den Stress"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stres",
+    "Stree",
+    "Strreß",
+    "Streß",
+    "Stresss"
+  ]
+}

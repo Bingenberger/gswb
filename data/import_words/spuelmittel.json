@@ -1,0 +1,93 @@
+{
+  "lemma": "Spülmittel",
+  "wortart": "Nomen",
+  "silben": "Spül-mit-tel",
+  "begriffserklaerung": "Ein Spülmittel ist eine flüssige Seife, die man beim Abwaschen ins Wasser gibt, damit Geschirr, Töpfe und Besteck sauber werden.",
+  "beispielsatz": "Mama gibt einen Tropfen Spülmittel in das Waschbecken, damit die Teller schön sauber werden.",
+  "rechtschreibstrategie": "Das Wort „Spülmittel\" ist aus zwei Wörtern zusammengebaut: „spülen\" + „Mittel\". Sprich beide Teile laut mit: SPÜL – MIT – TEL. Das „ü\" hörst du deutlich, und das doppelte „t\" kommt von „Mittel\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "spül",
+    "mittel"
+  ],
+  "bild_datei": "Spülmittel.webp",
+  "audio_datei": "Spülmittel.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Spülmittel",
+    "plural": "die Spülmittel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Spülmittel",
+        "genitiv": "des Spülmittels",
+        "dativ": "dem Spülmittel",
+        "akkusativ": "das Spülmittel"
+      },
+      "plural": {
+        "nominativ": "die Spülmittel",
+        "genitiv": "der Spülmittel",
+        "dativ": "den Spülmitteln",
+        "akkusativ": "die Spülmittel"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "washing-up liquid / dish soap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "liquide vaisselle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bulaşık deterjanı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سائل غسيل الأطباق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "spülen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Spülbecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Seife"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abwasch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Geschirrspülmittel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Spühlmittel",
+    "Spüllmittel",
+    "Spülmitel",
+    "Spülmiitel",
+    "Spuelmittel",
+    "Spülmittl"
+  ]
+}

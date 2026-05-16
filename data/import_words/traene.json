@@ -1,0 +1,84 @@
+{
+  "lemma": "Träne",
+  "wortart": "Nomen",
+  "silben": "Trä-ne",
+  "begriffserklaerung": "Eine Träne ist ein kleiner Wassertropfen, der aus deinem Auge kommt, wenn du weinst oder wenn du dich sehr freust.",
+  "beispielsatz": "Als das Mädchen hinfiel, rollte eine Träne über ihre Wange.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Trä-ne. Das ä klingt hell und lang – denke an „weinen\". Am Ende hörst du ein weiches „ne\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "tränen",
+    "Träne"
+  ],
+  "bild_datei": "Träne.webp",
+  "audio_datei": "Träne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tear"
+    },
+    {
+      "language_code": "fr",
+      "translation": "larme"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gözyaşı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دمعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tränen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tränchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "weinen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auge"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tränentropfen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Träne",
+    "plural": "die Tränen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Träne",
+        "genitiv": "der Träne",
+        "dativ": "der Träne",
+        "akkusativ": "die Träne"
+      },
+      "plural": {
+        "nominativ": "die Tränen",
+        "genitiv": "der Tränen",
+        "dativ": "den Tränen",
+        "akkusativ": "die Tränen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Trähn",
+    "Trehne",
+    "Traine",
+    "Trähne",
+    "Tränne",
+    "Träne"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Wasserbecken",
+  "wortart": "Nomen",
+  "silben": "Was-ser-be-cken",
+  "begriffserklaerung": "Ein Wasserbecken ist ein großer, flacher Behälter oder eine Vertiefung, die mit Wasser gefüllt ist. Man findet Wasserbecken zum Beispiel in Parks, Zoos oder Schwimmbädern.",
+  "beispielsatz": "Im Park planschten die Enten fröhlich im Wasserbecken.",
+  "rechtschreibstrategie": "Das Wort „Wasserbecken\" besteht aus drei Bausteinen: „Wasser\" + „becken\". Das „ss\" in „Wasser\" schreibst du, weil der Vokal davor kurz gesprochen wird. Das „ck\" in „becken\" schreibst du, weil auch dort der Vokal kurz klingt.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Becken"
+  ],
+  "bild_datei": "Wasserbecken.webp",
+  "audio_datei": "Wasserbecken.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Wasserbecken",
+    "plural": "die Wasserbecken",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Wasserbecken",
+        "genitiv": "des Wasserbeckens",
+        "dativ": "dem Wasserbecken",
+        "akkusativ": "das Wasserbecken"
+      },
+      "plural": {
+        "nominativ": "die Wasserbecken",
+        "genitiv": "der Wasserbecken",
+        "dativ": "den Wasserbecken",
+        "akkusativ": "die Wasserbecken"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water basin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bassin d'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su havuzu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حوض الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Becken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bassin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teich"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Brunnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwimmbad"
+    }
+  ],
+  "fehlschreibungen": [
+    "Wasserbecken",
+    "Waserbecken",
+    "Wasserbeken",
+    "Wasserbäcken",
+    "Wasserbecen",
+    "Wasser-Becken"
+  ]
+}

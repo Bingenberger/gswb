@@ -1,0 +1,83 @@
+{
+  "lemma": "Funksignal",
+  "wortart": "Nomen",
+  "silben": "Funk-sig-nal",
+  "begriffserklaerung": "Ein Funksignal ist eine unsichtbare Nachricht, die durch die Luft gesendet wird – zum Beispiel von einem Radio, einem Handy oder einem Satelliten.",
+  "beispielsatz": "Das Raumschiff schickte ein Funksignal zur Erde.",
+  "rechtschreibstrategie": "„Funksignal\" ist ein zusammengesetztes Wort aus „Funk\" und „Signal\". Schreibe beide Teile einfach hintereinander: Funk + Signal = Funksignal.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Funk",
+    "Signal"
+  ],
+  "bild_datei": "Funksignal.webp",
+  "audio_datei": "Funksignal.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Funksignal",
+    "plural": "die Funksignale",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Funksignal",
+        "genitiv": "des Funksignals",
+        "dativ": "dem Funksignal",
+        "akkusativ": "das Funksignal"
+      },
+      "plural": {
+        "nominativ": "die Funksignale",
+        "genitiv": "der Funksignale",
+        "dativ": "den Funksignalen",
+        "akkusativ": "die Funksignale"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "radio signal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "signal radio"
+    },
+    {
+      "language_code": "tr",
+      "translation": "radyo sinyali"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إشارة راديو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Funk"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Signal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antenne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sender"
+    }
+  ],
+  "fehlschreibungen": [
+    "Funcsignal",
+    "Funksignal",
+    "Funcksiganl",
+    "Funksignall",
+    "Funksignel"
+  ]
+}

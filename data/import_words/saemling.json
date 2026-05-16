@@ -1,0 +1,84 @@
+{
+  "lemma": "Sämling",
+  "wortart": "Nomen",
+  "silben": "Säm-ling",
+  "begriffserklaerung": "Ein Sämling ist eine ganz junge, kleine Pflanze, die gerade erst aus einem Samen gewachsen ist.",
+  "beispielsatz": "Der Sämling braucht viel Wasser und Sonne, damit er groß wird.",
+  "rechtschreibstrategie": "Denke an das Wort „Samen\" – daraus wurde „Sämling\" abgeleitet. Das ä kommt vom Stamm „sä-\" (säen). Sprich das Wort laut: Säm-ling – du hörst beide Silben!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sä",
+    "Samen"
+  ],
+  "bild_datei": "Sämling.webp",
+  "audio_datei": "Sämling.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sämling",
+    "plural": "die Sämlinge",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sämling",
+        "genitiv": "des Sämlings",
+        "dativ": "dem Sämling",
+        "akkusativ": "den Sämling"
+      },
+      "plural": {
+        "nominativ": "die Sämlinge",
+        "genitiv": "der Sämlinge",
+        "dativ": "den Sämlingen",
+        "akkusativ": "die Sämlinge"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "seedling"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plantule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fide"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شتلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "säen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Samen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Garten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keimling"
+    }
+  ],
+  "fehlschreibungen": [
+    "Semling",
+    "Sähmling",
+    "Seimling",
+    "Sämeling",
+    "Semmling"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "lemma": "Anweisung",
+  "wortart": "Nomen",
+  "silben": "An-wei-sung",
+  "begriffserklaerung": "Eine Anweisung ist eine genaue Erklärung, was jemand tun soll. Sie sagt dir Schritt für Schritt, wie du etwas machst.",
+  "beispielsatz": "Die Lehrerin gibt den Kindern eine klare Anweisung, wie sie die Aufgabe lösen sollen.",
+  "rechtschreibstrategie": "Das Wort steckt in „anweisen\" – wer etwas anweist, gibt eine An-wei-sung. Sprich alle drei Silben deutlich: An – wei – sung.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "weis"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Anweisung",
+    "plural": "die Anweisungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Anweisung",
+        "genitiv": "der Anweisung",
+        "dativ": "der Anweisung",
+        "akkusativ": "die Anweisung"
+      },
+      "plural": {
+        "nominativ": "die Anweisungen",
+        "genitiv": "der Anweisungen",
+        "dativ": "den Anweisungen",
+        "akkusativ": "die Anweisungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Anweißung",
+    "Anweizung",
+    "Anweissung",
+    "Anweisung",
+    "Anwaissung",
+    "Anwaisung"
+  ],
+  "bild_datei": "Anweisung.webp",
+  "audio_datei": "Anweisung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "instruction"
+    },
+    {
+      "language_code": "fr",
+      "translation": "instruction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "talimat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تعليمات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "anweisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weisung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Anleitung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Auftrag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    }
+  ]
+}

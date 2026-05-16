@@ -1,0 +1,82 @@
+{
+  "lemma": "Stärke",
+  "wortart": "Nomen",
+  "silben": "Stär-ke",
+  "begriffserklaerung": "Die Stärke beschreibt, wie kräftig oder stark jemand oder etwas ist. Man sagt zum Beispiel, dass ein Sportler große Stärke hat. Stärke kann auch eine Eigenschaft sein, die jemanden besonders gut macht.",
+  "beispielsatz": "Der Löwe ist bekannt für seine große Stärke.",
+  "rechtschreibstrategie": "Denk an das Wort „stark\" – wenn du es verlängerst, hörst du das „ä\" deutlich: stark → Stärke. Das „ä\" kommt also vom „a\" in „stark\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "stark"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Stärke",
+    "plural": "die Stärken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Stärke",
+        "genitiv": "der Stärke",
+        "dativ": "der Stärke",
+        "akkusativ": "die Stärke"
+      },
+      "plural": {
+        "nominativ": "die Stärken",
+        "genitiv": "der Stärken",
+        "dativ": "den Stärken",
+        "akkusativ": "die Stärken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stärka",
+    "Stercke",
+    "Stärck",
+    "Stärcke",
+    "Stärke"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "strength"
+    },
+    {
+      "language_code": "fr",
+      "translation": "force"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قوة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stark"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stärken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kraft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausdauer"
+    }
+  ],
+  "bild_datei": "Stärke.webp",
+  "audio_datei": "Stärke.mp3"
+}

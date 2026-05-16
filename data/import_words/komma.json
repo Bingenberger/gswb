@@ -1,0 +1,72 @@
+{
+  "lemma": "Komma",
+  "wortart": "Nomen",
+  "silben": "Kom-ma",
+  "begriffserklaerung": "Ein Komma ist ein kleines Satzzeichen, das Sätze oder Aufzählungen voneinander trennt.",
+  "beispielsatz": "Ich kaufe Äpfel, Birnen und Orangen.",
+  "rechtschreibstrategie": "Das Komma schreibt man mit doppeltem m, weil der Vokal o kurz gesprochen wird: Kom-ma.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Komma",
+    "plural": "Kommas",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Komma",
+        "genitiv": "des Kommas",
+        "dativ": "dem Komma",
+        "akkusativ": "das Komma"
+      },
+      "plural": {
+        "nominativ": "die Kommas",
+        "genitiv": "der Kommas",
+        "dativ": "den Kommas",
+        "akkusativ": "die Kommas"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Punkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Satzzeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausrufezeichen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Koma",
+    "Comma",
+    "Komma",
+    "Kamma",
+    "Coma"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "comma"
+    },
+    {
+      "language_code": "fr",
+      "translation": "virgule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "virgül"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فاصلة"
+    }
+  ],
+  "bild_datei": "Komma.webp",
+  "audio_datei": "Komma.mp3"
+}

@@ -1,0 +1,89 @@
+{
+  "lemma": "Kabelgewirr",
+  "wortart": "Nomen",
+  "silben": "Ka-bel-ge-wirr",
+  "begriffserklaerung": "Ein Kabelgewirr ist ein durcheinander liegendes Knäuel aus vielen Kabeln, die sich verwickelt und verdreht haben.",
+  "beispielsatz": "Hinter dem Fernseher liegt ein riesiges Kabelgewirr, das Papa kaum entwirren kann.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Kabel\" und „Gewirr\". Im zweiten Teil hörst du das doppelte „r\" am Ende – beide „r\" werden mitgeschrieben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Kabel",
+    "wirr"
+  ],
+  "bild_datei": "Kabelgewirr.webp",
+  "audio_datei": "Kabelgewirr.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kabelgewirr",
+    "plural": "die Kabelgewirre",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kabelgewirr",
+        "genitiv": "des Kabelgewirrs",
+        "dativ": "dem Kabelgewirr",
+        "akkusativ": "das Kabelgewirr"
+      },
+      "plural": {
+        "nominativ": "die Kabelgewirre",
+        "genitiv": "der Kabelgewirre",
+        "dativ": "den Kabelgewirren",
+        "akkusativ": "die Kabelgewirre"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tangle of cables"
+    },
+    {
+      "language_code": "fr",
+      "translation": "enchevêtrement de câbles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kablo karmaşası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فوضى الأسلاك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kabel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wirr"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kabelsalat"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stecker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Leitung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Durcheinander"
+    }
+  ],
+  "fehlschreibungen": [
+    "Kabelgewir",
+    "Kabelgewirrt",
+    "Kabelgewirrd",
+    "Kabelgewhirr",
+    "Kabbelgewirr",
+    "Kabelgevirr"
+  ]
+}

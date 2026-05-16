@@ -1,0 +1,86 @@
+{
+  "lemma": "Schneeleopard",
+  "wortart": "Nomen",
+  "silben": "Schnee-leo-pard",
+  "begriffserklaerung": "Ein Schneeleopard ist eine große Raubkatze mit einem dicken, gepunkteten Fell. Er lebt in den hohen Gebirgen Asiens, wo es sehr kalt und schneereich ist.",
+  "beispielsatz": "Der Schneeleopard springt geschickt über die felsigen Berghänge.",
+  "rechtschreibstrategie": "„Schneeleopard\" ist ein zusammengesetztes Wort aus „Schnee\" und „Leopard\". Sprich beide Teile einzeln: SCHNEE + LEOPARD. Das „ee\" in „Schnee\" schreibst du mit zwei e.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schnee",
+    "Leopard"
+  ],
+  "bild_datei": "Schneeleopard.webp",
+  "audio_datei": "Schneeleopard.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schneeleopard",
+    "plural": "die Schneeleoparden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schneeleopard",
+        "genitiv": "des Schneeleoparden",
+        "dativ": "dem Schneeleoparden",
+        "akkusativ": "den Schneeleoparden"
+      },
+      "plural": {
+        "nominativ": "die Schneeleoparden",
+        "genitiv": "der Schneeleoparden",
+        "dativ": "den Schneeleoparden",
+        "akkusativ": "die Schneeleoparden"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "snow leopard"
+    },
+    {
+      "language_code": "fr",
+      "translation": "léopard des neiges"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kar leoparı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الفهد الثلجي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schnee"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leopard"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiger"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Raubkatze"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gepard"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schneeleophart",
+    "Schneleopard",
+    "Scheeleopard",
+    "Schneoleopard",
+    "Schneeleopat",
+    "Schneeleobard"
+  ]
+}

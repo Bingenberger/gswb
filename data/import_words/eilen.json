@@ -1,0 +1,94 @@
+{
+  "lemma": "eilen",
+  "wortart": "Verb",
+  "silben": "ei-len",
+  "begriffserklaerung": "Eilen bedeutet, sich sehr schnell zu bewegen oder etwas schnell zu tun, weil man keine Zeit verlieren möchte.",
+  "beispielsatz": "Ich muss eilen, damit ich den Bus noch erwische!",
+  "rechtschreibstrategie": "Das Wort „eilen\" beginnt mit dem Diphthong „ei\" – sprich es laut: „ei-len\". Denk an „Eile\" – beide Wörter schreibt man mit „ei\" wie in „Ei\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "eil"
+  ],
+  "bild_datei": "eilen.webp",
+  "audio_datei": "eilen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "eilen",
+    "praesens": {
+      "ich": "eile",
+      "du": "eilst",
+      "er_sie_es": "eilt",
+      "wir": "eilen",
+      "ihr": "eilt",
+      "sie": "eilen"
+    },
+    "perfekt": {
+      "ich": "bin geeilt",
+      "du": "bist geeilt",
+      "er_sie_es": "ist geeilt",
+      "wir": "sind geeilt",
+      "ihr": "seid geeilt",
+      "sie": "sind geeilt"
+    },
+    "praeteritum": {
+      "ich": "eilte",
+      "du": "eiltest",
+      "er_sie_es": "eilte",
+      "wir": "eilten",
+      "ihr": "eiltet",
+      "sie": "eilten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hurry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "se dépêcher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acele etmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسرع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Eile"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eilig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hasten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich beeilen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "rennen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "laufen"
+    }
+  ],
+  "fehlschreibungen": [
+    "ailen",
+    "eilen",
+    "eylen",
+    "eillen",
+    "eihlen"
+  ]
+}

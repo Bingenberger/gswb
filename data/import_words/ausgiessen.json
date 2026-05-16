@@ -1,0 +1,92 @@
+{
+  "lemma": "ausgießen",
+  "wortart": "Verb",
+  "silben": "aus-gie-ßen",
+  "begriffserklaerung": "Eine Flüssigkeit aus einem Behälter (z. B. einer Kanne oder einem Topf) herausschütten oder in ein anderes Gefäß füllen.",
+  "beispielsatz": "Mama gießt den Tee vorsichtig in die Tasse aus.",
+  "rechtschreibstrategie": "Das Wort besteht aus „aus\" und „gießen\". In „gießen\" hörst du ein langes „i\" – es wird mit „ie\" geschrieben. Denk daran: langes i → ie!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Merkwort mit ß",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "gieß",
+    "gieß-"
+  ],
+  "bild_datei": "ausgießen.webp",
+  "audio_datei": "ausgießen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pour out"
+    },
+    {
+      "language_code": "fr",
+      "translation": "verser"
+    },
+    {
+      "language_code": "tr",
+      "translation": "dökmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسكب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gießen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eingießen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "einschenken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "füllen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausschütten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "ausgießen",
+    "praesens": {
+      "ich": "gieße aus",
+      "du": "gießt aus",
+      "er_sie_es": "gießt aus",
+      "wir": "gießen aus",
+      "ihr": "gießt aus",
+      "sie": "gießen aus"
+    },
+    "perfekt": {
+      "ich": "habe ausgegossen",
+      "du": "hast ausgegossen",
+      "er_sie_es": "hat ausgegossen",
+      "wir": "haben ausgegossen",
+      "ihr": "habt ausgegossen",
+      "sie": "haben ausgegossen"
+    },
+    "praeteritum": {
+      "ich": "goss aus",
+      "du": "gossest aus",
+      "er_sie_es": "goss aus",
+      "wir": "gossen aus",
+      "ihr": "gosst aus",
+      "sie": "gossen aus"
+    }
+  },
+  "fehlschreibungen": [
+    "ausgiesen",
+    "aussgießen",
+    "ausgisen",
+    "aussgisen"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Umgang mit Energie:",
+  "wortart": "Nomen",
+  "silben": "E-ner-gie-ver-brauch",
+  "beispielsatz": "Wenn wir das Licht ausmachen, senken wir den Energieverbrauch in unserem Zuhause.",
+  "begriffserklaerung": "Der Energieverbrauch zeigt, wie viel Energie – zum Beispiel Strom oder Wärme – wir verbrauchen. Wer sparsam mit Energie umgeht, hat einen niedrigen Energieverbrauch.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Energie\" und „Verbrauch\". Sprich beide Teile laut: Ener-gie – Ver-brauch. Das „ie\" in „Energie\" klingt lang und wird ie geschrieben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Energie",
+    "brauchen"
+  ],
+  "bild_datei": "Umgang mit Energie:.webp",
+  "audio_datei": "Umgang mit Energie:.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "energy consumption"
+    },
+    {
+      "language_code": "fr",
+      "translation": "consommation d'énergie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "enerji tüketimi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "استهلاك الطاقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verbrauchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stromsparen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachhaltigkeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Energiebedarf"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Energieverbrauch",
+    "plural": "die Energieverbräuche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Energieverbrauch",
+        "genitiv": "des Energieverbrauchs",
+        "dativ": "dem Energieverbrauch",
+        "akkusativ": "den Energieverbrauch"
+      },
+      "plural": {
+        "nominativ": "die Energieverbräuche",
+        "genitiv": "der Energieverbräuche",
+        "dativ": "den Energieverbräuchen",
+        "akkusativ": "die Energieverbräuche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Energieverbrauch",
+    "Enerjieverbrauch",
+    "Energieferbrauch",
+    "Energieverbrach",
+    "Eneriegebrauch",
+    "Energiverbräuche"
+  ]
+}

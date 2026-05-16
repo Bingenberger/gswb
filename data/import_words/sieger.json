@@ -1,0 +1,92 @@
+{
+  "lemma": "Sieger",
+  "wortart": "Nomen",
+  "silben": "Sie-ger",
+  "begriffserklaerung": "Ein Sieger ist jemand, der ein Spiel, einen Wettkampf oder einen Wettbewerb gewonnen hat.",
+  "beispielsatz": "Der Sieger des Rennens bekam eine goldene Medaille.",
+  "rechtschreibstrategie": "Denk an das Wort „siegen\" – davon kommt „Sieger\". Das ie sprichst du lang wie in „Biene\". Schreib also ie und nicht i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "sieg"
+  ],
+  "bild_datei": "Sieger.webp",
+  "audio_datei": "Sieger.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "winner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vainqueur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kazanan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "الفائز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "siegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sieg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "siegreich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewinner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Medaille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pokal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sieger",
+    "plural": "die Sieger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sieger",
+        "genitiv": "des Siegers",
+        "dativ": "dem Sieger",
+        "akkusativ": "den Sieger"
+      },
+      "plural": {
+        "nominativ": "die Sieger",
+        "genitiv": "der Sieger",
+        "dativ": "den Siegern",
+        "akkusativ": "die Sieger"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sieger",
+    "Siger",
+    "Zieger",
+    "Seiger",
+    "Siäger",
+    "Sigger"
+  ]
+}

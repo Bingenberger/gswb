@@ -1,0 +1,104 @@
+{
+  "lemma": "ziehen",
+  "wortart": "Verb",
+  "silben": "zie-hen",
+  "begriffserklaerung": "Etwas zu sich hin bewegen oder mitschleppen, zum Beispiel an einem Seil oder einem Schlitten.",
+  "beispielsatz": "Tom zieht seinen Schlitten den Hügel hinauf.",
+  "rechtschreibstrategie": "Denk an das lange „ie\" – wie in „Tier\" oder „Biene\". Und das stumme „h\" am Ende hilft dir, das „ie\" lang zu sprechen: zie-hen.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "zieh"
+  ],
+  "bild_datei": "ziehen.webp",
+  "audio_datei": "ziehen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "ziehen",
+    "praesens": {
+      "ich": "ziehe",
+      "du": "ziehst",
+      "er_sie_es": "zieht",
+      "wir": "ziehen",
+      "ihr": "zieht",
+      "sie": "ziehen"
+    },
+    "perfekt": {
+      "ich": "habe gezogen",
+      "du": "hast gezogen",
+      "er_sie_es": "hat gezogen",
+      "wir": "haben gezogen",
+      "ihr": "habt gezogen",
+      "sie": "haben gezogen"
+    },
+    "praeteritum": {
+      "ich": "zog",
+      "du": "zogst",
+      "er_sie_es": "zog",
+      "wir": "zogen",
+      "ihr": "zogt",
+      "sie": "zogen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to pull / to draw"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tirer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çekmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسحب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Anzug"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Umzug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zerren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schleppen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schieben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schleppen"
+    }
+  ],
+  "fehlschreibungen": [
+    "zihen",
+    "ziehn",
+    "zieen",
+    "cziehen",
+    "ziechen",
+    "tziehn"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Dienst",
+  "wortart": "Nomen",
+  "silben": "Dienst",
+  "begriffserklaerung": "Ein Dienst ist eine Aufgabe oder Arbeit, die jemand für andere erledigt, zum Beispiel im Beruf oder in der Schule.",
+  "beispielsatz": "Heute hat Lena Tafeldienst und wischt die Tafel sauber.",
+  "rechtschreibstrategie": "Das Wort „Dienst\" hat ein langes „ie\" – denk daran: „ie\" spricht man wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "dien"
+  ],
+  "bild_datei": "Dienst.webp",
+  "audio_datei": "Dienst.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "service / duty"
+    },
+    {
+      "language_code": "fr",
+      "translation": "service / devoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görev / hizmet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خدمة / واجب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "dienen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dienstag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arbeit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Aufgabe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Dienst",
+    "plural": "die Dienste",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Dienst",
+        "genitiv": "des Dienstes",
+        "dativ": "dem Dienst",
+        "akkusativ": "den Dienst"
+      },
+      "plural": {
+        "nominativ": "die Dienste",
+        "genitiv": "der Dienste",
+        "dativ": "den Diensten",
+        "akkusativ": "die Dienste"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Dinst",
+    "Dienst",
+    "Diensst",
+    "Dienzt",
+    "Diensdt"
+  ]
+}

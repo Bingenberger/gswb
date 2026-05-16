@@ -1,0 +1,92 @@
+{
+  "lemma": "Sieg",
+  "wortart": "Nomen",
+  "silben": "Sieg",
+  "begriffserklaerung": "Ein Sieg ist, wenn jemand bei einem Spiel, Wettkampf oder Streit als Bester abschneidet und gewinnt.",
+  "beispielsatz": "Unsere Mannschaft hat einen großen Sieg beim Fußballturnier gefeiert!",
+  "rechtschreibstrategie": "Das Wort „Sieg\" endet auf -ieg. Das ie spricht sich lang wie in „Tier\". Merke: Sieg – siege – siegreich!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "sieg"
+  ],
+  "bild_datei": "Sieg.webp",
+  "audio_datei": "Sieg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "victory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "victoire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "zafer"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نصر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "siegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sieger"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "siegreich"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Triumph"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pokal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Niederlage"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Sieg",
+    "plural": "die Siege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sieg",
+        "genitiv": "des Sieges",
+        "dativ": "dem Sieg",
+        "akkusativ": "den Sieg"
+      },
+      "plural": {
+        "nominativ": "die Siege",
+        "genitiv": "der Siege",
+        "dativ": "den Siegen",
+        "akkusativ": "die Siege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Siek",
+    "Sig",
+    "Seig",
+    "Sieg",
+    "Siehg",
+    "Siegg"
+  ]
+}

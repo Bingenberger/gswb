@@ -1,0 +1,84 @@
+{
+  "lemma": "Putztuch",
+  "wortart": "Nomen",
+  "silben": "Putz-tuch",
+  "begriffserklaerung": "Ein Putztuch ist ein weiches Tuch, mit dem man Dinge sauber wischt, zum Beispiel einen Tisch oder ein Fenster.",
+  "beispielsatz": "Mama wischt die Küche mit einem feuchten Putztuch ab.",
+  "rechtschreibstrategie": "Das Wort „Putztuch\" besteht aus zwei Teilen: „Putz\" und „Tuch\". Das „tz\" schreibst du nach dem kurzen „u\", und das zweite Wort „Tuch\" kennst du bestimmt schon!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "putz",
+    "tuch"
+  ],
+  "bild_datei": "Putztuch.webp",
+  "audio_datei": "Putztuch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cleaning cloth"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chiffon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temizlik bezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قماش التنظيف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "putzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tuch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lappen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schwamm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wischtuch"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Putztuch",
+    "plural": "die Putztücher",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Putztuch",
+        "genitiv": "des Putztuchs",
+        "dativ": "dem Putztuch",
+        "akkusativ": "das Putztuch"
+      },
+      "plural": {
+        "nominativ": "die Putztücher",
+        "genitiv": "der Putztücher",
+        "dativ": "den Putztüchern",
+        "akkusativ": "die Putztücher"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Putztug",
+    "Putstuch",
+    "Putztuck",
+    "Puzztuch",
+    "Puztuch"
+  ]
+}

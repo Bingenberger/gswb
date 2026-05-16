@@ -1,0 +1,84 @@
+{
+  "lemma": "Eisenbahn",
+  "wortart": "Nomen",
+  "silben": "Ei-sen-bahn",
+  "begriffserklaerung": "Eine Eisenbahn ist ein Fahrzeug, das auf Schienen fährt und Menschen oder Waren von einem Ort zum anderen bringt.",
+  "beispielsatz": "Die Eisenbahn fährt schnell durch den langen Tunnel.",
+  "rechtschreibstrategie": "Das Wort „Eisenbahn\" ist aus zwei Teilen zusammengesetzt: „Eisen\" und „Bahn\". Sprich beide Teile laut, dann schreibst du sie richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bahn",
+    "Eisen"
+  ],
+  "bild_datei": "Eisenbahn.webp",
+  "audio_datei": "Eisenbahn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "railway / train"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemin de fer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "demiryolu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قطار / سكة الحديد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bahnhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lokomotive"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zug"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Eisenbahn",
+    "plural": "die Eisenbahnen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Eisenbahn",
+        "genitiv": "der Eisenbahn",
+        "dativ": "der Eisenbahn",
+        "akkusativ": "die Eisenbahn"
+      },
+      "plural": {
+        "nominativ": "die Eisenbahnen",
+        "genitiv": "der Eisenbahnen",
+        "dativ": "den Eisenbahnen",
+        "akkusativ": "die Eisenbahnen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Eisenbann",
+    "Eisenban",
+    "Eißenbahn",
+    "Aiesenbahn",
+    "Eisembahn",
+    "Eisenbah"
+  ]
+}

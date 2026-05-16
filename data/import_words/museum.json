@@ -1,0 +1,83 @@
+{
+  "lemma": "Museum",
+  "wortart": "Nomen",
+  "silben": "Mu-se-um",
+  "begriffserklaerung": "Ein Museum ist ein Gebäude, in dem besondere Dinge ausgestellt werden, die man anschauen, aber meistens nicht anfassen darf – zum Beispiel alte Kunstwerke, Dinosaurierknochen oder historische Gegenstände.",
+  "beispielsatz": "In dem großen Museum haben wir ein echtes Skelett eines Tyrannosaurus Rex gesehen!",
+  "rechtschreibstrategie": "Das Wort „Museum\" klingt so, wie es geschrieben wird: Mu-se-um. Sprich alle drei Silben deutlich nach: Mu – se – um. Am Ende steht -um, nicht -eum!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Muse",
+    "Museum"
+  ],
+  "bild_datei": "Museum.webp",
+  "audio_datei": "Museum.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Museum",
+    "plural": "die Museen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Museum",
+        "genitiv": "des Museums",
+        "dativ": "dem Museum",
+        "akkusativ": "das Museum"
+      },
+      "plural": {
+        "nominativ": "die Museen",
+        "genitiv": "der Museen",
+        "dativ": "den Museen",
+        "akkusativ": "die Museen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "museum"
+    },
+    {
+      "language_code": "fr",
+      "translation": "musée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "müze"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متحف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Museumsstück"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Museumsführer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausstellung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunsthalle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Galerie"
+    }
+  ],
+  "fehlschreibungen": [
+    "Musäum",
+    "Musseum",
+    "Museuem",
+    "Muzeum",
+    "Musuem"
+  ]
+}

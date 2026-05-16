@@ -1,0 +1,86 @@
+{
+  "lemma": "Aggregatzustand",
+  "wortart": "Nomen",
+  "silben": "Ag-gre-gat-zu-stand",
+  "begriffserklaerung": "Ein Aggregatzustand beschreibt, in welcher Form ein Stoff vorkommt: fest (wie Eis), flüssig (wie Wasser) oder gasförmig (wie Dampf).",
+  "beispielsatz": "Wasser kann drei Aggregatzustände haben: fest als Eis, flüssig als Wasser und gasförmig als Wasserdampf.",
+  "rechtschreibstrategie": "Das Wort „Aggregatzustand\" ist ein langes Bausteinwort. Es stecken drei Teile darin: „Aggregat\" + „zu\" + „Stand\". Das „gg\" im ersten Teil schreibt man doppelt, weil der Vokal davor kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Aggregat",
+    "Stand"
+  ],
+  "bild_datei": "Aggregatzustand.webp",
+  "audio_datei": "Aggregatzustand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "state of matter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "état de la matière"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maddenin hâli"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حالة المادة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aggregat"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zustand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fest"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "flüssig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gasförmig"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Aggregatzustand",
+    "plural": "die Aggregatzustände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Aggregatzustand",
+        "genitiv": "des Aggregatzustandes",
+        "dativ": "dem Aggregatzustand",
+        "akkusativ": "den Aggregatzustand"
+      },
+      "plural": {
+        "nominativ": "die Aggregatzustände",
+        "genitiv": "der Aggregatzustände",
+        "dativ": "den Aggregatzuständen",
+        "akkusativ": "die Aggregatzustände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Agregatzustand",
+    "Aggrecatzustand",
+    "Aggregatzusztand",
+    "Agregatzzustand",
+    "Aggregazustand",
+    "Aggergatzustand"
+  ]
+}

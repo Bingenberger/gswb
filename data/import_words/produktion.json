@@ -1,0 +1,84 @@
+{
+  "lemma": "Produktion",
+  "wortart": "Nomen",
+  "silben": "Pro-duk-ti-on",
+  "begriffserklaerung": "Eine Produktion ist das Herstellen von Dingen, zum Beispiel in einer Fabrik. Wenn viele Autos oder Bücher hergestellt werden, nennt man das Produktion.",
+  "beispielsatz": "In der Fabrik läuft die Produktion von Schokolade den ganzen Tag.",
+  "rechtschreibstrategie": "Schreibe das Wort so, wie du es hörst: Pro-duk-ti-on. Das „k\" und das „t\" musst du dir merken – sprich es langsam in Silben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "produzier",
+    "Produkt"
+  ],
+  "bild_datei": "Produktion.webp",
+  "audio_datei": "Produktion.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "production"
+    },
+    {
+      "language_code": "fr",
+      "translation": "production"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üretim"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إنتاج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Produkt"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "produzieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fabrik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herstellung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Herstellung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Produktion",
+    "plural": "die Produktionen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Produktion",
+        "genitiv": "der Produktion",
+        "dativ": "der Produktion",
+        "akkusativ": "die Produktion"
+      },
+      "plural": {
+        "nominativ": "die Produktionen",
+        "genitiv": "der Produktionen",
+        "dativ": "den Produktionen",
+        "akkusativ": "die Produktionen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Produktion",
+    "Produksion",
+    "Produktzion",
+    "Producktion",
+    "Produkzion",
+    "Produkttion"
+  ]
+}

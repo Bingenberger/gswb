@@ -1,0 +1,95 @@
+{
+  "lemma": "können",
+  "wortart": "Verb",
+  "silben": "kön-nen",
+  "begriffserklaerung": "Können bedeutet, dass man die Fähigkeit oder Möglichkeit hat, etwas zu tun.",
+  "beispielsatz": "Ich kann schon sehr gut Fahrrad fahren!",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „kön-nen\". Das „n\" wird doppelt geschrieben, weil der Vokal „ö\" kurz klingt. Und das „ö\" schreibst du mit zwei Punkten.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "könn"
+  ],
+  "bild_datei": "können.webp",
+  "audio_datei": "können.mp3",
+  "grammatische_formen": {
+    "infinitiv": "können",
+    "praesens": {
+      "ich": "kann",
+      "du": "kannst",
+      "er_sie_es": "kann",
+      "wir": "können",
+      "ihr": "könnt",
+      "sie": "können"
+    },
+    "perfekt": {
+      "ich": "habe gekonnt",
+      "du": "hast gekonnt",
+      "er_sie_es": "hat gekonnt",
+      "wir": "haben gekonnt",
+      "ihr": "habt gekonnt",
+      "sie": "haben gekonnt"
+    },
+    "praeteritum": {
+      "ich": "konnte",
+      "du": "konntest",
+      "er_sie_es": "konnte",
+      "wir": "konnten",
+      "ihr": "konntet",
+      "sie": "konnten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to be able to / can"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pouvoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapabilmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يستطيع / يمكن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Können"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gekonnt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vermögen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "dürfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "müssen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wollen"
+    }
+  ],
+  "fehlschreibungen": [
+    "können",
+    "koennen",
+    "könen",
+    "konnen",
+    "kønnen",
+    "künnen"
+  ]
+}

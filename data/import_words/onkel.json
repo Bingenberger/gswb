@@ -1,0 +1,72 @@
+{
+  "lemma": "Onkel",
+  "wortart": "Nomen",
+  "silben": "On-kel",
+  "begriffserklaerung": "Der Onkel ist der Bruder deiner Mutter oder deines Vaters. Er gehört zu deiner Familie.",
+  "beispielsatz": "Mein Onkel besucht uns jedes Jahr zu Weihnachten.",
+  "rechtschreibstrategie": "Sprich das Wort laut: On-kel. Das „O\" am Anfang wird groß geschrieben, weil Onkel ein Nomen ist. Merke dir: Nach dem kurzen „O\" folgt „nk\" – kein „ng\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Onkel.webp",
+  "audio_datei": "Onkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "uncle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "oncle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "amca / dayı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عم / خال"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tante"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Neffe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Onkel",
+    "plural": "die Onkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Onkel",
+        "genitiv": "des Onkels",
+        "dativ": "dem Onkel",
+        "akkusativ": "den Onkel"
+      },
+      "plural": {
+        "nominativ": "die Onkel",
+        "genitiv": "der Onkel",
+        "dativ": "den Onkeln",
+        "akkusativ": "die Onkel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Onckel",
+    "Onkell",
+    "Onkel",
+    "Ongkel",
+    "Onkle"
+  ]
+}

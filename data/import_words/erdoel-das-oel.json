@@ -1,0 +1,83 @@
+{
+  "lemma": "Erdöl / das Öl",
+  "wortart": "Nomen",
+  "silben": "Erd-öl",
+  "begriffserklaerung": "Erdöl ist eine dunkle, ölige Flüssigkeit, die tief unter der Erde vorkommt. Aus Erdöl macht man zum Beispiel Benzin für Autos und Heizöl zum Heizen.",
+  "beispielsatz": "Aus Erdöl wird das Benzin hergestellt, das Autos zum Fahren brauchen.",
+  "rechtschreibstrategie": "„Erdöl\" ist ein zusammengesetztes Wort aus „Erde\" und „Öl\". Schreib einfach beide Wörter zusammen: Erd + Öl = Erdöl. Vergiss das Umlaut-Ö nicht!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Öl",
+    "Erde"
+  ],
+  "bild_datei": "Erdöl / das Öl.webp",
+  "audio_datei": "Erdöl / das Öl.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Erdöl",
+    "plural": "die Erdöle",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Erdöl",
+        "genitiv": "des Erdöls",
+        "dativ": "dem Erdöl",
+        "akkusativ": "das Erdöl"
+      },
+      "plural": {
+        "nominativ": "die Erdöle",
+        "genitiv": "der Erdöle",
+        "dativ": "den Erdölen",
+        "akkusativ": "die Erdöle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "petroleum / crude oil"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pétrole"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ham petrol"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نفط"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Öl"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Benzin"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Energie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rohstoff"
+    }
+  ],
+  "fehlschreibungen": [
+    "Erdoel",
+    "Ertöl",
+    "Ärdöl",
+    "Erdöhl",
+    "Erföl"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "lemma": "Medizin",
+  "wortart": "Nomen",
+  "silben": "Me-di-zin",
+  "begriffserklaerung": "Medizin ist ein anderes Wort für Arznei oder Heilmittel. Es kann ein Mittel sein, das man schluckt oder einreibt, wenn man krank ist. Medizin ist auch die Wissenschaft, die sich darum kümmert, Menschen gesund zu machen.",
+  "beispielsatz": "Der Arzt verschreibt dem kranken Kind eine Medizin, damit es schnell wieder gesund wird.",
+  "rechtschreibstrategie": "Das Wort „Medizin\" sprichst du genau so, wie es geschrieben steht: Me-di-zin. Achte auf das „z\" am Ende – es klingt wie „ts\". Das ist ein Merkwort, das du dir gut einprägen musst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Medizin"
+  ],
+  "bild_datei": "Medizin.webp",
+  "audio_datei": "Medizin.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "medicine"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médicament"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ilaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دواء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "medizinisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mediziner"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Arznei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Heilmittel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenhaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Apotheke"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Medizin",
+    "plural": "die Medizinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Medizin",
+        "genitiv": "der Medizin",
+        "dativ": "der Medizin",
+        "akkusativ": "die Medizin"
+      },
+      "plural": {
+        "nominativ": "die Medizinen",
+        "genitiv": "der Medizinen",
+        "dativ": "den Medizinen",
+        "akkusativ": "die Medizinen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Medezin",
+    "Medizien",
+    "Medizinn",
+    "Meddizin",
+    "Meditzin",
+    "Medisin"
+  ]
+}

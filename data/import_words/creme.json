@@ -1,0 +1,82 @@
+{
+  "lemma": "Creme",
+  "wortart": "Nomen",
+  "silben": "Cre-me",
+  "begriffserklaerung": "Eine Creme ist eine weiche, cremige Masse. Man kann sie auf die Haut auftragen oder als süße Füllung in Kuchen und Torten verwenden.",
+  "beispielsatz": "Mama reibt mir jeden Abend eine Creme auf die Hände.",
+  "rechtschreibstrategie": "Das Wort „Creme\" kommt aus dem Französischen. Schreibe es mit „C\" am Anfang und „e\" am Ende – sprich es wie „Kräm\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Creme"
+  ],
+  "bild_datei": "Creme.webp",
+  "audio_datei": "Creme.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cream"
+    },
+    {
+      "language_code": "fr",
+      "translation": "crème"
+    },
+    {
+      "language_code": "tr",
+      "translation": "krem"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كريم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "eincremen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Cremeschnitte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lotion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Salbe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Paste"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Creme",
+    "plural": "die Cremes",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Creme",
+        "genitiv": "der Creme",
+        "dativ": "der Creme",
+        "akkusativ": "die Creme"
+      },
+      "plural": {
+        "nominativ": "die Cremes",
+        "genitiv": "der Cremes",
+        "dativ": "den Cremes",
+        "akkusativ": "die Cremes"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kreme",
+    "Krähme",
+    "Creeme",
+    "Kräme",
+    "Kreem"
+  ]
+}

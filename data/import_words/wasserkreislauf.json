@@ -1,0 +1,85 @@
+{
+  "lemma": "Wasserkreislauf",
+  "wortart": "Nomen",
+  "silben": "Was-ser-kreis-lauf",
+  "begriffserklaerung": "Der Wasserkreislauf beschreibt, wie Wasser immer wieder denselben Weg durchläuft: Es verdunstet, steigt als Wolken hoch, fällt als Regen herunter und fließt zurück ins Meer.",
+  "beispielsatz": "Im Sachkundeunterricht haben wir gelernt, wie der Wasserkreislauf funktioniert.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Wasser\" + „Kreis\" + „Lauf\". Schreib sie einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Wasser",
+    "Kreis",
+    "laufen"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Wasserkreislauf",
+    "plural": "die Wasserkreisläufe",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Wasserkreislauf",
+        "genitiv": "des Wasserkreislaufs",
+        "dativ": "dem Wasserkreislauf",
+        "akkusativ": "den Wasserkreislauf"
+      },
+      "plural": {
+        "nominativ": "die Wasserkreisläufe",
+        "genitiv": "der Wasserkreisläufe",
+        "dativ": "den Wasserkreisläufen",
+        "akkusativ": "die Wasserkreisläufe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Wasserkreißlauf",
+    "Wasserkreislauft",
+    "Waserkreislauf",
+    "Wasserkraislauf",
+    "Wasserkreislaf"
+  ],
+  "bild_datei": "Wasserkreislauf.webp",
+  "audio_datei": "Wasserkreislauf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "water cycle"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cycle de l'eau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "su döngüsü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دورة الماء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kreislauf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verdunstung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Niederschlag"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolke"
+    }
+  ]
+}

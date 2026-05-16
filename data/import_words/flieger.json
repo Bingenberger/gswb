@@ -1,0 +1,87 @@
+{
+  "lemma": "Flieger",
+  "wortart": "Nomen",
+  "silben": "Flie-ger",
+  "begriffserklaerung": "Ein Flieger ist ein Flugzeug oder eine Person, die fliegt.",
+  "beispielsatz": "Der Flieger am Himmel sieht aus wie ein kleiner Silbervogel.",
+  "rechtschreibstrategie": "Das Wort „Flieger\" kommt von „fliegen\". Das ie sprichst du lang, wie in „tief\". Denk daran: i-e zusammen klingt wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "flieg"
+  ],
+  "bild_datei": "Flieger.webp",
+  "audio_datei": "Flieger.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flieger",
+    "plural": "die Flieger",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flieger",
+        "genitiv": "des Fliegers",
+        "dativ": "dem Flieger",
+        "akkusativ": "den Flieger"
+      },
+      "plural": {
+        "nominativ": "die Flieger",
+        "genitiv": "der Flieger",
+        "dativ": "den Fliegern",
+        "akkusativ": "die Flieger"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "airplane / pilot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avion / aviateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uçak / pilot"
+    },
+    {
+      "language_code": "ar",
+      "translation": "طيارة / طيار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fliegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Flug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Flugzeug"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hubschrauber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pilot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flughafen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fliger",
+    "Flieger",
+    "Fleiger",
+    "Flieeger",
+    "Flijer"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "lemma": "Hühnchen",
+  "wortart": "Nomen",
+  "silben": "Hühn-chen",
+  "begriffserklaerung": "Ein Hühnchen ist ein junges oder kleines Huhn. Man nennt so auch ein gebratenes Huhn, das man essen kann.",
+  "beispielsatz": "Das Hühnchen gackert laut auf dem Bauernhof.",
+  "rechtschreibstrategie": "Denk an das große Wort „Huhn\" – daraus wird „Hühn-chen\". Das Wort endet immer auf -chen, weil es ein Verniedlichungswort ist.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Huhn"
+  ],
+  "bild_datei": "Hühnchen.webp",
+  "audio_datei": "Hühnchen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chicken"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poulet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tavuk"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دجاجة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Huhn"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hühner"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Küken"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hühnchen",
+    "plural": "die Hühnchen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hühnchen",
+        "genitiv": "des Hühnchens",
+        "dativ": "dem Hühnchen",
+        "akkusativ": "das Hühnchen"
+      },
+      "plural": {
+        "nominativ": "die Hühnchen",
+        "genitiv": "der Hühnchen",
+        "dativ": "den Hühnchen",
+        "akkusativ": "die Hühnchen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hühnchen",
+    "Hünchen"
+  ]
+}

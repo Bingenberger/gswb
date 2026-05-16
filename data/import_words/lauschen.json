@@ -1,0 +1,98 @@
+{
+  "lemma": "lauschen",
+  "wortart": "Verb",
+  "silben": "lau-schen",
+  "begriffserklaerung": "Lauschen bedeutet, sehr genau und aufmerksam zuzuhören, oft leise und heimlich.",
+  "beispielsatz": "Die Kinder lauschen gespannt der Geschichte, die die Lehrerin vorliest.",
+  "rechtschreibstrategie": "Denk an das „au\" wie in „Baum\" und das „sch\" wie in „Schule\" – lau-schen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lausch"
+  ],
+  "bild_datei": "lauschen.webp",
+  "audio_datei": "lauschen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "lauschen",
+    "praesens": {
+      "ich": "lausche",
+      "du": "lauschst",
+      "er_sie_es": "lauscht",
+      "wir": "lauschen",
+      "ihr": "lauscht",
+      "sie": "lauschen"
+    },
+    "perfekt": {
+      "ich": "habe gelauscht",
+      "du": "hast gelauscht",
+      "er_sie_es": "hat gelauscht",
+      "wir": "haben gelauscht",
+      "ihr": "habt gelauscht",
+      "sie": "haben gelauscht"
+    },
+    "praeteritum": {
+      "ich": "lauschte",
+      "du": "lauschtest",
+      "er_sie_es": "lauschte",
+      "wir": "lauschten",
+      "ihr": "lauschtet",
+      "sie": "lauschten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to listen (carefully)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "écouter attentivement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kulak vermek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُنصت / يتنصَّت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lauscher"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lauschig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zuhören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "horchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "hören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "flüstern"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schweigen"
+    }
+  ],
+  "fehlschreibungen": [
+    "lausschen",
+    "laushen",
+    "lauchen",
+    "laurschen",
+    "lauschen"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "April",
+  "wortart": "Nomen",
+  "silben": "Ap-ril",
+  "begriffserklaerung": "Der April ist der vierte Monat im Jahr. Er liegt zwischen März und Mai und gehört zum Frühling.",
+  "beispielsatz": "Im April blühen viele bunte Blumen auf den Wiesen.",
+  "rechtschreibstrategie": "Schreibe „April\" immer mit großem A, denn es ist ein Nomen. Höre genau hin: Ap-ril – zwei Silben, am Ende ein l.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der April",
+    "plural": "die Aprile",
+    "deklination": {
+      "singular": {
+        "nominativ": "der April",
+        "genitiv": "des Aprils",
+        "dativ": "dem April",
+        "akkusativ": "den April"
+      },
+      "plural": {
+        "nominativ": "die Aprile",
+        "genitiv": "der Aprile",
+        "dativ": "den Aprilen",
+        "akkusativ": "die Aprile"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "März"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mai"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frühling"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "April"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avril"
+    },
+    {
+      "language_code": "tr",
+      "translation": "Nisan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أبريل"
+    }
+  ],
+  "fehlschreibungen": [
+    "Aprill",
+    "Appril",
+    "Aprel",
+    "april",
+    "Apriel"
+  ],
+  "bild_datei": "April.webp",
+  "audio_datei": "April.mp3"
+}

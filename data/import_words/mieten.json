@@ -1,0 +1,98 @@
+{
+  "lemma": "mieten",
+  "wortart": "Verb",
+  "silben": "mie-ten",
+  "begriffserklaerung": "Wenn du etwas mietest, darfst du es für eine bestimmte Zeit benutzen und bezahlst dafür Geld. Zum Beispiel kann eine Familie eine Wohnung mieten.",
+  "beispielsatz": "Meine Familie mietet eine schöne Wohnung in der Stadt.",
+  "rechtschreibstrategie": "In „mieten\" steckt das lange „ie\" – sprich es laut: mie-ten. Das „ie\" schreibt man immer mit „i\" und „e\" zusammen!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "miet"
+  ],
+  "bild_datei": "mieten.webp",
+  "audio_datei": "mieten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "mieten",
+    "praesens": {
+      "ich": "miete",
+      "du": "mietest",
+      "er_sie_es": "mietet",
+      "wir": "mieten",
+      "ihr": "mietet",
+      "sie": "mieten"
+    },
+    "perfekt": {
+      "ich": "habe gemietet",
+      "du": "hast gemietet",
+      "er_sie_es": "hat gemietet",
+      "wir": "haben gemietet",
+      "ihr": "habt gemietet",
+      "sie": "haben gemietet"
+    },
+    "praeteritum": {
+      "ich": "mietete",
+      "du": "mietest",
+      "er_sie_es": "mietete",
+      "wir": "mieteten",
+      "ihr": "mietetet",
+      "sie": "mieteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to rent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "louer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kiralamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يستأجر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Miete"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mieter"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vermieten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "leihen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wohnung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kaufen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "bezahlen"
+    }
+  ],
+  "fehlschreibungen": [
+    "mietten",
+    "mieten",
+    "miten",
+    "miehten",
+    "mieden"
+  ]
+}

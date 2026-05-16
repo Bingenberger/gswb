@@ -1,0 +1,84 @@
+{
+  "lemma": "Vorlesen",
+  "wortart": "Nomen",
+  "silben": "Vor-le-sen",
+  "begriffserklaerung": "Das Vorlesen ist, wenn jemand laut aus einem Buch oder einem Text liest, damit andere zuhören können.",
+  "beispielsatz": "Das Vorlesen einer spannenden Geschichte macht allen Kindern Spaß.",
+  "rechtschreibstrategie": "„Vorlesen\" ist ein Bausteinwort aus „vor\" und „lesen\". Schreib beide Teile einfach zusammen: vor + lesen = Vorlesen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lesen",
+    "vor"
+  ],
+  "bild_datei": "Vorlesen.webp",
+  "audio_datei": "Vorlesen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "reading aloud"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lecture à haute voix"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sesli okuma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "القراءة بصوت عالٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Buch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschichte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lesen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Vorlesen",
+    "plural": "–",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Vorlesen",
+        "genitiv": "des Vorlesens",
+        "dativ": "dem Vorlesen",
+        "akkusativ": "das Vorlesen"
+      },
+      "plural": {
+        "nominativ": "–",
+        "genitiv": "–",
+        "dativ": "–",
+        "akkusativ": "–"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Vorlessen",
+    "Forlesen",
+    "Vorleesen",
+    "vorlesen",
+    "Vor-lesen",
+    "Vohrlesen"
+  ]
+}

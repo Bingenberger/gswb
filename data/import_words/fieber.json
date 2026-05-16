@@ -1,0 +1,82 @@
+{
+  "lemma": "Fieber",
+  "wortart": "Nomen",
+  "silben": "Fie-ber",
+  "begriffserklaerung": "Fieber bedeutet, dass dein Körper wärmer ist als normal. Das passiert oft, wenn du krank bist und dein Körper gegen Krankheitserreger kämpft.",
+  "beispielsatz": "Lena hat Fieber und muss heute im Bett bleiben.",
+  "rechtschreibstrategie": "Denk an „fie\" wie in „Fliege\" – der lange „ie\"-Laut wird mit ie geschrieben: F-ie-ber.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "fieber"
+  ],
+  "bild_datei": "Fieber.webp",
+  "audio_datei": "Fieber.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "fever"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fièvre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ateş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حُمَّى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fiebern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fieberhaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erkältung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankheit"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Temperatur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fieber",
+    "plural": "die Fieber",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fieber",
+        "genitiv": "des Fiebers",
+        "dativ": "dem Fieber",
+        "akkusativ": "das Fieber"
+      },
+      "plural": {
+        "nominativ": "die Fieber",
+        "genitiv": "der Fieber",
+        "dativ": "den Fiebern",
+        "akkusativ": "die Fieber"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fieeber",
+    "Fieper",
+    "Fiefer",
+    "Fiber",
+    "Fihber"
+  ]
+}

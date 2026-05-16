@@ -1,0 +1,75 @@
+{
+  "lemma": "Club",
+  "wortart": "Nomen",
+  "silben": "Club",
+  "begriffserklaerung": "Ein Club ist eine Gruppe von Menschen, die dasselbe mögen und sich regelmäßig treffen, zum Beispiel zum Sport oder zum Basteln.",
+  "beispielsatz": "Leon ist Mitglied in einem Fußball-Club.",
+  "rechtschreibstrategie": "„Club\" kommt aus dem Englischen und schreibt sich mit C am Anfang und b am Ende – ein Merkwort, das du dir einfach merken musst!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Club"
+  ],
+  "bild_datei": "Club.webp",
+  "audio_datei": "Club.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "club"
+    },
+    {
+      "language_code": "fr",
+      "translation": "club"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kulüp"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نادٍ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mitglied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Club",
+    "plural": "die Clubs",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Club",
+        "genitiv": "des Clubs",
+        "dativ": "dem Club",
+        "akkusativ": "den Club"
+      },
+      "plural": {
+        "nominativ": "die Clubs",
+        "genitiv": "der Clubs",
+        "dativ": "den Clubs",
+        "akkusativ": "die Clubs"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Klub",
+    "Clup",
+    "Clab",
+    "Kclub",
+    "Clupp"
+  ]
+}

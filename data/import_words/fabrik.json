@@ -1,0 +1,83 @@
+{
+  "lemma": "Fabrik",
+  "wortart": "Nomen",
+  "silben": "Fab-rik",
+  "begriffserklaerung": "Eine Fabrik ist ein großes Gebäude, in dem Maschinen viele gleiche Dinge herstellen, zum Beispiel Autos, Schokolade oder Kleidung.",
+  "beispielsatz": "In der Fabrik werden jeden Tag hunderte von Autos gebaut.",
+  "rechtschreibstrategie": "Das Wort „Fabrik\" klingt am Ende wie „k\", wird aber mit -ik geschrieben. Merke: Fab-rik – sprich es in Silben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Fabrik"
+  ],
+  "bild_datei": "Fabrik.webp",
+  "audio_datei": "Fabrik.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "factory"
+    },
+    {
+      "language_code": "fr",
+      "translation": "usine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fabrika"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مصنع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fabrizieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fabrikant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Werkstatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Werk"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Fabrik",
+    "plural": "die Fabriken",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Fabrik",
+        "genitiv": "der Fabrik",
+        "dativ": "der Fabrik",
+        "akkusativ": "die Fabrik"
+      },
+      "plural": {
+        "nominativ": "die Fabriken",
+        "genitiv": "der Fabriken",
+        "dativ": "den Fabriken",
+        "akkusativ": "die Fabriken"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fabrick",
+    "Fabrig",
+    "Phabrik",
+    "Fabric",
+    "Fabrik",
+    "Fabriek"
+  ]
+}

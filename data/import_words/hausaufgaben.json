@@ -1,0 +1,84 @@
+{
+  "lemma": "Hausaufgaben",
+  "wortart": "Nomen",
+  "silben": "Haus-auf-ga-ben",
+  "begriffserklaerung": "Hausaufgaben sind Aufgaben, die du nach der Schule zu Hause erledigst. Dein Lehrer oder deine Lehrerin gibt sie dir auf.",
+  "beispielsatz": "Nach dem Mittagessen macht Lisa immer zuerst ihre Hausaufgaben.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Haus\" und „Aufgaben\". Sprich beide Teile laut, dann kannst du sie leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Aufgabe"
+  ],
+  "bild_datei": "Hausaufgaben.webp",
+  "audio_datei": "Hausaufgaben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "homework"
+    },
+    {
+      "language_code": "fr",
+      "translation": "devoirs"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev ödevi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "واجبات منزلية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "Hausaufgabe",
+    "plural": "Hausaufgaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hausaufgabe",
+        "genitiv": "der Hausaufgabe",
+        "dativ": "der Hausaufgabe",
+        "akkusativ": "die Hausaufgabe"
+      },
+      "plural": {
+        "nominativ": "die Hausaufgaben",
+        "genitiv": "der Hausaufgaben",
+        "dativ": "den Hausaufgaben",
+        "akkusativ": "die Hausaufgaben"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hausaufgapen",
+    "Hausaufgaben",
+    "Hausaufgabn",
+    "Hausaufaben",
+    "Hausufgaben",
+    "Hausaufgaaben"
+  ]
+}

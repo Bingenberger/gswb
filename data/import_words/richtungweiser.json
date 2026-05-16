@@ -1,0 +1,83 @@
+{
+  "lemma": "Richtungweiser",
+  "wortart": "Nomen",
+  "silben": "Rich-tung-wei-ser",
+  "begriffserklaerung": "Ein Richtungweiser ist ein Schild oder eine Tafel, die zeigt, in welche Richtung man gehen oder fahren muss, um an ein bestimmtes Ziel zu gelangen.",
+  "beispielsatz": "Am Waldeingang steht ein Richtungweiser, der uns den Weg zur Hütte zeigt.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Richtung\" und „Weiser\". Sprich beide Teile einzeln, dann kannst du sie gut zusammenschreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Richtung",
+    "weisen"
+  ],
+  "bild_datei": "Richtungweiser.webp",
+  "audio_datei": "Richtungweiser.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "signpost"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau indicateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yön tabelası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لافتة اتجاه"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Richtung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wegweiser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schild"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wegweiser"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Richtungweiser",
+    "plural": "die Richtungweiser",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Richtungweiser",
+        "genitiv": "des Richtungweisers",
+        "dativ": "dem Richtungweiser",
+        "akkusativ": "den Richtungweiser"
+      },
+      "plural": {
+        "nominativ": "die Richtungweiser",
+        "genitiv": "der Richtungweiser",
+        "dativ": "den Richtungweisern",
+        "akkusativ": "die Richtungweiser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Richtungsweiser",
+    "Richttungweiser",
+    "Richtungweiszer",
+    "Richtungweißer",
+    "Richtungweyser"
+  ]
+}

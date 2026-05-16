@@ -1,0 +1,91 @@
+{
+  "lemma": "abmessen",
+  "wortart": "Verb",
+  "silben": "ab-mes-sen",
+  "begriffserklaerung": "Abmessen bedeutet, die Länge, Breite oder Menge von etwas genau mit einem Lineal, einem Maßband oder einem Messbecher herauszufinden.",
+  "beispielsatz": "Lea misst mit dem Lineal genau ab, wie lang das Papier ist.",
+  "rechtschreibstrategie": "Das Wort besteht aus den Bausteinen „ab\" und „messen\". In „messen\" hörst du das kurze „e\", deshalb schreibt man zwei „s\": mes-sen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "mess"
+  ],
+  "bild_datei": "abmessen.webp",
+  "audio_datei": "abmessen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to measure"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mesurer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ölçmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقيس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maß"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wiegen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "zählen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "ausmessen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "abmessen",
+    "praesens": {
+      "ich": "messe ab",
+      "du": "misst ab",
+      "er_sie_es": "misst ab",
+      "wir": "messen ab",
+      "ihr": "messt ab",
+      "sie": "messen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgemessen",
+      "du": "hast abgemessen",
+      "er_sie_es": "hat abgemessen",
+      "wir": "haben abgemessen",
+      "ihr": "habt abgemessen",
+      "sie": "haben abgemessen"
+    },
+    "praeteritum": {
+      "ich": "maß ab",
+      "du": "maßest ab",
+      "er_sie_es": "maß ab",
+      "wir": "maßen ab",
+      "ihr": "maßt ab",
+      "sie": "maßen ab"
+    }
+  },
+  "fehlschreibungen": [
+    "abmesen",
+    "abmässsen",
+    "abmessen",
+    "abmesssen",
+    "abmässen"
+  ]
+}

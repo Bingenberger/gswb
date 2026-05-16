@@ -1,0 +1,81 @@
+{
+  "lemma": "Hemd",
+  "wortart": "Nomen",
+  "silben": "Hemd",
+  "begriffserklaerung": "Ein Hemd ist ein Kleidungsstück für den Oberkörper. Es hat meist lange oder kurze Ärmel und Knöpfe vorne.",
+  "beispielsatz": "Papa zieht jeden Morgen ein frisches Hemd an.",
+  "rechtschreibstrategie": "Wenn du „Hemden\" sagst, hörst du das „d\" am Ende deutlich. Deshalb schreibt man Hemd mit „d\" und nicht mit „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Hemd"
+  ],
+  "bild_datei": "Hemd.webp",
+  "audio_datei": "Hemd.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shirt"
+    },
+    {
+      "language_code": "fr",
+      "translation": "chemise"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gömlek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قميص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hemden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Hemdchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bluse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "T-Shirt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Hemd",
+    "plural": "die Hemden",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Hemd",
+        "genitiv": "des Hemdes",
+        "dativ": "dem Hemd",
+        "akkusativ": "das Hemd"
+      },
+      "plural": {
+        "nominativ": "die Hemden",
+        "genitiv": "der Hemden",
+        "dativ": "den Hemden",
+        "akkusativ": "die Hemden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hemt",
+    "Hend",
+    "Hemmt",
+    "Hemdt"
+  ]
+}

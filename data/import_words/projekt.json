@@ -1,0 +1,83 @@
+{
+  "lemma": "Projekt",
+  "wortart": "Nomen",
+  "silben": "Pro-jekt",
+  "begriffserklaerung": "Ein Projekt ist eine besondere Aufgabe oder ein Vorhaben, an dem man eine Zeit lang arbeitet – oft zusammen mit anderen.",
+  "beispielsatz": "Unsere Klasse macht ein Projekt über Tiere im Wald.",
+  "rechtschreibstrategie": "Sprich das Wort laut in Silben: Pro – jekt. Das „j\" hörst du deutlich. Am Ende schreibst du „kt\" – beide Buchstaben mitsprechen!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Projekt"
+  ],
+  "bild_datei": "Projekt.webp",
+  "audio_datei": "Projekt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "project"
+    },
+    {
+      "language_code": "fr",
+      "translation": "projet"
+    },
+    {
+      "language_code": "tr",
+      "translation": "proje"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مشروع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Projektarbeit"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Projektwoche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorhaben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorhaben"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Projekt",
+    "plural": "die Projekte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Projekt",
+        "genitiv": "des Projekts",
+        "dativ": "dem Projekt",
+        "akkusativ": "das Projekt"
+      },
+      "plural": {
+        "nominativ": "die Projekte",
+        "genitiv": "der Projekte",
+        "dativ": "den Projekten",
+        "akkusativ": "die Projekte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Projäkt",
+    "Projeckt",
+    "Projeck",
+    "Projehkt",
+    "Prokjekt",
+    "Projegt"
+  ]
+}

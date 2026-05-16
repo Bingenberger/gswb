@@ -1,0 +1,101 @@
+{
+  "lemma": "abstammen",
+  "wortart": "Verb",
+  "silben": "ab-stam-men",
+  "begriffserklaerung": "Wenn du von jemandem abstammst, dann kommen deine Vorfahren – also deine Familie von früher – von dieser Person oder Gruppe.",
+  "beispielsatz": "Alle Menschen stammen von gemeinsamen Vorfahren ab.",
+  "rechtschreibstrategie": "Das Wort steckt aus zwei Teilen: „ab\" + „stammen\". Im Wortstamm „stamm\" hörst du zwei m – sprich es laut mit: STAMM-men!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Stamm",
+    "stammen"
+  ],
+  "bild_datei": "abstammen.webp",
+  "audio_datei": "abstammen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "abstammen",
+    "praesens": {
+      "ich": "stamme ab",
+      "du": "stammst ab",
+      "er_sie_es": "stammt ab",
+      "wir": "stammen ab",
+      "ihr": "stammt ab",
+      "sie": "stammen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgestammt",
+      "du": "hast abgestammt",
+      "er_sie_es": "hat abgestammt",
+      "wir": "haben abgestammt",
+      "ihr": "habt abgestammt",
+      "sie": "haben abgestammt"
+    },
+    "praeteritum": {
+      "ich": "stammte ab",
+      "du": "stammtest ab",
+      "er_sie_es": "stammte ab",
+      "wir": "stammten ab",
+      "ihr": "stammtet ab",
+      "sie": "stammten ab"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to descend (from)"
+    },
+    {
+      "language_code": "fr",
+      "translation": "descendre (de)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "soyundan gelmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ينحدر من"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stamm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abstammung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "herkommen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "stammen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herkunft"
+    }
+  ],
+  "fehlschreibungen": [
+    "apstammen",
+    "abstamen",
+    "absstammen",
+    "abstammen",
+    "abshtammen",
+    "abstamem"
+  ]
+}

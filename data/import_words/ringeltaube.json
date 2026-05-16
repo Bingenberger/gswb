@@ -1,0 +1,85 @@
+{
+  "lemma": "Ringeltaube",
+  "wortart": "Nomen",
+  "silben": "Rin-gel-tau-be",
+  "begriffserklaerung": "Die Ringeltaube ist ein großer grauer Vogel mit einem weißen Fleck am Hals. Sie lebt in Wäldern und Parks und macht ein weiches, tiefes Gurren.",
+  "beispielsatz": "Eine Ringeltaube sitzt auf dem Ast vor unserem Fenster und gurrt ganz laut.",
+  "rechtschreibstrategie": "Das Wort „Ringeltaube\" ist aus zwei Teilen zusammengesetzt: „Ringel\" und „Taube\". Schreibe beide Teile einfach hintereinander – kein Bindestrich!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Taube",
+    "Ringel"
+  ],
+  "bild_datei": "Ringeltaube.webp",
+  "audio_datei": "Ringeltaube.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ringeltaube",
+    "plural": "die Ringeltauben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ringeltaube",
+        "genitiv": "der Ringeltaube",
+        "dativ": "der Ringeltaube",
+        "akkusativ": "die Ringeltaube"
+      },
+      "plural": {
+        "nominativ": "die Ringeltauben",
+        "genitiv": "der Ringeltauben",
+        "dativ": "den Ringeltauben",
+        "akkusativ": "die Ringeltauben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wood pigeon"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pigeon ramier"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tahtalı güvercin"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حمامة الخشب"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taube"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ringel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadttaube"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ringgeltaube",
+    "Ringeltaube",
+    "Ringelttaube",
+    "Ringeltoube",
+    "Rингелtaube",
+    "Ringeldaube",
+    "Rinkeltaube"
+  ]
+}

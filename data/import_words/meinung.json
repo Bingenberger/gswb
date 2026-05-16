@@ -1,0 +1,93 @@
+{
+  "lemma": "Meinung",
+  "wortart": "Nomen",
+  "silben": "Mei-nung",
+  "begriffserklaerung": "Eine Meinung ist das, was du über etwas denkst oder glaubst. Jeder Mensch kann seine eigene Meinung haben.",
+  "beispielsatz": "Meine Meinung ist, dass Hunde die tollsten Haustiere sind.",
+  "rechtschreibstrategie": "Denk an das Wort „meinen\" – daraus wird „Meinung\". Das „ei\" sprichst du wie in „nein\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "mein"
+  ],
+  "bild_datei": "Meinung.webp",
+  "audio_datei": "Meinung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Meinung",
+    "plural": "die Meinungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Meinung",
+        "genitiv": "der Meinung",
+        "dativ": "der Meinung",
+        "akkusativ": "die Meinung"
+      },
+      "plural": {
+        "nominativ": "die Meinungen",
+        "genitiv": "der Meinungen",
+        "dativ": "den Meinungen",
+        "akkusativ": "die Meinungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "opinion"
+    },
+    {
+      "language_code": "fr",
+      "translation": "opinion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "görüş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رأي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "meinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "vermeinen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ansicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Standpunkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gedanke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aussage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Diskussion"
+    }
+  ],
+  "fehlschreibungen": [
+    "Meinung",
+    "Mainung",
+    "Meihnung",
+    "Meiuung",
+    "Meinnug",
+    "Meinoung"
+  ]
+}

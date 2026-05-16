@@ -1,0 +1,96 @@
+{
+  "lemma": "abfahren",
+  "wortart": "Verb",
+  "silben": "ab-fah-ren",
+  "begriffserklaerung": "Wenn ein Zug, ein Bus oder ein Auto losfährt und einen Ort verlässt, fährt er ab.",
+  "beispielsatz": "Der Zug fährt um acht Uhr vom Bahnhof ab.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Bausteinen: „ab\" und „fahren\". Das Dehnungs-h in „fahren\" hilft dir, das lange „a\" zu hören – schreib es immer mit h!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "fahr"
+  ],
+  "bild_datei": "abfahren.webp",
+  "audio_datei": "abfahren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to depart / to drive off"
+    },
+    {
+      "language_code": "fr",
+      "translation": "partir / démarrer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hareket etmek / yola çıkmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يغادر / ينطلق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Abfahrt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "losfahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "ankommen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "reisen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bahnhof"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "abfahren",
+    "praesens": {
+      "ich": "fahre ab",
+      "du": "fährst ab",
+      "er_sie_es": "fährt ab",
+      "wir": "fahren ab",
+      "ihr": "fahrt ab",
+      "sie": "fahren ab"
+    },
+    "perfekt": {
+      "ich": "bin abgefahren",
+      "du": "bist abgefahren",
+      "er_sie_es": "ist abgefahren",
+      "wir": "sind abgefahren",
+      "ihr": "seid abgefahren",
+      "sie": "sind abgefahren"
+    },
+    "praeteritum": {
+      "ich": "fuhr ab",
+      "du": "fuhrst ab",
+      "er_sie_es": "fuhr ab",
+      "wir": "fuhren ab",
+      "ihr": "fuhrt ab",
+      "sie": "fuhren ab"
+    }
+  },
+  "fehlschreibungen": [
+    "abfahen",
+    "abfaren",
+    "abfahrn",
+    "Abfahren",
+    "abfharen",
+    "abfaaren"
+  ]
+}

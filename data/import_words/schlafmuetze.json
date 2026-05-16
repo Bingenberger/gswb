@@ -1,0 +1,89 @@
+{
+  "lemma": "Schlafmütze",
+  "wortart": "Nomen",
+  "silben": "Schlaf-müt-ze",
+  "begriffserklaerung": "Eine Schlafmütze ist ein anderes Wort für einen Menschen, der immer müde ist und am liebsten schläft oder der morgens sehr schwer aufwacht. Früher war eine Schlafmütze auch eine weiche Mütze, die man nachts beim Schlafen aufsetzte.",
+  "beispielsatz": "Mein kleiner Bruder ist eine richtige Schlafmütze – morgens bekommt man ihn kaum aus dem Bett!",
+  "rechtschreibstrategie": "Das Wort „Schlafmütze\" besteht aus zwei Teilen: „Schlaf\" und „Mütze\". Schreib beide Teile zusammen und denke daran: Nach dem kurzen „ü\" kommt ein Doppel-t (tt) – Müt-ze!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schlaf",
+    "mütz"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schlafmütze",
+    "plural": "die Schlafmützen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schlafmütze",
+        "genitiv": "der Schlafmütze",
+        "dativ": "der Schlafmütze",
+        "akkusativ": "die Schlafmütze"
+      },
+      "plural": {
+        "nominativ": "die Schlafmützen",
+        "genitiv": "der Schlafmützen",
+        "dativ": "den Schlafmützen",
+        "akkusativ": "die Schlafmützen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlafmütse",
+    "Schlafmüze",
+    "Schlaafmütze",
+    "Schlafmüdze",
+    "Schlaffmütze",
+    "Schlafmützte"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schlafen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mütze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Langschläfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "müde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bett"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sleepyhead"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grosse tête endormie / dormir debout"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uyuşuk / uykucu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نعسان / كسول النوم"
+    }
+  ],
+  "bild_datei": "Schlafmütze.webp",
+  "audio_datei": "Schlafmütze.mp3"
+}

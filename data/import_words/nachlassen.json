@@ -1,0 +1,100 @@
+{
+  "lemma": "nachlassen",
+  "wortart": "Verb",
+  "silben": "nach-las-sen",
+  "begriffserklaerung": "Wenn etwas nachlässt, wird es schwächer oder weniger. Zum Beispiel kann Schmerz, Wind oder Regen nachlassen.",
+  "beispielsatz": "Nach dem langen Laufen ließ meine Kraft langsam nach.",
+  "rechtschreibstrategie": "Das Wort besteht aus den Bausteinen „nach\" und „lassen\". Das doppelte „s\" in „lassen\" hörst du, wenn du das Wort langsam sprichst: nach-las-sen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "lassen",
+    "nach"
+  ],
+  "bild_datei": "nachlassen.webp",
+  "audio_datei": "nachlassen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "nachlassen",
+    "praesens": {
+      "ich": "lasse nach",
+      "du": "lässt nach",
+      "er_sie_es": "lässt nach",
+      "wir": "lassen nach",
+      "ihr": "lasst nach",
+      "sie": "lassen nach"
+    },
+    "perfekt": {
+      "ich": "habe nachgelassen",
+      "du": "hast nachgelassen",
+      "er_sie_es": "hat nachgelassen",
+      "wir": "haben nachgelassen",
+      "ihr": "habt nachgelassen",
+      "sie": "haben nachgelassen"
+    },
+    "praeteritum": {
+      "ich": "ließ nach",
+      "du": "ließt nach",
+      "er_sie_es": "ließ nach",
+      "wir": "ließen nach",
+      "ihr": "ließt nach",
+      "sie": "ließen nach"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to ease off / to decrease"
+    },
+    {
+      "language_code": "fr",
+      "translation": "diminuer / se relâcher"
+    },
+    {
+      "language_code": "tr",
+      "translation": "azalmak / gevşemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يخف / يتراجع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lassen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nachlass"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schwächer werden"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abnehmen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "aufhören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schwinden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sinken"
+    }
+  ],
+  "fehlschreibungen": [
+    "nachlasen",
+    "nachlasssen",
+    "nachlaßen",
+    "nachlassen",
+    "nachlässen"
+  ]
+}

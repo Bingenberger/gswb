@@ -1,0 +1,94 @@
+{
+  "lemma": "boxen",
+  "wortart": "Verb",
+  "silben": "bo-xen",
+  "begriffserklaerung": "Boxen bedeutet, mit den Fäusten gegen jemanden oder etwas zu schlagen. Beim Boxen trägt man meistens Handschuhe und kämpft nach bestimmten Regeln.",
+  "beispielsatz": "Tim und sein Freund boxen zusammen in der Sporthalle.",
+  "rechtschreibstrategie": "In „boxen\" steckt ein X. Das X klingt wie „ks\" – sprich es deutlich mit: bo-xen. Schreib nie „bocksen\" oder „boksen\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "box"
+  ],
+  "bild_datei": "boxen.webp",
+  "audio_datei": "boxen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boxer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "boks yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتملكس / يلاكم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Box"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Boxer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Boxkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kämpfen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sport"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schlagen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "boxen",
+    "praesens": {
+      "ich": "boxe",
+      "du": "boxt",
+      "er_sie_es": "boxt",
+      "wir": "boxen",
+      "ihr": "boxt",
+      "sie": "boxen"
+    },
+    "perfekt": {
+      "ich": "habe geboxt",
+      "du": "hast geboxt",
+      "er_sie_es": "hat geboxt",
+      "wir": "haben geboxt",
+      "ihr": "habt geboxt",
+      "sie": "haben geboxt"
+    },
+    "praeteritum": {
+      "ich": "boxte",
+      "du": "boxtest",
+      "er_sie_es": "boxte",
+      "wir": "boxten",
+      "ihr": "boxtet",
+      "sie": "boxten"
+    }
+  },
+  "fehlschreibungen": [
+    "boksen",
+    "bocksen",
+    "boxsen",
+    "boxxen",
+    "bockxen"
+  ]
+}

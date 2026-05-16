@@ -1,0 +1,72 @@
+{
+  "lemma": "Login",
+  "wortart": "Nomen",
+  "silben": "Lo-gin",
+  "begriffserklaerung": "Ein Login ist das Anmelden bei einer Webseite oder App. Dafür gibst du deinen Benutzernamen und dein Passwort ein.",
+  "beispielsatz": "Ohne Login kannst du das Spiel nicht starten.",
+  "rechtschreibstrategie": "„Login\" kommt aus dem Englischen und wird so geschrieben, wie man es liest. Großschreiben, weil es ein Nomen ist!",
+  "rechtschreibkategorien": [
+    "Merkwort mit V"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Login.webp",
+  "audio_datei": "Login.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "login"
+    },
+    {
+      "language_code": "fr",
+      "translation": "connexion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "giriş"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تسجيل الدخول"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Passwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Benutzername"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Internet"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Login",
+    "plural": "die Logins",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Login",
+        "genitiv": "des Logins",
+        "dativ": "dem Login",
+        "akkusativ": "das Login"
+      },
+      "plural": {
+        "nominativ": "die Logins",
+        "genitiv": "der Logins",
+        "dativ": "den Logins",
+        "akkusativ": "die Logins"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Loggin",
+    "Loogin",
+    "Loging",
+    "Loginn",
+    "Login's"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "lemma": "habe",
+  "wortart": "Verb",
+  "silben": "ha-be",
+  "begriffserklaerung": "„Habe\" ist die erste Person Einzahl von „haben\". Man benutzt es, wenn man sagt, dass einem etwas gehört oder man etwas besitzt.",
+  "beispielsatz": "Ich habe ein rotes Fahrrad.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: „ha-be\". Das „h\" am Anfang hörst du deutlich. Denk daran: „haben\" ist die Grundform – und „habe\" gehört dazu!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "hab"
+  ],
+  "bild_datei": "habe.webp",
+  "audio_datei": "habe.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "I have"
+    },
+    {
+      "language_code": "fr",
+      "translation": "j'ai"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahibim / var"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أملك / عندي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haben"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Habe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "besitzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "gehören"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "haben",
+    "praesens": {
+      "ich": "habe",
+      "du": "hast",
+      "er_sie_es": "hat",
+      "wir": "haben",
+      "ihr": "habt",
+      "sie": "haben"
+    },
+    "perfekt": {
+      "ich": "habe gehabt",
+      "du": "hast gehabt",
+      "er_sie_es": "hat gehabt",
+      "wir": "haben gehabt",
+      "ihr": "habt gehabt",
+      "sie": "haben gehabt"
+    },
+    "praeteritum": {
+      "ich": "hatte",
+      "du": "hattest",
+      "er_sie_es": "hatte",
+      "wir": "hatten",
+      "ihr": "hattet",
+      "sie": "hatten"
+    }
+  },
+  "fehlschreibungen": [
+    "habe",
+    "hahbe",
+    "haabe"
+  ]
+}

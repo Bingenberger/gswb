@@ -1,0 +1,88 @@
+{
+  "lemma": "Verletzung",
+  "wortart": "Nomen",
+  "silben": "Ver-let-zung",
+  "begriffserklaerung": "Eine Verletzung ist eine Wunde oder ein Schmerz am Körper, zum Beispiel wenn man sich schneidet oder hinfällt.",
+  "beispielsatz": "Beim Fußballspielen hat sich Tim eine Verletzung am Knie geholt.",
+  "rechtschreibstrategie": "Das Wort endet auf -ung. Denk daran: ver-LET-zung – sprich alle Silben deutlich mit!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "verletzen",
+    "Verletz-"
+  ],
+  "bild_datei": "Verletzung.webp",
+  "audio_datei": "Verletzung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Verletzung",
+    "plural": "die Verletzungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Verletzung",
+        "genitiv": "der Verletzung",
+        "dativ": "der Verletzung",
+        "akkusativ": "die Verletzung"
+      },
+      "plural": {
+        "nominativ": "die Verletzungen",
+        "genitiv": "der Verletzungen",
+        "dativ": "den Verletzungen",
+        "akkusativ": "die Verletzungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "injury"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blessure"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaralanma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "إصابة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verletzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verletzt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflaster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schmerz"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ferletzung",
+    "Verlezung",
+    "Verletzunk",
+    "Verlettsung",
+    "Verletsung"
+  ]
+}

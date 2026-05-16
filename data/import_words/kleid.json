@@ -1,0 +1,87 @@
+{
+  "lemma": "Kleid",
+  "wortart": "Nomen",
+  "silben": "Kleid",
+  "begriffserklaerung": "Ein Kleid ist ein Kleidungsstück, das Oberteil und Rock in einem hat. Es wird meistens von Mädchen und Frauen getragen.",
+  "beispielsatz": "Emma zieht ihr rotes Kleid zum Geburtstag an.",
+  "rechtschreibstrategie": "Das Wort „Kleid\" endet auf -eid. Wenn du es verlängerst, hörst du das „d\" deutlich: Klei-der. So weißt du, dass am Ende ein „d\" steht und kein „t\".",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Kleid"
+  ],
+  "bild_datei": "Kleid.webp",
+  "audio_datei": "Kleid.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "dress"
+    },
+    {
+      "language_code": "fr",
+      "translation": "robe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elbise"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فستان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kleiden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kleidung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rock"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bluse"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gewand"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kleid",
+    "plural": "die Kleider",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kleid",
+        "genitiv": "des Kleides",
+        "dativ": "dem Kleid",
+        "akkusativ": "das Kleid"
+      },
+      "plural": {
+        "nominativ": "die Kleider",
+        "genitiv": "der Kleider",
+        "dativ": "den Kleidern",
+        "akkusativ": "die Kleider"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kleit",
+    "Cleid",
+    "Kleid",
+    "Kleidt",
+    "Klait",
+    "Kleied"
+  ]
+}

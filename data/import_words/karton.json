@@ -1,0 +1,78 @@
+{
+  "lemma": "Karton",
+  "wortart": "Nomen",
+  "silben": "Kar-ton",
+  "begriffserklaerung": "Ein Karton ist eine Schachtel oder Box aus dickem, steifem Papier. Man kann darin Sachen aufbewahren oder verschicken.",
+  "beispielsatz": "Mama packt die alten Bücher in einen großen Karton.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Kar-ton. Der zweite Teil klingt wie „tong\" – denk daran, dass am Ende ein -n steht und kein -ng!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Karton"
+  ],
+  "bild_datei": "Karton.webp",
+  "audio_datei": "Karton.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cardboard box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "carton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karton kutu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرتون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kartonage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schachtel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pappe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schachtel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Karton",
+    "plural": "die Kartons",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Karton",
+        "genitiv": "des Kartons",
+        "dativ": "dem Karton",
+        "akkusativ": "den Karton"
+      },
+      "plural": {
+        "nominativ": "die Kartons",
+        "genitiv": "der Kartons",
+        "dativ": "den Kartons",
+        "akkusativ": "die Kartons"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kartong",
+    "Carton",
+    "Kardon",
+    "Kartohn",
+    "Kartonn"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "lemma": "Schaf",
+  "wortart": "Nomen",
+  "silben": "Schaf",
+  "begriffserklaerung": "Ein Schaf ist ein zahmes Tier, das auf Wiesen lebt. Es hat ein dickes, wolliges Fell. Schafe geben Wolle und Milch.",
+  "beispielsatz": "Das Schaf grast friedlich auf der grünen Wiese.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Schaf\". Der kurze Vokal „a\" könnte einen Doppelkonsonanten vermuten lassen – aber hier steht am Wortende nur ein „f\". Wenn du es verlängerst, hörst du: „Scha-fe\" – so merkst du, dass du nur ein „f\" schreibst.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Schaf"
+  ],
+  "bild_datei": "Schaf.webp",
+  "audio_datei": "Schaf.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sheep"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mouton"
+    },
+    {
+      "language_code": "tr",
+      "translation": "koyun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خروف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schäfchen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schäfer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schafherde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuh"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ziege"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lamm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Schaf",
+    "plural": "die Schafe",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Schaf",
+        "genitiv": "des Schafes",
+        "dativ": "dem Schaf",
+        "akkusativ": "das Schaf"
+      },
+      "plural": {
+        "nominativ": "die Schafe",
+        "genitiv": "der Schafe",
+        "dativ": "den Schafen",
+        "akkusativ": "die Schafe"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schaff",
+    "Schaft",
+    "Schahf",
+    "Schav"
+  ]
+}

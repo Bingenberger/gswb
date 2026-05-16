@@ -1,0 +1,78 @@
+{
+  "lemma": "Flitzer",
+  "wortart": "Nomen",
+  "silben": "Flit-zer",
+  "begriffserklaerung": "Ein Flitzer ist jemand oder etwas, das sehr schnell läuft oder fährt.",
+  "beispielsatz": "Der kleine Flitzer war der Schnellste beim Wettrennen auf dem Schulhof.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" kommt „tz\" – das zeigt dir, dass der Vokal kurz gesprochen wird: Fli-tzer.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "flitz"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Flitzer",
+    "plural": "die Flitzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Flitzer",
+        "genitiv": "des Flitzers",
+        "dativ": "dem Flitzer",
+        "akkusativ": "den Flitzer"
+      },
+      "plural": {
+        "nominativ": "die Flitzer",
+        "genitiv": "der Flitzer",
+        "dativ": "den Flitzern",
+        "akkusativ": "die Flitzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Flizer",
+    "Flitser",
+    "Fliтzer",
+    "Flittzer",
+    "Flitzер"
+  ],
+  "bild_datei": "Flitzer.webp",
+  "audio_datei": "Flitzer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "speeder / fast runner"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bolide / rapide"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hızlı koşan / fırıldak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "العدّاء السريع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "flitzen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Raser"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sprinter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rennauto"
+    }
+  ]
+}

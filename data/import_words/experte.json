@@ -1,0 +1,83 @@
+{
+  "lemma": "Experte",
+  "wortart": "Nomen",
+  "silben": "Ex-per-te",
+  "begriffserklaerung": "Ein Experte ist jemand, der sich mit einem Thema sehr gut auskennt und viel darüber weiß.",
+  "beispielsatz": "Der Experte erklärt uns genau, wie Bienen leben.",
+  "rechtschreibstrategie": "Das Wort „Experte\" beginnt mit „Ex\" – sprich es laut mit: Ex-per-te. Das „x\" klingt wie „ks\". Denk daran: Kein „Ä\" oder „Ö\", alles so schreiben, wie man es spricht!",
+  "rechtschreibkategorien": [
+    "Merkwort mit X"
+  ],
+  "wortfamilie_basen": [
+    "Expert"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Experte",
+    "plural": "die Experten",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Experte",
+        "genitiv": "des Experten",
+        "dativ": "dem Experten",
+        "akkusativ": "den Experten"
+      },
+      "plural": {
+        "nominativ": "die Experten",
+        "genitiv": "der Experten",
+        "dativ": "den Experten",
+        "akkusativ": "die Experten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Exberte",
+    "Experte",
+    "Eksperte",
+    "Expertte",
+    "Exsperte",
+    "Expärte"
+  ],
+  "bild_datei": "Experte.webp",
+  "audio_datei": "Experte.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "expert"
+    },
+    {
+      "language_code": "fr",
+      "translation": "expert"
+    },
+    {
+      "language_code": "tr",
+      "translation": "uzman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خبير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Expertise"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Expertin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fachmann"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wissenschaftler"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spezialist"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "lemma": "schlucken",
+  "wortart": "Verb",
+  "silben": "schlu-cken",
+  "begriffserklaerung": "Etwas schlucken bedeutet, Essen oder Trinken vom Mund in den Bauch zu befördern. Man schluckt zum Beispiel, wenn man trinkt oder kaut und dann hinunterschluckt.",
+  "beispielsatz": "Luisa trinkt einen Schluck Wasser und schluckt ihn langsam herunter.",
+  "rechtschreibstrategie": "Nach dem kurzen „u\" kommt „ck\" – das zeigt uns, dass der Vokal kurz ist. Merke: kurzer Vokal → ck!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schluck"
+  ],
+  "bild_datei": "schlucken.webp",
+  "audio_datei": "schlucken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "schlucken",
+    "praesens": {
+      "ich": "schlucke",
+      "du": "schluckst",
+      "er_sie_es": "schluckt",
+      "wir": "schlucken",
+      "ihr": "schluckt",
+      "sie": "schlucken"
+    },
+    "perfekt": {
+      "ich": "habe geschluckt",
+      "du": "hast geschluckt",
+      "er_sie_es": "hat geschluckt",
+      "wir": "haben geschluckt",
+      "ihr": "habt geschluckt",
+      "sie": "haben geschluckt"
+    },
+    "praeteritum": {
+      "ich": "schluckte",
+      "du": "schlucktest",
+      "er_sie_es": "schluckte",
+      "wir": "schluckten",
+      "ihr": "schlucktet",
+      "sie": "schluckten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to swallow"
+    },
+    {
+      "language_code": "fr",
+      "translation": "avaler"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yutmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبتلع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schluck"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verschlucken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "hinunterschlucken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "trinken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "kauen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "essen"
+    }
+  ],
+  "fehlschreibungen": [
+    "schlucen",
+    "schlucken",
+    "schlukken",
+    "shlucken",
+    "schlücken",
+    "schluckt (als Infinitiv)"
+  ]
+}

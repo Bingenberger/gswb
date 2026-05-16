@@ -1,0 +1,83 @@
+{
+  "lemma": "Mäuschen",
+  "wortart": "Nomen",
+  "silben": "Mäus-chen",
+  "begriffserklaerung": "Ein Mäuschen ist eine kleine Maus. Das Wort wird auch benutzt, wenn man jemanden lieb ansprechen möchte.",
+  "beispielsatz": "Das Mäuschen huschte schnell hinter den Schrank.",
+  "rechtschreibstrategie": "Das Wort kommt von „Maus\" – denk an den Umlaut ä! Die Verkleinerungssilbe „-chen\" schreibt man immer so.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Maus"
+  ],
+  "bild_datei": "Mäuschen.webp",
+  "audio_datei": "Mäuschen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "little mouse"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petite souris"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küçük fare"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فأرة صغيرة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Maus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mäuse"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hamster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ratte"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Maus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mäuschen",
+    "plural": "die Mäuschen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mäuschen",
+        "genitiv": "des Mäuschens",
+        "dativ": "dem Mäuschen",
+        "akkusativ": "das Mäuschen"
+      },
+      "plural": {
+        "nominativ": "die Mäuschen",
+        "genitiv": "der Mäuschen",
+        "dativ": "den Mäuschen",
+        "akkusativ": "die Mäuschen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Meuschen",
+    "Mäushen",
+    "Mäuschenn",
+    "Mäuschen",
+    "Mäuchen",
+    "Mäußchen"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "Wand",
+  "wortart": "Nomen",
+  "silben": "Wand",
+  "begriffserklaerung": "Eine Wand ist eine senkrechte Fläche aus Stein, Holz oder anderen Materialien, die Räume voneinander trennt oder ein Gebäude begrenzt.",
+  "beispielsatz": "An der Wand hängt ein buntes Bild.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Wand\". Wenn du es verlängerst, sagst du „Wände\" – dann hörst du das „d\" am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Wand"
+  ],
+  "bild_datei": "Wand.webp",
+  "audio_datei": "Wand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "wall"
+    },
+    {
+      "language_code": "fr",
+      "translation": "mur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duvar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جدار"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wände"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wandbild"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wandmalerei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Decke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Boden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Mauer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Wand",
+    "plural": "die Wände",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Wand",
+        "genitiv": "der Wand",
+        "dativ": "der Wand",
+        "akkusativ": "die Wand"
+      },
+      "plural": {
+        "nominativ": "die Wände",
+        "genitiv": "der Wände",
+        "dativ": "den Wänden",
+        "akkusativ": "die Wände"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Want",
+    "Wannt",
+    "Vand",
+    "Wandt",
+    "Whant"
+  ]
+}

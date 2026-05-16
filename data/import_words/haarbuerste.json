@@ -1,0 +1,85 @@
+{
+  "lemma": "Haarbürste",
+  "wortart": "Nomen",
+  "silben": "Haar-bürs-te",
+  "begriffserklaerung": "Eine Haarbürste ist ein Werkzeug mit einem Griff und vielen kleinen Borsten. Man benutzt sie, um die Haare zu kämmen und zu glätten.",
+  "beispielsatz": "Jeden Morgen bürstet Lena ihr langes Haar mit ihrer neuen Haarbürste.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Haar\" und „Bürste\". Beide Teile werden einfach zusammengeschrieben. Denk daran: „Haar\" schreibt man mit doppeltem „a\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Haar",
+    "Bürste"
+  ],
+  "bild_datei": "Haarbürste.webp",
+  "audio_datei": "Haarbürste.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hairbrush"
+    },
+    {
+      "language_code": "fr",
+      "translation": "brosse à cheveux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saç fırçası"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فُرْشَاةُ الشَّعْر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haar"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zahnbürste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spiegel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Haarbürste",
+    "plural": "die Haarbürsten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Haarbürste",
+        "genitiv": "der Haarbürste",
+        "dativ": "der Haarbürste",
+        "akkusativ": "die Haarbürste"
+      },
+      "plural": {
+        "nominativ": "die Haarbürsten",
+        "genitiv": "der Haarbürsten",
+        "dativ": "den Haarbürsten",
+        "akkusativ": "die Haarbürsten"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Haarbirste",
+    "Harrbürste",
+    "Haarbürste",
+    "Haarbüste",
+    "Harbürste",
+    "Haarbürßte"
+  ]
+}

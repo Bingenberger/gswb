@@ -1,0 +1,78 @@
+{
+  "lemma": "Besteck",
+  "wortart": "Nomen",
+  "silben": "Be-steck",
+  "begriffserklaerung": "Das Besteck ist das Werkzeug zum Essen. Dazu gehören Messer, Gabel und Löffel.",
+  "beispielsatz": "Bitte leg das Besteck vor dem Essen auf den Tisch!",
+  "rechtschreibstrategie": "Am Ende hörst du ein kurzes „e\" vor „ck\". Nach einem kurzen Vokal schreibt man immer „ck\" statt „kk\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "steck",
+    "stecken"
+  ],
+  "bild_datei": "Besteck.webp",
+  "audio_datei": "Besteck.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Besteck",
+    "plural": "die Bestecke",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Besteck",
+        "genitiv": "des Bestecks",
+        "dativ": "dem Besteck",
+        "akkusativ": "das Besteck"
+      },
+      "plural": {
+        "nominativ": "die Bestecke",
+        "genitiv": "der Bestecke",
+        "dativ": "den Bestecken",
+        "akkusativ": "die Bestecke"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cutlery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "couverts"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çatal bıçak takımı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أدوات المائدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stecken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Messer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gabel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Löffel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Bestek",
+    "Bestäck",
+    "Bessteck",
+    "Bestekk"
+  ]
+}

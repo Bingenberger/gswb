@@ -1,0 +1,80 @@
+{
+  "lemma": "Schlüssel",
+  "wortart": "Nomen",
+  "silben": "Schlüs-sel",
+  "begriffserklaerung": "Ein Schlüssel ist ein kleines Werkzeug aus Metall, mit dem man eine Tür oder ein Schloss auf- und zusperren kann.",
+  "beispielsatz": "Mama sucht schon die ganze Zeit ihren Schlüssel, weil sie die Tür nicht aufmachen kann.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Schlüs-sel. Nach dem kurzen „ü\" kommt ein Doppel-s – das zeigt dir das Kürzezeichen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Schlüssel",
+    "schließ"
+  ],
+  "bild_datei": "Schlüssel.webp",
+  "audio_datei": "Schlüssel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "key"
+    },
+    {
+      "language_code": "fr",
+      "translation": "clé"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anahtar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schließen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schloss"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tür"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schloss"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schlüssel",
+    "plural": "die Schlüssel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schlüssel",
+        "genitiv": "des Schlüssels",
+        "dativ": "dem Schlüssel",
+        "akkusativ": "den Schlüssel"
+      },
+      "plural": {
+        "nominativ": "die Schlüssel",
+        "genitiv": "der Schlüssel",
+        "dativ": "den Schlüsseln",
+        "akkusativ": "die Schlüssel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schlüsel",
+    "Schlüßel",
+    "Schlyssel",
+    "Schlüsssel",
+    "Schlüsell",
+    "Schlussel"
+  ]
+}

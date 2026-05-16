@@ -1,0 +1,91 @@
+{
+  "lemma": "Gegner",
+  "wortart": "Nomen",
+  "silben": "Geg-ner",
+  "begriffserklaerung": "Ein Gegner ist eine Person, die gegen jemand anderen kämpft, spielt oder streitet – zum Beispiel beim Sport oder in einem Spiel.",
+  "beispielsatz": "Beim Schachturnier war sein Gegner sehr geschickt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: Geg-ner. Das „g\" am Ende von „Geg\" hörst du als „k\", aber du schreibst „g\", weil das Verlängern „Gegner\" zeigt: geg-nen → Geg-ner.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "gegn"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Gegner",
+    "plural": "die Gegner",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Gegner",
+        "genitiv": "des Gegners",
+        "dativ": "dem Gegner",
+        "akkusativ": "den Gegner"
+      },
+      "plural": {
+        "nominativ": "die Gegner",
+        "genitiv": "der Gegner",
+        "dativ": "den Gegnern",
+        "akkusativ": "die Gegner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gegener",
+    "Gegnar",
+    "Gägner",
+    "Gegnier",
+    "Geckner"
+  ],
+  "bild_datei": "Gegner.webp",
+  "audio_datei": "Gegner.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "opponent"
+    },
+    {
+      "language_code": "fr",
+      "translation": "adversaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "rakip"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خصم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gegnen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gegnerin"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Widersacher"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Rivale"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wettkampf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mannschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Turnier"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "lemma": "nehmen",
+  "wortart": "Verb",
+  "silben": "neh-men",
+  "begriffserklaerung": "Etwas mit der Hand greifen und zu sich bringen oder behalten.",
+  "beispielsatz": "Lena nimmt sich einen Apfel aus der Obstschale.",
+  "rechtschreibstrategie": "Denke an das Dehnungs-h: neh-men – das h nach dem e macht das „e\" lang, aber man hört es nicht. Sprich das Wort in Silben: neh – men!",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "nehm"
+  ],
+  "bild_datei": "nehmen.webp",
+  "audio_datei": "nehmen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to take"
+    },
+    {
+      "language_code": "fr",
+      "translation": "prendre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "almak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يأخذ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abnehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "mitnehmen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "entnehmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "holen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "geben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "tragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "holen"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "nehmen",
+    "praesens": {
+      "ich": "nehme",
+      "du": "nimmst",
+      "er_sie_es": "nimmt",
+      "wir": "nehmen",
+      "ihr": "nehmt",
+      "sie": "nehmen"
+    },
+    "perfekt": {
+      "ich": "habe genommen",
+      "du": "hast genommen",
+      "er_sie_es": "hat genommen",
+      "wir": "haben genommen",
+      "ihr": "habt genommen",
+      "sie": "haben genommen"
+    },
+    "praeteritum": {
+      "ich": "nahm",
+      "du": "nahmst",
+      "er_sie_es": "nahm",
+      "wir": "nahmen",
+      "ihr": "nahmt",
+      "sie": "nahmen"
+    }
+  },
+  "fehlschreibungen": [
+    "nemen",
+    "nehmmen",
+    "nehemen",
+    "nähmen",
+    "nehman"
+  ]
+}

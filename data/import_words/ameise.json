@@ -1,0 +1,82 @@
+{
+  "lemma": "Ameise",
+  "wortart": "Nomen",
+  "silben": "A-mei-se",
+  "begriffserklaerung": "Eine Ameise ist ein kleines Insekt, das in großen Gruppen zusammenlebt. Ameisen bauen Nester unter der Erde oder in Holz und tragen Nahrung gemeinsam.",
+  "beispielsatz": "Die Ameise schleppt ein viel größeres Stück Brot als sie selbst ist.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: A – mei – se. Achte auf das „ei\" in der Mitte – es klingt wie in „Ei\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Ameise"
+  ],
+  "bild_datei": "Ameise.webp",
+  "audio_datei": "Ameise.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ant"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fourmi"
+    },
+    {
+      "language_code": "tr",
+      "translation": "karınca"
+    },
+    {
+      "language_code": "ar",
+      "translation": "نملة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ameisenhaufen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ameisenkolonie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Käfer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Biene"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Insekt"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Ameise",
+    "plural": "die Ameisen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Ameise",
+        "genitiv": "der Ameise",
+        "dativ": "der Ameise",
+        "akkusativ": "die Ameise"
+      },
+      "plural": {
+        "nominativ": "die Ameisen",
+        "genitiv": "der Ameisen",
+        "dativ": "den Ameisen",
+        "akkusativ": "die Ameisen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ameisse",
+    "Amaise",
+    "Ameize",
+    "Ammeise",
+    "Ameise"
+  ]
+}

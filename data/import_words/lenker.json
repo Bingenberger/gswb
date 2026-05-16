@@ -1,0 +1,82 @@
+{
+  "lemma": "Lenker",
+  "wortart": "Nomen",
+  "silben": "Len-ker",
+  "begriffserklaerung": "Der Lenker ist der Teil am Fahrrad oder Motorrad, mit dem man die Richtung bestimmt. Man hält ihn mit beiden Händen fest und dreht ihn nach links oder rechts.",
+  "beispielsatz": "Mia hält den Lenker ihres Fahrrads fest, damit sie nicht stürzt.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Len-ker. Nach dem kurzen „e\" hörst du das „n\" – schreib es genau so, wie du es sprichst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lenk"
+  ],
+  "bild_datei": "Lenker.webp",
+  "audio_datei": "Lenker.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "handlebar"
+    },
+    {
+      "language_code": "fr",
+      "translation": "guidon"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gidon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقود"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lenken"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lenkrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrrad"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sattel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bremse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Lenker",
+    "plural": "die Lenker",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Lenker",
+        "genitiv": "des Lenkers",
+        "dativ": "dem Lenker",
+        "akkusativ": "den Lenker"
+      },
+      "plural": {
+        "nominativ": "die Lenker",
+        "genitiv": "der Lenker",
+        "dativ": "den Lenkern",
+        "akkusativ": "die Lenker"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Länker",
+    "Lenkker",
+    "Lencker",
+    "Lenkher",
+    "Lenkor"
+  ]
+}

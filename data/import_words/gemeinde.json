@@ -1,0 +1,82 @@
+{
+  "lemma": "Gemeinde",
+  "wortart": "Nomen",
+  "silben": "Ge-mein-de",
+  "begriffserklaerung": "Eine Gemeinde ist ein Ort oder eine Stadt, in der Menschen zusammen leben. Die Gemeinde kümmert sich um Straßen, Schulen und Parks für alle Bewohner.",
+  "beispielsatz": "Unsere Gemeinde hat einen schönen Spielplatz im Park gebaut.",
+  "rechtschreibstrategie": "Denk an das Wort „gemein\" – das steckt in „Gemeinde\" drin! Sprich alle drei Silben deutlich: Ge-mein-de.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "gemein"
+  ],
+  "bild_datei": "Gemeinde.webp",
+  "audio_datei": "Gemeinde.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "municipality / community"
+    },
+    {
+      "language_code": "fr",
+      "translation": "commune"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belediye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بلدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gemein"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "gemeinsam"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bürgermeister"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ortschaft"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gemeinde",
+    "plural": "die Gemeinden",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gemeinde",
+        "genitiv": "der Gemeinde",
+        "dativ": "der Gemeinde",
+        "akkusativ": "die Gemeinde"
+      },
+      "plural": {
+        "nominativ": "die Gemeinden",
+        "genitiv": "der Gemeinden",
+        "dativ": "den Gemeinden",
+        "akkusativ": "die Gemeinden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gemeide",
+    "Gemmeinde",
+    "Gemeinede",
+    "Gemeínde",
+    "Gemainde"
+  ]
+}

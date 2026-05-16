@@ -1,0 +1,87 @@
+{
+  "lemma": "Brotdose",
+  "wortart": "Nomen",
+  "silben": "Brot-do-se",
+  "begriffserklaerung": "Eine Brotdose ist eine kleine Box aus Plastik oder Metall, in der du dein Pausenbrot und andere Snacks aufbewahrst und zur Schule mitnimmst.",
+  "beispielsatz": "Mama hat mir heute ein Käsebrot und einen Apfel in die Brotdose gepackt.",
+  "rechtschreibstrategie": "Das Wort „Brotdose\" besteht aus zwei Wörtern: „Brot\" und „Dose\". Sprich beide Teile einzeln: BROT + DOSE. So schreibst du es richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Brot",
+    "Dose"
+  ],
+  "bild_datei": "Brotdose.webp",
+  "audio_datei": "Brotdose.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Brotdose",
+    "plural": "die Brotdosen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Brotdose",
+        "genitiv": "der Brotdose",
+        "dativ": "der Brotdose",
+        "akkusativ": "die Brotdose"
+      },
+      "plural": {
+        "nominativ": "die Brotdosen",
+        "genitiv": "der Brotdosen",
+        "dativ": "den Brotdosen",
+        "akkusativ": "die Brotdosen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lunch box"
+    },
+    {
+      "language_code": "fr",
+      "translation": "boîte à tartines"
+    },
+    {
+      "language_code": "tr",
+      "translation": "beslenme kutusu"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علبة الطعام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Brot"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Dose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pausenbrot"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schulranzen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Trinkflasche"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lunchbox"
+    }
+  ],
+  "fehlschreibungen": [
+    "Broddose",
+    "Brotdosse",
+    "Brotdohse",
+    "Brottozse",
+    "Brodtdose"
+  ]
+}

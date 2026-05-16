@@ -1,0 +1,82 @@
+{
+  "lemma": "Benutzer",
+  "wortart": "Nomen",
+  "silben": "Be-nut-zer",
+  "begriffserklaerung": "Ein Benutzer ist eine Person, die etwas benutzt – zum Beispiel einen Computer, ein Handy oder ein Programm.",
+  "beispielsatz": "Der Benutzer gibt sein Passwort ein, um sich anzumelden.",
+  "rechtschreibstrategie": "Denk an das Wort „benutzen\": Be-NUT-zer – das „t\" hörst du beim Sprechen deutlich.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "nutz",
+    "benutz"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Benutzer",
+    "plural": "die Benutzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Benutzer",
+        "genitiv": "des Benutzers",
+        "dativ": "dem Benutzer",
+        "akkusativ": "den Benutzer"
+      },
+      "plural": {
+        "nominativ": "die Benutzer",
+        "genitiv": "der Benutzer",
+        "dativ": "den Benutzern",
+        "akkusativ": "die Benutzer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Benuzer",
+    "Benutser",
+    "Bennuzer",
+    "Benutzter"
+  ],
+  "bild_datei": "Benutzer.webp",
+  "audio_datei": "Benutzer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "user"
+    },
+    {
+      "language_code": "fr",
+      "translation": "utilisateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kullanıcı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستخدم"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "benutzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Benutzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Passwort"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Nutzer"
+    }
+  ]
+}

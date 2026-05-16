@@ -1,0 +1,88 @@
+{
+  "lemma": "Unfall",
+  "wortart": "Nomen",
+  "silben": "Un-fall",
+  "begriffserklaerung": "Ein Unfall ist ein plötzliches, ungewolltes Ereignis, bei dem jemand verletzt wird oder etwas kaputtgeht – zum Beispiel wenn jemand stürzt oder zwei Autos zusammenstoßen.",
+  "beispielsatz": "Auf dem Schulweg hatte Tim einen Unfall mit seinem Fahrrad.",
+  "rechtschreibstrategie": "„Unfall\" besteht aus zwei Bausteinen: „un-\" und „Fall\". Das Wort „Fall\" hat am Ende ein doppeltes l, weil der Vokal kurz gesprochen wird – du kannst es hören, wenn du „Fall\" laut sagst!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "fall",
+    "fallen"
+  ],
+  "bild_datei": "Unfall.webp",
+  "audio_datei": "Unfall.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Unfall",
+    "plural": "die Unfälle",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Unfall",
+        "genitiv": "des Unfalls",
+        "dativ": "dem Unfall",
+        "akkusativ": "den Unfall"
+      },
+      "plural": {
+        "nominativ": "die Unfälle",
+        "genitiv": "der Unfälle",
+        "dativ": "den Unfällen",
+        "akkusativ": "die Unfälle"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "accident"
+    },
+    {
+      "language_code": "fr",
+      "translation": "accident"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kaza"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حادث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fallen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zufall"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Missgeschick"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verletzung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erste Hilfe"
+    }
+  ],
+  "fehlschreibungen": [
+    "Unfal",
+    "Unphall",
+    "Unfahl",
+    "Unnfall",
+    "Ounfall"
+  ]
+}

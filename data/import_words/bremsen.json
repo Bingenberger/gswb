@@ -1,0 +1,91 @@
+{
+  "lemma": "bremsen",
+  "wortart": "Verb",
+  "silben": "brem-sen",
+  "begriffserklaerung": "Bremsen bedeutet, etwas langsamer werden zu lassen oder ganz zum Stehen zu bringen – zum Beispiel ein Fahrrad oder ein Auto.",
+  "beispielsatz": "Lea bremst rechtzeitig, damit sie nicht in die Pfütze fährt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: brem-sen. Nach dem kurzen „e\" hörst du zwei Mitlaute: „m\" und „s\". Schreib beide genau so, wie du sie hörst!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bremse",
+    "brems"
+  ],
+  "bild_datei": "bremsen.webp",
+  "audio_datei": "bremsen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to brake"
+    },
+    {
+      "language_code": "fr",
+      "translation": "freiner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fren yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكبح / يفرمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bremse"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bremsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fahren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "anhalten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "anhalten"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "bremsen",
+    "praesens": {
+      "ich": "bremse",
+      "du": "bremst",
+      "er_sie_es": "bremst",
+      "wir": "bremsen",
+      "ihr": "bremst",
+      "sie": "bremsen"
+    },
+    "perfekt": {
+      "ich": "habe gebremst",
+      "du": "hast gebremst",
+      "er_sie_es": "hat gebremst",
+      "wir": "haben gebremst",
+      "ihr": "habt gebremst",
+      "sie": "haben gebremst"
+    },
+    "praeteritum": {
+      "ich": "bremste",
+      "du": "bremstest",
+      "er_sie_es": "bremste",
+      "wir": "bremsten",
+      "ihr": "bremsten",
+      "sie": "bremsten"
+    }
+  },
+  "fehlschreibungen": [
+    "brehmsen",
+    "bremßen",
+    "brämsen",
+    "bremsenn",
+    "bremzen"
+  ]
+}

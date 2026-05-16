@@ -1,0 +1,82 @@
+{
+  "lemma": "Filter",
+  "wortart": "Nomen",
+  "silben": "Fil-ter",
+  "begriffserklaerung": "Ein Filter ist etwas, das bestimmte Dinge durchlässt und andere zurückhält. Zum Beispiel hält ein Wasserfilter Schmutz zurück, damit das Wasser sauber wird.",
+  "beispielsatz": "Der Filter in der Kaffeemaschine hält die Kaffeekörner zurück, damit nur das Getränk in die Tasse fließt.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Fil-ter. Höre beide Silben deutlich – das hilft dir, alle Buchstaben richtig zu schreiben.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "filter"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Filter",
+    "plural": "die Filter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Filter",
+        "genitiv": "des Filters",
+        "dativ": "dem Filter",
+        "akkusativ": "den Filter"
+      },
+      "plural": {
+        "nominativ": "die Filter",
+        "genitiv": "der Filter",
+        "dativ": "den Filtern",
+        "akkusativ": "die Filter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Filther",
+    "Vilter",
+    "Filtter",
+    "Fillter",
+    "Filtar"
+  ],
+  "bild_datei": "Filter.webp",
+  "audio_datei": "Filter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "filter"
+    },
+    {
+      "language_code": "fr",
+      "translation": "filtre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "filtre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مرشح"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "filtern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Filterung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sieb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reinigung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sieb"
+    }
+  ]
+}

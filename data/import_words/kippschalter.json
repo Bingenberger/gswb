@@ -1,0 +1,85 @@
+{
+  "lemma": "Kippschalter",
+  "wortart": "Nomen",
+  "silben": "Kipp-schal-ter",
+  "begriffserklaerung": "Ein Kippschalter ist ein kleiner Schalter, den man nach oben oder unten kippen kann, um zum Beispiel das Licht an- oder auszumachen.",
+  "beispielsatz": "Papa drückt den Kippschalter an der Wand, und das Licht im Zimmer geht an.",
+  "rechtschreibstrategie": "Das Wort „Kippschalter\" ist aus zwei Wörtern zusammengesetzt: „kippen\" und „Schalter\". Das „pp\" in „Kipp\" schreibst du doppelt, weil das „i\" kurz gesprochen wird.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "kipp",
+    "schalt"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Kippschalter",
+    "plural": "die Kippschalter",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Kippschalter",
+        "genitiv": "des Kippschalters",
+        "dativ": "dem Kippschalter",
+        "akkusativ": "den Kippschalter"
+      },
+      "plural": {
+        "nominativ": "die Kippschalter",
+        "genitiv": "der Kippschalter",
+        "dativ": "den Kippschaltern",
+        "akkusativ": "die Kippschalter"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kipschalter",
+    "Kippschalther",
+    "Kipschalther",
+    "Kippschalter",
+    "Kippschalltер",
+    "Kippschalderr"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "toggle switch"
+    },
+    {
+      "language_code": "fr",
+      "translation": "interrupteur à bascule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anahtar (kaldıraçlı)"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مفتاح تبديل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kippen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schalter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lichtschalter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Steckdose"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schalttafel"
+    }
+  ],
+  "bild_datei": "Kippschalter.webp",
+  "audio_datei": "Kippschalter.mp3"
+}

@@ -1,0 +1,98 @@
+{
+  "lemma": "verknoten",
+  "wortart": "Verb",
+  "silben": "ver-kno-ten",
+  "begriffserklaerung": "Etwas verknoten bedeutet, zwei oder mehrere Enden eines Fadens, Seils oder Bandes durch einen Knoten miteinander zu verbinden.",
+  "beispielsatz": "Ich verknote die Schnürsenkel meiner Schuhe, damit sie nicht aufgehen.",
+  "rechtschreibstrategie": "Das Wort besteht aus der Vorsilbe „ver-\" und dem Wortstamm „knot-\" (wie in „Knoten\"). Denk an den Knoten, dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "knoten"
+  ],
+  "bild_datei": "verknoten.webp",
+  "audio_datei": "verknoten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "verknoten",
+    "praesens": {
+      "ich": "verknote",
+      "du": "verknoten",
+      "er_sie_es": "verknoten",
+      "wir": "verknoten",
+      "ihr": "verknoten",
+      "sie": "verknoten"
+    },
+    "perfekt": {
+      "ich": "habe verknoten",
+      "du": "hast verknoten",
+      "er_sie_es": "hat verknoten",
+      "wir": "haben verknoten",
+      "ihr": "habt verknoten",
+      "sie": "haben verknoten"
+    },
+    "praeteritum": {
+      "ich": "verknotete",
+      "du": "verknotest",
+      "er_sie_es": "verknotete",
+      "wir": "verknoteten",
+      "ihr": "verknotetet",
+      "sie": "verknoteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to knot / to tie a knot"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nouer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "düğümlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يربط بعقدة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Knoten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "knoten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "verknüpfen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zusammenbinden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "binden"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schnüren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "befestigen"
+    }
+  ],
+  "fehlschreibungen": [
+    "ferknoten",
+    "verknotten",
+    "verknooten",
+    "verknodten",
+    "verknohten"
+  ]
+}

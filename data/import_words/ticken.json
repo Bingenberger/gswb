@@ -1,0 +1,90 @@
+{
+  "lemma": "ticken",
+  "wortart": "Verb",
+  "silben": "ti-cken",
+  "begriffserklaerung": "Ticken bedeutet, dass eine Uhr regelmäßig kurze, leise Geräusche macht – so klingt es, wenn die Zeiger sich bewegen.",
+  "beispielsatz": "Die alte Uhr an der Wand tickt laut und gleichmäßig.",
+  "rechtschreibstrategie": "Nach dem kurzen „i\" schreibt man „ck\" – das „ck\" ist das Kürzezeichen. Sprich: ti-cken.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tick"
+  ],
+  "bild_datei": "ticken.webp",
+  "audio_datei": "ticken.mp3",
+  "grammatische_formen": {
+    "infinitiv": "ticken",
+    "praesens": {
+      "ich": "ticke",
+      "du": "tickst",
+      "er_sie_es": "tickt",
+      "wir": "ticken",
+      "ihr": "tickt",
+      "sie": "ticken"
+    },
+    "perfekt": {
+      "ich": "habe getickt",
+      "du": "hast getickt",
+      "er_sie_es": "hat getickt",
+      "wir": "haben getickt",
+      "ihr": "habt getickt",
+      "sie": "haben getickt"
+    },
+    "praeteritum": {
+      "ich": "tickte",
+      "du": "ticktest",
+      "er_sie_es": "tickte",
+      "wir": "tickten",
+      "ihr": "ticktet",
+      "sie": "tickten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to tick"
+    },
+    {
+      "language_code": "fr",
+      "translation": "faire tic-tac"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tik tak yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يدق (يحدث صوت تك-تاك)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tick"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ticker"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "klingeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "klicken"
+    }
+  ],
+  "fehlschreibungen": [
+    "tiken",
+    "tickken",
+    "tigken",
+    "ticen",
+    "ticken"
+  ]
+}

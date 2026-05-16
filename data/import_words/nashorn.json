@@ -1,0 +1,75 @@
+{
+  "lemma": "Nashorn",
+  "wortart": "Nomen",
+  "silben": "Nas-horn",
+  "begriffserklaerung": "Ein Nashorn ist ein sehr großes, schweres Tier, das in Afrika oder Asien lebt. Es hat ein oder zwei Hörner auf der Nase und eine dicke Haut.",
+  "beispielsatz": "Das Nashorn trinkt am Wasserloch.",
+  "rechtschreibstrategie": "Das Wort „Nashorn\" ist aus zwei Teilen zusammengesetzt: „Nase\" und „Horn\". Denke an die Nase des Tieres – dort sitzt sein Horn!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Nase",
+    "Horn"
+  ],
+  "bild_datei": "Nashorn.webp",
+  "audio_datei": "Nashorn.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rhinoceros"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rhinocéros"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gergedan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحيد القرن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elefant"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nilpferd"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Savanne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nashorn",
+    "plural": "die Nashörner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nashorn",
+        "genitiv": "des Nashorns",
+        "dativ": "dem Nashorn",
+        "akkusativ": "das Nashorn"
+      },
+      "plural": {
+        "nominativ": "die Nashörner",
+        "genitiv": "der Nashörner",
+        "dativ": "den Nashörnern",
+        "akkusativ": "die Nashörner"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Naßhorn",
+    "Naszhorn",
+    "Nasshorm",
+    "Naßhorm",
+    "Nashoren"
+  ]
+}

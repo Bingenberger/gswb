@@ -1,0 +1,85 @@
+{
+  "lemma": "Foto",
+  "wortart": "Nomen",
+  "silben": "Fo-to",
+  "begriffserklaerung": "Ein Foto ist ein Bild, das man mit einer Kamera oder einem Handy aufnimmt.",
+  "beispielsatz": "Wir haben im Urlaub ein schönes Foto gemacht.",
+  "rechtschreibstrategie": "Denk daran: „Foto\" schreibt man mit einem großen F am Anfang und zwei kurzen O-Lauten – Fo-to.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Foto",
+    "plural": "die Fotos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Foto",
+        "genitiv": "des Fotos",
+        "dativ": "dem Foto",
+        "akkusativ": "das Foto"
+      },
+      "plural": {
+        "nominativ": "die Fotos",
+        "genitiv": "der Fotos",
+        "dativ": "den Fotos",
+        "akkusativ": "die Fotos"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Foto"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fotografieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Fotograf"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kamera"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Album"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handy"
+    }
+  ],
+  "fehlschreibungen": [
+    "Foto",
+    "Photto",
+    "Fotto",
+    "Photo"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "photo"
+    },
+    {
+      "language_code": "fr",
+      "translation": "photo"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fotoğraf"
+    },
+    {
+      "language_code": "ar",
+      "translation": "صورة"
+    }
+  ],
+  "bild_datei": "Foto.webp",
+  "audio_datei": "Foto.mp3"
+}

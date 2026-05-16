@@ -1,0 +1,78 @@
+{
+  "lemma": "Einhorn",
+  "wortart": "Nomen",
+  "silben": "Ein-horn",
+  "begriffserklaerung": "Ein Einhorn ist ein Fantasietier, das wie ein Pferd aussieht und ein langes, spitzes Horn auf der Stirn hat. Einhörner gibt es nur in Märchen und Geschichten.",
+  "beispielsatz": "Das Einhorn galoppierte durch den bunten Zauberwald.",
+  "rechtschreibstrategie": "„Einhorn\" ist aus zwei Teilen zusammengesetzt: „ein\" und „Horn\". Schreib einfach beide Teile zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Horn"
+  ],
+  "bild_datei": "Einhorn.webp",
+  "audio_datei": "Einhorn.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Einhorn",
+    "plural": "die Einhörner",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Einhorn",
+        "genitiv": "des Einhorns",
+        "dativ": "dem Einhorn",
+        "akkusativ": "das Einhorn"
+      },
+      "plural": {
+        "nominativ": "die Einhörner",
+        "genitiv": "der Einhörner",
+        "dativ": "den Einhörnern",
+        "akkusativ": "die Einhörner"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "unicorn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "licorne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tek boynuzlu at"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وحيد القرن الخيالي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Horn"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Drache"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fee"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zauberer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ainhorn",
+    "Eienhorn",
+    "Einhhorn",
+    "Einhon",
+    "Einhorrn"
+  ]
+}

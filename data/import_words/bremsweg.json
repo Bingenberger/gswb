@@ -1,0 +1,85 @@
+{
+  "lemma": "Bremsweg",
+  "wortart": "Nomen",
+  "silben": "Brems-weg",
+  "begriffserklaerung": "Der Bremsweg ist die Strecke, die ein Fahrzeug noch zurücklegt, nachdem der Fahrer gebremst hat, bis es ganz steht.",
+  "beispielsatz": "Das Auto hat einen langen Bremsweg, wenn die Straße nass ist.",
+  "rechtschreibstrategie": "„Bremsweg\" ist ein zusammengesetztes Wort aus „Bremse\" und „Weg\". Sprich beide Teile einzeln: BREMS + WEG. So kannst du es richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "bremsen",
+    "Weg"
+  ],
+  "bild_datei": "Bremsweg.webp",
+  "audio_datei": "Bremsweg.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "braking distance"
+    },
+    {
+      "language_code": "fr",
+      "translation": "distance de freinage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fren mesafesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مسافة الفرملة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bremsen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Reaktionsweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anhalteweg"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschwindigkeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Bremsweg",
+    "plural": "die Bremswege",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Bremsweg",
+        "genitiv": "des Bremsweges",
+        "dativ": "dem Bremsweg",
+        "akkusativ": "den Bremsweg"
+      },
+      "plural": {
+        "nominativ": "die Bremswege",
+        "genitiv": "der Bremswege",
+        "dativ": "den Bremswegen",
+        "akkusativ": "die Bremswege"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bremsswег",
+    "Bremßweg",
+    "Bremsweeg",
+    "Bremmsweg",
+    "Bremswegg",
+    "Bremmswäg"
+  ]
+}

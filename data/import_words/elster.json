@@ -1,0 +1,72 @@
+{
+  "lemma": "Elster",
+  "wortart": "Nomen",
+  "silben": "Els-ter",
+  "begriffserklaerung": "Eine Elster ist ein schwarz-weißer Vogel, der gerne glänzende Dinge sammelt und sehr schlau ist.",
+  "beispielsatz": "Die Elster sitzt auf dem Zaun und beobachtet alles ganz genau.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Els-ter. Höre beide Silben deutlich – dann schreibst du es richtig!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Elster.webp",
+  "audio_datei": "Elster.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "magpie"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "saksağan"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عقعق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krähe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nest"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Elster",
+    "plural": "die Elstern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Elster",
+        "genitiv": "der Elster",
+        "dativ": "der Elster",
+        "akkusativ": "die Elster"
+      },
+      "plural": {
+        "nominativ": "die Elstern",
+        "genitiv": "der Elstern",
+        "dativ": "den Elstern",
+        "akkusativ": "die Elstern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Elster",
+    "Ellster",
+    "Elßter",
+    "Älster",
+    "Elstter"
+  ]
+}

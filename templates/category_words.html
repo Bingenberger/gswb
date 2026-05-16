@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category }} | Grundschul-Wörterbuch{% endblock %}
+
+{% block content %}
+<article class="word-page">
+    <section class="card detail-card card-accent">
+        <div class="section-heading">
+            <img class="section-icon" src="{{ url_for('static', filename='vendor/phosphor/pencil-line.svg') }}" alt="">
+            <h1 style="font-size: 1.4rem;">{{ category }}</h1>
+        </div>
+        <p class="muted-hint">
+            <a href="{{ url_for('main.categories') }}">← Alle Kategorien</a>
+            &nbsp;·&nbsp;
+            {{ words | length }} Wörter
+        </p>
+        {% if words %}
+        <ul class="category-words-list">
+            {% for word in words %}
+            {% set pos = part_of_speech_meta.get(word.part_of_speech, {"label": word.part_of_speech, "class_name": "is-generic"}) %}
+            <li class="category-words-item">
+                <a class="category-words-link" href="{{ url_for('main.word_page', lemma=word.lemma) }}">{{ word.lemma }}</a>
+                <span class="pos-pill {{ pos.class_name }} pos-pill-small">{{ pos.label }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+        {% else %}
+        <p class="muted">Keine Wörter in dieser Kategorie gefunden.</p>
+        {% endif %}
+    </section>
+</article>
+{% endblock %}

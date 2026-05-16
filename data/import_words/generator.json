@@ -1,0 +1,83 @@
+{
+  "lemma": "Generator",
+  "wortart": "Nomen",
+  "silben": "Ge-ne-ra-tor",
+  "begriffserklaerung": "Ein Generator ist eine Maschine, die Strom erzeugt. Er wandelt Bewegung oder eine andere Energieform in elektrische Energie um.",
+  "beispielsatz": "Wenn der Strom ausfällt, kann ein Generator im Notfall Elektrizität liefern.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Ge-ne-ra-tor. Achte auf das „or\" am Ende – das klingt, wie es geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "generieren",
+    "Generation"
+  ],
+  "bild_datei": "Generator.webp",
+  "audio_datei": "Generator.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "generator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "générateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "jeneratör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مولد كهربائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "generieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Generation"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strom"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Maschine"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Stromerzeuger"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Generator",
+    "plural": "die Generatoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Generator",
+        "genitiv": "des Generators",
+        "dativ": "dem Generator",
+        "akkusativ": "den Generator"
+      },
+      "plural": {
+        "nominativ": "die Generatoren",
+        "genitiv": "der Generatoren",
+        "dativ": "den Generatoren",
+        "akkusativ": "die Generatoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Generahtor",
+    "Genarator",
+    "Generater",
+    "Gänerator",
+    "Gennerator"
+  ]
+}

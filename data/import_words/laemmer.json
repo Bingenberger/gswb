@@ -1,0 +1,83 @@
+{
+  "lemma": "Lämmer",
+  "wortart": "Nomen",
+  "silben": "Läm-mer",
+  "begriffserklaerung": "Lämmer sind junge Schafe. Sie sind klein, weich und haben ein flauschiges Fell.",
+  "beispielsatz": "Auf der Wiese springen die Lämmer fröhlich umher.",
+  "rechtschreibstrategie": "Nach dem kurzen „ä\" kommt ein Doppel-m – das zeigt das Kürzezeichen. Du kannst es dir merken: Läm-mer – beide m sprechen!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "Lamm"
+  ],
+  "bild_datei": "Lämmer.webp",
+  "audio_datei": "Lämmer.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Lamm",
+    "plural": "die Lämmer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Lamm",
+        "genitiv": "des Lammes",
+        "dativ": "dem Lamm",
+        "akkusativ": "das Lamm"
+      },
+      "plural": {
+        "nominativ": "die Lämmer",
+        "genitiv": "der Lämmer",
+        "dativ": "den Lämmern",
+        "akkusativ": "die Lämmer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "lambs"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agneaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuzular"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حملان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lamm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lammfromm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schaf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wolle"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wiese"
+    }
+  ],
+  "fehlschreibungen": [
+    "Lämmer",
+    "Lemmer",
+    "Lämer",
+    "Lemmern",
+    "Lämmern"
+  ]
+}

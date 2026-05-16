@@ -1,0 +1,72 @@
+{
+  "lemma": "Enkel",
+  "wortart": "Nomen",
+  "silben": "En-kel",
+  "begriffserklaerung": "Ein Enkel ist das Kind deines Sohnes oder deiner Tochter. Für Oma und Opa bist du ihr Enkel.",
+  "beispielsatz": "Der Enkel besucht seine Oma jeden Sonntag und backt mit ihr Kuchen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „En-kel\". Du hörst ein kurzes „e\" am Anfang – danach kommt ein „k\". Merke dir: Nach dem kurzen „e\" folgt kein Doppelbuchstabe, das Wort endet einfach auf -kel.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Enkel.webp",
+  "audio_datei": "Enkel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "grandchild / grandson"
+    },
+    {
+      "language_code": "fr",
+      "translation": "petit-fils"
+    },
+    {
+      "language_code": "tr",
+      "translation": "torun"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حفيد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Großvater"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Großmutter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Enkel",
+    "plural": "die Enkel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Enkel",
+        "genitiv": "des Enkels",
+        "dativ": "dem Enkel",
+        "akkusativ": "den Enkel"
+      },
+      "plural": {
+        "nominativ": "die Enkel",
+        "genitiv": "der Enkel",
+        "dativ": "den Enkeln",
+        "akkusativ": "die Enkel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Enckel",
+    "Enkel",
+    "Änkel",
+    "Enkkel",
+    "Engkel"
+  ]
+}

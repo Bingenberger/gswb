@@ -1,0 +1,83 @@
+{
+  "lemma": "Zuschauer",
+  "wortart": "Nomen",
+  "silben": "Zu-schau-er",
+  "begriffserklaerung": "Ein Zuschauer ist jemand, der etwas beobachtet oder anschaut, zum Beispiel ein Spiel, ein Theaterstück oder eine Show.",
+  "beispielsatz": "Die Zuschauer klatschen laut, weil das Fußballspiel so aufregend ist.",
+  "rechtschreibstrategie": "Das Wort „Zuschauer\" ist aus zwei Teilen zusammengesetzt: „zu\" und „schauen\". Sprich beide Teile deutlich: ZU-SCHAU-ER. Das hilft dir beim Schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "schauen"
+  ],
+  "bild_datei": "Zuschauer.webp",
+  "audio_datei": "Zuschauer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "spectator"
+    },
+    {
+      "language_code": "fr",
+      "translation": "spectateur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "seyirci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مُتَفَرِّج"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schauen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Beobachter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Publikum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stadion"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bühne"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Zuschauer",
+    "plural": "die Zuschauer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Zuschauer",
+        "genitiv": "des Zuschauers",
+        "dativ": "dem Zuschauer",
+        "akkusativ": "den Zuschauer"
+      },
+      "plural": {
+        "nominativ": "die Zuschauer",
+        "genitiv": "der Zuschauer",
+        "dativ": "den Zuschauern",
+        "akkusativ": "die Zuschauer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Zuschaur",
+    "Zuschawer",
+    "Zusschauer",
+    "Zuschaer",
+    "Zushauer",
+    "Zuschauher"
+  ]
+}

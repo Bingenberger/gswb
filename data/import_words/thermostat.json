@@ -1,0 +1,75 @@
+{
+  "lemma": "Thermostat",
+  "wortart": "Nomen",
+  "silben": "Ther-mo-stat",
+  "begriffserklaerung": "Ein Thermostat ist ein Gerät, das die Temperatur misst und dafür sorgt, dass es in einem Raum oder einem Gerät weder zu warm noch zu kalt wird.",
+  "beispielsatz": "Der Thermostat an der Heizung zeigt an, wie warm es im Zimmer ist.",
+  "rechtschreibstrategie": "Das Wort „Thermostat\" kommt aus dem Griechischen: „thermo\" bedeutet warm und „stat\" bedeutet stehend. Schreibe es genau so, wie du es hörst: Ther-mo-stat – mit „th\" am Anfang!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "therm"
+  ],
+  "bild_datei": "Thermostat.webp",
+  "audio_datei": "Thermostat.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "thermostat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "thermostat"
+    },
+    {
+      "language_code": "tr",
+      "translation": "termostat"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منظم الحرارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Thermometer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heizung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Temperatur"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Thermostat",
+    "plural": "die Thermostate",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Thermostat",
+        "genitiv": "des Thermostats",
+        "dativ": "dem Thermostat",
+        "akkusativ": "den Thermostat"
+      },
+      "plural": {
+        "nominativ": "die Thermostate",
+        "genitiv": "der Thermostate",
+        "dativ": "den Thermostaten",
+        "akkusativ": "die Thermostate"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Termostat",
+    "Thermmostat",
+    "Thermostadt",
+    "Thermostat",
+    "Themostat",
+    "Termostadt"
+  ]
+}

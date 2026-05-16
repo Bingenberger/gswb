@@ -1,0 +1,72 @@
+{
+  "lemma": "Globus",
+  "wortart": "Nomen",
+  "silben": "Glo-bus",
+  "begriffserklaerung": "Ein Globus ist ein runder Ball, der die Erde zeigt. Auf ihm kannst du alle Länder, Meere und Kontinente sehen.",
+  "beispielsatz": "Im Klassenzimmer steht ein bunter Globus, auf dem wir unsere Lieblingsländer suchen.",
+  "rechtschreibstrategie": "Denk an das lange „o\" am Anfang: Glo-bus. Sprich beide Silben deutlich: „Glo\" und „bus\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Globus",
+    "plural": "die Globen",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Globus",
+        "genitiv": "des Globus",
+        "dativ": "dem Globus",
+        "akkusativ": "den Globus"
+      },
+      "plural": {
+        "nominativ": "die Globen",
+        "genitiv": "der Globen",
+        "dativ": "den Globen",
+        "akkusativ": "die Globen"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Karte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Atlas"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    }
+  ],
+  "fehlschreibungen": [
+    "Globbus",
+    "Globus",
+    "Klobus",
+    "Glopus",
+    "Globos"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "globe"
+    },
+    {
+      "language_code": "fr",
+      "translation": "globe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "küre"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كرة أرضية"
+    }
+  ],
+  "bild_datei": "Globus.webp",
+  "audio_datei": "Globus.mp3"
+}

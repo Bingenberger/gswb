@@ -1,0 +1,82 @@
+{
+  "lemma": "Mantel",
+  "wortart": "Nomen",
+  "silben": "Man-tel",
+  "begriffserklaerung": "Ein Mantel ist ein langes, warmes Kleidungsstück, das man über anderen Sachen trägt, wenn es draußen kalt ist.",
+  "beispielsatz": "Im Winter zieht Lisa ihren dicken Mantel an, bevor sie zur Schule geht.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Man-tel. Das „a\" in der ersten Silbe ist kurz, aber es steht nur ein „n\" danach. Merke dir: Mantel schreibt man mit einem „n\" und einem „t\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Mantel"
+  ],
+  "bild_datei": "Mantel.webp",
+  "audio_datei": "Mantel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "coat"
+    },
+    {
+      "language_code": "fr",
+      "translation": "manteau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "palto"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معطف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "ummanteln"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mantelkragen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Jacke"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anorak"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Überzieher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Mantel",
+    "plural": "Mäntel",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mantel",
+        "genitiv": "des Mantels",
+        "dativ": "dem Mantel",
+        "akkusativ": "den Mantel"
+      },
+      "plural": {
+        "nominativ": "die Mäntel",
+        "genitiv": "der Mäntel",
+        "dativ": "den Mänteln",
+        "akkusativ": "die Mäntel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Manntel",
+    "Manntell",
+    "Mantell",
+    "Mandel",
+    "Mantle"
+  ]
+}

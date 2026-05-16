@@ -1,0 +1,86 @@
+{
+  "lemma": "Sand",
+  "wortart": "Nomen",
+  "silben": "Sand",
+  "begriffserklaerung": "Sand besteht aus sehr vielen winzig kleinen Körnchen aus Stein. Man findet ihn am Strand, in der Wüste oder auf dem Spielplatz.",
+  "beispielsatz": "Die Kinder bauen am Strand eine große Burg aus Sand.",
+  "rechtschreibstrategie": "Das Wort „Sand\" endet auf -nd. Wenn du es verlängerst, hörst du das d deutlich: „San-des\". Schreibe es also mit d am Ende.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Sand"
+  ],
+  "bild_datei": "Sand.webp",
+  "audio_datei": "Sand.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sand"
+    },
+    {
+      "language_code": "fr",
+      "translation": "sable"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kum"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رمل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sandig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sandburg"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sandkasten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Strand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wüste"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erde"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Sand",
+    "plural": "die Sande",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Sand",
+        "genitiv": "des Sandes",
+        "dativ": "dem Sand",
+        "akkusativ": "den Sand"
+      },
+      "plural": {
+        "nominativ": "die Sande",
+        "genitiv": "der Sande",
+        "dativ": "den Sanden",
+        "akkusativ": "die Sande"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sant",
+    "Zand",
+    "Sandt",
+    "Sannd",
+    "Sande"
+  ]
+}

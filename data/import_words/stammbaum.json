@@ -1,0 +1,84 @@
+{
+  "lemma": "Stammbaum",
+  "wortart": "Nomen",
+  "silben": "Stamm-baum",
+  "begriffserklaerung": "Ein Stammbaum zeigt, wer in einer Familie zusammengehört – zum Beispiel Eltern, Großeltern und Kinder. Er sieht aus wie ein Baum mit vielen Ästen.",
+  "beispielsatz": "In der Schule haben wir unseren Stammbaum aufgemalt und alle Familienmitglieder eingetragen.",
+  "rechtschreibstrategie": "„Stammbaum\" besteht aus zwei Teilen: „Stamm\" und „Baum\". Sprich beide Teile einzeln, dann schreibst du das Wort richtig!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Stamm",
+    "Baum"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Stammbaum",
+    "plural": "die Stammbäume",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Stammbaum",
+        "genitiv": "des Stammbaums",
+        "dativ": "dem Stammbaum",
+        "akkusativ": "den Stammbaum"
+      },
+      "plural": {
+        "nominativ": "die Stammbäume",
+        "genitiv": "der Stammbäume",
+        "dativ": "den Stammbäumen",
+        "akkusativ": "die Stammbäume"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Stambaum",
+    "Stambam",
+    "Stammpaum",
+    "Stammbom",
+    "Stammbaume"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "family tree"
+    },
+    {
+      "language_code": "fr",
+      "translation": "arbre généalogique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "aile ağacı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شجرة العائلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stamm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Baum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Familie"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorfahren"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Familienbaum"
+    }
+  ],
+  "bild_datei": "Stammbaum.webp",
+  "audio_datei": "Stammbaum.mp3"
+}

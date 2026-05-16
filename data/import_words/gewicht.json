@@ -1,0 +1,83 @@
+{
+  "lemma": "Gewicht",
+  "wortart": "Nomen",
+  "silben": "Ge-wicht",
+  "begriffserklaerung": "Das Gewicht sagt uns, wie schwer etwas ist. Man misst es meistens in Gramm oder Kilogramm.",
+  "beispielsatz": "Das Gewicht des Rucksacks ist sehr groß, weil so viele Bücher darin stecken.",
+  "rechtschreibstrategie": "Denk an das Wort „wiegen\" – Gewicht kommt davon. Am Ende hörst du „cht\", das schreibt man c-h-t.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "wieg"
+  ],
+  "bild_datei": "Gewicht.webp",
+  "audio_datei": "Gewicht.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "weight"
+    },
+    {
+      "language_code": "fr",
+      "translation": "poids"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağırlık"
+    },
+    {
+      "language_code": "ar",
+      "translation": "وزن"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "wiegen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schwer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Waage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kilogramm"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schwere"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "Gewicht",
+    "plural": "Gewichte",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gewicht",
+        "genitiv": "des Gewichts",
+        "dativ": "dem Gewicht",
+        "akkusativ": "das Gewicht"
+      },
+      "plural": {
+        "nominativ": "die Gewichte",
+        "genitiv": "der Gewichte",
+        "dativ": "den Gewichten",
+        "akkusativ": "die Gewichte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Gewigt",
+    "Gewicht",
+    "Gevicht",
+    "Gewich",
+    "Gewichd",
+    "Gewicth"
+  ]
+}

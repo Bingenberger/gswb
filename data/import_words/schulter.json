@@ -1,0 +1,83 @@
+{
+  "lemma": "Schulter",
+  "wortart": "Nomen",
+  "silben": "Schul-ter",
+  "begriffserklaerung": "Die Schulter ist der Teil deines Körpers, der den Arm mit dem Rumpf verbindet. Du hast eine linke und eine rechte Schulter.",
+  "beispielsatz": "Mama legt mir liebevoll die Hand auf die Schulter.",
+  "rechtschreibstrategie": "Sprich das Wort langsam in Silben: Schul – ter. Achte auf das „sch\" am Anfang und das „ul\" mit kurzem U.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schulter"
+  ],
+  "bild_datei": "Schulter.webp",
+  "audio_datei": "Schulter.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "shoulder"
+    },
+    {
+      "language_code": "fr",
+      "translation": "épaule"
+    },
+    {
+      "language_code": "tr",
+      "translation": "omuz"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كتف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schultern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schulterblatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nacken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Körper"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schulter",
+    "plural": "die Schultern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schulter",
+        "genitiv": "der Schulter",
+        "dativ": "der Schulter",
+        "akkusativ": "die Schulter"
+      },
+      "plural": {
+        "nominativ": "die Schultern",
+        "genitiv": "der Schultern",
+        "dativ": "den Schultern",
+        "akkusativ": "die Schultern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schultern",
+    "Schulder",
+    "Schu lter",
+    "Schoulter",
+    "Schullter",
+    "Sculter"
+  ]
+}

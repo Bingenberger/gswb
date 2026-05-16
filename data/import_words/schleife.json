@@ -1,0 +1,86 @@
+{
+  "lemma": "Schleife",
+  "wortart": "Nomen",
+  "silben": "Schlei-fe",
+  "begriffserklaerung": "Eine Schleife ist eine Art Knoten, bei dem die Enden zu runden Bögen gelegt werden. Man kann damit zum Beispiel Schuhe zubinden oder Geschenke schmücken.",
+  "beispielsatz": "Lena bindet eine bunte Schleife in ihr Haar.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Schlei-fe. Das „ei\" hörst du ganz deutlich – schreib es mit e und i!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "schleif"
+  ],
+  "bild_datei": "Schleife.webp",
+  "audio_datei": "Schleife.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schleife",
+    "plural": "die Schleifen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schleife",
+        "genitiv": "der Schleife",
+        "dativ": "der Schleife",
+        "akkusativ": "die Schleife"
+      },
+      "plural": {
+        "nominativ": "die Schleifen",
+        "genitiv": "der Schleifen",
+        "dativ": "den Schleifen",
+        "akkusativ": "die Schleifen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bow / loop"
+    },
+    {
+      "language_code": "fr",
+      "translation": "nœud / boucle"
+    },
+    {
+      "language_code": "tr",
+      "translation": "fiyonk / ilmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "فيونكة / حلقة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schleifen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schleifer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schluppe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Knoten"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Band"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Masche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schlaife",
+    "Schleiffe",
+    "Schleipe",
+    "Schleife",
+    "Schleifhe"
+  ]
+}

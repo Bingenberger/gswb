@@ -1,0 +1,84 @@
+{
+  "lemma": "Kaufhaus",
+  "wortart": "Nomen",
+  "silben": "Kauf-haus",
+  "begriffserklaerung": "Ein Kaufhaus ist ein sehr großes Geschäft, in dem man viele verschiedene Dinge kaufen kann, zum Beispiel Kleidung, Spielzeug oder Lebensmittel.",
+  "beispielsatz": "Am Samstag geht die Familie ins Kaufhaus, um neue Schuhe zu kaufen.",
+  "rechtschreibstrategie": "Das Wort „Kaufhaus\" ist aus zwei Teilen zusammengesetzt: „Kauf\" und „Haus\". Wenn du beide Teile erkennst, kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "kauf",
+    "haus"
+  ],
+  "bild_datei": "Kaufhaus.webp",
+  "audio_datei": "Kaufhaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "department store"
+    },
+    {
+      "language_code": "fr",
+      "translation": "grand magasin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "alışveriş merkezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "متجر كبير"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "kauf"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Supermarkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geschäft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Warenhaus"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Kaufhaus",
+    "plural": "die Kaufhäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Kaufhaus",
+        "genitiv": "des Kaufhauses",
+        "dativ": "dem Kaufhaus",
+        "akkusativ": "das Kaufhaus"
+      },
+      "plural": {
+        "nominativ": "die Kaufhäuser",
+        "genitiv": "der Kaufhäuser",
+        "dativ": "den Kaufhäusern",
+        "akkusativ": "die Kaufhäuser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kaufhause",
+    "Kaufhauß",
+    "Koufhaus",
+    "Kaufhaus",
+    "Kaufhaws",
+    "Kaufhauss"
+  ]
+}

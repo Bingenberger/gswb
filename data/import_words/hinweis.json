@@ -1,0 +1,91 @@
+{
+  "lemma": "Hinweis",
+  "wortart": "Nomen",
+  "silben": "Hin-weis",
+  "begriffserklaerung": "Ein Hinweis ist eine kurze Mitteilung, die jemandem hilft, etwas zu verstehen oder zu finden.",
+  "beispielsatz": "Die Lehrerin gab uns einen wichtigen Hinweis für die Aufgabe.",
+  "rechtschreibstrategie": "Das Wort „Hinweis\" ist ein Baustein­wort aus „hin\" und „weis\" (von weisen). Achte auf das „ei\" in „weis\" – wie in „zeigen\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "weis"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Hinweis",
+    "plural": "die Hinweise",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Hinweis",
+        "genitiv": "des Hinweises",
+        "dativ": "dem Hinweis",
+        "akkusativ": "den Hinweis"
+      },
+      "plural": {
+        "nominativ": "die Hinweise",
+        "genitiv": "der Hinweise",
+        "dativ": "den Hinweisen",
+        "akkusativ": "die Hinweise"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Hinveis",
+    "Hinweiß",
+    "Himweis",
+    "Hinwais",
+    "Hinweis"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hint, clue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "indice, conseil"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ipucu, işaret"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تلميح، إشارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weisen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Beweis"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Tipp"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Erklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nachricht"
+    }
+  ],
+  "bild_datei": "Hinweis.webp",
+  "audio_datei": "Hinweis.mp3"
+}

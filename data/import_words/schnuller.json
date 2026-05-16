@@ -1,0 +1,74 @@
+{
+  "lemma": "Schnuller",
+  "wortart": "Nomen",
+  "silben": "Schnul-ler",
+  "begriffserklaerung": "Ein Schnuller ist ein kleines Saugteil aus Gummi oder Silikon für Babys. Babys stecken ihn in den Mund, damit sie sich beruhigen.",
+  "beispielsatz": "Das Baby weint, weil es seinen Schnuller verloren hat.",
+  "rechtschreibstrategie": "Das Wort „Schnuller\" hat ein kurzes „u\", deshalb wird der Mitlaut „l\" verdoppelt: ll. Sprich es laut: Schnul-ler!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "schnull"
+  ],
+  "bild_datei": "Schnuller.webp",
+  "audio_datei": "Schnuller.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schnuller",
+    "plural": "die Schnuller",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schnuller",
+        "genitiv": "des Schnullers",
+        "dativ": "dem Schnuller",
+        "akkusativ": "den Schnuller"
+      },
+      "plural": {
+        "nominativ": "die Schnuller",
+        "genitiv": "der Schnuller",
+        "dativ": "den Schnullern",
+        "akkusativ": "die Schnuller"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pacifier / dummy"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tétine"
+    },
+    {
+      "language_code": "tr",
+      "translation": "emzik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "لهاية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Baby"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Flasche"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Windel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Schnuler",
+    "Schnulller",
+    "Schnulla",
+    "Shnuller",
+    "Schnuhler"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "lemma": "lernen",
+  "wortart": "Verb",
+  "silben": "ler-nen",
+  "begriffserklaerung": "Wenn du lernst, übst du etwas Neues, bis du es weißt oder kannst.",
+  "beispielsatz": "In der Schule lernen wir jeden Tag etwas Neues.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: ler-nen. Du hörst beide Silben deutlich – sprich sie laut mit!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "lern"
+  ],
+  "bild_datei": "lernen.webp",
+  "audio_datei": "lernen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "lernen",
+    "praesens": {
+      "ich": "lerne",
+      "du": "lernst",
+      "er_sie_es": "lernt",
+      "wir": "lernen",
+      "ihr": "lernt",
+      "sie": "lernen"
+    },
+    "perfekt": {
+      "ich": "habe gelernt",
+      "du": "hast gelernt",
+      "er_sie_es": "hat gelernt",
+      "wir": "haben gelernt",
+      "ihr": "habt gelernt",
+      "sie": "haben gelernt"
+    },
+    "praeteritum": {
+      "ich": "lernte",
+      "du": "lerntest",
+      "er_sie_es": "lernte",
+      "wir": "lernten",
+      "ihr": "lerntet",
+      "sie": "lernten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to learn"
+    },
+    {
+      "language_code": "fr",
+      "translation": "apprendre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "öğrenmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَتَعَلَّمُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lernen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lehrer"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Lernender"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "üben"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "sich merken"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "verstehen"
+    }
+  ],
+  "fehlschreibungen": [
+    "lerern",
+    "lehrnen",
+    "lernn",
+    "lernnen",
+    "lernen"
+  ]
+}

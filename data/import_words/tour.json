@@ -1,0 +1,91 @@
+{
+  "lemma": "Tour",
+  "wortart": "Nomen",
+  "silben": "Tour",
+  "begriffserklaerung": "Eine Tour ist ein Ausflug oder eine Reise, bei der man einen bestimmten Weg zurücklegt – zum Beispiel mit dem Fahrrad, zu Fuß oder mit dem Auto.",
+  "beispielsatz": "Am Wochenende machen wir eine lange Tour durch den Wald.",
+  "rechtschreibstrategie": "„Tour\" klingt wie „Tur\" – aber es kommt aus dem Französischen und wird mit „ou\" geschrieben. Merke: Tour – genau wie in „Tourist\"!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Tour"
+  ],
+  "bild_datei": "Tour.webp",
+  "audio_datei": "Tour.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tour / trip"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tour / excursion"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tur / gezi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جولة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tourist"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tournee"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausflug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Reise"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fahrt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Tour",
+    "plural": "die Touren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Tour",
+        "genitiv": "der Tour",
+        "dativ": "der Tour",
+        "akkusativ": "die Tour"
+      },
+      "plural": {
+        "nominativ": "die Touren",
+        "genitiv": "der Touren",
+        "dativ": "den Touren",
+        "akkusativ": "die Touren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tur",
+    "Tuur",
+    "Tour'",
+    "Tuor",
+    "Tohr",
+    "Tore"
+  ]
+}

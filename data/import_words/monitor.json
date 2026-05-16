@@ -1,0 +1,72 @@
+{
+  "lemma": "Monitor",
+  "wortart": "Nomen",
+  "silben": "Mo-ni-tor",
+  "begriffserklaerung": "Ein Monitor ist der Bildschirm eines Computers. Er zeigt Bilder, Texte und Videos an.",
+  "beispielsatz": "Auf dem Monitor sehe ich mein Lieblingsspiel.",
+  "rechtschreibstrategie": "Sprich alle drei Silben deutlich: Mo – ni – tor. Am Ende hörst du klar das „r\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "Monitor",
+    "plural": "die Monitore",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Monitor",
+        "genitiv": "des Monitors",
+        "dativ": "dem Monitor",
+        "akkusativ": "den Monitor"
+      },
+      "plural": {
+        "nominativ": "die Monitore",
+        "genitiv": "der Monitore",
+        "dativ": "den Monitoren",
+        "akkusativ": "die Monitore"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bildschirm"
+    }
+  ],
+  "fehlschreibungen": [
+    "Monidor",
+    "Moniter",
+    "Monnitor",
+    "Moniitor",
+    "Monittor"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "monitor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "moniteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "monitör"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاشة"
+    }
+  ],
+  "bild_datei": "Monitor.webp",
+  "audio_datei": "Monitor.mp3"
+}

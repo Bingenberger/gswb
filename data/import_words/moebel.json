@@ -1,0 +1,83 @@
+{
+  "lemma": "Möbel",
+  "wortart": "Nomen",
+  "silben": "Mö-bel",
+  "begriffserklaerung": "Möbel sind Gegenstände, die in einem Zimmer stehen, zum Beispiel Tisch, Stuhl, Bett oder Schrank.",
+  "beispielsatz": "Die neuen Möbel in meinem Zimmer sind blau und sehr schön.",
+  "rechtschreibstrategie": "Denk an das Ö wie in „schön\" – Mö-bel. Sprich die beiden Silben deutlich: MÖ – bel.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Möbel"
+  ],
+  "bild_datei": "Möbel.webp",
+  "audio_datei": "Möbel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "furniture"
+    },
+    {
+      "language_code": "fr",
+      "translation": "meubles"
+    },
+    {
+      "language_code": "tr",
+      "translation": "mobilya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أثاث"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "möblieren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Möbelstück"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schrank"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Möbel",
+    "plural": "die Möbel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Möbel",
+        "genitiv": "des Möbels",
+        "dativ": "dem Möbel",
+        "akkusativ": "das Möbel"
+      },
+      "plural": {
+        "nominativ": "die Möbel",
+        "genitiv": "der Möbel",
+        "dativ": "den Möbeln",
+        "akkusativ": "die Möbel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Möbell",
+    "Möbeln",
+    "Möbal",
+    "Möbäl",
+    "Moeble",
+    "Möble"
+  ]
+}

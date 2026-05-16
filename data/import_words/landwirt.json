@@ -1,0 +1,91 @@
+{
+  "lemma": "Landwirt",
+  "wortart": "Nomen",
+  "silben": "Land-wirt",
+  "begriffserklaerung": "Ein Landwirt ist ein Mensch, der auf einem Bauernhof arbeitet. Er baut Getreide, Gemüse oder Obst an und kümmert sich um Tiere.",
+  "beispielsatz": "Der Landwirt steht früh auf und füttert zuerst seine Kühe.",
+  "rechtschreibstrategie": "„Landwirt\" ist ein zusammengesetztes Wort aus „Land\" und „Wirt\". Sprich beide Teile einzeln: LAND + WIRT. So schreibst du beide Teile richtig.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Land",
+    "Wirt"
+  ],
+  "bild_datei": "Landwirt.webp",
+  "audio_datei": "Landwirt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "farmer"
+    },
+    {
+      "language_code": "fr",
+      "translation": "agriculteur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "çiftçi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مزارع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Land"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Landwirtschaft"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wirt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Bauer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bauernhof"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ernte"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feld"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Landwirt",
+    "plural": "die Landwirte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Landwirt",
+        "genitiv": "des Landwirts",
+        "dativ": "dem Landwirt",
+        "akkusativ": "den Landwirt"
+      },
+      "plural": {
+        "nominativ": "die Landwirte",
+        "genitiv": "der Landwirte",
+        "dativ": "den Landwirten",
+        "akkusativ": "die Landwirte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Landwird",
+    "Lantwirt",
+    "Landwierth",
+    "Lantwird",
+    "Landwirrt"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "lemma": "Mitglied",
+  "wortart": "Nomen",
+  "silben": "Mit-glied",
+  "begriffserklaerung": "Ein Mitglied ist eine Person, die zu einer Gruppe, einem Verein oder einer Organisation gehört.",
+  "beispielsatz": "Lea ist seit einem Jahr Mitglied im Sportverein.",
+  "rechtschreibstrategie": "Das Wort „Mitglied\" steckt aus zwei Teilen: „mit\" und „Glied\". Sprich beide Teile deutlich: MIT – GLIED. Das „ie\" am Ende klingt lang, wie in „Lied\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Glied"
+  ],
+  "bild_datei": "Mitglied.webp",
+  "audio_datei": "Mitglied.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "member"
+    },
+    {
+      "language_code": "fr",
+      "translation": "membre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "عضو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Glied"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gruppe"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Mitglied",
+    "plural": "die Mitglieder",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Mitglied",
+        "genitiv": "des Mitglieds",
+        "dativ": "dem Mitglied",
+        "akkusativ": "das Mitglied"
+      },
+      "plural": {
+        "nominativ": "die Mitglieder",
+        "genitiv": "der Mitglieder",
+        "dativ": "den Mitgliedern",
+        "akkusativ": "die Mitglieder"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitgliet",
+    "Mitglid",
+    "Midglied",
+    "Mitgliед",
+    "Mietglied",
+    "Mitglieed"
+  ]
+}

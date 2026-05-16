@@ -1,0 +1,79 @@
+{
+  "lemma": "Geometrie",
+  "wortart": "Nomen",
+  "silben": "Ge-o-me-trie",
+  "begriffserklaerung": "Geometrie ist ein Teil der Mathematik. Man lernt dabei alles über Formen, Linien, Flächen und Körper – zum Beispiel Dreiecke, Kreise und Würfel.",
+  "beispielsatz": "Im Mathematikunterricht haben wir heute Geometrie gemacht und verschiedene Dreiecke gezeichnet.",
+  "rechtschreibstrategie": "Das Wort „Geometrie\" kommt aus dem Griechischen und endet auf -ie. Sprich alle Silben genau mit: Ge-o-me-trie. Das ie am Ende sprichst du wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "geometr"
+  ],
+  "bild_datei": "Geometrie.webp",
+  "audio_datei": "Geometrie.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "geometry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "géométrie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "geometri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هندسة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geometrisch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mathematik"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Form"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Dreieck"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Geometrie",
+    "plural": "die Geometrien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Geometrie",
+        "genitiv": "der Geometrie",
+        "dativ": "der Geometrie",
+        "akkusativ": "die Geometrie"
+      },
+      "plural": {
+        "nominativ": "die Geometrien",
+        "genitiv": "der Geometrien",
+        "dativ": "den Geometrien",
+        "akkusativ": "die Geometrien"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geomerie",
+    "Geomethrie",
+    "Geometrrie",
+    "Geommetrie",
+    "Geometriy",
+    "Geoometrie"
+  ]
+}

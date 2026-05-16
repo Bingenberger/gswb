@@ -1,0 +1,90 @@
+{
+  "lemma": "Vogelkäfig",
+  "wortart": "Nomen",
+  "silben": "Vo-gel-kä-fig",
+  "begriffserklaerung": "Ein Vogelkäfig ist ein Behälter aus Stäben oder Draht, in dem Vögel gehalten werden.",
+  "beispielsatz": "Der bunte Papagei sitzt in seinem großen Vogelkäfig und pfeift fröhlich.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Vogel\" und „Käfig\". Sprich beide Bausteine laut mit – dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Vogel",
+    "Käfig"
+  ],
+  "bild_datei": "Vogelkäfig.webp",
+  "audio_datei": "Vogelkäfig.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Vogelkäfig",
+    "plural": "die Vogelkäfige",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Vogelkäfig",
+        "genitiv": "des Vogelkäfigs",
+        "dativ": "dem Vogelkäfig",
+        "akkusativ": "den Vogelkäfig"
+      },
+      "plural": {
+        "nominativ": "die Vogelkäfige",
+        "genitiv": "der Vogelkäfige",
+        "dativ": "den Vogelkäfigen",
+        "akkusativ": "die Vogelkäfige"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bird cage"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cage à oiseaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kuş kafesi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "قفص الطيور"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Vogel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Käfig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Papagei"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Haustier"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tiergehege"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vogelhaus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Fogelkäfig",
+    "Vogelkefig",
+    "Vogelkävig",
+    "Vogelkäfich",
+    "Vogelkäffig",
+    "Vogelkäfik"
+  ]
+}

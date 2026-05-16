@@ -1,0 +1,82 @@
+{
+  "lemma": "Keim",
+  "wortart": "Nomen",
+  "silben": "Keim",
+  "begriffserklaerung": "Ein Keim ist der winzige Anfang einer neuen Pflanze. Er wächst aus einem Samenkorn und wird später zu einer richtigen Pflanze. Manchmal nennt man auch kleine Krankheitserreger Keime.",
+  "beispielsatz": "Aus dem Samenkorn wächst ein kleiner Keim heraus.",
+  "rechtschreibstrategie": "Das Wort „Keim\" hat den Doppelvokal „ei\". Sprich es laut: Keim – du hörst das „ei\" ganz deutlich. Merke: „ei\" schreibt man mit e und i.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "keim"
+  ],
+  "bild_datei": "Keim.webp",
+  "audio_datei": "Keim.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sprout / germ"
+    },
+    {
+      "language_code": "fr",
+      "translation": "germe"
+    },
+    {
+      "language_code": "tr",
+      "translation": "filiz / mikrop"
+    },
+    {
+      "language_code": "ar",
+      "translation": "جُرْثُومَة / بَذْرَة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "keimen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Keimling"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Samen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pflanze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Keimling"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Keim",
+    "plural": "die Keime",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Keim",
+        "genitiv": "des Keimes",
+        "dativ": "dem Keim",
+        "akkusativ": "den Keim"
+      },
+      "plural": {
+        "nominativ": "die Keime",
+        "genitiv": "der Keime",
+        "dativ": "den Keimen",
+        "akkusativ": "die Keime"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Kaim",
+    "Keim",
+    "Keimm",
+    "Kiem",
+    "Geim"
+  ]
+}

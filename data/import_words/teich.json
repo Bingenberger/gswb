@@ -1,0 +1,88 @@
+{
+  "lemma": "Teich",
+  "wortart": "Nomen",
+  "silben": "Teich",
+  "begriffserklaerung": "Ein Teich ist ein kleines, stehendes Gewässer. Er ist kleiner als ein See und hat meist flaches Wasser.",
+  "beispielsatz": "Im Teich schwimmen bunte Fische und grüne Frösche.",
+  "rechtschreibstrategie": "Das Wort „Teich\" klingt so, wie es geschrieben wird – sprich es laut mit: T-ei-ch. Merke dir das „ei\" und das „ch\" am Ende!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Teich"
+  ],
+  "bild_datei": "Teich.webp",
+  "audio_datei": "Teich.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "pond"
+    },
+    {
+      "language_code": "fr",
+      "translation": "étang"
+    },
+    {
+      "language_code": "tr",
+      "translation": "gölet"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بركة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teichrand"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Teichfrosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "See"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bach"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fluss"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Weiher"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Teich",
+    "plural": "die Teiche",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Teich",
+        "genitiv": "des Teiches",
+        "dativ": "dem Teich",
+        "akkusativ": "den Teich"
+      },
+      "plural": {
+        "nominativ": "die Teiche",
+        "genitiv": "der Teiche",
+        "dativ": "den Teichen",
+        "akkusativ": "die Teiche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Taich",
+    "Treich",
+    "Teich",
+    "Teig",
+    "Teych",
+    "Tich",
+    "Deich"
+  ]
+}

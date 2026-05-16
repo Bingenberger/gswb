@@ -1,0 +1,82 @@
+{
+  "lemma": "Kastanie",
+  "wortart": "Nomen",
+  "silben": "Kas-ta-ni-e",
+  "begriffserklaerung": "Die Kastanie ist eine große, runde Frucht mit einer stacheligen Schale. Sie wächst an Kastanienbäumen und fällt im Herbst auf den Boden.",
+  "beispielsatz": "Im Herbst sammeln wir glänzende Kastanien im Park.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: Kas-ta-ni-e. Am Ende hörst du deutlich das „ie\" – aber hier schreibt man „ie\" nicht als Dehnungs-ie, sondern jede Silbe zählt einzeln: ni-e!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Kastanie"
+  ],
+  "bild_datei": "Kastanie.webp",
+  "audio_datei": "Kastanie.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Kastanie",
+    "plural": "die Kastanien",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Kastanie",
+        "genitiv": "der Kastanie",
+        "dativ": "der Kastanie",
+        "akkusativ": "die Kastanie"
+      },
+      "plural": {
+        "nominativ": "die Kastanien",
+        "genitiv": "der Kastanien",
+        "dativ": "den Kastanien",
+        "akkusativ": "die Kastanien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "chestnut"
+    },
+    {
+      "language_code": "fr",
+      "translation": "marron / châtaigne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kestane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "كستناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kastanienbaum"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Kastanienblatt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eichel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Herbst"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Nuss"
+    }
+  ],
+  "fehlschreibungen": [
+    "Castanie",
+    "Kastahnie",
+    "Kastaanie",
+    "Kastannie",
+    "Kastanei"
+  ]
+}

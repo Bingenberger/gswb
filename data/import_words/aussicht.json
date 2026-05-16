@@ -1,0 +1,91 @@
+{
+  "lemma": "Aussicht",
+  "wortart": "Nomen",
+  "silben": "Aus-sicht",
+  "begriffserklaerung": "Eine Aussicht ist das, was man sieht, wenn man weit in die Ferne schaut – zum Beispiel von einem Berg oder einem hohen Turm aus.",
+  "beispielsatz": "Von der Berghütte aus haben wir eine wunderschöne Aussicht auf das Tal.",
+  "rechtschreibstrategie": "Das Wort „Aussicht\" besteht aus zwei Teilen: „aus\" und „Sicht\". Sprich beide Teile laut mit: AUS – SICHT. Deshalb schreibt man es mit zwei s hintereinander (Aus-sicht).",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "sehen",
+    "Sicht"
+  ],
+  "bild_datei": "Aussicht.webp",
+  "audio_datei": "Aussicht.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Aussicht",
+    "plural": "die Aussichten",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Aussicht",
+        "genitiv": "der Aussicht",
+        "dativ": "der Aussicht",
+        "akkusativ": "die Aussicht"
+      },
+      "plural": {
+        "nominativ": "die Aussichten",
+        "genitiv": "der Aussichten",
+        "dativ": "den Aussichten",
+        "akkusativ": "die Aussichten"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "view"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "manzara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "منظر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sicht"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ansicht"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Blick"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Panorama"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Horizont"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Landschaft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gipfel"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ausicht",
+    "Aussigt",
+    "Außicht",
+    "Aussiecht",
+    "Aufsicht"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Strand",
+  "wortart": "Nomen",
+  "silben": "Strand",
+  "begriffserklaerung": "Der Strand ist ein breiter Streifen aus Sand oder Kies direkt am Meer oder an einem See.",
+  "beispielsatz": "Im Sommer bauen wir am Strand eine riesige Sandburg.",
+  "rechtschreibstrategie": "Sprich das Wort laut aus: „Strand\". Am Ende hörst du ein D – aber du schreibst es auch so, weil du beim Verlängern „Strände\" sagst und das D deutlich hörst.",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Strand",
+    "plural": "die Strände",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Strand",
+        "genitiv": "des Strandes",
+        "dativ": "dem Strand",
+        "akkusativ": "den Strand"
+      },
+      "plural": {
+        "nominativ": "die Strände",
+        "genitiv": "der Strände",
+        "dativ": "den Stränden",
+        "akkusativ": "die Strände"
+      }
+    }
+  },
+  "wortfamilie_basen": [
+    "Strand"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "stranden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Strandkorb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Meer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sand"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Welle"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Küste"
+    }
+  ],
+  "fehlschreibungen": [
+    "Strant",
+    "Shtrand",
+    "Schrand",
+    "Stran",
+    "Strandt"
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "beach"
+    },
+    {
+      "language_code": "fr",
+      "translation": "plage"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sahil"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شاطئ"
+    }
+  ],
+  "bild_datei": "Strand.webp",
+  "audio_datei": "Strand.mp3"
+}

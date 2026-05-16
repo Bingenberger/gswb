@@ -1,0 +1,83 @@
+{
+  "lemma": "Krankenhaus",
+  "wortart": "Nomen",
+  "silben": "Kran-ken-haus",
+  "begriffserklaerung": "Ein Krankenhaus ist ein großes Gebäude, in dem kranke oder verletzte Menschen von Ärzten und Pflegepersonal behandelt und gesund gepflegt werden.",
+  "beispielsatz": "Nachdem Tim vom Fahrrad gefallen war, brachte ihn seine Mama schnell ins Krankenhaus.",
+  "rechtschreibstrategie": "„Krankenhaus\" ist aus zwei Wörtern zusammengesetzt: „krank\" und „Haus\". Schreibe beide Teile einfach zusammen – so entsteht „Krankenhaus\"!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "krank",
+    "Haus"
+  ],
+  "bild_datei": "Krankenhaus.webp",
+  "audio_datei": "Krankenhaus.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hospital"
+    },
+    {
+      "language_code": "fr",
+      "translation": "hôpital"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hastane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مستشفى"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "krank"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Arzt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klinik"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Krankenhaus",
+    "plural": "die Krankenhäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Krankenhaus",
+        "genitiv": "des Krankenhauses",
+        "dativ": "dem Krankenhaus",
+        "akkusativ": "das Krankenhaus"
+      },
+      "plural": {
+        "nominativ": "die Krankenhäuser",
+        "genitiv": "der Krankenhäuser",
+        "dativ": "den Krankenhäusern",
+        "akkusativ": "die Krankenhäuser"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Krankenaus",
+    "Kranckenhaus",
+    "Krankenhauss",
+    "Krankhenhaus",
+    "Krankenhaus"
+  ]
+}

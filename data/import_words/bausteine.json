@@ -1,0 +1,83 @@
+{
+  "lemma": "Bausteine",
+  "wortart": "Nomen",
+  "silben": "Bau-stei-ne",
+  "begriffserklaerung": "Bausteine sind einzelne Teile, die man zusammenstecken oder stapeln kann, um etwas zu bauen – zum Beispiel ein Haus oder einen Turm.",
+  "beispielsatz": "Lena baut mit ihren bunten Bausteinen einen hohen Turm.",
+  "rechtschreibstrategie": "Das Wort „Bausteine\" besteht aus zwei Teilen: „Bau\" und „Steine\". Sprich beide Teile einzeln: BAU – STEI – NE. So kannst du es leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Bau",
+    "Stein"
+  ],
+  "bild_datei": "Bausteine.webp",
+  "audio_datei": "Bausteine.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "der Baustein",
+    "plural": "die Bausteine",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Baustein",
+        "genitiv": "des Bausteins",
+        "dativ": "dem Baustein",
+        "akkusativ": "den Baustein"
+      },
+      "plural": {
+        "nominativ": "die Bausteine",
+        "genitiv": "der Bausteine",
+        "dativ": "den Bausteinen",
+        "akkusativ": "die Bausteine"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "building blocks"
+    },
+    {
+      "language_code": "fr",
+      "translation": "blocs de construction"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yapı taşları"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مكعبات البناء"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bau"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Stein"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lego"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Spielzeug"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klötze"
+    }
+  ],
+  "fehlschreibungen": [
+    "Baushteine",
+    "Baustaine",
+    "Bousteine",
+    "Bausteiene",
+    "Bausteinne"
+  ]
+}

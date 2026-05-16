@@ -1,0 +1,83 @@
+{
+  "lemma": "Gemeindehaus",
+  "wortart": "Nomen",
+  "silben": "Ge-mein-de-haus",
+  "begriffserklaerung": "Ein Gemeindehaus ist ein Gebäude, das einer Gemeinde oder Kirchengemeinde gehört. Dort treffen sich Menschen zu Veranstaltungen, Festen oder Besprechungen.",
+  "beispielsatz": "Jeden Freitag findet im Gemeindehaus ein Bastelnachmittag für Kinder statt.",
+  "rechtschreibstrategie": "Das Wort „Gemeindehaus\" besteht aus zwei Teilen: „Gemeinde\" und „Haus\". Schreibe einfach beide Wörter zusammen – ohne Leerzeichen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Gemeinde",
+    "Haus"
+  ],
+  "bild_datei": "Gemeindehaus.webp",
+  "audio_datei": "Gemeindehaus.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gemeindehaus",
+    "plural": "die Gemeindehäuser",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gemeindehaus",
+        "genitiv": "des Gemeindehauses",
+        "dativ": "dem Gemeindehaus",
+        "akkusativ": "das Gemeindehaus"
+      },
+      "plural": {
+        "nominativ": "die Gemeindehäuser",
+        "genitiv": "der Gemeindehäuser",
+        "dativ": "den Gemeindehäusern",
+        "akkusativ": "die Gemeindehäuser"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "community centre"
+    },
+    {
+      "language_code": "fr",
+      "translation": "maison communale"
+    },
+    {
+      "language_code": "tr",
+      "translation": "belediye evi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دار البلدية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gemeinde"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rathaus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kirchengemeinde"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Gemeinschaftshaus"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gemeindhaus",
+    "Gemeindehauss",
+    "Gemeindeaus",
+    "Gemeinde Haus",
+    "Gemeintehaus"
+  ]
+}

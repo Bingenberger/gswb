@@ -1,0 +1,83 @@
+{
+  "lemma": "Sonnenuhr",
+  "wortart": "Nomen",
+  "silben": "Son-nen-uhr",
+  "begriffserklaerung": "Eine Sonnenuhr ist eine sehr alte Art, die Uhrzeit abzulesen. Ein Stab wirft einen Schatten auf eine Fläche mit Markierungen – so kann man sehen, wie spät es ist.",
+  "beispielsatz": "Im Garten unserer Schule steht eine alte Sonnenuhr, an der wir die Uhrzeit ablesen können.",
+  "rechtschreibstrategie": "„Sonnenuhr\" ist aus zwei Wörtern zusammengesetzt: „Sonne\" und „Uhr\". Schreibe beide Teile einfach zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Sonne",
+    "Uhr"
+  ],
+  "bild_datei": "Sonnenuhr.webp",
+  "audio_datei": "Sonnenuhr.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "sundial"
+    },
+    {
+      "language_code": "fr",
+      "translation": "cadran solaire"
+    },
+    {
+      "language_code": "tr",
+      "translation": "güneş saati"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ساعة شمسية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonne"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Uhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sanduhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wanduhr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zeit"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Sonnenuhr",
+    "plural": "die Sonnenuhren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Sonnenuhr",
+        "genitiv": "der Sonnenuhr",
+        "dativ": "der Sonnenuhr",
+        "akkusativ": "die Sonnenuhr"
+      },
+      "plural": {
+        "nominativ": "die Sonnenuhren",
+        "genitiv": "der Sonnenuhren",
+        "dativ": "den Sonnenuhren",
+        "akkusativ": "die Sonnenuhren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Sohnenuhr",
+    "Sonnenuhr",
+    "Sonenur",
+    "Sonenuhr",
+    "Sonnuhr"
+  ]
+}

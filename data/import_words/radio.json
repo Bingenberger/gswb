@@ -1,0 +1,82 @@
+{
+  "lemma": "Radio",
+  "wortart": "Nomen",
+  "silben": "Ra-di-o",
+  "begriffserklaerung": "Ein Radio ist ein Gerät, das Musik, Nachrichten und Sendungen aus der Luft empfängt und sie als Töne wiedergibt.",
+  "beispielsatz": "Morgens hört meine Familie beim Frühstück immer Radio.",
+  "rechtschreibstrategie": "Sprich alle drei Silben deutlich: Ra – di – o. Das Wort endet auf -io, das klingt wie zwei Vokale hintereinander.",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Radio"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Radio",
+    "plural": "die Radios",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Radio",
+        "genitiv": "des Radios",
+        "dativ": "dem Radio",
+        "akkusativ": "das Radio"
+      },
+      "plural": {
+        "nominativ": "die Radios",
+        "genitiv": "der Radios",
+        "dativ": "den Radios",
+        "akkusativ": "die Radios"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Radjo",
+    "Raddio",
+    "Rahio",
+    "Radie",
+    "Redio"
+  ],
+  "bild_datei": "Radio.webp",
+  "audio_datei": "Radio.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "radio"
+    },
+    {
+      "language_code": "fr",
+      "translation": "radio"
+    },
+    {
+      "language_code": "tr",
+      "translation": "radyo"
+    },
+    {
+      "language_code": "ar",
+      "translation": "راديو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radiogerät"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Radiosender"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernseher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lautsprecher"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Musik"
+    }
+  ]
+}

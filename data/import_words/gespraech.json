@@ -1,0 +1,94 @@
+{
+  "lemma": "Gespräch",
+  "wortart": "Nomen",
+  "silben": "Ge-spräch",
+  "begriffserklaerung": "Ein Gespräch ist, wenn zwei oder mehr Menschen miteinander reden und sich gegenseitig zuhören.",
+  "beispielsatz": "Lea und Tom führen ein freundliches Gespräch auf dem Schulhof.",
+  "rechtschreibstrategie": "Denk an das Wort „sprechen\" – daraus kommt „Gespräch\". Das äch am Ende klingt kurz, aber es steckt kein Doppelbuchstabe drin. Merke dir: Ge-spräch!",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "sprech",
+    "sprich"
+  ],
+  "bild_datei": "Gespräch.webp",
+  "audio_datei": "Gespräch.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gespräch",
+    "plural": "die Gespräche",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gespräch",
+        "genitiv": "des Gesprächs",
+        "dativ": "dem Gespräch",
+        "akkusativ": "das Gespräch"
+      },
+      "plural": {
+        "nominativ": "die Gespräche",
+        "genitiv": "der Gespräche",
+        "dativ": "den Gesprächen",
+        "akkusativ": "die Gespräche"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "conversation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "conversation"
+    },
+    {
+      "language_code": "tr",
+      "translation": "konuşma"
+    },
+    {
+      "language_code": "ar",
+      "translation": "محادثة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sprechen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "besprechen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterhaltung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Unterredung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frage"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Antwort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Diskussion"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gesprech",
+    "Gespräch",
+    "Gesprach",
+    "Gespräck",
+    "Gesprääch",
+    "Gespräsh",
+    "Gesprääck"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "lemma": "wiegen",
+  "wortart": "Verb",
+  "silben": "wie-gen",
+  "begriffserklaerung": "Wiegen bedeutet, das Gewicht von etwas oder jemandem zu messen. Es kann auch bedeuten, jemanden sanft hin und her zu schaukeln, zum Beispiel ein Baby.",
+  "beispielsatz": "Mama wiegt das Baby sanft in den Armen.",
+  "rechtschreibstrategie": "Schreibe „wie\" mit ie, weil man das i und e deutlich hören kann: wie-gen. Denke an das Fragewort „wie\" – das hilft dir!",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "wieg"
+  ],
+  "bild_datei": "wiegen.webp",
+  "audio_datei": "wiegen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "wiegen",
+    "praesens": {
+      "ich": "wiege",
+      "du": "wiegst",
+      "er_sie_es": "wiegt",
+      "wir": "wiegen",
+      "ihr": "wiegt",
+      "sie": "wiegen"
+    },
+    "perfekt": {
+      "ich": "habe gewogen",
+      "du": "hast gewogen",
+      "er_sie_es": "hat gewogen",
+      "wir": "haben gewogen",
+      "ihr": "habt gewogen",
+      "sie": "haben gewogen"
+    },
+    "praeteritum": {
+      "ich": "wog",
+      "du": "wogst",
+      "er_sie_es": "wog",
+      "wir": "wogen",
+      "ihr": "wogt",
+      "sie": "wogen"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to weigh / to rock"
+    },
+    {
+      "language_code": "fr",
+      "translation": "peser / bercer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tartmak / sallamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَزِن / يُهَدْهِد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wiege"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gewicht"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schaukeln"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "abwiegen"
+    }
+  ],
+  "fehlschreibungen": [
+    "wigen",
+    "wiegen",
+    "wihen",
+    "wieggen",
+    "wieegen"
+  ]
+}

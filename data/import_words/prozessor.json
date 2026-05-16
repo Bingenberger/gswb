@@ -1,0 +1,78 @@
+{
+  "lemma": "Prozessor",
+  "wortart": "Nomen",
+  "silben": "Pro-zes-sor",
+  "begriffserklaerung": "Der Prozessor ist das „Gehirn\" eines Computers. Er rechnet und verarbeitet alle Aufgaben, die der Computer erledigen soll.",
+  "beispielsatz": "Der Prozessor in unserem Schulcomputer ist sehr schnell.",
+  "rechtschreibstrategie": "Schreibe am Ende „-or\" und nicht „-er\". Denk daran: Pro-zes-sor – das ss kommt nach dem kurzen e!",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Prozess"
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Prozessor",
+    "plural": "die Prozessoren",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Prozessor",
+        "genitiv": "des Prozessors",
+        "dativ": "dem Prozessor",
+        "akkusativ": "den Prozessor"
+      },
+      "plural": {
+        "nominativ": "die Prozessoren",
+        "genitiv": "der Prozessoren",
+        "dativ": "den Prozessoren",
+        "akkusativ": "die Prozessoren"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prozesser",
+    "Prozzessor",
+    "Prozesoor",
+    "Prозеssor",
+    "Prozesор"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Prozess"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Chip"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Speicher"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "processor"
+    },
+    {
+      "language_code": "fr",
+      "translation": "processeur"
+    },
+    {
+      "language_code": "tr",
+      "translation": "işlemci"
+    },
+    {
+      "language_code": "ar",
+      "translation": "معالج"
+    }
+  ],
+  "bild_datei": "Prozessor.webp",
+  "audio_datei": "Prozessor.mp3"
+}

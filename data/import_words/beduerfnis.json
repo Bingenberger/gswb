@@ -1,0 +1,92 @@
+{
+  "lemma": "Bedürfnis",
+  "wortart": "Nomen",
+  "silben": "Be-dürf-nis",
+  "begriffserklaerung": "Ein Bedürfnis ist etwas, das man braucht oder sich wünscht, damit es einem gut geht – zum Beispiel Essen, Schlaf oder Zuneigung.",
+  "beispielsatz": "Jeder Mensch hat das Bedürfnis nach Wärme und Geborgenheit.",
+  "rechtschreibstrategie": "Höre genau hin: Be-dürf-nis. Das Wort kommt von „dürfen\" und „bedürfen\". Das ü in „dürf\" bleibt auch im Nomen erhalten. Das ß am Ende wird zu s, weil ein weiterer Buchstabe folgt: Bedürfnis-ses.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Merkwort mit ß"
+  ],
+  "wortfamilie_basen": [
+    "dürfen",
+    "bedürfen"
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bedürfnis",
+    "plural": "die Bedürfnisse",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bedürfnis",
+        "genitiv": "des Bedürfnisses",
+        "dativ": "dem Bedürfnis",
+        "akkusativ": "das Bedürfnis"
+      },
+      "plural": {
+        "nominativ": "die Bedürfnisse",
+        "genitiv": "der Bedürfnisse",
+        "dativ": "den Bedürfnissen",
+        "akkusativ": "die Bedürfnisse"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bedürfniss",
+    "Bedürfnis",
+    "Bedürfniß",
+    "Bedürfnies",
+    "Bedüfnis"
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bedürfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "bedürftig"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Verlangen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gefühl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wunsch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hunger"
+    }
+  ],
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "need"
+    },
+    {
+      "language_code": "fr",
+      "translation": "besoin"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ihtiyaç"
+    },
+    {
+      "language_code": "ar",
+      "translation": "احتياج"
+    }
+  ],
+  "bild_datei": "Bedürfnis.webp",
+  "audio_datei": "Bedürfnis.mp3"
+}

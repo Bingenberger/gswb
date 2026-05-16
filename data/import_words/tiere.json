@@ -1,0 +1,86 @@
+{
+  "lemma": "Tiere",
+  "wortart": "Nomen",
+  "silben": "Tie-re",
+  "beispielsatz": "Im Zoo kann man viele Tiere aus aller Welt bestaunen.",
+  "begriffserklaerung": "Tiere sind Lebewesen, die sich bewegen, fressen und atmen können. Sie sind keine Menschen und keine Pflanzen. Es gibt ganz viele verschiedene Tiere, zum Beispiel Hunde, Katzen, Vögel und Fische.",
+  "rechtschreibstrategie": "Denke an das Einzelwort: ein Tier. Wenn du mehrere meinst, hängst du einfach ein -e dran: die Tiere. Das ie sprichst du lang wie in „Liebe\" – deshalb schreibt man ie.",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Tier"
+  ],
+  "bild_datei": "Tiere.webp",
+  "audio_datei": "Tiere.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "animals"
+    },
+    {
+      "language_code": "fr",
+      "translation": "animaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "hayvanlar"
+    },
+    {
+      "language_code": "ar",
+      "translation": "حيوانات"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tier"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "tierisch"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tierpark"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zoo"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Natur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Lebewesen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "das Tier",
+    "plural": "Tiere",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Tier",
+        "genitiv": "des Tieres",
+        "dativ": "dem Tier",
+        "akkusativ": "das Tier"
+      },
+      "plural": {
+        "nominativ": "die Tiere",
+        "genitiv": "der Tiere",
+        "dativ": "den Tieren",
+        "akkusativ": "die Tiere"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Tire",
+    "Thiere",
+    "Tihre",
+    "Tiere",
+    "Tiehre"
+  ]
+}

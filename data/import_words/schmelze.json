@@ -1,0 +1,82 @@
+{
+  "lemma": "Schmelze",
+  "wortart": "Nomen",
+  "silben": "Schmel-ze",
+  "begriffserklaerung": "Die Schmelze ist Stoff, der durch Hitze flüssig geworden ist, zum Beispiel Eis, Metall oder Schokolade, die geschmolzen sind.",
+  "beispielsatz": "Die Schmelze des Eises fließt als klares Wasser den Berg hinunter.",
+  "rechtschreibstrategie": "Denk an das Verb „schmelzen\" – die Schmelze kommt davon! Das „e\" am Ende hilft dir: Schmel-ze.",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "schmelz"
+  ],
+  "bild_datei": "Schmelze.webp",
+  "audio_datei": "Schmelze.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "melt / molten mass"
+    },
+    {
+      "language_code": "fr",
+      "translation": "fonte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "erime / eriyik"
+    },
+    {
+      "language_code": "ar",
+      "translation": "انصهار / مادة مصهورة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "schmelzen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Schmelzpunkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Eis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hitze"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schmelzmasse"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schmelze",
+    "plural": "die Schmelzen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schmelze",
+        "genitiv": "der Schmelze",
+        "dativ": "der Schmelze",
+        "akkusativ": "die Schmelze"
+      },
+      "plural": {
+        "nominativ": "die Schmelzen",
+        "genitiv": "der Schmelzen",
+        "dativ": "den Schmelzen",
+        "akkusativ": "die Schmelzen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Schmeltze",
+    "Schmelße",
+    "Schmelcze",
+    "Smeltze",
+    "Schmeltz"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "lemma": "Einrichtung",
+  "wortart": "Nomen",
+  "silben": "Ein-rich-tung",
+  "begriffserklaerung": "Eine Einrichtung ist alles, was in einem Raum oder Gebäude steht und dazu gehört, zum Beispiel Möbel und Gegenstände. Das Wort kann auch einen Ort bedeuten, an dem Menschen zusammenkommen und Hilfe oder Betreuung bekommen, wie eine Schule oder ein Krankenhaus.",
+  "beispielsatz": "Die neue Einrichtung im Wohnzimmer gefällt der ganzen Familie sehr gut.",
+  "rechtschreibstrategie": "Das Wort „Einrichtung\" ist ein Bausteinwort: Es stecken „ein\" und „richten\" darin. Sprich alle Teile deutlich mit: EIN-RICH-TUNG.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "richten",
+    "richt"
+  ],
+  "bild_datei": "Einrichtung.webp",
+  "audio_datei": "Einrichtung.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Einrichtung",
+    "plural": "die Einrichtungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Einrichtung",
+        "genitiv": "der Einrichtung",
+        "dativ": "der Einrichtung",
+        "akkusativ": "die Einrichtung"
+      },
+      "plural": {
+        "nominativ": "die Einrichtungen",
+        "genitiv": "der Einrichtungen",
+        "dativ": "den Einrichtungen",
+        "akkusativ": "die Einrichtungen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "furnishing / facility"
+    },
+    {
+      "language_code": "fr",
+      "translation": "aménagement / établissement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "döşeme / tesis"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تأثيث / مرفق"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "richten"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ausrichtung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "einrichten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Ausstattung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Möblierung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Möbel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Zimmer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäude"
+    }
+  ],
+  "fehlschreibungen": [
+    "Einrrichtung",
+    "Einrichtunk",
+    "Einrichtug",
+    "Einricitung",
+    "Einrichttung",
+    "Einrichtunng"
+  ]
+}

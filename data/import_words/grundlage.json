@@ -1,0 +1,83 @@
+{
+  "lemma": "Grundlage",
+  "wortart": "Nomen",
+  "silben": "Grund-la-ge",
+  "begriffserklaerung": "Eine Grundlage ist das, worauf etwas aufgebaut wird oder womit etwas beginnt. Sie ist der wichtigste Teil, auf dem alles andere steht.",
+  "beispielsatz": "Lesen und Schreiben sind die Grundlage für alles, was du in der Schule lernst.",
+  "rechtschreibstrategie": "Das Wort „Grundlage\" besteht aus zwei Teilen: „Grund\" und „Lage\". Sprich beide Teile deutlich: GRUND + LAGE. Wenn du dir nicht sicher bist, zerlege das Wort in seine Bausteine!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Grund",
+    "legen"
+  ],
+  "bild_datei": "Grundlage.webp",
+  "audio_datei": "Grundlage.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "basis / foundation"
+    },
+    {
+      "language_code": "fr",
+      "translation": "base / fondement"
+    },
+    {
+      "language_code": "tr",
+      "translation": "temel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "أساس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Grund"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "legen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Basis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fundament"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Anfang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Grundlage",
+    "plural": "die Grundlagen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Grundlage",
+        "genitiv": "der Grundlage",
+        "dativ": "der Grundlage",
+        "akkusativ": "die Grundlage"
+      },
+      "plural": {
+        "nominativ": "die Grundlagen",
+        "genitiv": "der Grundlagen",
+        "dativ": "den Grundlagen",
+        "akkusativ": "die Grundlagen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Grundlahge",
+    "Gundlage",
+    "Gruntlage",
+    "Grundlaage",
+    "Grundlaje"
+  ]
+}

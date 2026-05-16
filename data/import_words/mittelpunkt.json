@@ -1,0 +1,84 @@
+{
+  "lemma": "Mittelpunkt",
+  "wortart": "Nomen",
+  "silben": "Mit-tel-punkt",
+  "begriffserklaerung": "Der Mittelpunkt ist die Stelle, die genau in der Mitte von etwas liegt – zum Beispiel in der Mitte eines Kreises oder eines Raumes.",
+  "beispielsatz": "Der Lehrer zeichnet den Mittelpunkt des Kreises mit einem Punkt an die Tafel.",
+  "rechtschreibstrategie": "„Mittelpunkt\" ist ein zusammengesetztes Wort aus „Mitte\" und „Punkt\". Sprich beide Teile laut: Mit-tel-punkt. Das „tt\" in „Mitte\" schreibst du mit Doppel-t!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Mitte",
+    "Punkt"
+  ],
+  "bild_datei": "Mittelpunkt.webp",
+  "audio_datei": "Mittelpunkt.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "center"
+    },
+    {
+      "language_code": "fr",
+      "translation": "centre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merkez"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مركز"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Mitte"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Punkt"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Zentrum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kreis"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geometrie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Mittelpunkt",
+    "plural": "die Mittelpunkte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Mittelpunkt",
+        "genitiv": "des Mittelpunktes",
+        "dativ": "dem Mittelpunkt",
+        "akkusativ": "den Mittelpunkt"
+      },
+      "plural": {
+        "nominativ": "die Mittelpunkte",
+        "genitiv": "der Mittelpunkte",
+        "dativ": "den Mittelpunkten",
+        "akkusativ": "die Mittelpunkte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Mitelpunkt",
+    "Mittelpungkt",
+    "Mittelppunkt",
+    "Mittelpunckt",
+    "Midelpunkt"
+  ]
+}

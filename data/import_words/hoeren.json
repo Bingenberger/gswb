@@ -1,0 +1,102 @@
+{
+  "lemma": "hören",
+  "wortart": "Verb",
+  "silben": "hö-ren",
+  "begriffserklaerung": "Mit den Ohren Töne, Geräusche oder Sprache wahrnehmen.",
+  "beispielsatz": "Ich höre gerne Musik vor dem Einschlafen.",
+  "rechtschreibstrategie": "Denk an das Nomen „das Gehör\" – dort hörst du das ö deutlich. Außerdem hat „hören\" ein Dehnungs-h nach dem ö.",
+  "rechtschreibkategorien": [
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "hör"
+  ],
+  "bild_datei": "hören.webp",
+  "audio_datei": "hören.mp3",
+  "grammatische_formen": {
+    "infinitiv": "hören",
+    "praesens": {
+      "ich": "höre",
+      "du": "hörst",
+      "er_sie_es": "hört",
+      "wir": "hören",
+      "ihr": "hört",
+      "sie": "hören"
+    },
+    "perfekt": {
+      "ich": "habe gehört",
+      "du": "hast gehört",
+      "er_sie_es": "hat gehört",
+      "wir": "haben gehört",
+      "ihr": "habt gehört",
+      "sie": "haben gehört"
+    },
+    "praeteritum": {
+      "ich": "hörte",
+      "du": "hörtest",
+      "er_sie_es": "hörte",
+      "wir": "hörten",
+      "ihr": "hörtet",
+      "sie": "hörten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hear / to listen"
+    },
+    {
+      "language_code": "fr",
+      "translation": "entendre / écouter"
+    },
+    {
+      "language_code": "tr",
+      "translation": "duymak / dinlemek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يسمع / يستمع"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gehör"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "zuhören"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "aufhören"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "lauschen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "zuhören"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fühlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ohr"
+    }
+  ],
+  "fehlschreibungen": [
+    "hörren",
+    "höhren",
+    "hörn",
+    "hoerem",
+    "hörhen"
+  ]
+}

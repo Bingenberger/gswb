@@ -1,0 +1,91 @@
+{
+  "lemma": "Prüfung",
+  "wortart": "Nomen",
+  "silben": "Prü-fung",
+  "begriffserklaerung": "Eine Prüfung ist eine Aufgabe oder ein Test, bei dem jemand zeigt, was er gelernt oder gekonnt hat.",
+  "beispielsatz": "Morgen schreibe ich eine Prüfung in Mathematik, deshalb lerne ich heute noch mal.",
+  "rechtschreibstrategie": "Denk an das Verb „prüfen\" – davon kommt „Prüfung\". Das ü aus „prüfen\" bleibt auch in „Prüfung\" erhalten.",
+  "rechtschreibkategorien": [
+    "Ableitungswort",
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "prüf"
+  ],
+  "bild_datei": "Prüfung.webp",
+  "audio_datei": "Prüfung.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "exam / test"
+    },
+    {
+      "language_code": "fr",
+      "translation": "examen"
+    },
+    {
+      "language_code": "tr",
+      "translation": "sınav"
+    },
+    {
+      "language_code": "ar",
+      "translation": "امتحان"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "prüfen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Prüfer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Test"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klassenarbeit"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Note"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Prüfung",
+    "plural": "die Prüfungen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Prüfung",
+        "genitiv": "der Prüfung",
+        "dativ": "der Prüfung",
+        "akkusativ": "die Prüfung"
+      },
+      "plural": {
+        "nominativ": "die Prüfungen",
+        "genitiv": "der Prüfungen",
+        "dativ": "den Prüfungen",
+        "akkusativ": "die Prüfungen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Prüffung",
+    "Prühfung",
+    "Pruefung",
+    "Prüvung",
+    "Prüfuing"
+  ]
+}

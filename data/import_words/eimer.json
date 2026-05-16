@@ -1,0 +1,72 @@
+{
+  "lemma": "Eimer",
+  "wortart": "Nomen",
+  "silben": "Ei-mer",
+  "begriffserklaerung": "Ein Eimer ist ein rundes Behältnis mit einem Henkel, das man zum Tragen von Wasser oder anderen Dingen benutzt.",
+  "beispielsatz": "Lena füllt den Eimer mit Wasser, um die Blumen zu gießen.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Ei-mer\". Du hörst das lange „Ei\" am Anfang – es wird mit „ei\" geschrieben, nicht mit „ai\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Eimer.webp",
+  "audio_datei": "Eimer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bucket"
+    },
+    {
+      "language_code": "fr",
+      "translation": "seau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kova"
+    },
+    {
+      "language_code": "ar",
+      "translation": "دلو"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gießkanne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wasser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Kübel"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Eimer",
+    "plural": "die Eimer",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Eimer",
+        "genitiv": "des Eimers",
+        "dativ": "dem Eimer",
+        "akkusativ": "den Eimer"
+      },
+      "plural": {
+        "nominativ": "die Eimer",
+        "genitiv": "der Eimer",
+        "dativ": "den Eimern",
+        "akkusativ": "die Eimer"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Aimer",
+    "Eimmer",
+    "Eimher",
+    "Eymer",
+    "Aimmer"
+  ]
+}

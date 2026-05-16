@@ -1,0 +1,82 @@
+{
+  "lemma": "Held",
+  "wortart": "Nomen",
+  "silben": "Held",
+  "begriffserklaerung": "Ein Held ist jemand, der mutig ist und anderen Menschen hilft, auch wenn es schwierig oder gefährlich ist.",
+  "beispielsatz": "Der Feuerwehrmann ist ein echter Held, weil er Menschen aus brennenden Häusern rettet.",
+  "rechtschreibstrategie": "Wenn du „Held\" verlängerst, sagst du „Helden\" – dann hörst du das d am Ende deutlich!",
+  "rechtschreibkategorien": [
+    "Verlängerungswort"
+  ],
+  "wortfamilie_basen": [
+    "Held"
+  ],
+  "bild_datei": "Held.webp",
+  "audio_datei": "Held.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hero"
+    },
+    {
+      "language_code": "fr",
+      "translation": "héros"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kahraman"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بطل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Heldin"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "heldenhaft"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Retter"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Mut"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Abenteuer"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Held",
+    "plural": "die Helden",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Held",
+        "genitiv": "des Helden",
+        "dativ": "dem Helden",
+        "akkusativ": "den Helden"
+      },
+      "plural": {
+        "nominativ": "die Helden",
+        "genitiv": "der Helden",
+        "dativ": "den Helden",
+        "akkusativ": "die Helden"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Heldt",
+    "Hellt",
+    "Heldh",
+    "Helt",
+    "Heeld"
+  ]
+}

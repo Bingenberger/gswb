@@ -1,0 +1,80 @@
+{
+  "lemma": "Statue",
+  "wortart": "Nomen",
+  "silben": "Sta-tue",
+  "begriffserklaerung": "Eine Statue ist eine Figur aus Stein, Metall oder einem anderen festen Material. Sie stellt oft einen Menschen oder ein Tier dar und steht an einem besonderen Ort.",
+  "beispielsatz": "Im Park steht eine große Statue von einem berühmten König.",
+  "rechtschreibstrategie": "Das Wort „Statue\" kommt aus dem Lateinischen. Achte auf das „ue\" am Ende – es klingt wie ein kurzes „ü\". Sprich es in zwei Silben: Sta-tue!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Statue",
+    "plural": "die Statuen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Statue",
+        "genitiv": "der Statue",
+        "dativ": "der Statue",
+        "akkusativ": "die Statue"
+      },
+      "plural": {
+        "nominativ": "die Statuen",
+        "genitiv": "der Statuen",
+        "dativ": "den Statuen",
+        "akkusativ": "die Statuen"
+      }
+    }
+  },
+  "wortfamilie_basen": [],
+  "beziehungen": [
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Skulptur"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Figur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Denkmal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Museum"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kunstwerk"
+    }
+  ],
+  "fehlschreibungen": [
+    "Stathue",
+    "Statüe",
+    "Statuh",
+    "Ststue",
+    "Statuhe"
+  ],
+  "bild_datei": "Statue.webp",
+  "audio_datei": "Statue.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "statue"
+    },
+    {
+      "language_code": "fr",
+      "translation": "statue"
+    },
+    {
+      "language_code": "tr",
+      "translation": "heykel"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تمثال"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "lemma": "Kekse",
+  "wortart": "Nomen",
+  "silben": "Kek-se",
+  "begriffserklaerung": "Kekse sind kleine, flache Gebäckstücke, die meistens süß schmecken. Man backt sie im Ofen und isst sie gerne als Snack oder zur Teezeit.",
+  "beispielsatz": "Oma hat leckere Kekse mit Schokolade gebacken.",
+  "rechtschreibstrategie": "Höre das kurze „e\" in „Keks\" – nach einem kurzen Vokal folgt oft ein Doppelkonsonant oder ein besonderes Zeichen. Bei „Keks\" merke dir: Es wird mit „ks\" am Ende geschrieben, fast wie es klingt!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Keks"
+  ],
+  "bild_datei": "Kekse.webp",
+  "audio_datei": "Kekse.mp3",
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Keks",
+    "plural": "die Kekse",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Keks",
+        "genitiv": "des Kekses",
+        "dativ": "dem Keks",
+        "akkusativ": "den Keks"
+      },
+      "plural": {
+        "nominativ": "die Kekse",
+        "genitiv": "der Kekse",
+        "dativ": "den Keksen",
+        "akkusativ": "die Kekse"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "cookies / biscuits"
+    },
+    {
+      "language_code": "fr",
+      "translation": "biscuits"
+    },
+    {
+      "language_code": "tr",
+      "translation": "kurabiyeler"
+    },
+    {
+      "language_code": "ar",
+      "translation": "بسكويت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Keks"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Keksbacken"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Plätzchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kuchen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Gebäck"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schokolade"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gekse",
+    "Kekße",
+    "Käkse",
+    "Kecse",
+    "Keks'e"
+  ]
+}

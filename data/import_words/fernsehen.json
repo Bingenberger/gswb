@@ -1,0 +1,84 @@
+{
+  "lemma": "Fernsehen",
+  "wortart": "Nomen",
+  "silben": "Fern-se-hen",
+  "begriffserklaerung": "Das Fernsehen ist ein Gerät oder ein Medium, mit dem man sich Filme, Serien und Sendungen anschauen kann. Das Bild und der Ton werden über Funk oder Kabel übertragen.",
+  "beispielsatz": "Nach den Hausaufgaben darf ich eine Stunde Fernsehen schauen.",
+  "rechtschreibstrategie": "Das Wort „Fernsehen\" besteht aus zwei Teilen: „fern\" und „sehen\". Wenn du dir beide Teile einzeln vorstellst, kannst du das Wort leicht richtig schreiben!",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fern",
+    "sehen"
+  ],
+  "bild_datei": "Fernsehen.webp",
+  "audio_datei": "Fernsehen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "television"
+    },
+    {
+      "language_code": "fr",
+      "translation": "télévision"
+    },
+    {
+      "language_code": "tr",
+      "translation": "televizyon"
+    },
+    {
+      "language_code": "ar",
+      "translation": "تلفزيون"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "fern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "sehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernbedienung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Sendung"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "TV"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Fernsehen",
+    "plural": "—",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Fernsehen",
+        "genitiv": "des Fernsehens",
+        "dativ": "dem Fernsehen",
+        "akkusativ": "das Fernsehen"
+      },
+      "plural": {
+        "nominativ": "—",
+        "genitiv": "—",
+        "dativ": "—",
+        "akkusativ": "—"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fernsehen",
+    "Fernsehn",
+    "Fernsähen",
+    "Fehrnsehen",
+    "Fernseen",
+    "fernseehen"
+  ]
+}

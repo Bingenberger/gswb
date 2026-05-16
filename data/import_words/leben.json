@@ -1,0 +1,87 @@
+{
+  "lemma": "leben",
+  "wortart": "Verb",
+  "silben": "le-ben",
+  "beispielsatz": "Die Fische leben im Wasser.",
+  "begriffserklaerung": "Leben bedeutet, dass ein Mensch, ein Tier oder eine Pflanze da ist, atmet, wächst und die Welt erlebt.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „le-ben\". Du hörst zwei Silben. Das e in der ersten Silbe ist lang, darum schreibt man nur ein b – kein bb!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "leb"
+  ],
+  "bild_datei": "leben.webp",
+  "audio_datei": "leben.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to live"
+    },
+    {
+      "language_code": "fr",
+      "translation": "vivre"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yaşamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يَعِيشُ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "leb"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "wohnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "atmen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "existieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "leben",
+    "praesens": {
+      "ich": "lebe",
+      "du": "lebst",
+      "er_sie_es": "lebt",
+      "wir": "leben",
+      "ihr": "lebt",
+      "sie": "leben"
+    },
+    "perfekt": {
+      "ich": "habe gelebt",
+      "du": "hast gelebt",
+      "er_sie_es": "hat gelebt",
+      "wir": "haben gelebt",
+      "ihr": "habt gelebt",
+      "sie": "haben gelebt"
+    },
+    "praeteritum": {
+      "ich": "lebte",
+      "du": "lebtest",
+      "er_sie_es": "lebte",
+      "wir": "lebten",
+      "ihr": "lebtet",
+      "sie": "lebten"
+    }
+  },
+  "fehlschreibungen": [
+    "leiben",
+    "leben",
+    "läben",
+    "leeben",
+    "lebben",
+    "laben"
+  ]
+}

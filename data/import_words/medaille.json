@@ -1,0 +1,73 @@
+{
+  "lemma": "Medaille",
+  "wortart": "Nomen",
+  "silben": "Me-dail-le",
+  "begriffserklaerung": "Eine Medaille ist eine runde, flache Scheibe aus Metall, die man als Auszeichnung bekommt – zum Beispiel wenn man bei einem Wettkampf gewonnen hat.",
+  "beispielsatz": "Die Sportlerin hat bei den Olympischen Spielen eine goldene Medaille gewonnen.",
+  "rechtschreibstrategie": "Das Wort „Medaille\" klingt am Ende wie „-aje\" – das ist ein Fremdwort aus dem Französischen. Merke dir: Es endet auf -aille, nicht auf -aje oder -alje!",
+  "rechtschreibkategorien": [
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Medaille.webp",
+  "audio_datei": "Medaille.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "medal"
+    },
+    {
+      "language_code": "fr",
+      "translation": "médaille"
+    },
+    {
+      "language_code": "tr",
+      "translation": "madalya"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ميدالية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Pokal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Urkunde"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Auszeichnung"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Medaille",
+    "plural": "die Medaillen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Medaille",
+        "genitiv": "der Medaille",
+        "dativ": "der Medaille",
+        "akkusativ": "die Medaille"
+      },
+      "plural": {
+        "nominativ": "die Medaillen",
+        "genitiv": "der Medaillen",
+        "dativ": "den Medaillen",
+        "akkusativ": "die Medaillen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Medaje",
+    "Medallije",
+    "Medali",
+    "Medalje",
+    "Medaile",
+    "Medaielle"
+  ]
+}

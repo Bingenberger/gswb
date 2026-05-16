@@ -1,0 +1,89 @@
+{
+  "lemma": "Hausaufgabe",
+  "wortart": "Nomen",
+  "silben": "Haus-auf-ga-be",
+  "begriffserklaerung": "Eine Hausaufgabe ist eine Schulaufgabe, die du nicht in der Schule, sondern zu Hause erledigst.",
+  "beispielsatz": "Nach dem Mittagessen macht Lena zuerst ihre Hausaufgaben, bevor sie spielen darf.",
+  "rechtschreibstrategie": "Das Wort „Hausaufgabe\" besteht aus drei Bausteinen: „Haus\" + „auf\" + „Gabe\". Sprich alle Teile deutlich: HAUS – AUF – GA – BE.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Gabe"
+  ],
+  "bild_datei": "Hausaufgabe.webp",
+  "audio_datei": "Hausaufgabe.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Hausaufgabe",
+    "plural": "die Hausaufgaben",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Hausaufgabe",
+        "genitiv": "der Hausaufgabe",
+        "dativ": "der Hausaufgabe",
+        "akkusativ": "die Hausaufgabe"
+      },
+      "plural": {
+        "nominativ": "die Hausaufgaben",
+        "genitiv": "der Hausaufgaben",
+        "dativ": "den Hausaufgaben",
+        "akkusativ": "die Hausaufgaben"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "homework"
+    },
+    {
+      "language_code": "fr",
+      "translation": "devoir"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev ödevi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "واجب منزلي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Aufgabe"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Schulaufgabe"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Heft"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lehrer"
+    }
+  ],
+  "fehlschreibungen": [
+    "Hausaufgaben",
+    "Hauseaufgabe",
+    "Hausaufgabee",
+    "Hausaufgabhe",
+    "Hausaufgahbe",
+    "Hausufgabe",
+    "Haussaufgabe"
+  ]
+}

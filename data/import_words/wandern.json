@@ -1,0 +1,95 @@
+{
+  "lemma": "wandern",
+  "wortart": "Verb",
+  "silben": "wan-dern",
+  "begriffserklaerung": "Wandern bedeutet, zu Fuß durch die Natur zu gehen, zum Beispiel durch den Wald oder über Berge.",
+  "beispielsatz": "Am Wochenende wandern wir mit der Familie durch den Wald.",
+  "rechtschreibstrategie": "Sprich das Wort langsam: wan-dern. Du hörst ein kurzes „a\" – aber hier gibt es keine Verdopplung, weil das „n\" zur nächsten Silbe gehört. Denk daran: wan-dern mit „d\" am Silbenanfang!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wander"
+  ],
+  "bild_datei": "wandern.webp",
+  "audio_datei": "wandern.mp3",
+  "grammatische_formen": {
+    "infinitiv": "wandern",
+    "praesens": {
+      "ich": "wandere",
+      "du": "wanderst",
+      "er_sie_es": "wandert",
+      "wir": "wandern",
+      "ihr": "wandert",
+      "sie": "wandern"
+    },
+    "perfekt": {
+      "ich": "bin gewandert",
+      "du": "bist gewandert",
+      "er_sie_es": "ist gewandert",
+      "wir": "sind gewandert",
+      "ihr": "seid gewandert",
+      "sie": "sind gewandert"
+    },
+    "praeteritum": {
+      "ich": "wanderte",
+      "du": "wandertest",
+      "er_sie_es": "wanderte",
+      "wir": "wanderten",
+      "ihr": "wandertet",
+      "sie": "wanderten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to hike"
+    },
+    {
+      "language_code": "fr",
+      "translation": "randonner"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yürüyüş yapmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتجوّل / يمشي في الطبيعة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wanderung"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Wanderer"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "spazieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Rucksack"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Wald"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Berg"
+    }
+  ],
+  "fehlschreibungen": [
+    "wandern",
+    "vanndern",
+    "wantern",
+    "wändern",
+    "wantdern",
+    "wanderen"
+  ]
+}

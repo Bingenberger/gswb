@@ -1,0 +1,85 @@
+{
+  "lemma": "Gefahrzeichen",
+  "wortart": "Nomen",
+  "silben": "Ge-fahr-zei-chen",
+  "begriffserklaerung": "Ein Gefahrzeichen ist ein Schild oder Symbol, das vor einer Gefahr warnt. Es zeigt an, dass man vorsichtig sein muss.",
+  "beispielsatz": "Das rote Gefahrzeichen am Bauzaun warnt alle Menschen, nicht näherzukommen.",
+  "rechtschreibstrategie": "Das Wort besteht aus zwei Teilen: „Gefahr\" und „Zeichen\". Schreibe beide Teile einfach zusammen: Gefahr + Zeichen = Gefahrzeichen.",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit Dehnungs-h"
+  ],
+  "wortfamilie_basen": [
+    "Gefahr",
+    "Zeichen"
+  ],
+  "bild_datei": "Gefahrzeichen.webp",
+  "audio_datei": "Gefahrzeichen.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Gefahrzeichen",
+    "plural": "die Gefahrzeichen",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Gefahrzeichen",
+        "genitiv": "des Gefahrzeichens",
+        "dativ": "dem Gefahrzeichen",
+        "akkusativ": "das Gefahrzeichen"
+      },
+      "plural": {
+        "nominativ": "die Gefahrzeichen",
+        "genitiv": "der Gefahrzeichen",
+        "dativ": "den Gefahrzeichen",
+        "akkusativ": "die Gefahrzeichen"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "hazard sign"
+    },
+    {
+      "language_code": "fr",
+      "translation": "panneau de danger"
+    },
+    {
+      "language_code": "tr",
+      "translation": "tehlike işareti"
+    },
+    {
+      "language_code": "ar",
+      "translation": "علامة الخطر"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Gefahr"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Zeichen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Warnschild"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Verkehrszeichen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Warnzeichen"
+    }
+  ],
+  "fehlschreibungen": [
+    "Gefahrrzeichen",
+    "Gefharrzeichen",
+    "Gefarzaichen",
+    "Gefahrzeichen",
+    "Gefaahrzeichen",
+    "Gefahrzeichnen"
+  ]
+}

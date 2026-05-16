@@ -1,0 +1,93 @@
+{
+  "lemma": "tippen",
+  "wortart": "Verb",
+  "silben": "tip-pen",
+  "begriffserklaerung": "Tippen bedeutet, mit den Fingern auf Tasten zu drücken, zum Beispiel auf einer Tastatur oder einem Handy. Man kann auch jemanden leicht antippen, also kurz berühren.",
+  "beispielsatz": "Lena tippt schnell eine Nachricht auf ihrem Tablet.",
+  "rechtschreibstrategie": "Das Wort „tippen\" hat ein kurzes „i\". Nach einem kurzen Vokal verdoppelt man den Mitlaut – deshalb schreibt man „pp\".",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tipp"
+  ],
+  "bild_datei": "tippen.webp",
+  "audio_datei": "tippen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "tippen",
+    "praesens": {
+      "ich": "tippe",
+      "du": "tippst",
+      "er_sie_es": "tippt",
+      "wir": "tippen",
+      "ihr": "tippt",
+      "sie": "tippen"
+    },
+    "perfekt": {
+      "ich": "habe getippt",
+      "du": "hast getippt",
+      "er_sie_es": "hat getippt",
+      "wir": "haben getippt",
+      "ihr": "habt getippt",
+      "sie": "haben getippt"
+    },
+    "praeteritum": {
+      "ich": "tippte",
+      "du": "tipptest",
+      "er_sie_es": "tippte",
+      "wir": "tippten",
+      "ihr": "tipptet",
+      "sie": "tippten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to type / to tap"
+    },
+    {
+      "language_code": "fr",
+      "translation": "taper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "yazmak / dokunmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يكتب / يلمس"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tipp"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "antippen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "schreiben"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Computer"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Handy"
+    }
+  ],
+  "fehlschreibungen": [
+    "tipen",
+    "dippen",
+    "tipppen",
+    "typen"
+  ]
+}

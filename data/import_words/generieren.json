@@ -1,0 +1,96 @@
+{
+  "lemma": "generieren",
+  "wortart": "Verb",
+  "silben": "ge-ne-rie-ren",
+  "begriffserklaerung": "Etwas generieren bedeutet, etwas neu zu erschaffen oder herzustellen, zum Beispiel mit einem Computer.",
+  "beispielsatz": "Der Computer kann in wenigen Sekunden ein Bild generieren.",
+  "rechtschreibstrategie": "Denk an das „ie\" in der Mitte: ge-ne-RIE-ren. Das „ie\" klingt wie ein langes „i\".",
+  "rechtschreibkategorien": [
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "generier",
+    "General",
+    "Generation"
+  ],
+  "bild_datei": "generieren.webp",
+  "audio_datei": "generieren.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to generate"
+    },
+    {
+      "language_code": "fr",
+      "translation": "générer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "üretmek"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يُولِّد"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Generation"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erzeugen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "erstellen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "programmieren"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "berechnen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "erfinden"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "generieren",
+    "praesens": {
+      "ich": "generiere",
+      "du": "generierst",
+      "er_sie_es": "generiert",
+      "wir": "generieren",
+      "ihr": "generiert",
+      "sie": "generieren"
+    },
+    "perfekt": {
+      "ich": "habe generiert",
+      "du": "hast generiert",
+      "er_sie_es": "hat generiert",
+      "wir": "haben generiert",
+      "ihr": "habt generiert",
+      "sie": "haben generiert"
+    },
+    "praeteritum": {
+      "ich": "generierte",
+      "du": "generiertest",
+      "er_sie_es": "generierte",
+      "wir": "generierten",
+      "ihr": "generiertet",
+      "sie": "generierten"
+    }
+  },
+  "fehlschreibungen": [
+    "generiren",
+    "genierieren",
+    "gennrieren",
+    "generrieren",
+    "generiehren"
+  ]
+}

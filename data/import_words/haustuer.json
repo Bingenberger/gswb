@@ -1,0 +1,88 @@
+{
+  "lemma": "Haustür",
+  "wortart": "Nomen",
+  "silben": "Haus-tür",
+  "begriffserklaerung": "Die Haustür ist die große Tür am Eingang eines Hauses. Durch sie kommt man rein und raus.",
+  "beispielsatz": "Vergiss nicht, die Haustür abzuschließen, wenn du das Haus verlässt!",
+  "rechtschreibstrategie": "Das Wort „Haustür\" besteht aus zwei Teilen: „Haus\" und „Tür\". Sprich beide Teile einzeln, dann schreibst du sie richtig zusammen!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit doppeltem Vokal"
+  ],
+  "wortfamilie_basen": [
+    "Haus",
+    "Tür"
+  ],
+  "bild_datei": "Haustür.webp",
+  "audio_datei": "Haustür.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Haustür",
+    "plural": "die Haustüren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Haustür",
+        "genitiv": "der Haustür",
+        "dativ": "der Haustür",
+        "akkusativ": "die Haustür"
+      },
+      "plural": {
+        "nominativ": "die Haustüren",
+        "genitiv": "der Haustüren",
+        "dativ": "den Haustüren",
+        "akkusativ": "die Haustüren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "front door"
+    },
+    {
+      "language_code": "fr",
+      "translation": "porte d'entrée"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ev kapısı"
+    },
+    {
+      "language_code": "ar",
+      "translation": "باب المنزل"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Haus"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tür"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Klingel"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schlüssel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Eingangstür"
+    }
+  ],
+  "fehlschreibungen": [
+    "Haustühr",
+    "Haustuer",
+    "Haustüre",
+    "Haußtür",
+    "Hausstür"
+  ]
+}

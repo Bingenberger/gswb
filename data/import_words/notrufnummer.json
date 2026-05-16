@@ -1,0 +1,90 @@
+{
+  "lemma": "Notrufnummer",
+  "wortart": "Nomen",
+  "silben": "Not-ruf-num-mer",
+  "begriffserklaerung": "Eine Notrufnummer ist eine besondere Telefonnummer, die du im Notfall anrufst, um schnell Hilfe zu bekommen – zum Beispiel bei einem Unfall oder einem Feuer.",
+  "beispielsatz": "Die Notrufnummer 112 kannst du anrufen, wenn jemand dringend Hilfe braucht.",
+  "rechtschreibstrategie": "Das Wort besteht aus drei Bausteinen: „Not\" + „Ruf\" + „Nummer\". Denk daran, dass „Nummer\" mit zwei „m\" geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "Not",
+    "Ruf",
+    "Nummer"
+  ],
+  "bild_datei": "Notrufnummer.webp",
+  "audio_datei": "Notrufnummer.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Notrufnummer",
+    "plural": "die Notrufnummern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Notrufnummer",
+        "genitiv": "der Notrufnummer",
+        "dativ": "der Notrufnummer",
+        "akkusativ": "die Notrufnummer"
+      },
+      "plural": {
+        "nominativ": "die Notrufnummern",
+        "genitiv": "der Notrufnummern",
+        "dativ": "den Notrufnummern",
+        "akkusativ": "die Notrufnummern"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "emergency number"
+    },
+    {
+      "language_code": "fr",
+      "translation": "numéro d'urgence"
+    },
+    {
+      "language_code": "tr",
+      "translation": "acil numara"
+    },
+    {
+      "language_code": "ar",
+      "translation": "رقم الطوارئ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notfall"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Notruf"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Feuerwehr"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Krankenwagen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Polizei"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Notruf"
+    }
+  ],
+  "fehlschreibungen": [
+    "Notrufnumer",
+    "Nodrufnummer",
+    "Notrufnumme",
+    "Notrufnumner",
+    "Nottrufnummer",
+    "Notrufnnummer"
+  ]
+}

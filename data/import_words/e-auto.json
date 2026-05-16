@@ -1,0 +1,84 @@
+{
+  "lemma": "E-Auto",
+  "wortart": "Nomen",
+  "silben": "E-Au-to",
+  "begriffserklaerung": "Ein E-Auto ist ein Auto, das keinen normalen Benzin- oder Dieselmotor hat. Es fährt mit Strom, der in einer großen Batterie gespeichert wird.",
+  "beispielsatz": "Das E-Auto meiner Tante macht kaum ein Geräusch, wenn es losfährt.",
+  "rechtschreibstrategie": "E-Auto ist ein Bausteinwort aus „E\" (für Elektro) und „Auto\". Denk daran: Das „E\" steht mit einem Bindestrich vor „Auto\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Elektro",
+    "Auto"
+  ],
+  "bild_datei": "E-Auto.webp",
+  "audio_datei": "E-Auto.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "electric car"
+    },
+    {
+      "language_code": "fr",
+      "translation": "voiture électrique"
+    },
+    {
+      "language_code": "tr",
+      "translation": "elektrikli araba"
+    },
+    {
+      "language_code": "ar",
+      "translation": "سيارة كهربائية"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Elektro"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Auto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Elektrobus"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ladesäule"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Batterie"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das E-Auto",
+    "plural": "die E-Autos",
+    "deklination": {
+      "singular": {
+        "nominativ": "das E-Auto",
+        "genitiv": "des E-Autos",
+        "dativ": "dem E-Auto",
+        "akkusativ": "das E-Auto"
+      },
+      "plural": {
+        "nominativ": "die E-Autos",
+        "genitiv": "der E-Autos",
+        "dativ": "den E-Autos",
+        "akkusativ": "die E-Autos"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "E Auto",
+    "Eauto",
+    "E-Autto",
+    "E-Ato",
+    "E-Audo",
+    "e-Auto"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "lemma": "Gardine",
+  "wortart": "Nomen",
+  "silben": "Gar-di-ne",
+  "begriffserklaerung": "Eine Gardine ist ein dünner, durchsichtiger Vorhang, der vor ein Fenster gehängt wird. Sie lässt Licht herein und schützt ein bisschen vor neugierigen Blicken.",
+  "beispielsatz": "Die weiße Gardine weht sanft im Wind, weil das Fenster offen steht.",
+  "rechtschreibstrategie": "Das Wort „Gardine\" schreibst du genau so, wie du es sprichst: Gar-di-ne. Achte auf das weiche „d\" in der Mitte!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Gardine.webp",
+  "audio_datei": "Gardine.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "curtain"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rideau"
+    },
+    {
+      "language_code": "tr",
+      "translation": "perde"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ستارة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Vorhang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fenster"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Vorhang"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Gardine",
+    "plural": "die Gardinen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Gardine",
+        "genitiv": "der Gardine",
+        "dativ": "der Gardine",
+        "akkusativ": "die Gardine"
+      },
+      "plural": {
+        "nominativ": "die Gardinen",
+        "genitiv": "der Gardinen",
+        "dativ": "den Gardinen",
+        "akkusativ": "die Gardinen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Garddine",
+    "Gardiene",
+    "Gardihne",
+    "Gartine",
+    "Gardinne"
+  ]
+}

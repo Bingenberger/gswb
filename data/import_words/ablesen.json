@@ -1,0 +1,91 @@
+{
+  "lemma": "ablesen",
+  "wortart": "Verb",
+  "silben": "ab-le-sen",
+  "begriffserklaerung": "Etwas ablesen bedeutet, einen Text oder eine Zahl genau anzuschauen und laut vorzulesen oder zu notieren – zum Beispiel eine Zahl von einem Messgerät oder einen Text von einem Blatt.",
+  "beispielsatz": "Lena liest die Temperatur vom Thermometer ab.",
+  "rechtschreibstrategie": "Das Wort „ablesen\" besteht aus zwei Bausteinen: „ab\" und „lesen\". Wenn du es in Silben zerlegst – ab-le-sen –, kannst du es gut richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "lesen"
+  ],
+  "bild_datei": "ablesen.webp",
+  "audio_datei": "ablesen.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to read off"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lire (sur quelque chose)"
+    },
+    {
+      "language_code": "tr",
+      "translation": "okumak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يقرأ (من شيء ما)"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "lesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Leser"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "vorlesen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "messen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "notieren"
+    }
+  ],
+  "grammatische_formen": {
+    "infinitiv": "ablesen",
+    "praesens": {
+      "ich": "lese ab",
+      "du": "liest ab",
+      "er_sie_es": "liest ab",
+      "wir": "lesen ab",
+      "ihr": "lest ab",
+      "sie": "lesen ab"
+    },
+    "perfekt": {
+      "ich": "habe abgelesen",
+      "du": "hast abgelesen",
+      "er_sie_es": "hat abgelesen",
+      "wir": "haben abgelesen",
+      "ihr": "habt abgelesen",
+      "sie": "haben abgelesen"
+    },
+    "praeteritum": {
+      "ich": "las ab",
+      "du": "lasest ab",
+      "er_sie_es": "las ab",
+      "wir": "lasen ab",
+      "ihr": "last ab",
+      "sie": "lasen ab"
+    }
+  },
+  "fehlschreibungen": [
+    "abhlesen",
+    "ablessen",
+    "aphlesen",
+    "abläsen",
+    "ablehsen",
+    "ablsen"
+  ]
+}

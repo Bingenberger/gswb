@@ -1,0 +1,82 @@
+{
+  "lemma": "Schere",
+  "wortart": "Nomen",
+  "silben": "Sche-re",
+  "begriffserklaerung": "Eine Schere ist ein Werkzeug mit zwei langen, scharfen Klingen, die zusammengeklappt werden, um Papier, Stoff oder andere Dinge zu schneiden.",
+  "beispielsatz": "Mit der Schere schneide ich bunte Formen aus Papier aus.",
+  "rechtschreibstrategie": "Sprich das Wort laut: Sche-re. Du hörst zwei Silben. Am Ende steht ein leises „e\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "scher"
+  ],
+  "bild_datei": "Schere.webp",
+  "audio_datei": "Schere.mp3",
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Schere",
+    "plural": "die Scheren",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Schere",
+        "genitiv": "der Schere",
+        "dativ": "der Schere",
+        "akkusativ": "die Schere"
+      },
+      "plural": {
+        "nominativ": "die Scheren",
+        "genitiv": "der Scheren",
+        "dativ": "den Scheren",
+        "akkusativ": "die Scheren"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "scissors"
+    },
+    {
+      "language_code": "fr",
+      "translation": "ciseaux"
+    },
+    {
+      "language_code": "tr",
+      "translation": "makas"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقص"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "scheren"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Scherenschnitt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kleber"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lineal"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bleistift"
+    }
+  ],
+  "fehlschreibungen": [
+    "Shere",
+    "Scherre",
+    "Schehre",
+    "Schähre",
+    "Scere"
+  ]
+}

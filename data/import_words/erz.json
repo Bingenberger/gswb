@@ -1,0 +1,82 @@
+{
+  "lemma": "Erz",
+  "wortart": "Nomen",
+  "silben": "Erz",
+  "begriffserklaerung": "Erz ist ein Gestein, das aus der Erde gegraben wird und wertvolle Metalle wie Eisen, Kupfer oder Gold enthält.",
+  "beispielsatz": "Die Bergleute holen das Erz tief aus dem Berg heraus.",
+  "rechtschreibstrategie": "„Erz\" schreibt man mit einem großen E, weil es ein Nomen ist. Es klingt kurz und knapp – genau so, wie es geschrieben wird!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "erz"
+  ],
+  "bild_datei": "Erz.webp",
+  "audio_datei": "Erz.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "ore"
+    },
+    {
+      "language_code": "fr",
+      "translation": "minerai"
+    },
+    {
+      "language_code": "tr",
+      "translation": "maden cevheri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "خام"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "erzhaltig"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Erzabbau"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bergwerk"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Metall"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bergmann"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Erz",
+    "plural": "die Erze",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Erz",
+        "genitiv": "des Erzes",
+        "dativ": "dem Erz",
+        "akkusativ": "das Erz"
+      },
+      "plural": {
+        "nominativ": "die Erze",
+        "genitiv": "der Erze",
+        "dativ": "den Erzen",
+        "akkusativ": "die Erze"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Ertz",
+    "Errs",
+    "Erss",
+    "Ärs",
+    "Ärz"
+  ]
+}

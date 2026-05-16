@@ -1,0 +1,85 @@
+{
+  "lemma": "Bio-Siegel",
+  "wortart": "Nomen",
+  "silben": "Bio-Sie-gel",
+  "begriffserklaerung": "Ein Bio-Siegel ist ein Zeichen auf Lebensmitteln oder Produkten. Es zeigt, dass das Produkt aus biologischem Anbau stammt – also ohne schädliche Chemikalien hergestellt wurde.",
+  "beispielsatz": "Mama achtet beim Einkaufen immer darauf, ob auf der Verpackung ein Bio-Siegel ist.",
+  "rechtschreibstrategie": "Bio-Siegel ist ein zusammengesetztes Wort aus „Bio\" und „Siegel\". Beide Teile werden großgeschrieben, weil es ein Nomen ist. Das Wort „Siegel\" schreibt man mit „ie\".",
+  "rechtschreibkategorien": [
+    "Bausteinwort",
+    "Merkwort mit ie"
+  ],
+  "wortfamilie_basen": [
+    "Bio",
+    "Siegel"
+  ],
+  "bild_datei": "Bio-Siegel.webp",
+  "audio_datei": "Bio-Siegel.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "organic label"
+    },
+    {
+      "language_code": "fr",
+      "translation": "label bio"
+    },
+    {
+      "language_code": "tr",
+      "translation": "organik etiketi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ختم العضوي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Siegel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bio"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Bio-Produkt"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lebensmittel"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Öko-Zeichen"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Bio-Siegel",
+    "plural": "die Bio-Siegel",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Bio-Siegel",
+        "genitiv": "des Bio-Siegels",
+        "dativ": "dem Bio-Siegel",
+        "akkusativ": "das Bio-Siegel"
+      },
+      "plural": {
+        "nominativ": "die Bio-Siegel",
+        "genitiv": "der Bio-Siegel",
+        "dativ": "den Bio-Siegeln",
+        "akkusativ": "die Bio-Siegel"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bio-Sigel",
+    "Bio-Siegel",
+    "Biosigel",
+    "Bio-Siehgel",
+    "Bio-Sihgel",
+    "Byo-Siegel"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "lemma": "Schirm",
+  "wortart": "Nomen",
+  "silben": "Schirm",
+  "begriffserklaerung": "Ein Schirm ist ein Gegenstand, der dich vor Regen oder Sonne schützt. Er hat einen langen Stiel und eine runde Fläche aus Stoff.",
+  "beispielsatz": "Wenn es regnet, nimmt Lena ihren bunten Schirm mit.",
+  "rechtschreibstrategie": "Denke an „Schirme\" – das i bleibt kurz, aber man schreibt kein Doppel-i. Merke dir: Schirm endet auf „rm\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Schirm"
+  ],
+  "bild_datei": "Schirm.webp",
+  "audio_datei": "Schirm.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "umbrella"
+    },
+    {
+      "language_code": "fr",
+      "translation": "parapluie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "şemsiye"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مظلة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Regenschirm"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Sonnenschirm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Regenjacke"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Regenschirm"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Schirm",
+    "plural": "die Schirme",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Schirm",
+        "genitiv": "des Schirmes",
+        "dativ": "dem Schirm",
+        "akkusativ": "den Schirm"
+      },
+      "plural": {
+        "nominativ": "die Schirme",
+        "genitiv": "der Schirme",
+        "dativ": "den Schirmen",
+        "akkusativ": "die Schirme"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Shirm",
+    "Schierm",
+    "Schrim",
+    "Schirn",
+    "Scherm"
+  ]
+}

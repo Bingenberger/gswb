@@ -1,0 +1,72 @@
+{
+  "lemma": "Antenne",
+  "wortart": "Nomen",
+  "silben": "An-ten-ne",
+  "begriffserklaerung": "Eine Antenne ist ein dünner Stab oder ein Draht, der Funksignale empfängt oder sendet – zum Beispiel für Radio, Fernsehen oder Handy.",
+  "beispielsatz": "Die Antenne auf dem Dach empfängt das Fernsehsignal.",
+  "rechtschreibstrategie": "Sprich das Wort in Silben: An-ten-ne. Das „n\" in der Mitte schreibst du doppelt, weil der Vokal „e\" davor kurz gesprochen wird: ten-ne.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [],
+  "bild_datei": "Antenne.webp",
+  "audio_datei": "Antenne.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "antenna"
+    },
+    {
+      "language_code": "fr",
+      "translation": "antenne"
+    },
+    {
+      "language_code": "tr",
+      "translation": "anten"
+    },
+    {
+      "language_code": "ar",
+      "translation": "هوائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Radio"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Fernsehen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Signal"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Antenne",
+    "plural": "die Antennen",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Antenne",
+        "genitiv": "der Antenne",
+        "dativ": "der Antenne",
+        "akkusativ": "die Antenne"
+      },
+      "plural": {
+        "nominativ": "die Antennen",
+        "genitiv": "der Antennen",
+        "dativ": "den Antennen",
+        "akkusativ": "die Antennen"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Antene",
+    "Anntenne",
+    "Antänne",
+    "Anttenne",
+    "Antehne"
+  ]
+}

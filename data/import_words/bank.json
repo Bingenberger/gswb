@@ -1,0 +1,82 @@
+{
+  "lemma": "Bank",
+  "wortart": "Nomen",
+  "silben": "Bank",
+  "begriffserklaerung": "Eine Bank ist entweder ein langer Sitz ohne Rücken­lehne, auf dem mehrere Menschen Platz nehmen können, oder ein Gebäude, in dem man Geld aufbewahren und Geld­geschäfte erledigen kann.",
+  "beispielsatz": "Wir sitzen auf der Bank im Park und essen unser Eis.",
+  "rechtschreibstrategie": "Das Wort „Bank\" endet auf -nk. Du hörst den kurzen Vokal „a\", aber es steht kein Doppel­konsonant dahinter – das musst du dir einfach merken!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Bank"
+  ],
+  "bild_datei": "Bank.webp",
+  "audio_datei": "Bank.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "bench / bank"
+    },
+    {
+      "language_code": "fr",
+      "translation": "banc / banque"
+    },
+    {
+      "language_code": "tr",
+      "translation": "bank / sıra"
+    },
+    {
+      "language_code": "ar",
+      "translation": "مقعد / بنك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bankwesen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Bankkonto"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stuhl"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Hocker"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Sitzbank"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Bank",
+    "plural": "die Bänke",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Bank",
+        "genitiv": "der Bank",
+        "dativ": "der Bank",
+        "akkusativ": "die Bank"
+      },
+      "plural": {
+        "nominativ": "die Bänke",
+        "genitiv": "der Bänke",
+        "dativ": "den Bänken",
+        "akkusativ": "die Bänke"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Bangk",
+    "Bannk",
+    "Banck",
+    "Bänk",
+    "Banke"
+  ]
+}

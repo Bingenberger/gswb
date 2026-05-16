@@ -1,0 +1,83 @@
+{
+  "lemma": "Fundort",
+  "wortart": "Nomen",
+  "silben": "Fund-ort",
+  "begriffserklaerung": "Ein Fundort ist die Stelle, an der etwas gefunden wurde – zum Beispiel ein altes Gefäß oder ein Tier.",
+  "beispielsatz": "Die Archäologin markierte den Fundort auf ihrer Karte.",
+  "rechtschreibstrategie": "„Fundort\" besteht aus zwei Wörtern: „Fund\" und „Ort\". Sprich beide Teile laut vor dir her, dann kannst du sie leicht aufschreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "fund",
+    "ort"
+  ],
+  "bild_datei": "Fundort.webp",
+  "audio_datei": "Fundort.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "find spot / site of discovery"
+    },
+    {
+      "language_code": "fr",
+      "translation": "lieu de découverte"
+    },
+    {
+      "language_code": "tr",
+      "translation": "buluntu yeri"
+    },
+    {
+      "language_code": "ar",
+      "translation": "موقع الاكتشاف"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "finden"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Ort"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ausgrabung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Schatz"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Fundstelle"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "der",
+    "singular": "der Fundort",
+    "plural": "die Fundorte",
+    "deklination": {
+      "singular": {
+        "nominativ": "der Fundort",
+        "genitiv": "des Fundortes",
+        "dativ": "dem Fundort",
+        "akkusativ": "den Fundort"
+      },
+      "plural": {
+        "nominativ": "die Fundorte",
+        "genitiv": "der Fundorte",
+        "dativ": "den Fundorten",
+        "akkusativ": "die Fundorte"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Fundohrt",
+    "Funtort",
+    "Fundortt",
+    "Fundord",
+    "Phundort"
+  ]
+}

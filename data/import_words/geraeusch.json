@@ -1,0 +1,91 @@
+{
+  "lemma": "Geräusch",
+  "wortart": "Nomen",
+  "silben": "Ge-räusch",
+  "begriffserklaerung": "Ein Geräusch ist ein Laut oder ein Klang, den man hören kann – zum Beispiel das Knistern von Blättern oder das Knarren einer Tür.",
+  "beispielsatz": "Nachts hörte Tim ein komisches Geräusch aus dem Keller.",
+  "rechtschreibstrategie": "Denk an das Wort „rauschen\" – in Ge-räusch steckt ein ähnlicher Klang. Das äu schreibst du wie in „Baum\" → „Bäume\".",
+  "rechtschreibkategorien": [
+    "Ableitungswort"
+  ],
+  "wortfamilie_basen": [
+    "rausch"
+  ],
+  "bild_datei": "Geräusch.webp",
+  "audio_datei": "Geräusch.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "noise / sound"
+    },
+    {
+      "language_code": "fr",
+      "translation": "bruit"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ses / gürültü"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضَوْضَاء / صَوْت"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "rauschen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "geräuschlos"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Laut"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "Klang"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Lärm"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Stille"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Ton"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Geräusch",
+    "plural": "die Geräusche",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Geräusch",
+        "genitiv": "des Geräusches",
+        "dativ": "dem Geräusch",
+        "akkusativ": "das Geräusch"
+      },
+      "plural": {
+        "nominativ": "die Geräusche",
+        "genitiv": "der Geräusche",
+        "dativ": "den Geräuschen",
+        "akkusativ": "die Geräusche"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Geräusch",
+    "Geräuch",
+    "Geräuusch",
+    "Gereusch",
+    "Gerausch",
+    "Geräisch"
+  ]
+}

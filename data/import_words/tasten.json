@@ -1,0 +1,102 @@
+{
+  "lemma": "tasten",
+  "wortart": "Verb",
+  "silben": "tas-ten",
+  "begriffserklaerung": "Mit den Fingern vorsichtig etwas berühren oder betasten, um es zu erfühlen.",
+  "beispielsatz": "Im Dunkeln tastet Lena vorsichtig nach dem Lichtschalter.",
+  "rechtschreibstrategie": "Höre beim Sprechen: Das „a\" in „tas-ten\" ist kurz. Danach kommt ein Doppel-S. Sprich laut: TAS – TEN.",
+  "rechtschreibkategorien": [
+    "Wort mit Kürzezeichen"
+  ],
+  "wortfamilie_basen": [
+    "tast"
+  ],
+  "bild_datei": "tasten.webp",
+  "audio_datei": "tasten.mp3",
+  "grammatische_formen": {
+    "infinitiv": "tasten",
+    "praesens": {
+      "ich": "taste",
+      "du": "tastest",
+      "er_sie_es": "tastet",
+      "wir": "tasten",
+      "ihr": "tastet",
+      "sie": "tasten"
+    },
+    "perfekt": {
+      "ich": "habe getastet",
+      "du": "hast getastet",
+      "er_sie_es": "hat getastet",
+      "wir": "haben getastet",
+      "ihr": "habt getastet",
+      "sie": "haben getastet"
+    },
+    "praeteritum": {
+      "ich": "tastete",
+      "du": "tastetest",
+      "er_sie_es": "tastete",
+      "wir": "tasteten",
+      "ihr": "tastetet",
+      "sie": "tasteten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to feel / to grope"
+    },
+    {
+      "language_code": "fr",
+      "translation": "tâtonner / palper"
+    },
+    {
+      "language_code": "tr",
+      "translation": "el yordamıyla aramak / dokunmak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يتلمّس / يجسّ"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Taste"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Tastatur"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "abtasten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "betasten"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "befühlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "greifen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "fühlen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "berühren"
+    }
+  ],
+  "fehlschreibungen": [
+    "tasten",
+    "tassten",
+    "tasden",
+    "thasten",
+    "tastten"
+  ]
+}

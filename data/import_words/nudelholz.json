@@ -1,0 +1,83 @@
+{
+  "lemma": "Nudelholz",
+  "wortart": "Nomen",
+  "silben": "Nu-del-holz",
+  "begriffserklaerung": "Ein Nudelholz ist eine runde, glatte Rolle aus Holz. Damit kann man Teig flach ausrollen, zum Beispiel für Kekse oder Nudeln.",
+  "beispielsatz": "Mama rollt den Teig mit dem Nudelholz ganz dünn aus.",
+  "rechtschreibstrategie": "Das Wort „Nudelholz\" besteht aus zwei Teilen: „Nudel\" und „Holz\". Sprich beide Teile einzeln, dann kannst du das Wort leicht richtig schreiben.",
+  "rechtschreibkategorien": [
+    "Bausteinwort"
+  ],
+  "wortfamilie_basen": [
+    "Nudel",
+    "Holz"
+  ],
+  "bild_datei": "Nudelholz.webp",
+  "audio_datei": "Nudelholz.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Nudelholz",
+    "plural": "die Nudelholzer",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Nudelholz",
+        "genitiv": "des Nudelholzes",
+        "dativ": "dem Nudelholz",
+        "akkusativ": "das Nudelholz"
+      },
+      "plural": {
+        "nominativ": "die Nudelholzer",
+        "genitiv": "der Nudelholzer",
+        "dativ": "den Nudelhölzern",
+        "akkusativ": "die Nudelhölzer"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "rolling pin"
+    },
+    {
+      "language_code": "fr",
+      "translation": "rouleau à pâtisserie"
+    },
+    {
+      "language_code": "tr",
+      "translation": "merdane"
+    },
+    {
+      "language_code": "ar",
+      "translation": "شوبك"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Nudel"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Holz"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Teig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Backen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Küche"
+    }
+  ],
+  "fehlschreibungen": [
+    "Nuddelholz",
+    "Nutelholz",
+    "Nudelholtz",
+    "Nudlholz",
+    "Nudelholts"
+  ]
+}

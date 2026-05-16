@@ -1,0 +1,79 @@
+{
+  "lemma": "Steuer",
+  "wortart": "Nomen",
+  "silben": "Steu-er",
+  "begriffserklaerung": "Eine Steuer ist Geld, das Menschen und Firmen an den Staat zahlen müssen. Mit diesem Geld bezahlt der Staat zum Beispiel Schulen, Straßen und Krankenhäuser.",
+  "beispielsatz": "Die Eltern zahlen jeden Monat Steuern an den Staat.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „Steu-er\". Das „eu\" klingt wie in „neu\" – merke dir: Steu-er mit „eu\"!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "steuer"
+  ],
+  "bild_datei": "Steuer.webp",
+  "audio_datei": "Steuer.mp3",
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "tax"
+    },
+    {
+      "language_code": "fr",
+      "translation": "impôt"
+    },
+    {
+      "language_code": "tr",
+      "translation": "vergi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "ضريبة"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "versteuern"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Steuererklärung"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Geld"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Staat"
+    }
+  ],
+  "grammatische_formen": {
+    "artikel": "die",
+    "singular": "die Steuer",
+    "plural": "die Steuern",
+    "deklination": {
+      "singular": {
+        "nominativ": "die Steuer",
+        "genitiv": "der Steuer",
+        "dativ": "der Steuer",
+        "akkusativ": "die Steuer"
+      },
+      "plural": {
+        "nominativ": "die Steuern",
+        "genitiv": "der Steuern",
+        "dativ": "den Steuern",
+        "akkusativ": "die Steuern"
+      }
+    }
+  },
+  "fehlschreibungen": [
+    "Steier",
+    "Steuer",
+    "Stauer",
+    "Steür",
+    "Stöuer",
+    "Steueer"
+  ]
+}

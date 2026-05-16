@@ -1,0 +1,75 @@
+{
+  "lemma": "Amphibium",
+  "wortart": "Nomen",
+  "silben": "Am-phi-bi-um",
+  "begriffserklaerung": "Ein Amphibium ist ein Tier, das sowohl im Wasser als auch an Land leben kann. Frösche, Kröten und Molche sind bekannte Amphibien.",
+  "beispielsatz": "Der Frosch ist ein Amphibium, weil er im Wasser schwimmt und auch an Land hüpft.",
+  "rechtschreibstrategie": "Das Wort kommt aus dem Griechischen. Denke daran: Am-phi-bi-um – sprich es in Silben, dann kannst du es leichter schreiben!",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "Amphibium",
+    "Amphibien"
+  ],
+  "bild_datei": "Amphibium.webp",
+  "audio_datei": "Amphibium.mp3",
+  "grammatische_formen": {
+    "artikel": "das",
+    "singular": "das Amphibium",
+    "plural": "die Amphibien",
+    "deklination": {
+      "singular": {
+        "nominativ": "das Amphibium",
+        "genitiv": "des Amphibiums",
+        "dativ": "dem Amphibium",
+        "akkusativ": "das Amphibium"
+      },
+      "plural": {
+        "nominativ": "die Amphibien",
+        "genitiv": "der Amphibien",
+        "dativ": "den Amphibien",
+        "akkusativ": "die Amphibien"
+      }
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "amphibian"
+    },
+    {
+      "language_code": "fr",
+      "translation": "amphibien"
+    },
+    {
+      "language_code": "tr",
+      "translation": "amfibi"
+    },
+    {
+      "language_code": "ar",
+      "translation": "برمائي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Frosch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Molch"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Kröte"
+    }
+  ],
+  "fehlschreibungen": [
+    "Ampfibium",
+    "Anfibium",
+    "Amphibeum",
+    "Amphibiom",
+    "Ambibium"
+  ]
+}

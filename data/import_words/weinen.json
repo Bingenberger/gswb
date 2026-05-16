@@ -1,0 +1,98 @@
+{
+  "lemma": "weinen",
+  "wortart": "Verb",
+  "silben": "wei-nen",
+  "begriffserklaerung": "Wenn jemand weint, kommen Tränen aus seinen Augen. Das passiert oft, wenn man traurig, wütend oder auch sehr glücklich ist.",
+  "beispielsatz": "Das kleine Mädchen weint, weil es sich das Knie aufgeschlagen hat.",
+  "rechtschreibstrategie": "Sprich das Wort laut: „wei-nen\". Das „ei\" klingt wie in „Eis\". Merke: Nach dem langen „ei\" kommt nur ein „n\".",
+  "rechtschreibkategorien": [
+    "Mitsprechwort"
+  ],
+  "wortfamilie_basen": [
+    "wein"
+  ],
+  "bild_datei": "weinen.webp",
+  "audio_datei": "weinen.mp3",
+  "grammatische_formen": {
+    "infinitiv": "weinen",
+    "praesens": {
+      "ich": "weine",
+      "du": "weinst",
+      "er_sie_es": "weint",
+      "wir": "weinen",
+      "ihr": "weint",
+      "sie": "weinen"
+    },
+    "perfekt": {
+      "ich": "habe geweint",
+      "du": "hast geweint",
+      "er_sie_es": "hat geweint",
+      "wir": "haben geweint",
+      "ihr": "habt geweint",
+      "sie": "haben geweint"
+    },
+    "praeteritum": {
+      "ich": "weinte",
+      "du": "weintest",
+      "er_sie_es": "weinte",
+      "wir": "weinten",
+      "ihr": "weintet",
+      "sie": "weinten"
+    }
+  },
+  "uebersetzungen": [
+    {
+      "language_code": "en",
+      "translation": "to cry"
+    },
+    {
+      "language_code": "fr",
+      "translation": "pleurer"
+    },
+    {
+      "language_code": "tr",
+      "translation": "ağlamak"
+    },
+    {
+      "language_code": "ar",
+      "translation": "يبكي"
+    }
+  ],
+  "beziehungen": [
+    {
+      "relation_type": "word_family",
+      "target_lemma": "Weinen"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "weinend"
+    },
+    {
+      "relation_type": "word_family",
+      "target_lemma": "verweinen"
+    },
+    {
+      "relation_type": "synonym",
+      "target_lemma": "heulen"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "traurig"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "Träne"
+    },
+    {
+      "relation_type": "word_field",
+      "target_lemma": "schluchzen"
+    }
+  ],
+  "fehlschreibungen": [
+    "weienen",
+    "wienen",
+    "veinen",
+    "weinnen",
+    "weynen"
+  ]
+}
