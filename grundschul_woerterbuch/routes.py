@@ -25,6 +25,7 @@ def inject_helpers():
         "translation_meta": TRANSLATION_META,
         "part_of_speech_meta": PART_OF_SPEECH_META,
         "suggestion_match_labels": SUGGESTION_MATCH_LABELS,
+        "spelling_category_icons": SPELLING_CATEGORY_ICONS,
     }
 
 
@@ -194,6 +195,22 @@ def api_word(lemma):
 
     return jsonify(_public_word_payload(word))
 
+
+SPELLING_CATEGORY_ICONS = {
+    "Bausteinwort":               "rs_icons/Symbol Baustein.svg",
+    "Mitsprechwort":              "rs_icons/Symbol Mitsprechwort.svg",
+    "Wort mit Kürzezeichen":      "rs_icons/Symbol Kürzezeichen.svg",
+    "Ableitungswort":             "rs_icons/Symbol Ableitung.svg",
+    "Verlängerungswort":          "rs_icons/Symbol Verlängern.svg",
+    "Merkwort mit ie":            "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit Dehnungs-h":    "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit doppeltem Vokal": "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit V":             "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit ß":             "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit X":             "rs_icons/Symbol Merkwort.svg",
+    "Merkwort mit Qu":            "rs_icons/Symbol Merkwort.svg",
+    "Großschreibung":             "rs_icons/Symbol Großschreibung.svg",
+}
 
 RELATION_LABELS = {
     "word_family": "Wortfamilie",

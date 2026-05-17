@@ -1,156 +1,54 @@
 # Grundschul-Wörterbuch
 
-Ein erster, lokal startbarer Flask-Prototyp für ein kindgerechtes Wörterbuch mit Textsuche, vorbereiteter Spracheingabe, Schreibproben-Prototyp und SQLite als Hauptdatenquelle.
+Ein kindgerechtes Wörterbuch für die Grundschule – lokal lauffähig, auf Flask und SQLite aufgebaut. Worteinträge werden mit KI generiert und enthalten Silben, Rechtschreibstrategien, Wortfamilien, Übersetzungen und grammatische Formen.
 
-## Was der Prototyp kann
+## Was das Wörterbuch kann
 
-- reduzierte Startseite mit Suchfeld und Aufnahmebutton
-- Textsuche mit exakter, normalisierter, fehlerrobuster und unscharfer Suche
-- Autocomplete-Vorschlaege ueber einen JSON-Endpunkt
-- Wortseiten mit Silbendarstellung, Silbenboegen, Erklaerung, Uebersetzungen, Beziehungen und grammatischen Formen
-- Schreibproben-Prototyp mit Bild-Upload, Fehler-Markern und Zwei-Klick-Hinweisen
-- SQLite-Datenbank als Hauptquelle
-- JSON-Import fuer Beispieldaten
-- vorbereitete Speech-Service-Schnittstelle mit Mock-Modus fuer spaetere whisper.cpp-Anbindung
+- **Fehlertolerante Suche** – exakte Treffer, Präfixsuche, Fehlschreibungen und unscharfe Suche (rapidfuzz), Autocomplete per JSON-API
+- **Wortseiten** mit Silbendarstellung (farbig), Wortart-Kennzeichnung, Bild und Audio
+- **Rechtschreibung** – Kategorien mit Symbolen, Strategie-Text, häufige Fehlschreibungen
+- **Wortfamilien** als Hub-and-Spoke-Visualisierung, Wortfelder, Synonyme
+- **Grammatik** – Deklination (Nomen), Konjugation (Verb), Steigerung (Adjektiv)
+- **Übersetzungen** in Englisch, Französisch, Türkisch und Arabisch
+- **Rechtschreibkategorien** durchsuchbar – alle Wörter einer Kategorie auf einen Blick
+- **Wort des Tages** auf der Startseite
+- **Schreibproben-Analyse** – Foto hochladen, Fehler markieren lassen (Gemini Vision)
+- **Suchfeld im Header** auf allen Wortseiten
+
+Aktuell in der Datenbank: **5.814 Wörter** in allen 11 deutschen Wortarten.
 
 ## Projektstruktur
 
-- `app.py`: Flask-Startpunkt
-- `grundschul_woerterbuch/`: Anwendungscode
-- `templates/`: Jinja2-Templates
-- `static/`: CSS, JavaScript und Platzhalter-Bild
-- `data/import_words/`: Beispiel-JSON-Dateien pro Wort
-- `scripts/import_words.py`: Importskript fuer SQLite
+```
+grundschul_woerterbuch/   # Flask-App (Factory, Routen, Services, Repository)
+templates/                # Jinja2-Templates
+static/
+  css/styles.css          # Alle Styles
+  js/app.js               # Autocomplete, Schreibprobe, Review-Shortcuts
+  images/                 # Wortbilder (*.webp, nicht im Repo)
+  audio/                  # Symlink → ../audio/ (nicht im Repo)
+  rs_icons/               # SVG-Symbole für Rechtschreibkategorien
+  fonts/                  # Grundschrift, Fredoka
+  vendor/phosphor/        # Phosphor-Icons
+data/
+  import_words/           # JSON-Quelldaten (eine Datei pro Wort)
+  grundschul_woerterbuch.sqlite3   # Generierte Datenbank (nicht im Repo)
+scripts/
+  import_words.py         # JSON → SQLite (--rebuild)
+  generate_words_with_claude.py   # Wortgenerierung via Anthropic API
+  generate_words_with_gemini.py   # Wortgenerierung via Vertex AI / Gemini
+  check_word_types_with_gemini.py # Wortarten-Prüfung bestehender JSONs
+audio/                    # MP3-Dateien (nicht im Repo)
+illustrationen/           # Quell-PNGs (nicht im Repo)
+```
 
 ## Installation
 
-1. Virtuelle Umgebung anlegen und aktivieren:
-
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-2. Abhaengigkeiten installieren:
-
-```bash
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
-
-Falls die virtuelle Umgebung schon vorher erstellt wurde, bitte die Abhaengigkeiten nach der Aenderung noch einmal aktualisieren:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Datenbank initialisieren und Beispieldaten importieren
-
-Die Datenbank wird beim Start der App angelegt, falls sie noch nicht existiert. Die Beispieldaten importierst du so:
-
-```bash
-python3 scripts/import_words.py --rebuild
-```
-
-Standardpfad der Datenbank:
-
-- `data/grundschul_woerterbuch.sqlite3`
-
-Wenn Beziehungen auf noch nicht vorhandene Woerter verweisen, sammelt das Importskript diese Zielwoerter automatisch in:
-
-- `data/missing_relation_words.txt`
-- `data/missing_relation_report.json`
-- `data/missing_relation_words_next.txt`
-
-Dabei gilt:
-
-- `missing_relation_words.txt`: alle fehlenden Zielwoerter
-- `missing_relation_report.json`: strukturierter Bericht mit Haeufigkeiten, Beziehungstypen und Quellwoertern
-- `missing_relation_words_next.txt`: priorisierte Liste fuer den naechsten Gemini-Lauf
-
-Die priorisierte Liste bevorzugt aktuell:
-
-- Woerter, die mehrfach als fehlendes Ziel auftauchen
-- Woerter aus `word_family`
-- starke Synonym-Kandidaten
-
-## Neue Woerter mit Gemini erzeugen
-
-Fuer groessere Wortlisten gibt es ein Helfer-Skript:
-
-```bash
-export GEMINI_API_KEY=dein_api_key
-python3 scripts/generate_words_with_gemini.py woerterliste.txt --skip-existing
-```
-
-Das Skript:
-
-- liest eine Textdatei mit einem Wort pro Zeile
-- ruft `gemini-2.5-flash` auf
-- erzeugt pro Wort eine JSON-Datei im Importverzeichnis
-- ueberspringt Woerter, fuer die im Importverzeichnis bereits eine JSON-Datei existiert
-- importiert die erzeugten Datensaetze anschliessend in SQLite
-- legt Uebersetzungen fuer `en`, `fr`, `tr` und `ar` an
-- ordnet jedem Wort mindestens ein Rechtschreibphaenomen zu, bei Bedarf auch mehrere
-- erzeugt bei Nomen die Deklinationen fuer Nominativ, Genitiv, Dativ und Akkusativ in Singular und Plural
-- behaelt in sichtbaren deutschen Texten Umlaute und `ß` bei
-
-Nuetzliche Optionen:
-
-- `--dry-run`: nur JSON erzeugen, noch nicht in SQLite importieren
-- `--model gemini-2.5-flash`: anderes Gemini-Modell waehlen
-- `--skip-existing`: bestehende Woerter in der Datenbank ueberspringen
-- `--overwrite-json`: vorhandene JSON-Dateien im Importverzeichnis bewusst neu erzeugen
-
-Alternativ kannst du auch eine Vertex-AI-Service-Account-Datei verwenden, zum Beispiel `key.json` im Projektverzeichnis. Das Skript erkennt standardmaessig:
-
-- `./key.json`
-- `./key3.json`
-- `./scripts/key.json`
-- `./scripts/key3.json`
-
-Dann sind kein `GEMINI_API_KEY`, aber diese Vertex-AI-Variablen noetig bzw. werden vom Skript gesetzt:
-
-- `GOOGLE_APPLICATION_CREDENTIALS`
-- `GOOGLE_CLOUD_PROJECT`
-- `GOOGLE_CLOUD_LOCATION`
-- `GOOGLE_GENAI_USE_VERTEXAI=True`
-
-Expliziter Aufruf:
-
-```bash
-python3 scripts/generate_words_with_gemini.py woerterliste.txt --credentials-file key.json
-```
-
-Vorhandene JSON-Dateien kannst du mit einem zweiten Helfer-Skript auf die Wortart pruefen:
-
-```bash
-python3 scripts/check_word_types_with_gemini.py --credentials-file key.json
-```
-
-Optional kannst du erkannte Abweichungen direkt zurueckschreiben:
-
-```bash
-python3 scripts/check_word_types_with_gemini.py --credentials-file key.json --apply
-```
-
-## Schreibproben mit Gemini
-
-Der neue Prototyp fuer Schreibproben ist unter `http://127.0.0.1:5005/writing-check` erreichbar.
-
-Standardmaessig versucht die App jetzt fuer diesen Bereich direkt Gemini mit `key.json` zu verwenden:
-
-- `HANDWRITING_MODE=gemini`
-- `HANDWRITING_GEMINI_MODEL=gemini-2.5-flash`
-- `GEMINI_CREDENTIALS_FILE=./key.json`
-
-Wenn `key.json` vorhanden und gueltig ist, startet die App den Dienst automatisch im Gemini-Modus. Falls die Initialisierung fehlschlaegt, faellt der Bereich fuer die Schreibprobe sichtbar auf einen Mock-Modus zurueck.
-
-Nuetzliche Umgebungsvariablen:
-
-- `HANDWRITING_MODE=gemini` oder `mock`
-- `HANDWRITING_GEMINI_MODEL=gemini-2.5-flash`
-- `GEMINI_CREDENTIALS_FILE=./key.json`
-- `GEMINI_LOCATION=global`
 
 ## App starten
 
@@ -158,58 +56,302 @@ Nuetzliche Umgebungsvariablen:
 flask --app app run --debug
 ```
 
-Danach ist die Anwendung lokal unter `http://127.0.0.1:5005/` erreichbar.
+Die App läuft dann unter `http://127.0.0.1:5005/` (Port via `.flaskenv`).
 
-Hinweis:
-Der Port `5005` wird ueber [`.flaskenv`](/home/emrichschule/GSWB/.flaskenv) gesetzt. Dafuer muss `python-dotenv` installiert sein, was jetzt in [requirements.txt](/home/emrichschule/GSWB/requirements.txt) enthalten ist.
+## Datenbank aufbauen
 
-## Spracheingabe mit whisper.cpp
-
-Standardmaessig ist der Prototyp jetzt auf einen `whisper.cpp`-Dienst unter `http://192.168.178.86:8080/inference` eingestellt.
-
-Konfigurierbare Umgebungsvariablen:
-
-- `SPEECH_MODE=whisper_cpp` oder `mock`
-- `WHISPER_CPP_URL=http://192.168.178.86:8080/inference`
-- `WHISPER_CPP_TIMEOUT=20`
-- `WHISPER_CPP_LANGUAGE=de`
-
-Der Browser nimmt kurz Audio auf und sendet die Datei an `/api/speech-search`. Das Backend leitet sie an `whisper.cpp` weiter und schickt den erkannten Text dann durch dieselbe Such- und Normalisierungslogik wie bei der Texteingabe.
-
-Fuer deutsche Spracheingabe sendet der Prototyp standardmaessig `language=de` an `whisper.cpp`.
-
-## Mock-Modus
-
-Standardmaessig laeuft die Spracheingabe im Mock-Modus:
-
-- `SPEECH_MODE=mock`
-- Rueckgabe erfolgt ueber `SPEECH_MOCK_RESULT`, standardmaessig `Hund`
-
-Beispiel:
+Die JSON-Dateien in `data/import_words/` sind die Quelldaten. Aus ihnen wird die SQLite-Datenbank generiert:
 
 ```bash
-export SPEECH_MODE=mock
-export SPEECH_MOCK_RESULT=schnell
-flask --app app run --debug
+python3 scripts/import_words.py --rebuild
 ```
 
-Im Mock-Modus wird das konfigurierte Wort zurueckgegeben und dann durch dieselbe Suchlogik verarbeitet wie Texteingaben.
+Das Schema wird beim App-Start automatisch angelegt. Nach einem `--rebuild` invalidiert das Skript den Such-Cache automatisch.
 
-## Vorbereitung fuer whisper.cpp
+Wenn Beziehungen auf noch nicht vorhandene Wörter verweisen, landen diese in:
+- `data/missing_relation_words.txt` – alle fehlenden Zielwörter
+- `data/missing_relation_words_next.txt` – priorisiert für den nächsten Generierungslauf
+- `data/missing_relation_report.json` – strukturierter Bericht mit Häufigkeiten
 
-Die Architektur ist ueber `SpeechRecognitionService` gekapselt. Falls dein `whisper.cpp`-Server eine leicht abweichende Antwortstruktur liefert, muss in der Regel nur [grundschul_woerterbuch/services/speech_service.py](/home/emrichschule/GSWB/grundschul_woerterbuch/services/speech_service.py) angepasst werden.
+## Wörter generieren
+
+### Mit Claude (Anthropic API)
+
+```bash
+export ANTHROPIC_API_KEY=sk-ant-...
+python3 scripts/generate_words_with_claude.py woerterliste.txt --skip-existing
+```
+
+Für große Mengen empfiehlt sich der Batch-Modus (50 % Rabatt, asynchron):
+
+```bash
+python3 scripts/generate_words_with_claude.py woerterliste.txt --batch
+```
+
+Einen abgeschlossenen Batch nachträglich abrufen:
+
+```bash
+python3 scripts/generate_words_with_claude.py --resume-batch msgbatch_...
+```
+
+Nützliche Optionen:
+
+| Option | Bedeutung |
+|---|---|
+| `--skip-existing` | Wörter überspringen, für die im Importordner schon eine JSON-Datei liegt |
+| `--overwrite-json` | Vorhandene JSON-Dateien neu erzeugen |
+| `--dry-run` | Nur JSON erzeugen, nicht in SQLite importieren |
+| `--model claude-sonnet-4-6` | Modell wählen (Standard: `claude-sonnet-4-6`) |
+| `--batch` | Anthropic Batch API nutzen |
+| `--resume-batch BATCH_ID` | Ergebnis eines abgeschlossenen Batches abrufen |
+
+### Mit Gemini (Vertex AI)
+
+```bash
+python3 scripts/generate_words_with_gemini.py woerterliste.txt --credentials-file key.json --skip-existing
+```
+
+Wortarten bestehender JSONs prüfen und ggf. korrigieren:
+
+```bash
+python3 scripts/check_word_types_with_gemini.py --credentials-file key.json
+python3 scripts/check_word_types_with_gemini.py --credentials-file key.json --apply
+```
 
 ## Medien-Dateien
 
-Die Wortseiten erwarten diese Pfade:
+Die App erwartet Bilder und Audio unter diesen Pfaden (jeweils nicht im Repo):
 
-- Bilder: `static/images/WORT.webp`
-- Audio: `static/audio/WORT.mp3`
+| Pfad | Inhalt |
+|---|---|
+| `static/images/WORT.webp` | Wortbild (WebP) |
+| `audio/WORT.mp3` | Aussprache (MP3) |
 
-Wenn Dateien fehlen, zeigt die App Platzhalter oder einen Hinweis an und bleibt stabil.
+`static/audio` ist ein Symlink auf `../audio/`. Beim Einrichten nach einem Clone:
 
-## Annahmen im Prototyp
+```bash
+# Symlink anlegen (audio/-Ordner muss vorhanden sein)
+ln -s ../audio static/audio
+```
 
-- JSON-Dateien enthalten deutsche Feldnamen wie `wortart` oder `begriffserklaerung`.
-- Umlaute werden fuer die Suchnormalisierung auf `ae`, `oe`, `ue` und `ss` abgebildet.
-- Fuer den Prototypen sind nur die Wortarten `Nomen`, `Verb` und `Adjektiv` vorgesehen.
+Quell-PNGs aus `illustrationen/` lassen sich mit `cwebp` konvertieren:
+
+```bash
+find illustrationen/ -name "*.png" \
+  | xargs -P8 -I{} bash -c '
+      stem=$(basename "$1" .png)
+      cwebp -q 85 "$1" -o "static/images/${stem}.webp" -quiet
+    ' _ {}
+```
+
+## Schreibproben-Analyse
+
+Unter `/writing-check` können Kinder Fotos ihrer Schreibproben hochladen. Gemini Vision erkennt Fehler und ordnet sie Wörterbucheinträgen zu.
+
+```bash
+# Gemini-Modus (Vertex AI key.json erforderlich)
+export HANDWRITING_MODE=gemini
+
+# Mock-Modus (kein API-Schlüssel nötig)
+export HANDWRITING_MODE=mock
+```
+
+Die App erkennt Credentials automatisch in `./key.json`, `./key3.json`, `./scripts/key.json` und `./scripts/key3.json`.
+
+## Konfiguration
+
+Alle Einstellungen per Umgebungsvariable:
+
+| Variable | Standard | Bedeutung |
+|---|---|---|
+| `HANDWRITING_MODE` | `gemini` | `gemini` oder `mock` |
+| `GEMINI_CREDENTIALS_FILE` | `./key.json` | Vertex-AI-Service-Account |
+
+## Server-Installation (Produktion)
+
+Die folgende Anleitung richtet sich an einen Ubuntu/Debian-Server mit nginx. Als WSGI-Server wird Gunicorn verwendet (in `requirements.txt` enthalten).
+
+### 1. Voraussetzungen installieren
+
+```bash
+sudo apt update
+sudo apt install python3 python3-venv python3-pip nginx git
+```
+
+### 2. Projektdateien auf den Server bringen
+
+```bash
+# Repository klonen
+git clone https://github.com/DEIN-NAME/grundschul-woerterbuch.git /var/www/grundschul-woerterbuch
+cd /var/www/grundschul-woerterbuch
+
+# Python-Umgebung einrichten
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+### 3. Mediendateien übertragen
+
+Bilder und Audio sind nicht im Repository und müssen separat auf den Server übertragen werden:
+
+```bash
+# Vom lokalen Rechner ausführen:
+rsync -avz --progress static/images/ user@server:/var/www/grundschul-woerterbuch/static/images/
+rsync -avz --progress audio/          user@server:/var/www/grundschul-woerterbuch/audio/
+```
+
+Dann auf dem Server den Audio-Symlink anlegen:
+
+```bash
+cd /var/www/grundschul-woerterbuch
+ln -s ../audio static/audio
+```
+
+### 4. Datenbank aufbauen
+
+```bash
+cd /var/www/grundschul-woerterbuch
+source venv/bin/activate
+python3 scripts/import_words.py --rebuild
+```
+
+### 5. Umgebungsvariablen konfigurieren
+
+Datei `/var/www/grundschul-woerterbuch/.env` anlegen:
+
+```env
+HANDWRITING_MODE=gemini
+GEMINI_CREDENTIALS_FILE=/var/www/grundschul-woerterbuch/key.json
+```
+
+Für den Mock-Modus (kein API-Schlüssel nötig):
+
+```env
+HANDWRITING_MODE=mock
+```
+
+### 6. systemd-Service einrichten
+
+Datei `/etc/systemd/system/grundschul-woerterbuch.service` anlegen:
+
+```ini
+[Unit]
+Description=Grundschul-Wörterbuch
+After=network.target
+
+[Service]
+User=www-data
+Group=www-data
+WorkingDirectory=/var/www/grundschul-woerterbuch
+EnvironmentFile=/var/www/grundschul-woerterbuch/.env
+ExecStart=/var/www/grundschul-woerterbuch/venv/bin/gunicorn \
+    --workers 2 \
+    --bind 127.0.0.1:5005 \
+    --access-logfile /var/log/grundschul-woerterbuch/access.log \
+    --error-logfile  /var/log/grundschul-woerterbuch/error.log \
+    app:app
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+```
+
+Log-Verzeichnis anlegen und Service starten:
+
+```bash
+sudo mkdir -p /var/log/grundschul-woerterbuch
+sudo chown www-data:www-data /var/log/grundschul-woerterbuch
+sudo chown -R www-data:www-data /var/www/grundschul-woerterbuch
+
+sudo systemctl daemon-reload
+sudo systemctl enable grundschul-woerterbuch
+sudo systemctl start grundschul-woerterbuch
+
+# Status prüfen
+sudo systemctl status grundschul-woerterbuch
+```
+
+### 7. nginx als Reverse Proxy
+
+Datei `/etc/nginx/sites-available/grundschul-woerterbuch` anlegen:
+
+```nginx
+server {
+    listen 80;
+    server_name meinserver.example.com;
+
+    # Statische Dateien direkt über nginx ausliefern (schneller als Gunicorn)
+    location /static/ {
+        alias /var/www/grundschul-woerterbuch/static/;
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Audio direkt aus dem audio/-Ordner ausliefern
+    location /static/audio/ {
+        alias /var/www/grundschul-woerterbuch/audio/;
+        expires 30d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Alles andere an Gunicorn weiterleiten
+    location / {
+        proxy_pass         http://127.0.0.1:5005;
+        proxy_set_header   Host              $host;
+        proxy_set_header   X-Real-IP         $remote_addr;
+        proxy_set_header   X-Forwarded-For   $proxy_add_x_forwarded_for;
+        proxy_set_header   X-Forwarded-Proto $scheme;
+    }
+}
+```
+
+Site aktivieren und nginx neu laden:
+
+```bash
+sudo ln -s /etc/nginx/sites-available/grundschul-woerterbuch \
+           /etc/nginx/sites-enabled/
+sudo nginx -t
+sudo systemctl reload nginx
+```
+
+### 8. HTTPS einrichten (empfohlen)
+
+Mit Certbot und Let's Encrypt:
+
+```bash
+sudo apt install certbot python3-certbot-nginx
+sudo certbot --nginx -d meinserver.example.com
+```
+
+Certbot passt die nginx-Konfiguration automatisch an und richtet die automatische Zertifikatserneuerung ein.
+
+### Wartung
+
+```bash
+# App nach Code-Änderungen neu starten
+sudo systemctl restart grundschul-woerterbuch
+
+# Datenbank nach neuen Wortdaten neu aufbauen
+cd /var/www/grundschul-woerterbuch
+source venv/bin/activate
+python3 scripts/import_words.py --rebuild
+sudo systemctl restart grundschul-woerterbuch
+
+# Logs einsehen
+sudo journalctl -u grundschul-woerterbuch -f
+```
+
+## Rechtschreibkategorien
+
+Das Wörterbuch kennt 12 Rechtschreibkategorien, jede mit eigenem SVG-Symbol in `static/rs_icons/`:
+
+| Kategorie | Symbol |
+|---|---|
+| Bausteinwort | Symbol Baustein.svg |
+| Mitsprechwort | Symbol Mitsprechwort.svg |
+| Wort mit Kürzezeichen | Symbol Kürzezeichen.svg |
+| Ableitungswort | Symbol Ableitung.svg |
+| Verlängerungswort | Symbol Verlängern.svg |
+| Merkwort mit ie / Dehnungs-h / V / ß / X / Qu / doppeltem Vokal | Symbol Merkwort.svg |
+| Großschreibung | Symbol Großschreibung.svg |

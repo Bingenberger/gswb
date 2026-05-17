@@ -104,8 +104,13 @@
                 {% if word.spelling_categories %}
                 <ul class="symbol-list">
                     {% for category in word.spelling_categories %}
+                    {% set icon = spelling_category_icons.get(category) %}
                     <li class="symbol-chip">
+                        {% if icon %}
+                        <img class="symbol-chip-icon" src="{{ url_for('static', filename=icon) }}" alt="{{ category }}">
+                        {% else %}
                         <img class="symbol-chip-icon" src="{{ url_for('static', filename='vendor/phosphor/tag.svg') }}" alt="">
+                        {% endif %}
                         <span>{{ category }}</span>
                     </li>
                     {% endfor %}
