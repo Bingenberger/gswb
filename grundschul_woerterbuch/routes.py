@@ -12,7 +12,7 @@ bp = Blueprint("main", __name__)
 
 @bp.after_request
 def add_api_cors_headers(response):
-    if request.path.startswith("/api/"):
+    if request.endpoint in ("main.api_autocomplete", "main.api_word") and request.method in ("GET", "HEAD", "OPTIONS"):
         response.headers["Access-Control-Allow-Origin"] = "*"
         response.headers["Access-Control-Allow-Methods"] = "GET"
     return response

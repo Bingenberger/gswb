@@ -38,10 +38,12 @@
 
         <section class="card review-actions">
             <form method="post" action="{{ url_for('main.review_approve', slug=entry.slug) }}">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                 <input type="hidden" name="next_slug" value="{{ entry.next_slug or entry.slug }}">
                 <button class="primary-button" type="submit" data-shortcut-label="B">Bestätigen</button>
             </form>
             <form method="post" action="{{ url_for('main.review_toggle_regeneration', slug=entry.slug) }}">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                 <button class="secondary-button review-secondary" type="submit" data-shortcut-label="R">
                     {% if entry.review.needs_regeneration %}Neu-Flag entfernen{% else %}Neu von KI erzeugen{% endif %}
                 </button>
@@ -82,6 +84,7 @@
             <p class="review-error">{{ editor_error }}</p>
             {% endif %}
             <form method="post" action="{{ url_for('main.review_save', slug=entry.slug) }}">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                 <textarea name="raw_json" class="review-textarea" spellcheck="false">{{ editor_text or entry.raw_json }}</textarea>
                 <div class="review-actions">
                     <button class="primary-button" type="submit" data-shortcut-label="S">Speichern</button>

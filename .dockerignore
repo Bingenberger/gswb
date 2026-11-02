@@ -1,0 +1,13 @@
+**
+!requirements.lock
+!app.py
+!grundschul_woerterbuch/
+!grundschul_woerterbuch/**
+!templates/
+!templates/**
+!static/
+!static/**
+**/__pycache__
+static/images/**
+static/audio/**
+static/uploads/**

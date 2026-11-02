@@ -1,0 +1,43 @@
+services:
+  app:
+    build: .
+    image: gswb:0.1.0-dev
+    user: "10001:10001"
+    read_only: true
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    tmpfs: ["/tmp:size=64m,mode=1777"]
+    mem_limit: 512m
+    cpus: 1.0
+    pids_limit: 128
+    environment:
+      SECRET_KEY_FILE: /run/secrets/session_key
+      HANDWRITING_MODE: ${HANDWRITING_MODE:-mock}
+      SESSION_COOKIE_SECURE: ${SESSION_COOKIE_SECURE:-1}
+      EDITOR_USERNAME: ${EDITOR_USERNAME:-}
+      EDITOR_PASSWORD_HASH_FILE: /run/secrets/editor_hash
+    secrets: [session_key, editor_hash]
+    volumes:
+      - dictionary:/app/data
+      - images:/app/static/images
+      - audio:/app/static/audio
+      - uploads:/app/static/uploads
+    ports: ["127.0.0.1:${GSWB_PORT:-8005}:8000"]
+    healthcheck:
+      test: [CMD, python, -c, "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health/ready', timeout=2)"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+    logging:
+      driver: json-file
+      options: {max-size: 10m, max-file: "3"}
+secrets:
+  session_key:
+    file: ${GSWB_SECRET_FILE:?GSWB_SECRET_FILE required}
+  editor_hash:
+    file: ${GSWB_EDITOR_HASH_FILE:?GSWB_EDITOR_HASH_FILE required}
+volumes:
+  dictionary:
+  images:
+  audio:
+  uploads:

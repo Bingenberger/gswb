@@ -127,6 +127,7 @@ def init_db(database_path):
         ensure_column(connection, "verb_forms", "praeteritum_wir", "TEXT")
         ensure_column(connection, "verb_forms", "praeteritum_ihr", "TEXT")
         ensure_column(connection, "verb_forms", "praeteritum_sie", "TEXT")
+        connection.execute("PRAGMA user_version = 1")
 
 
 def ensure_column(connection, table_name, column_name, column_type):
