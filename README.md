@@ -2,6 +2,51 @@
 
 Ein kindgerechtes Wörterbuch für die Grundschule – lokal lauffähig, auf Flask und SQLite aufgebaut. Worteinträge werden mit KI generiert und enthalten Silben, Rechtschreibstrategien, Wortfamilien, Übersetzungen und grammatische Formen.
 
+<!-- schulplattform:installation -->
+## Installation
+
+### Im Rahmen der Schulplattform
+
+Empfohlen für den Schulserver: Die [Schulplattform](https://github.com/Bingenberger/schulplattform) installiert diese App zusammen mit den
+anderen Schul-Apps auf einem leeren Ubuntu-24.04-Server, mit eigener Subdomain, TLS-Zertifikat, Mailversand,
+Sicherung und Dashboard. Sie verwendet das signierte Release-Image `ghcr.io/bingenberger/gswb`
+und die unveränderte `docker-compose.yml` dieses Repositorys plus eine Override-Datei.
+
+1. In der Plattformkonfiguration (`./install.sh configure` bzw. `/etc/schulplattform/platform.toml`)
+   unter `[apps.gswb]` `enabled = true` und den Hostnamen setzen, z. B. `woerterbuch.ihre-schule.de`,
+   und beim DNS-Provider einen A-Eintrag auf den Server anlegen.
+2. `./install.sh apply …` installiert die App. Migration, Proxy, Zertifikat und Sicherung übernimmt die Plattform.
+3. `./install.sh app-setup gswb` legt den Redaktionszugang an (Benutzername und Passwort am Terminal; gespeichert wird nur ein Werkzeug-Hash). Ohne diesen Schritt bleibt die Redaktion geschlossen, die öffentliche Suche funktioniert trotzdem.
+4. Daten vom bisherigen Server übernehmen: `./install.sh import gswb …` nach dem
+   [Umzugs-Runbook](https://github.com/Bingenberger/schulplattform/blob/main/docs/betrieb/umzug.md).
+
+### Standalone mit Docker Compose
+
+Ohne Plattform, z. B. zum Ausprobieren oder für einen eigenen Server mit eigenem Proxy.
+Benötigt Docker Engine mit Compose v2 (amd64). Die App lauscht danach nur auf `http://127.0.0.1:8005`.
+
+```sh
+mkdir -m 700 .private
+python3 -c "import secrets;print(secrets.token_urlsafe(48))" > .private/session-key
+: > .private/editor-hash              # leer = Redaktion geschlossen
+chmod 444 .private/session-key .private/editor-hash
+export GSWB_SECRET_FILE="$PWD/.private/session-key" GSWB_EDITOR_HASH_FILE="$PWD/.private/editor-hash"
+docker compose build
+docker compose run --rm app python -m grundschul_woerterbuch.migrate
+docker compose up -d
+```
+
+Für die Redaktion `EDITOR_USERNAME` setzen und einen Werkzeug-Passworthash in die Hashdatei schreiben
+(Details in [PLATFORM.md](PLATFORM.md)). Wortdaten, Bilder und Audio sind nicht im Image enthalten
+(siehe „Datenbank aufbauen“ und „Medien-Dateien“).
+
+Statt selbst zu bauen, kann das veröffentlichte Image verwendet werden (dann `docker compose build` weglassen):
+
+```sh
+docker pull ghcr.io/bingenberger/gswb:0.1.0 && docker tag ghcr.io/bingenberger/gswb:0.1.0 gswb:0.1.0-dev
+```
+<!-- /schulplattform:installation -->
+
 ## Was das Wörterbuch kann
 
 - **Fehlertolerante Suche** – exakte Treffer, Präfixsuche, Fehlschreibungen und unscharfe Suche (rapidfuzz), Autocomplete per JSON-API
@@ -42,7 +87,7 @@ audio/                    # MP3-Dateien (nicht im Repo)
 illustrationen/           # Quell-PNGs (nicht im Repo)
 ```
 
-## Installation
+## Lokale Entwicklung (nativ)
 
 ```bash
 python3 -m venv venv
@@ -53,7 +98,9 @@ pip install -r requirements.txt
 ## App starten
 
 ```bash
-flask --app app run --debug
+export SECRET_KEY=$(python3 -c "import secrets;print(secrets.token_urlsafe(48))")
+python -m grundschul_woerterbuch.migrate     # Schema anlegen bzw. prüfen (nicht mehr automatisch beim Start)
+SESSION_COOKIE_SECURE=0 flask --app app run --debug
 ```
 
 Die App läuft dann unter `http://127.0.0.1:5005/` (Port via `.flaskenv`).
@@ -66,7 +113,7 @@ Die JSON-Dateien in `data/import_words/` sind die Quelldaten. Aus ihnen wird die
 python3 scripts/import_words.py --rebuild
 ```
 
-Das Schema wird beim App-Start automatisch angelegt. Nach einem `--rebuild` invalidiert das Skript den Such-Cache automatisch.
+Das Schema legt `python -m grundschul_woerterbuch.migrate` an; beim App-Start geschieht das nicht mehr. Nach einem `--rebuild` invalidiert das Skript den Such-Cache automatisch.
 
 Wenn Beziehungen auf noch nicht vorhandene Wörter verweisen, landen diese in:
 - `data/missing_relation_words.txt` – alle fehlenden Zielwörter
@@ -168,6 +215,14 @@ Alle Einstellungen per Umgebungsvariable:
 | `GEMINI_CREDENTIALS_FILE` | `./key.json` | Vertex-AI-Service-Account |
 
 ## Server-Installation (Produktion)
+
+> **Historischer nativer Weg.** Empfohlen sind die Plattform oder Docker Compose (siehe „Installation“).
+> Wer nativ installiert, muss zusätzlich `SECRET_KEY` (mindestens 32 Zeichen) setzen und vor dem ersten
+> Start `python -m grundschul_woerterbuch.migrate` ausführen; ohne Redaktionskonfiguration bleibt `/editor` geschlossen.
+
+> **Historischer nativer Weg.** Empfohlen sind die Plattform oder Docker Compose (siehe „Installation“).
+> Wer nativ installiert, muss zusätzlich `SECRET_KEY` (mindestens 32 Zeichen) setzen und vor dem ersten
+> Start `python -m grundschul_woerterbuch.migrate` ausführen; ohne Redaktionskonfiguration bleibt `/editor` geschlossen.
 
 Die folgende Anleitung richtet sich an einen Ubuntu/Debian-Server mit nginx. Als WSGI-Server wird Gunicorn verwendet (in `requirements.txt` enthalten).
 
