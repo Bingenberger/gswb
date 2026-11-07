@@ -126,6 +126,67 @@ GET /api/autocomplete?q=Hun
 
 ---
 
+## GET /api/words
+
+Wortlisten für Leseübungen, z. B. Blitzlesen und Silbenrutsche der Grundschultafel.
+Alle Filter sind optional und lassen sich kombinieren.
+
+### Parameter
+
+| Parameter | Beschreibung |
+|---|---|
+| `kategorie` | Rechtschreibkategorie, z. B. `Mitsprechwort`; mehrfach oder kommagetrennt (eine davon muss passen) |
+| `wortart` | z. B. `Nomen`, `Verb`, `Adjektiv` |
+| `silben` | genaue Silbenzahl; alternativ `silben_min` / `silben_max` |
+| `buchstaben` | nur Wörter, die ausschließlich aus diesen Buchstaben bestehen, z. B. `maloi` (Groß-/Kleinschreibung egal) |
+| `enthaelt` | Buchstabengruppe, die vorkommen muss, z. B. `au` |
+| `max_laenge` | höchstens so viele Zeichen |
+| `mit_bild`, `mit_ton` | `1` = nur Wörter, deren Bild- bzw. Tondatei tatsächlich vorhanden ist |
+| `anzahl` | Anzahl der gelieferten Wörter (Standard 20, höchstens 200) |
+| `zufall` | `1` = zufällige Auswahl statt alphabetisch |
+
+### Beispielaufruf
+
+```
+GET /api/words?kategorie=Mitsprechwort&silben=2&mit_bild=1&zufall=1&anzahl=10
+```
+
+### Antwort (200 OK)
+
+```json
+{
+  "total": 447,
+  "words": [
+    {
+      "lemma": "Gabel",
+      "syllables": ["Ga", "bel"],
+      "part_of_speech": "Nomen",
+      "spelling_categories": ["Mitsprechwort"],
+      "image": "/static/images/Gabel.webp",
+      "audio": "/static/audio/Gabel.mp3"
+    }
+  ]
+}
+```
+
+`total` ist die Zahl aller Treffer, `words` enthält höchstens `anzahl` davon. `image` und
+`audio` sind Pfade auf diesem Server oder `null`, wenn die Datei fehlt.
+
+---
+
+## GET /api/word-filters
+
+Verfügbare Rechtschreibkategorien und Wortarten mit Anzahl, z. B. für Auswahlmenüs.
+
+```json
+{
+  "categories": [{ "category": "Bausteinwort", "count": 2031 }],
+  "parts_of_speech": [{ "part_of_speech": "Nomen", "count": 3120 }]
+}
+```
+
+---
+
 ## JavaScript-Beispiel
 
 ```js

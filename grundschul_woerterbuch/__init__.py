@@ -16,6 +16,7 @@ def create_app(test_config=None):
     from .services.handwriting_service import build_handwriting_service
     from .services.json_review_service import JsonReviewService
     from .services.search_service import SearchService
+    from .services.word_list_service import WordListService
 
     package_dir = Path(__file__).resolve().parent
     base_dir = package_dir.parent
@@ -71,6 +72,9 @@ def create_app(test_config=None):
 
     app.extensions["word_repository"] = repository
     app.extensions["search_service"] = search_service
+    app.extensions["word_list_service"] = WordListService(
+        app.config["DATABASE"], app.config["MEDIA_IMAGE_DIR"], app.config["MEDIA_AUDIO_DIR"]
+    )
     app.extensions["handwriting_service"] = handwriting_service
     app.extensions["json_review_service"] = json_review_service
 

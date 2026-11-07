@@ -12,7 +12,7 @@ bp = Blueprint("main", __name__)
 
 @bp.after_request
 def add_api_cors_headers(response):
-    if request.endpoint in ("main.api_autocomplete", "main.api_word") and request.method in ("GET", "HEAD", "OPTIONS"):
+    if request.endpoint in ("main.api_autocomplete", "main.api_word", "main.api_words", "main.api_word_filters") and request.method in ("GET", "HEAD", "OPTIONS"):
         response.headers["Access-Control-Allow-Origin"] = "*"
         response.headers["Access-Control-Allow-Methods"] = "GET"
     return response
@@ -194,6 +194,48 @@ def api_word(lemma):
         return jsonify({"error": "not_found"}), 404
 
     return jsonify(_public_word_payload(word))
+
+
+def _int_arg(name, minimum, maximum):
+    value = request.args.get(name, "").strip()
+    if not value:
+        return None
+    try:
+        number = int(value)
+    except ValueError:
+        return None
+    return max(minimum, min(maximum, number))
+
+
+def _flag(name):
+    return request.args.get(name, "").strip().lower() in ("1", "true", "ja", "yes")
+
+
+@bp.route("/api/words")
+def api_words():
+    """Word lists for reading tools, e.g. /api/words?kategorie=Mitsprechwort&silben=2&mit_bild=1"""
+    syllables = _int_arg("silben", 1, 12)
+    result = current_app.extensions["word_list_service"].find(
+        categories=[c.strip() for value in request.args.getlist("kategorie") for c in value.split(",") if c.strip()],
+        part_of_speech=request.args.get("wortart", "").strip() or None,
+        syllables_min=syllables if syllables is not None else _int_arg("silben_min", 1, 12),
+        syllables_max=syllables if syllables is not None else _int_arg("silben_max", 1, 12),
+        letters=request.args.get("buchstaben", "").strip()[:60] or None,
+        contains=request.args.get("enthaelt", "").strip()[:20] or None,
+        max_length=_int_arg("max_laenge", 1, 40),
+        with_image=_flag("mit_bild"),
+        with_audio=_flag("mit_ton"),
+        limit=_int_arg("anzahl", 1, 200) or 20,
+        shuffle=_flag("zufall"),
+    )
+    return jsonify(result)
+
+
+@bp.route("/api/word-filters")
+def api_word_filters():
+    """Available spelling categories and parts of speech (for filter menus)."""
+    service = current_app.extensions["word_list_service"]
+    return jsonify({"categories": service.categories(), "parts_of_speech": service.parts_of_speech()})
 
 
 SPELLING_CATEGORY_ICONS = {
